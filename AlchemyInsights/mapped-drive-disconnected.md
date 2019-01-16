@@ -1,0 +1,29 @@
+---
+title: ניתוק כונן ממופה
+ms.author: toresing
+author: tomresing
+manager: scotv
+ms.date: 12/17/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
+ms.openlocfilehash: 812694120d57b23c3ef27e1193d60f88e2184152
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: he-IL
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28292664"
+---
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>מיפוי כונני רשת ספריות SharePoint הופכים מנותק
+
+מיפוי ספריית מסמכים של SharePoint אל כונן רשת הוא זמני. עליך מדי פעם לפתוח את אתר SharePoint ב- Internet Explorer ולבחור **להישאר מחובר** כדי למנוע את הפעלת תאריך תפוגה. 
+  
+[קבל עזרה קביעת תצורה ופתרון של כונני רשת ממופים](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+  
+כדי לעבוד עם ספריה ב- Explorer קובץ, [לסנכרן קבצים SharePoint עם לקוח הסינכרון החדש OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) אשר כולל [קבצים לפי דרישה](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Access את כל הקבצים שלך OneDrive ללא שימוש בשטח אחסון מקומי.
+  
+

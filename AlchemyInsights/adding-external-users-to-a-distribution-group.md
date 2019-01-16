@@ -1,0 +1,46 @@
+---
+title: הוספת משתמשים חיצוניים לקבוצת הפצה?
+ms.author: v-crytho
+author: CrystalThomasMS
+ms.date: 8/22/2017
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
+ms.openlocfilehash: ed51d0e206469fce2a14c914c5cb1eff2052317b
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: he-IL
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28292841"
+---
+# <a name="adding-external-users-to-a-distribution-group"></a>הוספת משתמשים חיצוניים לקבוצת הפצה?
+
+הוספת איש קשר חיצוני התפלגות קבוצה (להרכבה) היא תהליך שלב 2:
+  
+1. צור איש קשר של דואר עבור משתמש חיצוני:
+    
+1. לחץ [כאן](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Contact) כדי לנווט אל הדף עריכת קשר בפורטל הניהול. 
+    
+2. לחץ על **הוספת איש קשר**.
+    
+3. הקלד את המידע עבור איש הקשר שלך ולאחר מכן לחץ על **שמור**.
+    
+2. הוסף איש קשר של דואר להרכבה שלך:
+    
+1. לחץ [כאן](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/groups) כדי לנווט אל הדף קבוצות. 
+    
+2. חפש להרכבה שברצונך להוסיף את המשתמש החיצוני ולאחר לחץ עליו כדי לפתוח את תיבת הדו-שיח עריכה.
+    
+3. לחץ על לחצן **ערוך** ברשימה **חברים** . 
+    
+4. לחץ על **הוספת חברים**.
+    
+5. בחר את איש הקשר של הדואר שיצרת על הצעד הקודם ולחץ על **שמור**.
+    
+אם גם לאחר ביצוע השלבים הבאים משתמשים חיצוניים שלך אין אפשרות לשלוח דוא ל להרכבה או אינך מקבל הודעות דואר אלקטרוני ממנו, אותו ניתן להרכבה מסומן כדי לאפשר הודעות דואר אלקטרוני רק ממשתמשים פנימית. באפשרותך לבדוק תצורה זו ולאחר מכן לתקן אותה לפי ההוראות [כאן](https://support.office.com/article/https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
+  
+ **הערה:** הוראות אלה אינם חלים אם סוג הקבוצה שלך היא "Office 365 הקבוצה" במקום "קבוצת תפוצה". אם זהו המקרה, באפשרותך להוסיף משתמש חיצוני ישירות לקבוצה מ- Outlook או ב- Outlook באינטרנט. ניתן למצוא הוראות להוספת לאורחים חיצוניים כמו גם הסבר מפורט על אורחים קבוצות O365 במאמר [זה](https://support.office.com/article/https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+  
+
