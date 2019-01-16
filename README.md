@@ -1,0 +1,2 @@
+## <a name="microsoft-open-source-code-of-conduct"></a>קוד מקור פתוח Microsoft ההתנהגות
+פרוייקט זה אימצו את [Microsoft פתח מקור קוד ההתנהגות](https://opensource.microsoft.com/codeofconduct/). לקבלת מידע נוסף ראה [קוד של קיום שאלות נפוצות](https://opensource.microsoft.com/codeofconduct/faq/) או פנה [opencode@microsoft.com](mailto:opencode@microsoft.com) עם שאלות נוספות או הערות.
