@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: he-IL
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383297"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 11/1/2019 | [מחיקת משתמשים](/AlchemyInsights/deleting-users) | השתנה |
 | 11/1/2019 | [פריסה חלקה כניסה יחידה](/AlchemyInsights/deploy-seamless-single-sign-on) | השתנה |
 | 11/1/2019 | [בטל Access ל- Yammer](/AlchemyInsights/disable-access-to-yammer) | השתנה |
+
+
+## <a name="week-of-january-14-2019"></a>שבוע של 14 בינואר 2019
+
+
+| פורסם ב |כותרת נושא | שינוי |
+|------|------------|--------|
+| 14/1/2019 | מציין מיקום של אלכימיה | הוסר |
+| 14/1/2019 | הוספת תחום אלכימיה | הוסר |
+| 14/1/2019 | [דף הבית של תובנות אלכימיה](/AlchemyInsights/index) | השתנה |
+| 17/1/2019 | [זהה filename הוא הטוב ביותר [כלל #-תיאור]](/AlchemyInsights/1-alchemy-insight-template) | נוסף |
