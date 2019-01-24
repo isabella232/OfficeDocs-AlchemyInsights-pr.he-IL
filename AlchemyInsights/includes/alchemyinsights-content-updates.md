@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383297"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454431"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383297"
 ## <a name="week-of-january-07-2019"></a>השבוע 07 בינואר 2019
 
 
-| פורסם ב |כותרת נושא | שינוי |
+| פורסם ב |כותרת נושא | שנה, |
 |------|------------|--------|
 | 7/1/2019 | [שנה את הסיסמה שלך](/AlchemyInsights/change-your-password-in-outlook.com) | נוסף |
 | 7/1/2019 | [שינוי הרשאות תיבת דואר](/AlchemyInsights/changing-permissions-on-a-mailbox) | נוסף |
@@ -207,7 +207,7 @@ ms.locfileid: "29383297"
 | 10/1/2019 | [מופיעה רקע שחור, או עיצוב תאים אינה נראית נכונה](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | נוסף |
 | 10/1/2019 | [Access נדחתה בעת מיפוי כונן ל- SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | נוסף |
 | 10/1/2019 | [Access נדחתה בעת הצגת זרימת עבודה](/AlchemyInsights/access-denied-when-viewing-a-workflow) | נוסף |
-| 10/1/2019 | [Access Services](/AlchemyInsights/access-services) | נוסף |
+| 10/1/2019 | Access Services | נוסף |
 | 10/1/2019 | [הפעל מנוי חדש עם מפתח מוצר](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | נוסף |
 | 10/1/2019 | [להפעיל את Office](/AlchemyInsights/activate-office) | נוסף |
 | 10/1/2019 | [הפעלת מנוי רשיון אמצעי האחסון Microsoft Office 365](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | נוסף |
@@ -218,7 +218,7 @@ ms.locfileid: "29383297"
 | 10/1/2019 | [הוספה או הסרה של כינוי דואר אלקטרוני עבור משתמש](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | נוסף |
 | 10/1/2019 | [הוספת מקומות למנוי משולמת מראש](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | נוסף |
 | 10/1/2019 | [הוספת מקומות למנוי משולמת מראש](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | נוסף |
-| 10/1/2019 | [הוספת משתמשים ל- Office 365](/AlchemyInsights/add-users-to-office-365) | נוסף |
+| 10/1/2019 | הוספת משתמשים ל- Office 365 | נוסף |
 | 10/1/2019 | [הוספת משתמשים חיצוניים לקבוצת הפצה?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | נוסף |
 | 10/1/2019 | [הוספת משתמשים חיצוניים](/AlchemyInsights/adding-external-users) | נוסף |
 | 10/1/2019 | [הפדרציה ADFS תפוגת התוקף של האישור](/AlchemyInsights/adfs-federation-certificate-expiring) | נוסף |
@@ -272,7 +272,7 @@ ms.locfileid: "29383297"
 | 10/1/2019 | [שינוי שם קבוצת מחשבים ב- SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | נוסף |
 | 10/1/2019 | [שינוי תדירות אתה משלם](/AlchemyInsights/change-how-often-you-pay) | נוסף |
 | 10/1/2019 | [שינוי רשות MDM](/AlchemyInsights/change-mdm-authority) | נוסף |
-| 10/1/2019 | [שינוי NameServers](/AlchemyInsights/change-nameservers) | נוסף |
+| 10/1/2019 | Change nameservers | נוסף |
 | 10/1/2019 | [שנה OneDrive עבור מיכסת אחסון עסקי](/AlchemyInsights/change-onedrive-for-business-storage-quota) | נוסף |
 | 10/1/2019 | [שינוי שיטת התשלום](/AlchemyInsights/change-payment-method) | נוסף |
 | 10/1/2019 | [שינוי הרשאות עבור SharePoint רשימה או ספריה](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | נוסף |
@@ -504,7 +504,7 @@ ms.locfileid: "29383297"
 | 11/1/2019 | [מופיעה רקע שחור, או עיצוב תאים אינה נראית נכונה](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | השתנה |
 | 11/1/2019 | [Access נדחתה בעת מיפוי כונן ל- SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | השתנה |
 | 11/1/2019 | [Access נדחתה בעת הצגת זרימת עבודה](/AlchemyInsights/access-denied-when-viewing-a-workflow) | השתנה |
-| 11/1/2019 | [Access Services](/AlchemyInsights/access-services) | השתנה |
+| 11/1/2019 | Access Services | השתנה |
 | 11/1/2019 | [הפעל מנוי חדש עם מפתח מוצר](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | השתנה |
 | 11/1/2019 | [להפעיל את Office](/AlchemyInsights/activate-office) | השתנה |
 | 11/1/2019 | [הפעלת מנוי רשיון אמצעי האחסון Microsoft Office 365](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | השתנה |
@@ -515,7 +515,7 @@ ms.locfileid: "29383297"
 | 11/1/2019 | [הוספה או הסרה של כינוי דואר אלקטרוני עבור משתמש](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | השתנה |
 | 11/1/2019 | [הוספת מקומות למנוי משולמת מראש](/AlchemyInsights/add-seats-to-a-prepaid-subscription-0) | השתנה |
 | 11/1/2019 | [הוספת מקומות למנוי משולמת מראש](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | השתנה |
-| 11/1/2019 | [הוספת משתמשים ל- Office 365](/AlchemyInsights/add-users-to-office-365) | השתנה |
+| 11/1/2019 | הוספת משתמשים ל- Office 365 | השתנה |
 | 11/1/2019 | [הוספת משתמשים חיצוניים לקבוצת הפצה?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | השתנה |
 | 11/1/2019 | [הוספת משתמשים חיצוניים](/AlchemyInsights/adding-external-users) | השתנה |
 | 11/1/2019 | [הפדרציה ADFS תפוגת התוקף של האישור](/AlchemyInsights/adfs-federation-certificate-expiring) | השתנה |
@@ -569,7 +569,7 @@ ms.locfileid: "29383297"
 | 11/1/2019 | [שינוי שם קבוצת מחשבים ב- SharePoint Online](/AlchemyInsights/change-domain-name-in-sharepoint-online) | השתנה |
 | 11/1/2019 | [שינוי תדירות אתה משלם](/AlchemyInsights/change-how-often-you-pay) | השתנה |
 | 11/1/2019 | [שינוי רשות MDM](/AlchemyInsights/change-mdm-authority) | השתנה |
-| 11/1/2019 | [שינוי NameServers](/AlchemyInsights/change-nameservers) | השתנה |
+| 11/1/2019 | Change nameservers | השתנה |
 | 11/1/2019 | [שנה OneDrive עבור מיכסת אחסון עסקי](/AlchemyInsights/change-onedrive-for-business-storage-quota) | השתנה |
 | 11/1/2019 | [שינוי שיטת התשלום](/AlchemyInsights/change-payment-method) | השתנה |
 | 11/1/2019 | [שינוי הרשאות עבור SharePoint רשימה או ספריה](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | השתנה |
@@ -637,7 +637,7 @@ ms.locfileid: "29383297"
 ## <a name="week-of-january-14-2019"></a>שבוע של 14 בינואר 2019
 
 
-| פורסם ב |כותרת נושא | שינוי |
+| פורסם ב |כותרת נושא | שנה, |
 |------|------------|--------|
 | 14/1/2019 | מציין מיקום של אלכימיה | הוסר |
 | 14/1/2019 | הוספת תחום אלכימיה | הוסר |
