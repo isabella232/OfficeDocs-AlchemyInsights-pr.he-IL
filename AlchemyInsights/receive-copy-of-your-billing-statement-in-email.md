@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
 ms.openlocfilehash: f3cf1efa9c8e342a11b7cc0859347769d330fe46
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28291802"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29472561"
 ---
 ניתן לבחור לקבל עותק של פירוט החיובים כקובץ מצורף להודעת דואר אלקטרוני. אם אתה בוחר באפשרות זו, שים לב לנקודות הבאות:
   
@@ -22,9 +22,9 @@ ms.locfileid: "28291802"
     
 - תקבל דוא ל נפרדת שני: אחד אשר מאפשרת לך לדעת כי שטר שלך מוכן, עם הוראות כדי להיכנס אל מרכז Admin כדי להציג אותו ולאחר שנייה דואר אלקטרוני מכיל את הצהרת החיוב כקובץ מצורף.
     
-כדי לקבל את הצהרת החיוב שלך בדואר אלקטרוני:
+לקבלת פירוט החיובים בדואר האלקטרוני
   
-1. במרכז admin, עבור אל דף [חיוב הודעות](https://go.microsoft.com/fwlink/p/?linkid=853212) , או לבחור **חיוב** \> **הודעות חיוב**.
+1. במרכז הניהול, עבור לדף [הודעות חיוב](https://go.microsoft.com/fwlink/p/?linkid=853212) או בחר **חיוב** \> **הודעות חיוב**.
     
     אם אתה משתמש ב- Office 365 Germany, עבור אל דף [הודעות חיוב](https://go.microsoft.com/fwlink/p/?linkid=853213) זה. 
     

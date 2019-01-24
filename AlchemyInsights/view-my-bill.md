@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
 ms.openlocfilehash: 6e4f8fbc8382d4f71f1163f97b6dab24fe762742
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28292741"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29472176"
 ---
 # <a name="view-my-bill"></a>הצג את החשבון שלי
 
-1. במרכז Admin, עבור אל הדף [שטרות](https://go.microsoft.com/fwlink/p/?linkid=848039) , או לבחור **חיוב** \> **שטרות**.
+1. במרכז הניהול, עבור לדף [חשבונות](https://go.microsoft.com/fwlink/p/?linkid=848039), או בחר **חיוב** \> **חשבונות**.
     
 2. בחר את החודש ואת התאריך של החשבונית הרצויה ולאחר מכן בחר באפשרות **הצג**.
     

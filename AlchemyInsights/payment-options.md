@@ -1,5 +1,5 @@
 ---
-title: אפשרויות תשלום
+title: אפשרויות תשלום.
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28292880"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29472759"
 ---
- **אפשרויות תשלום**
+ אפשרויות תשלום.
   
 כרטיס אשראי, חשבון בנק (חיוב ישיר) וחשבונית (תשלום בשיק או העברת כספים אלקטרונית)
   
@@ -32,12 +32,12 @@ ms.locfileid: "28292880"
   
 אם אתה משלם על-ידי חשבונית עבור המנוי שלך, תקבל הודעת דואר אלקטרוני שאומרת שמשפט החיוב שלך מוכן להציג. דואר אלקטרוני זה אינו מכיל עותק של הצהרת החיוב שלך. עם זאת, באפשרותך גם לבחור על [קבל עותק של הצהרת החיוב שלך בדואר אלקטרוני](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). הצהרת החיוב שלך כולל פרטים אודות האפשרויות שלך עבור ביצוע תשלום. אם תזין מספר (PO) של הזמנת רכש בעת רכישת מנוי, המספר מופיע המשפט החיוב שלך. לקבלת מידע אודות גישה משפטי חיוב, ראה [תצוגת עץ או החשבונית שלך](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **שנה את האופן שבו אתה משלם**
+ שנה את האופן שבו אתה משלם.
   
 אם ברצונך לשנות את האופן שבו אתה משלם עבור מנוי הנוכחי, בצע את ההוראות [כאן](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
  **מידע נוסף**
   
-[שכר עבור Office 365 שלך עבור מנוי עסקי](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[תשלום עבור המנוי שלך ל- Office 365 לעסקים](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 
