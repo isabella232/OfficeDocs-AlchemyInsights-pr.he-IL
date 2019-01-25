@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 20d69377-5244-4775-a489-acb0f838f095
 ms.openlocfilehash: 885ede6b17f7562b1694897e7b5e39ead0da8bff
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28292243"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29500679"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="b20f9-102">קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?</span><span class="sxs-lookup"><span data-stu-id="b20f9-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="fc7d3-102">קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?</span><span class="sxs-lookup"><span data-stu-id="fc7d3-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="b20f9-p101">ישנן כמה סיבות שונות מדוע ייתכן שתקבל שגיאה זו. לדוגמה:</span><span class="sxs-lookup"><span data-stu-id="b20f9-p101">There are a few different reasons why you might receive this error. For example:</span></span>
+<span data-ttu-id="fc7d3-p101">ישנן כמה סיבות שונות מדוע ייתכן שתקבל שגיאה זו. לדוגמה:</span><span class="sxs-lookup"><span data-stu-id="fc7d3-p101">There are a few different reasons why you might receive this error. For example:</span></span>
   
-- <span data-ttu-id="b20f9-105">ודא כי המנוי שלך חוקית **חיוב** \> דף **מנויים** במרכז הניהול של Office 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)).</span><span class="sxs-lookup"><span data-stu-id="b20f9-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Office 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)).</span></span>
+- <span data-ttu-id="fc7d3-105">ודא כי המנוי שלך חוקית **חיוב** \> דף **מנויים** במרכז הניהול של Office 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)).</span><span class="sxs-lookup"><span data-stu-id="fc7d3-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Office 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)).</span></span>
     
-- <span data-ttu-id="b20f9-106">הסימון עבור כל שתאריך הודעות **חיוב** \> דף **שטרות** במרכז הניהול של Office 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)).</span><span class="sxs-lookup"><span data-stu-id="b20f9-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Office 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)).</span></span>
+- <span data-ttu-id="fc7d3-106">הסימון עבור כל שתאריך הודעות **חיוב** \> דף **שטרות** במרכז הניהול של Office 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)).</span><span class="sxs-lookup"><span data-stu-id="fc7d3-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Office 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)).</span></span>
     
-- <span data-ttu-id="b20f9-p102">אם חיוב ומנויי עבור החשבון שלך לאחרונה עודכנו, ייתכן שיידרשו זמן להפיץ את השינויים. נסה שוב בעוד מספר דקות, ואם אם הבעיה נמשכת, פנה אלינו.</span><span class="sxs-lookup"><span data-stu-id="b20f9-p102">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate. Try again in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="fc7d3-p102">אם חיוב ומנויי עבור החשבון שלך לאחרונה עודכנו, ייתכן שיידרשו זמן להפיץ את השינויים. נסה שוב בעוד מספר דקות, ואם אם הבעיה נמשכת, פנה אלינו.</span><span class="sxs-lookup"><span data-stu-id="fc7d3-p102">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate. Try again in a few minutes, and if the issue persists, contact us.</span></span>
     
 
