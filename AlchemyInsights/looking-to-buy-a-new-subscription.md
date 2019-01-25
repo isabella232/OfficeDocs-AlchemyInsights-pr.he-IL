@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
 ms.openlocfilehash: c3c078f8fb058a409e0fe4aa427f86e328ae4ce7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28292127"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29472850"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>מחפש לקנות מנוי חדש?
 
@@ -36,7 +36,7 @@ ms.locfileid: "28292127"
   
 - [הקצאת רשיונות למשתמשים ב- Office 365 לעסקים](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [ביטול Office 365 עבור העסק](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- ביטול Office 365 לעסקים
     
 - אם אתה מעוניין בהחלפת מנויים, עיין [מעבר Office 365 שונים עבור תוכנית עסקית.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)
     
