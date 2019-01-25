@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
 ms.openlocfilehash: e59d45b1c6720187f0bc2274d54f48a49e54b33f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28292302"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29497871"
 ---
 # <a name="migrating-email-from-imap-email-system-to-office-365"></a>העברת דואר אלקטרוני מתוך מערכת דואר אלקטרוני של IMAP Office 365
 
