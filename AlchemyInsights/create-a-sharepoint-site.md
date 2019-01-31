@@ -2,29 +2,25 @@
 title: יצירת אתר SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 1/3/2019
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 00f3e971a4dda8b0f5feee1ad2f08101192a2816
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 92bb7b5f0a684936db52f6be9e00c8dff3378bb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472344"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657504"
 ---
-# <a name="create-a-sharepoint-site"></a><span data-ttu-id="4fbd5-102">יצירת אתר SharePoint</span><span class="sxs-lookup"><span data-stu-id="4fbd5-102">Create a SharePoint site</span></span>
+# <a name="create-a-sharepoint-site"></a><span data-ttu-id="37516-102">יצירת אתר SharePoint</span><span class="sxs-lookup"><span data-stu-id="37516-102">Create a SharePoint site</span></span>
 
-<span data-ttu-id="4fbd5-p101">כדי לנהל אתרים במרכז הניהול של SharePoint חדשה, עבור אל מרכז הניהול הנוכחית של SharePoint, לחץ על "נסה זאת כעת" בפינה הימנית העליונה ולאחר מכן בחר אתרים פעילים. לקבלת מידע אודות מרכז הניהול החדש של SharePoint, עיין [תחילת העבודה עם מרכז הניהול החדש של SharePoint.](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)</span><span class="sxs-lookup"><span data-stu-id="4fbd5-p101">To manage sites in the new SharePoint admin center, go to the current SharePoint admin center, click "Try it now" in the upper right, and then select Active sites. For information about the new SharePoint admin center, see [Get started with the new SharePoint admin center.](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center)</span></span>
+<span data-ttu-id="37516-p101">ראה [ניהול אתרים במרכז הניהול של SharePoint חדשה](https://docs.microsoft.com/sharepoint/manage-site-creation ) עבור אפשרויות יצירת אתר. בחר באפשרות זו כדי ליצור [אתר צוות](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (אשר תיצור קבוצת Office 365) או [אתר תקשורת](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). כדי ליצור [אתר קלאסי](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site), או אתר צוות חדש שאינו כולל קבוצת Office 365, לחץ על **אפשרויות אחרות**.</span><span class="sxs-lookup"><span data-stu-id="37516-p101">See [Manage sites in the new SharePoint admin center](https://docs.microsoft.com/sharepoint/manage-site-creation ) for site creation options. Select to create a [team site](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (which will create an Office 365 group) or a [communication site](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). To create a [classic site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site), or a new team site that doesn't include an Office 365 group, click **Other options**.</span></span> 
   
-1. <span data-ttu-id="4fbd5-105">לחץ על Create</span><span class="sxs-lookup"><span data-stu-id="4fbd5-105">Click **Create**.</span></span> 
-    
-2. <span data-ttu-id="4fbd5-p102">בחר באפשרות זו כדי ליצור אתר צוות (אשר תיצור קבוצת Office 365) או אתר תקשורת. כדי ליצור אתר קלאסי, או אתר צוות חדש שאינו כולל קבוצת Office 365, לחץ על **אפשרויות אחרות**. לקבלת מידע אודות תבניות אתר חדשות, ראה [יצירת אתר צוות ב- SharePoint Online](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) [וצור אתר התקשורת המקוונת של SharePoint](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb).</span><span class="sxs-lookup"><span data-stu-id="4fbd5-p102">Select to create a team site (which will create an Office 365 group) or a communication site. To create a classic site, or a new team site that doesn't include an Office 365 group, click **Other options**. For info about the new site templates, see [Create a team site in SharePoint Online](https://support.office.com/en-us/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) and [Create a communication site in SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb).</span></span>
-  
- <span data-ttu-id="4fbd5-p103">**הערה:** אין באפשרותך ליצור אתר חדש עם אותה כתובת URL של אתר קיים. אם למחוק אתר המעוניינים להשתמש מחדש של כתובת ה-URL, שאפשרי לאתר עם כתובת ה-URL שאתה מחפש לשימוש נמצא עדיין ב **למחוק אתרים.** לחץ על **אתרים נמחק**, האר את האתר כדי למחוק לצמיתות ובחר באפשרות לחצן **מחק** .</span><span class="sxs-lookup"><span data-stu-id="4fbd5-p103">**Note:** You cannot create a new site with the same URL of an existing site. If you deleted a site and are wishing to re-use the URL, it's possible the site with the URL you are looking to use is still present in **Deleted sites.** Click **Deleted sites**, highlight the site to permanently delete, and select the **Delete** button.</span></span> 
-  
- <span data-ttu-id="4fbd5-112">**הערה:** כדי לנהל מי יכול ליצור אתרים, ראה [יצירת אתר ניהול ב- SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation).</span><span class="sxs-lookup"><span data-stu-id="4fbd5-112">**Note:** To manage who can create sites, see [Manage site creation in SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/manage-site-creation).</span></span>
-    
-
+<span data-ttu-id="37516-106">עצות:</span><span class="sxs-lookup"><span data-stu-id="37516-106">Tips:</span></span>
+- <span data-ttu-id="37516-107">*אין אפשרות ליצור אתר עם אותה כתובת URL של אתר קיים. אם למחוק אתר המעוניינים להשתמש מחדש של כתובת ה-URL, הוא אפשרי שהאתר שנמחקו עדיין קיימת תחת **אתרים נמחק**. כדי לנהל למחוק אתרים, ראה [מחיקת אתר](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). כדי להסיר לחלוטין את אתר עם Powershell, עיין בדוגמה cmdlet [SPSite הסרה](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*</span><span class="sxs-lookup"><span data-stu-id="37516-107">*You cannot create a site with the same URL of an existing site. If you deleted a site and are wishing to re-use the URL, it's possible the deleted site still exists under **Deleted sites**. To manage deleted sites see, [Delete a Site](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). To completely remove a site with Powershell, see the [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet example.*</span></span>
+- <span data-ttu-id="37516-108">*ייתכן שמשתמשים מסוימים לא יוכלו ליצור אתר. ראה [יצירת אתר ניהול ב- SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*</span><span class="sxs-lookup"><span data-stu-id="37516-108">*Some users may not be able to create a site. See [Manage site creation in SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*</span></span>
+- <span data-ttu-id="37516-109">*קיימת אפשרות שהאתר מופיע תקוע בזמן **יצירת** זמן רב יותר מהצפוי. אם יותר מ- 24 שעות חלפו מאז שראית תחילה את הבעיה, היכנס כרטיס תמיכה. במקרים רבים, אנו אתה כבר עובד על פתרון. נא תן לנו לפחות 24 שעות להשלמת פתרון.*</span><span class="sxs-lookup"><span data-stu-id="37516-109">*It's possible the site appears stuck at **Creating** longer than expected. If more than 24 hours have passed since you first saw this issue, please log a support ticket. In many cases, we're already working on a solution. Please give us at least 24 hours to complete a solution.*</span></span>

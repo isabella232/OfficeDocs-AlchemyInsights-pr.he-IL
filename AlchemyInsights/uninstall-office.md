@@ -2,37 +2,33 @@
 title: הסרת התקנה של Office
 ms.author: janellem
 author: janellem
-ms.date: 12/19/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: השלבים שלהלן מתארים כיצד להסיר את ההתקנה של Office מכל מחשב.
-ms.openlocfilehash: 04111e20f94d7c5c16d4e25c57f7ace9eac91d57
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9eecacd13793dbf1c788daed5a90ae6e44f84397
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471949"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646672"
 ---
-<span data-ttu-id="022e3-103">השלבים שלהלן מתארים כיצד להסיר את ההתקנה של Office מכל מחשב.</span><span class="sxs-lookup"><span data-stu-id="022e3-103">The steps below describe how to uninstall Office from a PC.</span></span>
-  
-# <a name="uninstall-office"></a><span data-ttu-id="022e3-104">הסרת התקנה של Office</span><span class="sxs-lookup"><span data-stu-id="022e3-104">Uninstall Office</span></span>
+# <a name="uninstall-office"></a><span data-ttu-id="cb678-103">הסרת התקנה של Office</span><span class="sxs-lookup"><span data-stu-id="cb678-103">Uninstall Office</span></span>
 
-1. <span data-ttu-id="022e3-105">הורד והתקן את [התמיכה ומסייע השחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="022e3-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
-    
-    > [!TIP]
-    > <span data-ttu-id="022e3-p101">בהתאם לדפדפן שלך, כדי להשלים את התקנת התמיכה ומסייע השחזור, בחר באפשרות **הפעל** (בקצה), **פתיחה** מקובץ הפינה השמאלית התחתונה (ב- Chrome), או **לשמור את הקובץ** (ב- Firefox). בצע את ההנחיות כדי להשלים את ההתקנה.</span><span class="sxs-lookup"><span data-stu-id="022e3-p101">Depending on your browser, to complete the Support and Recovery Assistant install, select **Run** (in Edge), **Open** from the file in the lower-left corner (in Chrome), or **Save File** (in Firefox). Follow prompts to complete the installation.</span></span> 
+<span data-ttu-id="cb678-104">הורד והתקן את [התמיכה ומסייע השחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="cb678-104">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
   
-2. <span data-ttu-id="022e3-108">מתוך **מוצרים להסיר את ההתקנה של Office** , בחר את הגירסה שברצונך להסיר ובחר **הבא**.</span><span class="sxs-lookup"><span data-stu-id="022e3-108">From **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="cb678-105">כשהוא נפתח, מתוך **מוצרים להסיר את ההתקנה של Office** , בחר את הגירסה שברצונך להסיר ובחר **הבא**.</span><span class="sxs-lookup"><span data-stu-id="cb678-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-3. <span data-ttu-id="022e3-109">המשך לעבור מסכים והפעל מחדש את המחשב כאשר תתבקש לעשות זאת.</span><span class="sxs-lookup"><span data-stu-id="022e3-109">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="cb678-106">המשך לעבור מסכים והפעל מחדש את המחשב כאשר תתבקש לעשות זאת.</span><span class="sxs-lookup"><span data-stu-id="cb678-106">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="022e3-110">לאחר ההפעלה מחדש, התמיכה ומסייע השחזור פותח באופן אוטומטי מחדש כדי להשלים את תהליך הסרת ההתקנה.</span><span class="sxs-lookup"><span data-stu-id="022e3-110">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="cb678-107">לאחר ההפעלה מחדש, התמיכה ומסייע השחזור פותח באופן אוטומטי מחדש כדי להשלים את תהליך הסרת ההתקנה.</span><span class="sxs-lookup"><span data-stu-id="cb678-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-4. <span data-ttu-id="022e3-111">בצע את ההנחיות הנותרות, התקן מחדש את Office או לסגור המסייע.</span><span class="sxs-lookup"><span data-stu-id="022e3-111">Follow remaining prompts, and reinstall Office or close the assistant.</span></span>
+3. <span data-ttu-id="cb678-108">בצע את שאר ההנחיות, ולהתקין [מחדש את Office](https://portal.office.com/OLS/MySoftware.aspx) או לסגור המסייע.</span><span class="sxs-lookup"><span data-stu-id="cb678-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
-<span data-ttu-id="022e3-112">לקבלת רשימה של אפשרויות אחרות של הסרת התקנה, בחר [הסר את Office ממחשב](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA.aspx).</span><span class="sxs-lookup"><span data-stu-id="022e3-112">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA.aspx).</span></span>
+<span data-ttu-id="cb678-109">לקבלת רשימה של אפשרויות אחרות של הסרת התקנה, בחר [הסר את Office ממחשב](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="cb678-109">For a list of other uninstall options, select [Uninstall Office from a PC](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
 
