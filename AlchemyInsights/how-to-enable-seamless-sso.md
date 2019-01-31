@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 9ee9fe3a5cb9f1c40a1141a9abe241c4f7fdc360
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: abadf8e1fdba18a4c31f349498bc2abb75d66a43
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472726"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661140"
 ---
 # <a name="how-to-enable-seamless-sso"></a>כיצד לאפשר SSO חלקה
 
-אפשר SSO חלקה באמצעות [AD תכלת הרקיע להתחבר](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect).
+אפשר SSO חלקה באמצעות [AD תכלת הרקיע להתחבר](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-אם אתה מבצע התקנה חדשה של התחברות AD תכלת הרקיע, לבחור את [נתיב ההתקנה המותאמת אישית](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). בדף **משתמש כניסה** , בחר באפשרות **אפשר כניסה יחידה** . 
+אם אתה מבצע התקנה חדשה של התחברות AD תכלת הרקיע, לבחור את [נתיב ההתקנה המותאמת אישית](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). בדף **משתמש כניסה** , בחר באפשרות **אפשר כניסה יחידה** . 
   
 כדי לוודא כי הפכת SSO חלקה כראוי:
   
@@ -32,6 +32,6 @@ ms.locfileid: "29472726"
     
 3. ודא זה חלקה כניסה יחידה **זמין**.
     
-לקבלת מידע נוסף, ראה [תכלת הרקיע Active Directory חלקה כניסה יחידה: התחלה מהירה](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+לקבלת מידע נוסף, ראה [תכלת הרקיע Active Directory חלקה כניסה יחידה: התחלה מהירה](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
 

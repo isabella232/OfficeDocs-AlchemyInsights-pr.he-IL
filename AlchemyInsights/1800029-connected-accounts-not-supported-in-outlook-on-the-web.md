@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 2dc6690da30e44aa5c4a37d227274d2e4457e4b4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: cfcab462b38e25896353e844e881008ccfc1ad35
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472799"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662220"
 ---
 # <a name="connected-accounts-are-no-longer-supported"></a>חשבונות מחוברים אינן נתמכות עוד
 
-מיקרוסופט הסירה את היכולת להוסיף חשבונות חדשים ל- Outlook באינטרנט באמצעות התכונה חשבונות מחוברים ב- 15 בספטמבר, 2018 ויעצרו סינכרון חשבונות קיימים ב- 30 באוקטובר, 2018 שהיו מחוברים לפני ה-15 בספטמבר, 2018. ב- 15 בנובמבר, האפשרות חשבונות מחוברים ( **הגדרות** \> **דואר** \> **חשבונות**) יוסרו מ- Outlook באינטרנט. לקבלת מידע נוסף, ראה חשבונות [מחובר אינו נתמך עוד ב- Outlook דרך (אינטרנט Office 365 עבור חשבונות עסקיים)](https://support.office.com/en-us/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+מיקרוסופט הסירה את היכולת להוסיף חשבונות חדשים ל- Outlook באינטרנט באמצעות התכונה חשבונות מחוברים ב- 15 בספטמבר, 2018 ויעצרו סינכרון חשבונות קיימים ב- 30 באוקטובר, 2018 שהיו מחוברים לפני ה-15 בספטמבר, 2018. ב- 15 בנובמבר, האפשרות חשבונות מחוברים ( **הגדרות** \> **דואר** \> **חשבונות**) יוסרו מ- Outlook באינטרנט. לקבלת מידע נוסף, ראה חשבונות [מחובר אינו נתמך עוד ב- Outlook דרך (אינטרנט Office 365 עבור חשבונות עסקיים)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
 כדי להמשיך לראות דואר אלקטרוני מחשבונות אחרים: עדיין באפשרותך להעביר דואר אלקטרוני מחשבונות אלה ל- Outlook באינטרנט. לקבלת מידע נוסף, ראה:
   

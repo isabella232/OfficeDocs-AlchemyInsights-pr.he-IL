@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 17304586ab659d81099091df5836985bf15992e7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4310c499b8b19f5712bebed7e8a6666e4b602fda
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472598"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657540"
 ---
-[לפנות חינוך עבור מהדורת Minecraft עם Office 365](https://docs.microsoft.com/en-us/education/windows/get-minecraft-for-education)
+[לפנות חינוך עבור מהדורת Minecraft עם Office 365](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
 - **Minecraft: מהדורה השכלה** דורש 10 חלונות 
     
 - מבחנים או מנויים של **Minecraft: מהדורה השכלה** שיוצעו דיירים השכלה המנוהלים על-ידי תכלת הרקיע Active Directory (תכלת הרקיע AD) 
     
-  - אם בית הספר שלך אין דיירים AD תכלת הרקיע, [מנהל ה-IT יכולים להגדיר אחת](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft) כחלק מתהליך של קבלת **Minecraft: מהדורה השכלה**.
+  - אם בית הספר שלך אין דיירים AD תכלת הרקיע, [מנהל ה-IT יכולים להגדיר אחת](https://docs.microsoft.com/education/windows/school-get-minecraft) כחלק מתהליך של קבלת **Minecraft: מהדורה השכלה**.
     
   - חינוך office 365, כולל גירסאות מקוונות של יישומי Office בתוספת 1 טרה-בתים של אחסון מקוון הוא ללא תשלום עבור מורים ותלמידים. [הירשם בית הספר שלך עבור Office 365 חינוך](https://products.office.com/academic/office-365-education-plan).
     
   - אם בית הספר שלך יש מנוי Office 365 חינוך, כולל ללא תשלום מנוי AD תכלת הרקיע. [מנוי אוגר הפרסומת שלך-תכלת הרקיע ללא תשלום](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
     
-[ללמוד כיצד מורים יכולים לקבל ולהפיץ Minecraft: מהדורה השכלה](https://docs.microsoft.com/en-us/education/windows/teacher-get-minecraft).
+[ללמוד כיצד מורים יכולים לקבל ולהפיץ Minecraft: מהדורה השכלה](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[למד כיצד מנהלי IT יכולים לקבל ולהפיץ Minecraft: מהדורה השכלה](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft), וכיצד לנהל הרשאות עבור Minecraft.
+[למד כיצד מנהלי IT יכולים לקבל ולהפיץ Minecraft: מהדורה השכלה](https://docs.microsoft.com/education/windows/school-get-minecraft), וכיצד לנהל הרשאות עבור Minecraft.
   
 

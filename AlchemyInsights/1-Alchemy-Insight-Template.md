@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454215"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662931"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>נדרש הלקוח פונה H1, H2 אינו פועל
 טקסט דוגמה חסום - בצע הוראות אלה:
 
-1. הקבצים בתיקיה **AlchemyInsights** צריך להיות מזהה כלל ושם כלל מתוך [פורטל השותפים אלכימיה](https://alchemyportal.azurewebsites.net) mane.
+1. הקבצים בתיקיה **AlchemyInsights** צריך להיות מזהה כלל ושם כלל מתוך [פורטל השותפים אלכימיה של](https://alchemyportal.azurewebsites.net) שם הקובץ.
     1. לדוגמה ***976-How-to-enable-litigation-hold***
 1. השתמש את המטה-נתונים בחלק העליון של קובץ זה כתבנית שלך. דבר נוסף נדרש.
 1. [פורטל השותפים אלכימיה](https://alchemyportal.azurewebsites.net), נווט למטה למקטע **הכותרת תובנות לקוח:** ושימוש המצביעים בתור התחלה עבור כותרת H1 שלך לקבלת תובנות. 
@@ -34,3 +34,8 @@ ms.locfileid: "29454215"
     1. קישורים תמיד להיות אחד **"קישורים לאתר" / חיצוני** או **עמוק-קישורים לרכיבי ממשק משתמש**, קישורים פנימיים לא.
 
 וזו באמת כבר מעט ארוך מדי. שיטת העבודה המומלצת היא כ- 400 תווים---
+
+לאחר התוכן שלך מוכן, למשוך אותו על הענף בשידור חי. לאחר מכן, [פורטל השותפים אלכימיה](https://alchemyportal.azurewebsites.net) והזן את שם קובץ לתוך שדה כתובת url. ודא תובנה שנסקרו ופורסמו אומר "כן" ולאחר מכן לחץ על עדכון כלל. (הדבר ייראה תסדר אותה בגירסה החדשה של הפורטל - שחרור בקרוב.)
+
+![שדה כתובת url](media/for-content-team.PNG)
+

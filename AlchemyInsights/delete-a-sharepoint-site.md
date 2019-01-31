@@ -2,51 +2,30 @@
 title: מחק אתר SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472763"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660017"
 ---
 # <a name="delete-a-sharepoint-site"></a>מחק אתר SharePoint
-
- **מחיקת אתרים השייכים לקבוצת Office 365:**
+ **מחיקת אתרים ממרכז admin חדשה של SharePoint**
   
-כאשר משתמשים ליצור אתר צוות חדש מתוך דף הבית של SharePoint (או ליצור אתר צוות חדש מתוך התצוגה המקדימה של מרכז הניהול של SharePoint חדשה), קבוצה Office 365 המתאימה נוצר באופן אוטומטי. אתרי צוות מחובר קבוצה 365 office גם נוצרות בעת יצירת קבוצת Office 365 או צוות ב- Microsoft צוותים. כדי למחוק אתר SharePoint השייך לקבוצת Office 365, עליך למחוק את הקבוצה Office 365 עצמו. 
+כדי למחוק אתר פעיל, עבור אל מרכז הניהול הנוכחית של SharePoint, לחץ על "נסה זאת כעת" בפינה הימנית העליונה. בחר **אתרים פעילים**, בחר את האתר, ולאחר מכן בחר **מחק**. [תצוגת ושחזור למחוק אתרים במרכז הניהול של SharePoint חדשה](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), בחר **למחוק אתרים**. לקבלת מידע נוסף, ראה [ניהול אתרים במרכז admin החדשה של SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. עבור אל [הדף קבוצות של מרכז הניהול של Office 365](https://portal.office.com/adminportal/home#/groups).
+**חשוב:** אם האתר הוא חלק מדיניות שמירה, ייתכן שלא תוכל למחוק אותו עד האתר מוסר [האבטחה &amp; מרכז הניהוליים תאימות](https://protection.office.com/?rfr=AdminCenter#/homepage). לקבלת מידע נוסף, ראה [מבט כולל על מדיניות שמירה](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-2. בחר את תיבת הסימון לצד הקבוצה.
-  
-3. בחר **מחק**. 
-  
-הערה: בעת מחיקת קבוצה, תיתכן השהיה לפני האתר הוסר מ- SharePoint.
-  
- **מחיקת אתרים תקשורת או אתרים קלאסי:**
-  
-1. עבור אל האתר.
-  
-2. לחץ * * הגדרות * * (סמל גלגל גלגל שיניים) בפינה הימנית העליונה. 
-  
-3. לחץ על **הגדרות האתר**. תחת **מידע באתר** או **פעולות אתר**, לחץ על **מחק אתר זה**ולאחר מכן לחץ על **מחק**. 
-  
- **מחיקת אוסף אתרים של SharePoint:**
-  
-כדי למחוק אוסף אתרים קלאסי:
-  
-1. במרכז הניהול של SharePoint קלאסי, בדף אוספי אתרים, בחר את **תיבת הסימון** לצד אוסף האתרים. 
-  
-2. בכרטיסיה אוספי אתרים, בחר **למחוק.**
-  
- **למחוק אתר בטעות?**
-  
-ראה [שחזור אוסף אתרים שנמחק](https://go.microsoft.com/fwlink/?linkid=867660).
+עצות:
+- המנהלים הכללית ו- SharePoint המנהלים כעת באפשרותך למחוק אתרים השייכים מתוך **קבוצה של Office 365**. פעולה זו תמחק את הקבוצה ואת כל המשאבים שלו, כולל את תיבת הדואר של Outlook לוח שנה, ואת כל הערוצים צוותים. לקבלת מידע נוסף, ראה [מחיקת אתר SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- באפשרותך לשחזר אתרים שנמחק עבור 93 ימים. שים לב כי יש לשחזר קבוצות שנמחקו בתוך 30 יום. לקבלת מידע נוסף, ראה [תצוגת ושחזור למחוק אתרים](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- כדי להסיר לחלוטין את אתר עם Powershell, עיין בדוגמה cmdlet [SPSite הסרה](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) . 
   
 

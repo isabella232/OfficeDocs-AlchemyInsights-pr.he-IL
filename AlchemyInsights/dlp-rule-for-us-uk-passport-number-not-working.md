@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 716d1030d93ce006c36d7925fb132e974ae8feb4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5722f7b6c9a2f905fed2ef4164787e020260edf7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472416"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656424"
 ---
 האם אתה נתקל בבעיות עם **מניעת אובדן נתונים (DLP)** לא עובד המכיל תוכן **ארה ב / מספר דרכון בבריטניה** בעת שימוש בסוג מידע רגיש DLP ב- O365? אם כן, ודא כי התוכן שלך מכיל את המידע הדרוש עבור מה המדיניות DLP הוא מחפש כאשר חישובו. 
   
 לדוגמה, עבור **ארה ב / מספר דרכון בבריטניה** מוגדרת עם רמת הביטחון של 75%, הבאות מוערכים והמדיניות אפשרות לזהות עבור כלל להנעת 
   
-- **[תבנית:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** תשע ספרות 
+- **[תבנית:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** תשע ספרות 
     
-- **[תבנית:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** תשע ספרות עוקבים 
+- **[תבנית:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** תשע ספרות עוקבים 
     
-- **[בדיקת סיכום:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** לא, קיימת ללא בדיקת סיכום 
+- **[בדיקת סיכום:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** לא, קיימת ללא בדיקת סיכום 
     
-- **[הגדרה:](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** מדיניות DLP הוא 75% בטוח כי סוג זה של מידע רגיש זיהה if, בתוך מידת הקירבה של 300 תווים: 
+- **[הגדרה:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-77)** מדיניות DLP הוא 75% בטוח כי סוג זה של מידע רגיש זיהה if, בתוך מידת הקירבה של 300 תווים: 
     
   - הפונקציה Func_usa_uk_passport מחפש תוכן התואם את התבנית.
     
@@ -34,8 +34,8 @@ ms.locfileid: "29472416"
     
     לדוגמה, להפעיל דוגמת הבאה עבור **ארה ב / מספר דרכון בבריטניה** מדיניות: מספר דרכון אמריקאי 123456789 
     
-לקבלת מידע נוסף אודות מה נדרש עבור ארה ב / אנגליה מספר דרכון לאתר עבור התוכן שלך, עיין בסעיף הבא במאמר זה: [מראה מה ה רגיש סוגי מידע עבור ארצות הברית / מספר דרכון בבריטניה](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)
+לקבלת מידע נוסף אודות מה נדרש עבור ארה ב / אנגליה מספר דרכון לאתר עבור התוכן שלך, עיין בסעיף הבא במאמר זה: [מראה מה ה רגיש סוגי מידע עבור ארצות הברית / מספר דרכון בבריטניה](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us--uk-passport-number)
   
-באמצעות סוג אחר מידע רגיש מוכללים, ראה את המאמר הבא לקבלת מידע על מה נדרש עבור סוגים אחרים: [מה ה רגיש סוגי מידע לחפש](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+באמצעות סוג אחר מידע רגיש מוכללים, ראה את המאמר הבא לקבלת מידע על מה נדרש עבור סוגים אחרים: [מה ה רגיש סוגי מידע לחפש](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
 

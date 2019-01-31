@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: c71fce8621057093d23891c26f7b0285fdc8b9ed
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 589820c945fb20f00431655f9f53196e740bb38f
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472342"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655812"
 ---
 # <a name="troubleshoot-password-synchronization"></a>פתרון בעיות סינכרון סיסמאות
 
@@ -57,6 +57,6 @@ ms.locfileid: "29472342"
     
   - מאמת חשבונות ה-Active Directory Domain Services (AD DS) בשימוש על-ידי המחבר Active Directory מקומי בעל שם משתמש וסיסמה נכונים, סיסמה והרשאות הנדרש עבור סינכרון סיסמאות.
     
-לקבלת עזרה נוספת לפתרון בעיות סינכרון סיסמה, ראה [פתרון בעיות סינכרון סיסמאות עם סינכרון התחבר AD תכלת הרקיע](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+לקבלת עזרה נוספת לפתרון בעיות סינכרון סיסמה, ראה [פתרון בעיות סינכרון סיסמאות עם סינכרון התחבר AD תכלת הרקיע](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   
 

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 59f1aefaeec3d655b2388b00e7d58a8c2338504b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3b50bc96a879017b62e42e1849f72e68408a0d9d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472704"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662328"
 ---
 # <a name="conditional-access-with-intune"></a>Access מותנה עם Intune
 
@@ -25,10 +25,10 @@ ms.locfileid: "29472704"
     
 - הבטחת **תאימות מדיניות** **ומדיניות Access מותנה** מיועדים לקבוצות הרצוי של משתמשים. פעולה זו עשויה לדרוש יצירת קבוצות מסוימות של משתמשים ב- Active Directory תכלת הרקיע. 
     
-חומר קריאה נוסף
+קרא עוד:
   
-- [מותנה Access, שיטות עבודה מומלצות](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/best-practices)
+- [מותנה Access, שיטות עבודה מומלצות](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [תחילת העבודה עם Access מותנה](https://docs.microsoft.com/en-us/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [תחילת העבודה עם Access מותנה](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

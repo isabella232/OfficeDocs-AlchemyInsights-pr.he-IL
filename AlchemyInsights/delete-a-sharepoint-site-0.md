@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472608"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646384"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>מחיקת אתרים השייכים לקבוצת Office 365:
 
@@ -30,7 +30,7 @@ ms.locfileid: "29472608"
     
 הערה: בעת מחיקת קבוצה, תיתכן השהיה לפני האתר הוסר מ- SharePoint.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>מחיקת אתרים תקשורת או אתרים קלאסי:
+**מחיקת אתרים תקשורת או אתרים קלאסי:**
 
 1. עבור אל האתר.
   
@@ -38,7 +38,7 @@ ms.locfileid: "29472608"
   
 3. לחץ על **הגדרות האתר**. תחת **מידע באתר** או **פעולות אתר**, לחץ על **מחק אתר זה**ולאחר מכן לחץ על **מחק**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>מחיקת אוסף אתרים של SharePoint:
+**מחיקת אוסף אתרים של SharePoint:**
 
 כדי למחוק אוסף אתרים קלאסי:
   
@@ -46,7 +46,7 @@ ms.locfileid: "29472608"
     
 2. בכרטיסיה אוספי אתרים, בחר **למחוק.**
     
-## <a name="deleted-a-site-by-accident"></a>למחוק אתר בטעות?
+**למחוק אתר בטעות?**
 
 ראה [שחזור אוסף אתרים שנמחק](https://go.microsoft.com/fwlink/?linkid=867660).
   

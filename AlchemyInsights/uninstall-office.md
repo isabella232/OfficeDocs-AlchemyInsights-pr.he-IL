@@ -2,37 +2,33 @@
 title: הסרת התקנה של Office
 ms.author: janellem
 author: janellem
-ms.date: 12/19/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
 description: השלבים שלהלן מתארים כיצד להסיר את ההתקנה של Office מכל מחשב.
-ms.openlocfilehash: 04111e20f94d7c5c16d4e25c57f7ace9eac91d57
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 9eecacd13793dbf1c788daed5a90ae6e44f84397
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29471949"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646672"
 ---
-השלבים שלהלן מתארים כיצד להסיר את ההתקנה של Office מכל מחשב.
-  
 # <a name="uninstall-office"></a>הסרת התקנה של Office
 
-1. הורד והתקן את [התמיכה ומסייע השחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy).
-    
-    > [!TIP]
-    > בהתאם לדפדפן שלך, כדי להשלים את התקנת התמיכה ומסייע השחזור, בחר באפשרות **הפעל** (בקצה), **פתיחה** מקובץ הפינה השמאלית התחתונה (ב- Chrome), או **לשמור את הקובץ** (ב- Firefox). בצע את ההנחיות כדי להשלים את ההתקנה. 
+הורד והתקן את [התמיכה ומסייע השחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-2. מתוך **מוצרים להסיר את ההתקנה של Office** , בחר את הגירסה שברצונך להסיר ובחר **הבא**. 
+1. כשהוא נפתח, מתוך **מוצרים להסיר את ההתקנה של Office** , בחר את הגירסה שברצונך להסיר ובחר **הבא**. 
     
-3. המשך לעבור מסכים והפעל מחדש את המחשב כאשר תתבקש לעשות זאת.
+2. המשך לעבור מסכים והפעל מחדש את המחשב כאשר תתבקש לעשות זאת.
     
     לאחר ההפעלה מחדש, התמיכה ומסייע השחזור פותח באופן אוטומטי מחדש כדי להשלים את תהליך הסרת ההתקנה.
     
-4. בצע את ההנחיות הנותרות, התקן מחדש את Office או לסגור המסייע.
+3. בצע את שאר ההנחיות, ולהתקין [מחדש את Office](https://portal.office.com/OLS/MySoftware.aspx) או לסגור המסייע. 
     
-לקבלת רשימה של אפשרויות אחרות של הסרת התקנה, בחר [הסר את Office ממחשב](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA.aspx).
+לקבלת רשימה של אפשרויות אחרות של הסרת התקנה, בחר [הסר את Office ממחשב](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA).
   
 

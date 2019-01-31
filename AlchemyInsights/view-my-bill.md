@@ -11,21 +11,21 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 6e4f8fbc8382d4f71f1163f97b6dab24fe762742
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: acc6bc0afed1a1e0fa6e3665b1d266b8f26af577
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472176"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657648"
 ---
 # <a name="view-my-bill"></a>הצג את החשבון שלי
 
-1. במרכז הניהול, עבור לדף [חשבונות](https://go.microsoft.com/fwlink/p/?linkid=848039), או בחר **חיוב** \> **חשבונות**.
+1. במרכז Admin, עבור אל הדף [שטרות](https://go.microsoft.com/fwlink/p/?linkid=848039) , או לבחור **חיוב** \> **שטרות**.
     
 2. בחר את החודש ואת התאריך של החשבונית הרצויה ולאחר מכן בחר באפשרות **הצג**.
     
 3. בחר הזמנה ולאחר מכן בחר באפשרות **הצג פרטים**.
     
-לקבלת מידע נוסף, ראה [תצוגת עץ או החשבונית שלך](https://support.office.com/en-us/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).
+לקבלת מידע נוסף, ראה [תצוגת עץ או החשבונית שלך](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).
   
 
