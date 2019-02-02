@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662931"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697131"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>נדרש הלקוח פונה H1, H2 אינו פועל
-טקסט דוגמה חסום - בצע הוראות אלה:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>נדרש אלכימיה כותרת H1, H2 של אינם פועלים.
+ושיטות עבודה מומלצות הנחיות לעריכת אלכימיה:
 
+1. **לא לקנן תובנות אלכימיה בתיקיות**- פעולה זו תנתק את מבנה ה-url. אנו מביט לתוך תיקון זה.
 1. הקבצים בתיקיה **AlchemyInsights** צריך להיות מזהה כלל ושם כלל מתוך [פורטל השותפים אלכימיה של](https://alchemyportal.azurewebsites.net) שם הקובץ.
     1. לדוגמה ***976-How-to-enable-litigation-hold***
 1. השתמש את המטה-נתונים בחלק העליון של קובץ זה כתבנית שלך. דבר נוסף נדרש.
@@ -35,7 +36,6 @@ ms.locfileid: "29662931"
 
 וזו באמת כבר מעט ארוך מדי. שיטת העבודה המומלצת היא כ- 400 תווים---
 
-לאחר התוכן שלך מוכן, למשוך אותו על הענף בשידור חי. לאחר מכן, [פורטל השותפים אלכימיה](https://alchemyportal.azurewebsites.net) והזן את שם קובץ לתוך שדה כתובת url. ודא תובנה שנסקרו ופורסמו אומר "כן" ולאחר מכן לחץ על עדכון כלל. (הדבר ייראה תסדר אותה בגירסה החדשה של הפורטל - שחרור בקרוב.)
-
-![שדה כתובת url](media/for-content-team.PNG)
+לאחר התוכן שלך מוכן, למשוך אותו על הענף בשידור חי. לאחר מכן, [פורטל השותפים אלכימיה](https://alchemyportal.azurewebsites.net) והזן את שם קובץ לתוך שדה כתובת url. ודא תובנה שנסקרו ופורסמו אומר "כן" ולאחר מכן לחץ על עדכון כלל. **(הדבר ייראה תסדר אותה בגירסה החדשה של הפורטל - שחרור בקרוב.)** 
+ ![שדה כתובת url](media/for-content-team.PNG)
 
