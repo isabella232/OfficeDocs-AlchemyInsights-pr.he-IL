@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 3215eadb8555a194680326768adf58e021f0bd55
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 4cb1a0455bc9cbdd5b838e97e0e2e8b90f06ff93
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657828"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759460"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>בדיקת דואר אלקטרוני העברת הגדרות עבור תיבת דואר
 
@@ -30,6 +30,6 @@ ms.locfileid: "29657828"
   
 כדי לשלוח הוראות למשתמשים שלך כך שיוכל להגדיר את העברת דואר אלקטרוני על תיבות דואר משלהם, הצבע אותם להעביר [דואר אלקטרוני מ- Office 365 לחשבון דואר אלקטרוני אחר ](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). לתשומת לבך, שבאפשרותך להעביר לכתובת דואר אלקטרוני אחת בלבד. אם עליך להגדיר העברת לקבוצה של אנשים, ליצור רשימת תפוצה (תחת Groups), הוסף אליה משתמשים שלך והגדר מכן העברה לקבוצה זו.
   
-האם יש לך עובד לעזוב? ראה [הסרה של עובד לשעבר מ- Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) עבור הפעולות המומלצות שעליך לנקוט. 
+האם יש לך עובד לעזוב? ראה [הסרה של עובד לשעבר מ- Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx) עבור הפעולות המומלצות שעליך לנקוט. 
   
 

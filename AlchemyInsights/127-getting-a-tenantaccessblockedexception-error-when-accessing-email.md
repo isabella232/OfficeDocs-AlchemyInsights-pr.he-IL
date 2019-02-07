@@ -11,20 +11,20 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 2aefc2f77462c7461c8c5547f42502db27746f54
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 05d021a95e0f138ce2557e09bb0a657c67af9c92
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472179"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758381"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?
 
 ישנן כמה סיבות שונות מדוע ייתכן שתקבל שגיאה זו. לדוגמה:
   
-- ודא כי המנוי שלך חוקית **חיוב** \> דף **מנויים** במרכז הניהול של Office 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions)).
+- ודא כי המנוי שלך חוקית **חיוב** \> דף **מנויים** במרכז הניהול של Office 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
     
-- הסימון עבור כל שתאריך הודעות **חיוב** \> דף **שטרות** במרכז הניהול של Office 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview)).
+- הסימון עבור כל שתאריך הודעות **חיוב** \> דף **שטרות** במרכז הניהול של Office 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
     
 - אם חיוב ומנויי עבור החשבון שלך לאחרונה עודכנו, ייתכן שיידרשו זמן להפיץ את השינויים. נסה שוב בעוד מספר דקות, ואם אם הבעיה נמשכת, פנה אלינו.
     

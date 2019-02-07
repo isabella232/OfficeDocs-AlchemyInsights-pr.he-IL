@@ -11,23 +11,23 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: d537f1446318f1507f52297e547789fdf246b322
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 8e6a51bcc47eac7e76f55700091ecd86bc1634d7
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29500643"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759821"
 ---
 # <a name="permissions-and-public-folders"></a>הרשאות ותיקיות ציבוריות
 
 באפשרותך לשנות את ההרשאות על התיקיות הציבוריות שלך באמצעות Outlook, מרכז הניהול של Exchange (EAC), או PowerShell:
   
-- לקבלת הוראות של Outlook, [לחץ כאן](https://support.office.com/article/https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
+- לקבלת הוראות של Outlook, [לחץ כאן](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
     
-- לקבלת EAC, עיין [במאמר זה](https://support.office.com/article/https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) לקבלת הוראות. באפשרותך ללחוץ [כאן](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) כדי לנווט אל EAC. 
+- לקבלת EAC, עיין [במאמר זה](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) לקבלת הוראות. באפשרותך ללחוץ [כאן](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) כדי לנווט אל EAC. 
     
-- לקבלת Powershell, עיין [במאמר זה](https://support.office.com/article/https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) לקבלת הוראות אודות שימוש commandlet PublicFolderClientPermission הוספה. אם אתה זקוק להוראות להתחבר ל- Exchange Powershell, לחץ [כאן](https://support.office.com/article/https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
+- לקבלת Powershell, עיין [במאמר זה](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) לקבלת הוראות אודות שימוש commandlet PublicFolderClientPermission הוספה. אם אתה זקוק להוראות להתחבר ל- Exchange Powershell, לחץ [כאן](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     
-אם **משתמשים חיצוניים לא ניתן לשלוח הודעות דואר אלקטרוני לתיקיה ציבורית התומכים בדואר**, הסיבה לכך עשויה להיות התיקיה הציבורית חסר הרשאות הדרושות עבור מסירת דואר אלקטרוני חיצוני. באפשרותך לתקן זאת באמצעות הוראות Outlook [כאן](https://support.office.com/article/https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), או את ההוראות PowerShell [כאן](https://support.office.com/article/https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
+אם **משתמשים חיצוניים לא ניתן לשלוח הודעות דואר אלקטרוני לתיקיה ציבורית התומכים בדואר**, הסיבה לכך עשויה להיות התיקיה הציבורית חסר הרשאות הדרושות עבור מסירת דואר אלקטרוני חיצוני. באפשרותך לתקן זאת באמצעות הוראות Outlook [כאן](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), או את ההוראות PowerShell [כאן](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
   
 

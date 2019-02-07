@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ed51d0e206469fce2a14c914c5cb1eff2052317b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 5911d57786dfc512eade1c74831d4260e85b8a1c
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472749"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758093"
 ---
 # <a name="adding-external-users-to-a-distribution-group"></a>הוספת משתמשים חיצוניים לקבוצת הפצה?
 
@@ -21,7 +21,7 @@ ms.locfileid: "29472749"
   
 1. צור איש קשר של דואר עבור משתמש חיצוני:
     
-1. לחץ [כאן](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Contact) כדי לנווט אל הדף עריכת קשר בפורטל הניהול. 
+1. לחץ [כאן](https://admin.microsoft.com/adminportal/home#/Contact) כדי לנווט אל הדף עריכת קשר בפורטל הניהול. 
     
 2. לחץ על **הוספת איש קשר**.
     
@@ -29,7 +29,7 @@ ms.locfileid: "29472749"
     
 2. הוסף איש קשר של דואר להרכבה שלך:
     
-1. לחץ [כאן](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/groups) כדי לנווט אל הדף קבוצות. 
+1. לחץ [כאן](https://admin.microsoft.com/adminportal/home#/groups) כדי לנווט אל הדף קבוצות. 
     
 2. חפש להרכבה שברצונך להוסיף את המשתמש החיצוני ולאחר לחץ עליו כדי לפתוח את תיבת הדו-שיח עריכה.
     
@@ -39,8 +39,8 @@ ms.locfileid: "29472749"
     
 5. בחר את איש הקשר של הדואר שיצרת על הצעד הקודם ולחץ על **שמור**.
     
-אם גם לאחר ביצוע השלבים הבאים משתמשים חיצוניים שלך אין אפשרות לשלוח דוא ל להרכבה או אינך מקבל הודעות דואר אלקטרוני ממנו, אותו ניתן להרכבה מסומן כדי לאפשר הודעות דואר אלקטרוני רק ממשתמשים פנימית. באפשרותך לבדוק תצורה זו ולאחר מכן לתקן אותה לפי ההוראות [כאן](https://support.office.com/article/https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
+אם גם לאחר ביצוע השלבים הבאים משתמשים חיצוניים שלך אין אפשרות לשלוח דוא ל להרכבה או אינך מקבל הודעות דואר אלקטרוני ממנו, אותו ניתן להרכבה מסומן כדי לאפשר הודעות דואר אלקטרוני רק ממשתמשים פנימית. באפשרותך לבדוק תצורה זו ולאחר מכן לתקן אותה לפי ההוראות [כאן](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
   
- **הערה:** הוראות אלה אינם חלים אם סוג הקבוצה שלך היא "Office 365 הקבוצה" במקום "קבוצת תפוצה". אם זהו המקרה, באפשרותך להוסיף משתמש חיצוני ישירות לקבוצה מ- Outlook או ב- Outlook באינטרנט. ניתן למצוא הוראות להוספת לאורחים חיצוניים כמו גם הסבר מפורט על אורחים קבוצות O365 במאמר [זה](https://support.office.com/article/https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **הערה:** הוראות אלה אינם חלים אם סוג הקבוצה שלך היא "Office 365 הקבוצה" במקום "קבוצת תפוצה". אם זהו המקרה, באפשרותך להוסיף משתמש חיצוני ישירות לקבוצה מ- Outlook או ב- Outlook באינטרנט. ניתן למצוא הוראות להוספת לאורחים חיצוניים כמו גם הסבר מפורט על אורחים קבוצות O365 במאמר [זה](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   
 

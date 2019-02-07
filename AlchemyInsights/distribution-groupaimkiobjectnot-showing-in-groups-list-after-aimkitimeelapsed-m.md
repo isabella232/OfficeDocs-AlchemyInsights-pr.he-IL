@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
-ms.openlocfilehash: f459c0bb2dce61a0a0c2e34ac8e37ebd3ebfc3c3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6846f8b2c3980801e54876da2e8fea527b26a804
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472814"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759929"
 ---
 "{AimKIObject}" אינו מוצג ברשימה קבוצות לאחר דקות {AimKITimeElapsed}
 
@@ -21,6 +21,6 @@ ms.locfileid: "29472814"
 
 הקבוצה שלך "{AimKIObject}" נוצר {AimKITimeElapsed} לפני דקות. בדרך כלל אינה אורכת יותר מ- 60 דקות עבור קבוצת תפוצה חדשה תופיע במרכז Admin.
   
-ייתכן שתוכל להשתמש הנמענים -\> התכונה קבוצות ב [מרכז הניהול של Exchange](https://support.office.com/article/https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) כדי לנהל את הקבוצה שלך כעת, או השתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה. 
+ייתכן שתוכל להשתמש הנמענים -\> התכונה קבוצות ב [מרכז הניהול של Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) כדי לנהל את הקבוצה שלך כעת, או השתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה. 
   
 

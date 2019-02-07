@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 6c9750f6b2fb61c09dff2bc86e0a51d2d8c80270
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 0c4ccf9b3b1e1666430013b8f827b212688a73af
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656100"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759137"
 ---
 # <a name="change-a-users-email-address"></a>שינוי כתובת דואר אלקטרוני של משתמש
 
@@ -38,6 +38,6 @@ ms.locfileid: "29656100"
     
 6. בחר באפשרות **שמור**, לאחר מכן **סגור**, ובזאת סיימת!
     
-לא היה קל זה? לקבלת פרטים נוספים וצעדים עם צילומי מסך, להוציא מאמר זה: [לשנות את שם המשתמש ואת כתובת ב- Office 365 דואר אלקטרוני](https://support.office.com/article/https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+לא היה קל זה? לקבלת פרטים נוספים וצעדים עם צילומי מסך, להוציא מאמר זה: [לשנות את שם המשתמש ואת כתובת ב- Office 365 דואר אלקטרוני](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
   
 
