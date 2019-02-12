@@ -838,3 +838,57 @@
 | 30/1/2019 | [123 קבלת חשבון ללא זמין שגיאה ב- OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | השתנה |
 | 1/2/2019 | [זהה filename הוא הטוב ביותר [כלל #-תיאור]](/AlchemyInsights/1-alchemy-insight-template) | השתנה |
 | 1/2/2019 | [שינוי הרשאות תיבת דואר](/AlchemyInsights/changing-permissions-on-a-mailbox) | השתנה |
+
+
+## <a name="week-of-february-04-2019"></a>השבוע 04 בפברואר, 2019
+
+
+| פורסם ב |כותרת נושא | שינוי |
+|------|------------|--------|
+| 4/2/2019 | [הוספת משתמשים ל- Office 365](/AlchemyInsights/add-users-to-office-365) | השתנה |
+| 6/2/2019 | [העובד לעזוב](/AlchemyInsights/employee-leaving) | השתנה |
+| 6/2/2019 | [ניהול Admin](/AlchemyInsights/admin-takeover) | השתנה |
+| 6/2/2019 | [127 קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | השתנה |
+| 6/2/2019 | [959 שינוי שם התצוגה](/AlchemyInsights/959-change-display-name) | השתנה |
+| 6/2/2019 | [הוספה או הסרה של כינוי דואר אלקטרוני עבור משתמש](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | השתנה |
+| 6/2/2019 | הוספת מקומות למנוי משולמת מראש | הוסר |
+| 6/2/2019 | [הוספת משתמשים ל- Office 365](/AlchemyInsights/add-users-to-office-365) | השתנה |
+| 6/2/2019 | [הוספת משתמשים חיצוניים לקבוצת הפצה?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | השתנה |
+| 6/2/2019 | Admin - תוכנית ההתקנה של Office 365 הכללית וניהול | הוסר |
+| 6/2/2019 | ניהול - ניהול משתמשים, קבוצות ובמשאבים שלי | הוסר |
+| 6/2/2019 | Admin - התחום ההתקנה ואת הגדרות ה-DNS | הוסר |
+| 6/2/2019 | Admin - כניסה ובעיות סיסמה | הוסר |
+| 6/2/2019 | [ביטול מנוי Office 365](/AlchemyInsights/cancel-office-365-subscription) | השתנה |
+| 6/2/2019 | [שינוי שם משתמש וכתובת דוא](/AlchemyInsights/change-a-user-s-name-and-email-address) | השתנה |
+| 6/2/2019 | מסחר - ניהול חשבונות, תשלומים, מנויים ו רשיונות | הוסר |
+| 6/2/2019 | [קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | השתנה |
+| 6/2/2019 | [נתקל בבעיות מסירה של דואר אלקטרוני?](/AlchemyInsights/having-email-delivery-issues-0) | השתנה |
+| 6/2/2019 | [נתקל בבעיות מסירה של דואר אלקטרוני?](/AlchemyInsights/having-email-delivery-issues) | השתנה |
+| 6/2/2019 | [נתקל בבעיות בקבלת Outlook כדי להתחבר?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | השתנה |
+| 6/2/2019 | [נתקל בבעיות בקבלת Outlook כדי להתחבר?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | השתנה |
+| 6/2/2019 | Intune - הורדה, התקנה ושימוש Intune | הוסר |
+| 6/2/2019 | [בעיה עם Skype עבור העסק?](/AlchemyInsights/issue-with-skype-for-business) | השתנה |
+| 6/2/2019 | ODSP | הוסר |
+| 6/2/2019 | לקוח office - Excel | הוסר |
+| 6/2/2019 | [המשתמש השחזור נמחק](/AlchemyInsights/restore-deleted-user) | השתנה |
+| 6/2/2019 | [אירוע שירות בביצוע](/AlchemyInsights/service-incident-in-progress-0) | השתנה |
+| 6/2/2019 | [אירוע שירות בביצוע](/AlchemyInsights/service-incident-in-progress-1) | השתנה |
+| 6/2/2019 | [אירוע שירות בביצוע](/AlchemyInsights/service-incident-in-progress-2) | השתנה |
+| 6/2/2019 | [אירוע שירות בביצוע](/AlchemyInsights/service-incident-in-progress-3) | השתנה |
+| 6/2/2019 | [אירוע שירות בביצוע](/AlchemyInsights/service-incident-in-progress-4) | השתנה |
+| 6/2/2019 | [אירוע שירות בביצוע](/AlchemyInsights/service-incident-in-progress-5) | השתנה |
+| 6/2/2019 | [אירוע שירות בביצוע](/AlchemyInsights/service-incident-in-progress) | השתנה |
+| 6/2/2019 | [הגדרת הפרוייקט](/AlchemyInsights/setting-up-project) | השתנה |
+| 6/2/2019 | הגדרת תאימות תכונות כגון ארכיון, שמירה, תביעה משפטית, גילוי אלקטרוני ו- MDM | הוסר |
+| 6/2/2019 | באמצעות תוכנית ההתקנה במצב לא מקוון עבור Office | הוסר |
+| 6/2/2019 | Yammer - תוכנית ההתקנה והשימוש שירותי Yammer | הוסר |
+| 7/2/2019 | [Excel קורס?](/AlchemyInsights/excel-crashing) | השתנה |
+| 7/2/2019 | [כיצד להוסיף או לערוך של VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | השתנה |
+| 7/2/2019 | [לפנות חינוך עבור מהדורת Minecraft עם Office 365](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | השתנה |
+| 7/2/2019 | [606 מידע אודות הקצאה](/AlchemyInsights/606-information-on-delegation) | השתנה |
+| 7/2/2019 | [הקבוצה שלך אינו מופיע ברשימה קבוצות](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | השתנה |
+| 8/2/2019 | [עצות מדיניות DLP לא עובד](/AlchemyInsights/dlp-policy-tips-not-working) | השתנה |
+| 8/2/2019 | [כלל DLP עבור ארה ב / אנגליה מספר דרכון לא עובד](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | השתנה |
+| 8/2/2019 | [לפנות חינוך עבור office 365](/AlchemyInsights/office-365-education-for-free) | השתנה |
+| 8/2/2019 | [Licences נדרש עבור Microsoft לביצוע](/AlchemyInsights/required-licences-for-microsoft-todo) | השתנה |
+| 8/2/2019 | [מדיניות שמירה במרכז הניהול של Exchange אינו פועל](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | השתנה |
