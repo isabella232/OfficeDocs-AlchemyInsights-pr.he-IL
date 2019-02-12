@@ -7,19 +7,19 @@ ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 28278db6e2438732a1d175d27dcca5c744c1de3a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472528"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29926605"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a><span data-ttu-id="d090c-102">בבעיות משלים רכישה בפורטל של Office 365</span><span class="sxs-lookup"><span data-stu-id="d090c-102">Trouble completing a purchase in the Office 365 portal</span></span>
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a><span data-ttu-id="c83a9-102">בבעיות משלים רכישה בפורטל של Office 365</span><span class="sxs-lookup"><span data-stu-id="c83a9-102">Trouble completing a purchase in the Office 365 portal</span></span>
 
-<span data-ttu-id="d090c-p101">בעת ניסיון לבצע רכישה, אם כבר עבר בפניך מספר פעמים כדי להיכנס בפורטל של Office 365, או שמתקבלת הודעה שנמצאה בעיה, השלב הראשון הטוב ביותר הוא לנסות להשתמש במצב inprivate/incognito של הדפדפן שלך. לאחר פתיחת חלון inprivate/incognito של, עבור אל אתר [portal.office.com](https://portal.office.com) ו להיכנס באמצעות האישורים שלך admin. לאחר מכן המשך כדי להשלים את הרכישה.</span><span class="sxs-lookup"><span data-stu-id="d090c-p101">When attempting to make a purchase, if you've been prompted multiple times to sign in to the Office 365 portal, or you receive a message that an issue was found, the best first step is to try using your browser's inprivate/incognito mode. After opening an inprivate/incognito window, go to the [portal.office.com](https://portal.office.com) site and log in with your admin credentials. Then proceed to complete your purchase.</span></span> 
+<span data-ttu-id="c83a9-p101">בעת ניסיון לבצע רכישה, אם כבר עבר בפניך מספר פעמים כדי להיכנס בפורטל של Office 365, או שמתקבלת הודעה שנמצאה בעיה, השלב הראשון הטוב ביותר הוא לנסות להשתמש במצב inprivate/incognito של הדפדפן שלך. לאחר פתיחת חלון inprivate/incognito של, עבור אל אתר [portal.office.com](https://portal.office.com) ו להיכנס באמצעות האישורים שלך admin. לאחר מכן המשך כדי להשלים את הרכישה.</span><span class="sxs-lookup"><span data-stu-id="c83a9-p101">When attempting to make a purchase, if you've been prompted multiple times to sign in to the Office 365 portal, or you receive a message that an issue was found, the best first step is to try using your browser's inprivate/incognito mode. After opening an inprivate/incognito window, go to the [portal.office.com](https://portal.office.com) site and log in with your admin credentials. Then proceed to complete your purchase.</span></span> 
   
 
