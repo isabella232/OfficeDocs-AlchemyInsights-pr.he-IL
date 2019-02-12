@@ -6,21 +6,21 @@ ms.date: 12/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 93701e559c04c3c1048570255c2b3f2425b976be
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 5d7502e88ad17fd0e526d7f7cca56fe173275d84
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29659412"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29912241"
 ---
-# <a name="set-up-spf-in-office-365"></a><span data-ttu-id="1658a-102">הגדרת SPF ב- Office 365</span><span class="sxs-lookup"><span data-stu-id="1658a-102">Set up SPF in Office 365</span></span>
+# <a name="set-up-spf-in-office-365"></a><span data-ttu-id="89da1-102">הגדרת SPF ב- Office 365</span><span class="sxs-lookup"><span data-stu-id="89da1-102">Set up SPF in Office 365</span></span>
 
-<span data-ttu-id="1658a-p101">עדכון רשומות ה-DNS שלך כך שיהיה באפשרותך להשתמש Framework מדיניות השולח (SPF) עם התחום המותאם אישית שלך לאימות דואר אלקטרוני יוצאת נשלח מתוך התחום המותאם אישית שלך. פעולה זו מסייעת למנוע מאחרים "מזייף" דואר כאילו נשלחו מתוך קבוצת המחשבים שלך.</span><span class="sxs-lookup"><span data-stu-id="1658a-p101">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain. This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
+<span data-ttu-id="89da1-p101">עדכון רשומות ה-DNS שלך כך שיהיה באפשרותך להשתמש Framework מדיניות השולח (SPF) עם התחום המותאם אישית שלך לאימות דואר אלקטרוני יוצאת נשלח מתוך התחום המותאם אישית שלך. פעולה זו מסייעת למנוע מאחרים "מזייף" דואר כאילו נשלחו מתוך קבוצת המחשבים שלך.</span><span class="sxs-lookup"><span data-stu-id="89da1-p101">Update your DNS records so that you can use a Sender Policy Framework (SPF) with your custom domain to validate outbound email sent from your custom domain. This helps prevent others from "spoofing" mail as if it were sent from your domain.</span></span>
   
-- [<span data-ttu-id="1658a-105">הגדרת SPF ב- Office 365 כדי לסייע במניעת זיוף</span><span class="sxs-lookup"><span data-stu-id="1658a-105">Set up SPF in Office 365 to help prevent spoofing </span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [<span data-ttu-id="89da1-105">הגדרת SPF ב- Office 365 כדי לסייע במניעת זיוף</span><span class="sxs-lookup"><span data-stu-id="89da1-105">Set up SPF in Office 365 to help prevent spoofing </span></span>](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     
-- [<span data-ttu-id="1658a-106">עזרה בהגדרת כל רשומות DNS</span><span class="sxs-lookup"><span data-stu-id="1658a-106">Help setting up all DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [<span data-ttu-id="89da1-106">עזרה בהגדרת כל רשומות DNS</span><span class="sxs-lookup"><span data-stu-id="89da1-106">Help setting up all DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
     
 
