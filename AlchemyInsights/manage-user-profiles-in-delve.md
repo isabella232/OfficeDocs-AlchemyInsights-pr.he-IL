@@ -1,35 +1,35 @@
 ---
 title: ניהול פרופילי משתמשים ב- Delve
 ms.author: ponincev
-author: ponincev
+author: pebaum
 ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 67021c2ca82a6876957f3741e832a32f412fa1cc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5e8cc5d68afd5c35a503db2333ac620760cf3a8c
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900319"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969714"
 ---
-# <a name="manage-user-profiles-in-delve"></a><span data-ttu-id="018bc-102">ניהול פרופילי משתמשים ב- Delve</span><span class="sxs-lookup"><span data-stu-id="018bc-102">Manage user profiles in Delve</span></span>
+# <a name="manage-user-profiles-in-delve"></a><span data-ttu-id="6b6b8-102">ניהול פרופילי משתמשים ב- Delve</span><span class="sxs-lookup"><span data-stu-id="6b6b8-102">Manage user profiles in Delve</span></span>
 
-<span data-ttu-id="018bc-p101">Office Delve מאפשר למשתמשים לנהל בפרופיל המשתמש שלו ב- Office 365. משתמשים יכולים:</span><span class="sxs-lookup"><span data-stu-id="018bc-p101">Office Delve lets users manage their Office 365 user profile. Users can:</span></span>
+<span data-ttu-id="6b6b8-p101">Office Delve מאפשר למשתמשים לנהל בפרופיל המשתמש שלו ב- Office 365. משתמשים יכולים:</span><span class="sxs-lookup"><span data-stu-id="6b6b8-p101">Office Delve lets users manage their Office 365 user profile. Users can:</span></span>
   
-- <span data-ttu-id="018bc-105">הצג ועדכן את המידע שלהם</span><span class="sxs-lookup"><span data-stu-id="018bc-105">View and update their information</span></span>
+- <span data-ttu-id="6b6b8-105">הצג ועדכן את המידע שלהם</span><span class="sxs-lookup"><span data-stu-id="6b6b8-105">View and update their information</span></span>
     
-- <span data-ttu-id="018bc-106">לשמור על פרטיות מידע מסוים</span><span class="sxs-lookup"><span data-stu-id="018bc-106">Keep some information private</span></span>
+- <span data-ttu-id="6b6b8-106">לשמור על פרטיות מידע מסוים</span><span class="sxs-lookup"><span data-stu-id="6b6b8-106">Keep some information private</span></span>
     
-- <span data-ttu-id="018bc-107">שינוי תמונת הפרופיל או השער שלהם</span><span class="sxs-lookup"><span data-stu-id="018bc-107">Change their profile or cover picture</span></span>
+- <span data-ttu-id="6b6b8-107">שינוי תמונת הפרופיל או השער שלהם</span><span class="sxs-lookup"><span data-stu-id="6b6b8-107">Change their profile or cover picture</span></span>
     
-- <span data-ttu-id="018bc-108">שנה את תבנית השפה והשעה עבור Delve</span><span class="sxs-lookup"><span data-stu-id="018bc-108">Change the language and time format for Delve</span></span>
+- <span data-ttu-id="6b6b8-108">שנה את תבנית השפה והשעה עבור Delve</span><span class="sxs-lookup"><span data-stu-id="6b6b8-108">Change the language and time format for Delve</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="018bc-p102">אם משתמש עדכנה את תמונת הפרופיל שלהם ואת השינוי אינו מופיע ב- SharePoint או OneDrive, כדי לבקש ממנו לפתוח דפדפן אינטרנט, [לעבור אל Office.com](https://www.office.com), היכנס באמצעות עבודתם או בית ספר החשבון ולאחר מכן לחץ על המשבצת OneDrive או SharePoint. זה יבקש את תמונת הפרופיל לסינכרון. המשתמש, ייתכן שתצטרך לנסות להשלים שלבים אלה עם פרטי הגירסה של הדפדפן שלהם.</span><span class="sxs-lookup"><span data-stu-id="018bc-p102">If a user updated their profile picture and the change isn't appearing in SharePoint or OneDrive, ask them to open a web browser, [go to Office.com](https://www.office.com), sign in with their work or school account, and then click the OneDrive or SharePoint tile. This will prompt the profile picture to sync. The user may need to try completing these steps with the Private version of their browser.</span></span> 
+> <span data-ttu-id="6b6b8-p102">אם משתמש עדכנה את תמונת הפרופיל שלהם ואת השינוי אינו מופיע ב- SharePoint או OneDrive, כדי לבקש ממנו לפתוח דפדפן אינטרנט, [לעבור אל Office.com](https://www.office.com), היכנס באמצעות עבודתם או בית ספר החשבון ולאחר מכן לחץ על המשבצת OneDrive או SharePoint. זה יבקש את תמונת הפרופיל לסינכרון. המשתמש, ייתכן שתצטרך לנסות להשלים שלבים אלה עם פרטי הגירסה של הדפדפן שלהם.</span><span class="sxs-lookup"><span data-stu-id="6b6b8-p102">If a user updated their profile picture and the change isn't appearing in SharePoint or OneDrive, ask them to open a web browser, [go to Office.com](https://www.office.com), sign in with their work or school account, and then click the OneDrive or SharePoint tile. This will prompt the profile picture to sync. The user may need to try completing these steps with the Private version of their browser.</span></span> 
   
-[<span data-ttu-id="018bc-111">למד עוד אודות עדכון פרופילים ב- Delve</span><span class="sxs-lookup"><span data-stu-id="018bc-111">Learn more about updating profiles in Delve</span></span>](https://go.microsoft.com/fwlink/?linkid=735070)
+[<span data-ttu-id="6b6b8-111">למד עוד אודות עדכון פרופילים ב- Delve</span><span class="sxs-lookup"><span data-stu-id="6b6b8-111">Learn more about updating profiles in Delve</span></span>](https://go.microsoft.com/fwlink/?linkid=735070)
   
 
