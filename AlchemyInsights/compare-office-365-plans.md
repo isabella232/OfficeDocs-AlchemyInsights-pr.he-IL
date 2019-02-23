@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919441"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208084"
 ---
 # <a name="compare-office-365-plans"></a>השוואת תוכניות Office 365
 
@@ -26,7 +26,7 @@ ms.locfileid: "29919441"
   
 אם הארגון שלך מתעניין השוואת תוכניות כל ותמחור, סקור [להשוות בכל תוכניות Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-אם הארגון שלך כבר רכש את תוכנית Office 365 הוא מעוניין לעבור אל תוכנית אחרת באפשרותך כך ממרכז הניהול של Office 365, לעבור אל [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054), או לבחור **חיוב** \> **מנויים**. בחר **מתג תוכניות** כדי להציג את רשימת תוכניות חדשות הזמינות. 
+אם הארגון שלך כבר רכש את תוכנית Office 365 הוא מעוניין לעבור אל תוכנית אחרת באפשרותך כך ממרכז admin Microsoft 365, לעבור אל [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054), או לבחור **חיוב** \> **מנויים**. בחר **מתג תוכניות** כדי להציג את רשימת תוכניות חדשות הזמינות. 
   
 הארגון שלך יכול גם לערבב ולהתאים תוכניות Office 365 כדי לענות על צרכי ודרישות תכונה של משתמשים. מתוך הניהול של Office 365, עבור אל העמוד [שירותים רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) , או בחרו ' **חיוב** \> **שירותי רכישה**.
   
