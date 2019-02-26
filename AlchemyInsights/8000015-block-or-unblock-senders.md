@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 49750888b92a62058efe8f09ccb03930afae43f5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e4932e5d5cedcd98917ee6578a818284b8a93926
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941509"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243826"
 ---
 # <a name="block-or-unblock-senders"></a>חסימה או ביטול חסימה של שולחים
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941509"
     
 3. כדי לחסום שולח, הזן את כתובת הדואר האלקטרוני או התחום שברצונך לחסום ובחר באפשרות **הוספה**. 
     
-    כדי לבטל את החסימה של השולח, בחר את הפריט ברשימה ובחר **להסיר**![למחוק](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).
+    כדי לבטל את החסימה של השולח, בחר את הפריט ברשימה ובחר **להסיר**.
     
 4. בחר **שמור**. 
     
