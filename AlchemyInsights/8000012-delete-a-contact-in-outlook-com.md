@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
-ms.openlocfilehash: 7b66cfc49df40b326506a089fc29d58e35fb1f5e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 88906b68e22bc21549e92c074ebb053be9b8660b
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929125"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244474"
 ---
-# <a name="delete-a-contact"></a><span data-ttu-id="9c1b9-102">מחיקת איש קשר</span><span class="sxs-lookup"><span data-stu-id="9c1b9-102">Delete a contact</span></span>
+# <a name="delete-a-contact"></a><span data-ttu-id="56611-102">מחיקת איש קשר</span><span class="sxs-lookup"><span data-stu-id="56611-102">Delete a contact</span></span>
 
-1. <span data-ttu-id="9c1b9-p101">בחלק העליון של הדף, בחר מפעיל יישום ![לחצן מפעיל היישום. ](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) ולאחר מכן בחר **אנשים**.</span><span class="sxs-lookup"><span data-stu-id="9c1b9-p101">At the top of the page, select the app launcher ![The App Launcher button.](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) and then select **People**.</span></span> 
+1. <span data-ttu-id="56611-103">בחלק העליון של הדף, בחר מפעיל יישום ולאחר מכן בחר **אנשים**.</span><span class="sxs-lookup"><span data-stu-id="56611-103">At the top of the page, select the app launcher  and then select **People**.</span></span> 
     
-2. <span data-ttu-id="9c1b9-105">בחר את איש הקשר שברצונך למחוק ובחר **מחק**![למחוק](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span><span class="sxs-lookup"><span data-stu-id="9c1b9-105">Select the contact you want to delete and select **Delete**![Delete](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span></span>
+2. <span data-ttu-id="56611-104">בחר את איש הקשר שברצונך למחוק ובחר **מחק**.</span><span class="sxs-lookup"><span data-stu-id="56611-104">Select the contact you want to delete and select **Delete**.</span></span>
     
-    <span data-ttu-id="9c1b9-p102">אם אין באפשרותך לבחור **למחוק**, איש הקשר ייתכן Skype או חשבון רשת חברתית מחובר. כדי למחוק את איש הקשר, עבור Skype או לחשבון שבו ממוקם איש הקשר.</span><span class="sxs-lookup"><span data-stu-id="9c1b9-p102">If you can't select **Delete**, the contact might be from Skype or a connected social network account. To delete the contact, go to Skype or the account where the contact is located.</span></span>
+    <span data-ttu-id="56611-p101">אם אין באפשרותך לבחור **למחוק**, איש הקשר ייתכן Skype או חשבון רשת חברתית מחובר. כדי למחוק את איש הקשר, עבור Skype או לחשבון שבו ממוקם איש הקשר.</span><span class="sxs-lookup"><span data-stu-id="56611-p101">If you can't select **Delete**, the contact might be from Skype or a connected social network account. To delete the contact, go to Skype or the account where the contact is located.</span></span>
     
-3. <span data-ttu-id="9c1b9-108">בחר ' **מחק** ' כדי לאשר.</span><span class="sxs-lookup"><span data-stu-id="9c1b9-108">Select **Delete** to confirm.</span></span> 
+3. <span data-ttu-id="56611-107">בחר ' **מחק** ' כדי לאשר.</span><span class="sxs-lookup"><span data-stu-id="56611-107">Select **Delete** to confirm.</span></span> 
     
 
