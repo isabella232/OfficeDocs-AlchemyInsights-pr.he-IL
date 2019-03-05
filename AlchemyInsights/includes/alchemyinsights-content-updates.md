@@ -3,22 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>השבוע 21 בינואר 2019
-
-
-| פורסם ב |כותרת נושא | שינוי |
-|------|------------|--------|
-| 22/1/2019 | [במיקרוסופט 1047 550 5.7.708 השירות אינו זמין. Access נדחתה, תעבורה לא התקבל מ- IP זה](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | השתנה |
-| 22/1/2019 | [מדי במיקרוסופט 4.5.3 1049 נמענים רבים (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | השתנה |
-| 22/1/2019 | [השרת במיקרוסופט 4.7.500 1050 עמוס. נא נסה שוב מאוחר יותר מ- [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | השתנה |
-| 22/1/2019 | [במיקרוסופט 1051 4.7.500 Access נדחתה, נא נסה שוב מאוחר יותר](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | השתנה |
-| 22/1/2019 | [ממסר דואר אלקטרוני דרך Office 365](/AlchemyInsights/relay-email-through-office-365) | השתנה |
-| 24/1/2019 | [יצירת פקד של קבוצות](/AlchemyInsights/control-creation-of-groups) | השתנה |
-| 24/1/2019 | [בעיות ב- outlook עם Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | נוסף |
-| 24/1/2019 | [שחזור קבוצה של Office 365 באמצעות מרכז הניהול של Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | שינוי שם |
-| 24/1/2019 | [פתרון בעיות עם Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | שינוי שם |
-
-
 ## <a name="week-of-january-28-2019"></a>שבוע של 28 בינואר 2019
 
 
@@ -734,3 +718,57 @@
 | 22/2/2019 | [הרשאות משתמש](/AlchemyInsights/user-permissions) | השתנה |
 | 22/2/2019 | [מתי נוצר המשפט החיוב?](/AlchemyInsights/when-is-the-billing-statement-generated) | השתנה |
 | 22/2/2019 | [כיצד לאמת את התחום שלך עם Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | השתנה |
+
+
+## <a name="week-of-february-25-2019"></a>שבוע של 25 בפברואר, 2019
+
+
+| פורסם ב |כותרת נושא | שינוי |
+|------|------------|--------|
+| 25/2/2019 | [1800014 לקבלת תמיכה ב- app עבור יישום נייד ב- Outlook](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | השתנה |
+| 25/2/2019 | [הגדרת דואר אלקטרוני ב- app נייד של Outlook 1800014](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | השתנה |
+| 25/2/2019 | [8000001 לבטל ממוקד של תיבת הדואר הנכנס](/AlchemyInsights/8000001-turn-off-focused-inbox) | השתנה |
+| 25/2/2019 | [8000009 צור תיקיה ב- Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000012 מחיקת איש קשר ב- Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | השתנה |
+| 25/2/2019 | [שינוי גופן 8000013 ב- Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000014 כיצד לשנות את השפה ב- Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000015 חסימה או ביטול חסימה של שולחים](/AlchemyInsights/8000015-block-or-unblock-senders) | השתנה |
+| 25/2/2019 | [8000015 קבלת דואר אלקטרוני מתוך חסם שולחים ב- Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000029 להתמודד עם דיוג ב- Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000029 להתמודד עם דואר זבל ב- Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000029 להתמודד עם דואר זבל או דיוג ב- Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000033 כיצד להשיב או העבר הודעות בגירסת הביתא Outlook.com](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | השתנה |
+| 25/2/2019 | [8000034 אישורי קריאה ב- Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000036 לשנות את שם הדואר האלקטרוני שלך ב- Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000046 הדפסה דוא ל ולוחות ב- Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000047 כיצד ליצור חתימת דואר אלקטרוני ב- Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000052 צירוף קבצים ב- Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | השתנה |
+| 25/2/2019 | [8000059 כיצד לשנות את ערכת הנושא פעולה (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | השתנה |
+| 25/2/2019 | [מומלץ הצעדים שיש לנקוט אם חשבון נפרצת](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | השתנה |
+| 26/2/2019 | [לשחזר קבוצה שנמחקה Office 365](/AlchemyInsights/restore-a-deleted-office-365-group) | השתנה |
+| 26/2/2019 | [מנויים Outlook.com 9000215](/AlchemyInsights/9000215-outlook-com-subscriptions) | נוסף |
+| 27/2/2019 | [9000199 קבצי PST ב- Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | נוסף |
+| 27/2/2019 | [אפשרויות Outlook.com 9000202](/AlchemyInsights/9000202-outlook-com-options) | נוסף |
+| 27/2/2019 | [מסננים Outlook.com 9000203](/AlchemyInsights/9000203-outlook-com-filters) | נוסף |
+| 28/2/2019 | [8000036 שינוי פרופיל pic/שם ב- Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | נוסף |
+| 28/2/2019 | [סמל Skype 8000049 חסר ב- Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | נוסף |
+| 28/2/2019 | [8000088 שמור דוא ב- Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | נוסף |
+| 28/2/2019 | [9000071 אין באפשרותך להקליד @ סימן ב- Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | נוסף |
+| 28/2/2019 | [9000193 בטל הזזה או מחיקה של-Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | נוסף |
+| 28/2/2019 | [גירסת הביתא של לוח השנה Outlook.com 9000198](/AlchemyInsights/9000198-outlook-com-calendar-beta) | נוסף |
+| 1/3/2019 | [8000035 לבקש חזרה מביתא Outlook.com כדי Outlook.com קלאסי](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | נוסף |
+| 1/3/2019 | [8000035 כיצד להפוך את המראה החדש של Outlook.com כמו הישן](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | נוסף |
+| 1/3/2019 | [8000043 הגדרות POP, IMAP ו- SMTP עבור Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | נוסף |
+| 1/3/2019 | [בחר Outlook.com 8000090 כל](/AlchemyInsights/8000090-outlook-com-select-all) | נוסף |
+| 1/3/2019 | [8000091 Outlook.com להגיב מוקפצת](/AlchemyInsights/8000091-outlook-com-react-pop-up) | נוסף |
+| 1/3/2019 | [מקור ההודעה של תצוגת Outlook.com 8000092](/AlchemyInsights/8000092-outlook-com-view-message-source) | נוסף |
+| 1/3/2019 | [הרשאות החשבון Outlook.com מחובר 8000093](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | נוסף |
+| 1/3/2019 | [1800009Outlook עבור תמיכה ב- app Mac](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | השתנה |
+| 1/3/2019 | [8000057 קישורים בטוחה ב- Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | השתנה |
+| 1/3/2019 | [פנקס הכתובות Outlook.com 9000232](/AlchemyInsights/9000232-outlook-com-address-book) | נוסף |
+| 1/3/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | נוסף |
+| 1/3/2019 | [שגיאת שרת פנימית Outlook.com 9000234](/AlchemyInsights/9000234-outlook-com-internal-server-error) | נוסף |
+| 1/3/2019 | [9000236 Outlook.com להוסיף חשבון](/AlchemyInsights/9000236-outlook-com-add-account) | נוסף |
+| 1/3/2019 | [הוספת 9000238 Outlook.com כינוי](/AlchemyInsights/9000238-outlook-com-add-alias) | נוסף |
+| 1/3/2019 | [העברת Outlook.com 9000239](/AlchemyInsights/9000239-outlook-com-forwarding) | נוסף |
+| 1/3/2019 | [תשובות Outlook.com 9000240](/AlchemyInsights/9000240-outlook-com-replies) | נוסף |
