@@ -3,191 +3,84 @@
 
 
 
-## <a name="week-of-january-28-2019"></a>שבוע של 28 בינואר 2019
+## <a name="week-of-march-04-2019"></a>השבוע 04 במרץ 2019
 
 
 | פורסם ב |כותרת נושא | שינוי |
 |------|------------|--------|
-| 29/1/2019 | [דף הבית של תובנות אלכימיה](/AlchemyInsights/index) | השתנה |
-| 29/1/2019 | [פתרון בעיות הפעלה](/AlchemyInsights/activation-troubleshooting) | השתנה |
-| 29/1/2019 | [האם אתה מקבל יותר מדי הודעות זבל או phish בתיבת הדואר שלך?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | השתנה |
-| 29/1/2019 | [אין אפשרות להוסיף ברירת המחדל זרימת עבודה של אישור 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | השתנה |
-| 29/1/2019 | [יצירת אתר SharePoint](/AlchemyInsights/create-a-sharepoint-site) | השתנה |
-| 29/1/2019 | [מחק אתר SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | השתנה |
-| 29/1/2019 | [מחק אתר SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | השתנה |
-| 29/1/2019 | [טכנולוגיית DLP אינו פועל כצפוי](/AlchemyInsights/dlp-not-working-as-expected) | השתנה |
-| 29/1/2019 | [יש לך הודעות לגיטימיות כדואר זבל?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | השתנה |
-| 29/1/2019 | [קוד שגיאה 30125-4 או 30125-מהמגבלה של 1011 בעת התקנת Office](/AlchemyInsights/error-code-30125-4-or-30125-1011-when-installing-office) | השתנה |
-| 29/1/2019 | [אתה הפכת צוותים עבור התלמידים שלך?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | השתנה |
-| 29/1/2019 | [כיצד להפעיל את Office](/AlchemyInsights/how-to-activate-office) | השתנה |
-| 29/1/2019 | [כיצד להתקין את Mac Office מתוך הפורטל](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | השתנה |
-| 29/1/2019 | [כיצד להתקין את Office ב- iPad](/AlchemyInsights/how-to-install-office-on-an-ipad) | השתנה |
-| 29/1/2019 | [כיצד להתקין את Office iPhone](/AlchemyInsights/how-to-install-office-on-an-iphone) | השתנה |
-| 29/1/2019 | [כיצד לאמת את התחום שלך עם Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | השתנה |
-| 29/1/2019 | [ההתקנה נתקעת או נתקע](/AlchemyInsights/installation-hangs-or-gets-stuck) | השתנה |
-| 29/1/2019 | [צוותים Microsoft - Access אורח](/AlchemyInsights/microsoft-teamsguest-access) | השתנה |
-| 29/1/2019 | [אפשרויות תשלום](/AlchemyInsights/payment-options) | השתנה |
-| 29/1/2019 | [תשתית פרסום עם אתר תקשורת](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | השתנה |
-| 29/1/2019 | [שאלות הקשורות ל- Office 2019](/AlchemyInsights/questions-related-to-office-2019) | השתנה |
-| 29/1/2019 | [פתרונות עבור שגיאה 30015-4](/AlchemyInsights/solutions-for-error-30015-4) | השתנה |
-| 29/1/2019 | [פתרונות עבור שגיאה 30016-4](/AlchemyInsights/solutions-for-error-30016-4) | השתנה |
-| 29/1/2019 | [פתרונות עבור שגיאה 30174-4](/AlchemyInsights/solutions-for-error-30174-4) | השתנה |
-| 29/1/2019 | [פתרונות עבור בעיות בעת התקנת Office](/AlchemyInsights/solutions-for-issues-while-installing-office) | השתנה |
-| 29/1/2019 | [פתרונות עבור ' לא היתה אפשרות להתקין את Office (64 סיביות או 32 סיביות)](/AlchemyInsights/solutions-for-office-64-bit-or-32-bit-couldn-t-be-installed) | השתנה |
-| 29/1/2019 | [פתרונות עבור 'מערכת הפעלה שאינה נתמכת'](/AlchemyInsights/solutions-for-unsupported-operating-system) | השתנה |
-| 29/1/2019 | [שלבים לפתרון שגיאה ההפעלה של office 0x80070005](/AlchemyInsights/steps-to-resolve-office-activation-error-0x80070005) | נוסף |
-| 29/1/2019 | [שלבים לפתרון שגיאה ההפעלה של Office 0xc004b100](/AlchemyInsights/steps-to-resolve-office-activation-error-0xc004b100) | נוסף |
-| 29/1/2019 | [הצעות לפתרון שגיאות 'מוצר ללא רשיון'](/AlchemyInsights/suggestions-for-solving-unlicensed-product-errors) | השתנה |
-| 29/1/2019 | [גירסה נתמכת של כלי ההעברה של SharePoint](/AlchemyInsights/supported-version-of-the-sharepoint-migration-tool) | השתנה |
-| 29/1/2019 | [פתרון בעיות העצה בטיחות לאיתור הונאה בודק](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | השתנה |
-| 29/1/2019 | [הסרת התקנה של Office](/AlchemyInsights/uninstall-office) | השתנה |
-| 29/1/2019 | [עדכון רשומות DNS](/AlchemyInsights/update-dns-records) | השתנה |
-| 29/1/2019 | [היכן להתקין את Office מתוך](/AlchemyInsights/where-to-install-office-from) | השתנה |
-| 30/1/2019 | [התיקיה RecoverableItems 1336 הוא מלא](/AlchemyInsights/1336-recoverableitems-folder-is-full) | השתנה |
-| 30/1/2019 | [1800014 פתרון בעיות ב- Outlook ההתקנה עבור מכשירים ניידים עבור תיבת דואר משותפת](/AlchemyInsights/1800014-troubleshooting-outlook-mobile-setup-for-a-shared-mailbox) | השתנה |
-| 30/1/2019 | [1800014 באמצעות תיבת דואר משותפת במכשיר נייד](/AlchemyInsights/1800014-using-a-shared-mailbox-on-a-mobile-device) | השתנה |
-| 30/1/2019 | [1800018 הוספה/להגדיר חשבונות דואר אלקטרוני](/AlchemyInsights/1800018-add-set-up-email-accounts) | השתנה |
-| 30/1/2019 | [1800018 למצוא את הגדרות שרת POP ו- IMAP](/AlchemyInsights/1800018-find-your-pop-and-imap-server-settings) | השתנה |
-| 30/1/2019 | [חשבונות מחוברים 1800029 אינו נתמך ב- Outlook באינטרנט](/AlchemyInsights/1800029-connected-accounts-not-supported-in-outlook-on-the-web) | השתנה |
-| 30/1/2019 | [204 כיצד למצוא חסר או שחזור חסרים Outlook דואר, לוח שנה או אנשי קשר](/AlchemyInsights/204-how-to-find-missing-or-recover-missing-outlook-mail-calendar-or-contacts) | השתנה |
-| 30/1/2019 | [App הזמנות 597 של Microsoft](/AlchemyInsights/597-microsoft-bookings-app) | השתנה |
-| 30/1/2019 | [שינוי הרשאות תיבת דואר](/AlchemyInsights/changing-permissions-on-a-mailbox) | השתנה |
-| 30/1/2019 | [Excel קורס?](/AlchemyInsights/excel-crashing) | השתנה |
-| 30/1/2019 | [הסר תחום](/AlchemyInsights/remove-domain) | השתנה |
-| 30/1/2019 | [להפעיל את Office](/AlchemyInsights/activate-office) | השתנה |
-| 30/1/2019 | [הוספת כינוי דואר אלקטרוני אחר](/AlchemyInsights/add-another-email-alias) | השתנה |
-| 30/1/2019 | [הוספת משתמשים חיצוניים](/AlchemyInsights/adding-external-users) | השתנה |
-| 30/1/2019 | [הפדרציה ADFS תפוגת התוקף של האישור](/AlchemyInsights/adfs-federation-certificate-expiring) | השתנה |
-| 30/1/2019 | [תפקיד מנהל וכיצד להקצות](/AlchemyInsights/admin-role-and-how-to-assign) | השתנה |
-| 30/1/2019 | [ניהול Admin](/AlchemyInsights/admin-takeover) | השתנה |
-| 30/1/2019 | [אלכימיה - קריסה Outlook שלבים לפתרון בעיות](/AlchemyInsights/alchemyoutlook-crash-troubleshooting-steps) | השתנה |
-| 30/1/2019 | [אלכימיה - Outlook השגיאה ' אין אפשרות להפעיל את Microsoft Outlook'](/AlchemyInsights/alchemyoutlook-errorcannot-start-microsoft-outlook) | השתנה |
-| 30/1/2019 | [אלכימיה - חיפוש Outlook לא idexing](/AlchemyInsights/alchemyoutlook-search-not-idexing) | השתנה |
-| 30/1/2019 | [הקצאה או הסרה רשיונות של משתמשים](/AlchemyInsights/assign-or-remove-users-licenses) | השתנה |
-| 30/1/2019 | [ביטול מנוי Office 365](/AlchemyInsights/cancel-office-365-subscription) | השתנה |
-| 30/1/2019 | [ביטול מנוי Office 365 שלך?](/AlchemyInsights/canceling-your-office-365-subscription-0) | השתנה |
-| 30/1/2019 | [ביטול מנוי Office 365 שלך?](/AlchemyInsights/canceling-your-office-365-subscription-2) | השתנה |
-| 30/1/2019 | [שינוי שם משתמש וכתובת דוא](/AlchemyInsights/change-a-user-s-name-and-email-address) | השתנה |
-| 30/1/2019 | [שינוי NameServers](/AlchemyInsights/change-nameservers) | השתנה |
-| 30/1/2019 | [שנה את כתובת דואר אלקטרוני חלופית עבור חיוב דיווח](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | השתנה |
-| 30/1/2019 | [שינוי UPN](/AlchemyInsights/change-upn) | השתנה |
-| 30/1/2019 | [שינוי גודל של הודעה או קובץ מצורף](/AlchemyInsights/changing-message-or-attachment-size) | השתנה |
-| 30/1/2019 | [שינוי הרשאות תיקיה ציבורית](/AlchemyInsights/changing-public-folder-permissions) | השתנה |
-| 30/1/2019 | [שינוי תיבת הדואר המשותפת שלח כ התנהגות](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | השתנה |
-| 30/1/2019 | [השוואת תוכניות Office 365](/AlchemyInsights/compare-office-365-plans) | השתנה |
-| 30/1/2019 | [Access מותנה עם Intune](/AlchemyInsights/conditional-access-with-intune) | השתנה |
-| 30/1/2019 | [ConsistencyGuid / sourceAnchor התנהגות](/AlchemyInsights/consistencyguidsourceanchor-behavior) | השתנה |
-| 30/1/2019 | [תוכן אינו מופיע בתוצאות החיפוש של SharePoint](/AlchemyInsights/content-doesn-t-appear-in-sharepoint-search-results) | השתנה |
-| 30/1/2019 | [יצירת אתר SharePoint](/AlchemyInsights/create-a-sharepoint-site) | השתנה |
-| 30/1/2019 | [יצירה ושימוש של תיבת דואר משותפת](/AlchemyInsights/create-and-use-a-shared-mailbox) | השתנה |
-| 30/1/2019 | [יצירת תיבת הדואר המשותפת](/AlchemyInsights/create-shared-mailbox) | השתנה |
-| 30/1/2019 | [יצירת תיקיות ציבוריות](/AlchemyInsights/creating-public-folders) | השתנה |
-| 30/1/2019 | [הרשאות שהוקצו תיבת הדואר בסביבה היברידית](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | השתנה |
-| 30/1/2019 | [מחק אתר SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | השתנה |
-| 30/1/2019 | [אתר מחק קבוצה](/AlchemyInsights/delete-group-site) | השתנה |
-| 30/1/2019 | [טכנולוגיית DLP אינו פועל כצפוי](/AlchemyInsights/dlp-not-working-as-expected) | השתנה |
-| 30/1/2019 | [עצות מדיניות DLP לא עובד](/AlchemyInsights/dlp-policy-tips-not-working) | השתנה |
-| 30/1/2019 | [טכנולוגיית DLP כלל עבור מספר כרטיס האשראי אינו פועל](/AlchemyInsights/dlp-rule-for-credit-card-number-not-working) | השתנה |
-| 30/1/2019 | [טכנולוגיית DLP כלל עבור מספר הביטוח הלאומי אינו פועל](/AlchemyInsights/dlp-rule-for-ssn-not-working) | השתנה |
-| 30/1/2019 | [טכנולוגיית DLP כלל עבור לנו מספר חשבון הבנק אינו פועל](/AlchemyInsights/dlp-rule-for-us-bank-account-number-not-working) | השתנה |
-| 30/1/2019 | [כלל DLP עבור ארה ב / אנגליה מספר דרכון לא עובד](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | השתנה |
-| 30/1/2019 | [יש לך הודעות לגיטימיות כדואר זבל?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | השתנה |
-| 30/1/2019 | [להוריד ולהתקין את Office](/AlchemyInsights/download-and-install-office) | השתנה |
-| 30/1/2019 | [העובד לעזוב](/AlchemyInsights/employee-leaving) | השתנה |
-| 30/1/2019 | [הפעל את Microsoft צוותים](/AlchemyInsights/enable-microsoft-teams) | השתנה |
-| 30/1/2019 | [נתקל שיחזור סיסמה הודעות ב- Outlook עבור Mac?](/AlchemyInsights/experiencing-repeated-password-prompts-in-outlook-for-mac) | השתנה |
-| 30/1/2019 | [פתיחת קובץ לקריאה בלבד](/AlchemyInsights/file-open-read-only-0) | השתנה |
-| 30/1/2019 | [פתיחת קובץ לקריאה בלבד](/AlchemyInsights/file-open-read-only-1) | השתנה |
-| 30/1/2019 | [פתיחת קובץ לקריאה בלבד](/AlchemyInsights/file-open-read-only) | השתנה |
-| 30/1/2019 | [אתה הפכת צוותים עבור התלמידים שלך?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | השתנה |
-| 30/1/2019 | [נתקל בבעיות מסירה של דואר אלקטרוני?](/AlchemyInsights/having-email-delivery-issues-0) | השתנה |
-| 30/1/2019 | [נתקל בבעיות מסירה של דואר אלקטרוני?](/AlchemyInsights/having-email-delivery-issues) | השתנה |
-| 30/1/2019 | [נתקל בבעיות בקבלת Outlook כדי להתחבר?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | השתנה |
-| 30/1/2019 | [נתקל בבעיות בקבלת Outlook כדי להתחבר?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | השתנה |
-| 30/1/2019 | [כיצד לשנות מתוך תשלומים בכרטיס אשראי חשבונית?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | השתנה |
-| 30/1/2019 | [כיצד להשבית קבוצות חיצוני](/AlchemyInsights/how-to-disable-external-groups-0) | השתנה |
-| 30/1/2019 | [כיצד להשבית קבוצות חיצוני](/AlchemyInsights/how-to-disable-external-groups) | השתנה |
-| 30/1/2019 | [כיצד לאפשר SSO חלקה](/AlchemyInsights/how-to-enable-seamless-sso) | השתנה |
-| 30/1/2019 | [כיצד להתקין את Mac Office מתוך הפורטל](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | השתנה |
-| 30/1/2019 | [כיצד לאמת את התחום שלך עם Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | השתנה |
-| 30/1/2019 | [אשף קביעת התצורה של היברידית](/AlchemyInsights/hybrid-configuration-wizard) | השתנה |
-| 30/1/2019 | [זיהוי חסימות מוצבים תיבות דואר](/AlchemyInsights/identifying-holds-placed-on-mailboxes) | השתנה |
-| 30/1/2019 | [להגדיל את גודל תיבת הדואר עבור פריטי ה-Sku של הארגון](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | השתנה |
-| 30/1/2019 | [להגדיל את גודל תיבת הדואר עבור פריטי ה-Sku של SMB](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | השתנה |
-| 30/1/2019 | [הגדלת גודל תיבת הדואר](/AlchemyInsights/increase-mailbox-size) | השתנה |
-| 30/1/2019 | [מידע אודות GDPR](/AlchemyInsights/information-about-gdpr) | השתנה |
-| 30/1/2019 | [מידע אודות החסימה תביעה משפטית או במקום-השהיה](/AlchemyInsights/information-on-litigation-hold-or-in-place-hold) | השתנה |
-| 30/1/2019 | [התקנת Office 2013 דיווח](/AlchemyInsights/install-office-2013-notification) | השתנה |
-| 30/1/2019 | [התקנת Skype for Business](/AlchemyInsights/install-skype-for-business) | השתנה |
-| 30/1/2019 | [בעיה עם Skype עבור העסק?](/AlchemyInsights/issue-with-skype-for-business) | השתנה |
-| 30/1/2019 | [ניהול קבוצות ב- Yammer](/AlchemyInsights/manage-groups-in-yammer) | השתנה |
-| 30/1/2019 | [ניהול חשבונות המשתמש מסונכרן](/AlchemyInsights/manage-synchronized-user-accounts) | השתנה |
-| 30/1/2019 | [מיפוי ספריית SharePoint לכונן רשת](/AlchemyInsights/map-sharepoint-library-to-network-drive) | השתנה |
-| 30/1/2019 | [צוותים Microsoft - Access אורח](/AlchemyInsights/microsoft-teamsguest-access) | השתנה |
-| 30/1/2019 | [העברת דואר אלקטרוני מ- G חבילת Office 365](/AlchemyInsights/migrate-email-from-g-suite-to-office-365) | השתנה |
-| 30/1/2019 | [העברת תיבות דואר בין שני דיירים שונים](/AlchemyInsights/migrate-mailboxes-between-two-different-tenants) | השתנה |
-| 30/1/2019 | [העברת נתוני התיקיה הציבורית Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365-0) | השתנה |
-| 30/1/2019 | [העברת נתוני התיקיה הציבורית Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365) | השתנה |
-| 30/1/2019 | [לפנות חינוך עבור מהדורת Minecraft עם Office 365](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | השתנה |
-| 30/1/2019 | [פיקוח על Access מותנה](/AlchemyInsights/monitoring-conditional-access) | השתנה |
-| 30/1/2019 | [פיקוח על Access מותנה Intune](/AlchemyInsights/monitoring-intune-conditional-access) | השתנה |
-| 30/1/2019 | [העברת הודעות דואר אלקטרוני בתיבת הדואר של ארכיון](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | השתנה |
-| 30/1/2019 | [לפנות חינוך עבור office 365](/AlchemyInsights/office-365-education-for-free) | השתנה |
-| 30/1/2019 | [Office 365 עבור תוכניות עסקיות ותמחור](/AlchemyInsights/office-365-for-business-plans-and-pricing) | השתנה |
-| 30/1/2019 | [Office 365 עבור תוכניות לימודים ותמחור](/AlchemyInsights/office-365-for-education-plans-and-pricing) | השתנה |
-| 30/1/2019 | [Office 365 עבור תוכנית ארגון](/AlchemyInsights/office-365-for-enterprise-plan) | השתנה |
-| 30/1/2019 | [Office 365 עבור תוכניות ממשלתי ותמחור](/AlchemyInsights/office-365-for-government-plans-and-pricing) | השתנה |
-| 30/1/2019 | [Office 365 עבור תוכניות לקוחות ללא מטרות רווח והתמחור](/AlchemyInsights/office-365-for-nonprofit-plans-and-pricing) | השתנה |
-| 30/1/2019 | [כתובות Url של office 365 וכתובות IP](/AlchemyInsights/office-365-urls-and-ip-addresses) | השתנה |
-| 30/1/2019 | [אחד מהאישורים השירות שלך הפדרציה המקומית תאריך תפוגה](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | השתנה |
-| 30/1/2019 | [אפשרויות תשלום](/AlchemyInsights/payment-options) | השתנה |
-| 30/1/2019 | [בעיות הרשאות בעת העברת](/AlchemyInsights/permissions-issues-while-migrating) | השתנה |
-| 30/1/2019 | [בעיות עם Skype Microsoft עבור העסק בעת הכניסה לשירות Office 365](/AlchemyInsights/problems-with-microsoft-skype-for-business-when-signing-in-to-the-office-365-ser) | השתנה |
-| 30/1/2019 | [ProxyAddress שגויה](/AlchemyInsights/proxyaddress-incorrect) | השתנה |
-| 30/1/2019 | [גישה לתיקיה הציבורית ממכשירים ניידים](/AlchemyInsights/public-folder-access-from-mobile-devices-0) | השתנה |
-| 30/1/2019 | [תשתית פרסום עם אתר תקשורת](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | השתנה |
-| 30/1/2019 | [הסר אתר רכזת](/AlchemyInsights/remove-a-hub-site) | השתנה |
-| 30/1/2019 | [הסרת שרת Exchange המקומית האחרון](/AlchemyInsights/removing-the-last-on-premises-exchange-server) | השתנה |
-| 30/1/2019 | [Licences נדרש עבור Microsoft לביצוע](/AlchemyInsights/required-licences-for-microsoft-todo) | השתנה |
-| 30/1/2019 | [איפוס או שינוי סיסמאות](/AlchemyInsights/reset-or-change-passwords) | השתנה |
-| 30/1/2019 | [המשתמש השחזור נמחק](/AlchemyInsights/restore-deleted-user) | השתנה |
-| 30/1/2019 | [מדיניות שמירה במרכז הניהול של Exchange אינו פועל](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | השתנה |
-| 30/1/2019 | [חפש דואר אלקטרוני בתיבת הדואר של ארכיון](/AlchemyInsights/search-for-email-in-archive-mailbox) | השתנה |
-| 30/1/2019 | [שליחת דואר אלקטרוני בתור תיבת הדואר המשותפת](/AlchemyInsights/sending-email-as-the-shared-mailbox) | השתנה |
-| 30/1/2019 | [להגדיר סיסמאות יפוג לעולם](/AlchemyInsights/set-passwords-to-never-expire) | השתנה |
-| 30/1/2019 | [הגדרת דואר אלקטרוני העברה](/AlchemyInsights/set-up-email-forwarding) | השתנה |
-| 30/1/2019 | [הגדרת SPF](/AlchemyInsights/set-up-spf) | השתנה |
-| 30/1/2019 | [הגדרת המנוי יסודות העסק O365 שלך](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | השתנה |
-| 30/1/2019 | [הגדרת המנוי O365 Premium העסק שלך](/AlchemyInsights/setting-up-your-o365-business-premium-subscription) | השתנה |
-| 30/1/2019 | [משותף בעיה תיבת הדואר או לוח שנה ב- Outlook עבור Mac?](/AlchemyInsights/shared-mailbox-or-calendar-issue-in-outlook-for-mac) | השתנה |
-| 30/1/2019 | [שים לב מנוי בלקוח Office](/AlchemyInsights/subscription-notice-on-office-client) | השתנה |
-| 30/1/2019 | [הדרכה השדרוג של צוותים](/AlchemyInsights/teams-upgrade-guidance) | השתנה |
-| 30/1/2019 | [קבוצת המחשבים כבר נמצא בשימוש](/AlchemyInsights/the-domain-is-already-in-use) | השתנה |
-| 30/1/2019 | [פתרון בעיות באמצעות פתח באמצעות סייר](/AlchemyInsights/troubleshoot-issues-using-open-with-explorer) | השתנה |
-| 30/1/2019 | [פתרון בעיות עם אישור לדחוף MDM של Apple ב- Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune) | השתנה |
-| 30/1/2019 | [פתרון בעיות עם הרשמה DEP ב- Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-dep-enrollment-in-microsoft-intune) | השתנה |
-| 30/1/2019 | [פתרון בעיות עם רושם התקנים Android ב- Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune) | השתנה |
-| 30/1/2019 | [פתרון בעיות עם רושם iOS התקנים ב- Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune) | השתנה |
-| 30/1/2019 | [פתרון בעיות עם רושם התקנים macOS ב- Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune) | השתנה |
-| 30/1/2019 | [פתרון בעיות עם רושם התקני Windows ב- Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune) | השתנה |
-| 30/1/2019 | [פתרון בעיות עם אפשרויות הרשמה Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrollment-options-microsoft-intune-0) | השתנה |
-| 30/1/2019 | [פתרון בעיות עם אפשרויות הרשמה Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-enrollment-options-microsoft-intune) | השתנה |
-| 30/1/2019 | [פתרון בעיות עם Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | השתנה |
-| 30/1/2019 | [פתרון בעיות סינכרון סיסמאות](/AlchemyInsights/troubleshoot-password-synchronization) | השתנה |
-| 30/1/2019 | [פתרון בעיות העצה בטיחות לאיתור הונאה בודק](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | השתנה |
-| 30/1/2019 | [מנסה להסיר את התחום שלך?](/AlchemyInsights/trying-to-remove-your-domain) | השתנה |
-| 30/1/2019 | [ניסיון לאמת את התחום שלך?](/AlchemyInsights/trying-to-verify-your-domain) | השתנה |
-| 30/1/2019 | [להסיר את ההתקנה של לקוח Office](/AlchemyInsights/uninstall-office-client) | השתנה |
-| 30/1/2019 | [עדכון רשומות DNS כדי להשאיר את אתר האינטרנט שלך אצל ספק האירוח הנוכחי](/AlchemyInsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider) | השתנה |
-| 30/1/2019 | [עדכון רשומות DNS](/AlchemyInsights/update-dns-records) | השתנה |
-| 30/1/2019 | [עדכן את שרתי השמות של התחום שלך ל- Office 365](/AlchemyInsights/update-your-domain-nameservers-to-office-365) | השתנה |
-| 30/1/2019 | [סינכרון UPN זמין](/AlchemyInsights/upn-sync-disabled) | השתנה |
-| 30/1/2019 | [אימות קבוצת מחשבים](/AlchemyInsights/verify-domain) | השתנה |
-| 30/1/2019 | [הצג את החשבון שלי](/AlchemyInsights/view-my-bill) | השתנה |
-| 30/1/2019 | [122 צריך ליצור חתימה ב- Outlook באינטרנט?](/AlchemyInsights/122-need-to-create-a-signature-in-outlook-on-the-web) | השתנה |
-| 30/1/2019 | [123 קבלת חשבון ללא זמין שגיאה ב- OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | השתנה |
-| 1/2/2019 | [זהה filename הוא הטוב ביותר [כלל #-תיאור]](/AlchemyInsights/1-alchemy-insight-template) | השתנה |
-| 1/2/2019 | [שינוי הרשאות תיבת דואר](/AlchemyInsights/changing-permissions-on-a-mailbox) | השתנה |
+| 4/3/2019 | שחזר Outlook.com 8000011 שנמחקו דוא | נוסף |
+| 4/3/2019 | [8000034 אישורי קריאה ב- Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | השתנה |
+| 4/3/2019 | [8000047 כיצד ליצור חתימת דואר אלקטרוני ב- Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | השתנה |
+| 4/3/2019 | [הוספת Outlook.com 8000086 תמונה](/AlchemyInsights/80000860-outlook-com-insert-image) | נוסף |
+| 4/3/2019 | [קיצורי מקשים Outlook.com 8000087](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | נוסף |
+| 4/3/2019 | [8000088 שמור דוא ב- Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | השתנה |
+| 4/3/2019 | [שולחים בטוחים Outlook.com 8000089](/AlchemyInsights/8000089-outlook-com-safe-senders) | נוסף |
+| 4/3/2019 | שחזר Outlook.com 8000011 שנמחקו דוא | הוסר |
+| 4/3/2019 | 1575-PowerApps וגולש Microsoft לתכנן הרחבה | נוסף |
+| 4/3/2019 | [שינוי קבוצת המחשבים עבור קבוצת Office 365](/AlchemyInsights/change-domain-for-group) | שינוי שם |
+| 4/3/2019 | [1575-PowerApps וגולש Microsoft לתכנן הרחבה](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | שינוי שם |
+| 4/3/2019 | [אפשר אימות רב-גורמי](/AlchemyInsights/enable-multifactor-authentication) | השתנה |
+| 4/3/2019 | [8000054 Outlook.com חריגה ממגבלת האחסון](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | נוסף |
+| 4/3/2019 | [אבטחה ארגוני 423 - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | השתנה |
+| 4/3/2019 | [8000029 להתמודד עם דואר זבל או דיוג ב- Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | השתנה |
+| 4/3/2019 | [הסר תחום](/AlchemyInsights/remove-domain) | השתנה |
+| 4/3/2019 | [להוסיף משתמשים ל- Office 365](/AlchemyInsights/add-users-to-office-365) | השתנה |
+| 4/3/2019 | [האם אתה מקבל יותר מדי הודעות זבל או phish בתיבת הדואר שלך?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | השתנה |
+| 4/3/2019 | [שינוי NameServers](/AlchemyInsights/change-nameservers) | השתנה |
+| 4/3/2019 | [יצירת יישומים ב- PowerApps](/AlchemyInsights/create-apps-in-powerapps) | השתנה |
+| 4/3/2019 | [העברות cutover Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | השתנה |
+| 4/3/2019 | [נתקל בבעיות מסירה של דואר אלקטרוני?](/AlchemyInsights/having-email-delivery-issues-0) | השתנה |
+| 4/3/2019 | [נתקל בבעיות מסירה של דואר אלקטרוני?](/AlchemyInsights/having-email-delivery-issues) | השתנה |
+| 4/3/2019 | [כיצד להוסיף כרטיס אשראי?](/AlchemyInsights/how-do-i-add-a-credit-card) | השתנה |
+| 4/3/2019 | [כיצד לעדכן את פרטי כרטיס האשראי שלי?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | השתנה |
+| 4/3/2019 | [כיצד להתקין את Office](/AlchemyInsights/how-to-install-office) | השתנה |
+| 4/3/2019 | [העברת דואר אלקטרוני של IMAP](/AlchemyInsights/migrate-email-from-imap) | השתנה |
+| 4/3/2019 | [אפשרויות תשלום](/AlchemyInsights/payment-options) | השתנה |
+| 4/3/2019 | [מומלץ הצעדים שיש לנקוט אם חשבון נפרצת](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | השתנה |
+| 4/3/2019 | [שולח נחסם לשליחת דואר זבל רבים מדי](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | השתנה |
+| 4/3/2019 | [הגשת בקשות תמיכה Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | השתנה |
+| 4/3/2019 | [קבוצת המחשבים כבר נמצא בשימוש](/AlchemyInsights/the-domain-is-already-in-use) | השתנה |
+| 4/3/2019 | [בבעיות משלים רכישה בפורטל של Office 365](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | השתנה |
+| 4/3/2019 | [עדכון רשומות DNS](/AlchemyInsights/update-dns-records-0) | השתנה |
+| 4/3/2019 | [עדכון רשומות DNS](/AlchemyInsights/update-dns-records) | השתנה |
+| 4/3/2019 | [עדכון פרטי תשלום](/AlchemyInsights/update-payment-details) | השתנה |
+| 4/3/2019 | [אימות קבוצת מחשבים](/AlchemyInsights/verify-domain) | השתנה |
+| 4/3/2019 | [הגדרת העברה כתובות דואר אלקטרוני מרובות](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | השתנה |
+| 4/3/2019 | [פתרון 'לא תחום של המקובל' שגיאה](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | השתנה |
+| 6/3/2019 | [1581 לפתוח ולהשתמש תיבת הדואר המשותפת ב- Outlook באינטרנט](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | השתנה |
+| 6/3/2019 | [משמרות צוותים](/AlchemyInsights/1686-teams-shifts) | נוסף |
+| 6/3/2019 | [1703 זקוק למידע על צוותים ו- Polycom טלפונים](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | נוסף |
+| 6/3/2019 | [התקנת מודול צוותים PS והפניה](/AlchemyInsights/1787-teams-ps-module-install-ref) | נוסף |
+| 6/3/2019 | [615 סוגים של שיתוף וכיצד להגדיר אותן.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | השתנה |
+| 6/3/2019 | [Freemium צוותים](/AlchemyInsights/997-teams-freemium) | נוסף |
+| 6/3/2019 | [יש לך הודעות לגיטימיות כדואר זבל?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | השתנה |
+| 6/3/2019 | [הפעל את Microsoft צוותים](/AlchemyInsights/enable-microsoft-teams) | השתנה |
+| 6/3/2019 | [אתה הפכת צוותים עבור התלמידים שלך?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | השתנה |
+| 6/3/2019 | [כיצד להפעיל מחדש מנוי](/AlchemyInsights/how-to-reactivate-a-subscription) | השתנה |
+| 6/3/2019 | פריסת Intune App - 991 מזהה כלל | הוסר |
+| 6/3/2019 | [בעיה עם Skype עבור העסק?](/AlchemyInsights/issue-with-skype-for-business) | השתנה |
+| 6/3/2019 | [צוותים Microsoft - Access אורח](/AlchemyInsights/microsoft-teamsguest-access) | השתנה |
+| 6/3/2019 | [צוותים Microsoft - שחזור אתר צוות שנמחקו](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | השתנה |
+| 6/3/2019 | [ממסר דואר אלקטרוני דרך Office 365](/AlchemyInsights/relay-email-through-office-365) | השתנה |
+| 6/3/2019 | [סינכרון קבצים SharePoint עם לקוח הסינכרון החדש של OneDrive](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | השתנה |
+| 6/3/2019 | [שדרג לגירסה המלאה של Microsoft צוותים](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | השתנה |
+| 7/3/2019 | [דואר אלקטרוני Outlook.com 8000064 אין אפשרות לסנכרן - ספרדית](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | נוסף |
+| 7/3/2019 | [8000065 Outlook.com זבל spam - ספרדית](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | נוסף |
+| 7/3/2019 | [8000066 - כלל 1 - Outlook.com פרצו למחשב - ספרדית](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | נוסף |
+| 7/3/2019 | [8000066 - כלל 2 - Outlook.com פרצו למחשב - ספרדית](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | נוסף |
+| 7/3/2019 | [8000067 - החשבון סגור Outlook.com - ספרדית](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | נוסף |
+| 7/3/2019 | [8000068 - Outlook.com להוסיף חשבון - ספרדית](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | נוסף |
+| 7/3/2019 | [8000069 - Outlook.com חסום את השולח - ספרדית](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | נוסף |
+| 7/3/2019 | [8000070 - Outlook.com יכול להיכנס - ספרדית](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | נוסף |
+| 7/3/2019 | [המשתמש השחזור נמחק](/AlchemyInsights/restore-deleted-user) | השתנה |
+| 8/3/2019 | 8000043 הגדרות POP, IMAP ו- SMTP עבור Outlook.com | הוסר |
+| 8/3/2019 | [8000043 הגדרות POP, IMAP ו- SMTP עבור Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | שינוי שם |
+| 8/3/2019 | [8000071 Outlook.com תיקון דוא ל סינכרון - צרפתית](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | נוסף |
+| 8/3/2019 | [דואר זבל Outlook.com 8000072 - צרפתית](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | נוסף |
+| 8/3/2019 | [חשבון Outlook.com 8000073 פרצו למחשב - צרפתית](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | נוסף |
+| 8/3/2019 | [8000074 Outlook.com סגור חשבון - צרפתית](/AlchemyInsights/8000074-outlook-com-close-account-french) | נוסף |
+| 8/3/2019 | [8000075 Outlook.com שינוי סיסמה - צרפתית](/AlchemyInsights/8000075-outlook-com-change-password-french) | נוסף |
+| 8/3/2019 | [8000076 Outlook.com חסום את השולח - צרפתית](/AlchemyInsights/8000076-outlook-com-block-sender-french) | נוסף |
 
 
 ## <a name="week-of-february-04-2019"></a>השבוע 04 בפברואר, 2019
@@ -195,14 +88,14 @@
 
 | פורסם ב |כותרת נושא | שינוי |
 |------|------------|--------|
-| 4/2/2019 | [הוספת משתמשים ל- Office 365](/AlchemyInsights/add-users-to-office-365) | השתנה |
+| 4/2/2019 | [להוסיף משתמשים ל- Office 365](/AlchemyInsights/add-users-to-office-365) | השתנה |
 | 6/2/2019 | [העובד לעזוב](/AlchemyInsights/employee-leaving) | השתנה |
 | 6/2/2019 | [ניהול Admin](/AlchemyInsights/admin-takeover) | השתנה |
 | 6/2/2019 | [127 קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | השתנה |
 | 6/2/2019 | [959 שינוי שם התצוגה](/AlchemyInsights/959-change-display-name) | השתנה |
 | 6/2/2019 | [הוספה או הסרה של כינוי דואר אלקטרוני עבור משתמש](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | השתנה |
 | 6/2/2019 | הוספת מקומות למנוי משולמת מראש | הוסר |
-| 6/2/2019 | [הוספת משתמשים ל- Office 365](/AlchemyInsights/add-users-to-office-365) | השתנה |
+| 6/2/2019 | [להוסיף משתמשים ל- Office 365](/AlchemyInsights/add-users-to-office-365) | השתנה |
 | 6/2/2019 | [הוספת משתמשים חיצוניים לקבוצת הפצה?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | השתנה |
 | 6/2/2019 | Admin - תוכנית ההתקנה של Office 365 הכללית וניהול | הוסר |
 | 6/2/2019 | ניהול - ניהול משתמשים, קבוצות ובמשאבים שלי | הוסר |
@@ -445,7 +338,7 @@
 | 11/2/2019 | [הוסף אנשי קשר לקבוצת O365](/AlchemyInsights/add-contacts-to-o365-group) | השתנה |
 | 11/2/2019 | [הוספה או הסרה של כינוי דואר אלקטרוני עבור משתמש](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | השתנה |
 | 11/2/2019 | [הוספת מקומות למנוי משולמת מראש](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | השתנה |
-| 11/2/2019 | [הוספת משתמשים ל- Office 365](/AlchemyInsights/add-users-to-office-365) | השתנה |
+| 11/2/2019 | [להוסיף משתמשים ל- Office 365](/AlchemyInsights/add-users-to-office-365) | השתנה |
 | 11/2/2019 | [הוספת משתמשים חיצוניים לקבוצת הפצה?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | השתנה |
 | 11/2/2019 | [הוספת משתמשים חיצוניים](/AlchemyInsights/adding-external-users) | השתנה |
 | 11/2/2019 | [הפדרציה ADFS תפוגת התוקף של האישור](/AlchemyInsights/adfs-federation-certificate-expiring) | השתנה |
@@ -592,7 +485,7 @@
 | 11/2/2019 | [פתיחת קובץ לקריאה בלבד](/AlchemyInsights/file-open-read-only) | השתנה |
 | 11/2/2019 | [חפש קבצים שאבדו או חסרים ב- OneDrive או ב- SharePoint](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | השתנה |
 | 11/2/2019 | [תקן זרימה שנכשלו](/AlchemyInsights/fix-a-failed-flow) | השתנה |
-| 11/2/2019 | [פתרון בעיות סינכרון של OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | השתנה |
+| 11/2/2019 | [פתור בעיות סינכרון OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | השתנה |
 | 11/2/2019 | [פתרון בעיות סינכרון ב- OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | השתנה |
 | 11/2/2019 | [פתור בעיות טוען קבצים ל- OneDrive](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | השתנה |
 | 11/2/2019 | [בעיות עיצוב גופן ב- Excel 2016](/AlchemyInsights/font-formatting-problems-in-excel-2016) | השתנה |
@@ -638,7 +531,7 @@
 | 12/2/2019 | [אלכימיה - חיפוש Outlook לא idexing](/AlchemyInsights/alchemyoutlook-search-not-idexing) | השתנה |
 | 12/2/2019 | [אלכימיה - צור מחדש את הפרופיל שלך ב- Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | השתנה |
 | 12/2/2019 | [חפש קבצים שאבדו או חסרים ב- OneDrive או ב- SharePoint](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | השתנה |
-| 12/2/2019 | [פתרון בעיות סינכרון של OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | השתנה |
+| 12/2/2019 | [פתור בעיות סינכרון OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | השתנה |
 | 12/2/2019 | [פתרון בעיות סינכרון ב- OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | השתנה |
 | 12/2/2019 | [פתור בעיות טוען קבצים ל- OneDrive](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | השתנה |
 | 12/2/2019 | [התקנה והגדרה של OneDrive](/AlchemyInsights/install-and-configure-onedrive) | השתנה |
@@ -709,7 +602,7 @@
 | 22/2/2019 | [לפקח על השימוש OneDrive ו- SharePoint ופעילות](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | השתנה |
 | 22/2/2019 | [הפעלה מחדש של מנוי](/AlchemyInsights/reactivate-a-subscription) | השתנה |
 | 22/2/2019 | [שחזור OneDrive שנמחקו](/AlchemyInsights/restore-a-deleted-onedrive) | השתנה |
-| 22/2/2019 | [שחזור קבוצה של Office 365 באמצעות מרכז הניהול של Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | השתנה |
+| 22/2/2019 | [שחזור קבוצת Office 365 שימוש במרכז הניהול של Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | השתנה |
 | 22/2/2019 | [הגדרת המנוי יסודות העסק O365 שלך](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | השתנה |
 | 22/2/2019 | [שיתוף עם משתמשים חיצוניים אינו פועל](/AlchemyInsights/sharing-with-external-users-isn-t-working) | השתנה |
 | 22/2/2019 | [בניסיון למצוא את גירסת ניסיון?](/AlchemyInsights/trying-to-find-a-trial) | השתנה |
