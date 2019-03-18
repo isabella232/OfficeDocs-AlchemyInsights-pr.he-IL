@@ -1,5 +1,5 @@
 ---
-title: ממסר דואר אלקטרוני דרך Office 365
+title: מסירת דואר אלקטרוני דרך Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: ea852e315eaf7611d2d405dcfc9e85ab1ccca196
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468592"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574624"
 ---
-# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>הגדרת התקן רב-תכליתי או יישום לשלוח דואר אלקטרוני באמצעות Office 365
+# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>הגדרת התקן רב-תכליתי או יישום לשליחת דואר אלקטרוני באמצעות Office 365
 
-כדי ללמוד אודות אפשרויות שלך ואת השלבים, ראה [כיצד להגדיר התקן רב-תכליתי או יישום לשלוח דואר אלקטרוני באמצעות Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
+לקבלת מידע על האפשרויות העומדות בפניך והשלבים הדרושים, ראה [כיצד להגדיר התקן רב-תכליתי או יישום לשליחת דואר אלקטרוני באמצעות Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
   
- ** *הערה:* * * אם יש לך התקן או יישום אשר הפסיק לפעול, נא [הערה אנו שבוצעו לאחרונה שיפורים](https://support.microsoft.com/help/4458479/) אשר ייתכן השפיעו לך. אנו כעת **לשמור הודעות שנשלחו בתיקיה** של תיבת הדואר אשר עלול **לגרום להודעות שנדחו אם תיבת דואר זו מלא**. בנוסף, אנו דורשים כיום ההודעות יעוצב לפי מפרטי SMTP. לדוגמה, התקן השולח חייב לכלול סוגריים זוויתיים סביב כתובת הדואר האלקטרוני, כמו *christine@contoso.com* . 
-  
+**הערה:** אם יש לך התקן או יישום שהפסיק לפעול לאחרונה, שים לב שהתחלנו לאחרונה [להפוך את הצופן של 3DES ללא זמין](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption) בהתאם לתוכנית.  **Windows Server 2003 עם IIS SMTP לא יפעל עוד – יש צורך בגירסה חדשה יותר של Windows.** 
 
+בין השגיאות הנפוצות: "כשל/שגיאה באימות", "כשל/שגיאה ב- TLS", "שגיאת אלגוריתם צופן", "חוסר התאמה באלגוריתם" או "החיבור התנתק".  פנה לספק של היישום או ההתקן כדי לבדוק אם יש תמיכה בצופן מודרני או אם קיים עדכון.
