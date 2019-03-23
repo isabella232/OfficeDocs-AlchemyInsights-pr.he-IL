@@ -1,28 +1,33 @@
 ---
-title: קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912025"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754255"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?
 
-ישנן כמה סיבות שונות מדוע ייתכן שתקבל שגיאה האומרת כי גישה דיירים שלך חסום. כדי לפתור את הבעיה, באפשרותך לנסות את הפעולות הבאות:
+ישנן כמה סיבות שונות מדוע ייתכן שתקבל שגיאה זו. לדוגמה:
   
-- ודא כי המנוי שלך חוקית בדף [מנויים](https://admin.microsoft.com/adminportal/home#/subscriptions) . 
+- ודא כי המנוי שלך חוקית **חיוב** \> דף **מנויים** במרכז הניהול של Microsoft 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).
     
-- בדוק את דף [חיוב](https://admin.microsoft.com/adminportal/home#/billoverview) עבור כל מעבר דמי חבר בחשבון שלך. 
+- הסימון עבור כל שתאריך הודעות **חיוב** \> דף **שטרות** במרכז הניהול של Microsoft 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).
     
-- אם החשבון שלך הוא בסדר כעת, אך שונתה לאחרונה, היא עשויה להימשך זמן מה להפיץ לכל שרתי את השינויים. נסה שוב בעוד מספר דקות, וכן אם הבעיה נמשכת, פנה אלינו.
+- אם חיוב ומנויי עבור החשבון שלך לאחרונה עודכנו, ייתכן שיידרשו זמן להפיץ את השינויים. נסה שוב בעוד מספר דקות, ואם אם הבעיה נמשכת, פנה אלינו.
     
 

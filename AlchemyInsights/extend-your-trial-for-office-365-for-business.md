@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 051f302d1180154179675bcd75c4098b76124faa
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29937837"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754327"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>להרחיב את הניסיון של Office 365 עבור העסק
 
-אם מנוי הניסיון שלך הוא בתוך 15 ימים של תאריך תפוגה הניסיון לא הורחב לפני, באפשרותך להרחיב את הניסיון שלך למשך 30 יום אחר. תוכל לעשות זה פעם אחת בלבד.
+אם מנוי הניסיון שלך הוא בתוך 15 ימים של תאריך תפוגה הניסיון לא הורחב לפני, באפשרותך להרחיב את הניסיון שלך למשך 30 יום אחר. ניתן לבצע זאת פעם אחת בלבד.
   
 1. במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) או בחר **חיוב** \> **מנויים**.
     
