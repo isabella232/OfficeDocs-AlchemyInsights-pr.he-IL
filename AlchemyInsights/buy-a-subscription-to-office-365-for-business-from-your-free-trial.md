@@ -9,35 +9,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e596a8216b3674290ee577abc59a81b964f33c0a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919621"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761598"
 ---
-# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a><span data-ttu-id="05cb8-102">רכישת מנוי ל- Office 365 דרך גירסת הניסיון ללא תשלום שברשותך</span><span class="sxs-lookup"><span data-stu-id="05cb8-102">Buy a subscription to Office 365 from your free trial</span></span>
+# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a><span data-ttu-id="696ad-102">רכישת מנוי ל- Office 365 דרך גירסת הניסיון ללא תשלום שברשותך</span><span class="sxs-lookup"><span data-stu-id="696ad-102">Buy a subscription to Office 365 from your free trial</span></span>
 
-<span data-ttu-id="05cb8-p101">ניסית את Office 365, ועכשיו אתה מוכן לקנות אותו. עומדות לרשותך שתי אפשרויות בעת קניית Office 365 מגירסת הניסיון.</span><span class="sxs-lookup"><span data-stu-id="05cb8-p101">You've tried Office 365, and now you're ready to buy. You have two options when buying Office 365 from your trial version.</span></span>
+<span data-ttu-id="696ad-103">ניסית את Office 365, ועכשיו אתה מוכן לקנות אותו.</span><span class="sxs-lookup"><span data-stu-id="696ad-103">You've tried Office 365, and now you're ready to buy.</span></span> <span data-ttu-id="696ad-104">עומדות לרשותך שתי אפשרויות בעת קניית Office 365 מגירסת הניסיון.</span><span class="sxs-lookup"><span data-stu-id="696ad-104">You have two options when buying Office 365 from your trial version.</span></span>
   
- <span data-ttu-id="05cb8-105">**ניתן לקנות באותה התוכנית של הניסיון שלך**</span><span class="sxs-lookup"><span data-stu-id="05cb8-105">**You can buy the same plan as your trial**</span></span>
+ <span data-ttu-id="696ad-105">**ניתן לקנות באותה התוכנית של הניסיון שלך**</span><span class="sxs-lookup"><span data-stu-id="696ad-105">**You can buy the same plan as your trial**</span></span>
   
-1. <span data-ttu-id="05cb8-106">במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) או בחר **חיוב** \> **מנויים**.</span><span class="sxs-lookup"><span data-stu-id="05cb8-106">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="696ad-106">במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) או בחר **חיוב** \> **מנויים**.</span><span class="sxs-lookup"><span data-stu-id="696ad-106">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="05cb8-107">בחר **קנה כעת** למנוי לגירסת הניסיון הרצוי, ובצע את השלבים כדי להוציא מאחסון.</span><span class="sxs-lookup"><span data-stu-id="05cb8-107">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span> 
+2. <span data-ttu-id="696ad-107">בחר **קנה כעת** למנוי לגירסת הניסיון הרצוי, ובצע את השלבים כדי להוציא מאחסון.</span><span class="sxs-lookup"><span data-stu-id="696ad-107">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span> 
     
-<span data-ttu-id="05cb8-108">או **לרכוש מנוי אחר**</span><span class="sxs-lookup"><span data-stu-id="05cb8-108">or **You can buy a different subscription**</span></span>
+<span data-ttu-id="696ad-108">או **לרכוש מנוי אחר**</span><span class="sxs-lookup"><span data-stu-id="696ad-108">or **You can buy a different subscription**</span></span>
   
-1. <span data-ttu-id="05cb8-109">היכנס ל- Office 365 באמצעות חשבון בעבודה או בבית ספר בתור מנהל מערכת כללי. [למד כיצד להיכנס](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span><span class="sxs-lookup"><span data-stu-id="05cb8-109">Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span></span>
+1. <span data-ttu-id="696ad-109">היכנס ל- Office 365 באמצעות חשבון בעבודה או בבית ספר בתור מנהל מערכת כללי. [למד כיצד להיכנס](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span><span class="sxs-lookup"><span data-stu-id="696ad-109">Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span></span>
     
-2. <span data-ttu-id="05cb8-110">בחר ב- **Office 365** בדף התחל.</span><span class="sxs-lookup"><span data-stu-id="05cb8-110">Choose **Office 365** on the start page.</span></span> 
+2. <span data-ttu-id="696ad-110">בחר ב- **Office 365** בדף התחל.</span><span class="sxs-lookup"><span data-stu-id="696ad-110">Choose **Office 365** on the start page.</span></span> 
     
-3. <span data-ttu-id="05cb8-111">בחלק לפינה השמאלית העליונה של הדף, תחת סרגל הניווט, בחר **רכישה**.</span><span class="sxs-lookup"><span data-stu-id="05cb8-111">At the top right-hand corner of the page, under the navigation bar, choose **Purchase**.</span></span>
+3. <span data-ttu-id="696ad-111">בחלק לפינה השמאלית העליונה של הדף, תחת סרגל הניווט, בחר **רכישה**.</span><span class="sxs-lookup"><span data-stu-id="696ad-111">At the top right-hand corner of the page, under the navigation bar, choose **Purchase**.</span></span>
     
-4. <span data-ttu-id="05cb8-112">בדף **רכישה מנויים** , תוכנית שאתה מכוון יש כרזה של **ניסיון ב-** .</span><span class="sxs-lookup"><span data-stu-id="05cb8-112">On the **Purchase subscriptions** page, the plan you're trying has an **In Trial** banner.</span></span> 
+4. <span data-ttu-id="696ad-112">בדף **רכישה מנויים** , תוכנית שאתה מכוון יש כרזה של **ניסיון ב-** .</span><span class="sxs-lookup"><span data-stu-id="696ad-112">On the **Purchase subscriptions** page, the plan you're trying has an **In Trial** banner.</span></span> 
     
-5. <span data-ttu-id="05cb8-113">בחר **קנה כעת** למנוי לגירסת הניסיון הרצוי, ובצע את השלבים כדי להוציא מאחסון.</span><span class="sxs-lookup"><span data-stu-id="05cb8-113">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span> 
+5. <span data-ttu-id="696ad-113">בחר **קנה כעת** למנוי לגירסת הניסיון הרצוי, ובצע את השלבים כדי להוציא מאחסון.</span><span class="sxs-lookup"><span data-stu-id="696ad-113">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span> 
     
 
