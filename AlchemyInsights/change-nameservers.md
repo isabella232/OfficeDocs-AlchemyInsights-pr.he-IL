@@ -1,5 +1,5 @@
 ---
-title: שינוי NameServers
+title: שינוי שרתי שמות
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405324"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754687"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>עדכן את שרתי השמות של התחום שלך ל- Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>עדכון שרתי השמות של התחום שלך ל- Office 365
 
-הערה: השינויים Nameserver עשויה להימשך לעתים עד 48 שעות כדי להפיץ.
+הערה: הפצת השינויים בשרתי השמות עשויה להימשך עד 48 שעות.
   
 כדי להגדיר את התחום שלך ב- Office 365, ייתכן שיהיה עליך לעדכן את שרתי השמות אצל הרשם שלך. צור או ערוך את רשומות שרת השמות אצל רשם התחומים שלך.
   

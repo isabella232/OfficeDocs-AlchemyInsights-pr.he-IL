@@ -1,5 +1,5 @@
 ---
-title: אימות קבוצת מחשבים
+title: אימות תחום
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404856"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760411"
 ---
-# <a name="trying-to-verify-your-domain"></a>ניסיון לאמת את התחום שלך?
+# <a name="trying-to-verify-your-domain"></a>מנסה לאמת את התחום שלך?
 
-עליך להוסיף רשומת TXT רשם התחום שלך כדי לוודא שאתה הבעלים של התחום שלך. פעל לפי הנחיות האשף להוסיף קבוצת מחשבים על-ידי לחיצה על **הגדרות** \> **תחום**, ולאחר מכן **להוסיף קבוצת מחשבים**. 
+עליך להוסיף רשומת TXT אצל רשם התחומים שלך כדי לאמת את בעלותך על התחום. בצע את השלבים באשף הוספת התחום על-ידי לחיצה על **הגדרות** \> **תחום** ולאחר מכן על **הוסף תחום**. 
   
-בצע את ההוראות במאמר מתחת לשם הוספת רשומת TXT כדי לאמת את התחום שלך. בחר את רשם התחום שלך לקבלת הוראות ספציפיות עבור התחום שלך.
+בצע את ההוראות במאמר שלהלן כדי להוסיף רשומת TXT במטרה לאמת את התחום שלך. בחר את רשם התחומים שלך לקבלת הוראות ספציפיות עבור התחום שלך.
   
-[צור רשומות ה-DNS עבור Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[יצירת רשומות DNS עבור Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
 

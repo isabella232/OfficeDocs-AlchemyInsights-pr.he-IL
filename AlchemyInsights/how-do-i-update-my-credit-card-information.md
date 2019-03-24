@@ -1,5 +1,5 @@
 ---
-title: כיצד לעדכן את פרטי כרטיס האשראי שלי?
+title: כיצד אוכל לעדכן את פרטי כרטיס האשראי שלי?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,20 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 1690c9026888e287802e50a8b71d853d06567664
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405180"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763829"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a>כיצד לעדכן את פרטי כרטיס האשראי שלי?
+# <a name="how-do-i-update-my-credit-card-information"></a>כיצד אוכל לעדכן את פרטי כרטיס האשראי שלי?
 
-1. במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) או בחר **חיוב** \> **מנויים**.
+1. במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054), או בחר **חיוב** \> **מנויים**.
     
-2. בחר את המנוי שרכשת עם כרטיס האשראי או חשבון הבנק שברצונך לעדכן ולאחר מכן בחר באפשרות **עדכן פרטי תשלום**.
+2. בחר את המנוי שקנית באמצעות כרטיס האשראי או חשבון הבנק שברצונך לעדכן ולאחר מכן בחר **עדכן פרטי תשלום**.
     
 3. בחר את החץ הנפתח תחת **הוספה או בחירה של שיטת תשלום**, בחר את כרטיס האשראי או חשבון הבנק שברצונך לעדכן ולאחר מכן בחר **ערוך פרטים**.
     
@@ -30,6 +30,6 @@ ms.locfileid: "30405180"
     
 5. אמורה להופיע הודעת אישור.
     
-לקבלת מידע נוסף, ראה [פתרון בעיות של כרטיסי אשראי וחשבונות בנק](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+לקבלת מידע נוסף, ראה [פתרון בעיות בכרטיסי אשראי או בחשבונות בנק](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 
