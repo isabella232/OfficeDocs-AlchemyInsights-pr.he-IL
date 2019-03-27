@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 999008cd1b8f5d4b07660351605e60b87d557883
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: f8c412bda739179b295d62a1d6a6e31a88cf59c2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208442"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767033"
 ---
 # <a name="change-a-users-email-address"></a>שינוי כתובת דואר אלקטרוני של משתמש
 
@@ -34,7 +34,7 @@ ms.locfileid: "30208442"
     
     אם קיבלת הודעת השגיאה " **אנחנו מתנצלים, שלא ניתן לערוך את המשתמש. סקור את פרטי המשתמש ונסה שוב**"פירושו של דבר שאינם הניהול הכללי של Office 365 ואין לך הרשאות לשנות את המשתמש שם.
     
-5. בחר באפשרות **הגדר כראשית** עבור כתובת הדואר האלקטרוני שברצונך להגדיר ככתובת הדואר האלקטרוני הראשית של אותו אדם. אם רכשת מנוי שלך מ GoDaddy, עליך לבצע כניסה למסוף ניהול שלהם כדי להגדיר כתובת דואר אלקטרוני ראשית. 
+5. בחר **הגדר כראשית** עבור כתובת הדואר האלקטרוני שברצונך להגדיר ככתובת הדואר האלקטרוני הראשית עבור המשתמש. אם רכשת מנוי שלך מ GoDaddy, עליך לבצע כניסה למסוף ניהול שלהם כדי להגדיר כתובת דואר אלקטרוני ראשית. 
     
 6. בחר באפשרות **שמור**, לאחר מכן **סגור**, ובזאת סיימת!
     
