@@ -1,5 +1,5 @@
 ---
-title: הגשת בקשות תמיכה Dynamics 365
+title: שליחת בקשות תמיכה של Dynamics 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: cfdfcb588f16f1871fa405b264be22a0bb1e074c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404712"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767141"
 ---
-# <a name="submit-dynamics-365-support-requests"></a>הגשת בקשות תמיכה Dynamics 365
+# <a name="submit-dynamics-365-support-requests"></a>שליחת בקשות תמיכה של Dynamics 365
 
-אם אתה לקוח **Microsoft Dynamics הלקוחות אירוסי** נא שלח את הכרטיס שלך דרך חדשה [פלטפורמה חשמל מרכז Admin](https://admin.powerplatform.microsoft.com/?ref=officemodern).
+אם אתה לקוח **Microsoft Dynamics Customer Engagement**, שלח את הכרטיס דרך [מרכז הניהול החדש של פלטפורמת Power](https://admin.powerplatform.microsoft.com/?ref=officemodern).
   
-הפורטל החדש מספק נתיב ישיר יותר תמיכה וסיוע הממוטבת אירוסין הלקוח Dynamics ומוצרים אחרים של פלטפורמת צריכת חשמל.
+הפורטל החדש מספק נתיב ישיר יותר לתמיכה עם סיוע הממוטבת עבור Dynamics Customer Engagement ומוצרים אחרים בפלטפורמת Power.
   
 
