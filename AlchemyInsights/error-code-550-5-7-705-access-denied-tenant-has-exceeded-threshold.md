@@ -8,15 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 1eecc9a699a950760fd00cb96c11d167e40344f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
+ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29907741"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31397007"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>נדחתה Access 550 5.7.705, דיירים חרג סף
 
-הודעה זו מופיעה כאשר יותר מדי דואר זבל או בצובר שנשלחה על-ידי הארגון שלך Office 365. כדי להסיר אבן זו, עליך להבין מסבירים את הגורם לסוכן תמיכה, כמו גם לתקן את הבעיה הבסיסית.
-  
+הודעה זו מופיעה כאשר יותר מדי דואר זבל או בצובר שנשלחה על-ידי הארגון שלך ולמקם אנו בלוק דואר יוצא.
+גורמים נפוצים הם שרתים פרוצים המקומית או חשבונות הניהול פרוץ המשמש ליצירת מחברים. כל אחד מהתנאים יכול לאפשר דואר זבל לעבור דרך הארגון שלך.
+
+כדי להסיר אבן זו, עליך להבין מסבירים את הגורם לסוכן תמיכה, כמו גם לתקן את הבעיה הבסיסית.
+לחץ על **צור עימנו קשר** להלן כשתהיה מוכן.
 
