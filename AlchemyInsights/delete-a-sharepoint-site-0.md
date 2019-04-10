@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754651"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747995"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>מחיקת אתרים השייכים לקבוצת Office 365:
 
-כאשר משתמשים ליצור אתר צוות חדש מתוך דף הבית של SharePoint (או ליצור אתר צוות חדש מתוך התצוגה המקדימה של מרכז הניהול של SharePoint חדשה), קבוצה Office 365 המתאימה נוצר באופן אוטומטי. אתרי צוות מחובר קבוצה 365 office גם נוצרות בעת יצירת קבוצת Office 365 או צוות ב- Microsoft צוותים. כדי למחוק אתר SharePoint השייך לקבוצת Office 365, עליך למחוק את הקבוצה Office 365 עצמו. 
+כאשר משתמשים ליצור אתר צוות חדש מתוך דף הבית של SharePoint או ליצור אתר צוות חדש מתוך מרכז הניהול החדש של SharePoint, קבוצה Office 365 המתאימה נוצר באופן אוטומטי. אתרי צוות מחובר קבוצה 365 office גם נוצרות בעת יצירת קבוצת Office 365 או צוות ב- Microsoft צוותים. כדי למחוק אתר SharePoint השייך לקבוצת Office 365, עליך למחוק את הקבוצה Office 365 עצמו. 
   
 1. עבור אל [הדף קבוצות של מרכז admin Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ ms.locfileid: "30754651"
   
 **מחיקת אוסף אתרים של SharePoint:**
 
-כדי למחוק אוסף אתרים קלאסי:
+כדי למחוק אתר:
   
-1. במרכז הניהול של SharePoint קלאסי, בדף אוספי אתרים, בחר את **תיבת הסימון** לצד אוסף האתרים. 
+1. במרכז הניהול של SharePoint חדש, בדף ' אתרים ', לחץ על **תיבת הסימון** ליד האתר שברצונך למחוק. 
     
-2. בכרטיסיה אוספי אתרים, בחר **למחוק.**
+2. בסרגל הכלים של רצועת הכלים, לחץ על **למחוק.**
     
 **למחוק אתר בטעות?**
 

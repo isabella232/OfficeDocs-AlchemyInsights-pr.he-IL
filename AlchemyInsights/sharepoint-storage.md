@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 81f966e1c759003765a6a6a82988a5fbb456e3c0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 08e882f822411734d69a3c714d4ec8059c6cd60b
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759763"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747923"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>ניהול אחסון מקוון של SharePoint שלך
 
 עבור רוב הארגונים, אחסון SharePoint מנוהלת באופן אוטומטי כך שאינך צריך להגדיר מגבלות בכל אוסף אתרים. כדי לבדוק כמה מקום אחסון של SharePoint שברשותך:
   
-- במרכז הניהול של SharePoint קלאסי, בהשמאלי העליון של הדף אוספי אתרים, חפש זמין ואחסון הכולל.
+- במרכז הניהול של SharePoint החדשה, בהשמאלי העליון של הדף אתרים, חפש זמין ואחסון הכולל.
     
 לקבלת מידע אודות כיצד מחושבת מגבלת שלך, ראה [מגבלות המקוונת של SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113). כדי לרכוש מקום אחסון נוסף, ראה [שינוי שטח אחסון עבור המנוי שלך](https://go.microsoft.com/fwlink/?linkid=866428).
   

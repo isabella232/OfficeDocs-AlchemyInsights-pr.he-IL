@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
-ms.openlocfilehash: ca55473f4ec16ffe07f7c71750f2ec4c294b7c18
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c3917c73b2503039b0ebaf82fba561b2ee0a1c1d
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767357"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747527"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>להפעיל או לבטל שיתוף של SharePoint חיצוני
 
@@ -25,7 +25,7 @@ ms.locfileid: "30767357"
 2. הפעלה או ביטול של ההגדרה, או בחר באפשרות שיתוף אם היא מופעלת.
     
 > [!NOTE]
-> ביטול שיתוף של SharePoint מבטל אותו עבור OneDrive. כדי לאפשר שיתוף בכל אתר חיצוני, הגדרת ברחבי הארגון שלך חייבים להיות. > כדי לאפשר חיצוני שיתוף עבור OneDrive או כל אתרי SharePoint בודדים, עליך להפעיל אותו הארגון כולו עבור SharePoint. באפשרותך לאחר מכן לבטל אותו עבור אוספי אתרים מסוימים. כדי לנהל הגדרות שיתוף חיצוני עבור תקשורת ואתרים השייכים לקבוצות Office 365, עליך להשתמש מרכז הניהול החדש של SharePoint (תצוגה מקדימה) או PowerShell. לקבלת מידע נוסף אודות ניהול חיצוני הגדרות שיתוף, ראה [הפעלת חיצוני או לבטל שיתוף](https://go.microsoft.com/fwlink/?linkid=866426). 
+> ביטול שיתוף של SharePoint מבטל אותו עבור OneDrive. כדי לאפשר שיתוף בכל אתר חיצוני, הגדרת ברחבי הארגון שלך חייבים להיות. > כדי לאפשר חיצוני שיתוף עבור OneDrive או כל אתרי SharePoint בודדים, עליך להפעיל אותו הארגון כולו עבור SharePoint. באפשרותך לאחר מכן לבטל אותו עבור אוספי אתרים מסוימים. כדי לנהל הגדרות שיתוף חיצוני עבור תקשורת ואתרים השייכים לקבוצות Office 365, עליך להשתמש מרכז הניהול החדש של SharePoint או PowerShell. לקבלת מידע נוסף אודות ניהול חיצוני הגדרות שיתוף, ראה [הפעלת חיצוני או לבטל שיתוף](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [למד עוד אודות שיתוף חיצוני ב- SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   

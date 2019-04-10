@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: ee558542fe692e5dd637a2943b8b8b436b329ef5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 402e10c131a0c331938854e2176983f1007fb315
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914329"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747419"
 ---
 # <a name="anonymous-sharing"></a>שיתוף אנונימית
 
  **אפשר גישה אנונימית**
   
-במרכז admin קלאסי של SharePoint, לחץ על **שיתוף** בחלונית הימנית. 
+במרכז הניהול של SharePoint, לחץ על ' **שיתוף** ' בחלונית הימנית. 
   
 - בחר את האפשרויות הבאות: **אפשר שיתוף לאמת משתמשים חיצוניים ושימוש גישה אנונימית.**
   

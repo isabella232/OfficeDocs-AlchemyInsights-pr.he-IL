@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: da7d2ccfa2f5e74c76c530893fd4457e21a32280
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0ca85a43f21935708f8a9c689306ed3560627dea
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941257"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747383"
 ---
 # <a name="error-messages-when-sharing"></a>הודעות שגיאה בעת שיתוף
 
 אם אתה מקבל הודעת שגיאה בעת ניסיון לשתף עם משתמש חיצוני, שיתוף חיצוני ככל הנראה אינו זמין או שיתוף מוגדרת שלא לאפשר רמת שיתוף המשתמש שמנסה.
   
-ב ה * קלאסית * הניהול של SharePoint למרכז, לחץ על ' **שיתוף** ' בחלונית הימנית. בחר רמת שיתוף שאתה מעוניין לאפשר. ודא חיצוני מופעל שיתוף עבור האתר. 
+במרכז הניהול של SharePoint, לחץ על ' **שיתוף** ' בחלונית הימנית. בחר רמת שיתוף שאתה מעוניין לאפשר. ודא חיצוני מופעל שיתוף עבור האתר. 
   
 אם המשתמש מנסה להיכנס מקבל הודעת שגיאה, נסה את הפעולות הבאות:
   

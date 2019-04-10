@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: a1eb23c097e8540856df9d350798a0cdfeb73f15
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ac2e27eac4110def1ab91e5124b21b216ddbc178
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932473"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747671"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>כיצד להשתמש מאגר המונחים המקוונת של SharePoint
 
-מאגר המונחים אינו זמין הניהול של Office 365 הכללית, הניהול של SharePoint, ולאחר מנהלים מאגר המונחים ולא ניתן למצוא במרכז הניהול של SharePoint Online קלאסי. 
+מאגר המונחים אינו זמין הניהול של Office 365 הכללית, הניהול של SharePoint, ולאחר מנהלים מאגר המונחים ולא ניתן למצוא במרכז הניהול של SharePoint Online החדש. 
   
 לקבלת מידע נוסף אודות אופן השימוש בחנות מונח המקוונת של SharePoint ואת טקסונומיה בתוך SharePoint Online, ראה [מבוא מנוהל מטה-נתונים](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   

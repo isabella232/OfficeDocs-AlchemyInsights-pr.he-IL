@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941761"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747851"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>שתף קובץ או תיקייה ב- SharePoint או OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941761"
   - **אנשים ספציפיים** מעניק גישה רק לאנשים שאתה מציין, למרות שאנשים אחרים וייתכן שכבר יש לך גישה. אם אנשים להעביר את ההזמנה לשיתוף, רק אנשים בעלי גישה אל הפריט כבר תהיה אפשרות להשתמש בקישור. 
     
     > [!NOTE]
-    > אם אחת מאפשרויות אלה אינה זמינה, או אם ברצונך סוג קשר אחר יופיע כברירת מחדל, באפשרותך לשנות את הגדרות הארגון כולו על-ידי מעבר אל מרכז ניהול קלאסי של SharePoint ולחיצה על **שיתוף** בחלונית הימנית. [למד עוד](https://go.microsoft.com/fwlink/?linkid=866426)
+    > אם אחת מאפשרויות אלה אינה זמינה, או אם ברצונך סוג קשר אחר יופיע כברירת מחדל, באפשרותך לשנות את הגדרות הארגון כולו על-ידי מעבר אל מרכז הניהול החדש של SharePoint ולחיצה על **שיתוף** בחלונית הימנית. [מידע נוסף](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. **כברירת מחדל, אפשר עריכה** מופעלת. אם ברצונך שאנשים כדי להציג רק את הקבצים שלך, נקה את תיבת הסימון. 
     
