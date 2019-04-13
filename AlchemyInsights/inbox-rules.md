@@ -10,21 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 922
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: 0fa42d3439da2bd68aefbd7fc8e136386fdacf5e
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 46b080cbc972ae5826ab6e3622308447cd5221ab
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772548"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858457"
 ---
 # <a name="inbox-rules"></a>כללי תיבת דואר נכנס
 
 לקבלת מידע נוסף אודות שימוש כללי תיבת דואר נכנס בתיבת הדואר האישית שלך, ראה:
-  
-- [ניהול הודעות דואר אלקטרוני באמצעות כללים ב- Outlook עבור PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-    
-- [נהל את ההודעות שלך על-ידי שימוש כללי תיבת דואר נכנס ב- Outlook באינטרנט](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-    
-באפשרותך גם לנהל כללי תיבת דואר נכנס ב- Exchange Online PowerShell. לקבלת מידע נוסף, ראה [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (תצוגה), [InboxRule חדש](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (צור), [InboxRule הסרה](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (מחיקה), [קבוצת-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (שינוי קיים), [InboxRule הפוך ללא זמין](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable קיימים), ו- [InboxRule אפשר ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(הקיימת לזמינה). 
-  
 
+- [ניהול הודעות דואר אלקטרוני באמצעות כללים ב- Outlook עבור PC](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
+
+- [נהל את ההודעות שלך על-ידי שימוש כללי תיבת דואר נכנס ב- Outlook באינטרנט](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
+
+באפשרותך גם לנהל כללי תיבת דואר נכנס ב- Exchange Online PowerShell. לקבלת מידע נוסף, ראה [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (תצוגה), [InboxRule חדש](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (צור), [InboxRule הסרה](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (מחיקה), [קבוצת-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (שינוי קיים), [InboxRule הפוך ללא זמין](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable קיימים), ו- [InboxRule אפשר ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(הקיימת לזמינה).

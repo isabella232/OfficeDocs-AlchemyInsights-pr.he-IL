@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1374
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: fcfb63190606e1e4711a084c03640e7f670414b7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: f99ce3a7d2b8131f09479a9116f2cb36aea1a1a6
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30782838"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31856945"
 ---
 # <a name="a-user-has-two-mailboxes"></a>למשתמש יש שתי תיבות דואר
 
 היברידית סביבות המשתמשות בתכלת הרקיע Active Directory להתחבר (AAD להתחבר) או DirSync בטעות עלול לגרום למשתמש יש שתי תיבות דואר: אחד הארגון המקומית ואחד בענן.
-  
-כדי לפתור בעיה זו, ראה [לצמיתות נקה הקודם תיבת הדואר מידע](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).
-  
 
+כדי לפתור בעיה זו, ראה [לצמיתות נקה הקודם תיבת הדואר מידע](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).

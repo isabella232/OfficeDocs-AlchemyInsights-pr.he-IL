@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 182
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 6ec4ef9a59319731a80c77ef865fa0c265e918c5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 549805ddc255df5292d0f3c4e31bc055e611c7bf
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772618"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858313"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>השתמש חוה כדי לאבחן ולפתור בעיות אימות ב- Outlook
 
-אנו ממליצים בחום שתשתמש את [Outlook מתבקש לספק את הסיסמה שלי](https://aka.ms/SaRA-OutlookPwdPrompt) אבחון במחשב המושפע כדי לפתור בעיות כאשר Outlook ללא הרף בקשה לסיסמה. זה [חוה](https://diagnostics.office.com/#/) אבחון אינה בדיקות אוטומטיות ומחזירה פתרונות אפשריים לשימוש לטיפול בעיות שזוהו. 
-  
-
+אנו ממליצים בחום שתשתמש את [Outlook מתבקש לספק את הסיסמה שלי](https://aka.ms/SaRA-OutlookPwdPrompt) אבחון במחשב המושפע כדי לפתור בעיות כאשר Outlook ללא הרף בקשה לסיסמה. זה [חוה](https://diagnostics.office.com/#/) אבחון אינה בדיקות אוטומטיות ומחזירה פתרונות אפשריים לשימוש לטיפול בעיות שזוהו.
