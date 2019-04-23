@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000015
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ce2ee427887ac51dfbbcbc7b7d9e511cab7e3da7
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 2c58a22878b5d36554a17d4363303ccf6207a4ac
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788508"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903557"
 ---
 # <a name="block-or-unblock-senders"></a>חסימה או ביטול חסימה של שולחים
 
 הוסף כתובת דואר אלקטרוני או תחום לרשימת השולחים החסומים שלך כדי להעביר הודעות אלה ישירות לתיקיה דואר "זבל" אלקטרוני. דואר אלקטרוני מוסר באופן אוטומטי מתוך התיקיה דואר "זבל" אלקטרוני לאחר 14 ימים והוא אינו ניתן לשחזרו.
   
-1. עבור אל **הגדרות** \> **הגדרות תצוגה מלאה**. 
+1. עבור אל **הגדרות** \> **להציג את כל ההגדרות של Outlook**. 
     
-2. בחר **דואר** \> **דואר "זבל" אלקטרוני**. 
+2. בחר [ **דואר** \> **דואר "זבל" אלקטרוני**](https://outlook.live.com/mail/options/mail/junkEmail). 
     
 3. כדי לחסום שולח, הזן את כתובת הדואר האלקטרוני או התחום שברצונך לחסום ובחר באפשרות **הוספה**. 
     
