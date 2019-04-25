@@ -9,21 +9,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30207866"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421385"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>הגדרת המנוי יסודות העסק O365 שלך
 
 יצירת חשבונות Office 365 והוספת התחום שלך
   
-- בשלב זה, תשתמש באשף ההתקנה כדי ליצור חשבונות Office 365 עבור המשתמשים שלך ולהוסיף בתחום שלך. האשף מאפשר לך להתאים אישית של כולם מזהה המשתמש ודואר אלקטרוני עבור העסק שלך, כמו [rob@contoso.com](mailto:rob@contoso.com).
+- בשלב זה, תשתמש באשף ההגדרה כדי ליצור חשבונות Office 365 עבור המשתמשים שלך ולהוסיף את התחום שלך. האשף מאפשר לך להתאים אישית של כולם מזהה המשתמש ודואר אלקטרוני עבור העסק שלך, כמו [rob@contoso.com](mailto:rob@contoso.com).
     
 - עבור אל [מרכז הניהוליים Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- כדי להפעיל את האשף, בחר **לעבור לתוכנית ההתקנה**. לקבלת מידע נוסף, ראה [הוספת משתמשים ובתחום Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- כדי להפעיל את האשף, בחר **עבור להגדרה**. לקבלת מידע נוסף, ראה [הוספת משתמשים ותחום ל- Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     
 ייבוא דואר אלקטרוני
   
@@ -31,7 +31,7 @@ ms.locfileid: "30207866"
     
 - התחבר חשבונות דואר אלקטרוני
     
-  - בנוסף לניהול דואר אלקטרוני של Office 365 שלך ב- Outlook, באפשרותך לחבר אחרים חשבונות דואר אלקטרוני ל- Outlook, מדי, כגון Gmail וחשבונות Yahoo. פעולה זו מאפשרת לך לנהל את כל הדוא ל שלך במקום אחד. באפשרותך לחבר עד 5 חשבונות דואר אלקטרוני ל- Outlook. לקבלת פרטים נוספים, ראה [התחברות חשבונות דואר אלקטרוני ב- Outlook באינטרנט (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - בנוסף לניהול הדואר האלקטרוני של Office 365 ב- Outlook, באפשרותך לחבר גם חשבונות דואר אלקטרוני אחרים ל- Outlook, כגון חשבונות Gmail ו- Yahoo שלך. כך תוכל לנהל את כל הדואר האלקטרוני במקום אחד. באפשרותך לחבר עד חמישה חשבונות דואר אלקטרוני ל- Outlook. לקבלת פרטים נוספים, ראה [התחברות חשבונות דואר אלקטרוני ב- Outlook באינטרנט (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
 התקנת Skype for Business
   
@@ -39,7 +39,7 @@ ms.locfileid: "30207866"
     
 אחסון קבצים באופן מקוון
   
-- כדי ללמוד אילו מיקומי אחסון הם הטובים ביותר עבור העסק שלך, ראה [בו באפשרותך לאחסן קבצים ב- Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). כולם מקבל מיקום אחסון ענן **OneDrive** באופן אוטומטי בעת יצירת חשבונות Office 365 עבור אותם. עם OneDrive, באפשרותך לגשת לקבצים על-פני מחשבים, טלפונים ו בלוחות שלך. 
+- כדי ללמוד אילו מיקומי אחסון מתאימים ביותר לעסק שלך, ראה [היכן ניתן לאחסן קבצים ב- Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). כל המשתמשים מקבלים מיקום אחסון בענן ב- **OneDrive** באופן אוטומטי כאשר אתה יוצר חשבונות Office 365 עבורם. עם OneDrive, תוכל לגשת לקבצים בכל המחשבים, מכשירי הטלפון ומחשבי ה- Tablet שלך. 
     
 השלבים המפורטים עבור תוכנית ההתקנה ניתן למצוא במאמר [זה](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
   
