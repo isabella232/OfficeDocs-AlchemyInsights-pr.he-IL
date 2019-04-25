@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761598"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396760"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>רכישת מנוי ל- Office 365 דרך גירסת הניסיון ללא תשלום שברשותך
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761598"
   
  **ניתן לקנות באותה התוכנית של הניסיון שלך**
   
-1. במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) או בחר **חיוב** \> **מנויים**.
+1. במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054), או בחר **חיוב** \> **מנויים**.
     
 2. בחר **קנה כעת** למנוי לגירסת הניסיון הרצוי, ובצע את השלבים כדי להוציא מאחסון. 
     
