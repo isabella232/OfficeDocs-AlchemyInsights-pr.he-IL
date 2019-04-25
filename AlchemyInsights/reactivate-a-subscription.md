@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.openlocfilehash: 628115092db868a22e173b5b3b9a1cea852683cd
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759043"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32387989"
 ---
 # <a name="reactivate-a-subscription"></a>הפעלה מחדש של מנוי
 
 אם תוקף המנוי יפוג, בוטלה על-ידי Microsoft, או ביטלת אותה באמצע תקופת המנוי, תוכל להפעיל אותה מחדש במרכז הניהול של Microsoft 365.
   
-1. במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) או בחר **חיוב** \> **מנויים**.
+1. במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054), או בחר **חיוב** \> **מנויים**.
     
 2. בחר את המנוי שברצונך להפעיל מחדש, ולאחר מכן בחר **מחדש**.
     
