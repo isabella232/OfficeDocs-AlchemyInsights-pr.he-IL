@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: 718
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
 ms.openlocfilehash: 02777d2c576ac79983d6df13a0f78a1b86dec038
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31859501"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398531"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="69a24-102">הוסיפו כתובות דוא ל חיצוני לקבוצת הפצה</span><span class="sxs-lookup"><span data-stu-id="69a24-102">Add external email addresses to a distribution group</span></span>
+# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="40581-102">הוסיפו כתובות דוא ל חיצוני לקבוצת הפצה</span><span class="sxs-lookup"><span data-stu-id="40581-102">Add external email addresses to a distribution group</span></span>
 
-<span data-ttu-id="69a24-103">תחילה, עליך ליצור איש קשר בארגון שלך עבור כתובת דואר אלקטרוני חיצונית.</span><span class="sxs-lookup"><span data-stu-id="69a24-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="69a24-104">לאחר מכן, באפשרותך להוסיף את איש הקשר לקבוצת ההפצה.</span><span class="sxs-lookup"><span data-stu-id="69a24-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="69a24-105">לקבלת מידע נוסף, ראה [הוספת משתמשים חיצוניים לקבוצת הפצה?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="69a24-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
+<span data-ttu-id="40581-103">תחילה, עליך ליצור איש קשר בארגון שלך עבור כתובת דואר אלקטרוני חיצונית.</span><span class="sxs-lookup"><span data-stu-id="40581-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="40581-104">לאחר מכן, באפשרותך להוסיף את איש הקשר לקבוצת ההפצה.</span><span class="sxs-lookup"><span data-stu-id="40581-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="40581-105">לקבלת מידע נוסף, ראה [הוספת משתמשים חיצוניים לקבוצת הפצה?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="40581-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
 
-<span data-ttu-id="69a24-106">אם ברצונך חיצוני כדי שמשתמשים יוכלו לשלוח הודעות לקבוצת תפוצה, ודא שקבוצת מוגדר לקבל דואר משולחים חיצוניים.</span><span class="sxs-lookup"><span data-stu-id="69a24-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="69a24-107">לקבלת מידע נוסף, ראה [ניהול מסירה](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="69a24-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
+<span data-ttu-id="40581-106">אם ברצונך חיצוני כדי שמשתמשים יוכלו לשלוח הודעות לקבוצת תפוצה, ודא שקבוצת מוגדר לקבל דואר משולחים חיצוניים.</span><span class="sxs-lookup"><span data-stu-id="40581-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="40581-107">לקבלת מידע נוסף, ראה [ניהול מסירה](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="40581-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
