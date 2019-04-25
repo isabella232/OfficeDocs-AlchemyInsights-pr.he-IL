@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904681"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417688"
 ---
 # <a name="network-migration"></a>העברת רשת
 
@@ -31,6 +31,6 @@ ms.locfileid: "29904681"
   
 - **העברה רשת מעבירה רק הפעיל ממתינות משתמשים.** משתמשים פעילים, יחד עם המידע של המשתמשים, כמו תמונה ושם פרופיל, גם להעביר. כל תוכן ברשת, כולל קבוצות, אינם מועברים. 
     
-- **אין אפשרות להפוך את ההעברה רשת.** לא תהיה אפשרות לקבל גישה לרשת סניפים והתוכן שלו לאחר ההעברה. לכן לפני לשקול העברה, ברצונך לתכנן בקפידה. 
+- **אין אפשרות להפוך את ההעברה של הרשת.** לא תהיה אפשרות לקבל גישה לרשת סניפים והתוכן שלו לאחר ההעברה. לכן לפני לשקול העברה, ברצונך לתכנן בקפידה. 
     
 

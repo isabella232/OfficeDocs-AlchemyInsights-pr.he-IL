@@ -10,11 +10,11 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
 ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920161"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389600"
 ---
 כדי להגדיר את כל הסיסמאות יפוג לעולם, עבור אל [אבטחה &amp; פרטיות](https://portal.office.com/adminportal/home#/settings/security). לחץ על **עריכה** לצד **מדיניות סיסמה**, והפעל את המחוון אל ****.
   
