@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: 1703
 ms.openlocfilehash: 3dfbec5c7e29a40d1fdc3c2dfe2edc0da6374f32
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30783783"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417931"
 ---
-# <a name="polycom-phones-and-microsoft-teams"></a><span data-ttu-id="54d49-102">טלפונים מסוג Polycom ו- Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="54d49-102">Polycom phones and Microsoft Teams</span></span>
+# <a name="polycom-phones-and-microsoft-teams"></a><span data-ttu-id="9a0fc-102">טלפונים מסוג Polycom ו- Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="9a0fc-102">Polycom phones and Microsoft Teams</span></span>
 
-<span data-ttu-id="54d49-103">עיין [בקישור זה ל- Polycom](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) לקבלת מידע ספציפי יותר על השימוש בטלפונים מסוג Polycom באמצעות Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="54d49-103">Please check this [Polycom link](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) for more specific information on using Polycom phones with Microsoft Teams.</span></span>
+<span data-ttu-id="9a0fc-103">עיין [בקישור זה ל- Polycom](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) לקבלת מידע ספציפי יותר על השימוש בטלפונים מסוג Polycom באמצעות Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="9a0fc-103">Please check this [Polycom link](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) for more specific information on using Polycom phones with Microsoft Teams.</span></span>
 
-<span data-ttu-id="54d49-104">אם אתה מעוניין לקבל מידע נוסף על השימוש בטלפונים עם Teams, עיין ב[מאמר זה](https://docs.microsoft.com/he-IL/microsoftteams/phones-for-teams).</span><span class="sxs-lookup"><span data-stu-id="54d49-104">If you'd like to learn more about using phones with Teams, check out [this article](https://docs.microsoft.com/he-IL/microsoftteams/phones-for-teams).</span></span>
+<span data-ttu-id="9a0fc-104">אם אתה מעוניין לקבל מידע נוסף על השימוש בטלפונים עם Teams, עיין ב[מאמר זה](https://docs.microsoft.com/he-IL/microsoftteams/phones-for-teams).</span><span class="sxs-lookup"><span data-stu-id="9a0fc-104">If you'd like to learn more about using phones with Teams, check out [this article](https://docs.microsoft.com/he-IL/microsoftteams/phones-for-teams).</span></span>

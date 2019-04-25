@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
 ms.openlocfilehash: b78899d4652fccb16054c2bc535d8b871acd0139
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755750"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371191"
 ---
-# <a name="restore-a-previous-file-version"></a><span data-ttu-id="a9e25-102">שחזור גירסה קודמת של קובץ</span><span class="sxs-lookup"><span data-stu-id="a9e25-102">Restore a previous file version</span></span>
+# <a name="restore-a-previous-file-version"></a><span data-ttu-id="35838-102">שחזור גירסה קודמת של קובץ</span><span class="sxs-lookup"><span data-stu-id="35838-102">Restore a previous file version</span></span>
 
-<span data-ttu-id="a9e25-103">עם היסטוריית הגירסה המקוונת, באפשרותך לראות ולשחזר גירסאות קודמות של הקבצים שלך ב- OneDrive או ב- SharePoint.</span><span class="sxs-lookup"><span data-stu-id="a9e25-103">With online version history, you can see and restore older versions of your files in OneDrive or SharePoint.</span></span> <span data-ttu-id="a9e25-104">היסטוריית גירסאות פועלת עם כל סוגי הקבצים, כולל קובצי Pdf, CAD קבצים, תמונות וסרטי וידאו.</span><span class="sxs-lookup"><span data-stu-id="a9e25-104">Version history works with all file types, including PDFs, CAD files, photos, and videos.</span></span> <span data-ttu-id="a9e25-105">כדי לשחזר גירסה קודמת של הקובץ:</span><span class="sxs-lookup"><span data-stu-id="a9e25-105">To restore a previous file version:</span></span>
+<span data-ttu-id="35838-103">עם היסטוריית הגירסה המקוונת, באפשרותך לראות ולשחזר גירסאות קודמות של הקבצים שלך ב- OneDrive או ב- SharePoint.</span><span class="sxs-lookup"><span data-stu-id="35838-103">With online version history, you can see and restore older versions of your files in OneDrive or SharePoint.</span></span> <span data-ttu-id="35838-104">היסטוריית גירסאות פועלת עם כל סוגי הקבצים, כולל קובצי Pdf, CAD קבצים, תמונות וסרטי וידאו.</span><span class="sxs-lookup"><span data-stu-id="35838-104">Version history works with all file types, including PDFs, CAD files, photos, and videos.</span></span> <span data-ttu-id="35838-105">כדי לשחזר גירסה קודמת של הקובץ:</span><span class="sxs-lookup"><span data-stu-id="35838-105">To restore a previous file version:</span></span>
   
-1. <span data-ttu-id="a9e25-106">פתח את ספריית מסמכים של SharePoint או למיקום OneDrive.</span><span class="sxs-lookup"><span data-stu-id="a9e25-106">Open the SharePoint document library or OneDrive location.</span></span>
+1. <span data-ttu-id="35838-106">פתח את ספריית מסמכים של SharePoint או למיקום OneDrive.</span><span class="sxs-lookup"><span data-stu-id="35838-106">Open the SharePoint document library or OneDrive location.</span></span>
     
-2. <span data-ttu-id="a9e25-107">לחץ משמאל הקובץ כדי לבחור אותו ולאחר מכן לחץ על **היסטוריית גירסאות**.</span><span class="sxs-lookup"><span data-stu-id="a9e25-107">Click to the left of the file to select it, and then click **Version history**.</span></span> <span data-ttu-id="a9e25-108">אם אינך רואה את היסטוריית הגירסאות בסרגל הפקודות, לחץ על יותר ( **...** ).</span><span class="sxs-lookup"><span data-stu-id="a9e25-108">If you don't see Version history on the command bar, click More ( **...** ).</span></span> 
+2. <span data-ttu-id="35838-107">לחץ משמאל הקובץ כדי לבחור אותו ולאחר מכן לחץ על **היסטוריית גירסאות**.</span><span class="sxs-lookup"><span data-stu-id="35838-107">Click to the left of the file to select it, and then click **Version history**.</span></span> <span data-ttu-id="35838-108">אם אינך רואה את היסטוריית הגירסאות בסרגל הפקודות, לחץ על יותר ( **...** ).</span><span class="sxs-lookup"><span data-stu-id="35838-108">If you don't see Version history on the command bar, click More ( **...** ).</span></span> 
     
-3. <span data-ttu-id="a9e25-109">לחץ על הגירסה שברצונך להציג, או יותר ( **...** ) מימין גירסה ולאחר מכן לחץ על **שחזר**.</span><span class="sxs-lookup"><span data-stu-id="a9e25-109">Click the version you want to view, or click More ( **...** ) to the right of a version and then click **Restore**.</span></span>
+3. <span data-ttu-id="35838-109">לחץ על הגירסה שברצונך להציג, או יותר ( **...** ) מימין גירסה ולאחר מכן לחץ על **שחזר**.</span><span class="sxs-lookup"><span data-stu-id="35838-109">Click the version you want to view, or click More ( **...** ) to the right of a version and then click **Restore**.</span></span>
     
 
