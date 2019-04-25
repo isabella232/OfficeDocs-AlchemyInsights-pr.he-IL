@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
 ms.openlocfilehash: c7c90d9eb4e9ae40a7ea558528d42e91e666bb8b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405432"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400502"
 ---
 # <a name="having-email-delivery-issues"></a>נתקל בבעיות מסירה של דואר אלקטרוני?
 
-אנו כבר זיהה כי המשתמשים שלך אינו יכול לקבל הודעות דואר אלקטרוני שנשלחו אל קבוצות מחשבים הפעולות הבאות:
+זיהינו שלמשתמשים שלך אין אפשרות לקבל הודעות דואר אלקטרוני הנשלחות אל התחומים הבאים:
   
 {HealthCheckString}
   
-רשומות NS או MX של ההגדרות של התחום (DNS) לא נקבעה כראוי עבור מסירת דואר אלקטרוני לשירות Office 365 שלך. באפשרותך להפנות לרשומות [עדכון DNS ב- Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) לקבלת הוראות מפורטות. 
+תצורת רשומות ה- NS או ה- MX בהגדרות התחום (DNS) לא נקבעה כראוי למסירת דואר אלקטרוני לשירות Office 365 שלך. באפשרותך לעיין במאמר [עדכון רשומות DNS ב- Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) לקבלת הוראות מפורטות. 
   
-כדי לתקן אותה, נא עבור אל דף [תחומים](https://admin.microsoft.com/adminportal/home#/Domains) במרכז admin Microsoft 365 ולאחר אנו נעזור לך איתו. 
+כדי לפתור את הבעיה, עבור אל הדף [תחומים](https://admin.microsoft.com/adminportal/home#/Domains) במרכז הניהול של Microsoft 365, ואנו נסייע לך. 
   
-[בדוק שאלות נפוצות על תחומים](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) פתרונות נפוצים אחרים. 
+[עיין בשאלות הנפוצות בנושא תחומים](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) למידע על פתרונות נפוצים אחרים. 
   
 
