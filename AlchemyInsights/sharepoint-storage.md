@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
 ms.openlocfilehash: 08e882f822411734d69a3c714d4ec8059c6cd60b
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31747923"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421205"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="3f2c9-102">ניהול אחסון מקוון של SharePoint שלך</span><span class="sxs-lookup"><span data-stu-id="3f2c9-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="8aa2a-102">ניהול אחסון מקוון של SharePoint שלך</span><span class="sxs-lookup"><span data-stu-id="8aa2a-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="3f2c9-103">עבור רוב הארגונים, אחסון SharePoint מנוהלת באופן אוטומטי כך שאינך צריך להגדיר מגבלות בכל אוסף אתרים.</span><span class="sxs-lookup"><span data-stu-id="3f2c9-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="3f2c9-104">כדי לבדוק כמה מקום אחסון של SharePoint שברשותך:</span><span class="sxs-lookup"><span data-stu-id="3f2c9-104">To check how much SharePoint storage you have:</span></span>
+<span data-ttu-id="8aa2a-103">עבור רוב הארגונים, אחסון SharePoint מנוהלת באופן אוטומטי כך שאינך צריך להגדיר מגבלות בכל אוסף אתרים.</span><span class="sxs-lookup"><span data-stu-id="8aa2a-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="8aa2a-104">כדי לבדוק כמה מקום אחסון של SharePoint שברשותך:</span><span class="sxs-lookup"><span data-stu-id="8aa2a-104">To check how much SharePoint storage you have:</span></span>
   
-- <span data-ttu-id="3f2c9-105">במרכז הניהול של SharePoint החדשה, בהשמאלי העליון של הדף אתרים, חפש זמין ואחסון הכולל.</span><span class="sxs-lookup"><span data-stu-id="3f2c9-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
+- <span data-ttu-id="8aa2a-105">במרכז הניהול של SharePoint החדשה, בהשמאלי העליון של הדף אתרים, חפש זמין ואחסון הכולל.</span><span class="sxs-lookup"><span data-stu-id="8aa2a-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
     
-<span data-ttu-id="3f2c9-106">לקבלת מידע אודות כיצד מחושבת מגבלת שלך, ראה [מגבלות המקוונת של SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="3f2c9-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="3f2c9-107">כדי לרכוש מקום אחסון נוסף, ראה [שינוי שטח אחסון עבור המנוי שלך](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="3f2c9-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
+<span data-ttu-id="8aa2a-106">לקבלת מידע אודות כיצד מחושבת מגבלת שלך, ראה [מגבלות המקוונת של SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="8aa2a-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="8aa2a-107">כדי לרכוש מקום אחסון נוסף, ראה [שינוי שטח אחסון עבור המנוי שלך](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="8aa2a-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
   
-<span data-ttu-id="3f2c9-108">לקבלת מידע אודות פיקוח על האחסון של אתרים בודדים באמצעות PowerShell וניהול אחסון אוסף אתרים באופן ידני, ראה [ניהול מגבלות אחסון של אוסף אתרים](https://go.microsoft.com/fwlink/?linkid=867833)</span><span class="sxs-lookup"><span data-stu-id="3f2c9-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
+<span data-ttu-id="8aa2a-108">לקבלת מידע אודות פיקוח על האחסון של אתרים בודדים באמצעות PowerShell וניהול אחסון אוסף אתרים באופן ידני, ראה [ניהול מגבלות אחסון של אוסף אתרים](https://go.microsoft.com/fwlink/?linkid=867833)</span><span class="sxs-lookup"><span data-stu-id="8aa2a-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
   
 
