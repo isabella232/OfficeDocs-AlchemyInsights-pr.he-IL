@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
 ms.openlocfilehash: b993f28d9321805003f04a7eb168f81a7acd3030
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929305"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32413832"
 ---
 האם יש לך תוכן שעובר **נשמרים** על-ידי **החזק** אשר לא ניתן לזהות? עליך **לגלות** היכן ממוקם החסימה על **תיבת הדואר** ? ניתן להחיל חסימות ( *תכונות שמירה* ) על-ידי אחת מהשיטות הבאות ב- Office 365: 
   

@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>שבוע של 11 במרץ 2019
-
-
-| פורסם ב |כותרת נושא | שינוי |
-|------|------------|--------|
-| 12/3/2019 | לא טוען הנכנס Outlook.com 8000054 | נוסף |
-| 12/3/2019 | [לא טוען הנכנס Outlook.com 8000078](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | שינוי שם |
-| 12/3/2019 | [לא טוען הנכנס Outlook.com 8000078](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | השתנה |
-| 13/3/2019 | [מסירת דואר אלקטרוני דרך Office 365](/AlchemyInsights/relay-email-through-office-365) | השתנה |
-| 14/3/2019 | [זהה filename הוא הטוב ביותר [כלל #-תיאור]](/AlchemyInsights/1-alchemy-insight-template) | השתנה |
-| 14/3/2019 | [הגדלת גודל תיבת הדואר](/AlchemyInsights/increase-mailbox-size) | השתנה |
-| 15/3/2019 | [האחזור בשולחן העבודה של outlook או החלפה הודעת דואר אלקטרוני](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | נוסף |
-
-
 ## <a name="week-of-march-18-2019"></a>שבוע של 18 במרץ 2019
 
 
@@ -530,3 +516,47 @@
 | 12/4/2019 | [AADConnect שדרוג 932](/AlchemyInsights/upgrading-aadconnect) | השתנה |
 | 12/4/2019 | [725 כינוי דואר אלקטרוני באמצעות מכשיר נייד](/AlchemyInsights/using-email-alias-on-mobile-device) | השתנה |
 | 12/4/2019 | [שגיאת Winsock 1554 10061](/AlchemyInsights/winsock-error-10061) | השתנה |
+
+
+## <a name="week-of-april-15-2019"></a>שבוע של 15 באפריל, 2019
+
+
+| פורסם ב |כותרת נושא | שינוי |
+|------|------------|--------|
+| 15/4/2019 | [אלכימיה - לאבחן ולפתור בעיות קישוריות Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | השתנה |
+| 15/4/2019 | [אלכימיה - צור מחדש את הפרופיל שלך ב- Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | השתנה |
+| 15/4/2019 | [טכנולוגיית DLP תזדקקו סוג מותאם אישית](/AlchemyInsights/dlp-might-need-custom-type) | נוסף |
+| 15/4/2019 | [טכנולוגיית DLP אינו פועל כצפוי](/AlchemyInsights/dlp-not-working-as-expected) | השתנה |
+| 15/4/2019 | [עצות מדיניות DLP לא עובד](/AlchemyInsights/dlp-policy-tips-not-working) | השתנה |
+| 15/4/2019 | [שגיאה Outlook.com 550](/AlchemyInsights/outlook-com-error-550) | נוסף |
+| 15/4/2019 | [Outlook.com חורג מהמיכסה](/AlchemyInsights/outlook-com-over-quota) | נוסף |
+| 15/4/2019 | [הסר Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | נוסף |
+| 15/4/2019 | [הסר Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | נוסף |
+| 15/4/2019 | [182 נא הפעל חוה כדי לאבחן &amp; לפתור בעיות אימות ב- Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | השתנה |
+| 16/4/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | השתנה |
+| 16/4/2019 | [הסר Outlook.com Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | השתנה |
+| 16/4/2019 | [8000088 שמור דוא ב- Outlook.com](/AlchemyInsights/outlook-com-save-emails) | השתנה |
+| 16/4/2019 | [8000052 צירוף קבצים ב- Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | השתנה |
+| 16/4/2019 | [8000015 חסימה או ביטול חסימה של שולחים](/AlchemyInsights/block-or-unblock-senders) | השתנה |
+| 16/4/2019 | [8000014 כיצד לשנות את השפה ב- Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | השתנה |
+| 16/4/2019 | [8000059 כיצד לשנות את הפריסה שלך](/AlchemyInsights/how-to-change-your-layout) | השתנה |
+| 16/4/2019 | [8000033 כיצד להשיב או העבר הודעות בגירסת הביתא Outlook.com](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | השתנה |
+| 16/4/2019 | [8000055 כיצד להיכנס אל או מתוך Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | השתנה |
+| 16/4/2019 | [העברת תיקיה ב- Outlook.com 8000062](/AlchemyInsights/moving-a-folder-in-outlook-com) | השתנה |
+| 16/4/2019 | [החל אוטומטית של תוויות רגישות](/AlchemyInsights/auto-apply-sensitivity-labels) | נוסף |
+| 16/4/2019 | [תוויות רגישות לא הופעה](/AlchemyInsights/sensitivity-labels-not-appearing) | נוסף |
+| 16/4/2019 | [תוויות השמירה חדשות שנוצרו באופן אוטומטי](/AlchemyInsights/new-retention-labels-created-automatically) | נוסף |
+| 16/4/2019 | [SharePoint ואת יומני ביקורת OneDrive](/AlchemyInsights/classic-sharepoint-audit-log-reports) | נוסף |
+| 16/4/2019 | [לזהות אירועים ההודעה מחק יומני ביקורת](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | נוסף |
+| 16/4/2019 | [לזהות העברת דואר אלקטרוני חיצוני על תיבות דואר ביומני ביקורת](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | נוסף |
+| 16/4/2019 | [זיהוי פעילות כלל תיבת דואר נכנס ביומני ביקורת](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | נוסף |
+| 16/4/2019 | [זהה את כתובת ה-IP ואת לקוח ביומני ביקורת](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | נוסף |
+| 16/4/2019 | [תיקון קובץ pst לפני ייבוא](/AlchemyInsights/repair-pst-before-importing) | נוסף |
+| 16/4/2019 | [דוחות יומן הביקורת של SharePoint קלאסי](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | נוסף |
+| 16/4/2019 | [דוחות יומן הביקורת של SharePoint קלאסי](/AlchemyInsights/classic-sharepoint-audit-log-reports) | השתנה |
+| 16/4/2019 | [לזהות העברת דואר אלקטרוני חיצוני על תיבות דואר ביומני ביקורת](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | השתנה |
+| 16/4/2019 | [זיהוי פעילות כלל תיבת דואר נכנס ביומני ביקורת](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | השתנה |
+| 16/4/2019 | [דוחות יומן הביקורת של SharePoint קלאסי](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | השתנה |
+| 17/4/2019 | [לפתור בעיות מסירה של דואר אלקטרוני לתיקיות ציבוריות התומכים בדואר](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | נוסף |
+| 17/4/2019 | [משמרות צוותים](/AlchemyInsights/teams-shifts) | השתנה |
+| 18/4/2019 | [שחזר 8000011 שנמחקו דוא ב- Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | השתנה |
