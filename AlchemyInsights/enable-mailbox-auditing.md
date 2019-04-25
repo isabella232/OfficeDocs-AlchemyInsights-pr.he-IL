@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 19997b0a-394f-4943-8908-c601696a332c
 ms.openlocfilehash: 81041685cf383a231a9a9739d6daffd6039b4602
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757819"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32403748"
 ---
-# <a name="enable-mailbox-auditing"></a><span data-ttu-id="93e52-102">אפשר ביקורת של תיבת דואר</span><span class="sxs-lookup"><span data-stu-id="93e52-102">Enable mailbox auditing</span></span>
+# <a name="enable-mailbox-auditing"></a><span data-ttu-id="ed075-102">אפשר ביקורת של תיבת דואר</span><span class="sxs-lookup"><span data-stu-id="ed075-102">Enable mailbox auditing</span></span>
 
-<span data-ttu-id="93e52-103">כדי להפעיל ביקורת על-ידי תיבת הדואר עבור משתמש בודד או ארגון שלם יש להפעיל את כלי cmdlet הבאים ממעטפת ההפעלה מרחוק:</span><span class="sxs-lookup"><span data-stu-id="93e52-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
+<span data-ttu-id="ed075-103">כדי להפעיל ביקורת על-ידי תיבת הדואר עבור משתמש בודד או ארגון שלם יש להפעיל את כלי cmdlet הבאים ממעטפת ההפעלה מרחוק:</span><span class="sxs-lookup"><span data-stu-id="ed075-103">To enable Mailbox Auditing for either a single user or an entire organization the following cmdlets must be run from Remote Power Shell:</span></span>
   
- <span data-ttu-id="93e52-104">**משתמש יחיד**</span><span class="sxs-lookup"><span data-stu-id="93e52-104">**Single User**</span></span>
+ <span data-ttu-id="ed075-104">**משתמש יחיד**</span><span class="sxs-lookup"><span data-stu-id="ed075-104">**Single User**</span></span>
   
-<span data-ttu-id="93e52-105">Set-Mailbox - זהות "יורם חלון" - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="93e52-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
+<span data-ttu-id="ed075-105">Set-Mailbox - זהות "יורם חלון" - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="ed075-105">Set-Mailbox -Identity "Jane Dow" -AuditEnabled $true</span></span>
   
- <span data-ttu-id="93e52-106">**הארגון**</span><span class="sxs-lookup"><span data-stu-id="93e52-106">**Organization**</span></span>
+ <span data-ttu-id="ed075-106">**הארגון**</span><span class="sxs-lookup"><span data-stu-id="ed075-106">**Organization**</span></span>
   
-<span data-ttu-id="93e52-107">תיבת דואר-get - ResultSize מוגבל - סינון {"UserMailbox" RecipientTypeDetails - eq} | Set-Mailbox - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="93e52-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
+<span data-ttu-id="ed075-107">תיבת דואר-get - ResultSize מוגבל - סינון {"UserMailbox" RecipientTypeDetails - eq} | Set-Mailbox - AuditEnabled $true</span><span class="sxs-lookup"><span data-stu-id="ed075-107">Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true</span></span>
   
-[<span data-ttu-id="93e52-108">למד עוד</span><span class="sxs-lookup"><span data-stu-id="93e52-108">Learn more</span></span>](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
+[<span data-ttu-id="ed075-108">למד עוד</span><span class="sxs-lookup"><span data-stu-id="ed075-108">Learn more</span></span>](https://support.office.com/article/aaca8987-5b62-458b-9882-c28476a66918)
   
 
