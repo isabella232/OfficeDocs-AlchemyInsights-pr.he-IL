@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918975"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410123"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>התקנת Office בשרת מסופים
 
@@ -25,9 +25,9 @@ ms.locfileid: "29918975"
     
 אם ברצונך להתקין את Office 365 ProPlus RDS מתוך הפורטל Office 365, * * *המשתמשת הגדרות ברירת המחדל של ההתקנה* * *, בצע את הפעולות הבאות: 
   
-1. בדוק איזו תוכנית Office 365 יש לך. [ללמוד כיצד](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. בדוק איזו תוכנית Office 365 יש לך. [למד כיצד](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. אם מתכננים הצורך, מתג Office 365 שונים. [ללמוד כיצד](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. אם מתכננים הצורך, מתג Office 365 שונים. [למד כיצד](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. אם כבר התקנת Office בשרת RDS באמצעות כל תוכניות אחרות של Office 365, הסר אותו. לדוגמה, על-ידי מעבר אל לוח הבקרה \> להסיר התקנה של תוכנית. הסרת התקנה באמצעות [התמיכה של Microsoft ומסייע שחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy) אם אתה מפעיל לתוך בעיות. 
     
