@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401185"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867939"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>לפתור בעיות החיפוש על-ידי בנייה מחדש את קטלוג החיפוש המהיר שלך
+# <a name="troubleshoot-search-issues"></a>פתרון בעיות של חיפוש
 
-1. סגור את Outlook ולאחר מכן פתח את **לוח הבקרה**.
-    
-    > [!NOTE]
-    > בהתאם לגירסת Office בה אתה משתמש, ייתכן שתצטרך ללחוץ על לחצן **התחל** ולאחר מכן בתפריט **התחלה** , לחץ לחיצה ימנית על **לוח הבקרה**. 
-  
-2. בצע אחת מהפעולות הבאות:
-    
-  - בחרו ' **אפשרויות יצירת אינדקס**.
-    
-  - בתיבת **החיפוש** , הקלד *אינדקס* ולאחר מכן בחר **אפשרויות יצירת אינדקס**.
-    
-3. תיבת הדו-שיח ' **מיקומים הכלולים באינדקס** ', תחת **שינוי מיקומים נבחרים**, בחר בתיבת הסימון עבור המיקום שברצונך לשנות ולאחר מכן לחץ על **אישור**.
-    
-4. בתיבת הדו-שיח **אפשרויות מתקדמות** , בכרטיסיה **הגדרות אינדקס** , תחת **פתרון בעיות**, לחץ על **בנה מחדש**.
-    
-    > [!NOTE]
-    > תיבת דו-שיח **לבנות מחדש אינדקס** אזהרה אשר פותח את "אינדקס עשוי להימשך זמן רב כדי להשלים." לחץ על **אישור** כדי להתחיל בנייה מחדש של האינדקס. 
-  
-לקבלת מידע נוסף, ראה בעיה מוכרת [אין תוצאות חיפוש עבור חשבונות POP/IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+אם אתה נתקל בבעיות עם החיפוש, נא עיין בקישורים להלן לקבלת עזרה לפתרון בעיות.
 
+אלה הם הבעיות הנפוצות ביותר, והם מקום טוב להתחיל:
+- [Outlook החיפוש לא החזיר תוצאות](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [חיפוש outlook יחזיר תוצאות לא הושלמה](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [חיפוש ב- outlook אין אפשרות למצוא דוא ל ישנים](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+ניתן למצוא כאן פתרונות אפשריים לבעיות נפוצות פחות:
+- [2016 outlook בלבד: הכרטיסיה חיפוש אפורות](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [תיבת הדואר המשותפת: בעיות עם תוצאות חיפוש](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [שגיאה: ביצועי החיפוש להיות מושפעים עקב בעיה להגדרת התצורה של Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [תיקיות חיפוש הצגת פריטים PersonMetadata צפויה אין נושא](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
