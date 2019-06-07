@@ -7,24 +7,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: c2960093bb1cfb649c26528c9f671e6d720ff237
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 5319c2f1edc3e61074301f039736d2aa96bda47b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736054"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34758767"
 ---
 # <a name="search-in-sharepoint-online"></a>חיפוש ב- SharePoint באופן מקוון
 
 חייב להיות סרוקים ותוכן נוסף לאינדקס החיפוש עבור משתמשים למצוא את מה שהם שאתה מחפש ב- SharePoint Online. התוכן נסרק באופן אוטומטי בהתבסס על לוח זמנים לסריקה מוגדרים מראש (אין אפשרות לשנות את לוח הזמנים של סריקה). הסורק ידגום תוכן השתנה מאז הסריקה האחרונה ומעדכנת את האינדקס. כדי להבטיח התוכן נסרק שהאינדקס יתעדכן, בצע את השלבים הבאים.
 
-ודא כי ניתן למצוא תוכן על-ידי הפיכת אתר תוכן הניתן לחיפוש. לקבלת מידע נוסף, ראה [הפעלת תוכן באתר כדי לשמש בחיפושים](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable).
+ודא כי ניתן למצוא תוכן על-ידי הפיכת אתר תוכן הניתן לחיפוש. לקבלת מידע נוסף, ראה [הפעלת תוכן באתר כדי לשמש בחיפושים](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
 שינית מאפיין מנוהל, או שינית את המיפוי של סרוקים והניהול של מאפיינים, האתר חייב להיות סרוק מחדש לפני שהשינויים ישתקפו באינדקס החיפוש. 
 
 מכיוון שהשינויים שלך נעשים סכימת החיפוש, לא לאתר בפועל, תביא הסורק באופן אוטומטי אינדקס מחדש את האתר. 
 
-לקבלת מידע נוסף, ראה [לבקש באופן ידני סריקה ויצירת אינדקס מחדש של אתר, ספריה או רשימה](https://docs.microsoft.com/en-us/sharepoint/crawl-site-conten).
+לקבלת מידע נוסף, ראה [לבקש באופן ידני סריקה ויצירת אינדקס מחדש של אתר, ספריה או רשימה](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
  המתן לפחות 24 שעות לאחר מבקש באופן ידני של הסריקה ואינדקס מלא מחדש כדי לראות אם אתה עדיין נתקל בבעיה. 
 
