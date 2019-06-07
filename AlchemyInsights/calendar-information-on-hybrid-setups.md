@@ -2,7 +2,7 @@
 title: פרטי לוח השנה 608 על כיוונוני היברידית
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.custom:
 - "608"
 - "896"
 ms.assetid: e269310f-32d4-423d-a9ce-0b6fe5c8b5ed
-ms.openlocfilehash: 936c708e53ee02d5de49783bd38091d0dac73efa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0a187115b7e78750459e5fadd8687b58dc9c489f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396453"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34756456"
 ---
-# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="7442f-102">בעיות הפנויים/לא פנויים בלוח השנה בסביבות היברידית</span><span class="sxs-lookup"><span data-stu-id="7442f-102">Calendar free/busy issues in hybrid environments</span></span>
+# <a name="calendar-freebusy-issues-in-hybrid-environments"></a><span data-ttu-id="8aeef-102">בעיות הפנויים/לא פנויים בלוח השנה בסביבות היברידית</span><span class="sxs-lookup"><span data-stu-id="8aeef-102">Calendar free/busy issues in hybrid environments</span></span>
 
-<span data-ttu-id="7442f-103">אם משתמשים נתקלים בבעיות לראות לוח שנה בסביבות היברידית מידע לגבי מועדים פנויים /, הפעל מחדש את אשף קביעת התצורה של היברידית.</span><span class="sxs-lookup"><span data-stu-id="7442f-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="7442f-104">לקבלת מידע נוסף אודות אשף קביעת התצורה של היברידית, ראה את [אשף קביעת התצורה של היברידית](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="7442f-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
+<span data-ttu-id="8aeef-103">אם משתמשים נתקלים בבעיות לראות לוח שנה בסביבות היברידית מידע לגבי מועדים פנויים /, הפעל מחדש את אשף קביעת התצורה של היברידית.</span><span class="sxs-lookup"><span data-stu-id="8aeef-103">If users are having issues seeing calendar free/busy information in hybrid environments, re-run the Hybrid Configuration wizard.</span></span> <span data-ttu-id="8aeef-104">לקבלת מידע נוסף אודות אשף קביעת התצורה של היברידית, ראה את [אשף קביעת התצורה של היברידית](https://go.microsoft.com/fwlink/p/?linkid=528149).</span><span class="sxs-lookup"><span data-stu-id="8aeef-104">For more information about the Hybrid Configuration wizard, see [Hybrid Configuration wizard](https://go.microsoft.com/fwlink/p/?linkid=528149).</span></span>
 
-<span data-ttu-id="7442f-105">עבור שלבים בסביבות היברידית לפתרון בעיות, ראה [פתרון בעיות פריסה היברידית](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="7442f-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
+<span data-ttu-id="8aeef-105">עבור שלבים בסביבות היברידית לפתרון בעיות, ראה [פתרון בעיות פריסה היברידית](https://technet.microsoft.com/library/jj659053.aspx).</span><span class="sxs-lookup"><span data-stu-id="8aeef-105">For troubleshooting steps in hybrid environments, see [Troubleshoot a hybrid deployment](https://technet.microsoft.com/library/jj659053.aspx).</span></span>
