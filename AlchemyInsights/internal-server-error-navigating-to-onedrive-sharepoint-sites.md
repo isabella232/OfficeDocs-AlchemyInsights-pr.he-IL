@@ -8,14 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 8276f5f29ef931e944759cfff82b2f311a73972a
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 03612e481d6f7adde5d0d9654d269ce1050f2cd8
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717523"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34751811"
 ---
 # <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>שגיאת שרת פנימית בעת ניווט לאתרי Sharepoint או OneDrive
 
-<p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">משתמשים ייתכן שתקבל שגיאת שרת פנימית 500 בעת ניסיון לנווט לאתרי Sharepoint או OneDrive.</span></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">נא נסה לנקות את מטמון הדפדפן לפני ניווט לאתר.</span></p> <ol> <li><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">בדפדפן Microsoft קצה, לעבור <strong>יותר</strong> &hellip; &gt; <strong>הגדרות</strong>.</span></li> <li><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">נקה נתוני גלישה, תחת בחר <strong>לבחור מה לנקות</strong>.</span></li> <li><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">בחר את קבצי ה-Cookie ואת תיבת הסימון נתונים של אתר אינטרנט שנשמר ובחר <strong>נקה</strong>.</span></li> </ol> <p><em style="mso-bidi-font-style: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">הערה: שלבים אלה עשויות להיות שונות בעת שימוש בדפדפנים אחרים כגון Firefox או Chrome.</span></em></p> <p><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">אם פעולה זו לא פותרת את הבעיה, באפשרותך לבדוק אם קיימת פעילות תחזוקה המתרחשים דיירים שלך על-ידי ניווט אל <a href="https://portal.office.com/adminportal/home#/MessageCenter">מרכז הודעה</a>. לבסוף, ודא שבקר בדף <a href="https://portal.office.com/adminportal/home#/servicehealth">תקינות שירות</a> לבדיקת עלוני יידוע/באירועים אשר ייתכן המתרחשים.</span></p>
+משתמשים ייתכן שתקבל שגיאת שרת פנימית 500 בעת ניסיון לנווט לאתרי SharePoint או OneDrive. 
+
+נא נסה לנקות את מטמון הדפדפן לפני ניווט לאתר.
+
+
+1. בדפדפן Microsoft קצה, לעבור יותר... הגדרות >
+
+2. נקה נתוני גלישה, תחת בחר **לבחור מה לנקות**
+
+3. בחר את קבצי ה-Cookie ואת תיבת הסימון נתונים של אתר אינטרנט שנשמר ובחר **נקה**.
+
+הערה: שלבים אלה עשויות להיות שונות בעת שימוש בדפדפנים אחרים כגון Firefox או Chrome.
+
+אם פעולה זו לא פותרת את הבעיה, באפשרותך לבדוק אם קיימת פעילות תחזוקה המתרחשים דיירים שלך על-ידי ניווט אל [מרכז הודעה](https://portal.office.com/adminportal/home#/MessageCenter).
+
+לבסוף, ודא שבקר בדף [תקינות שירות](https://portal.office.com/adminportal/home#/servicehealth) לבדיקת עלוני יידוע/באירועים אשר ייתכן המתרחשים.
 

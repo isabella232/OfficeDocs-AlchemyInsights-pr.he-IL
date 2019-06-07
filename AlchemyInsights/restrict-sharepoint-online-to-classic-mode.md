@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6e99da1c-e61d-40ba-855e-1a8f346e42fd
-ms.openlocfilehash: c51e48fe5694f964aef74c2973f774b44415ebb8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 76f0b5ed67d3220559d25dfd72c7535181a4513b
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422176"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34761760"
 ---
 # <a name="restrict-sharepoint-online-to-classic-mode"></a>להגביל את SharePoint Online במצב קלאסי
 
-ארגונים מסוימים דורשים עדיין את חוויית במצב קלאסי. כאשר אין גם כל תוכניות כדי להסיר במצב קלאסי ברמה מדוקדקת, החל באפריל 1,2019, כבר לא תהיה אפשרות להגביל את הארגון כולו (דיירים) למצב קלאסי עבור רשימות וספריות.
+ארגונים מסוימים דורשים עדיין את חוויית במצב קלאסי. כאשר אין גם כל תוכניות כדי להסיר במצב קלאסי ברמה מדוקדקת, היא אינה אפשרית עוד להגביל את הארגון כולו (דיירים) במצב קלאסי עבור רשימות וספריות.
 
 המנהל תהיה האפשרויות הבאות כדי לנהל ברשימות ובספריות במצב קלאסי באמצעות בוררים הצטרפות פרטני שאנו מספקים ברמות הבאות:
 
@@ -28,6 +28,6 @@ ms.locfileid: "32422176"
 
 בנוסף, רשימות המשתמשים בתכונות מסוימות והתאמות אישיות שאינן נתמכות על-ידי מודרנית עדיין להיות שונתה באופן אוטומטי במצב קלאסי.
 
-לאחר ה-1 באפריל, הרשימות והספריות אשר נמצאים במצב קלאסי כתוצאה דיירים opt-out באופן אוטומטי להיות מנוהל ברמת האתר ורמת רשימה.
+החל באפריל 1 במאי 2019, התהליך כדי להשבית את רמת דיירים ההצטרפות רשימה מודרני ו ספריות להתחיל ולהמשיך עד 31 במאי 2019.  הרשימות והספריות הנמצאים במצב קלאסי כתוצאה דיירים opt-out באופן אוטומטי יוסטו כדי מודרניים.
 
-אם דרוש לך במצב קלאסי כאן מידע נוסף, עיין ו- PnP Powershell הוראה כאן המתאר אפשרויות וכלים באפשרותך להשתמש היום כדי להתכונן מהסרת דיירים ברמת הצטרפות ב- 1 באפריל.
+אם דרוש לך במצב קלאסי נא עיין במידע נוסף [כאן](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) והוראת PnP Powershell [כאן](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) המתאר ואפשרויות של כלים שבהם באפשרותך להשתמש היום לשימוש בחוויית במצב קלאסי.
