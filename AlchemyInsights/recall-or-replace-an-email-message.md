@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096518"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770810"
 ---
 # <a name="recall-or-replace-an-email-message"></a>אחזור או החלפה של הודעת דואר אלקטרוני
 
@@ -36,7 +36,7 @@ ms.locfileid: "34096518"
 
 ***חיפוש ומחק הודעות דואר אלקטרוני בארגון שלך*** כדי לחפש ולמחוק הודעות דואר אלקטרוני בארגון שלך, הדרך הפשוטה ביותר אם אתה מנהל מערכת כללי אם אינך מנהל כללי, יש להוסיף לחשבון שלך לקבוצת התפקיד של מנהל גילוי אלקטרוני, או על תפקיד ניהול החיפוש תאימות. כדי למחוק הודעות, תצטרך להצטרף לקבוצה תפקיד ניהול הארגון או תפקיד ניהול חיפוש ומחק לצמיתות. [מרכז האבטחה של תאימות &](https://protection.office.com/)מוקצות הרשאות לתפקידים אלה.
 
-1. [צור תוכן החיפוש](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) כדי למצוא את ההודעה כדי למחוק.
-2. [להתחבר PowerShell מרכז תאימות & אבטחה](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [צור תוכן החיפוש](https://docs.microsoft.com/office365/securitycompliance/content-search) כדי למצוא את ההודעה כדי למחוק.
+2. [להתחבר PowerShell מרכז תאימות & אבטחה](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-אם אתה משתמש MFA, ראה [התחברות & האבטחה של Office 365 PowerShell מרכז תאימות באמצעות אימות מגורמים רבים](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+אם אתה משתמש MFA, ראה [התחברות & האבטחה של Office 365 PowerShell מרכז תאימות באמצעות אימות מגורמים רבים](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

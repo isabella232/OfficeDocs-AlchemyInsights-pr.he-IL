@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412485"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769896"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>מתג מתכננת להגדיל את גודל תיבת הדואר
 
@@ -34,4 +34,4 @@ ms.locfileid: "32412485"
     
 לקבלת פרטים נוספים, ראה [המתג אל תוכנית אחרת של Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-אם יש לך בלתי [O365 תוכנית התומכת ארכיון בתחליף](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), באפשרותך גם לקבל אחסון דואר אלקטרוני נוספות על-ידי הפעלת תיבת דואר של ארכיון.  תיבת הדואר ארכיון מעניקה לך מקום אחסון נוסף ומאפשר לך להעביר, העתק ולאחר מכן חפש אחר הודעות בשני הראשי ואת תיבת הדואר של ארכיון. לקבלת מידע אודות הפיכת תיבת דואר של ארכיון השלבים, ראה [הפעלת תיבת דואר של ארכיון](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+אם יש לך בלתי [O365 תוכנית התומכת ארכיון בתחליף](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), באפשרותך גם לקבל אחסון דואר אלקטרוני נוספות על-ידי הפעלת תיבת דואר של ארכיון.  תיבת הדואר ארכיון מעניקה לך מקום אחסון נוסף ומאפשר לך להעביר, העתק ולאחר מכן חפש אחר הודעות בשני הראשי ואת תיבת הדואר של ארכיון. לקבלת מידע אודות הפיכת תיבת דואר של ארכיון השלבים, ראה [הפעלת תיבת דואר של ארכיון](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

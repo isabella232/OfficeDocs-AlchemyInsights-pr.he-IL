@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: c3d058c22d88eb9625dbdaecba7edd270977f351
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3916e6cf6424b644e90621f21aa09b37140d5288
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: he-IL
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760871"
+ms.locfileid: "34770599"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>הגנת IRM לקבצי SharePoint
 
@@ -21,7 +21,7 @@ ms.locfileid: "34760871"
 
 לקבלת מידע נוסף, קרא את [יישומי Office כיצד ושירותים תומכים בניהול זכויות תכלת הרקיע](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-[הגדר למעלה זכויות ניהול מידע (IRM) במרכז הניהול של SharePoint](https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+[הגדר למעלה זכויות ניהול מידע (IRM) במרכז הניהול של SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
 [הפיכת IRM SharePoint ספריות מסמכים ורשימות](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 

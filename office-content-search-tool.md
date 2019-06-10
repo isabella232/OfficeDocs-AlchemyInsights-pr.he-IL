@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ee05de080a9bde2dd150cdfe340dd29875242f71
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: he-IL
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756643"
+ms.locfileid: "34770634"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>כלי חיפוש תוכן כדי למצוא מידע רלוונטי
 
 השתמש בכלי החיפוש תוכן ב- & אבטחה מרכז תאימות כדי למצוא במהירות דוא בתיבות הדואר של Exchange, מסמכים אתרי SharePoint מיקומים OneDrive, ואת שיחות ב- Skype עבור העסק של העברת הודעות מיידיות. באפשרותך להשתמש בכלי חיפוש תוכן כדי לחפש דואר אלקטרוני, מסמכים, שיחות ב- Office 365 כלי שיתוף פעולה כגון Microsoft צוותים וקבוצות Office 365 העברת הודעות מיידיות.
 
 
-לפני השימוש [חיפוש תוכן](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) מתוך [& אבטחה מרכז תאימות](https://sip.protection.office.com/homepage), ברצונך להשלים הגדרות התצורה כולל [הרשאות](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [מהירויות ההורדה הגדרה](https://docs.microsoft.com/en-us/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ולקבוע את תצורת [הגדרות ייצוא](https://docs.microsoft.com/en-us/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+לפני השימוש [חיפוש תוכן](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) מתוך [& אבטחה מרכז תאימות](https://sip.protection.office.com/homepage), ברצונך להשלים הגדרות התצורה כולל [הרשאות](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [מהירויות ההורדה הגדרה](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ולקבוע את תצורת [הגדרות ייצוא](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
 להבין יותר אודות חיפוש תוכן על-ידי סקירת את [דרישות ומגבלות](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [חקירת פריטי אינדקס חלקית](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ותוצאות אחרות להיות מודע.
 
