@@ -1,26 +1,29 @@
 ---
-title: 8000075 Outlook.com שינוי סיסמה - צרפתית
+title: Outlook.com שינוי סיסמה - צרפתית
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000075
-ms.openlocfilehash: b462177f44c23db07e3aca2b68e5fac20365e916
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000075"
+- "1153"
+- "1154"
+ms.openlocfilehash: 41eb60feb56008afafe51a686e663bf02458a248
+ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388447"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34820185"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>מחליף votre mot דה passe dans Outlook.com
 
 Votre mot דה passe Outlook.com est מ même ייחודיים votre mot דה passe Compte Microsoft.
 
-1. היא Accédez [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **דה mot מ צירוף passe**.
+1. היא Accédez [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **דה mot du Sécurité passe**.
 2. Sécurité דה mesure par, vous pouvez être invité היא confirmer votre identité היא l'aide d'un קוד דה sécurité.
 3. Entrez votre mot דה passe actuel, votre nouveau דה mot passe, puis sélectionnez **Enregistrer**.
 
