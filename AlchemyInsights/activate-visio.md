@@ -12,20 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 0ddafabd1896040fc93d4ad49bc306bea3104492
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765103"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883162"
 ---
 # <a name="activate-visio"></a>הפעלת Visio
 
-המנהל צריך להקצות [רשיון Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) משתמש לפני Visio שולחן העבודה app שולחן העבודה הכלולים ב- 2 לתכנן המקוונת של Visio יכול להיות מותקנת ומופעלת. (מקוון 1 תכנון Visio אינו כולל גירסה שולחנית של Visio).
+לפני משתמש באפשרותך להתקין ולהפעיל את שולחן העבודה Visio שולחן העבודה app הכלולה שלהם Visio מקוון תכנון 2, המשתמש חייב הוקצו [רשיון Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+
+**הערה** 1 תכנון מקוון Visio אינו כולל גירסה שולחנית של Visio.
+
+להפעלת Visio:
 
 1. [התקנת Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) אם אינו מותקן כבר.
-2. לאחר השלמת ההתקנה, פתח את היישום. במקרים רבים app יפעיל באופן אוטומטי והמשתמש יכול להתחיל להשתמש ב- Visio באופן מיידי.
-    אם תתבקש להיכנס, המשתמש חייב להיכנס באמצעות עבודה זהה או חשבון הספר אשר הוקצה רשיון Visio. 
+2. לאחר השלמת ההתקנה, פתיחת Visio. במקרים רבים הפעלת היישום באופן אוטומטי ולא תוכל להתחיל להשתמש ב- Visio באופן מיידי. אם תתבקש להיכנס, הקפד להיכנס באמצעות עבודה זהה או חשבון הספר שהוקצתה רשיון Visio. 
+
+עבור בעיות הפעלה, הפעל את [פותר הבעיות של הפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy) במחשב המושפע.
 
 לקבלת מידע מפורט, ראה:<br>
 [להפעיל את Office במחשב](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
