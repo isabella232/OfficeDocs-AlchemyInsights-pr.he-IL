@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b7a3805d30cac44781adbbb00c0f0ed3496ff17b
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389888"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883592"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Access נדחתה בעת הצגת זרימת עבודה
 
@@ -21,12 +21,11 @@ ms.locfileid: "32389888"
   
  **כדי לפתור בעיה זו, בצע את הפעולות הבאות:**
   
- 1. אפשר את כולם לראות את חברי קבוצת SharePoint. 
+ 1. אפשר את כולם לראות את חברי קבוצת SharePoint.
   
- 2. הסר את הקבוצה SharePoint אל או עותק שורה של הודעת הדואר האלקטרוני. 
+ 2. הסר את הקבוצה SharePoint אל או עותק שורה של הודעת הדואר האלקטרוני.
   
- 3. להוסיף באופן מפורש את המשתמשים אל או עותק שורה אם לא ניתן לשנות את הניראות של חברות עבור קבוצת SharePoint. 
+ 3. להוסיף באופן מפורש את המשתמשים אל או עותק שורה אם לא ניתן לשנות את הניראות של חברות עבור קבוצת SharePoint.
   
-כדי להציג פרטים נוספים נא עיין [בלתי מורשית של HTTP כדי /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+כדי להציג פרטים נוספים נא עיין [בלתי מורשית של HTTP כדי /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
-
