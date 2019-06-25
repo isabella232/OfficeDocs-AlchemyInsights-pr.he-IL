@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 4cd7db1d9a6a1c86e64cee040d9dc3c1d180832f
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 0a30faed3991c1e49d25df51db09636660884bf4
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132654"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199346"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>התקפה Ransomware ב- SharePoint או OneDrive
 
@@ -35,5 +35,6 @@ ms.locfileid: "35132654"
 
 [זיהוי וירוסים ב SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/virus-detection-in-spo)
 [הצפנת נתונים ב- ODB SPO](https://docs.microsoft.com/en-us/office365/securitycompliance/data-encryption-in-odb-and-spo)
-[הגנה על הנתונים שלך ב- SharePoint](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data) ][הגנה מפני איום Ransomware](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
+[הגנה על הנתונים שלך ב- SharePoint](https://docs.microsoft.com/en-us/sharepoint/safeguarding-your-data)
+[הגנה מפני איום Ransomware](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/ransomware-malware)
 [Ransomware הזיהוי ואת קבצי שחזור](https://support.office.com/en-ie/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)

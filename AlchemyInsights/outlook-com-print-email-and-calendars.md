@@ -14,19 +14,19 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: db963210d99ad41fe69eeae11baac9590f429448
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: 81da5338117b49a21c95de2beae8319c55c83c4a
+ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34709018"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34957382"
 ---
 # <a name="print-email-and-calendars"></a>הדפסה של דואר אלקטרוני ולוחות שנה
 
 כדי להדפיס הודעת דוא:
   
 1. בחר את ההודעה שברצונך להדפיס.
-1. מעל חלונית הקריאה, בחר את שלוש נקודות ולאחר מכן בחר **הדפסה**.
+1. בפינה השמאלית העליונה של ההודעה, בחר את שלוש נקודות ולאחר מכן בחר **הדפסה**.
 
 כדי להדפיס את לוח השנה שלך:
 

@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643428"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273601"
 ---
 # <a name="how-to-sign-out-of-outlook-on-the-web"></a>כיצד לצאת מ- Outlook באינטרנט
 
-1. בחר את שמך או את התמונה בפינה השמאלית העליונה.
-    
-    אם אינך רואה את התמונה שלך בחלק העליון של המסך, בדוק אם חסימת פרסומות מופעלת. לעתים הדבר מונע את התמונה הצגה.
-    
-2. בחר **יציאה**. 
-    
-    כדי לעצור באופן אוטומטי בכניסה לעבודה שלך או בית ספר חשבון, בטל את סימון התיבה עבור **השאר אותי מחובר** בדף בו להזין את הסיסמה שלך. 
-    
+כדי לצאת Outlook באינטרנט, בחר את שמך או את התמונה בפינה השמאלית העליונה ובחר **לצאת**.
+
+כדי להפסיק באופן אוטומטי בכניסה לחשבון שלך בעבודה או בבית הספר:
+
+1. בחר שם או התמונה שלך ובחר באפשרות **יציאה**.
+1. עבור אל [Outlook.office.com](https://outlook.office.com/) ובחר **להשתמש בחשבון אחר**.
+1. היכנס באמצעות כתובת הדואר האלקטרוני שבה ברצונך להשתמש.
+
 לקבלת מידע נוסף, ראה [כיצד ניתן להיכנס אל או מתוך Outlook באינטרנט](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
