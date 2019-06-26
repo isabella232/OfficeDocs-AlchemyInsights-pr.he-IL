@@ -1,5 +1,5 @@
 ---
-title: הענק למשתמשים גישה SharePoint ו- OneDrive
+title: התכונה בקשות של Access
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 4bb81a3ea87130b0da3bd028ee06cbbf21d1bec7
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 81cfdb7c4b218ffacfca75b3cc14e5aac13dc3d5
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760132"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223749"
 ---
 # <a name="give-users-access-to-sharepoint-site"></a>להעניק למשתמשים גישה לאתר SharePoint
 
@@ -24,15 +24,15 @@ ms.locfileid: "34760132"
 
 להלן מספר קישורים נפוצות לגבי בקשות גישה:
 
-[Access נדחתה"רשימת בקשות Access או"בקשת אישור נכשלה"כאשר התהליך של בקשה ממתינה ב- SharePoint Online](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [Access נדחתה"רשימת בקשות Access או"בקשת אישור נכשלה"כאשר התהליך של בקשה ממתינה ב- SharePoint Online](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
 
-[בקשות גישת שינוי הגדרות](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [בקשות גישת שינוי הגדרות](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-[לאשר או לדחות בקשות גישה עבור אתר](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [לאשר או לדחות בקשות גישה עבור אתר](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-[ניהול הזמנות משתמשים חיצוניים (Online SharePoint בלבד)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [ניהול הזמנות משתמשים חיצוניים (Online SharePoint בלבד)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-[שלח מחדש הזמנה](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [שלח מחדש הזמנה](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: a541c6829d688f06fa4bc207b517cff68170e1da
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760659"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223821"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>אפשר שיתוף חיצוני ב- SharePoint Online
 
@@ -20,25 +20,25 @@ ms.locfileid: "34760659"
 
 לקבלת מידע נוסף אודות שיתוף חיצוני (אורחים), נא בקר הקישורים שלהלן.
 
-[מה זה משתמש חיצוני?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [מה זה משתמש חיצוני?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[מה קורה כאשר אני משתף אתר או המסמך?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [מה קורה כאשר אני משתף אתר או המסמך?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-[הפעלה או ביטול של שיתוף חיצוני עבור SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [הפעלה או ביטול של שיתוף חיצוני עבור SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[להפעיל או לבטל שיתוף עבור אתר חיצוני](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [להפעיל או לבטל שיתוף עבור אתר חיצוני](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[נהל את גישת אורח בקבוצות של Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [נהל את גישת אורח בקבוצות של Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-[להשתמש ב- Sharepoint Online כפתרון אקסטרא-נט עסק לעסק (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [להשתמש ב- Sharepoint Online כפתרון אקסטרא-נט עסק לעסק (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[שיתוף קבצים של SharePoint או תיקיה](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [שיתוף קבצים של SharePoint או תיקיה](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[הפסק שיתוף קבצים OneDrive או SharePoint או תיקיות או לשנות הרשאות](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [הפסק שיתוף קבצים OneDrive או SharePoint או תיקיות או לשנות הרשאות](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[מחיקת משתמש חיצוני](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [מחיקת משתמש חיצוני](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-מקבל שגיאה עם משתמש חיצוני (אורח)?
+**מקבל שגיאה עם משתמש חיצוני (אורח)?**
 
 בדוק את הקישורים שלהלן. 
 
