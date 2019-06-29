@@ -1,26 +1,26 @@
 ---
-title: מצב Outlook.com 8000049 מציגה תמיד כ זמין
+title: מצב Outlook.com מציג תמיד כ זמין
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 5/31/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000049
+ms.custom:
+- "817"
+- "1767"
+- "1768"
+- "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 4f19d74c0181e987691c7da0b3408f0511e3c164
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5ade09e56eeb283d61bcb7b4b49fa65103b5e26e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373632"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371866"
 ---
-# <a name="my-outlookcom-status-always-shows-as-available"></a>המצב שלי Outlook.com מציגה תמיד כ זמין
+# <a name="my-status-always-shows-as-available"></a>המצב שלי מציג תמיד כ זמין
 
-מצב החשבון שלך מופיע לצד תמונת החשבון שלך ומאפשר Outlook.com שלך ואת אנשי קשר Skype לדעת אם אתה זמין לנהל צ'אט או לנהל שיחה Skype. באפשרותך לשנות את מצב החשבון שלך ב- Outlook.com או Skype, אך בכל פעם שתיכנס אל Outlook.com, מצב החשבון שלך יאופסו כדי זמין.
-  
-באפשרותך למנוע את מצבך שינוי באמצעות גירסת הביתא Outlook.com, או על-ידי חתימה לא מחוץ Outlook.com. שים לב לסגור את הדפדפן אינו זהה מתנתק אין השפעה על המצב שלך. כדי להישאר מחובר בעת סגירת הדפדפן שלך, בחר בתיבת **השאר אותי מחובר** הסימן at בשורת. 
-  
-
+בכל פעם שתיכנס אל Outlook.com, מצב החשבון שלך יאופסו כדי זמין. באפשרותך למנוע את מצבך שינוי על-ידי חתימה לא מחוץ Outlook.com. כדי להישאר מחובר בעת סגירת הדפדפן שלך, בחר את תיבת **השאר אותי מחובר** בדף Outlook.com הכניסה.

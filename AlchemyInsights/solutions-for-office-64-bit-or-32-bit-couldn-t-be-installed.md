@@ -10,35 +10,34 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "905"
+- "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: 7d72d902e933313082e725d3e467f77a7ec8ae5b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5e99c654b970dbbc3eaa81b0888ffe7b9bfac4cd
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391677"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35368046"
 ---
 # <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>פתרונות עבור "(64 סיביות או 32 סיביות) של Office לא היתה אפשרות להתקין
-
-
 
 השגיאה "לא היתה אפשרות להתקין את Office (64 סיביות או 32 סיביות)" מתרחשת מאחר יכול לערב בין גירסאות 32 סיביות ו- 64 סיביות של Office.
   
 כדי לתקן שגיאה זו ולעבור מתוך 32 סיביות ל- 64-סיביות, עליך לבצע את הפעולות הבאות בסדר זה.
   
 1. הורד והתקן את [התמיכה ומסייע השחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy).
-    
-1. כשהוא נפתח, מתוך **מוצרים להסיר את ההתקנה של Office** , בחר את הגירסה שברצונך להסיר ובחר **הבא**. 
-    
+
+1. כשהוא נפתח, מתוך **מוצרים להסיר את ההתקנה של Office** , בחר את הגירסה שברצונך להסיר ובחר **הבא**.
+
 2. המשך לעבור מסכים והפעל מחדש את המחשב כאשר תתבקש לעשות זאת.
-    
+
     לאחר ההפעלה מחדש, התמיכה ומסייע השחזור פותח באופן אוטומטי מחדש כדי להשלים את תהליך הסרת ההתקנה.
-    
-3. בצע הנותרים בקשות, ולהתקין [מחדש את Office](https://portal.office.com/OLS/MySoftware.aspx) עם הגירסה הנכונה של 32 סיביות או 64 סיביות. 
-    
+
+3. בצע הנותרים בקשות, ולהתקין [מחדש את Office](https://portal.office.com/OLS/MySoftware.aspx) עם הגירסה הנכונה של 32 סיביות או 64 סיביות.
+
     בצע את השלבים ב- [Office להתקין במחשב](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
-    
+
 לקבלת מידע נוסף, ראה ["לא היתה אפשרות להתקין את Office (64 סיביות או 32 סיביות)" שגיאה בעת ניסיון להתקין](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
   
-

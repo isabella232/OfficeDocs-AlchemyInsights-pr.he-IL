@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883162"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358902"
 ---
 # <a name="activate-visio"></a>הפעלת Visio
 
@@ -27,8 +27,8 @@ ms.locfileid: "34883162"
 
 להפעלת Visio:
 
-1. [התקנת Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) אם אינו מותקן כבר.
-2. לאחר השלמת ההתקנה, פתיחת Visio. במקרים רבים הפעלת היישום באופן אוטומטי ולא תוכל להתחיל להשתמש ב- Visio באופן מיידי. אם תתבקש להיכנס, הקפד להיכנס באמצעות עבודה זהה או חשבון הספר שהוקצתה רשיון Visio. 
+1. התקנת Visio מתוך [הפורטל החשבון שלי](https://portal.office.com/account#installs) אם אינו מותקן כבר. לקבלת עזרה, ראה [התקנת Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. לאחר השלמת ההתקנה, פתח את יישום ה-Visio. Visio להניח יפעיל באופן אוטומטי, באפשרותך להתחיל להשתמש בו מיד. אם לא, ייתכן שתתבקש כדי להיכנס. הקפד להיכנס באמצעות עבודה זהה או חשבון הספר שהוקצתה רשיון Visio. בצע את ההנחיות כדי להמשיך עם ההפעלה. 
 
 עבור בעיות הפעלה, הפעל את [פותר הבעיות של הפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy) במחשב המושפע.
 
