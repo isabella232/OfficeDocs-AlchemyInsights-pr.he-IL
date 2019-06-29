@@ -7,16 +7,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "824"
+- "5800003"
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
-ms.openlocfilehash: 0c2d1b71e9a6b9376d0315965af80651cc99e9fb
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 507987f147a1b6a09df4da02d307fbf330d7fd8d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401257"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387490"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="a4138-102">פתרון בעיות סינכרון ב- OneDrive</span><span class="sxs-lookup"><span data-stu-id="a4138-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="43d1a-102">פתרון בעיות סינכרון ב- OneDrive</span><span class="sxs-lookup"><span data-stu-id="43d1a-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="a4138-103">אם OneDrive לא מסנכרן קבצים כפי שציפית, באפשרותך [לפתור בעיות סינכרון OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="a4138-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
+<span data-ttu-id="43d1a-103">אם OneDrive לא מסנכרן קבצים כפי שציפית, באפשרותך [לפתור בעיות סינכרון OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).</span><span class="sxs-lookup"><span data-stu-id="43d1a-103">If OneDrive isn't syncing files the way you expect, you can [troubleshoot OneDrive sync issues](https://go.microsoft.com/fwlink/?linkid=866431).</span></span>
   
-

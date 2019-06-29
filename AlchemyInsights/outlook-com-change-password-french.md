@@ -9,24 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- "8000075"
 - "1153"
 - "1154"
-ms.openlocfilehash: 41eb60feb56008afafe51a686e663bf02458a248
-ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
+- "8000075"
+ms.openlocfilehash: c7ec38f1743596aea877e5d720ac15457447d51c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34820185"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376294"
 ---
-# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a><span data-ttu-id="d7373-102">מחליף votre mot דה passe dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="d7373-102">Changer votre mot de passe dans Outlook.com</span></span>
+# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a><span data-ttu-id="de431-102">מחליף votre mot דה passe dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="de431-102">Changer votre mot de passe dans Outlook.com</span></span>
 
-<span data-ttu-id="d7373-103">Votre mot דה passe Outlook.com est מ même ייחודיים votre mot דה passe Compte Microsoft.</span><span class="sxs-lookup"><span data-stu-id="d7373-103">Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.</span></span>
+<span data-ttu-id="de431-103">Votre mot דה passe Outlook.com est מ même ייחודיים votre mot דה passe Compte Microsoft.</span><span class="sxs-lookup"><span data-stu-id="de431-103">Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.</span></span>
 
-1. <span data-ttu-id="d7373-104">היא Accédez [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **דה mot du Sécurité passe**.</span><span class="sxs-lookup"><span data-stu-id="d7373-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du mot de passe**.</span></span>
-2. <span data-ttu-id="d7373-105">Sécurité דה mesure par, vous pouvez être invité היא confirmer votre identité היא l'aide d'un קוד דה sécurité.</span><span class="sxs-lookup"><span data-stu-id="d7373-105">Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l’aide d’un code de sécurité.</span></span>
-3. <span data-ttu-id="d7373-106">Entrez votre mot דה passe actuel, votre nouveau דה mot passe, puis sélectionnez **Enregistrer**.</span><span class="sxs-lookup"><span data-stu-id="d7373-106">Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.</span></span>
+1. <span data-ttu-id="de431-104">היא Accédez [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **דה mot du Sécurité passe**.</span><span class="sxs-lookup"><span data-stu-id="de431-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du mot de passe**.</span></span>
+2. <span data-ttu-id="de431-105">Sécurité דה mesure par, vous pouvez être invité היא confirmer votre identité היא l'aide d'un קוד דה sécurité.</span><span class="sxs-lookup"><span data-stu-id="de431-105">Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l’aide d’un code de sécurité.</span></span>
+3. <span data-ttu-id="de431-106">Entrez votre mot דה passe actuel, votre nouveau דה mot passe, puis sélectionnez **Enregistrer**.</span><span class="sxs-lookup"><span data-stu-id="de431-106">Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.</span></span>
 
-<span data-ttu-id="d7373-107">מזמין Si vous avez oublié votre mot דה passe, accédez היא la [דף דה réinitialisation דה mot דה דה passe compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les.</span><span class="sxs-lookup"><span data-stu-id="d7373-107">Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invites.</span></span>
+<span data-ttu-id="de431-107">מזמין Si vous avez oublié votre mot דה passe, accédez היא la [דף דה réinitialisation דה mot דה דה passe compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les.</span><span class="sxs-lookup"><span data-stu-id="de431-107">Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invites.</span></span>
 
-<span data-ttu-id="d7373-108">גו vous pensez ייחודיים votre Outlook.com piraté été, voir [compte יום ב' Outlook.com piraté été](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).</span><span class="sxs-lookup"><span data-stu-id="d7373-108">Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).</span></span>
+<span data-ttu-id="de431-108">גו vous pensez ייחודיים votre Outlook.com piraté été, voir [compte יום ב' Outlook.com piraté été](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).</span><span class="sxs-lookup"><span data-stu-id="de431-108">Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).</span></span>
