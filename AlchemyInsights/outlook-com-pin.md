@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000233
-ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1817"
+- "9000233"
+ms.openlocfilehash: 4a3813c9c926e7a6b9106703204dae644b06b84a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392377"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373450"
 ---
 # <a name="change-your-pin"></a>שינוי מספר הזיהוי האישי שלך
 
 Outlook.com לא להשתמש ב- PIN, אך ייתכן להיכנס אל המחשב האישי שלך בעזרת PIN או שלום של Windows. כדי לשנות את מספר הזיהוי האישי שלך ב- Windows 10:
 
-1. עבור אל ההתחלה, ולאחר מכן בחר **הגדרות** > **חשבונות** > **אפשרויות כניסה**.
+1. בחר את לחצן ' התחל ' או הקש על מקש חלונות במקלדת שלך ולאחר מכן בחר **הגדרות** > **חשבונות** > **אפשרויות כניסה**.
 2. בחר את לחצן **שנה** תחת **ה-PIN**.
 3. הזן את ה-PIN הנוכחי, ולאחר מכן הזן ואשר ה-PIN החדש שלך מתחת.
 
