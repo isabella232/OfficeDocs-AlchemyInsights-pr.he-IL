@@ -10,18 +10,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
-ms.openlocfilehash: 768f616bb69f0c5689f968bb06a5dc161d30fec4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "753"
+- "2000016"
+ms.openlocfilehash: 44e254521a47aa1ca1fe0dc73aaad95d620542f8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417283"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384286"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="e603d-102">כיצד להתקין את Office iPhone</span><span class="sxs-lookup"><span data-stu-id="e603d-102">How to install Office on an iPhone</span></span>
+# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="2787a-102">כיצד להתקין את Office iPhone</span><span class="sxs-lookup"><span data-stu-id="2787a-102">How to install Office on an iPhone</span></span>
 
+- <span data-ttu-id="2787a-103">יש את המשתמש [הקש על קישור ההורדה](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) מהמכשיר הנייד שלהם, עבור Word, Excel, PowerPoint ו- OneNote.</span><span class="sxs-lookup"><span data-stu-id="2787a-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="e603d-103">יש את המשתמש [הקש על קישור ההורדה](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) מהמכשיר הנייד שלהם, עבור Word, Excel, PowerPoint ו- OneNote.</span><span class="sxs-lookup"><span data-stu-id="e603d-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span> 
-    
-- <span data-ttu-id="e603d-104">ודא כי המשתמש להפעיל את היישום, הקש על **היכנס** הזן עבודתם או בית הספר אישורי.</span><span class="sxs-lookup"><span data-stu-id="e603d-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span> 
-    
-
+- <span data-ttu-id="2787a-104">ודא כי המשתמש להפעיל את היישום, הקש על **היכנס** הזן עבודתם או בית הספר אישורי.</span><span class="sxs-lookup"><span data-stu-id="2787a-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
