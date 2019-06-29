@@ -1,24 +1,37 @@
 ---
-title: לא טוען הנכנס Outlook.com 8000078
+title: תיבת הדואר הנכנס Outlook.com לא טוען
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/12/2019
+ms.date: 5/1/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000078
-ms.openlocfilehash: 0d08c38e624d293a58ddad0463016dace3283510
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1271"
+- "1963"
+- "8000078"
+ms.openlocfilehash: 3f881fd1f97c9abd771543271a0b6813e79e6e4f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418696"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374530"
 ---
-# <a name="inbox-not-loading-with-firefox"></a><span data-ttu-id="af08b-102">תיבת הדואר הנכנס לא טוען עם Firefox</span><span class="sxs-lookup"><span data-stu-id="af08b-102">Inbox not loading with Firefox</span></span>
+# <a name="empty-inbox"></a><span data-ttu-id="d2b20-102">תיבת דואר נכנס ריקה</span><span class="sxs-lookup"><span data-stu-id="d2b20-102">Empty inbox</span></span>
 
-<span data-ttu-id="af08b-103">הרחבות מסוימות בדפדפן Firefox עלול למנוע Outlook.com inbox טעינה.</span><span class="sxs-lookup"><span data-stu-id="af08b-103">Certain add-ons in the Firefox browser might prevent your Outlook.com inbox from loading.</span></span>
-  
-<span data-ttu-id="af08b-104">בקר תמיכה Firefox כדי ללמוד כיצד [להפוך ללא זמין או להסיר הרחבות](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span><span class="sxs-lookup"><span data-stu-id="af08b-104">Visit Firefox support to learn how to [Disable or remove Add-ons](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span></span>
+<span data-ttu-id="d2b20-103">**תיבת הדואר הנכנס שלי הוא ריק**</span><span class="sxs-lookup"><span data-stu-id="d2b20-103">**My inbox is empty**</span></span>
 
+- <span data-ttu-id="d2b20-104">הרחבות מסוימות בדפדפן Firefox עלול למנוע inbox טעינה.</span><span class="sxs-lookup"><span data-stu-id="d2b20-104">Certain add-ons in the Firefox browser might prevent your inbox from loading.</span></span> <span data-ttu-id="d2b20-105">בקר תמיכה Firefox כדי ללמוד כיצד [להפוך ללא זמין או להסיר הרחבות](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span><span class="sxs-lookup"><span data-stu-id="d2b20-105">Visit Firefox support to learn how to [Disable or remove Add-ons](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span></span>
+
+<span data-ttu-id="d2b20-106">**אני רוצה לרוקן את תיבת הדואר הנכנס שלי**</span><span class="sxs-lookup"><span data-stu-id="d2b20-106">**I want to empty my inbox**</span></span>
+
+<span data-ttu-id="d2b20-107">אם ברצונך לרוקן את תיבת הדואר הנכנס שלך ולמחוק כל הדוא ל שלך:</span><span class="sxs-lookup"><span data-stu-id="d2b20-107">If you want to empty your inbox and delete all your email:</span></span>
+
+1. <span data-ttu-id="d2b20-108">בחר את העיגול ליד [תיבת הדואר הנכנס](https://outlook.live.com/mail/inbox) בחלק העליון של רשימת ההודעות שלך כדי לבחור את כל ההודעות שלך.</span><span class="sxs-lookup"><span data-stu-id="d2b20-108">Select the circle next to [Inbox](https://outlook.live.com/mail/inbox) at the top of your message list to select all your messages.</span></span>
+1. <span data-ttu-id="d2b20-109">בחלק העליון של הדף, בחר **תיקיה ריקה** (או **ממוקד ריקה** / **ריק אחר** אם תיבת הדואר הנכנס ממוקד מופעלת).</span><span class="sxs-lookup"><span data-stu-id="d2b20-109">At the top of the page, select **Empty folder** (or **Empty Focused** / **Empty Other** if Focused Inbox is turned on).</span></span>
+1. <span data-ttu-id="d2b20-110">בחר **מחק הכל**.</span><span class="sxs-lookup"><span data-stu-id="d2b20-110">Select **Delete all**.</span></span>
+1. <span data-ttu-id="d2b20-111">כדי לנקות את כל ההודעות שנמחקו שלך, פתח את [התיקיה פריטים שנמחקו](https://outlook.live.com/mail/deleteditems) ובחר **תיקיה ריקה** > **למחוק את כל**, לאחר מכן בחר **לשחזר פריטים שנמחקו מתיקיה זו** בחלק העליון של הדף ולחץ שוב בחר **תיקיה ריקה** .</span><span class="sxs-lookup"><span data-stu-id="d2b20-111">To purge all your deleted messages, open your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder** > **Delete all**, then select **Recover items deleted from this folder** at the top of the page and select **Empty folder** again.</span></span>
+
+<span data-ttu-id="d2b20-112">לקבלת מידע נוסף, ראה [מחיקת דוא ב- Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4)</span><span class="sxs-lookup"><span data-stu-id="d2b20-112">For more information, see [Delete email in Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4)</span></span>
