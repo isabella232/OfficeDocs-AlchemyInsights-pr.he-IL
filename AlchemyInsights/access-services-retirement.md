@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769440"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359348"
 ---
 # <a name="access-services-retirement"></a>פרישה שירותים של Access
 
@@ -24,7 +27,7 @@ ms.locfileid: "34769440"
 
 **מה עלי לעשות כדי להתכונן לקראת השינוי?**
 
-אנו ממליצים ליצור תוכנית המעבר עבור מסדי נתונים של web Access של הארגון שלך. מנהלים באפשרותך להשתמש [סורק יישום SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) לקבלת רשימת מלאי של apps Access משתמש בהם אתרים. 
+אנו ממליצים ליצור תוכנית המעבר עבור מסדי נתונים של web Access של הארגון שלך. מנהלים באפשרותך להשתמש [סורק יישום SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) לקבלת רשימת מלאי של apps Access משתמש בהם אתרים.
 
 ישנן מספר דרכים להעברת נתונים במסדי נתונים של Access אינטרנט:
 

@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883128"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357570"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>שלבים לפתרון בעיות קריסה של outlook
 
@@ -25,10 +27,9 @@ ms.locfileid: "33883128"
   
 שלב 1: לחקור בעיות אפשריות עם תוספות.
   
-שלב 2: תיקון Outlook ומפעיל את [הכלי תמיכה ומסייע השחזור כדי לפתור בעיות של שגיאות הפעלה של Outlook](https://aka.ms/SaRA-OutlookWontStart) במחשב המושפע. 
+שלב 2: תיקון Outlook ומפעיל את [הכלי תמיכה ומסייע השחזור כדי לפתור בעיות של שגיאות הפעלה של Outlook](https://aka.ms/SaRA-OutlookWontStart) במחשב המושפע.
   
-שלב 3: יצירת פרופיל Outlook חדש או להפעיל את [הכלי פרופיל Outlook](https://aka.ms/SaRA-OutlookSetupProfile) במחשב המושפע. 
+שלב 3: יצירת פרופיל Outlook חדש או להפעיל את [הכלי פרופיל Outlook](https://aka.ms/SaRA-OutlookSetupProfile) במחשב המושפע.
   
 אם הבעיה אירעה לאחר עדכון הצעדים שלעיל אינם פועלים, ייתכן שיהיה עליך לחזור build קודמת. ראה [כיצד לחזור לגירסה קודמת של Office 2013 או לחץ 2016 Office והפעל](https://support.microsoft.com/help/2770432).
   
-

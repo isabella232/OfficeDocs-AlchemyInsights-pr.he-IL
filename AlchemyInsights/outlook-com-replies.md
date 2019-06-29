@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392537"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372550"
 ---
 # <a name="replying-in-outlookcom"></a>מענה ב- Outlook.com
 
 כדי להשיב להודעה אחת בכל פעם:
 
-1. ברשימת ההודעות, בחר את ההודעה שברצונך להעביר.
+1. ברשימת ההודעות, בחר את ההודעה שעליה ברצונך להשיב.
 2. בחלק העליון השמאלי של חלונית הודעה, בחר את החץ **תשובה** או חצים **השב לכולם** .
 3. הקלד את ההודעה שלך ולאחר מכן בחר **לשלוח**.
 
 לשם מענה אוטומטי להודעות כל:
 
-1. פתח את [הגדרות תשובות אוטומטיות](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. עבור אל **הגדרות** > **להציג את כל הגדרות Outlook** > **דואר** > **תשובות אוטומטיות** כדי לפתוח את [הגדרות תשובות אוטומטיות](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. בחר toggle **להפעיל תשובות אוטומטיות** .
 3. בחירה בתיבת הסימון **שלח תשובות רק במהלך פרק זמן** מאפשרת לך:
     - שלח מענה רק כאשר אתה בוחר. אם לא תגדיר פרק זמן, התשובה האוטומטית שלך נשאר על עד שתבטל אותה.
