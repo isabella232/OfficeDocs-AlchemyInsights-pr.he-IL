@@ -9,16 +9,19 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1737"
+- "9000181"
+ms.openlocfilehash: 58c6768a5285247273b55eeb0f3df2a797c88086
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769544"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35360486"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>החל אוטומטית של תוויות רגישות
 
-תוויות רגישות יכול להיות mannually שחל על תוכן על-ידי משתמשים, או באפשרותך להגדיר אותם באופן אוטומטי יחול על תוכן.
+תוויות רגישות יכול באופן ידני לחול על תוכן על-ידי משתמשים, או באפשרותך להגדיר אותם באופן אוטומטי יחול על תוכן.
 
 החלה אוטומטית של תוויות רגישות מסירה את הצורך הכשרת משתמשים כיצד לסווג תוכן את הצורך כדי ליידע אותם תצורות של מדיניות.
 
