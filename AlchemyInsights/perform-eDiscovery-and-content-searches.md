@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373317"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371434"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>כיצד לבצע חיפושים תוכן וחיפושים גילוי אלקטרוני
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373317"
 2. לחץ על **חיפוש תוכן של > החקירה של & של החיפוש**.
 3. לחץ על **חיפוש חדש** כדי ליצור חיפוש חדש.
 4. הזנת את תנאי החיפוש הנדרש כולל מילות מפתח ומיקומי תוכן.  
-5. לחץ על **שמור הפעלה &** שם החיפוש, הפעל אותו ולאחר מכן להציג בתצוגה מקדימה את התוצאות. 
- 
+5. לחץ על **שמור הפעלה &** שם החיפוש, הפעל אותו ולאחר מכן להציג בתצוגה מקדימה את התוצאות.
+
 לקבלת הוראות מפורטות אודות יצירת חיפושים וייצוא של תוצאות, עיין [במאמר זה](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 **חיפושים גילוי אלקטרוני**
