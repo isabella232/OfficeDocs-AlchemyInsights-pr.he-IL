@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914108"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381874"
 ---
 # <a name="install-visio"></a>התקנת Visio
 
 Visio נמכר כיישום עצמאי כך שאם אין לך אותו עדיין, [לרכוש או נסה Visio](https://products.office.com/visio). 
 
-אם יש לך מנוי ל- Visio 2 לתכנן מקוונת, משתמשים לא תראה אפשרות להתקין Visio מתוך **התקנות שלי** [פורטל החשבון שלי](https://portal.office.com/account#installs) , אלא אם יש לך [שהוקצו להם רשיון](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **הערה**: תוכנית מקוונת של Visio 1 אינו כולל גירסה שולחנית של Visio, כך ההתקנה לא אפשרי.
 
-לקבלת הוראות ספציפיות בהורדה ובהתקנה של Visio, ראה [התקנת Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+אם יש לך מנוי ל- Visio 2 לתכנן מקוון, עליך [להקצות רשיון](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) למשתמש או שהם לא תהיה אפשרות להתקין Visio מתוך **התקנות שלי** [פורטל החשבון שלי](https://portal.office.com/account#installs). 
 
-אם יש לך מנוי/רשיון חוקי פועלים לתוך בעיות במהלך ההתקנה, נסה להתקין את Visio באמצעות [תמיכה ומסייע השחזור](https://aka.ms/SaRA-VisioSetupScenario).
+הגירסאות שאינן ברשיון של Visio Standard או Visio Professional משויכים חשבונות Microsoft ואין אפשרות לנהל במרכז admin. כדי להתקין את גירסאות אלה, משתמשים חייבים להיכנס [account.microsoft.com](https://account.microsoft.com) עם חשבון Microsoft המשויכים לגירסה זו של Visio.
+
+לקבלת עזרה מפורטת יותר ראה [התקנת Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) ובצע את השלבים עבור הגירסה שלך של Visio.
 
 לקבלת מידע נוסף, ראה:<br>
 [מדריך הפריסה עבור Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
