@@ -8,18 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000091
-ms.openlocfilehash: f68a4d947c1698eadae9b4a8f8f4e01331c5211d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1412"
+- "1413"
+- "8000091"
+ms.openlocfilehash: e2347c94ac3741e8e455cab81db68ca7e747205d
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392104"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373162"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="68887-102">Outlook.com מוכן עבור זמן עיקרי</span><span class="sxs-lookup"><span data-stu-id="68887-102">Outlook.com is ready for prime time</span></span>
+# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="e1f65-102">Outlook.com מוכן עבור זמן עיקרי</span><span class="sxs-lookup"><span data-stu-id="e1f65-102">Outlook.com is ready for prime time</span></span>
 
-<span data-ttu-id="68887-103">אנחנו מודע לכך שלקוחות מסוימים עשויים לראות את הפריט המוקפץ "Outlook.com מוכן עבור זמן הראשוניים" בכל פעם שהם הכניסה ואנחנו שאתה עובד על תיקון.</span><span class="sxs-lookup"><span data-stu-id="68887-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
+<span data-ttu-id="e1f65-103">אנחנו מודע לכך שלקוחות מסוימים עשויים לראות את הפריט המוקפץ "Outlook.com מוכן עבור זמן הראשוניים" בכל פעם שהם הכניסה ואנחנו שאתה עובד על תיקון.</span><span class="sxs-lookup"><span data-stu-id="e1f65-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
 
-<span data-ttu-id="68887-104">סליחה אודות נושא זה.</span><span class="sxs-lookup"><span data-stu-id="68887-104">Sorry about that.</span></span>
+<span data-ttu-id="e1f65-104">סליחה אודות נושא זה.</span><span class="sxs-lookup"><span data-stu-id="e1f65-104">Sorry about that.</span></span>
 
-[<span data-ttu-id="68887-105">למד עוד אודות Outlook.com החדש.</span><span class="sxs-lookup"><span data-stu-id="68887-105">Learn more about the new Outlook.com.</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001300)
+[<span data-ttu-id="e1f65-105">למד עוד אודות Outlook.com החדש.</span><span class="sxs-lookup"><span data-stu-id="e1f65-105">Learn more about the new Outlook.com.</span></span>](https://go.microsoft.com/fwlink/p/?linkid=2001300)
