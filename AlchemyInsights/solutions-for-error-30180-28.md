@@ -9,19 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2caadb7a-3b1e-4332-b928-03c1d51da8d3
-ms.openlocfilehash: 5f67fb6d67c634e2b792a430709b4b664a4eedc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "832"
+- "2000020"
+ms.openlocfilehash: ae1b36fe711b0e20d1c9f36d55645506f3ef1e65
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32369967"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354906"
 ---
 # <a name="solutions-for-error-30180-28"></a>פתרונות עבור שגיאה 30180-28
 
-אם יש לך חיבור אינטרנט ירודים, ייתכן שתראה [שגיאה 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) במהלך עדכון Office. להלן כמה פעולות שבאפשרותך לנסות כדי לפתור את הבעיה. 
+אם יש לך חיבור אינטרנט ירודים, ייתכן שתראה [שגיאה 30180-28](https://support.office.com/article/47ae453b-677c-412f-9a21-6766555ff4de?wt.mc_id=Alchemy_ClientDIA) במהלך עדכון Office. להלן כמה פעולות שבאפשרותך לנסות כדי לפתור את הבעיה.
   
 - הפעל מחדש את המחשב ולאחר מכן [עדכן את Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5?wt.mc_id=Alchemy_ClientDIA).
-    
-- בצע את השלבים שלעיל, אך להשתמש בחיבור קווי במהלך עדכון Office.
-    
 
+- בצע את השלבים שלעיל, אך להשתמש בחיבור קווי במהלך עדכון Office.
