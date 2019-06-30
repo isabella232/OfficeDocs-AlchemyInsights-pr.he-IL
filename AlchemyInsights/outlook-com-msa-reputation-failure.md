@@ -8,13 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000345
-ms.openlocfilehash: ff194e3ec13fda9a409c6d932427385c74191ea6
-ms.sourcegitcommit: bd9292a797758d28e91f043bd77b2f7fe4993cf1
+ms.custom:
+- "1979"
+- "9000345"
+ms.openlocfilehash: f4af8679ac71ab15bd68a62e71143b14f8e20f97
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33510158"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373810"
 ---
 # <a name="account-locked"></a>חשבון נעול
 
@@ -22,3 +24,5 @@ ms.locfileid: "33510158"
 
 1. מעבר אל [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) ולהיכנס לחשבון שלך נעול.כדי לבטל את נעילת החשבון שלך, עליך להזין את קוד האבטחה שסופק בהודעת טקסט מ- Microsoft. כדי לקבל הודעת טקסט, דרוש לך טלפון התומך בהעברת הודעות טקסט. אם הטלפון שלך אינו תומך הודעות טקסט, באפשרותך לבקש חבר או בן משפחה כדי להשתמש בטלפון שלהם. Microsoft אינה לשמור מספר טלפון זה, כך שמספר הטלפון שתשתמש כדי לקבל הודעת טקסט זה אינו חייב להיות משויך לתיק הלקוח שלך.
 2. אם תראה את ההודעה "אירעה חריגה ממגבלת השימוש", עבור אל [חשבון Reinstatement](https://go.microsoft.com/fwlink/?linkid=2090483) ואחת של סוכני שלנו לסקור את החשבון שלך.
+
+כדי ללמוד עוד, קרא [בטל חסימה חשבון Outlook.com שלי](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4) 

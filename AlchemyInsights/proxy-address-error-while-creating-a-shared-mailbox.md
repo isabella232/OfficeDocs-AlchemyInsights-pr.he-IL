@@ -8,12 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
-ms.openlocfilehash: be85c3636d128ae80c6a2dfedd0c1c8670bfb1ef
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "19"
+- "6"
+ms.openlocfilehash: 159125f8ce899cacac665fb8a7025a791c4cd9bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388832"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370964"
 ---
 # <a name="proxy-address-error-while-creating-a-shared-mailbox"></a>שגיאה של כתובת ה-proxy בעת יצירת תיבת דואר משותפת
 
@@ -23,4 +26,3 @@ ms.locfileid: "32388832"
   
 אם אינך מעוניין למחוק את כתובת הדואר האלקטרוני הקיימת, בחר כתובת דואר אלקטרוני חדשה עבור תיבת הדואר המשותפת.
   
-

@@ -8,21 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
-ms.openlocfilehash: ffd148918b684c21affd3859d55721d89b9bbaab
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "118"
+- "1600016"
+ms.openlocfilehash: 3b87ebff65182d8fd39e30cc80ed03f18a7f4719
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421745"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355410"
 ---
 # <a name="service-incident-in-progress"></a>אירוע שירות בביצוע
 
-אתה עשוי להיות מושפע מקרה שירות או יידוע זה הוא כעת מתבצעת נכלל. באפשרותך לבדוק את המצב העדכני ביותר על-ידי מעבר אל הדף [תקינות השירות](https://admin.microsoft.com/adminportal/home#/servicehealth) . 
+אתה עשוי להיות מושפע מקרה שירות או יידוע זה הוא כעת מתבצעת נכלל. באפשרותך לבדוק את המצב העדכני ביותר על-ידי מעבר אל הדף [תקינות השירות](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
 לנוחיותך, תמצא סיכום של אירוע זה שלהלן:
   
 > **מספר אירוע:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
-    
-> השפעה על תיאור: {ImpactDescription}
-    
 
+> השפעה על תיאור: {ImpactDescription}
