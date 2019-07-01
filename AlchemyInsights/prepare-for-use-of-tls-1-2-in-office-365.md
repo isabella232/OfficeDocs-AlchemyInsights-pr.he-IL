@@ -1,5 +1,5 @@
 ---
-title: להכין לשימוש של TLS 1.2 ב- Office 365
+title: הכנה לשימוש ב- TLS 1.2 ב- Office 365
 ms.author: pebaum
 author: pebaum
 ms.date: 10/30/2018
@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
+ms.custom:
+- "1266"
+- "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 5ce5d5b1ab7f35249d0a5f92c5a0e62f5cd72a7c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: aade668a3eb8d99598deee86ed4fe8f402dcc35c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29472517"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370928"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a>להכין לשימוש של TLS 1.2 ב- Office 365
+# <a name="prepare-for-use-of-tls-12-in-office-365"></a>הכנה לשימוש ב- TLS 1.2 ב- Office 365
 
-החל מ- 31 באוקטובר, 2018, Office 365 תמשיך מעבר ל- TLS 1.2. משמעות הדבר היא כי Microsoft אינם פותרים בעיות חדשות הנמצאות לקוחות, ההתקנים או שירותים המתחברים אל Office 365 באמצעות TLS 1.0 ו- 1.1. **אין פירוש הדבר Office 365 יחסום TLS 1.0 ו- 1.1 חיבורים.** תאריך הביטול הסופית ייקבעו על-ידי שימוש הלקוח והן את המצב הנוכחי של אבטחת TLS מדור קודם. לאחר ביצוע החלטה, תהיה הכרזה שישה חודשים מראש אלא אם אנו הופכים מודעים להתקפות מוכרות, במקרה זה ייתכן יש לנו לפעול פחות מ בששת החודשים כדי להגן על לקוחות המשתמשים בשירותים. 
+החל מ- 31 באוקטובר 2018, Office 365 ימשיך את המעבר ל- TLS 1.2. משמעות הדבר היא ש- Microsoft לא תפתור בעיות חדשות שיימצאו בלקוחות, מכשירים או שירותים המתחברים ל- Office 365 באמצעות TLS 1.0 ו- TLS 1.1. **משמעות הדבר אינה ש- Office 365 יחסום חיבורי TLS 1.0 ו- TLS 1.1.** התאריך הסופי ליציאה משימוש ייקבע לפי השימוש על-ידי הלקוחות והמצב הנוכחי של אבטחת TLS מדור קודם. לאחר שתתקבל החלטה, נכריז על כך שישה חודשים מראש אלא אם נגלה כי קיימת חשיפה ידועה לסכנה, ובמקרה כזה ייתכן שנצטרך לפעול תוך פחות משישה חודשים כדי להגן על לקוחות המשתמשים בשירותים.
   
-מומלץ מאוד כי כל לקוחות ושרתים של התחברות עם Office 365 עליך לאפשר TLS 1.2 בהקדם האפשרי.
+מומלץ מאוד להפוך את TLS 1.2 לזמין בהקדם האפשרי עבור שרתים ולקוחות המתחברים ל- Office 365.
   
-לקבלת מידע נוסף ראה [להכנת TLS 1.2 ב- Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
+לקבלת מידע נוסף, ראה [הכנה ל- TLS 1.2 ב- Office 365](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365).
   
-

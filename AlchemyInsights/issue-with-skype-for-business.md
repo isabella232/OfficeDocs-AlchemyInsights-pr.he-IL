@@ -8,12 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
-ms.openlocfilehash: d19659f203692e4aed2c947c4f8d3348d2286e77
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "66"
+- "4000001"
+ms.openlocfilehash: 606a3a8cd8fefade73e0024cdb75a86799b17a87
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409907"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381478"
 ---
 # <a name="issue-with-skype-for-business"></a>קיימת בעיה ב- Skype for Business?
 
@@ -21,12 +24,11 @@ ms.locfileid: "32409907"
   
 {HealthCheckString}
   
-תצורת רשומות ה- NS, ה- CNAME או ה- SRV בהגדרות התחום (DNS) לא נקבעה כראוי עבור Skype for Business. באפשרותך לעיין במאמר [עדכון רשומות DNS ב- Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) לקבלת הוראות מפורטות. 
+תצורת רשומות ה- NS, ה- CNAME או ה- SRV בהגדרות התחום (DNS) לא נקבעה כראוי עבור Skype for Business. באפשרותך לעיין במאמר [עדכון רשומות DNS ב- Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) לקבלת הוראות מפורטות.
   
-כדי לפתור את הבעיה, עבור אל הדף [תחומים](https://admin.microsoft.com/adminportal/home#/Domains) במרכז הניהול של Microsoft 365, ואנו נסייע לך. 
+כדי לפתור את הבעיה, עבור אל הדף [תחומים](https://admin.microsoft.com/adminportal/home#/Domains) במרכז הניהול של Microsoft 365, ואנו נסייע לך.
   
-אם אתה נתקל בבעיות תקשורת עם משתמשים הנמצאים מחוץ לארגון שלך, באפשרותך לעיין במאמר [הגדרת תקשורת חיצונית של Skype for Business Online](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) לקבלת הוראות מפורטות. 
+אם אתה נתקל בבעיות תקשורת עם משתמשים הנמצאים מחוץ לארגון שלך, באפשרותך לעיין במאמר [הגדרת תקשורת חיצונית של Skype for Business Online](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) לקבלת הוראות מפורטות.
   
-עיין ב[שאלות נפוצות בנושא תחומים](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) למידע על פתרונות נפוצים אחרים. 
+עיין ב[שאלות נפוצות בנושא תחומים](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) למידע על פתרונות נפוצים אחרים.
   
-
