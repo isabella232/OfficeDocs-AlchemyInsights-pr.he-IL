@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1820"
 - "9000236"
-ms.openlocfilehash: 16fed7fc9995ba9b4143495fc268d5b3a31d2a01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 33bd6fa8a26eb27c1d829268ac0956c2dbf90d58
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377626"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614171"
 ---
 # <a name="add-your-gmail-account-to-outlookcom"></a>להוסיף חשבון Gmail שלך Outlook.com
 
@@ -30,4 +30,4 @@ ms.locfileid: "35377626"
 
 באפשרותך לשלוח דואר אלקטרוני ב- Outlook.com מחשבון Gmail שלך מחובר. בעת חיבור הודעת דואר אלקטרוני, בחר **מתוך** ובחר שלך כתובת Gmail, או [לעדכן את ברירת המחדל מכתובת](https://go.microsoft.com/fwlink/?linkid=875264).
 
-לקבלת מידע נוסף, ראה [הוספה שלך אחרים חשבונות דואר אלקטרוני כדי Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+לקבלת מידע נוסף, ראה [הוספה שלך אחרים חשבונות דואר אלקטרוני כדי Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
