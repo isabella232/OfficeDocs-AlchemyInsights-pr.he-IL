@@ -12,12 +12,12 @@ ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: c7ec38f1743596aea877e5d720ac15457447d51c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 15cf9b4821161ef03503acafcc17f04899b11d8e
+ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376294"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35746374"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>מחליף votre mot דה passe dans Outlook.com
 
@@ -29,4 +29,4 @@ Votre mot דה passe Outlook.com est מ même ייחודיים votre mot דה pa
 
 מזמין Si vous avez oublié votre mot דה passe, accédez היא la [דף דה réinitialisation דה mot דה דה passe compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les.
 
-גו vous pensez ייחודיים votre Outlook.com piraté été, voir [compte יום ב' Outlook.com piraté été](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8).
+גו vous pensez ייחודיים votre Outlook.com piraté été, voir [compte יום ב' Outlook.com piraté été](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
