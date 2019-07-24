@@ -1,7 +1,7 @@
 ---
-title: 127 קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?
-ms.author: kirks
-author: Techwriter40
+title: לקריאה בלבד עבור תחזוקה הודעה בעת ניסיון להשתמש ב- SharePoint או OneDrive
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,27 +12,27 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5613138e7613deb264a7ab2c966f8b9c4a24763d
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
+ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736404"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35840516"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>לקריאה בלבד עבור תחזוקה הודעה בעת ניסיון להשתמש ב- SharePoint או OneDrive
 
-משתמשים עשוי לקבל לקריאה בלבד עבור תחזוקה הודעה בעת ניסיון להשתמש ב- SharePoint או OneDrive.
+ייתכן מקבלים הודעה **לקריאה בלבד עבור תחזוקה** בעת ניסיון להשתמש ב- SharePoint או OneDrive.  אם כן, בדוק אם קיימת פעילות תחזוקה המתרחשים דיירים שלך על-ידי ניווט אל [מרכז הודעה](https://portal.office.com/adminportal/home#/MessageCenter). כמו כן, הקפד לבדוק את לוח המחוונים של [תקינות שירות](https://portal.office.com/adminportal/home#/servicehealth) לבדיקת עלוני יידוע/באירועים אשר ייתכן המתרחשים.
 
-בדוק אם קיימת פעילות תחזוקה המתרחשים דיירים שלך על-ידי ניווט אל [מרכז הודעה](https://portal.office.com/adminportal/home#/MessageCenter). לבסוף, ודא שבקר בדף[תקינות שירות](https://portal.office.com/adminportal/home#/servicehealth) לבדיקת עלוני יידוע/באירועים אשר ייתכן המתרחשים.
-
-אם לא מרכז הודעה או שירות מחוונים תקינות יש נאמר דבר אודות תחזוקת הנוכחי עבור דיירים שלך, ייתכן שהדבר דפדפן אחסון במטמון של הבעיה.
+אם יש לוח מחוונים לא מרכז הודעה או תקינות השירות נאמר דבר אודות תחזוקת הנוכחי עבור דיירים שלך, ייתכן שהדבר דפדפן אחסון במטמון של הבעיה.
 
 נא נסה לנקות את מטמון הדפדפן לפני ניווט לאתר.
 
-- בדפדפן Microsoft קצה, עבור אל ההגדרות יותר
+1. בדפדפן Microsoft קצה, בחר **הגדרות**, ולאחר מכן בחר **פרטיות ואבטחה**.
+2. תחת **גלישה נקה**, בחר **לבחור מה לנקות**.
+3. בחר את **קבצי ה-Cookie ואת הנתונים באתר האינטרנט שנשמר**, ובחר **נקה**.
 
-- תחת גלישה נקה, בחר לבחור מה לנקות.
-- בחר את קבצי ה-Cookie ואת תיבת הסימון נתונים של אתר אינטרנט שנשמר ובחר נקה.
+>[!Note] 
+> שלבים אלה עשויות להיות שונות בעת שימוש בדפדפנים אחרים כגון Mozilla Firefox או Google Chrome.
 
-**הערה**: שלבים אלה עשויות להיות שונות בעת שימוש בדפדפנים אחרים כגון Firefox או Chrome.
-
+>[!Note] 
+> אפשרות נוספת יהיה לפתוח את אתר SharePoint או OneDrive InPrivate בחלון חדש.
