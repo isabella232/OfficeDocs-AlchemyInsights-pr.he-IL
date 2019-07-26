@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132724"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903939"
 ---
 # <a name="edit-a-read-only-file"></a>עריכת קובץ לקריאה בלבד
 
@@ -25,7 +25,7 @@ ms.locfileid: "35132724"
 
 הערות:
 
-- אם מסמכים פתוחים לעריכה ב- Office Online כאשר תלחץ על הכותרת, באפשרותך להגדיר את הספריה לשם כך (כל עוד יש לך הרשאה לשנות את הגדרות הספריה).
+- אם מסמכים פתוחים לעריכה ב- Office כאשר תלחץ על הכותרת, באפשרותך להגדיר את הספריה לשם כך (כל עוד יש לך הרשאה לשנות את הגדרות הספריה).
 
 - אם ברשותך ספריות עם ההוצאה, העמודות הנדרשות או כאשר ספריית מסמכים רק משתמשים שיכולים לערוך בהגדרות גירסה של SharePoint, פריטים אלה יסונכרנו לקריאה בלבד.
 
