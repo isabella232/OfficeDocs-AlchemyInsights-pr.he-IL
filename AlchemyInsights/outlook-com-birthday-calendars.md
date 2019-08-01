@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1811"
 - "9000229"
-ms.openlocfilehash: 1006351fcfd84cc8ab5f4c83739ed3f56f71cded
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e213d127ee889ddb01b01c42731c68be92a4ec2f
+ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377266"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36044637"
 ---
-# <a name="add-a-birthday-calendar-in-outlookcom"></a><span data-ttu-id="d8c24-102">הוסף לוח שנה יום הולדת ב- Outlook.com</span><span class="sxs-lookup"><span data-stu-id="d8c24-102">Add a birthday calendar in Outlook.com</span></span>
+# <a name="add-a-birthday-calendar-in-outlookcom"></a><span data-ttu-id="5a451-102">הוסף לוח שנה יום הולדת ב- Outlook.com</span><span class="sxs-lookup"><span data-stu-id="5a451-102">Add a birthday calendar in Outlook.com</span></span>
 
-1. <span data-ttu-id="d8c24-103">בחלק התחתון של הדף, בחר את סמל לוח השנה כדי [לעבור ללוח השנה](https://outlook.live.com/mail/calendar).</span><span class="sxs-lookup"><span data-stu-id="d8c24-103">At the bottom of the page, select the calendar icon to [go to Calendar](https://outlook.live.com/mail/calendar).</span></span>
-1. <span data-ttu-id="d8c24-104">בחלונית הימנית, לחץ לחיצה ימנית על **ימי הולדת** ובחר **יום הולדת חדש**.</span><span class="sxs-lookup"><span data-stu-id="d8c24-104">In the left pane, right-click **Birthdays** and select **New birthday**.</span></span>
-1. <span data-ttu-id="d8c24-105">הזן שם האדם ואת תאריך הלידה ולאחר מכן בחר באפשרות **צור**.</span><span class="sxs-lookup"><span data-stu-id="d8c24-105">Enter the person's name and birth date, and select **Create**.</span></span>
-1. <span data-ttu-id="d8c24-106">בחר את לוח התאריכים של **יום הולדת** למיתוג תזכורות וביטול.</span><span class="sxs-lookup"><span data-stu-id="d8c24-106">Select the **Birthday** calendar to toggle reminders on and off.</span></span>
+1. <span data-ttu-id="5a451-103">בחלק התחתון של הדף, בחר את הסמל של לוח שנה</span><span class="sxs-lookup"><span data-stu-id="5a451-103">At the bottom of the page, select the calendar icon</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB/2U7WAAAA0lBMVEX///+Pj49ycnLW1tay9PT09LL09PSfy/T0y595ZoyMZnnN9PTl29b09M1mi7D0tpHu9PTX9PS49PSnxPSUuPT09O7W3+nW2eK3yOLu4tn09NectdeZvdavwNR5n8v09LhylLjiyLePnLXUwK/0xKdyhKXWvZlycpTEp4+1nI96iI94ZoxsZozOpYSPiHrLn3mMZnilhHKUcnJobG+MZmxvbGiyjGbi9PTA1PSMsvTZ4u709OKEpc6vt8j01MB4mb3It69meZ+9mXi4lHKqiGafeWYJ39x4AAAAp0lEQVQoz2OAATM5NijQ52NABvJGTEymxkxgAGGpC8ElWQ1kmF3smaHAiY9ZTZsFIcnFzqYsAeMpyrJxcCJJmmgxogA9HUKSCGPBtLiAKA8Dg6QYAwcnhiS/KjevoQiDrgKGJDLAkDSTY+B35OZ1tWTQ58OQ5LHCY6ezDR47gYFgZ2tu7WABDAQMSQ1pBhUlQSlNYSCfoCRKwCMDSMAjogwFgKOMEAAA2iERuleOm5wAAAAASUVORK5CYII=' /> <span data-ttu-id="5a451-104">כדי [לעבור אל לוח השנה](https://outlook.live.com/mail/calendar).</span><span class="sxs-lookup"><span data-stu-id="5a451-104">to [go to Calendar](https://outlook.live.com/mail/calendar).</span></span>
+1. <span data-ttu-id="5a451-105">בחלונית הימנית, לחץ לחיצה ימנית על **ימי הולדת** ובחר **יום הולדת חדש**.</span><span class="sxs-lookup"><span data-stu-id="5a451-105">In the left pane, right-click **Birthdays** and select **New birthday**.</span></span>
+1. <span data-ttu-id="5a451-106">הזן שם האדם ואת תאריך הלידה ולאחר מכן בחר באפשרות **צור**.</span><span class="sxs-lookup"><span data-stu-id="5a451-106">Enter the person's name and birth date, and select **Create**.</span></span>
+1. <span data-ttu-id="5a451-107">בחר את לוח התאריכים של **יום הולדת** למיתוג תזכורות וביטול.</span><span class="sxs-lookup"><span data-stu-id="5a451-107">Select the **Birthday** calendar to toggle reminders on and off.</span></span>
 
-<span data-ttu-id="d8c24-107">למד עוד אודות [הוספה או הסרה של לוחות שנה תאריך יום הולדת ויום חג](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6).</span><span class="sxs-lookup"><span data-stu-id="d8c24-107">Learn more about [adding or removing birthday and holiday calendars](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6).</span></span>
+<span data-ttu-id="5a451-108">למד עוד אודות [הוספה או הסרה של לוחות שנה תאריך יום הולדת ויום חג](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="5a451-108">Learn more about [adding or removing birthday and holiday calendars](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
