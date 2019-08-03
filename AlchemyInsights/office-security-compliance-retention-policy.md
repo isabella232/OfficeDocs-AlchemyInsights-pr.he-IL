@@ -1,25 +1,24 @@
 ---
-title: תוויות השמירה חדשות שנוצרו באופן אוטומטי
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: מידע נוסף אודות מדיניות שמירה
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222993"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448836"
 ---
-# <a name="new-retention-labels-created-automatically"></a>תוויות השמירה חדשות שנוצרו באופן אוטומטי
+# <a name="more-info-about-retention-policies"></a>מידע נוסף אודות מדיניות שמירה
 
 עבור רוב הארגונים, אמצעי האחסון והמורכבות של הנתונים שלהם גדל מדי יום - דואר אלקטרוני, מסמכים, הודעות מיידיות ועוד.
-
-ניהול יעיל או והתקנות מידע זה חשוב, מדיניות שמירה יכולות לסייע לך להשיג מטרות אלה. לקבלת מידע נוסף אודות מדיניות שמירה, נא בקר הקישורים שלהלן.
+ניהול יעיל או והתקנות מידע זה חשוב ולאחר מדיניות שמירה יכולות לסייע לך להשיג מטרות אלה. לקבלת מידע נוסף אודות מדיניות שמירה, אנא בקר באתר קישורים אלה:
 
 - [מבט כולל על מדיניות שמירה](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
