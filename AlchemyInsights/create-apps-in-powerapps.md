@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404964"
 ---
-# <a name="create-apps-with-powerapps"></a>יצירת יישומים עם PowerApps
+# <a name="create-apps-with-powerapps"></a>יצירת יישומים באמצעות PowerApps
 
-PowerApps היא פלטפורמה לפיתוח עבור יישומים עסקיים. הוא כולל שלושה רכיבים עיקריים: 
+PowerApps היא פלטפורמת פיתוח עבור יישומים עסקיים. היא כוללת שלושה רכיבים עיקריים: 
   
-- התחל [בד יישומים](https://go.microsoft.com/fwlink/?linkid=874495) עם חוויית המשתמש שלך, crafting ממשק מותאם במיוחד בעזרת העוצמה של בד ציור ריק ומחבר אותו לבחירתך של מקורות נתונים 200. באפשרותך לבנות יישומים בד עבור האינטרנט, נייד ויישומי מחשב הלוח. 
+- [יישומי בד ציור](https://go.microsoft.com/fwlink/?linkid=874495) מתחילים בחוויית המשתמש שלך, תוך יצירת ממשק בהתאמה אישית גבוהה עם העוצמה הטמונה בבד ציור ריק וחיבורו לאחד מתוך 200 מקורות נתונים. ניתן לבנות יישומי בד ציור לאינטרנט, למכשירים ניידים ולמחשבי Tablet. 
     
-- התחל [מבוססת על מודל יישומים](https://go.microsoft.com/fwlink/?linkid=874496) עם מודל הנתונים שלך - בניית מהצורה של נתונים עסקיים מרכזיים ותהליכים בשירות נתונים נפוצים מודל טפסים, תצוגות ורכיבים אחרים. יישומים מבוססת על מודל להפיק באופן אוטומטי מעולה UI המהווה תגובה בין התקנים. 
+- [יישומים מונחי-דגמים](https://go.microsoft.com/fwlink/?linkid=874496) מתחילים במודל הנתונים שלך, תוך הסתמכות על הצורה של הנתונים והתהליכים העסקיים המרכזיים שלך ב- Common Data Service כדי למדל טפסים, תצוגות ורכיבים אחרים. יישומים מונחי-דגמים יוצרים באופן אוטומטי ממשק משתמש נהדר שמגיב במכשירים שונים. 
     
-- [שירות נתונים נפוצים](https://go.microsoft.com/fwlink/?linkid=874497) הוא פלטפורמת נתונים מגיע עם PowerApps ומאפשר לך לאחסן ולאחר מודל נתונים עסקיים. זוהי הפלטפורמה שעליה בנויים יישומים Dynamics 365. אם אתה לקוח Dynamics, הנתונים שלך כבר נמצא שירות הנתונים הנפוצים. 
+- [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) היא פלטפורמת הנתונים שמגיעה עם PowerApps ומאפשרת לך לאחסן ולמדל נתונים עסקיים. זוהי הפלטפורמה שעליה בנויים יישומי Dynamics 365. אם אתה לקוח של Dynamics, הנתונים שלך כבר נמצאים ב- Common Data Service. 
     
-[מידע נוסף אודות PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
+[מידע נוסף על PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
   
 
