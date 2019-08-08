@@ -1,25 +1,31 @@
 ---
 title: אתר מודרניים כמו אתר הבסיס
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
 - "1874"
 - "9000265"
-ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b30fc3258bb76c0ab4bf10af0ec9317417f7c663
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379642"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232716"
 ---
-# <a name="modern-site-as-root-site"></a><span data-ttu-id="20214-102">אתר מודרני כאתר הבסיס</span><span class="sxs-lookup"><span data-stu-id="20214-102">Modern site as root site</span></span>
+# <a name="modern-site-as-root-site"></a><span data-ttu-id="f9bf6-102">אתר מודרני כאתר הבסיס</span><span class="sxs-lookup"><span data-stu-id="f9bf6-102">Modern site as root site</span></span>
 
-<span data-ttu-id="20214-103">נכון לעכשיו, בהתבסס על משוב תצוגה מקדימה, החלטנו לדחות פורסים את התכונה כדי לאפשר תקשורת אתר כאתר הבסיס.</span><span class="sxs-lookup"><span data-stu-id="20214-103">At this time, based on preview feedback, we have decided to postpone rolling out the feature to enable a communication site as a root site.</span></span> <span data-ttu-id="20214-104">אנו מתנצלים על אי-הנוחות ולהעביר לוח זמנים חדש דרך מרכז הודעה, ברגע שהיא זמינה.</span><span class="sxs-lookup"><span data-stu-id="20214-104">We apologize for any inconvenience and will communicate a new schedule via Message Center, once it is available.</span></span>
+<span data-ttu-id="f9bf6-103">אנו שהתחילו כדי ההשקה תכונה חדשה שתאפשר לך להחליף את אתר הבסיס אתר קלאסי עם אתר מודרני.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-103">We have begun to rollout a new feature that will allow you to swap your classic site root site with a modern site.</span></span> <span data-ttu-id="f9bf6-104">השתמש [Invoke SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) להחליף את המיקום של אתר עם אתר אחר בעת אחסון בארכיון של האתר המקורי.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-104">Use [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) to swap the location of a site with another site while archiving the original site.</span></span> <span data-ttu-id="f9bf6-105">אפשרות זו זמינה עבור אתר הצוות (לא מחובר לקבוצה) ואתר תקשורת.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-105">Available for both Team Site (not connected to a group) and Communication Site.</span></span> 
 
-<span data-ttu-id="20214-105">נכון לעכשיו, אין אפשרות להפעיל אתרי תקשורת כמו אתר הבסיס.</span><span class="sxs-lookup"><span data-stu-id="20214-105">Currently, communication sites cannot be enabled as the root site.</span></span>
+>[!Important]
+> <span data-ttu-id="f9bf6-106">אל תמחק את אתר הבסיס קלאסית ליצירת אתר תקשורת מודרניים.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-106">Do not delete your classic root site to create a modern Communication Site.</span></span> <span data-ttu-id="f9bf6-107">פעולה זו אינה נתמכת על-ידי Microsoft.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-107">This is not supported by Microsoft.</span></span> <span data-ttu-id="f9bf6-108">מחיקת אתר הבסיס יבצע כל אתרי SharePoint בארגון שלך נגישים לכל המשתמשים, עד לשחזר את האתר או ליצור אתר חדש בכתובת ה-URL זהה.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-108">Deleting the root site will make all SharePoint sites in your organization inaccessible to all users, until you restore the site or create a new site at the same URL.</span></span> <span data-ttu-id="f9bf6-109">אנו לקיים תקשורת תכונה זו דרך מרכז ההודעה.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-109">We’ll be communicating this feature via the message center.</span></span> <span data-ttu-id="f9bf6-110">עליך לצפות את התכונה כדי להיות מופעלת בדיירים שלך בקרוב.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-110">You should expect the feature to be turned on in your tenant shortly.</span></span>
 
-<span data-ttu-id="20214-106">**חשוב**: אל תמחק את אתר הבסיס קלאסית ליצירת אתר תקשורת מודרניים.</span><span class="sxs-lookup"><span data-stu-id="20214-106">**Important**: Do not delete your classic root site to create a modern Communication Site.</span></span> <span data-ttu-id="20214-107">פעולה זו אינה נתמכת על-ידי Microsoft.</span><span class="sxs-lookup"><span data-stu-id="20214-107">This is not supported by Microsoft.</span></span> <span data-ttu-id="20214-108">מחיקת אתר הבסיס יבצע כל אתרי SharePoint בארגון שלך נגישים לכל המשתמשים, עד לשחזר את האתר או ליצור אתר חדש בכתובת ה-URL זהה.</span><span class="sxs-lookup"><span data-stu-id="20214-108">Deleting the root site will make all SharePoint sites in your organization inaccessible to all users, until you restore the site or create a new site at the same URL.</span></span>
+## <a name="known-issues-with-swapping-sites"></a><span data-ttu-id="f9bf6-111">בעיות מוכרות עם החלפה של אתרים</span><span class="sxs-lookup"><span data-stu-id="f9bf6-111">Known issues with swapping sites</span></span>
+- <span data-ttu-id="f9bf6-112">אתר היעד עלול להחזיר הודעת שגיאה "לא נמצא" (HTTP 404) עבור פרק זמן קצר.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-112">The target site may return a "not found" (HTTP 404) error for a short period of time.</span></span>
+- <span data-ttu-id="f9bf6-113">התוכן יהיה עליך להיות recrawled כדי לעדכן אינדקס החיפוש.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-113">Content will need to be recrawled to update the search index.</span></span> <span data-ttu-id="f9bf6-114">אין שלב ידני לא נדרש כאן, הדבר יבוצע באופן אוטומטי.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-114">There is no manual step required here, this will be done automatically.</span></span>
+- <span data-ttu-id="f9bf6-115">דבר תלוי סטטי"קישורים (כגון קבצי סינכרון קובץ ו- OneNote) יהיה עליך לתקן באופן ידני.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-115">Anything dependent on "static" links (such as File Sync and OneNote files) will need to be manually corrected.</span></span>
+- <span data-ttu-id="f9bf6-116">אתרים שרת הפרוייקט, ייתכן שתצטרך להיות מאומתים כדי לוודא שהן עדיין משויכת כראוי.</span><span class="sxs-lookup"><span data-stu-id="f9bf6-116">Project Server sites may need to be validated to ensure that they are still associated correctly.</span></span> 
