@@ -1,9 +1,9 @@
 ---
 title: פתרון בעיות של 'פתח באמצעות הסייר' ב- SharePoint Online
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 manager: pamgreen
-ms.date: 5/17/2018
+ms.date: 8/7/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 13149d288336b487441c66521b32406e408911fd
-ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
+ms.openlocfilehash: afee367e250357b20b77f0ea5dfe66d68967eb2a
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803039"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270709"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>פתרון בעיות של 'פתח באמצעות הסייר' ב- SharePoint Online
 
@@ -31,9 +31,9 @@ ms.locfileid: "35803039"
 
 > [!Note]  
 > לחצן **פתח באמצעות הסייר** אינו מופיע בחוויית הספריה החדשה. בחר את התפריט הנפתח **תצוגה** בפינה השמאלית העליונה (שם התפריט הנפתח משתנה בהתאם לתצוגה הנוכחית), ולאחר מכן בחר **הצג בסייר הקבצים**.
-
+>
  >הפקודה 'פתח באמצעות הסייר' ב- SharePoint משתמשת בפקדי ActiveX, ולכן היא נתמכת רק ב- Internet Explorer 10 או ב- Internet Explorer 11. הפקודה 'פתח באמצעות הסייר' אינה פועלת ב- Windows עם Microsoft Edge,‏ Google Chrome ו- Mozilla Firefox או בפלטפורמת Mac. בשל כך, ייתכן שהאפשרות 'תצוגת סייר' תופיע באפור.
-
+>
 > - [מדוע לחצני רצועת הכלים של SharePoint אינם זמינים או מופיעים באפור](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).
   
 
