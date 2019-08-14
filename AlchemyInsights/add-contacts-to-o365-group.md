@@ -13,15 +13,15 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: e22a2ba728c5eaca60cef77cd69ab9ad4c507ce1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0d1df16c7fc31c301fd068073dcadb877dec0ff3
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358686"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385649"
 ---
-# <a name="add-contacts-to-an-office-365-group"></a><span data-ttu-id="e5f7f-102">הוסף אנשי קשר לקבוצת Office 365</span><span class="sxs-lookup"><span data-stu-id="e5f7f-102">Add contacts to an Office 365 Group</span></span>
+# <a name="add-contacts-to-an-office-365-group"></a><span data-ttu-id="093de-102">הוסף אנשי קשר לקבוצת Office 365</span><span class="sxs-lookup"><span data-stu-id="093de-102">Add contacts to an Office 365 Group</span></span>
 
-<span data-ttu-id="e5f7f-103">בעלי קבוצת משתמשים חיצוניים ולהוסיף דואר אנשי קשר ב- Outlook על-ידי ביצוע הוראות אלה: [הוספה והסרה של חברי הקבוצה ב- Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="e5f7f-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
+<span data-ttu-id="093de-103">בעלי קבוצת משתמשים חיצוניים ולהוסיף דואר אנשי קשר ב- Outlook על-ידי ביצוע הוראות אלה: [הוספה והסרה של חברי הקבוצה ב- Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="093de-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
   
-<span data-ttu-id="e5f7f-104">באפשרותך גם להוסיף או להסיר חברים בקבוצה בפורטל הניהול: [הוספה או הסרה של חברים קבוצות Office 365 שימוש במרכז הניהול של Microsoft 365](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span><span class="sxs-lookup"><span data-stu-id="e5f7f-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Office 365 groups using the Microsoft 365 admin center](https://support.office.com/article/e186d224-a324-4afa-8300-0e4fc0c3000a?wt.mc_id=add_guest_portal.aspx)</span></span>
+<span data-ttu-id="093de-104">באפשרותך גם להוסיף או להסיר חברים בקבוצה בפורטל הניהול: [הוספה או הסרה של חברים קבוצות Office 365 שימוש במרכז הניהול של Microsoft 365](https://docs.microsoft.com/en-us/office365/admin/create-groups/add-or-remove-members-from-groups)</span><span class="sxs-lookup"><span data-stu-id="093de-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Office 365 groups using the Microsoft 365 admin center](https://docs.microsoft.com/en-us/office365/admin/create-groups/add-or-remove-members-from-groups)</span></span>
