@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383530"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389937"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>כיצד להפעיל מחדש ולנהל חיוב חוזרת
 
 נראה לך מנוי כי פג. אם ברצונך להפעיל אותה מחדש, כאן של האופן שבו.
   
-1. במרכז Admin, עבור אל הדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) , או עבור אל **חיוב** \> **מנויים**.
+1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. בחר את המנוי **שתוקפן פג** או **לא זמין**.
 
@@ -36,11 +36,10 @@ ms.locfileid: "35383530"
 
 כדי לנהל חודשית או שנתית חיוב תוכל לעבור **מחזורי חיוב** או ביטול.
   
-1. במרכז Admin, עבור אל הדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) , או עבור אל **חיוב** \> **מנויים**.
+1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. בחר את המנוי שעבורו ברצונך לנהל חיוב חוזרת.
 
 3. לעבור את מצבי **מחזורי חיוב** **או **ביטול**** .
 
-לקבלת מידע נוסף, ראה: [ניהול חוזרת לחיוב עבור המנוי שלך](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+לקבלת מידע נוסף, ראה [הפעלת חוזרת החיוב או ביטול](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
