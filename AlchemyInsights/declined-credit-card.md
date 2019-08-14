@@ -13,18 +13,17 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: acd84c9d7de2887170b40431954b3cf791b479de
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bc1bd4f8b0a895a16c574239f79d0ba956c6c030
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360054"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389141"
 ---
 # <a name="declined-credit-card"></a>כרטיס אשראי שנדחתה
 
-אם אתה משלם באמצעות כרטיס אשראי וכרטיס האשראי שלך נדחה, תקבל הודעת דואר אלקטרוני שמודיעה לך כי אין באפשרותנו לעבד את התשלום. בדוק שוב [פרטי כרטיס האשראי](https://go.microsoft.com/fwlink/p/?linkid=842054) - מספר הכרטיס, תאריך התפוגה, שם כרטיס אשראי, ואת כתובת, כולל העיר, המדינה והמיקוד - יופיעו בדיוק כפי שהם נראים על כרטיס האשראי והצהרת כרטיס האשראי שלך. באפשרותך לעדכן את פרטי כרטיס האשראי שלך ולשלוח מיד את התשלום באמצעות לחצן **שכר כעת** בדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) . לקבלת מידע נוסף, ראה "מה אם פג תוקפו של כרטיס האשראי שלי והוא תשלום שלי שתאריך?" [לשלם עבור Office 365 שלך עבור מנוי עסקי](https://support.office.com/article/734f4aab-df2d-4e9b-8cb1-691910bde216).
+אם אתה משלם באמצעות כרטיס אשראי וכרטיס האשראי שלך נדחה, תקבל הודעת דואר אלקטרוני שמודיעה לך כי אין באפשרותנו לעבד את התשלום. בדוק שוב [פרטי כרטיס האשראי](https://go.microsoft.com/fwlink/p/?linkid=842054) - מספר הכרטיס, תאריך התפוגה, שם כרטיס אשראי, ואת כתובת, כולל העיר, המדינה והמיקוד - יופיעו בדיוק כפי שהם נראים על כרטיס האשראי והצהרת כרטיס האשראי שלך. באפשרותך לעדכן את פרטי כרטיס האשראי שלך ולשלוח מיד את התשלום באמצעות לחצן **שכר כעת** בדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) . לקבלת מידע נוסף, ראה "מה אם פג תוקפו של כרטיס האשראי שלי והוא תשלום שלי שתאריך?" [לשלם עבור Office 365 שלך עבור מנוי עסקי](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 אם ההודעה אודות הדחייה ממשיכה להופיע, פנה לבנק שלך. ייתכן שכרטיס האשראי שלך לא פעיל - לדוגמה, אם קיבלת את כרטיס האשראי לאחרונה בדואר עם תאריך תפוגה מעודכן, ייתכן שעליך להפעיל אותו. הבנק יוכל גם לומר לך אם כרטיס האשראי שלך אינו מאושר עבור עסקאות מקוונות, בינלאומיות או חוזרות.  
   
-לקבלת מידע נוסף, ראה [פתרון בעיות של כרטיסי אשראי וחשבונות בנק](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
-  
+לקבלת מידע נוסף, ראה [פתרון בעיות של כרטיסי אשראי וחשבונות בנק](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

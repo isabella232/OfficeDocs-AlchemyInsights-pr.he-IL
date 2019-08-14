@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 91b2ddf5a121595ecec8790ae625849894b01875
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358542"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385613"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>הוספת מקומות למנוי משולמת מראש
 
-1. במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054), או בחר **חיוב** \> **מנויים**.
+1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. בחר את המנוי משולמת מראש אליו ברצונך להוסיף משתמשים.
+2. בחר מנוי ששולמו מראש אליו ברצונך להוסיף משתמשים.
 
 3. בתפריט ' **פעולות נוספות** ', בחר **לחידוש או הוספת רשיון עם רכיב token של**.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35358542"
 6. הזן את מפתח המוצר ולאחר מכן בחר **הבא**.
 
 7. בחר באפשרות כדי להוסיף משתמשים נוספים, בחר **הבא**ולאחר מכן בחר **Redeem**.
+
+האם אתה משתמש מרכז הניהול החדש? לקבלת שלבים חדשים, ראה [להוסיף רשיונות או הרחבת מנוי בתשלום עבור שימוש במפתח מוצר](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

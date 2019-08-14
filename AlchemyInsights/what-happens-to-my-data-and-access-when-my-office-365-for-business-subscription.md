@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 9f448e8927f60c6045831805ee238a1762531fd6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 55243adda44931a78ca2a8af06565b8a48dd10b5
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365238"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387578"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>מה קורה שלי נתונים ו- access כאשר מסתיימת שלי Office 365 עבור מנוי עסקי?
 
@@ -26,8 +26,6 @@ ms.locfileid: "35365238"
   
 לפני המנוי למעשה מגיע תאריך התפוגה שלו, יש לך מספר אפשרויות **ניהול חוזרת לחיוב עבור המנוי**.
   
-- אם **מחזורי חיוב** כבר מופעלת, אין צורך לבצע כל פעולה. המנוי שלך תחויב בתאריך **מחזורי חיוב** שלה ולאחר והמועד עבור שנת נוספים או חודש, בהתאם תדירות תשלום הנוכחי שלך. אם מסיבה כלשהי כיבית **חוזרת לחיוב** , באפשרותך תמיד [הפעלה חוזרת חיוב בחזרה](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
+- אם **מחזורי חיוב** כבר מופעלת, אין צורך לבצע כל פעולה. המנוי שלך תחויב בתאריך **מחזורי חיוב** שלה ולאחר והמועד עבור שנת נוספים או חודש, בהתאם תדירות תשלום הנוכחי שלך. אם מסיבה כלשהי כיבית **חוזרת לחיוב** , באפשרותך תמיד [הפעלה חוזרת חיוב בחזרה](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- אם אתה לקוח רישוי קבוצתי פתוח עם מנוי ששולמו מראש, שנה אחת, צור קשר עם השותף שלך לרכוש מפתח מוצר חדש. תקבל הוראות באמצעות דואר אלקטרוני כדי להפעיל את המפתח ב [מרכז השירות לרישוי קבוצתי](https://go.microsoft.com/fwlink/p/?LinkID=282016). כדי ללמוד כיצד למצוא שותף חדש, או שותף שעבדת בעבר, ראה [חיפוש שותף Office 365 או המשווק שלך](https://support.office.com/article/b6c18a9b-2aed-4c84-9d75-af709160258c).
-
-- אם יש לך עסק של Office 365, ראה [ניהול חוזרת לחיוב עבור המנוי שלך](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
+- אם אתה לקוח רישוי קבוצתי פתוח עם מנוי ששולמו מראש, שנה אחת, צור קשר עם השותף שלך לרכוש מפתח מוצר חדש. תקבל הוראות באמצעות דואר אלקטרוני כדי להפעיל את המפתח ב [מרכז השירות לרישוי קבוצתי](https://go.microsoft.com/fwlink/p/?LinkID=282016). כדי ללמוד כיצד למצוא שותף חדש, או שותף שעבדת בעבר, ראה [חיפוש שותף Office 365 או המשווק שלך](https://docs.microsoft.com/en-us/office365/admin/manage/find-your-partner-or-reseller).

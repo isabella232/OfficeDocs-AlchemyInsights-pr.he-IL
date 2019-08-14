@@ -13,21 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 401e9785398e04816040453655178c6afb93898b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370568"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36391053"
 ---
 # <a name="reactivate-a-subscription"></a>הפעלה מחדש של מנוי
 
-אם תוקף המנוי יפוג, בוטלה על-ידי Microsoft, או ביטלת אותה באמצע תקופת המנוי, תוכל להפעיל אותה מחדש במרכז הניהול של Microsoft 365.
+אם תוקף המנוי יפוג, בוטלה על-ידי Microsoft, או ביטלת אותה באמצע תקופת המנוי, תוכל להפעיל אותה מחדש במרכז admin.
   
-1. במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054), או בחר **חיוב** \> **מנויים**.
+1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. בחר את המנוי שברצונך להפעיל מחדש, ולאחר מכן בחר **מחדש**.
 
     אם אינך רואה **מחדש** כפעולת זמין, השתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה כדי להפעיל מחדש את המנוי שלך.
 
 3. הזן את פרטי התשלום שלך. באפשרותך לעדכן את פרטי התשלום הקיימים שלך כאן.
+
+האם אתה משתמש מרכז הניהול החדש? עבור הצעדים חדש, עיין [מחדש את המנוי שלך](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

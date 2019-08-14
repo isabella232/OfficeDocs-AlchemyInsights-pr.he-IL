@@ -13,24 +13,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 2754d2c8a1d0e2ab5aaf751ca3bedfe41b11ba3a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ab26fc36d31badde5eef3a23082c96d23a5d744f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387893"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389033"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>להרחיב את הניסיון של Office 365 עבור העסק
 
 אם מנוי הניסיון שלך הוא בתוך 15 ימים של תאריך תפוגה הניסיון לא הורחב לפני, באפשרותך להרחיב את הניסיון שלך למשך 30 יום אחר. ניתן לבצע זאת פעם אחת בלבד.
   
-1. במרכז הניהול, עבור לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054), או בחר **חיוב** \> **מנויים**.
+1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. בחר מנוי הניסיון שברצונך להרחיב.
 
-3. בחר **הרחבה הניסיון** ולהשלים את השלבים באשף.
+3. בחר **הרחבה הניסיון** והשלם את השלבים הנותרים.
 
 4. עליך לספק פרטי כרטיס אשראי כדי להרחיב את הניסיון שלך. אנו לא לחייב כרטיס האשראי שלך עבור הרחבת הניסיון.
 
-כדי ללמוד עוד אודות הרחבת מבחנים או לקבלת הוראות שלב אחר שלב, ראה [הרחבה הניסיון של Office 365 עבור העסק](https://support.office.com/article/75533195-f1f6-4c2c-8ceb-0b5597790d7b).
-  
+כדי ללמוד עוד אודות הרחבת מבחנים או לקבלת הוראות שלב אחר שלב, ראה [הרחבה הניסיון של Office 365 עבור העסק](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/extend-your-trial).

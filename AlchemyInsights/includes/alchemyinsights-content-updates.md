@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>שבוע 01 ביולי, 2019
-
-
-| פורסם ב |כותרת נושא | שינוי |
-|------|------------|--------|
-| 1/7/2019 | [דוחות יומן הביקורת של SharePoint קלאסי](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | השתנה |
-| 2/7/2019 | [מידע נוסף אודות מדיניות שמירה](/AlchemyInsights/office-security-compliance-retention-policy) | השתנה |
-
-
 ## <a name="week-of-july-08-2019"></a>השבוע 08 ביולי, 2019
 
 
@@ -220,3 +211,69 @@
 | 2/8/2019 | [לארגן את הדואר האלקטרוני שלך ב- Outlook באינטרנט](/AlchemyInsights/owa-organize-email) | השתנה |
 | 2/8/2019 | [הדפסת דואר אלקטרוני, לוחות שנה וקבצים מצורפים ב- Outlook באינטרנט](/AlchemyInsights/owa-print-email-calendars-attachments) | השתנה |
 | 2/8/2019 | [אישורי קריאה ב- Outlook באינטרנט](/AlchemyInsights/owa-read-receipts) | השתנה |
+
+
+## <a name="week-of-august-05-2019"></a>השבוע 05 באוגוסט, 2019
+
+
+| פורסם ב |כותרת נושא | שינוי |
+|------|------------|--------|
+| 5/8/2019 | [כיצד להשיב או העבר הודעות ב- Outlook באינטרנט](/AlchemyInsights/owa-reply-forward-messages) | השתנה |
+| 5/8/2019 | [חפש דואר 8000003 ואנשים ב- Outlook באינטרנט](/AlchemyInsights/owa-search-mail-and-people) | השתנה |
+| 5/8/2019 | [יצירת חתימה ב- Outlook באינטרנט](/AlchemyInsights/owa-signature) | השתנה |
+| 5/8/2019 | [S/MIME ב- Outlook באינטרנט](/AlchemyInsights/owa-smime) | השתנה |
+| 5/8/2019 | [הפסקת הודעות ממעבר אל התיקיה דואר "זבל" אלקטרוני ב- Outlook באינטרנט](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | השתנה |
+| 5/8/2019 | [בטל את תיבת הדואר הנכנס ממוקד](/AlchemyInsights/owa-turn-off-focused-inbox) | השתנה |
+| 5/8/2019 | [1332 OWA - הכללים של תיבת הדואר הנכנס לא מבצעים עבור תיבת דואר](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | השתנה |
+| 6/8/2019 | [בדיקת תמונות מוטבעות אלכימיה](/AlchemyInsights/testing-alchemy-inline-images) | השתנה |
+| 6/8/2019 | [הגנה מפני איום מתקדם ב- SharePoint ו- OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | השתנה |
+| 6/8/2019 | [התקפה Ransomware ב- SharePoint או OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | השתנה |
+| 6/8/2019 | [אתר מודרניים כמו אתר הבסיס](/AlchemyInsights/modern-site-as-the-root-site) | השתנה |
+| 6/8/2019 | [בעיות בעת העברת נתונים ל- SharePoint Online](/AlchemyInsights/sharepoint-data-size-migration-issues) | השתנה |
+| 6/8/2019 | [הורדה או למנוע הורדה של קבצים מ- OneDrive או ב- SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | השתנה |
+| 6/8/2019 | [פתרון בעיות של Access הודעות אל נדחתה OneDrive עבור אתרים עסקיים](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | השתנה |
+| 6/8/2019 | [שחזור קובץ שנמחק או תיקיה](/AlchemyInsights/sharepoint-deleted-items-restore) | השתנה |
+| 6/8/2019 | [ניהול גירסאות ב- SharePoint ו- OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | השתנה |
+| 6/8/2019 | [מידע שמירה ומחיקה של OneDrive](/AlchemyInsights/one-drive-retention-and-deletion) | השתנה |
+| 7/8/2019 | [למנוע הורדת מ- SharePoint או OneDrive של קבצים](/AlchemyInsights/prevent-download) | השתנה |
+| 7/8/2019 | [שחזור קובץ שנמחק או תיקיה](/AlchemyInsights/sharepoint-deleted-items-restore) | השתנה |
+| 7/8/2019 | [אפשר שיתוף חיצוני ב- SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | השתנה |
+| 7/8/2019 | [פתור בעיות סינכרון OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | השתנה |
+| 7/8/2019 | [פתרון בעיות סינכרון ב- OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | השתנה |
+| 7/8/2019 | [זרימת דואר אלקטרוני לא נשלחת](/AlchemyInsights/workflow-email-not-being-sent) | השתנה |
+| 7/8/2019 | [זרימת העבודה לא מופעל](/AlchemyInsights/workflow-is-not-starting) | השתנה |
+| 7/8/2019 | [הגנה מפני איום מתקדם ב- SharePoint ו- OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | השתנה |
+| 7/8/2019 | [שייך אתר רכזת](/AlchemyInsights/associate-a-hub-site) | השתנה |
+| 7/8/2019 | [יצירת אתר SharePoint](/AlchemyInsights/create-a-sharepoint-site) | השתנה |
+| 7/8/2019 | [אתר מודרניים כמו אתר הבסיס](/AlchemyInsights/modern-site-as-the-root-site) | השתנה |
+| 7/8/2019 | [OneDrive שמירה ומחיקה](/AlchemyInsights/one-drive-retention-and-deletion) | השתנה |
+| 7/8/2019 | [OneDrive בעיות נפוצות ופתרונות](/AlchemyInsights/onedrive-common-issues-and-resolutions) | השתנה |
+| 7/8/2019 | [התקפה Ransomware ב- SharePoint או OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | השתנה |
+| 7/8/2019 | [שיתוף מקוון ב- SharePoint חיצוני](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | השתנה |
+| 7/8/2019 | [ניהול גירסאות ב- SharePoint ו- OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | השתנה |
+| 7/8/2019 | [איש קשר חיצוני אין אפשרות לקבל הזמנה לשיתוף](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | השתנה |
+| 7/8/2019 | [SharePoint Online בעיות נפוצות ופתרונות](/AlchemyInsights/sharepoint-get-started-faq) | השתנה |
+| 7/8/2019 | [אתר מודרניים כמו אתר הבסיס](/AlchemyInsights/sharepoint-modernize-classic-site) | השתנה |
+| 7/8/2019 | [הורדה או למנוע הורדה של קבצים מ- OneDrive או ב- SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | השתנה |
+| 7/8/2019 | [התקנה, התקנה, ולסנכרן קבצים OneDrive או SharePoint ב- Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | השתנה |
+| 7/8/2019 | [לפתור בעיות "פתח באמצעות סייר" ב- SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | השתנה |
+| 8/8/2019 | [הגנה מפני איום מתקדם ב- SharePoint ו- OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | השתנה |
+| 8/8/2019 | [שייך אתר רכזת](/AlchemyInsights/associate-a-hub-site) | השתנה |
+| 8/8/2019 | [יצירת אתר SharePoint](/AlchemyInsights/create-a-sharepoint-site) | השתנה |
+| 8/8/2019 | [שגיאה 404: קובץ לא נמצא](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | השתנה |
+| 8/8/2019 | [פתור בעיות סינכרון OneDrive ב- Mac](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | השתנה |
+| 8/8/2019 | [מיפוי ספריית SharePoint לכונן רשת](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | השתנה |
+| 8/8/2019 | [אתר מודרניים כמו אתר הבסיס](/AlchemyInsights/modern-site-as-the-root-site) | השתנה |
+| 8/8/2019 | [OneDrive שמירה ומחיקה](/AlchemyInsights/one-drive-retention-and-deletion) | השתנה |
+| 8/8/2019 | [התקפה Ransomware ב- SharePoint או OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | השתנה |
+| 8/8/2019 | [שחזור קובץ שנמחק או תיקיה](/AlchemyInsights/sharepoint-deleted-items-restore) | השתנה |
+| 8/8/2019 | [משתמש חיצוני אינו יכול לגשת לתוכן ב- SharePoint Online](/AlchemyInsights/sharepoint-external-sharing-issues) | השתנה |
+| 8/8/2019 | [מבט כולל על אתרי ה-hub של SharePoint](/AlchemyInsights/sharepoint-hub-sites) | השתנה |
+| 8/8/2019 | [הורדה או למנוע הורדה של קבצים מ- OneDrive או ב- SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | השתנה |
+| 8/8/2019 | [ניהול סכימת החיפוש ב- SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | השתנה |
+| 8/8/2019 | [השלבים ליצירת זרימת עבודה של SharePoint](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | השתנה |
+| 8/8/2019 | [החלף את אתר הבסיס הקלאסי עם אתר מודרני](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | השתנה |
+| 8/8/2019 | [לפתור בעיות "פתח באמצעות סייר" ב- SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | השתנה |
+| 8/8/2019 | [פתרון בעיות של זרימת עבודה](/AlchemyInsights/workflow-troubleshooting) | השתנה |
+| 8/8/2019 | [הפוך לזמין והפוך ביקורת החיפוש של יומן רישום](/AlchemyInsights/enable-auditing) | השתנה |
+| 8/8/2019 | [יומן הביקורת לזמינה וחיפוש](/AlchemyInsights/enable-auditing) | השתנה |

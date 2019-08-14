@@ -13,14 +13,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: e8da624ce045d31cf67dfbdf51cc06bf126f2ac0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d48e28a3166b3b7f55abdd1e25b830c6dbe0ee56
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371037"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388493"
 ---
 # <a name="price-doesnt-look-correct"></a>מחיר אינה נראית נכונה?
 
 אם המחיר בחשבונית שלך אינה נראית נכונה, ייתכן שהדבר נובע שינוי מחיר בכל חידוש. אם אינך סבור שזה מסביר את הבעיה, השתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה.
-  

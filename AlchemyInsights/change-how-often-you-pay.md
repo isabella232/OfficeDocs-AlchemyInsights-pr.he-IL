@@ -13,14 +13,13 @@ ms.custom:
 - "469"
 - "1500025"
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: aa7a7c1bea0ae08f4781c656646ef65aefd1301c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361854"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386902"
 ---
 # <a name="change-how-often-you-pay"></a>שינוי תדירות אתה משלם
 
  **מעוניין לשנות את תדירות התשלומים שלך?** אם ברצונך לשנות את תכיפות אתה משלם עבור Office 365 שלך עבור מנוי עסקי מ שנתי מדי חודש או מדי חודש כדי שנתיים, אנו יכולים לסייע לך עם זה. יהיה עליך לרכוש מנוי זהה עם תדירות תשלום חדש ו ביטול המנוי הישן. נא השתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה.
-  
