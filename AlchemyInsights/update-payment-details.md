@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903701"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387754"
 ---
 # <a name="update-payment-details"></a>עדכון פרטי תשלום
 
-1. במרכז הניהול, עבור אל הדף [שיטות תשלום](https://go.microsoft.com/fwlink/p/?linkid=2018806), או בחר **חיוב** \> **שיטות תשלום**.
+1. במרכז הניהול, עבור לדף **חיוב** \> [שיטות תשלום](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > אם אתה נתקל בלולאה ששולחת אותך בחזרה לדף הבית של הניהול לפני השלמת העדכונים שלך, נסה את מצב Inprivate או גלישה בסתר.
@@ -37,4 +37,4 @@ ms.locfileid: "35903701"
 
 5. כדי להסיר שיטת תשלום זו, בחר **מחק**.
 
-לקבלת מידע נוסף, ראה [הוספה, עדכון או הסרה של כרטיס אשראי או חשבון בנק ב- Office 365 לעסקים](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) ו[פתרון בעיות בכרטיסי אשראי ובחשבונות בנק](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+לקבלת מידע נוסף, ראה [הוספה, עדכון או הסרה של כרטיס אשראי או חשבון בנק ב- Office 365 לעסקים](https://docs.microsoft.com/he-IL/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ו[פתרון בעיות בכרטיסי אשראי ובחשבונות בנק](https://docs.microsoft.com/he-IL/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
