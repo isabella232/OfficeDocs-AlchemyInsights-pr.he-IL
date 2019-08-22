@@ -13,22 +13,22 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: 50e51be8560ed3817f956cb0c8d111e57b504574
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386410"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523368"
 ---
-# <a name="having-email-delivery-issues"></a><span data-ttu-id="a8985-102">נתקל בבעיות מסירה של דואר אלקטרוני?</span><span class="sxs-lookup"><span data-stu-id="a8985-102">Having email delivery issues?</span></span>
+# <a name="having-email-delivery-issues"></a><span data-ttu-id="fee6e-102">נתקל בבעיות מסירה של דואר אלקטרוני?</span><span class="sxs-lookup"><span data-stu-id="fee6e-102">Having email delivery issues?</span></span>
 
-<span data-ttu-id="a8985-103">זיהינו שלמשתמשים שלך אין אפשרות לקבל הודעות דואר אלקטרוני הנשלחות אל התחומים הבאים:</span><span class="sxs-lookup"><span data-stu-id="a8985-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
+<span data-ttu-id="fee6e-103">זיהינו שלמשתמשים שלך אין אפשרות לקבל הודעות דואר אלקטרוני הנשלחות אל התחומים הבאים:</span><span class="sxs-lookup"><span data-stu-id="fee6e-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
   
-<span data-ttu-id="a8985-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="a8985-104">{HealthCheckString}</span></span>
+<span data-ttu-id="fee6e-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="fee6e-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="a8985-105">תצורת רשומות ה- NS או ה- MX בהגדרות התחום (DNS) לא נקבעה כראוי למסירת דואר אלקטרוני לשירות Office 365 שלך.</span><span class="sxs-lookup"><span data-stu-id="a8985-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="a8985-106">באפשרותך לעיין במאמר [עדכון רשומות DNS ב- Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) לקבלת הוראות מפורטות.</span><span class="sxs-lookup"><span data-stu-id="a8985-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span>
+<span data-ttu-id="fee6e-105">תצורת רשומות ה- NS או ה- MX בהגדרות התחום (DNS) לא נקבעה כראוי למסירת דואר אלקטרוני לשירות Office 365 שלך.</span><span class="sxs-lookup"><span data-stu-id="fee6e-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="fee6e-106">באפשרותך לעיין במאמר [עדכון רשומות DNS ב- Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) לקבלת הוראות מפורטות.</span><span class="sxs-lookup"><span data-stu-id="fee6e-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span>
   
-<span data-ttu-id="a8985-107">כדי לפתור את הבעיה, עבור אל הדף [תחומים](https://admin.microsoft.com/adminportal/home#/Domains) במרכז הניהול של Microsoft 365, ואנו נסייע לך.</span><span class="sxs-lookup"><span data-stu-id="a8985-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span>
+<span data-ttu-id="fee6e-107">כדי לפתור את הבעיה, עבור אל הדף [תחומים](https://admin.microsoft.com/adminportal/home#/Domains) במרכז הניהול של Microsoft 365, ואנו נסייע לך.</span><span class="sxs-lookup"><span data-stu-id="fee6e-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span>
   
-<span data-ttu-id="a8985-108">[עיין בשאלות הנפוצות בנושא תחומים](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) למידע על פתרונות נפוצים אחרים.</span><span class="sxs-lookup"><span data-stu-id="a8985-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
+<span data-ttu-id="fee6e-108">[עיין בשאלות הנפוצות בנושא תחומים](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) למידע על פתרונות נפוצים אחרים.</span><span class="sxs-lookup"><span data-stu-id="fee6e-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
   
