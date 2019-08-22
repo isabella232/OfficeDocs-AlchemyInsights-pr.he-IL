@@ -9,13 +9,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
-ms.openlocfilehash: 4da54121763fd33aa111f3bb3c26963cd271dc51
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ab34b8939b95b29bedb797f640dd744bc783adef
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32374324"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496400"
 ---
+# <a name="convert-a-user-mail-box-into-a-shared-mailbox"></a>המרה של תיבת הדואר של המשתמש לתוך תיבת דואר משותפת
+
 באפשרותך להמיר תיבת הדואר של המשתמש לתיבת דואר משותפת רק אם למשתמש יש רשיון של Exchange. לאחר המרת הדואר, הוא ימשיך להופיע ברשימת משתמשים פעילים, מכיוון שהרשימה כוללת תיבות דואר משותפות. עם זאת, תיבת הדואר שהומרו גם תופיע ברשימה תיבת הדואר המשותפת. 
   
 אם תנסה להמיר תיבת הדואר במסוף הניהול של Exchange ההמרה נכשלת, נקה את מטמון הדפדפן ואת קובצי ה-cookie ונסה שוב. אם הוא עדיין אינו עובד, נסה להמיר את תיבת הדואר של מעטפת ניהול Exchange על-ידי הפעלת הפקודה הבאה:
@@ -24,5 +26,5 @@ ms.locfileid: "32374324"
 Set-Mailbox -Type Shared
 ```
 
-מידע נוסף של המרת תיבת הדואר זמין [להמיר תיבת הדואר של המשתמש לתיבת דואר משותפת](https://support.office.com/client/2e122487-e1f5-4f26-ba41-5689249d93ba).
+מידע נוסף של המרת תיבת הדואר זמין [להמיר תיבת הדואר של המשתמש לתיבת דואר משותפת](https://docs.microsoft.com/office365/admin/email/convert-user-mailbox-to-shared-mailbox).
   

@@ -13,25 +13,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388181"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36534168"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>מעבר Office 365 שונים עבור תוכנית עסקית
 
-כאשר העסק שלך משתנה, או שאתה זקוק יותר תכונות Office 365, באפשרותך לעבור תוכניות.
+כאשר העסק שלך משתנה, או שאתה זקוק יותר תכונות Office 365, באפשרותך לשדרג תוכנית חדשה.
   
-1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. בחר **מתג תוכניות** כדי להציג את רשימת תוכניות חדשות הזמינות.
+2. בחר את המנוי שברצונך לשדרג.
 
-3. בחר תוכנית כדי לראות את העלות הכוללת חדש בכל חודש. הקפד לקרוא את מידע מפתחות, ולאחר מכן בחר **הבא** כדי להוציא.
+3. בדף פרטי המנוי, בחר את האפשרות ' **שדרוג**'.
 
-לחצן תוכניות עבור אינו נתמך בכל המצבים. במקרים מסוימים, ייתכן שתוכל לעבור תוכניות באופן ידני.
-  
-אם לחצן **מעבר תוכניות** אינה זמינה, באפשרותך לנסות [לעבור תוכניות באופן ידני](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) או להשתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה.
-  
-האם אתה משתמש מרכז הניהול החדש? לקבלת שלבים חדשים, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+4. למצוא את התוכנית שאליה ברצונך לשדרג, ולאחר מכן בחר בלחצן **לשדרג** .
+
+5. הזן את מספר רשיונות שתבחר צריך, אם יש לשלם בכל חודש או עבור השנה כולה, ולאחר מכן בחר את **ההוצאה**.
+   
+לקבלת מידע נוסף, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
