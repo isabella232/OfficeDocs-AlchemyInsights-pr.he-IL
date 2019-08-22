@@ -8,15 +8,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 1f628bc6425e12d62826fc8766c732fb1bd6e57c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 93d86ecb14623480f8566b9b20372a9688e76d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388017"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521388"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>ההודעה "OneDrive החשבון יימחק"
-
 # <a name="onedrive-account-will-be-deleted-message"></a>ההודעה "OneDrive החשבון יימחק"
 
 אם קיבלת הודעת דואר אלקטרוני מ- email@mail.onedrive.com אזהרה כי "חשבון OneDrive שלך יימחקו" נא שים לב שזהו חשבון האישי שלך OneDrive.com, לא OneDrive שלך עבור חשבון עסקי. 

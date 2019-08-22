@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270745"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501080"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>החלף את אתר הבסיס הקלאסי עם אתר מודרני
 
 אם הסביבה שלך הוגדר לפני 2019 באפריל, באפשרותך לשנות את אתר הבסיס שלך לאתר מודרני באמצעות Microsoft PowerShell:
 
 - אם יש לך אתר אחר שברצונך להשתמש בשם אתר הבסיס שלך, באפשרותך להחליף אתר (swap) הבסיס איתו. 
-    - השתמש [Invoke SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) להחליף את המיקום של אתר עם אתר אחר בעת אחסון בארכיון של האתר המקורי. אפשרות זו זמינה עבור אתר הצוות (לא מחובר לקבוצה) ואתר תקשורת. 
+    - השתמש [Invoke SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) להחליף את המיקום של אתר עם אתר אחר בעת אחסון בארכיון של האתר המקורי. אפשרות זו זמינה עבור אתר הצוות (לא מחובר לקבוצה) ואתר תקשורת. 
 
 - יכולות נוספות שהוכנסו בקרוב אשר יאפשר לך לשמור באמצעות התוכן באתר, אך להמיר אתר קיים לאתר תקשורת. 
 >[!Important]

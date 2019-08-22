@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 682fa0950a0816fec0c3989dc92a10137e7e7b11
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7addbbe8aa0eea80d063601c8e2b0be73e2aded2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697441"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526212"
 ---
 # <a name="export-user-account-information"></a>ייצוא מידע אודות חשבונות משתמשים
 
-כדי לייצא את חשבון המשתמש מידע כולל מידע אודות רשיונות, מדיניות סיסמה, חשבונות חסומים, מצב הסינכרון AAD ועוד, **משתמשים** > [משתמשים פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) עמוד ולאחר מכן בחר באפשרות **המשתמשים לייצא**.
+כדי לייצא מידע חשבון המשתמש admin Microsoft 365 center, כולל מידע אודות רשיונות, מדיניות סיסמה, חשבונות חסומים, מצב הסינכרון AAD ועוד, **משתמשים** > עמוד[משתמשים פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) , ולאחר מכן בחר **ייצוא משתמשים**.

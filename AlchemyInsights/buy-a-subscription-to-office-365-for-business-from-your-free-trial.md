@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e6681268c3932fd96cb05ffd41149c890f37c6c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386873"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518004"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>רכישת מנוי ל- Office 365 דרך גירסת הניסיון ללא תשלום שברשותך
 
@@ -26,16 +26,14 @@ ms.locfileid: "36386873"
   
  **ניתן לקנות באותה התוכנית של הניסיון שלך**
   
-1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. בחר **קנה כעת** למנוי לגירסת הניסיון הרצוי, ובצע את השלבים כדי להוציא מאחסון.
+2. חפש את המנוי שברצונך לרכוש. במקטע **רשיונות** , בחר **מנוי רכש**ובצע את השלבים כדי להוציא מאחסון.
 
 או **לרכוש מנוי אחר**
   
-1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז admin, לעבור אל **חיוב** \> דף [שירותי רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. בדף ' **מנוי** ', בחר **הוסף מנויים**.
+3. מצא את המנוי שברצונך לרכוש, בחר **לקנות**ובצע את השלבים כדי להוציא מאחסון.
 
-3. חפש את המנוי שברצונך לרכוש, בחר **לקנות כעת**ולאחר מכן בצע את השלבים כדי להוציא.
-
-האם אתה משתמש מרכז הניהול החדש? לקבלת שלבים חדשים, ראה [לרכוש מנוי Office 365 עבור העסק מתוך הניסיון ללא תשלום](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+לקבלת מידע נוסף, ראה [לרכוש מנוי Office 365 עבור העסק מתוך הניסיון ללא תשלום](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385373"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522504"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>כיצד להקצות Office רשיונות למשתמשי Mac
 
-- במרכז הניהול של Microsoft 365, לעבור אל הדף [משתמשים פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) , או בחירת **משתמשים** \> **משתמשים פעילים**.
+1. במרכז admin, לעבור **משתמשים** \> עמוד [משתמשים פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-- בחר את התיבה לצד שם המשתמש שברצונך להקצות לו רשיון.
+2. בחר את שם המשתמש אליו ברצונך להקצות, לשנות או להסיר רשיון.
 
-- בצד שמאל, בשורה **רשיונות מוצרים**, בחר **ערוך**.
+3. בכרטיסיה **רשיונות ויישומים** , בחר את הרשיון שברצונך להקצות למשתמש זה.
 
-- בחלונית s **רשיון מוצר**, לעבור את מצבי למיקום **על** הרשיון שברצונך להקצות למשתמש זה.
+    כברירת מחדל, כל השירותים המשויכים לרשיון זה מוקצים באופן אוטומטי למשתמש. כדי להגביל את סוג השירותים הזמינים למשתמש, נקה את תיבת הסימון עבור השירותים שאין ברצונך שהמשתמש לקיים.
 
-- בחלק התחתון של החלונית **רשיונות מוצרים**, בחר **שמור** \> **סגור** \> **סגור**.
+4. בחלק התחתון של החלונית, בחרו ' **שמור שינויים**.
 
 לקבלת מידע נוסף: [הקצאת רשיונות המשתמשים ב- Office 365 עבור העסק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   

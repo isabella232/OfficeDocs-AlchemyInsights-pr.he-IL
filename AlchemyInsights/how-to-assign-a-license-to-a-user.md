@@ -13,29 +13,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386297"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522468"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>כיצד להקצות רשיון משתמש
 
-משתמש זקוק לרשיון גישת לשירותים. להלן השלבים כדי להוסיף, לשנות או להסיר רשיון ממשתמש.
+המשתמש צריך רשיון של Office 365 תהיה גישה לשירותים. להלן השלבים כדי להוסיף, לשנות או להסיר רשיון ממשתמש.
   
 1. במרכז admin, לעבור **משתמשים** \> עמוד [משתמשים פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. בחר את תיבת לצד השם המשתמש אליו ברצונך להקצות, לשנות או להסיר רשיון.
+2. בחר את שם המשתמש אליו ברצונך להקצות, לשנות או להסיר רשיון.
 
-3. בצד שמאל, בשורה **רשיונות מוצרים**, בחר **ערוך**.
+3. בכרטיסיה **רשיונות ויישומים** , בחר את הרשיון שברצונך להקצות למשתמש זה.
 
-4. בחלונית **רשיונות מוצר**, העבר את הלחצן הדו-מצבי למצב **פעיל** עבור הרשיון שברצונך להקצות למשתמש זה.
+    כברירת מחדל, כל השירותים המשויכים לרשיון זה מוקצים באופן אוטומטי למשתמש. כדי להגביל את סוג השירותים הזמינים למשתמש, נקה את תיבת הסימון עבור השירותים שאין ברצונך שהמשתמש לקיים.
 
-    כברירת מחדל, כל השירותים המשויכים לרשיון זה מוקצים באופן אוטומטי למשתמש. כדי להגביל את השירותים הזמינים למשתמש, העבר את הלחצנים הדו-מצביים למצב **לא פעיל** עבור השירותים שאינך מעוניין לספק למשתמש זה.
+4. בחלק התחתון של החלונית, בחרו ' **שמור שינויים**.
 
-    לעבור את מצבי למיקום **מחוץ** להסרת רשיון.
-
-5. בחלק התחתון של החלונית **רשיונות מוצרים**, בחר **שמור** \> **סגור** \> **סגור**.
-
-לקבלת מידע נוסף, ראה [הקצאת רשיונות המשתמשים ב- Office 365 לעסקים](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users), ו [להסיר רשיונות מפני משתמשים ב- Office 365 עבור העסק](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+לקבלת מידע נוסף, ראה [הקצאת רשיונות המשתמשים ב- Office 365 לעסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), ו [להסיר רשיונות מפני משתמשים ב- Office 365 עבור העסק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).

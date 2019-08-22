@@ -8,22 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 149bf3f8d261c2c2945ec47c47cf9ca694f7aec9
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 546d9c63d0ed37403d602e942c18d1b35caf6075
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222957"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519674"
 ---
-# <a name="why-you-might-not-be-able-to-edit-files"></a>מדוע ייתכן שלא תוכל לערוך קבצים?
+# <a name="cant-edit-files"></a>אין באפשרותך לערוך את הקבצים?
 
-אם מסמך, גליון עבודה או מצגת נעול לעריכה ואין אפשרות לפתוח אותו, ייתכן כי הקובץ כבר נערך על-ידי מישהו אחר, או שיש להם את הקובץ הוצא. בוא נביט מהירה כמה סיבות [מדוע ייתכן שלא תוכל לערוך את הקובץ](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+אם מסמך, גליון עבודה או מצגת נעול לעריכה ואין אפשרות לפתוח יישומי שולחן העבודה של Windows, ייתכן כי הקובץ כבר נערך על-ידי מישהו אחר, או שיש להם את הקובץ הוצא. בוא נביט מהירה כמה סיבות [מדוע ייתכן שלא תוכל לערוך את הקובץ](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-הערה: ספריות עם התשלום בקופה, נדרש עמודות/מטה-נתונים, או כאשר אבטחת פריטי טיוטה מוגדר רק משתמשים שיכולים לערוך או רק משתמשים שיכולים לאשר פריטים בהגדרות גירסה של הספריה.
+אם ברשותך ספריות עם עמודות **בקופה, נדרש** או **אימות** או מטה-נתונים, או כאשר **אבטחת פריטי טיוטה** מוגדר **רק משתמשים מי יכול לערוך** או **רק משתמשים שיכולים לאשר פריטים** בהגדרות גירסה של ה ספריה:
 
-עבור ספריות OneDrive, OneDrive יציג סמל מנעול לצד מצב הסינכרון לבין המשתמש לא תהיה אפשרות לסנכרן את ספריית עד הוסרו הגדרות שהוזכר לעיל.
+- עבור ספריות מסמכים של SharePoint, פריטים אלה יסונכרנו לקריאה בלבד.
 
-לקבלת מידע נוסף אודות קבצים נעולים עבור Word/Excel נא להפנות את המאמרים שלהלן.
+- עבור ספריות OneDrive, OneDrive יציג סמל מנעול (OneDrive קובץ נעול סמל) לצד הסינכרון ומצב המשתמש לא תהיה אפשרות לסנכרן את ספריית עד הוסרו הגדרות שהוזכר לעיל. 
+
+לקבלת מידע נוסף אודות קבצים נעולים עבור Word או Excel, אנא עיין במאמרים שלהלן.
 
 - [קובץ Excel נעול לעריכה על-ידי משתמש אחר](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 

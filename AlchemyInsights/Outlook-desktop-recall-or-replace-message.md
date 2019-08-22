@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389700"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496112"
 ---
-# <a name="recall-or-replace-an-email-message"></a>אחזור או החלפה של הודעת דואר אלקטרוני
+# <a name="recall-or-replace-an-outlook-email-message"></a>אחזור או החלפה של הודעת דואר אלקטרוני של Outlook
 
 - כמנהל מערכת, באפשרותך **לאחזר הודעות בשם משתמשים באמצעות PowerShell**. אין אפשרות לאחזר הודעות ממרכז admin.
 - באפשרותך **רק הודעות האחזור אשר נשלחות לאנשים בארגון שלך**. אם ההודעה נשלחה לכתובת Gmail, לדוגמה, אתה זוכר אותו.
