@@ -13,21 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386369"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527832"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a><span data-ttu-id="4c933-102">יש להשאיר עובד ואין צורך לחסום גישה אל נתונים ודואר אלקטרוני?</span><span class="sxs-lookup"><span data-stu-id="4c933-102">Have an employee leaving and need to block access to data and email?</span></span>
+# <a name="block-access-to-a-former-employee"></a><span data-ttu-id="086f2-102">חסימת הגישה עובד לשעבר</span><span class="sxs-lookup"><span data-stu-id="086f2-102">Block access to a former employee</span></span>
+
+<span data-ttu-id="086f2-103">יש להשאיר עובד ואין צורך לחסום גישה אל הנתונים Office 365 ודואר אלקטרוני?</span><span class="sxs-lookup"><span data-stu-id="086f2-103">Have an employee leaving and need to block access to Office 365 data and email?</span></span> <span data-ttu-id="086f2-104">בצע את הפעולות הבאות.</span><span class="sxs-lookup"><span data-stu-id="086f2-104">Do the following.</span></span>
   
-1. <span data-ttu-id="4c933-103">במרכז admin, לעבור אל **משתמשים** \> עמוד [משתמשים פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) .</span><span class="sxs-lookup"><span data-stu-id="4c933-103">In the admin center, go to **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
+1. <span data-ttu-id="086f2-105">במרכז admin, לעבור **משתמשים** \> עמוד [משתמשים פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) .</span><span class="sxs-lookup"><span data-stu-id="086f2-105">In the admin center, go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-2. <span data-ttu-id="4c933-104">בחר את המשתמש שברצונך לחסום.</span><span class="sxs-lookup"><span data-stu-id="4c933-104">Select the user you want to block.</span></span>
+2. <span data-ttu-id="086f2-106">בחר את שם המשתמש שברצונך לחסום.</span><span class="sxs-lookup"><span data-stu-id="086f2-106">Select the name of the user you want to block.</span></span>
 
-3. <span data-ttu-id="4c933-105">לצד מצב הכניסה, בחר באפשרות **ערוך**.</span><span class="sxs-lookup"><span data-stu-id="4c933-105">Next to Sign-in status, choose **Edit**.</span></span>
+3. <span data-ttu-id="086f2-107">תחת שם המשתמש, בחר **לחסום משתמש זה**.</span><span class="sxs-lookup"><span data-stu-id="086f2-107">Under the user's name, select **Block this user**.</span></span>
 
-4. <span data-ttu-id="4c933-106">בחר **לחסום ממשתמש להיכנס** \> **שמור**.</span><span class="sxs-lookup"><span data-stu-id="4c933-106">Choose **Block the user from signing in** \> **Save**.</span></span>
+4. <span data-ttu-id="086f2-108">בחר **לחסום ממשתמש להיכנס** \> **לשמור שינויים**.</span><span class="sxs-lookup"><span data-stu-id="086f2-108">Choose **Block the user from signing in** \> **Save changes**.</span></span>
 
-<span data-ttu-id="4c933-107">**הערה**: Sign-out עבור יישומים מסוימים ייתכן אינו מיידי.</span><span class="sxs-lookup"><span data-stu-id="4c933-107">**Note**: Sign-out for some apps might not be immediate.</span></span> <span data-ttu-id="4c933-108">המשך טיפול עם פעולות נוספות במאמר זה: [הסר עובד לשעבר מ- Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)</span><span class="sxs-lookup"><span data-stu-id="4c933-108">Follow up with more actions in this article: [Remove a former employee from Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)</span></span>
+<span data-ttu-id="086f2-109">**הערה**: Sign-out עבור יישומים מסוימים ייתכן אינו מיידי.</span><span class="sxs-lookup"><span data-stu-id="086f2-109">**Note**: Sign-out for some apps might not be immediate.</span></span> <span data-ttu-id="086f2-110">המשך טיפול עם פעולות נוספות במאמר זה: [הסר עובד לשעבר מ- Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span><span class="sxs-lookup"><span data-stu-id="086f2-110">Follow up with more actions in this article: [Remove a former employee from Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span></span>

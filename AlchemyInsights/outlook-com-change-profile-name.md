@@ -13,17 +13,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 38903d02b1231240d26da96f25e96d73ffa4548b
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35062098"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546721"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a><span data-ttu-id="f04fc-102">לשנות את שם הפרופיל שלך ב- Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f04fc-102">Change your profile name in Outlook.com</span></span>
+# <a name="change-your-profile-name-in-outlookcom"></a><span data-ttu-id="1ef1b-102">לשנות את שם הפרופיל שלך ב- Outlook.com</span><span class="sxs-lookup"><span data-stu-id="1ef1b-102">Change your profile name in Outlook.com</span></span>
 
-1. <span data-ttu-id="f04fc-103">מעבר אל [מידע חשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="f04fc-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-2. <span data-ttu-id="f04fc-104">בחר **לערוך שם**.</span><span class="sxs-lookup"><span data-stu-id="f04fc-104">Select **Edit name**.</span></span>
-3. <span data-ttu-id="f04fc-105">הזן שם פרטי ושם משפחה, ובחר באפשרות **שמור**.</span><span class="sxs-lookup"><span data-stu-id="f04fc-105">Enter a first name and last name, and select **Save**.</span></span>
+1. <span data-ttu-id="1ef1b-103">מעבר אל [מידע חשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="1ef1b-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+2. <span data-ttu-id="1ef1b-104">בחר **לערוך שם**.</span><span class="sxs-lookup"><span data-stu-id="1ef1b-104">Select **Edit name**.</span></span>
+3. <span data-ttu-id="1ef1b-105">הזן שם פרטי ושם משפחה, ובחר באפשרות **שמור**.</span><span class="sxs-lookup"><span data-stu-id="1ef1b-105">Enter a first name and last name, and select **Save**.</span></span>
 
-<span data-ttu-id="f04fc-106">לתשומת לבך, עד 24 שעות עבור שינויים שם הפרופיל שלך אל תיכנס לתוקף.</span><span class="sxs-lookup"><span data-stu-id="f04fc-106">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
+<span data-ttu-id="1ef1b-106">לתשומת לבך, עד 24 שעות עבור שינויים שם הפרופיל שלך אל תיכנס לתוקף.</span><span class="sxs-lookup"><span data-stu-id="1ef1b-106">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>

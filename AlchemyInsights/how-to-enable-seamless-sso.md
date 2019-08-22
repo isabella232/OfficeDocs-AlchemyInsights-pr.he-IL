@@ -13,26 +13,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: d203c1256785a99426503a5386935d78f8966a8b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 249d388564294f65e759f84b7fcb09278e05cc12
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384682"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540686"
 ---
-# <a name="how-to-enable-seamless-sso"></a><span data-ttu-id="fb54c-102">כיצד לאפשר SSO חלקה</span><span class="sxs-lookup"><span data-stu-id="fb54c-102">How to enable Seamless SSO</span></span>
+# <a name="how-to-enable-seamless-sso"></a><span data-ttu-id="b9cd0-102">כיצד לאפשר SSO חלקה</span><span class="sxs-lookup"><span data-stu-id="b9cd0-102">How to enable Seamless SSO</span></span>
 
-<span data-ttu-id="fb54c-103">אפשר SSO חלקה באמצעות [AD תכלת הרקיע להתחבר](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span><span class="sxs-lookup"><span data-stu-id="fb54c-103">Enable Seamless SSO through [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span></span>
+<span data-ttu-id="b9cd0-103">אפשר SSO חלקה באמצעות [AD תכלת הרקיע להתחבר](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span><span class="sxs-lookup"><span data-stu-id="b9cd0-103">Enable Seamless SSO through [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).</span></span>
   
-<span data-ttu-id="fb54c-104">אם אתה מבצע התקנה חדשה של התחברות AD תכלת הרקיע, לבחור את [נתיב ההתקנה המותאמת אישית](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom).</span><span class="sxs-lookup"><span data-stu-id="fb54c-104">If you're doing a fresh installation of Azure AD Connect, choose the [custom installation path](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom).</span></span> <span data-ttu-id="fb54c-105">בדף **משתמש כניסה** , בחר באפשרות **אפשר כניסה יחידה** .</span><span class="sxs-lookup"><span data-stu-id="fb54c-105">At the **User sign-in** page, choose the **Enable single sign-on** option.</span></span>
+<span data-ttu-id="b9cd0-104">אם אתה מבצע התקנה חדשה של התחברות AD תכלת הרקיע, לבחור את [נתיב ההתקנה המותאמת אישית](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom).</span><span class="sxs-lookup"><span data-stu-id="b9cd0-104">If you're doing a fresh installation of Azure AD Connect, choose the [custom installation path](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom).</span></span> <span data-ttu-id="b9cd0-105">בדף **משתמש כניסה** , בחר באפשרות **אפשר כניסה יחידה** .</span><span class="sxs-lookup"><span data-stu-id="b9cd0-105">At the **User sign-in** page, choose the **Enable single sign-on** option.</span></span>
   
-<span data-ttu-id="fb54c-106">כדי לוודא כי הפכת SSO חלקה כראוי:</span><span class="sxs-lookup"><span data-stu-id="fb54c-106">To verify that you have enabled Seamless SSO correctly:</span></span>
+<span data-ttu-id="b9cd0-106">כדי לוודא כי הפכת SSO חלקה כראוי:</span><span class="sxs-lookup"><span data-stu-id="b9cd0-106">To verify that you have enabled Seamless SSO correctly:</span></span>
   
-1. <span data-ttu-id="fb54c-107">היכנס אל [מרכז ניהול תכלת הרקיע Active Directory](https://aad.portal.azure.com) בתור מנהל מערכת כללית</span><span class="sxs-lookup"><span data-stu-id="fb54c-107">Sign in to the [Azure Active Directory administrative center](https://aad.portal.azure.com) as a global admin.</span></span>
+1. <span data-ttu-id="b9cd0-107">היכנס אל [מרכז ניהול תכלת הרקיע Active Directory](https://aad.portal.azure.com) בתור מנהל מערכת כללית</span><span class="sxs-lookup"><span data-stu-id="b9cd0-107">Sign in to the [Azure Active Directory administrative center](https://aad.portal.azure.com) as a global admin.</span></span>
 
-2. <span data-ttu-id="fb54c-108">בחר **תכלת הרקיע Active Directory** בחלונית הימנית.</span><span class="sxs-lookup"><span data-stu-id="fb54c-108">Select **Azure Active Directory** in the left pane.</span></span>
+2. <span data-ttu-id="b9cd0-108">בחר **תכלת הרקיע Active Directory** בחלונית הימנית.</span><span class="sxs-lookup"><span data-stu-id="b9cd0-108">Select **Azure Active Directory** in the left pane.</span></span>
 
-3. <span data-ttu-id="fb54c-109">ודא זה חלקה כניסה יחידה **זמין**.</span><span class="sxs-lookup"><span data-stu-id="fb54c-109">Verify that Seamless single sign-on is **Enabled**.</span></span>
+3. <span data-ttu-id="b9cd0-109">ודא זה חלקה כניסה יחידה **זמין**.</span><span class="sxs-lookup"><span data-stu-id="b9cd0-109">Verify that Seamless single sign-on is **Enabled**.</span></span>
 
-<span data-ttu-id="fb54c-110">לקבלת מידע נוסף, ראה [תכלת הרקיע Active Directory חלקה כניסה יחידה: התחלה מהירה](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span><span class="sxs-lookup"><span data-stu-id="fb54c-110">To learn more, see [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span></span>
+<span data-ttu-id="b9cd0-110">לקבלת מידע נוסף, ראה [תכלת הרקיע Active Directory חלקה כניסה יחידה: התחלה מהירה](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span><span class="sxs-lookup"><span data-stu-id="b9cd0-110">To learn more, see [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).</span></span>
   
