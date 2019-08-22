@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381730"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498416"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>התקנת Office בשרת מסופים
 
@@ -26,7 +26,7 @@ ms.locfileid: "35381730"
 
 - עליך לאפשר [הפעלה במחשב משותף](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-אם ברצונך להתקין את Office 365 ProPlus RDS מתוך הפורטל Office 365, * * *המשתמשת הגדרות ברירת המחדל של ההתקנה* * *, בצע את הפעולות הבאות:
+אם ברצונך להתקין את Office 365 ProPlus RDS מתוך הפורטל Office 365, ***המשתמשת הגדרות ברירת המחדל של ההתקנה***, בצע את הפעולות הבאות:
   
 1. בדוק איזו תוכנית Office 365 יש לך. [למד כיצד](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ ms.locfileid: "35381730"
 
 4. בשרת RDS, היכנס אל פורטל Office 365 עם שלך חשבון מנהל המערכת ולהתקין את [Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. לאחר התקנת Office, * * *אין לפתוח או להיכנס* * * כל יישומי Office.
+5. לאחר התקנת Office, ***אין לפתוח או להיכנס*** בכל יישומי Office.
 
 6. בשרת RDS, לאפשר הפעלה במחשב משותף על-ידי עריכת הרישום על-ידי ביצוע השלבים הבאים:
 
@@ -46,7 +46,7 @@ ms.locfileid: "35381730"
 
 3. בעורך הרישום, הוסף ערך מחרוזת של **SharedComputerLicensing** עם הגדרה של 1 תחת HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. בשרת RDS, * * *היכנס בתור משתמש קצה* * *, [וודא כי הפעלת מחשב משותף זמין עבור Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. על השרת RDS, ***היכנס בתור משתמש קצה*** [ודא כי הפעלת מחשב משותף מופעלת עבור Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 לקבלת פרטים נוספים על תנאים מוקדמים, הוראות ההתקנה והדרכה לגבי התקנות מותאמות אישית על-ידי שימוש בכלי הפריסה של Office, נא ראה [פריסת Office 365 ProPlus באמצעות שירותי שולחן עבודה מרוחק](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   

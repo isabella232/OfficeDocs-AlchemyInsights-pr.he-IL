@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397935"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505832"
 ---
 # <a name="outlook-search-not-indexing"></a>לא יצירת אינדקס החיפוש של outlook
 
 אנו מודעים Outlook חיפוש בעיות הקשורות לעדכני עדכוני אבטחה של Windows.
   
-בעת חיפוש ב- Outlook, ייתכן שתקבל שגיאה זו: * * משהו השתבש ולא היתה אפשרות להשלים את החיפוש שלך * *, או **ייתכן שתוצאות החיפוש לא הושלמה מאחר פריטים עדיין כלולים באינדקס**. הונפק על-ידי תיקון כעדכון אופציונלי של Windows. נא התקן את אחד התואם לגירסת Windows שאתה רואה בעיה זו על: 
+בעת חיפוש ב- Outlook, ייתכן שתקבל אחת מהשגיאות הבאות: **משהו השתבש וגם לא היתה אפשרות להשלים את החיפוש שלך**, או **ייתכן שתוצאות החיפוש לא הושלמה מאחר פריטים עדיין כלולים באינדקס**. הונפק על-ידי תיקון כעדכון אופציונלי של Windows. נא התקן את אחד התואם לגירסת Windows שאתה רואה בעיה זו על: 
   
 > [Windows 7 - 27 ביוני 2017 לעדכן](https://support.microsoft.com/kb/4022168.aspx)
     
