@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769497"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544612"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>נתקל בבעיות עם שירות ענן?
 
-אם אתה נתקל בבעיות עם שירות ענן, באפשרותך לבדוק את [תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לקבוע אם זוהי בעיה מוכרת עם רזולוציה מתבצע לפני התקשר לתמיכה או לבזבז זמן פתרון בעיות. הבעיה עשויה להיות מאוד זמניות ולא כבר שזוהה על-ידי Microsoft, אולם ייתכנו lapse בזמן בין זיהוי בעיה רישום ללוח המחוונים תקינות השירות. נא להמשיך לבדוק את לוח המחוונים של שירות עדכונים נוספים.
+אם אתה נתקל בבעיות עם שירות ענן, באפשרותך לבדוק את [תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) במרכז admin Microsoft 365 כדי לקבוע אם זוהי בעיה מוכרת עם רזולוציה מתבצע לפני התקשר לתמיכה או לבזבז זמן פתרון בעיות. הבעיה עשויה להיות מאוד זמניות ולא כבר שזוהה על-ידי Microsoft, אולם ייתכנו lapse בזמן בין זיהוי בעיה רישום ללוח המחוונים תקינות השירות. נא להמשיך לבדוק את לוח המחוונים של שירות עדכונים נוספים.
 
 **מדיניות דיווח**
 

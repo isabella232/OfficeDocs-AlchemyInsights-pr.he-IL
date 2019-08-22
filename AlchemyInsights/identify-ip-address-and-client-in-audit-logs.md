@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382954"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539030"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>זהה את כתובת ה-IP ואת לקוח ביומני ביקורת
 
-כתובת ה-IP המתאים לפעילות על-ידי משתמש או מנהל מוצג יומני ביקורת. פרטי לקוח גם נרשם. להלן השלבים כדי לזהות מידע כזה
+כתובת ה-IP המתאים לפעילות Office 365 המשתמש או מנהל המערכת מוצג יומני ביקורת. פרטי לקוח גם נרשם. להלן השלבים כדי לזהות מידע כזה
 
-1. היכנס אל [מרכז התאימות של Office 365 אבטחה &](https://protection.office.com/)
+1. היכנס אל [מרכז התאימות של Office 365 אבטחה &](https://protection.office.com/).
 
-2. לחץ על **חיפוש ויצירת החקירה** ובחר באפשרות **החיפוש יומן ביקורת**.
+2. עבור אל **חיפוש** > דף**החיפוש יומן הביקורת** .
 
    אם אתה מתעניין פעילות מסוימת, בחר אותו מתוך רשימת **הפעילויות** . אם לא, כל הפעילויות יוחזר עבור המשתמש הנבחר (הגדרת ברירת המחדל).
 
