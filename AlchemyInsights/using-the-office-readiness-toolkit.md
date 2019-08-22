@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000176
-ms.openlocfilehash: 3b77cd3e7da833b6a5c9ecd61cab000857dce56d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 71d3627c9ec67b4a32bbc2b77f98f6d02cc1a818
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423148"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531504"
 ---
-# <a name="using-the-office-readiness-toolkit"></a><span data-ttu-id="d5ef5-102">באמצעות ערכת מוכנות של Office</span><span class="sxs-lookup"><span data-stu-id="d5ef5-102">Using the Office Readiness Toolkit</span></span>
+# <a name="using-the-office-readiness-toolkit"></a><span data-ttu-id="29e97-102">באמצעות ערכת מוכנות של Office</span><span class="sxs-lookup"><span data-stu-id="29e97-102">Using the Office Readiness Toolkit</span></span>
 
-<span data-ttu-id="d5ef5-103">לקבלת מידע אודות שימוש ערכת מוכנות של Office, ראה [שימוש ערכת מוכנות כדי להעריך תאימות יישומים עבור Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).</span><span class="sxs-lookup"><span data-stu-id="d5ef5-103">For information on using the Office Readiness Toolkit, see [Use the Readiness Toolkit to assess application compatibility for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).</span></span>
+<span data-ttu-id="29e97-103">לקבלת מידע אודות שימוש ערכת מוכנות של Office, ראה [שימוש ערכת מוכנות כדי להעריך תאימות יישומים עבור Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).</span><span class="sxs-lookup"><span data-stu-id="29e97-103">For information on using the Office Readiness Toolkit, see [Use the Readiness Toolkit to assess application compatibility for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/use-the-readiness-toolkit-to-assess-application-compatibility-for-office-365-pro).</span></span>
 
-<span data-ttu-id="d5ef5-104">אם יש לך משוב או שאלות אודות ערכת מוכנות, נא דואר אלקטרוני לנו ב- ReadyForOffice@microsoft.com.</span><span class="sxs-lookup"><span data-stu-id="d5ef5-104">If you have feedback or questions about the Readiness Toolkit, please email us at ReadyForOffice@microsoft.com.</span></span>
+<span data-ttu-id="29e97-104">אם יש לך משוב או שאלות אודות ערכת מוכנות, נא דואר אלקטרוני לנו ב- ReadyForOffice@microsoft.com.</span><span class="sxs-lookup"><span data-stu-id="29e97-104">If you have feedback or questions about the Readiness Toolkit, please email us at ReadyForOffice@microsoft.com.</span></span>

@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: ec385fcc57ff3b32575ec0232c3ed623887461fb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9dca67b4cab81f564256d40e91750fc2ce217fd3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361422"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505868"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="4ce15-102">יצירה וניהול של תיבות דואר של חדר</span><span class="sxs-lookup"><span data-stu-id="4ce15-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="135b1-102">יצירה וניהול של תיבות דואר של חדר</span><span class="sxs-lookup"><span data-stu-id="135b1-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="4ce15-103">כדי ליצור ולשנות תיבות דואר של חדר, ראה [יצירה וניהול של תיבות דואר של חדר](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="4ce15-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="135b1-103">כדי ליצור ולשנות תיבות דואר של חדר, ראה [יצירה וניהול של תיבות דואר של חדר](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="135b1-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="4ce15-104">כדי ללמוד עוד אודות תיבות דואר של חדר וציוד (המכונה גם תיבות דואר של משאבים), ראה [תיבות דואר של חדר וציוד](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="4ce15-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="135b1-104">כדי ללמוד עוד אודות תיבות דואר של חדר וציוד (המכונה גם תיבות דואר של משאבים), ראה [תיבות דואר של חדר וציוד](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="135b1-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>

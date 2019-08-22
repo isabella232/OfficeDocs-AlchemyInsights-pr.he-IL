@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: 7245542aaf24990f7181d635244b8f47a93aafde
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: f1edd7ebd61b46c601a53f7362d9e65acbc81701
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354654"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501620"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a><span data-ttu-id="aa97d-102">קוד שגיאה 30174-4 בעת התקנת Office</span><span class="sxs-lookup"><span data-stu-id="aa97d-102">Error code 30174-4 when installing Office</span></span>
+# <a name="error-code-30174-4-when-installing-office"></a><span data-ttu-id="33dd9-102">קוד שגיאה 30174-4 בעת התקנת Office</span><span class="sxs-lookup"><span data-stu-id="33dd9-102">Error code 30174-4 when installing Office</span></span>
 
-<span data-ttu-id="aa97d-103">ייתכן שתראה שגיאה זו אם תוכנת האנטי-וירוס שלך, חומת האש, הגדרות ה-proxy או חיבור למנוע התקנת Office.</span><span class="sxs-lookup"><span data-stu-id="aa97d-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="aa97d-104">להלן כמה פעולות שבאפשרותך לנסות כדי לפתור את הבעיה.</span><span class="sxs-lookup"><span data-stu-id="aa97d-104">Here are some things you can try to fix the problem.</span></span>
+<span data-ttu-id="33dd9-103">ייתכן שתראה שגיאה זו אם תוכנת האנטי-וירוס שלך, חומת האש, הגדרות ה-proxy או חיבור למנוע התקנת Office.</span><span class="sxs-lookup"><span data-stu-id="33dd9-103">You might see this error if your anti-virus software, firewall, proxy settings, or connection prevent you from installing Office.</span></span> <span data-ttu-id="33dd9-104">להלן כמה פעולות שבאפשרותך לנסות כדי לפתור את הבעיה.</span><span class="sxs-lookup"><span data-stu-id="33dd9-104">Here are some things you can try to fix the problem.</span></span>
   
-- <span data-ttu-id="aa97d-105">השתמש בחיבור קווי</span><span class="sxs-lookup"><span data-stu-id="aa97d-105">Use a wired connection</span></span>
+- <span data-ttu-id="33dd9-105">השתמש בחיבור קווי</span><span class="sxs-lookup"><span data-stu-id="33dd9-105">Use a wired connection</span></span>
 
-- <span data-ttu-id="aa97d-106">לבטל באופן זמני את הגדרות ה-proxy</span><span class="sxs-lookup"><span data-stu-id="aa97d-106">Temporarily turn off proxy settings</span></span>
+- <span data-ttu-id="33dd9-106">לבטל באופן זמני את הגדרות ה-proxy</span><span class="sxs-lookup"><span data-stu-id="33dd9-106">Temporarily turn off proxy settings</span></span>
 
-- <span data-ttu-id="aa97d-107">ביטול זמני של תוכנת אנטי-וירוס</span><span class="sxs-lookup"><span data-stu-id="aa97d-107">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="33dd9-107">ביטול זמני של תוכנת אנטי-וירוס</span><span class="sxs-lookup"><span data-stu-id="33dd9-107">Temporarily turn off antivirus software</span></span>
 
-[<span data-ttu-id="aa97d-108">קוד שגיאה 30174-4 בעת התקנת Office</span><span class="sxs-lookup"><span data-stu-id="aa97d-108">Error code 30174-4 when installing Office</span></span>](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="33dd9-108">קוד שגיאה 30174-4 בעת התקנת Office</span><span class="sxs-lookup"><span data-stu-id="33dd9-108">Error code 30174-4 when installing Office</span></span>](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   

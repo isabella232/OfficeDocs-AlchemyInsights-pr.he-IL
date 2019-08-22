@@ -13,21 +13,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 261936877f149670ace8c70fd2be68d6b4fc0273
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d4e4548ab943ffdbe1117f333c64f2c95a5985da
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386849"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519228"
 ---
-# <a name="change-payment-method"></a><span data-ttu-id="70d76-102">שינוי שיטת התשלום</span><span class="sxs-lookup"><span data-stu-id="70d76-102">Change payment method</span></span>
+# <a name="change-payment-method"></a><span data-ttu-id="3c8bc-102">שינוי שיטת התשלום</span><span class="sxs-lookup"><span data-stu-id="3c8bc-102">Change payment method</span></span>
 
-<span data-ttu-id="70d76-103">באפשרותך לוודא את שיטת התשלום המוגדרת על-ידי מעבר אל **חיוב** \> **מנויים**.</span><span class="sxs-lookup"><span data-stu-id="70d76-103">You can verify the payment method that is configured by going to **Billing** \> **Subscriptions**.</span></span> <span data-ttu-id="70d76-104">בחר את המנוי שברצונך לאמת.</span><span class="sxs-lookup"><span data-stu-id="70d76-104">Choose the subscription that you want to verify.</span></span> <span data-ttu-id="70d76-105">שיטת התשלום שהוגדר עבור המנוי מופיעה תחת **שיטת התשלום**.</span><span class="sxs-lookup"><span data-stu-id="70d76-105">The payment method that's configured for the subscription appears under **Payment method**.</span></span> <span data-ttu-id="70d76-106">כדי לעדכן את הפרטים של שיטת התשלום קיים, לבחור **לעדכן את פרטי התשלום**.</span><span class="sxs-lookup"><span data-stu-id="70d76-106">To update details of the existing payment method, choose **Update payment details**.</span></span>
+<span data-ttu-id="3c8bc-103">באפשרותך לוודא את שיטת התשלום שתצורתו נקבעה במרכז הניהול של Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="3c8bc-103">You can verify the payment method that is configured in the Microsoft 365 admin center.</span></span> <span data-ttu-id="3c8bc-104">בחר את המנוי שברצונך לאמת.</span><span class="sxs-lookup"><span data-stu-id="3c8bc-104">Choose the subscription that you want to verify.</span></span> <span data-ttu-id="3c8bc-105">שיטת התשלום שהוגדר עבור המנוי מופיעה תחת **חיוב**.</span><span class="sxs-lookup"><span data-stu-id="3c8bc-105">The payment method that's configured for the subscription appears under **Billing**.</span></span> 
   
-1. <span data-ttu-id="70d76-107">במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="70d76-107">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="3c8bc-106">במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="3c8bc-106">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="70d76-108">בחר את המנוי שברצונך לשנות את שיטת התשלום עבור ולאחר מכן לבחור **לשנות את שיטת התשלום**.</span><span class="sxs-lookup"><span data-stu-id="70d76-108">Choose the subscription that you want to change the payment method for, then choose **Change Payment Method**.</span></span>
+2. <span data-ttu-id="3c8bc-107">לצד שיטת תשלום עבור המנוי שברצונך לשנות את שיטת התשלום עבור, בחר **לערוך**.</span><span class="sxs-lookup"><span data-stu-id="3c8bc-107">Next to the payment method for the subscription that you want to change the payment method for, select **Edit**.</span></span>
 
-3. <span data-ttu-id="70d76-109">בצע את השלבים שעל המסך כדי לסיים את השינוי.</span><span class="sxs-lookup"><span data-stu-id="70d76-109">Follow the steps on screen to complete the change.</span></span>
+3. <span data-ttu-id="3c8bc-108">בצע את השלבים שעל המסך כדי לסיים את השינוי.</span><span class="sxs-lookup"><span data-stu-id="3c8bc-108">Follow the steps on screen to complete the change.</span></span>
 
-<span data-ttu-id="70d76-110">לקבלת הוראות שלב אחר שלב, ראה: [שינוי שיטת התשלום שלך עבור Office 365 עבור העסק](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method)</span><span class="sxs-lookup"><span data-stu-id="70d76-110">For step by step instructions, see: [Change your payment method for Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method)</span></span>
+<span data-ttu-id="3c8bc-109">לקבלת הוראות שלב אחר שלב, ראה: [שינוי שיטת התשלום שלך עבור Office 365 עבור העסק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)</span><span class="sxs-lookup"><span data-stu-id="3c8bc-109">For step by step instructions, see: [Change your payment method for Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)</span></span>

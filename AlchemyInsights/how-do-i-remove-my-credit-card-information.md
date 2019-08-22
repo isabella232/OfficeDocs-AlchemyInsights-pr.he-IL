@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d56062f049246fdf63bacfc5884453446d7286c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390297"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523152"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="b0b07-102">כיצד להסיר את פרטי כרטיס האשראי שלי?</span><span class="sxs-lookup"><span data-stu-id="b0b07-102">How do I remove my credit card information?</span></span>
+# <a name="how-do-i-remove-my-credit-card-information"></a><span data-ttu-id="147b1-102">כיצד להסיר את פרטי כרטיס האשראי שלי?</span><span class="sxs-lookup"><span data-stu-id="147b1-102">How do I remove my credit card information?</span></span>
 
-1. <span data-ttu-id="b0b07-103">במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="b0b07-103">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="147b1-103">במרכז הניהול של Microsoft 365, לעבור אל **חיוב** \> דף [שיטות תשלום](https://go.microsoft.com/fwlink/p/?linkid=2018806) .</span><span class="sxs-lookup"><span data-stu-id="147b1-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="b0b07-104">בחר מנוי כלשהו, לאחר מכן בחר **עדכן פרטי תשלום**.</span><span class="sxs-lookup"><span data-stu-id="b0b07-104">Pick any subscription, then choose **Update payment details**.</span></span>
+2. <span data-ttu-id="147b1-104">בדף ' **שיטות תשלום** , בחר את כרטיס האשראי או חשבון הבנק כדי למחוק.</span><span class="sxs-lookup"><span data-stu-id="147b1-104">On the **Payment methods** page, pick the credit card or bank account to delete.</span></span>
 
-3. <span data-ttu-id="b0b07-105">בחר את החץ הנפתח תחת **הוספה או בחירה של שיטת תשלום**, בחר את כרטיס האשראי או חשבון הבנק שברצונך למחוק ולאחר מכן בחר **הסר**.</span><span class="sxs-lookup"><span data-stu-id="b0b07-105">Choose the drop down arrow under **Add or select a payment method**, pick the credit card or bank account that you want to delete, then choose **Remove**.</span></span>
-
-4. <span data-ttu-id="b0b07-106">בחר שוב **הסר** כדי למחוק את כרטיס האשראי או חשבון הבנק.</span><span class="sxs-lookup"><span data-stu-id="b0b07-106">Choose **Remove** again to delete the credit card or bank account.</span></span>
+3. <span data-ttu-id="147b1-105">כדי להסיר את כרטיס האשראי או חשבון הבנק, בחר **למחוק את שיטת התשלום.**</span><span class="sxs-lookup"><span data-stu-id="147b1-105">To remove the credit card or bank account, select **Delete payment method.**</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="b0b07-107">[!הערה] באפשרותך להסיר כרטיס אשראי או חשבון בנק, כל עוד אין לך יתרת חוב בכרטיס האשראי או בחשבון הבנק ואינך משתמש בו כדי לשלם עבור מנוי פעיל.</span><span class="sxs-lookup"><span data-stu-id="b0b07-107">You can remove a credit card or bank account, as long as you don't have an outstanding balance on the credit card or bank account, and you're not using it to pay for an active subscription.</span></span>
+> <span data-ttu-id="147b1-106">[!הערה] לא תוכל להסיר כרטיס אשראי או חשבון בנק אם הוא משמש כעת לתשלום עבור מנוי.</span><span class="sxs-lookup"><span data-stu-id="147b1-106">You won't be able to remove a credit card or bank account if it's currently being used to pay for a subscription.</span></span>
 
-<span data-ttu-id="b0b07-108">האם אתה משתמש מרכז הניהול החדש?</span><span class="sxs-lookup"><span data-stu-id="b0b07-108">Are you using the new admin center?</span></span> <span data-ttu-id="b0b07-109">לקבלת שלבים חדשים, ראה [הוספה, עדכון, או הסרה של כרטיס האשראי או חשבון הבנק ב- Office 365 עבור העסק](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="b0b07-109">For new steps, see [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+4. <span data-ttu-id="147b1-107">בחלונית **למחוק שיטת התשלום** , בחר ' **מחק**'.</span><span class="sxs-lookup"><span data-stu-id="147b1-107">In the **Delete payment method** pane, select **Delete**.</span></span>
+
+<span data-ttu-id="147b1-108">לקבלת מידע נוסף, ראה [הוספה, עדכון, או הסרה של כרטיס האשראי או חשבון הבנק ב- Office 365 עבור העסק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="147b1-108">For more information, see [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
