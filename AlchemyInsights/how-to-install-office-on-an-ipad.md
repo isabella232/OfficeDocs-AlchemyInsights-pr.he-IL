@@ -13,15 +13,15 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: d618726191e2343f17e7690b807fa854959ac852
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: c6fc0c5f6c05767df6a4b2a5686b4383f4309047
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384646"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540362"
 ---
-# <a name="how-to-install-office-on-an-ipad"></a><span data-ttu-id="7ecac-102">כיצד להתקין את Office ב- iPad</span><span class="sxs-lookup"><span data-stu-id="7ecac-102">How to install Office on an iPad</span></span>
+# <a name="how-to-install-office-on-an-ipad"></a><span data-ttu-id="95eab-102">כיצד להתקין את Office ב- iPad</span><span class="sxs-lookup"><span data-stu-id="95eab-102">How to install Office on an iPad</span></span>
 
-- <span data-ttu-id="7ecac-103">יש את המשתמש [הקש על קישור ההורדה](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) מהמכשיר הנייד שלהם, עבור Word, Excel, PowerPoint ו- OneNote.</span><span class="sxs-lookup"><span data-stu-id="7ecac-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
+- <span data-ttu-id="95eab-103">יש את המשתמש [הקש על קישור ההורדה](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) מהמכשיר הנייד שלהם, עבור Word, Excel, PowerPoint ו- OneNote.</span><span class="sxs-lookup"><span data-stu-id="95eab-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="7ecac-104">ודא כי המשתמש להפעיל את היישום, הקש על **היכנס** הזן עבודתם או בית הספר אישורי.</span><span class="sxs-lookup"><span data-stu-id="7ecac-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
+- <span data-ttu-id="95eab-104">ודא כי המשתמש להפעיל את היישום, הקש על **היכנס** הזן עבודתם או בית הספר אישורי.</span><span class="sxs-lookup"><span data-stu-id="95eab-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
