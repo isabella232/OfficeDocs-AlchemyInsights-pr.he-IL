@@ -12,14 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 90302767ac2cb4e137bc1fd5fa17edea4602b766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382882"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538778"
 ---
-האם יש לך תוכן שעובר **נשמרים** על-ידי **החזק** אשר לא ניתן לזהות? עליך **לגלות** היכן ממוקם החסימה על **תיבת הדואר** ? ניתן להחיל חסימות ( *תכונות שמירה* ) על-ידי אחת מהשיטות הבאות ב- Office 365:
+# <a name="identify-holds-placed-on-mailboxes"></a>לזהות חסימות מוצבים תיבות דואר
+
+האם יש לך תוכן Office 365 שעובר **נשמרים** על-ידי **החזק** אשר לא ניתן לזהות? עליך **לגלות** היכן ממוקם החסימה על **תיבת הדואר** ? ניתן להחיל חסימות (*תכונות שמירה*) על-ידי אחת מהשיטות הבאות ב- Office 365:
   
 - חסימה תביעה משפטית
 
