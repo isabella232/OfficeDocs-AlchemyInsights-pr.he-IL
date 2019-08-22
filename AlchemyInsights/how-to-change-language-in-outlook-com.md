@@ -13,16 +13,16 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 1f354ea7195a0927abc5c46538b66c6c705bfc20
-ms.sourcegitcommit: 9c6c2ff5865275dc8e3d48132180108884647365
+ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34430546"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541667"
 ---
 # <a name="change-your-language"></a>שנה את השפה שלך
 
-1. עבור אל הגדרות [**השפה ואת זמן**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**הגדרות** \> **להציג את כל הגדרות Outlook** > **כללי** > **השפה ואת זמן**).
+1. כדי צ'אי השפה ב- Outlook, עבור אל הגדרות [**השפה ואת זמן**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**הגדרות** \> **להציג את כל הגדרות Outlook** > **כללי** > **השפה ואת זמן**).
 
 2. בחר את השפה שלך.
 

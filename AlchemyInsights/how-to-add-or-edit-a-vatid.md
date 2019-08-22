@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386405"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522612"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>כיצד להוסיף או לערוך של VatID
 
-- במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1.  במרכז הניהול של Microsoft 365, לעבור אל **חיוב** \> עמוד [servicces & של מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-- בעמוד **מנויים** , בחר את המנוי שברצונך לערוך ולאחר מכן בחר **פעולות נוספות** \> **מספר לערוך מע מ**.
+2. למצוא את כרטיס המנוי עבור המנוי שברצונך לעדכן.
 
-- בחלק התחתון של חלונית **העריכה כתובת השימוש שלך בשירות** , הזן או ערוך מזהה מע מ שלך בתיבה **מספר מע מ** , ולאחר מכן בחר **שלח**.
+3. במקטע **הגדרות & פעולות** , בחר **ערוך כתובת השימוש בשירות**.
+
+4. בדף ' **עריכת כתובות השימוש שלך בשירות** , הזן את מזהה מע מ שלך בתיבה **מספר מע מ** , ולאחר מכן בחר **שמור**.
 
     בסיום, מע מ לא יחויב בחשבון הבא שלך.
 
-לקבלת מידע נוסף, ראה [מס מה אני יחויב עבור Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-האם אתה משתמש מרכז הניהול החדש? עבור שלבים חדשים, ראה [הוספת שלך מזהה מע מ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+לקבלת מידע נוסף, ראה [מס מה אני יחויב עבור Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) או [הוסף מזהה מע מ שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

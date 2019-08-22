@@ -11,16 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 5a383bdd17c5fa055c35a923ca36e0e0f6d429e4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a943c59d67c512e6326856dacd0053db121f6aa3
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35380506"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541996"
 ---
 # <a name="unable-to-set-primary-email-address-or-change-user-attributes"></a>אין אפשרות להגדיר כתובת דואר אלקטרוני ראשית או לשנות תכונות משתמש
 
-אם סינכרון ספריות זמין עבור הסביבה שלך אין אפשרות לשנות תכונות מסוימות למשתמש או לאובייקט מרכז Admin.
+אם סינכרון ספריות זמין עבור הסביבה שלך, אין אפשרות לשנות תכונות מסוימות למשתמש או לאובייקט Microsoft 365 admin למרכז.
+
 כדי לנהל באופן מלא כל התכונות שלהם ומשתמשים מסונכרן, השתמש שלך אקטיבית מקומיים משתמשים וקבוצות במסוף ניהול (adsiedit.msc).  
 
 לחלופין, באפשרותך לשנות משתמשים בודדים או תכונות עבור משתמשים מסונכרנים באמצעות powershell כגון שמוצג בדוגמאות אלה נפוצים: 
