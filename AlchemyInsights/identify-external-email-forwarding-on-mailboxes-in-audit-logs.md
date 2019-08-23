@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383098"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539102"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>לזהות בעת העברת דואר אלקטרוני חיצוני נקבעה עבור תיבות דואר
 
-כאשר משתמש מגדיר את העברת דואר אלקטרוני חיצוני דואר, הפעילות תתבצע ביקורת כחלק cmdlet **Set-Mailbox** . באפשרותך לראות את הפעילות באמצעות חיפוש יומן ביקורת ב- & אבטחה מרכז תאימות.
+כאשר משתמש Office 365 קובע תצורה של העברת דואר אלקטרוני חיצוני דואר, הפעילות תתבצע ביקורת כחלק cmdlet **Set-Mailbox** . באפשרותך לראות את הפעילות באמצעות חיפוש יומן ביקורת ב- & אבטחה מרכז תאימות.
 
-1. היכנס אל [מרכז התאימות של Office 365 אבטחה &](https://protection.office.com/)
+1. היכנס אל [מרכז התאימות של Office 365 אבטחה &](https://protection.office.com/).
 
-2. לחץ על **חיפוש ויצירת החקירה** ובחר באפשרות **החיפוש יומן ביקורת**.
+2. עבור אל **חיפוש** > דף**החיפוש יומן הביקורת** .
 
 3. בחר את טווח התאריכים בשדות **תאריך התחלה** ותאריך **סיום** . אין צורך לציין שם משתמש. ודא שהשדה **פעילויות** מוגדר להצגת **תוצאות עבור כל הפעילויות**.
 

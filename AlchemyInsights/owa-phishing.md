@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000289"
-ms.openlocfilehash: ce55ab1025bd4b3f22c7313cc8cc91cef6e726f6
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: d9f199035251c8b4f8041fc8530d1eca2eb3c7e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683092"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556579"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>כיצד להתמודד עם דואר אלקטרוני דיוג
+# <a name="how-to-deal-with-a-phishing-email-in-outlook-on-the-web"></a>כיצד להתמודד עם דואר אלקטרוני דיוג ב- Outlook באינטרנט
 
 הונאת דיוג היא דואר אלקטרוני לכאורה, אך הוא למעשה בניסיון לגנוב את המידע האישי שלך או כסף. נוכלים, באפשרותך גם להשתמש בטכניקה הקרויה זיוף כדי לגרום לו להופיע כאילו קיבלת הודעת דואר אלקטרוני מבעצמך.
 

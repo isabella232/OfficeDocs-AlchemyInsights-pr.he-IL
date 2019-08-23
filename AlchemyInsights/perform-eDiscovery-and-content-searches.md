@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444773"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555234"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>כיצד לבצע חיפושים תוכן וחיפושים גילוי אלקטרוני
 
@@ -32,6 +32,6 @@ ms.locfileid: "36444773"
 4. הזנת את תנאי החיפוש הנדרש כולל מילות מפתח ומיקומי תוכן.  
 5. לחץ על **שמור הפעלה &** שם החיפוש, הפעל אותו ולאחר מכן להציג בתצוגה מקדימה את התוצאות.
 
-לקבלת הוראות מפורטות אודות תוכן חיפושים, ייצוא תוצאות ויצירת המקרים גילוי אלקטרוני לאחסון נתונים, ראה [חיפוש תוכן](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) ואת [המקרים גילוי אלקטרוני](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+לקבלת הוראות מפורטות אודות תוכן חיפושים, ייצוא תוצאות ויצירת המקרים גילוי אלקטרוני לאחסון נתונים, ראה [חיפוש תוכן](https://docs.microsoft.com/office365/securitycompliance/content-search) ואת [המקרים גילוי אלקטרוני](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-להבין יותר אודות חיפוש תוכן על-ידי סקירת את [דרישות ומגבלות](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) ואת [חקירת חלקית אינדקס פריטים](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) אחרים ותוצאות להיות מודע.
+להבין יותר אודות חיפוש תוכן על-ידי סקירת את [דרישות ומגבלות](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) ואת [חקירת חלקית אינדקס פריטים](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) אחרים ותוצאות להיות מודע.

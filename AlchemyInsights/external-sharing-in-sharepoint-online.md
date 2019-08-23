@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: 69b48e614fe55912699a7b943dbd2b132ee1c17d
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9b19d15bcca10ff6e2dadf02e0a6092fae144292
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271784"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525979"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>שיתוף ב- SharePoint Online חיצוני
 
@@ -37,7 +37,7 @@ ms.locfileid: "36271784"
 מקבל שגיאה עם משתמש חיצוני?בדוק את הקישורים שלהלן:
 
 - ["Access נדחתה", "דרושה לך הרשאה לגשת לאתר זה", או "המשתמש לא נמצא, ספריה של" שגיאות ב- SharePoint Online ו- OneDrive עבור העסק](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["מדיניות הארגון שלך אינן מאפשרות לך לשתף עם משתמשים אלה" שגיאה בעת שיתוף פריט או אתר SharePoint Online או OneDrive עבור העסק](https://docs.microsoft.com/en-us/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- ["מדיניות הארגון שלך אינן מאפשרות לך לשתף עם משתמשים אלה" שגיאה בעת שיתוף פריט או אתר SharePoint Online או OneDrive עבור העסק](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [אפשרויות שיתוף הם greyed החוצה בעת שיתוף מקוון של SharePoint או OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
 - [הודעת שגיאה כאשר משתמש חיצוני מקבל ההזמנה המקוונת של SharePoint באמצעות חשבון אחר](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
 - [OSE שיתוף שגיאות ב- SharePoint ו- OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)

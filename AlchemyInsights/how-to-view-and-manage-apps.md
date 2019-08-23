@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389865"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539498"
 ---
 # <a name="how-to-view-and-manage-apps"></a>כיצד להציג ולנהל יישומים
 
-כדי להציג יישומים שלך, עליך להיות במרכז הניהול החדש.  באפשרותך להחליף מצב זה בדף הבית של מרכז admin.  
+באפשרותך להציג האפליקציות שלך במרכז הניהול של Microsoft 365. 
 
-1. עם הפעלת מרכז הניהול החדש, מעבר אל **חיוב** > העמוד[שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז admin, לעבור אל **חיוב** > העמוד[שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. בדף **המוצרים & שירותים** , בחר את הכרטיסיה **Apps** .
