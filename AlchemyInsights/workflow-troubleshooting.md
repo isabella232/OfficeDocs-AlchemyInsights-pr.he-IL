@@ -12,16 +12,16 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: cc01e0cef157ad41f5a972f434c69fa3af208c9b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271791"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558078"
 ---
 # <a name="workflow-troubleshooting"></a>פתרון בעיות של זרימת עבודה
 
-פתרון בעיות של זרימת עבודה ואיתור באגים:
+לקבלת מידע אודות איתור באגים של זרימות עבודה של SharePoint, סקור את הפעולות הבאות:
 - איתור באגים של זרימות עבודה דומה לזו של גירסאות קודמות.  לקבלת מידע נוסף, ראה [איתור באגים של SharePoint זרימות עבודה](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 - לקבלת מידע נוסף אודות פתרון בעיות, ראה [פתרון בעיות של SharePoint Server שגיאות אימות של זרימת עבודה](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  

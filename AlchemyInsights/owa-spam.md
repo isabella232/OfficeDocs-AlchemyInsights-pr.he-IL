@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 63b2ee1dfdb4458f9767300c263df7b3fb367ea8
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: 151356f9bafa1fea6eb2c33d157e3fb7038ceef7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683091"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555594"
 ---
-# <a name="mark-email-messages-as-junk"></a>סימון הודעות דואר אלקטרוני כדואר זבל
+# <a name="mark-email-messages-as-junk-in-outlook-on-the-web"></a>סימון הודעות דואר אלקטרוני כדואר זבל ב- Outlook באינטרנט
 
 כדי לסמן הודעה כהודעה זבל או הודעות זבל, בחר את ההודעה ברשימת ההודעות שלך ובחר **זבל** > **זבל**.
 

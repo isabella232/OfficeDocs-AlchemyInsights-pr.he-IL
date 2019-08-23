@@ -13,20 +13,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: ba81be33137660bd4d7e735a6681b13ea88e3761
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a7e84ef41c5c3486eb0bc15ddf4f550c797b5f0c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371362"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554975"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint או OneDrive איטי, נגיש או אינו זמין עבור משתמשים מרובים
 
-ייתכנו סיבות שונות עבור SharePoint או OneDrive הופעה איטי, נגיש או אינו זמין.
+SharePoint או OneDrive עשוי להיות איטי, נגיש או אינו זמין עקב מספר סיבות:
   
-1. אם אתר SharePoint או OneDrive שלך איטיות או מתעכבות עבור משתמשים מרובים, ייתכן שקיימת בעיית שירות זמני שבו משתמשים עלולים להיתקל שגיאות ניווט או עיכובים לסירוגין בעת גישה אל אתרי SharePoint או תוכן OneDrive. בדוק את [לוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לראות אם הארגון שלך מושפע.
+- אם אתר SharePoint או OneDrive שלך איטיות או מתעכבות עבור משתמשים מרובים, ייתכן שקיימת בעיית שירות זמני שבו משתמשים להיתקל שגיאות ניווט או עיכובים לסירוגין בעת גישה אל אתרי SharePoint או תוכן OneDrive. בדוק את [לוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לראות אם הארגון שלך מושפע.
   
-2. אם אתה נתקל בביצועים איטיים עם אתר SharePoint **קלאסית** או דף, להפעיל את [כלי האבחון של הדף](https://aka.ms/perftool) כדי לנתח את העמודים.
+- אם אתה נתקל בביצועים איטיים עם אתר SharePoint **קלאסית** או דף, להפעיל את [כלי האבחון של הדף](https://aka.ms/perftool) כדי לנתח את העמודים.
   
-3. אם אתה עדיין נתקל כללי לביצועים איטיים, נא עיין בפירוט את המשאבים בחלק התחתון של מאמר כדי לסייע בגילוי בעיות, ראה [מבוא לביצועים כוונון עבור SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334).
+- אם אתה עדיין נתקל כללי לביצועים איטיים, נא סקור את המשאבים בחלק התחתון של מאמר זה: [מבוא לביצועים כוונון עבור SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   
