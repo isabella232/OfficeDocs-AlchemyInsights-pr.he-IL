@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388025"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549076"
 ---
 # <a name="too-many-licenses"></a>רשיונות רבים מדי?
 
-אם אתה סבור שאתה לחייב אותך עבור רשיונות רבים מדי, זהו בדרך כלל עקב הצורך לרכוש רשיונות נוספים ולאחר מכן עליך.
+אם אתה סבור שאתה עובר לחייב עבור רשיונות רבים מדי של Office 365, זהו בדרך כלל עקב הצורך לרכוש רשיונות נוספים ולאחר מכן עליך.
   
 **הפחת את מספר רשיונות שנרכשו**
   
-1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. בצד שמאל, בחרו את המנוי שממנו ברצונך להסיר רשיונות.
+2. חפש את המנוי שממנו ברצונך להסיר רשיונות, ולאחר מכן בחר **רשיונות הוספה/הסרה**.
 
-3. בחר **הוספה/הסרה של רשיונות**.
+3. בתיבה **סה כ רשיונות** , הזן את מספר הרשיונות הדרושים לך עבור מנוי זה ולאחר מכן בחר **לשנות השליחה**. לדוגמה, אם יש לך 110 רשיונות משתמשים וברצונך להסיר 5 רשיונות, הזן 105.
 
-4. הזן את מספר המשתמשים הדרושים. לדוגמה, אם יש לך כעת רשיונות 25 וברצונך להסיר 5, הזן 20 בשדה זה.
-
-5. בחר **Submit**.
-
-האם אתה משתמש מרכז הניהול החדש? לקבלת שלבים חדשים, ראה [להסיר את הרשיונות שלך Office 365 עבור מנוי עסקי](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+למידע נוסף, ראה [הסרת רשיונות מהמנוי שלך ל- Office 365 לעסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
