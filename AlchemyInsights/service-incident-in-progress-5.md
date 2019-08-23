@@ -18,19 +18,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: 7c2982534180d21a2ef7af203587cfbf96d3011a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7512c264fafddb993683929ad7ccc2a50ffc691c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369090"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36550624"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="1f137-102">אירוע שירות בביצוע</span><span class="sxs-lookup"><span data-stu-id="1f137-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="2b3a4-102">אירוע שירות בביצוע</span><span class="sxs-lookup"><span data-stu-id="2b3a4-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="1f137-103">אתה עשוי להיות מושפע מקרה שירות או יידוע זה הוא כעת מתבצעת נכלל.</span><span class="sxs-lookup"><span data-stu-id="1f137-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="1f137-104">באפשרותך לבדוק את המצב העדכני ביותר על-ידי מעבר אל הדף [תקינות השירות](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="1f137-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="2b3a4-103">אתה עשוי להיות מושפע מקרה שירות או יידוע זה הוא כעת מתבצעת נכלל.</span><span class="sxs-lookup"><span data-stu-id="2b3a4-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="2b3a4-104">באפשרותך לבדוק את המצב העדכני ביותר על-ידי מעבר אל הדף [תקינות השירות](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="2b3a4-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="1f137-105">לנוחיותך, תמצא סיכום של אירוע זה שלהלן:</span><span class="sxs-lookup"><span data-stu-id="1f137-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="2b3a4-105">לנוחיותך, תמצא סיכום של אירוע זה שלהלן:</span><span class="sxs-lookup"><span data-stu-id="2b3a4-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="1f137-106">**מספר אירוע:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="1f137-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="2b3a4-106">**מספר אירוע:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="2b3a4-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="1f137-107">השפעה על תיאור: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="1f137-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="2b3a4-107">השפעה על תיאור: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="2b3a4-107">Impact description: {ImpactDescription}</span></span>

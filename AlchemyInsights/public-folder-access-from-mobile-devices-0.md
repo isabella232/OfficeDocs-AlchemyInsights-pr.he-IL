@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 5943ac36-e093-4813-95c9-f9d9b35f2b32
-ms.openlocfilehash: 4268eb271b37717922ffd12678e983044e8397b5
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 6fda67b9260e1eea4564ae9ca02ab6d7c64c5567
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34885962"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554045"
 ---
-# <a name="public-folder-access-from-mobile-devices"></a><span data-ttu-id="e9b19-102">גישה לתיקיה הציבורית ממכשירים ניידים</span><span class="sxs-lookup"><span data-stu-id="e9b19-102">Public folder access from mobile devices</span></span>
+# <a name="public-folder-access-from-mobile-devices"></a><span data-ttu-id="8c15a-102">גישה לתיקיה הציבורית ממכשירים ניידים</span><span class="sxs-lookup"><span data-stu-id="8c15a-102">Public folder access from mobile devices</span></span>
 
-<span data-ttu-id="e9b19-103">תיקיות ציבוריות אינם נגישים ממכשירים ניידים.</span><span class="sxs-lookup"><span data-stu-id="e9b19-103">Public folders are not accessible from mobile devices.</span></span>
+<span data-ttu-id="8c15a-103">תיקיות ציבוריות אינם נגישים ממכשירים ניידים.</span><span class="sxs-lookup"><span data-stu-id="8c15a-103">Public folders are not accessible from mobile devices.</span></span>
   
-<span data-ttu-id="e9b19-104">אם אתה רוצה יש פונקציונליות דומה לתיקיות ציבוריות ולגשת אליה דרך מכשירים ניידים, ראה [למד אודות קבוצות של Office 365](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) עבור חלופה טובה יותר.</span><span class="sxs-lookup"><span data-stu-id="e9b19-104">If you want to have functionality similar to public folders and access it from mobile devices, see [Learn about Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) for a better alternative.</span></span>
+<span data-ttu-id="8c15a-104">אם אתה רוצה יש פונקציונליות דומה לתיקיות ציבוריות ולגשת אליה דרך מכשירים ניידים, ראה [למד אודות קבוצות של Office 365](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) עבור חלופה טובה יותר.</span><span class="sxs-lookup"><span data-stu-id="8c15a-104">If you want to have functionality similar to public folders and access it from mobile devices, see [Learn about Office 365 Groups](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) for a better alternative.</span></span>
   
