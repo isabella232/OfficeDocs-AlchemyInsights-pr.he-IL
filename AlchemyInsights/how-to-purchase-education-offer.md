@@ -14,21 +14,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 208eb40788fcf27332245e4590ad204709b32371
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e83c61a479e438d50e5592b4930edc71ae797784
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390189"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574799"
 ---
 # <a name="how-to-purchase-education-offer"></a>כיצד לרכוש השכלה הצעה
 
 אתה שאושרו עבור Office 365 חינוך. כדי לרכוש:
   
-1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. בחר את הניסיון עבור **תלמידים או סגל**.
 
-3. בחר **קנה כעת** מבחן שברצונך לרכוש. 
+3. במקטע **רשיונות** , בחר **מנוי רכישה**.
+
+4. בצע את השלבים הנותרים כדי להוציא מאחסון.
 
 אם ברצונך לרכוש מנוי שונה מה כלול הניסיון, עבור **חיוב** \> [לרכוש שירותים](https://go.microsoft.com/fwlink/p/?linkid=868433) עמוד ובחר מתוך הרשימה תחת **תוכניות לימודים**.
+
+האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [לקנות באותה התוכנית של הניסיון שלך](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).

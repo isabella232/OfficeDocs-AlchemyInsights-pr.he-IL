@@ -12,18 +12,24 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840516"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620724"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>לקריאה בלבד עבור תחזוקה הודעה בעת ניסיון להשתמש ב- SharePoint או OneDrive
 
-ייתכן מקבלים הודעה **לקריאה בלבד עבור תחזוקה** בעת ניסיון להשתמש ב- SharePoint או OneDrive.  אם כן, בדוק אם קיימת פעילות תחזוקה המתרחשים דיירים שלך על-ידי ניווט אל [מרכז הודעה](https://portal.office.com/adminportal/home#/MessageCenter). כמו כן, הקפד לבדוק את לוח המחוונים של [תקינות שירות](https://portal.office.com/adminportal/home#/servicehealth) לבדיקת עלוני יידוע/באירועים אשר ייתכן המתרחשים.
+ייתכן מקבלים הודעה **לקריאה בלבד עבור תחזוקה** בעת ניסיון להשתמש ב- SharePoint או OneDrive עבור אחד מהתרחישים הבאים. 
 
-אם יש לוח מחוונים לא מרכז הודעה או תקינות השירות נאמר דבר אודות תחזוקת הנוכחי עבור דיירים שלך, ייתכן שהדבר דפדפן אחסון במטמון של הבעיה.
+-   פעילות תחזוקה מתוכננת או פעיל.  לחפש אותם על-ידי ניווט אל [מרכז ההודעה](https://portal.office.com/adminportal/home#/messagecenter).
+-   מקרה השירות הפעיל בעדיפות גבוהה, אשר עשוי להיות המתרחשים. בדוק כל עלוני יידוע/באירועים על-ידי ניווט אל [שירות תקינות](https://portal.office.com/adminportal/home#/servicehealth).
+-   משניות ריפוי אוטומטי השחזור תרחיש היתה קורה עקב שאירועים לא צפויה בשרתים אשר ייתכן האחרון עבור פחות מ- 30 דקות או יותר. 
+    
+    אין מרכז ללא הודעה או הצבות תקינות השירות עבור אלה שחזורי משנית אך אמורה להיות בחזרה למצב רגיל מאוד בקרוב.
+
+במקרים מעטים מאוד אנו התייחסות אחד מהתרחישים שלושה המפורטים לעיל היו הגורם, ואת השירות שוחזר, אך לא היה לנקות את מטמון הדפדפן משתמשים.
 
 נא נסה לנקות את מטמון הדפדפן לפני ניווט לאתר.
 

@@ -13,12 +13,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534168"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575985"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>מעבר Office 365 שונים עבור תוכנית עסקית
 
@@ -34,4 +34,4 @@ ms.locfileid: "36534168"
 
 5. הזן את מספר רשיונות שתבחר צריך, אם יש לשלם בכל חודש או עבור השנה כולה, ולאחר מכן בחר את **ההוצאה**.
    
-לקבלת מידע נוסף, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

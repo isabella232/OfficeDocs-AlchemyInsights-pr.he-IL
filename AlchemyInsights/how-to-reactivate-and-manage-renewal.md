@@ -13,33 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 3f6ecb4c2db6f7fc8165089a5c3b8483c6b11558
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540038"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574543"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>כיצד להפעיל מחדש ולנהל חיוב חוזרת
 
 נראה לך מנוי כי פג. אם ברצונך להפעיל אותה מחדש, כאן של האופן שבו.
   
-1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. בחר את המנוי **שתוקפן פג** או **לא זמין**.
+2. חפש את המנוי שברצונך להפעיל מחדש. במקטע **חיוב** , בחר **מחדש**.
 
-3. בחרו ' **הפעל מחדש**.
+    אם אינך רואה **מחדש** כאפשרות, השתמש בלחצן "זקוק לעזרה" כדי לדבר עם מהנדס תמיכה כדי להפעיל מחדש את המנוי שלך.
 
-    אם אינך רואה **מחדש** כאפשרות, השתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה כדי להפעיל מחדש את המנוי שלך.
+3. אשר את פרטי התשלום שלך. באפשרותך לעדכן את פרטי התשלום הקיימים שלך כאן. לאחר שתסיים להזין את שיטת התשלום, בחר באפשרות **הפעל מחדש**.
 
-4. כדי להפעיל מחדש, תישאל כדי לעדכן את פרטי התשלום שלך. הזן את פרטי התשלום שלך ובחר בפקודה **שלח**.
+האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [הפעלה מחדש את המנוי שלך](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 כדי לנהל חודשית או שנתית חיוב תוכל לעבור **מחזורי חיוב** או ביטול.
   
-1. במרכז admin, לעבור אל **חיוב** \> דף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. בחר את המנוי שעבורו ברצונך לנהל חיוב חוזרת.
 
-3. לעבור את מצבי **מחזורי חיוב** **או **ביטול**** .
+3. תחת **חיוב**, לצד **Renews על** או **Expiring על**, בחר **לערוך**.
 
-לקבלת מידע נוסף, ראה [הפעלת חוזרת החיוב או ביטול](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+4. בחלונית **מחזורי חיוב הגדרות** , בחר **כיבוי** כדי לבטל אותה. אם חיוב חוזרת כבר מופעלת, בחר **חודשי** או **פעם אחת** כדי להפעיל אותו.
+
+5. בחר באפשרות **שלח לשנות**.
+
+האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [הפעלת חוזרת החיוב או ביטול](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
