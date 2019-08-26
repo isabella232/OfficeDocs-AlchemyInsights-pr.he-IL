@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539930"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574763"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>כיצד להפעיל מחדש מנוי
 
@@ -26,10 +26,10 @@ ms.locfileid: "36539930"
   
 1. במרכז הניהול, עבור לדף **חיוב** \> [מוצרים ושירותים](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. תחת **חיוב**, לצד **מתחדש בתאריך** או **התוקף יפוג ב**, בחר **ערוך**.
+2. מצא את המנוי שברצונך להפעיל מחדש. במקטע **חיוב**, בחר **הפעל מחדש**.
 
-3. בחלונית **הגדרות חיוב חוזר**, בחר את האפשרות הרצויה. אם חיוב חוזר כבר מבוטל, בחר באפשרות **חודשי** או **פעם אחת** כדי להפעיל אותו.
+    אם אינך רואה את **הפעל מחדש** כפעולה זמינה, התקשר לתמיכה כדי להפעיל מחדש את המנוי.
 
-4. בחר באפשרות **שלח שינוי**.
+3. אשר את פרטי התשלום שלך. באפשרותך לעדכן כאן את פרטי התשלום הקיימים. לאחר שתסיים להזין את שיטת התשלום שלך, בחר **הפעל מחדש**.
 
-לקבלת מידע נוסף, ראה: [חידוש של מנוי Office 365 לעסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)
+האם אתה משתמש במרכז הניהול הישן? לעיון בשלבים הישנים או לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

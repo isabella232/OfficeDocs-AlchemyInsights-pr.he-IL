@@ -11,16 +11,16 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: cc0d14d1dd1dc2aec3916d69f7804359de58b604
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 90c291dfbe9eb35dd878040806d5ea649e09097f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379930"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544684"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>כאשר אתה מקבל את השגיאה "התחום לא נחשב תחום מקובל"
 
-בעת ניסיון להוסיף כתובת דואר אלקטרוני עבור משתמש או קבוצה או במהלך העברת תיבות דואר, ייתכן שתקבל את השגיאה הבאה: **אין באפשרותך להשתמש בתחום מכיוון שהוא עדיין לא נחשב תחום מקובל עבור מערכת Exchange.**
+בעת ניסיון להוסיף כתובת דואר אלקטרוני עבור משתמש או קבוצה או במהלך העברת תיבות דואר של Office 365, ייתכן שתקבל את השגיאה הבאה: **אין באפשרותך להשתמש בתחום מכיוון שהוא עדיין לא נחשב תחום מקובל עבור מערכת Exchange.**
   
 ברוב המקרים, שגיאה זו נובעת מכך ששם התחום *(כגון contoso.com)* לא הוגדר באופן מלא עבור הארגון שלך.
   
