@@ -2,7 +2,6 @@
 title: תיבת הדואר של השחזור נמחק
 ms.author: pebaum
 author: pebaum
-ms.date: 9/12/2017
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -16,24 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551848"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666373"
 ---
-# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="0b4ea-102">שחזור תיבת דואר שנמחקה</span><span class="sxs-lookup"><span data-stu-id="0b4ea-102">Restore a deleted mailbox</span></span>
+# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="16018-102">שחזור תיבת דואר שנמחקה</span><span class="sxs-lookup"><span data-stu-id="16018-102">Restore a deleted mailbox</span></span>
 
-<span data-ttu-id="0b4ea-103">כאשר המשתמש מאבד את רשיונו Exchange Online, תיבת הדואר שלהם נשמרת למשך 30 יום ולא ניתן לשחזר על-ידי פשוט מקצה מחדש את הרשיון למשתמש.</span><span class="sxs-lookup"><span data-stu-id="0b4ea-103">When the user loses its Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
+<span data-ttu-id="16018-103">כאשר המשתמש מאבד את רשיון של Exchange Online, תיבת הדואר שלהם נשמרת למשך 30 יום ולא ניתן לשחזר על-ידי פשוט מקצה מחדש את הרשיון למשתמש.</span><span class="sxs-lookup"><span data-stu-id="16018-103">When a user loses an Exchange Online license, their mailbox is retained for 30 days and can be recovered by simply re-assigning the license to the user.</span></span>
   
- <span data-ttu-id="0b4ea-104">*פעולה זו תפעל רק בתוך 30 יום.*</span><span class="sxs-lookup"><span data-stu-id="0b4ea-104">*This will work only within 30 days.*</span></span>  <span data-ttu-id="0b4ea-105">בפורטל הניהול, לעבור אל:</span><span class="sxs-lookup"><span data-stu-id="0b4ea-105">In the Admin Portal, go to:</span></span>
+ <span data-ttu-id="16018-104">*פעולה זו תפעל רק בתוך 30 יום.*</span><span class="sxs-lookup"><span data-stu-id="16018-104">*This will work only within 30 days.*</span></span>  
   
-1. <span data-ttu-id="0b4ea-106">**משתמשים** \> משתמשים **פעילים** .</span><span class="sxs-lookup"><span data-stu-id="0b4ea-106">**Users** \> **Active** users.</span></span> <span data-ttu-id="0b4ea-107">בחר את המשתמש האמור.</span><span class="sxs-lookup"><span data-stu-id="0b4ea-107">Select the user in question.</span></span>
+1. <span data-ttu-id="16018-105">במרכז הניהול של Microsoft 365, לעבור **משתמשים** \> עמוד **משתמשים פעילים** .</span><span class="sxs-lookup"><span data-stu-id="16018-105">In the Microsoft 365 admin center, go to the **Users** \> **Active users** page.</span></span> <span data-ttu-id="16018-106">בחר את המשתמש האמור.</span><span class="sxs-lookup"><span data-stu-id="16018-106">Select the user in question.</span></span>
 
-2. <span data-ttu-id="0b4ea-108">לחץ על ' **ערוך** ' כדי לשנות רשיונות למוצר</span><span class="sxs-lookup"><span data-stu-id="0b4ea-108">Press **Edit** to modify Product licenses</span></span>
+2. <span data-ttu-id="16018-107">בכרטיסיה **רשיונות ו- Apps** , להקצות את הרשיון Exchange Online ובחר באפשרות **לשמור את השינויים**.</span><span class="sxs-lookup"><span data-stu-id="16018-107">On the **Licenses and Apps** tab, assign the Exchange Online license and select **Save changes**.</span></span>
 
-3. <span data-ttu-id="0b4ea-109">הקצאת הרשיון Exchange Online ולחץ על **שמור**</span><span class="sxs-lookup"><span data-stu-id="0b4ea-109">Assign the Exchange Online license and press **Save**</span></span>
-
-<span data-ttu-id="0b4ea-110">אם אתה מנסה לשחזר תיבת דואר משותפות, היא גם לשחזור למשך 30 יום.</span><span class="sxs-lookup"><span data-stu-id="0b4ea-110">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days.</span></span> <span data-ttu-id="0b4ea-111">ניתן למצוא אותם תחת **משתמשים** \> משתמשים **נמחק** ; תיבות דואר משותפות אינן דורשות רשיון.</span><span class="sxs-lookup"><span data-stu-id="0b4ea-111">You can find them under **Users** \> **Deleted** users; shared mailboxes do not require a license.</span></span> <span data-ttu-id="0b4ea-112">אם אתה מבין כי עליך לשחזר משתמש שנמחק, נא ראה [שחזור משתמש ב- Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="0b4ea-112">If you realize that you need to restore a deleted user, please see [Restore a user in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span></span>
+<span data-ttu-id="16018-108">אם אתה מנסה לשחזר תיבת דואר משותפות, היא גם לשחזור למשך 30 יום.</span><span class="sxs-lookup"><span data-stu-id="16018-108">If you are trying to recover a Shared mailbox, it is also recoverable for 30 days.</span></span> <span data-ttu-id="16018-109">ניתן למצוא אותם תחת **משתמשים** \> **משתמשים נמחק**; תיבות דואר משותפות אינן דורשות רשיון.</span><span class="sxs-lookup"><span data-stu-id="16018-109">You can find them under **Users** \> **Deleted users**; shared mailboxes do not require a license.</span></span> <span data-ttu-id="16018-110">אם אתה מבין כי עליך לשחזר משתמש שנמחק, נא ראה [שחזור משתמש ב- Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span><span class="sxs-lookup"><span data-stu-id="16018-110">If you realize that you need to restore a deleted user, please see [Restore a user in Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).</span></span>
   
