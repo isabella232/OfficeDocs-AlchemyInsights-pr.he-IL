@@ -1,8 +1,7 @@
 ---
-title: יצירת תיבת דואר של משתמש
+title: תיבת הדואר של המשתמש שלך נוצרת
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 3/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 01d13109604410ba8ca201acb7e3b3bc2aaf6cca
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557758"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665653"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>נוצרת הדואר של משתמשים
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>יצירת תיבת דואר של משתמש לוקחת זמן רב
 
-עשוי להימשך עד 24 שעות לפני לתיבת דואר חדשה מוכן לשימוש.
+הדבר יכול להימשך עד 24 שעות לפני שתיבת דואר חדשה מוכנה לשימוש.
   
-אם תיבת הדואר של המשתמש יש עבר "להכנת" יותר משעה, נסה להסיר את הרשיון Exchange מהמשתמש ו מחדש הוספתו בחזרה, או השתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה.
+אם תיבת הדואר של המשתמש הייתה "הכנה" במשך יותר משעה, נסה להסיר את רשיון ה-Exchange מהמשתמש ולהוסיפו [](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online)מחדש, או לפנות לתמיכה.

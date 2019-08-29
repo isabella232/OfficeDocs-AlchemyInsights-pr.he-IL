@@ -13,12 +13,12 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553577"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666661"
 ---
 # <a name="questions-about-your-office-365-license"></a>שאלות אודות רשיון Office 365 שלך
 
@@ -26,6 +26,6 @@ ms.locfileid: "36553577"
   
 1. במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. תחת שם המנוי שברצונך לדעת יותר אודות, ניתן לראות את מספר רשיונות שאתה משלם על כמה זמינים להקצאה.
+2. חיפוש ברצונך לדעת יותר אודות המנוי. ניתן לראות את מספר רשיונות שאתה משלם על כמה זמינים להקצאה.
 
 אם ברצונך להוסיף רשיונות נוספים, או אם יש לך מדי רבים, בחר באפשרות **הוספה/הסרה של רשיונות** כדי לכוונן את מידת שנרכשו.

@@ -3,7 +3,6 @@ title: מעבר Office 365 שונים עבור תוכנית עסקית
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575985"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665977"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>מעבר Office 365 שונים עבור תוכנית עסקית
 
@@ -33,5 +32,5 @@ ms.locfileid: "36575985"
 4. למצוא את התוכנית שאליה ברצונך לשדרג, ולאחר מכן בחר בלחצן **לשדרג** .
 
 5. הזן את מספר רשיונות שתבחר צריך, אם יש לשלם בכל חודש או עבור השנה כולה, ולאחר מכן בחר את **ההוצאה**.
-   
-האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+
+לקבלת מידע נוסף, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
