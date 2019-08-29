@@ -1,5 +1,5 @@
 ---
-title: כיצד להסיר את פרטי כרטיס האשראי שלי?
+title: כיצד ניתן להסיר את פרטי כרטיס האשראי?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: dbcaf1a838bd29105e5a4643735d82b8a63f35d1
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575379"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664429"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a>כיצד להסיר את פרטי כרטיס האשראי שלי?
+# <a name="how-do-i-remove-my-credit-card-information"></a>כיצד ניתן להסיר את פרטי כרטיס האשראי?
 
-1. במרכז הניהול של Microsoft 365, לעבור אל **חיוב** \> דף [שיטות תשלום](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
+1. במרכז הניהול של Microsoft 365, עבור אל **** \> העמוד ' [שיטות תשלום](https://go.microsoft.com/fwlink/p/?linkid=2018806) לחיוב '.
 
-2. בדף ' **שיטות תשלום** , בחר את כרטיס האשראי או חשבון הבנק כדי למחוק.
+2. בדף **שיטות התשלום** , בחר בכרטיס האשראי או בחשבון הבנק שיש למחוק.
 
-3. כדי להסיר את כרטיס האשראי או חשבון הבנק, בחר **למחוק את שיטת התשלום.**
+3. כדי להסיר את כרטיס האשראי או חשבון הבנק, בחר באפשרות **מחק שיטת תשלום.**
 
 > [!NOTE]
 > [!הערה] לא תוכל להסיר כרטיס אשראי או חשבון בנק אם הוא משמש כעת לתשלום עבור מנוי.
 
-4. בחלונית **למחוק שיטת התשלום** , בחר ' **מחק**'.
+4. בחלונית ' **מחיקת שיטת תשלום** ', בחרו ' **מחק**'.
 
-האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [הוספה, עדכון, או הסרה של כרטיס האשראי או חשבון הבנק ב- Office 365 עבור העסק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+כדי ללמוד עוד, ראה [הוספה, עדכון או הסרה של כרטיס אשראי או חשבון בנק ב-Office 365 לצורך עסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

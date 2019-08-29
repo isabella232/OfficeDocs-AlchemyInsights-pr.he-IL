@@ -1,32 +1,31 @@
 ---
-title: 305 להגדיל את גודל תיבת הדואר של ארכיון
+title: 305 הגדלת גודל תיבת הדואר של הארכיון
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391313"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661801"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>הגדל את גודל תיבת הדואר של ארכיון
+# <a name="increase-the-archive-mailbox-size"></a>הגדלת גודל תיבת הדואר של הארכיון
 
-Office 365 [מגבלות](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) הגודל של תיבות דואר של ארכיון לפי הרשיון המוקצה לחשבון המשתמש. כאשר תיבת הדואר של ארכיון מגיע ל- 90% מהגודל המותר שלו, המשתמש מקבל הודעת דואר אלקטרוני. כאשר תיבת דואר ארכיון מגיע למגבלת הגודל שלו, למשתמש אין אפשרות להעביר פריטים נוספים תיבת הדואר של ארכיון. Office 365 לא להגדיל את גודל תיבת הדואר ארכיון לאחר יגיע למגבלת הגודל. במקום זאת, משתמשים יכולים לבצע את הפעולות הבאות כדי לפנות שטח בתיבת הדואר של ארכיון:
+Office 365 [מגביל](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) את גודל תיבות הדואר של הארכיון בהתבסס על הרשיון המוקצה לחשבון המשתמש. כאשר תיבת הדואר של הארכיון מגיעה ל-90% מגודלה המותר, המשתמש מקבל הודעת דואר אלקטרוני. כאשר תיבת דואר של ארכיון מגיעה למגבלת הגודל שלה, למשתמש אין אפשרות להעביר פריטים נוספים לתיבת הדואר של הארכיון. Office 365 לא יגדיל את הגודל של תיבת דואר של ארכיון לאחר שהגעת למגבלת הגודל. במקום זאת, משתמשים יכולים לנקוט בפעולות הבאות כדי לפנות שטח בתיבת הדואר של הארכיון:
 
-- יצא הפריטים לקובץ. pst באמצעות Outlook
+- יצא את הפריטים לקובץ. pst באמצעות Outlook.
 
-- מחק פריטים מתיבת הדואר ארכיון.
+- מחק פריטים מתיבת הדואר של הארכיון.
 
-Office 365 מספק **אחסון בארכיון מוגבל** רשיונות E3 ארגוני של Office 365 ו- E5. ניהול עליך להפעיל תכונה זו לפני תיבת הדואר של ארכיון מגיע לגודלו המירבי. בעת אחסון בארכיון מוגבל מופעלת, היא עשויה להימשך עד 30 ימים לפני שטח פנוי נוסף בתיבת הדואר של ארכיון. לכן, אנו ממליצים המנהלים לאמת את שטח פנוי בתיבת הדואר של ארכיון, המאפשרת למשתמש להמשיך להשתמש בתיבת הדואר של ארכיון בזמן שהוא מרחיב. לקבלת מידע נוסף, ראה [מבט כולל על אחסון בארכיון ללא הגבלה ב- Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) ו [אפשר אחסון בארכיון ללא הגבלה ב- Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+Office 365 מספק **אחסון בארכיון בלתי מוגבל** עבור Office 365 הארגון E3 ו-E5 רשיונות. מנהל חייב להפוך תכונה זו לזמינה לפני שתיבת הדואר של הארכיון תגיע לגודלה המירבי. כאשר אחסון בארכיון ללא הגבלה מופעל, הוא יכול להימשך עד 30 יום לפני שהשטח הפנוי יתווסף לתיבת הדואר של הארכיון. לכן, אנו ממליצים שמנהלים יאמת את השטח הפנוי בתיבת הדואר של הארכיון, דבר המאפשר למשתמש להמשיך להשתמש בתיבת הדואר של הארכיון בזמן שהוא מתרחב. לקבלת מידע נוסף, ראה [סקירה של אחסון בארכיון בלתי מוגבל ב-office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) והפעלת [אחסון ללא הגבלה ב-office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
 
-לקבלת מידע נוסף אודות גישה אל תיבת הדואר של ארכיון מ- Outlook, ראה [דרישות Outlook עבור גישה פריטים בארכיון מורחבת אוטומטית](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). כדי להגדיר מדיניות שמירה המעביר אוטומטית פריטים בתיבת הדואר של ארכיון, ראה [הגדרת מדיניות ארכיון ומחיקה עבור תיבות דואר בארגון שלך Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+לקבלת מידע נוסף אודות גישה לתיבת הדואר של ארכיון מ-Outlook, ראה [דרישות Outlook לגישה לפריטים בארכיון מורחב באופן אוטומטי](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). כדי לקבוע תצורה של מדיניות שמירה המעביר פריטים באופן אוטומטי לתיבת הדואר של הארכיון, ראה [הגדרת מדיניות ארכיון ומחיקה עבור תיבות דואר בארגון Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
 
-**הערה**: מתרחב-אוטומטית של ארכיונים אינן נתמכות עבור ראשי תיבות הדואר ב- Exchange 2010.
+**הערה**: אין תמיכה בארכיונים המתרחבים באופן אוטומטי עבור תיבות דואר ראשיות ב-Exchange 2010.

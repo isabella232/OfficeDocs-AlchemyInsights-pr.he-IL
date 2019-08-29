@@ -1,9 +1,8 @@
 ---
-title: 1800005 בעיות החיפוש תיקון על-ידי בנייה מחדש של קטלוג החיפוש המהיר שלך
+title: 1800005 לתקן בעיות חיפוש על-ידי בנייה מחדש של קטלוג חיפוש מיידי
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 6/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +12,26 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: dc0bf1e51e603a63904d0478fe7bdc13019eac26
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf167548c81b11e16aa98cd9a83b619a8087dcb0
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524880"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664897"
 ---
-# <a name="troubleshoot-search-issues"></a>פתרון בעיות של חיפוש
+# <a name="troubleshoot-search-issues"></a>פתרון בעיות חיפוש
 
-אם אתה נתקל בבעיות עם החיפוש ב- Outlook, ראה את הקישורים שלהלן לקבלת עזרה לפתרון בעיות.
+אם אתה נתקל בבעיות בחיפוש ב-Outlook, עיין בקישורים שלהלן לקבלת עזרה ופתרון בעיות.
 
-אלה הם הבעיות הנפוצות ביותר, והם מקום טוב להתחיל:
+אלה הן הבעיות הנפוצות ביותר, והן מקום טוב להתחיל בו:
 
-- [Outlook החיפוש לא החזיר תוצאות](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [חיפוש outlook יחזיר תוצאות לא הושלמה](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [חיפוש ב- outlook אין אפשרות למצוא דוא ל ישנים](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [החיפוש של Outlook אינו מחזיר תוצאות](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [חיפוש ב-Outlook מחזיר תוצאות לא שלמות](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [חיפוש ב-Outlook אינו יכול למצוא מיילים ישנים](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-ניתן למצוא כאן פתרונות אפשריים לבעיות נפוצות פחות:
+פתרונות אפשריים לבעיות פחות שכיחות ניתן למצוא כאן:
 
-- [2016 outlook בלבד: הכרטיסיה חיפוש אפורות](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [תיבת הדואר המשותפת: בעיות עם תוצאות חיפוש](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [שגיאה: ביצועי החיפוש להיות מושפעים עקב בעיה להגדרת התצורה של Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [תיקיות חיפוש הצגת פריטים PersonMetadata צפויה אין נושא](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [Outlook 2016 בלבד: הכרטיסיה ' חיפוש ' מעומעמת](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [תיבת דואר משותפת: בעיות בתוצאות חיפוש](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [שגיאה: ביצועי החיפוש יהיו מושפעים עקב בעיה באופן ההגדרה של Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [תיקיות חיפוש מציגות פריטי מטה-נתונים לא צפויים ללא נושא](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

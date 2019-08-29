@@ -1,7 +1,7 @@
 ---
-title: כיצד ניתן לרכוש רשיונות עבור המנוי העסקי שלך ב- Office 365
-ms.author: pebaum
-author: pebaum
+title: כיצד לרכוש רשיונות עבור מנוי עסקי של Office 365
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 4/26/2018
 ms.audience: ITPro
@@ -12,22 +12,21 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: d317791c4710453abe0a6eaa4f3e8a5b907c9cf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5e0c500d9c537efd91cdbed1dfe914ec91821b82
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542054"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664213"
 ---
-# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>כיצד ניתן לרכוש רשיונות עבור המנוי העסקי שלך ב- Office 365
+# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>כיצד לרכוש רשיונות עבור מנוי עסקי של Office 365
 
-בעת הקצאת רשיונות Office 365 למשתמשים שלך, ייתכן שתמצא שלך את הצורך לרכוש רשיונות נוספים. לשם כך:
+בעת הקצאת רשיונות של Office 365 למשתמשים שלך, ייתכן שתגלה שיש לך את הצורך לרכוש רשיונות נוספים. כדי לעשות זאת:
   
-1.  במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז הניהול, עבור אל מוצרי **חיוב** \> [_ מוצרים לדף שירותים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. חפש את המנוי שאליו ברצונך להוסיף רשיונות, ולאחר מכן בחר **רשיונות הוספה/הסרה**.
+2. חפש את המנוי שאליו ברצונך להוסיף רשיונות ולאחר מכן בחר **בהוספה/הסרה של רשיונות**.
 
-3. בתיבה **סה כ רשיונות** , הזן את מספר רשיונות אתה זקוק עבור מנוי זה ולאחר מכן בוחר **לשנות שלח**. לדוגמה, אם יש לך 100 רשיונות וברצונך להוסיף 5 רשיונות נוספים, הזן 105.
+3. בתיבה **סך הרשיונות** , הזן את מספר הרשיונות הכולל הדרוש לך עבור מנוי זה ולאחר מכן בחר באפשרות **שלח שינוי**. לדוגמה, אם יש לך 100 רשיונות וברצונך להוסיף 5 רשיונות נוספים, הזן 105.
 
-לקבלת מידע נוסף, ראה [לרכוש רשיונות עבור Office 365 שלך עבור מנוי עסקי](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1).
-  
+לקבלת מידע נוסף, ראה [רכישת רשיונות עבור Office 365 עבור מנוי עסקי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
