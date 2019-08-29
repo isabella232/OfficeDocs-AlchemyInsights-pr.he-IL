@@ -1,9 +1,8 @@
 ---
-title: פתרון בעיות עם רושם התקני Windows ב- Microsoft Intune
+title: פתרון בעיות ברישום התקני Windows ב-Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +11,35 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: be66135b80f32f78266ef2b6a7b3f5b30e24d5fc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559662"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665833"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>פתרון בעיות עם רושם התקני Windows ב- Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>פתרון בעיות ברישום התקני Windows ב-Microsoft Intune
 
-סקור את המשאבים המפורטים להלן כדי לפתור את הבעיה כעת.
+סקור את המשאבים המפורטים להלן כדי לפתור את הבעיה שלך כעת.
   
-כמה הודעות שגיאה נפוצות ושלבי פתרון:
+מספר הודעות שגיאה נפוצות ושלבי פענוח:
   
- **אין אפשרות להתקין את התוכנה, 0x80cf4017:** פג תוקפו של האישור לחשבון שלך. להוריד מחדש את חבילת התוכנה הלקוח מחשב אישי במסוף הניהול Intune. סקירת תיעוד זה לקבלת מידע נוסף.
+ **לא ניתן להתקין את התוכנה, 0x80cf4017:** פג תוקפו של אישור החשבון שלך. הורד מחדש את חבילת התוכנות PC Client במסוף Intune Admin. עיין בתיעוד זה לקבלת מידע נוסף.
   
- **קוד השגיאה 0x801c0003:** השגיאה עלולה להתרחש בתרחישים הבאים:
+ **קוד שגיאה 0x801c0003:** השגיאה יכולה להופיע בתרחישים הבאים:
   
-1. למשתמש יש יותר התקנים שנרשמו ממגבלת המכשיר. סקירת מסמכים אלה כדי [להסיר התקן](https://docs.microsoft.com/intune/devices-wipe) או [לשנות את מגבלת התקן](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  למשתמש יש התקנים נוספים שנרשמו ממגבלת ההתקן. סקור מסמכים אלה [](https://docs.microsoft.com/intune/devices-wipe) כדי להסיר התקן או [לשנות את מגבלת ההתקן](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
 
-2. "משתמשים עשויים להצטרף התקנים כדי AD תכלת הרקיע" מוגדרת ל- "none". להגדיר אותו לכל או בחר משתמשים. סקירת [תיעוד זה](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) לקבלת מידע נוסף.
+-  "משתמשים יכולים לצרף התקנים לתכלת AD" מוגדר "none". הגדר אותה לכל או בחר משתמשים. עיין [בתיעוד זה](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) לקבלת מידע נוסף.
 
-3. ההתקן כבר נרשם על-ידי משתמש אחר. אם זהו המקרה, הסר את ההתקן מהמסוף תכלת הרקיע Intune או unenroll את ההתקן באופן ידני לפני שתנסה שוב.
+-  ההתקן כבר נרשם על-ידי משתמש אחר. אם זה המקרה, להסיר את המכשיר מהמסוף Intune תכלת או לבטל ידנית את הרישום של המכשיר לפני שתנסה שוב.
 
-4. ההתקן הוא 10 Windows Home. רק Pro 10 של Windows, חינוך ואת פריטי ה-Sku של הארגון יכולים להצטרף תכלת הרקיע Active Directory.
+-  ההתקן הוא Windows 10 Home. רק Windows 10 Pro, השכלה וארגון SKUs יכול להצטרף כחול Active ספריה.
 
-משאבים נוספים כדי לסייע לפתור את הבעיה:
+משאבים נוספים שיסייעו בפתרון הבעיה:
   
-1. להשתמש [בפורטל פתרון בעיות Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) כדי לאבחן ולפתור כשלים הרשמה נפוצות. סקירת [מסמך זה](https://docs.microsoft.com/intune/help-desk-operators) לקבלת פרטים נוספים.
+-  השתמש [בפורטל לפתרון בעיות Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) כדי לאבחן ולפתור כשלים נפוצים בהרשמה. לפרטים נוספים, עיין [במסמך זה](https://docs.microsoft.com/intune/help-desk-operators) .
 
-2. סקירת מסמכים אלה לקבלת רשימה של שגיאות נפוצות המונעות הרשמה ופתרונות לכל: [מדריך פתרון בעיות](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ו- [doc ופתרון בעיות](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  סקור מסמכים אלה לקבלת רשימה של שגיאות נפוצות המונעות הרשמה והחלטות לכל: [מדריך לפתרון בעיות](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) ולפתרון בעיות [doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
 
-[למד כיצד לרשום התקני Windows Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[למד כיצד לרשום התקני Windows ב-Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

@@ -3,7 +3,6 @@ title: SharePoint Online בעיות נפוצות ופתרונות
 ms.author: efrene
 author: efrene
 manager: pamgreen
-ms.date: 8/07/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: e6b21d4d457cacf1666a74751d285cf09a8833ea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e4a26308a371ef66e8a655cce282210df6f0247
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508373"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666085"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online בעיות נפוצות ופתרונות
 
-נראה כאילו אתה שואל אודות SharePoint. אנו יכולים לסייע עם תשובה מדויקת יותר אם בקצרה נסח מחדש את שאלתך עם משפטים אחד או שניים המתארים את הבעיה - כולל שגיאות, התכונות שבהן אתה משתמש, וכו '... 
-
-בינתיים הנה כמה נושאים לעתים קרובות המבוקש:
-
-
-
-
+להלן חלק מהנושאים המבוקש לעתים קרובות בעיות מקוון של SharePoint:
 
 - **הרשאות**: [בניית אסטרטגיה הרשאות](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ואת [רמות ההרשאה להבין](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 

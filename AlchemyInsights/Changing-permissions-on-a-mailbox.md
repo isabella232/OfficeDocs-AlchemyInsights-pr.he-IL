@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: fc58e79d98a8ec617d065f147d12171a472573b8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359982"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661405"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>שינוי הרשאות תיבת דואר
 
-אם המשתמשים צריכים גישה לתיבות דואר שונה משלהם, שעליהם ניתן להעניק הרשאות לעבודה עם תיבות דואר אלה. כיצד להקצות הרשאות אלה תלוי בסוג תיבת הדואר. אם המשתמשים צריכים גישה:
+אם המשתמשים צריכים גישה לתיבות דואר של Office 365 שונה משלהם, שעליהם ניתן להעניק הרשאות לעבודה עם תיבות דואר אלה. כיצד להקצות הרשאות אלה תלוי בסוג תיבת הדואר. אם המשתמשים צריכים גישה:
   
 - תיבות דואר של משתמש אחר - נא עיין [להעניק הרשאות תיבת דואר למשתמש אחר ב- Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
     

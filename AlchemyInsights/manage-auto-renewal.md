@@ -13,12 +13,12 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 1adf0879ad7e4a0152315d4c7ce290b386de13da
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 015a3e81b4f96d71f34439c2b8977fdbcb1ec567
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576021"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661441"
 ---
 # <a name="manage-recurring-billing"></a>ניהול חיוב חוזרת
 
@@ -32,4 +32,4 @@ ms.locfileid: "36576021"
 
 4. בחר באפשרות **שלח לשנות**.
 
-האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [הפעלת חוזרת החיוב או ביטול](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+לקבלת מידע נוסף, ראה [הפעלת חוזרת החיוב או ביטול](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

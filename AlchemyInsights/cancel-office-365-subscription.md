@@ -1,5 +1,5 @@
 ---
-title: ביטול מנוי Office 365
+title: ביטול מנוי של Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 4400fa666e0f4485286793a8703f82606702e6cf
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 3aecd74ad35c7c9cfc799cc73434e57065f09fdf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36576057"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665510"
 ---
-# <a name="cancelling-your-office-365-subscription"></a>ביטול מנוי Office 365 שלך?
+# <a name="cancelling-your-office-365-subscription"></a>מבטל את המנוי של Office 365?
 
-אנחנו מתנצלים לראות לך לעבור, אך להלן האפשרויות שלך כדי לבטל את המנוי שלך:
+אנחנו מצטערים לראות אותך הולך, אבל הנה האפשרויות שלך כדי לבטל את המנוי שלך:
   
-- אם אתה לקוח הניסיון, אין מה לבטל. מנויים הניסיון יפוג באופן אוטומטי אלא אם כן סיפקת שיטת תשלום.
+- אם אתה לקוח ניסיון, אין מה לבטל. תוקפם של מנויי ניסיון יפוג באופן אוטומטי אלא אם תספק שיטת תשלום.
 
-- אם יש לך פחות מ- 25 רשיונות שהוקצו, באפשרותך לבטל את המנוי שלך באופן מקוון. עבור אל **חיוב** \> [שירותי & של מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054). במקטע **הגדרות & פעולות** , בחר **לבטל את המנוי**.
+- אם ברשותך פחות מ-25 רשיונות מוקצים, באפשרותך לבטל את המנוי שלך באופן מקוון. עבור אל **** \> [מוצרי חיוב _ amp_ services](https://go.microsoft.com/fwlink/p/?linkid=842054). במקטע **הגדרות _ Amp_ Actions** , בחר **בביטול מנוי**.
 
-- אם ברשותך יותר מ- 25 רשיונות שהוקצו, באפשרותך להסיר משתמשים עד פחות מ- 25, או השתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה.
+- אם יש לך יותר מ -25 רשיונות שהוקצו, באפשרותך להסיר משתמשים עד לפחות מ -25 או להשתמש באפשרות "תן לנו לקרוא לך" כדי לדבר עם מהנדס תמיכה.
 
-האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [לבטל את המנוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+כדי ללמוד עוד, ראה [ביטול המנוי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

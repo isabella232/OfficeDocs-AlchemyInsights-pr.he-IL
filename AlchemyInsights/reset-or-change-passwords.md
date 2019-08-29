@@ -3,7 +3,6 @@ title: איפוס או שינוי סיסמאות
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,18 +13,18 @@ ms.custom:
 - "826"
 - "1100004"
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: 618312ec767e4edf6069ee8e2c6bbbcb3d8f56d8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d546e7a5f3e7eb6a46467b96ad7f1cea84045cca
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552264"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666409"
 ---
 # <a name="reset-or-change-office-365-business-passwords"></a>איפוס או שינוי סיסמאות עסקי של Office 365
 
-המשתמש יוכל לשנות את הסיסמה שלהם מתוך [החשבון שלי, אבטחה &amp; פרטיות](https://portal.office.com/account/#security).
+המשתמש יוכל לשנות את הסיסמה שלהם מתוך **החשבון שלי** > [פרטיות & אבטחה](https://portal.office.com/account/#security).
   
-אם המשתמש שכח את הסיסמה שלו, ניהול באפשרותך לאפס את הסיסמה על-ידי מעבר אל **משתמשים** > [משתמשים פעילים](https://portal.office.com/adminportal/home#/users), בחר את המשתמש (ים), ובחר **לאפס את הסיסמה**.
+אם המשתמש שכח את הסיסמה שלו, ניהול באפשרותך לאפס את הסיסמה על-ידי מעבר אל **משתמשים** > [משתמשים פעילים](https://portal.office.com/adminportal/home#/users), לבחור את המשתמש (ים), ובחירה באפשרות **איפוס הסיסמה**.
   
 [לחץ כאן לקבלת מידע נוסף](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), או כדי לאפשר למשתמשים לאפס סיסמאות שנשכחו משלהם.
   

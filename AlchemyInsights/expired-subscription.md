@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575589"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665041"
 ---
 # <a name="expired-subscription"></a>מנוי שפג תוקפם
 
@@ -34,7 +34,7 @@ ms.locfileid: "36575589"
 
 3. אשר את פרטי התשלום שלך. באפשרותך לעדכן את פרטי התשלום הקיימים שלך כאן. לאחר שתסיים להזין את שיטת התשלום, לבחור **מחדש**.
 
-האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [הפעלה מחדש את המנוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+לקבלת מידע נוסף, ראה [הפעלה מחדש את המנוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **תבצע רכישה חדשה**
   
@@ -46,4 +46,4 @@ ms.locfileid: "36575589"
 
 4. בצע את השלבים הנותרים כדי להשלים הוצאה.
 
-האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [לרכוש מנוי אחר](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+לקבלת מידע נוסף, ראה [לרכוש מנוי אחר](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

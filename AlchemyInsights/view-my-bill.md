@@ -1,9 +1,8 @@
 ---
-title: הצג את החשבון שלי
+title: צפה בחשבון שלי
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506120"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665689"
 ---
-# <a name="view-my-bill"></a>הצג את החשבון שלי
+# <a name="view-my-bill"></a>צפה בחשבון שלי
 
-1. במרכז הניהול של Microsoft 365, לעבור אל **חיוב** \> דף [תשלומים & שטרות](https://go.microsoft.com/fwlink/p/?linkid=848039) .
+1. במרכז הניהול של מיקרוסופט 365, עבור **** \> אל שטרות החיוב של [חשבונות _ _](https://go.microsoft.com/fwlink/p/?linkid=848039) דף התשלומים.
 
-2. בחר טווח תאריכים מתוך הרשימה הנפתחת ולאחר מכן בחר את הסדר שבו ברצונך להציג.
+2. בחר טווח תאריכים מהרשימה הנפתחת ולאחר מכן בחר את הסדר שברצונך להציג.
 
-לקבלת מידע נוסף, ראה [תצוגת עץ או החשבונית שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+לקבלת מידע נוסף, ראה [הצגת החשבון או החשבונית](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

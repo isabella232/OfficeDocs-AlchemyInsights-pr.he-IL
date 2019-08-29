@@ -1,5 +1,5 @@
 ---
-title: העברת דואר אלקטרוני מ- G חבילת Office 365
+title: העברת דואר אלקטרוני מ-G Suite ל-Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 748196bc9244f06c50e3fdd2ecfc23f607422f23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d09df8227678f9e9ab7f4cf995782aa0085aa129
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544586"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666913"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a>העברת דואר אלקטרוני מ- G חבילת Office 365
+# <a name="migrate-email-from-g-suite-to-office-365"></a>העברת דואר אלקטרוני מ-G Suite ל-Office 365
 
-להעברת דואר אלקטרוני מ- G חבילת Office 365, השתמש בכלי העברה שלנו להעברת דואר אלקטרוני, לוח שנה ואנשי קשר: [ביצוע העברה חבילת G](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
+כדי להעביר דואר אלקטרוני מ-G Suite ל-Office 365, השתמש בכלי ההעברה שלנו להעברת דואר אלקטרוני, לוח שנה ואנשי קשר: [בצע הגירה של חבילת G](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
   

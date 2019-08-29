@@ -13,16 +13,18 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 61a43938d5ae647aa08d388f466e9a97a6126d3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514032"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665195"
 ---
 # <a name="declined-credit-card"></a>כרטיס אשראי שנדחתה
 
-אם אתה משלם באמצעות כרטיס אשראי וכרטיס האשראי שלך נדחה, תקבל הודעת דואר אלקטרוני שמודיעה לך כי אין באפשרותנו לעבד את התשלום. בדוק שוב [פרטי כרטיס האשראי](https://go.microsoft.com/fwlink/p/?linkid=842054) - מספר הכרטיס, תאריך התפוגה, שם כרטיס אשראי, ואת כתובת, כולל העיר, המדינה והמיקוד - יופיעו בדיוק כפי שהם נראים על כרטיס האשראי והצהרת כרטיס האשראי שלך. באפשרותך לעדכן את פרטי כרטיס האשראי שלך ולשלוח מיד את התשלום באמצעות לחצן **שכר כעת** בדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) . לקבלת מידע נוסף, ראה "מה אם פג תוקפו של כרטיס האשראי שלי והוא תשלום שלי שתאריך?" [לשלם עבור Office 365 שלך עבור מנוי עסקי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+אם אתה משלם באמצעות כרטיס אשראי וכרטיס האשראי שלך נדחה, תקבל הודעת דואר אלקטרוני שמודיעה לך כי אין באפשרותנו לעבד את התשלום. בדוק שוב [פרטי כרטיס האשראי](https://go.microsoft.com/fwlink/p/?linkid=842054) - מספר הכרטיס, תאריך התפוגה, שם כרטיס אשראי, ואת כתובת, כולל העיר, המדינה והמיקוד - יופיעו בדיוק כפי שהם נראים על כרטיס האשראי והצהרת כרטיס האשראי שלך. באפשרותך לעדכן את פרטי כרטיס האשראי שלך ולשלוח מיד את התשלום באמצעות האפשרות **לייחס איזון** בדף [המוצרים & שירותים](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+
+לקבלת מידע נוסף, ראה "מה אם פג תוקפו של כרטיס האשראי שלי והוא תשלום שלי שתאריך?" [לשלם עבור Office 365 שלך עבור מנוי עסקי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 אם ההודעה אודות הדחייה ממשיכה להופיע, פנה לבנק שלך. ייתכן שכרטיס האשראי שלך לא פעיל - לדוגמה, אם קיבלת את כרטיס האשראי לאחרונה בדואר עם תאריך תפוגה מעודכן, ייתכן שעליך להפעיל אותו. הבנק יוכל גם לומר לך אם כרטיס האשראי שלך אינו מאושר עבור עסקאות מקוונות, בינלאומיות או חוזרות.  
   

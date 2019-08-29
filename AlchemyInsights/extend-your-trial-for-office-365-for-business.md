@@ -3,7 +3,6 @@ title: להרחיב את הניסיון של Office 365 עבור העסק
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,14 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575628"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665005"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>להרחיב את הניסיון של Office 365 עבור העסק
+# <a name="extend-your-trial-for-office-365-for-business"></a>הארכה של תקופת הניסיון עבור Office 365 לעסקים
 
 אם מנוי הניסיון שלך הוא בתוך 15 ימים של תאריך תפוגה הניסיון לא הורחב לפני, באפשרותך להרחיב את הניסיון שלך למשך 30 יום אחר. ניתן לבצע זאת פעם אחת בלבד.
   
@@ -32,4 +31,4 @@ ms.locfileid: "36575628"
 
 4. עליך לספק פרטי כרטיס אשראי כדי להרחיב את הניסיון שלך. אנו לא לחייב כרטיס האשראי שלך עבור הרחבת הניסיון.
 
-האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [הרחבה הניסיון של Office 365 עבור העסק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+לקבלת מידע נוסף, ראה [הרחבה הניסיון של Office 365 עבור העסק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
