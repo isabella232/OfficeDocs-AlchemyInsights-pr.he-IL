@@ -1,9 +1,8 @@
 ---
-title: כיצד להקצות רשיון משתמש
+title: כיצד להקצות רשיון למשתמש
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +12,25 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 142a0ada8caa410228562aad4549a5d75b313b7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 418d7f7d0c3ea8a64e9a635872b954f51808b6f5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522468"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664249"
 ---
-# <a name="how-to-assign-a-license-to-a-user"></a><span data-ttu-id="1f658-102">כיצד להקצות רשיון משתמש</span><span class="sxs-lookup"><span data-stu-id="1f658-102">How to assign a license to a user</span></span>
+# <a name="how-to-assign-a-license-to-a-user"></a><span data-ttu-id="b6a0f-102">כיצד להקצות רשיון למשתמש</span><span class="sxs-lookup"><span data-stu-id="b6a0f-102">How to assign a license to a user</span></span>
 
-<span data-ttu-id="1f658-103">המשתמש צריך רשיון של Office 365 תהיה גישה לשירותים.</span><span class="sxs-lookup"><span data-stu-id="1f658-103">A user needs an Office 365 license to have access to services.</span></span> <span data-ttu-id="1f658-104">להלן השלבים כדי להוסיף, לשנות או להסיר רשיון ממשתמש.</span><span class="sxs-lookup"><span data-stu-id="1f658-104">Here are steps to add, change, or remove a license from a user.</span></span>
+<span data-ttu-id="b6a0f-103">משתמש זקוק לרשיון של Office 365 כדי לקבל גישה לשירותים.</span><span class="sxs-lookup"><span data-stu-id="b6a0f-103">A user needs an Office 365 license to have access to services.</span></span> <span data-ttu-id="b6a0f-104">להלן צעדים להוספה, שינוי או הסרה של רשיון ממשתמש.</span><span class="sxs-lookup"><span data-stu-id="b6a0f-104">Here are steps to add, change, or remove a license from a user.</span></span>
   
-1. <span data-ttu-id="1f658-105">במרכז admin, לעבור **משתמשים** \> עמוד [משתמשים פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) .</span><span class="sxs-lookup"><span data-stu-id="1f658-105">In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
+1. <span data-ttu-id="b6a0f-105">במרכז הניהול, עבור אל דף \*\*\*\* \> המשתמשים הפעילים של המשתמשים. [](https://go.microsoft.com/fwlink/p/?linkid=834822)</span><span class="sxs-lookup"><span data-stu-id="b6a0f-105">In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-2. <span data-ttu-id="1f658-106">בחר את שם המשתמש אליו ברצונך להקצות, לשנות או להסיר רשיון.</span><span class="sxs-lookup"><span data-stu-id="1f658-106">Select the name of the user to whom you want to assign, change, or remove a license.</span></span>
+2. <span data-ttu-id="b6a0f-106">בחר את שם המשתמש שאליו ברצונך להקצות, לשנות או להסיר רשיון.</span><span class="sxs-lookup"><span data-stu-id="b6a0f-106">Select the name of the user to whom you want to assign, change, or remove a license.</span></span>
 
-3. <span data-ttu-id="1f658-107">בכרטיסיה **רשיונות ויישומים** , בחר את הרשיון שברצונך להקצות למשתמש זה.</span><span class="sxs-lookup"><span data-stu-id="1f658-107">On the **Licenses and Apps** tab, select the license that you want to assign to this user.</span></span>
+3. <span data-ttu-id="b6a0f-107">בכרטיסיה **רשיונות ויישומים** , בחר את הרשיון שברצונך להקצות למשתמש זה.</span><span class="sxs-lookup"><span data-stu-id="b6a0f-107">On the **Licenses and Apps** tab, select the license that you want to assign to this user.</span></span>
 
-    <span data-ttu-id="1f658-108">כברירת מחדל, כל השירותים המשויכים לרשיון זה מוקצים באופן אוטומטי למשתמש.</span><span class="sxs-lookup"><span data-stu-id="1f658-108">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="1f658-109">כדי להגביל את סוג השירותים הזמינים למשתמש, נקה את תיבת הסימון עבור השירותים שאין ברצונך שהמשתמש לקיים.</span><span class="sxs-lookup"><span data-stu-id="1f658-109">To limit which services are available to the user, clear the check box for the services that you don't want that user to have.</span></span>
+    <span data-ttu-id="b6a0f-108">כברירת מחדל, כל השירותים המשויכים לרשיון זה מוקצים באופן אוטומטי למשתמש.</span><span class="sxs-lookup"><span data-stu-id="b6a0f-108">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="b6a0f-109">כדי להגביל את השירותים הזמינים עבור המשתמש, נקה את תיבת הסימון עבור השירותים שאינך מעוניין שיהיה למשתמש זה.</span><span class="sxs-lookup"><span data-stu-id="b6a0f-109">To limit which services are available to the user, clear the check box for the services that you don't want that user to have.</span></span>
 
-4. <span data-ttu-id="1f658-110">בחלק התחתון של החלונית, בחרו ' **שמור שינויים**.</span><span class="sxs-lookup"><span data-stu-id="1f658-110">At the bottom of the pane, choose **Save changes**.</span></span>
+4. <span data-ttu-id="b6a0f-110">בתחתית החלונית, בחר באפשרות **שמור שינויים**.</span><span class="sxs-lookup"><span data-stu-id="b6a0f-110">At the bottom of the pane, choose **Save changes**.</span></span>
 
-<span data-ttu-id="1f658-111">לקבלת מידע נוסף, ראה [הקצאת רשיונות המשתמשים ב- Office 365 לעסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), ו [להסיר רשיונות מפני משתמשים ב- Office 365 עבור העסק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).</span><span class="sxs-lookup"><span data-stu-id="1f658-111">For more information, see [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), and [Remove licenses from users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).</span></span>
+<span data-ttu-id="b6a0f-111">לקבלת מידע נוסף, ראה [הקצאת רשיונות למשתמשים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)והסרת [רשיונות ממשתמשים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).</span><span class="sxs-lookup"><span data-stu-id="b6a0f-111">For more information, see [Assign licenses to users](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), and [Remove licenses from users](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).</span></span>
