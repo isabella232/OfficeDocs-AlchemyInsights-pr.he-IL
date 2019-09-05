@@ -1,29 +1,29 @@
 ---
-title: מבט כולל על נתונים מניעת אובדן (DLP)
-ms.author: kirks
+title: סקירת מניעת אובדן נתונים (DLP)
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: cd73bc8f4e56f6fdc6e3e09d87eb4ff55523ca92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514404"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755129"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>מבט כולל על נתונים מניעת אובדן (DLP)
+# <a name="data-loss-prevention-dlp-overview"></a>סקירת מניעת אובדן נתונים (DLP)
 
 באמצעות מדיניות DLP, באפשרותך:
 
-- לזהות מידע רגיש על-פני מיקומי רבים, כגון Exchange Online, SharePoint Online ו- OneDrive עבור העסק.
+- זיהוי מידע רגיש על-פני מיקומים רבים, כגון Exchange Online, SharePoint Online ו-OneDrive עבור עסקים.
 
 
-לדוגמה, ניתן לזהות כל מסמך המכיל מספר כרטיס אשראי המאוחסן ב- OneDrive בכל ביקור באתר, או שבאפשרותך לנטר בדיוק את האתרים OneDrive של אנשים ספציפיים.
+לדוגמה, באפשרותך לזהות כל מסמך המכיל מספר כרטיס אשראי המאוחסן בכל OneDrive עבור אתר עסקים, או שבאפשרותך לפקח רק על אתרי הכונן הייחודיים של אנשים ספציפיים.
 
-- מנע שיתוף בטעות מידע רגיש.
+- מנע שיתוף מקרי של מידע רגיש.
 
 
 לקבלת מידע נוסף, עיין [במאמר](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)הבא.

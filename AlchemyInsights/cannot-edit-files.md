@@ -1,6 +1,6 @@
 ---
-title: קבצים נעולים לעריכה
-ms.author: kirks
+title: הקבצים נעולים לעריכה
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 243179d0501089ee4865aeaf6b340a68f428d6c1
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 4a1edf25cfcabb0e7f89978812624a86dab7c196
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631628"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754985"
 ---
-# <a name="cant-edit-files"></a>אין באפשרותך לערוך את הקבצים? 
+# <a name="cant-edit-files"></a>אין אפשרות לערוך קבצים? 
 
-אם מסמך, גליון עבודה או מצגת נעול לעריכה ואין אפשרות לפתוח יישומי שולחן העבודה של Windows, ייתכן כי הקובץ כבר נערך על-ידי מישהו אחר, או שיש להם את הקובץ הוצא. בוא נביט מהירה כמה סיבות [מדוע ייתכן שלא תוכל לערוך את הקובץ](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+אם מסמך, גליון עבודה או מצגת נעולים לעריכה ואין אפשרות לפתוח אותם ביישומי שולחן העבודה של Windows, ייתכן שהקובץ כבר נערך על-ידי משתמש אחר, או שהקובץ הוצא. בואו נסתכל במהירות על כמה מהסיבות [שייתכן שלא תוכל לערוך את הקובץ](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-אם ברשותך ספריות עם עמודות **בקופה, נדרש** או **אימות** או מטה-נתונים, או כאשר **אבטחת פריטי טיוטה** מוגדר **רק משתמשים מי יכול לערוך** או **רק משתמשים שיכולים לאשר פריטים** בהגדרות גירסה של ה ספריה:
+אם יש לך ספריות עם **הוצאה, עמודות נדרשות** או **אימות** או מטא-נתונים, או כאשר ' **טיוטה של פריט אבטחה** ' מוגדרת **רק למשתמשים שיכולים לערוך** או **רק משתמשים שיכולים לאשר פריטים** בהגדרות גירסה של ה ספריה
 
 - עבור ספריות מסמכים של SharePoint, פריטים אלה יסונכרנו לקריאה בלבד.
 
-- עבור ספריות OneDrive, OneDrive יציג סמל מנעול (OneDrive קובץ נעול סמל) לצד הסינכרון ומצב המשתמש לא תהיה אפשרות לסנכרן את ספריית עד הוסרו הגדרות שהוזכר לעיל. 
+- עבור ספריות של OneDrive, OneDrive יציג סמל מנעול (סמל קובץ OneDrive) ליד מצב הסינכרון והמשתמש לא יוכל לסנכרן את הספריה עד להסרת ההגדרות שהוזכרו. 
 
-לקבלת מידע נוסף אודות קבצים נעולים עבור Word או Excel, אנא עיין במאמרים שלהלן.
+לקבלת מידע נוסף אודות קבצים נעולים עבור Word או Excel, נא פנה למאמרים שלהלן.
 
 - [קובץ Excel נעול לעריכה על-ידי משתמש אחר](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 

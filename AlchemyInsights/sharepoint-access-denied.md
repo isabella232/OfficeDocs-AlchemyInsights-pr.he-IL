@@ -1,6 +1,6 @@
 ---
-title: פתרון בעיות של הודעות נדחתה על-ידי Access
-ms.author: kirks
+title: פתרון בעיות בהודעות שנדחו על-ידי Access
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,34 +8,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 942374d29ca334181e5a397c88d912828f01e349
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 915476f92f150288666268f1647f3cae7e9001a4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549112"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751781"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>פתרון בעיות של הודעות נדחתה על-ידי Access
+# <a name="troubleshoot-access-denied-messages"></a>פתרון בעיות בהודעות שנדחו על-ידי Access
 
-אם אתה מקבל הודעה שהגישה נדחתה בעת ניסיון גלישה באתר Sharepoint מקוונת, נא ראה המאמרים להלן.
+אם אתה מקבל הודעת גישה שנדחתה בעת ניסיון לגלוש באתר Sharepoint Online, עיין במאמרים שלהלן.
 
-**רשיון המשתמש ולהוסיף**
+**הוסף רישיון למשתמש**
 
-ודא שאתה [מקצה רשיונות המשתמשים ב- Office 365 עבור העסק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+ודא שאתה [מקצה רשיונות למשתמשים ב-Office 365 עבור עסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 **הקצאת הרשאות**
 
-אם למשתמש זה הוקצה רשיון Sharepoint והוא עדיין מקבל הודעה שהגישה נדחתה, נא ודא שלהם את [רמת ההרשאה המתאימה שהוקצתה](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+אם המשתמש הוקצה לרשיון של Sharepoint ועדיין מקבל הודעה שנדחתה על-ידי הגישה, ודא [שהוקצתה להם רמת ההרשאה המתאימה](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-**עליך לשקול את השימוש בתכונה בקשת גישה**
+**שקול להשתמש בתכונת בקשת הגישה**
 
-התכונה [בקשת גישה](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) מאפשר לאנשים לבקש גישה לתוכן אין כעת להם הרשאה לראות. 
+תכונת [בקשת הגישה](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) מאפשרת לאנשים לבקש גישה לתוכן שאין להם כרגע הרשאה לראותם. 
 
-**אפשר בקובץ script מותאם אישית עלול לגרום בעיות גישה**
+**אפשר קובץ script מותאם אישית עלול לגרום לבעיות שנדחו על-ידי גישה**
 
-ישנם תרחישים מסוימים שבהם התכונה "אפשר בקובץ script מותאם אישית" עשוי להיות הצגת שהגישה נדחתה. לקבלת רשימה של תכונות המושפעות, שיקולי אבטחה ואת היכולת להשבית את התכונה. נא בקר, [אפשר או מנע בקובץ script מותאם אישית](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+קיימים תרחישים מסוימים שבהם התכונה "אפשר script מותאם אישית" עשויה להציג גישה שנדחתה. לקבלת רשימה של תכונות מושפעות, שיקולי אבטחה והיכולת להשבית את התכונה. בקר בבקשה, [אפשר או מנע סקריפט מותאם אישית](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-הערה: אם אתר OneDrive או SharePoint אינו זמין למשתמשים מרובים שהיה בעבר בעל גישה, ייתכן שישנה בעיה בשירות זמניים. [בדוק את לוח המחוונים של תקינות השירות](https://portal.office.com/adminportal/home#/servicehealth).
+הערה: אם אתר OneDrive או SharePoint אינו זמין למשתמשים מרובים שהיו בעבר גישה, ייתכן שקיימת בעיית שירות זמנית. [בדוק את לוח המחוונים של תקינות השירות](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   
