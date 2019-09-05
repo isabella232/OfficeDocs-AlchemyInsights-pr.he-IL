@@ -1,5 +1,5 @@
 ---
-title: SharePoint Online בעיות נפוצות ופתרונות
+title: בעיות נפוצות של SharePoint Online ורזולוציות
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -10,27 +10,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0e4a26308a371ef66e8a655cce282210df6f0247
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 32657303d7f2176eb6840269daffe5825d24478c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666085"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744066"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Online בעיות נפוצות ופתרונות
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>בעיות נפוצות של SharePoint Online ורזולוציות
 
-להלן חלק מהנושאים המבוקש לעתים קרובות בעיות מקוון של SharePoint:
+להלן מספר נושאים הנדרשים לעתים קרובות עבור בעיות ב-SharePoint Online:
 
-- **הרשאות**: [בניית אסטרטגיה הרשאות](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) ואת [רמות ההרשאה להבין](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+- **הרשאות**: [בניית אסטרטגיית הרשאות](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) [והכרת רמות הרשאה](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-- **שיתוף**: [שיתוף עם אחרים](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) בתוך בארגון שלך או [עם אחרים מחוץ לארגון שלך](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+- **שיתוף**: [שיתוף עם אחרים](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) בתוך הארגון שלך או [עם אחרים מחוץ לארגון](https://docs.microsoft.com/sharepoint/external-sharing-overview).
 
-- **עבודה עם קבצי מסמכים**: למד עוד אודות קובץ [להעלות](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb), [להוריד](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)קובץ, הקובץ [עריכות](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)הנוכחי [מגבלות של קובץ](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa?ui=en-US&amp;rs=en-US&amp;ad=US)
+- **עבודה עם קבצי מסמך**: למד עוד אודות [העלאת](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)קבצים, [הורדת](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)קבצים, [עריכות](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)קבצים [ומגבלות קבצים](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) נוכחיות
 
-- **אחסון**: למד כיצד לנהל את האחסון OneDrive משתמשים</a>, כגון [ניהול אחסון באתר](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) שלך מנוי והבנה [כל מגבלות](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+- **אחסון**: למד כיצד לנהל את המשתמשים שלך</a>כונן אחסון, כגון [ניהול אחסון אתרים](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) עבור המנוי שלך והבנת [כל המגבלות](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
 
-- **שינוי שם של דיירים**: לקבלת מידע נוסף, ראה [שינוי שם תחום SharePoint שלך](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) .
+- **שם הדייר**: ראה [שינוי שם קבוצת המחשבים של SharePoint](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) לקבלת מידע נוסף.
 
-- **Modernize של SharePoint**: סקור את [מדריך לחוויית מודרני ב- SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) ואת [Modernize שלך אתרי SharePoint קלאסית](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) כדי להתחיל את ההעברה.
+- **מודרנז SharePoint**: [לסקור את המדריך לחוויה המודרנית ב-SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) [ומודרמודרניזציה שלך אתרי sharepoint הקלאסי שלך](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) כדי להתחיל את המהלך.
 
-- **תחילת העבודה**: למד כיצד [להתחיל לעבוד עם SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) עם אסטרטגיות ניהול האתר.
+- תחילת **התחלת**: למד כיצד [להתחיל עם SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) עם אסטרטגיות ניהול אתרים.

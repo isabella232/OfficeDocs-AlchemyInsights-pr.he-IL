@@ -1,6 +1,6 @@
 ---
-title: אין אפשרות להוסיף ברירת המחדל זרימת עבודה של אישור 2010
-ms.author: kirks
+title: אין אפשרות להוסיף ברירת מחדל 2010 זרימת עבודה של אישור
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/28/2019
 ms.audience: ITPro
@@ -12,18 +12,18 @@ ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: ecdbaeaa002a40a743d836ee50ccaaeda3426ec7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493788"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747677"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a>אין אפשרות להוסיף ברירת המחדל זרימת עבודה של אישור 2010
+# <a name="cant-add-default-2010-approval-workflow"></a>אין אפשרות להוסיף ברירת מחדל 2010 זרימת עבודה של אישור
 
-באוסף אתרים של Microsoft SharePoint, אין באפשרותך להוסיף זרימת עבודה הניתנת לשימוש חוזר כללי (כגון "אישור - SharePoint 2010") רשימה או ספריה. זרימת העבודה של אישור עלולים להיות חסרים. כדי לפתור בעיה זו, עיין [אין באפשרותך להוסיף זרימת עבודה הניתנת לשימוש חוזר כללי רשימת SharePoint או לספריה](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
+באוסף אתרים של Microsoft SharePoint, אין באפשרותך להוסיף זרימת עבודה גלובלית הניתנת לשימוש חוזר (כגון "אישור-SharePoint 2010") לרשימה או ספריה. ייתכן שזרימת העבודה של האישור חסרה. כדי לפתור בעיה זו, עיין ב- [אין אפשרות להוסיף זרימת עבודה גלובלית לשימוש חוזר לרשימה או ספריה של SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
 
-לקבלת מידע נוסף אודות אישורי זרימת עבודה, ראה [הכל אודות זרימות עבודה](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+לקבלת מידע נוסף אודות אישורי זרימת עבודה, ראה [הכל אודות זרימות עבודה של אישור](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
  
-למד עוד אודות [אישורים מודרניים בזרימה](https://flow.microsoft.com/blog/introducing-modern-approvals). 
+למד עוד אודות [אישורים מודרניים בזרם](https://flow.microsoft.com/blog/introducing-modern-approvals). 
   

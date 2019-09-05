@@ -1,5 +1,5 @@
 ---
-title: הודעות התראה של SharePoint לא נמסרה
+title: הודעות התראה של SharePoint שאינן מועברות
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504464"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744642"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>הודעות התראה של SharePoint לא נמסרה
+# <a name="sharepoint-alert-notifications-not-delivered"></a>הודעות התראה של SharePoint שאינן מועברות
 
-נא בדוק את התיקיה זבל בהודעות הדוא ל שלך, כפי לעיתים התראות ייתכן תלך לשם.
+נא בדוק את תיקיית ה-JUNK בדואר האלקטרוני שלך, כאשר לפעמים התראות יכולות ללכת לשם.
 
-לקבוע אם **כל ההתראות אינן מועברות** או אם **התראה בודדים** מקובץ או ספריה ספציפית לא נמסרה.
+קבע אם **כל ההתראות לא נמסרות** או אם **התראה בודדת** מתוך קובץ או ספריה מסוימים אינם מועברים.
 
-- **התראות בודדים אינן מועברות**: אם לא מועבר התראה בודדים מקובץ או ספריה ספציפית, באפשרותך לנסות למחוק אותה וליצור אותה מחדש. ראה [ניהול, להציג, או למחוק התראות SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) כדי ליצור מחדש את ההתראה.
-- **כל ההתראות אינן מועברות**: אם כל ההתראות מתוך קבצים או ספריות מרובות אינן מועברות, בקר [לוח מחוונים של תקינות שירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) לבדיקת עלוני יידוע/באירועים אשר ייתכן המתרחשים עם SharePoint או Exchange. הבעיה עשויה להיות עם יכולת התראה של SharePoint או עיכובים ב דוא ל באמצעות Exchange. יהיה גם הוא חשוב לשים לב אם להעביר דואר אלקטרוני אחרות, ואם לא, הבעיה היא להניח עם Exchange עיכובים.
+- **התראות בודדות אינן נמסרות**: אם התראה בודדת מתוך קובץ או ספריה מסוימים אינה מועברת, באפשרותך לנסות למחוק אותו וליצור אותו מחדש. ראה [ניהול, הצגה או מחיקה של התראות SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) כדי ליצור מחדש את ההתראה.
+- **כל ההתראות אינן נמסרות**: אם כל ההתראות מקבצים או ספריות מרובות אינן נמסרות, בקר [בלוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם קיימים עלוני יידוע/אירועים שעשויים להתרחש ב-SharePoint או ב-Exchange. הבעיה יכולה להיות עם יכולת ההתראה של SharePoint או עיכובים בהודעות דואר אלקטרוני באמצעות Exchange. כמו כן, יהיה חשוב לציין אם הודעות דואר אלקטרוני אחרות נמסרות, ואם לא, סביר להניח שהבעיה היא בעיכובים של Exchange.
 
-שאלות נפוצות אודות התראות:
+שאלות נפוצות בנוגע להתראות:
 
-- אין אפשרות לשלוח התראות לקבוצת ההפצה, אבטחה בלבד ואין תמיכה בקבוצות O365.
-- אין באפשרותך להתאים אישית תבניות דואר אלקטרוני התראה; עליך להשתמש זרימה Microsoft או זרימת עבודה של SharePoint Designer כדי להשיג את אלה.
+- לא ניתן לשלוח התראות לקבוצת תפוצה, קיימת תמיכה רק בקבוצות אבטחה ו-O365.
+- אין באפשרותך להתאים אישית תבניות התראה של דואר אלקטרוני; עליך להשתמש ב-Microsoft FLOW או בזרימת עבודה של SharePoint Designer כדי להשיג אותם.
 
-מידע נוסף:
+למידע נוסף:
 
-- **כיוונון התראות**: לקבלת מידע נוסף אודות הגדרת התראות, ראה [יצירת התראה כדי לקבל הודעה כאשר משתנה קובץ או תיקיה ב- SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **התראות פתרון**: לקבלת מידע נוסף אודות פתרון בעיות של התראות, ראה [משתמשים אינך מקבל הודעות התראה המקוונת של SharePoint](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **מדיניות התראה עבור תאימות O365 מתקדם**: לקבלת מידע נוסף אודות הגדרת התראות אלה, ראה [מדיניות התראה תאימות](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint ואת יומני ביקורת OneDrive**: לקבלת מידע נוסף אודות האופן שבו ניתן לאחזר אירועים אלה, ראה [חיפוש יומן הביקורת](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **התראות שנשלחו על-ידי הגנה מפני איום מתקדם**: ראה [ATP עבור SharePoint ו- OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **מדיניות התראות שנשלחו על-ידי מניעת אובדן נתונים**: ראה [הודעות דואר אלקטרוני עבור מדיניות DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **הגדרת התראה**: לקבלת מידע נוסף אודות הגדרת התראות, ראה [יצירת התראה כדי לקבל הודעה כאשר קובץ או תיקיה משתנים ב-SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **פתרון בעיות בהתראות**: לקבלת מידע נוסף אודות פתרון בעיות בהתראות, ראה [משתמשים אינם מקבלים הודעות התראה מקוונות של SharePoint](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **מדיניות התראת תאימות מתקדמת O365**: לקבלת מידע נוסף אודות הגדרת התראות אלה, ראה [מדיניות התראת תאימות](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+- **יומני ביקורת של SharePoint ו-OneDrive**: לקבלת מידע נוסף אודות אופן האחזור של אירועים אלה, ראה [חיפוש ביומן הביקורת](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **התראות שנשלחו על-ידי הגנת איום מתקדם**: ראה [ATP עבור SharePoint ו-onedrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **התראות שנשלחו על-ידי מדיניות מניעת אובדן נתונים**: ראה [הודעות דואר אלקטרוני עבור מדיניות DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
-## <a name="related-topics"></a>נושאים קשורים
+## <a name="related-topics"></a>נושאים קרובים
 
-מעוניין לנסות זרימה Microsoft ב- SharePoint Online?
+רוצה לנסות את Microsoft Flow ב-SharePoint Online?
 
-- [צור זרימה](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [צור זרימה](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint וזרימה](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint וזרימה](https://flow.microsoft.com//blog/sharepoint-and-flow/)

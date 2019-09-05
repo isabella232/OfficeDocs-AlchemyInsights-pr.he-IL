@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online או OneDrive 'הגדרה'
-ms.author: kirks
+title: SharePoint Online או OneDrive ' הגדרת '
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/21/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: df0f6903a504d2fe6e988277e254b7e03910eeb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ed1a0a6988cf044a4d1426c9a2c230de3d0636c6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559807"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750341"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online או OneDrive "הגדרת"
 
-כאשר משתמש נוסף של דיירים Office 365 קיים, הוא יראה את SharePoint Online או OneDrive עבור סמלים עסקיים מוצג כ- "הגדרת" עד להשלמת תהליך הקצאת המשאבים.
+כאשר משתמש נוסף לדייר קיים של Office 365, הם עשויים לראות את ה-SharePoint Online או OneDrive עבור סמלים עסקיים המוצגים כ-"הגדרה" עד להשלמת תהליך הקצאת ההקצאה.
   
-אם יותר מ- 24 שעות חלפו מאז שראית תחילה את הבעיה, היכנס אירוע תמיכה. במקרים רבים, אנו אתה כבר עובד על פתרון. נא תן לנו לפחות 24 שעות להשלמת פתרון.
+אם חלפו יותר מ -24 שעות מאז שראית בעיה זו בפעם הראשונה, נא לרשום מקרה תמיכה. במקרים רבים, אנחנו כבר עובדים על פתרון. בבקשה תן לנו לפחות 24. שעות כדי להשלים פיתרון
   
 

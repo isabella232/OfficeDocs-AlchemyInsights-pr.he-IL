@@ -1,34 +1,34 @@
 ---
-title: הגבל גישה ב- SharePoint או OneDrive
-ms.author: kirks
+title: הגבל גישה ל-SharePoint או OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: bc0028626c8934e57e5580477b193a70e49d87be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b1ec30a55ec0c08b291228ee90771bc56a55a36d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504212"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751745"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>הגנת IRM לקבצי SharePoint
+# <a name="irm-protection-to-sharepoint-files"></a>הגנה על IRM לקבצי SharePoint
 
 
-בתוך SharePoint Online, הגנת IRM מוחלת על קבצים ברמת רשימה וספריה. לפני הארגון שלך יכול להשתמש הגנת IRM, עליך תחילה להגדיר ניהול זכויות. IRM מסתמך על שירות ניהול זכויות תכלת הרקיע מהגנה מידע תכלת הרקיע להצפין ולהקצות את מגבלות השימוש. תוכניות Office 365 מסוימים כוללים ניהול זכויות תכלת הרקיע, אך לא את כולם. 
+בתוך SharePoint Online, הגנת IRM מוחלת על קבצים ברמת הרשימה והספריה. לפני שהארגון שלך יכול להשתמש בהגנת IRM, עליך להגדיר תחילה את ניהול זכויות. IRM מסתמך על שירות ניהול זכויות תכלת מתוך הגנת מידע תכלת כדי להצפין ולהקצות מגבלות שימוש. חלק מתוכניות Office 365 כוללות את ניהול זכויות התכלת, אך לא את כולן. 
 
 לקבלת מידע נוסף, ראה:
 
-- [כיצד Office יישומים ושירותים תומכים בניהול זכויות תכלת הרקיע](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
+- [כיצד יישומים ושירותים של Office תומכים בניהול זכויות תכלת](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-- [הגדר למעלה זכויות ניהול מידע (IRM) במרכז הניהול של SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+- [הגדר ניהול זכויות מידע (IRM) במרכז הניהול של SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
-- [הפיכת IRM SharePoint ספריות מסמכים ורשימות](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [IRM-הפוך ספריות מסמכים ורשימות של SharePoint לזמינות](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
-- [ניהול זכויות מידע ב- Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [ניהול זכויות מידע ב-Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
 
-- [מידע אודות ניהול זכויות ב- Exchange באופן מקוון](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
+- [ניהול זכויות מידע ב-Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/information-rights-management-in-exchange-online).
 
 

@@ -1,5 +1,5 @@
 ---
-title: לשחזר קבוצה שנמחקה Yammer
+title: שחזור קבוצת ימר שנמחקה
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: b3adc5045a7fa8abea04fd1a79466cb6f8fca1a7
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753254"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745146"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>לשחזר קבוצה שנמחקה Yammer
+# <a name="restore-a-deleted-yammer-group"></a>שחזור קבוצת יממר שנמחקה
 
-[Office 365 מחובר קבוצות ב- Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) ניתן לשחזר בתוך 30 ימים של מחיקה על-ידי ביצוע השלבים הבאים כדי [לשחזר קבוצה שנמחקה של Office 365](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54).
-במקרים מסוימים ייתכן שלא מחובר קבוצה Yammer לקבוצת Office 365. אם זהו המקרה, אין אפשרות לשחזר באופן אוטומטי את הקבוצה, אך ייתכן שתהיה אפשרות לגשת לנתונים שנמחקו Yammer [ייצוא נתונים](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) אם הגדרת רשת [מדיניות שמירה של נתונים](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) כדי *למחוק רכים*. פנה [למנהל לאמת](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) עבור רשת Yammer שלך כדי לבדוק את מדיניות השמירה של נתונים, או כדי לבצע ייצוא של נתונים.
+ניתן לשחזר את [הקבוצות המחוברות של office 365 ביאממר](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) תוך 30 יום ממחיקה על-ידי ביצוע השלבים [לשחזור קבוצת Office 365 שנמחקה](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
+במקרים מסוימים ייתכן שקבוצת Yammer לא תהיה מחוברת לקבוצת Office 365. אם זהו המצב, אין אפשרות לשחזר באופן אוטומטי את הקבוצה, אך ייתכן שיהיה ניתן לגשת לנתונים שנמחקו [בייצוא הנתונים](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) של yammer אם [מדיניות השמירה של נתוני](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) הרשת מוגדרת *כמחיקה רכה*. פנה אל [מנהל המערכת שאומת](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) כדי לבדוק את מדיניות שמירת הנתונים, או כדי לבצע ייצוא נתונים.

@@ -1,6 +1,6 @@
 ---
 title: הגדרות Outlook.com
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 3/21/2019
@@ -9,13 +9,24 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a86cd709a86199c1db427faff74fb1270d217eee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b710fdd2f258b8142bb536205ce7e969c4669e2c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535392"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752897"
 ---
-# <a name="settings-in-outlookcom"></a>ההגדרות ב- Outlook.com
+# <a name="settings-in-outlookcom"></a>הגדרות בOutlook.com
 
-<ul type="disc"> <li><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">אם הנמען הוא פנימי או חיצוני לארגון שלך אם הם אתה משתמש בחשבון דואר אלקטרוני של Office 365 או Outlook.com, הלקוחות הבאים אין לבצע פעולות מיוחדות כדי לפתוח את ההודעה: <strong>2016 ב- Outlook, Outlook באינטרנט / Outlook Web App,</strong> <strong>יישום נייד ב- outlook</strong></span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">נציגים</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">של משתמשים כי דואר אלקטרוני מוגן נשלחה, אין אפשרות לפתוח הודעות מוגן. רק הנמענים המקוריים (אדם מוגן דואר אלקטרוני נשלח אל), באפשרותך להציג את המידע בדואר האלקטרוני.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">אם הנמען הוא על ספק שירותי אינטרנט שונים, הם&nbsp;אין אפשרות לפתוח את ההודעה ולראות &lsquo;rpmsg&rsquo; קובץ מצורף, נא לייעץ בצע את ההוראות שלהלן:</span> <ul type="circle"> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">בחר <strong style="mso-bidi-font-weight: normal;">לקריאה</strong> ההודעה.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">הם ניתן לניתוב מחדש אל דף שבו יש לבחור &lsquo; <strong style="mso-bidi-font-weight: normal;">להיכנס באמצעות סיסמה חד-פעמית</strong>&rsquo;</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">Passcode חד-פעמיים נשלחת לכתובת הדואר האלקטרוני אותה. הזן את הקוד בחלון הדפדפן ולאחר מכן בחר את <strong style="mso-bidi-font-weight: normal;">המשך</strong> כדי לקרוא את הודעתך.</span></li> </ul> </li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">אם אינך מצליח הודעות מוצפנות מהארגון אחר ב- Office 365, בצע את השלבים רזולוציה המופיעים <a href="https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">במאמר</span></a> זה.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">אם תיבת הדואר של הנמען נמצאת <strong>Yahoo או Gmail </strong> <span style="mso-bidi-font-weight: bold;">נא בצע את ההוראות</span> למצוא <a href="https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098?ui=en-US&amp;rs=en-US&amp;ad=US"><span style="color: blue;">מאמר</span></a>זה.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">הגנה מדיניות חלות רק על <a href="https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types"><span style="color: blue;">ידועות בתבניות קובץ</span></a>. PDF ו- OneDrive עבור הקובץ המצורף של העסק אינם נתמכים עבור הצפנה.</span></li> <li style="color: black; line-height: normal; ; font-size: 10.5pt; font-style: normal; font-weight: 400;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">תיבות דואר משותפות</span></strong> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman';">אין אפשרות לפתוח הודעות מוצפנות באמצעות כל לקוח כעת.</span></li> </ul>
+אם הנמען הוא פנימי או חיצוני לארגון שלך ואם הם משתמשים בחשבון דואר אלקטרוני של Office 365 או Outlook.com, הלקוחות הבאים לא צריכים לעשות משהו מיוחד כדי לפתוח את ההודעה: **outlook 2016, outlook באינטרנט/Outlook Web App, האפליקציה הניידת של Outlook**
+
+**נציגים** של משתמשים המוגנים בדואר אלקטרוני שנשלחו אל, אינם יכולים לפתוח הודעות מוגנות. רק הנמענים המקוריים (אדם המוגן בדואר אלקטרוני) יכולים להציג את המידע באימייל.
+
+- אם הנמען נמצא בספק שירותי אינטרנט אחר&nbsp;ואין באפשרותם לפתוח את ההודעה ולראות קובץ מצורף של ' rpmsg ', בצע את ההוראות הבאות:
+    - בחר **קרא** את ההודעה.
+    - הם מנותבים מחדש לדף שבו עליהם לבחור **כניסה באמצעות קוד סיסמה חד פעמי**.
+    - קוד גישה לשימוש יחיד נשלח לאותה כתובת דואר אלקטרוני. הזן את הקוד בחלון הדפדפן ולאחר מכן בחר באפשרות ' **המשך** ' כדי לקרוא את ההודעה.
+- אם אין באפשרותך להצפין הודעות מארגון אחר של Office 365, בצע את שלבי הרזולוציה המצוינים [במאמר](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)זה.
+- אם תיבת הדואר של הנמען נמצאת ב- **Yahoo או**ב-</span> Gmail, נא בצע את ההוראות שנמצאו [במאמר](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)זה.
+- מדיניות הגנה חלה רק על [תבניות קובץ ידועות](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). קובץ PDF ו-OneDrive עבור מצורף לעסקים אינם נתמכים עבור הצפנה.
+- תיבות דואר משותפות **אינן יכולות לפתוח הודעות מוצפנות כעת באמצעות כל לקוח**. 

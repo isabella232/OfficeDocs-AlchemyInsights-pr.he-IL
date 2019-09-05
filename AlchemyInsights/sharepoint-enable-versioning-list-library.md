@@ -1,5 +1,5 @@
 ---
-title: ניהול גירסאות ב- SharePoint ו- OneDrive
+title: ניהול גירסאות ב-SharePoint ו-OneDrive
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -12,33 +12,33 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 9c1ffe8c384a76d3df425623285fa4f9ebf757f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 606dcbb1523e54d6edeeb59573d1e98dda0ac88e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503960"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744354"
 ---
-# <a name="versioning-in-sharepoint-and-onedrive"></a>ניהול גירסאות ב- SharePoint ו- OneDrive 
+# <a name="versioning-in-sharepoint-and-onedrive"></a>ניהול גירסאות ב-SharePoint ו-OneDrive 
 
 
-כאשר ניהול גירסאות זמין ברשימה או בספריית SharePoint שלך, באפשרותך לאחסן, לעקוב אחר, ולשחזר פריטים ברשימה וקבצים בספריה בכל פעם שהם משתנים. ניהול גירסאות, יחד עם הגדרות אחרות, כגון ההוצאה, מעניק לך רב פקד התוכן נרשם באתר שלך, באפשרותך לספק ערך אמיתי אם יש לך אי פעם צורך להסתכל או לשחזר גירסה ישנה של פריט או קובץ.
+כאשר ניהול גירסאות מאופשר ברשימה או בספריה של SharePoint, באפשרותך לאחסן, לעקוב ולשחזר פריטים ברשימה ובקבצים בספריה בכל פעם שהם משתנים. ניהול גירסאות, בשילוב עם הגדרות אחרות, כגון הוצאה, מעניק לך הרבה שליטה על התוכן המתפרסם באתר שלך ויכול לספק ערך אמיתי אם יש לך צורך לבדוק או לשחזר גירסה ישנה של פריט או קובץ.
 
-לקבלת מידע נוסף אודות ניהול גירסאות בקר מתחת מאמרים.
+לקבלת מידע נוסף אודות ניהול גירסאות, בקר במאמרים שלהלן.
 
-- [כיצד פועל ניהול גירסאות ברשימה או בספריה של SharePoint](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+- [כיצד פועלת ניהול גירסאות ברשימה או בספריה של SharePoint](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
-- [הפעלה וקביעת תצורה של ניהול גירסאות עבור רשימה או ספריה](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f&amp;ui=en-US&amp;rs=en-US&amp;ad=US)
+- [הפעלה וקביעת תצורה של ניהול גירסאות עבור רשימה או ספריה](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f)
 
-- [כיצד להציג היסטוריית גירסאות](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
+- [כיצד להציג את היסטוריית הגירסאות](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
 
-- [שחזור גירסה קודמת של קובץ ב- OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [שחזור גירסה קודמת של קובץ ב-OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893)
 
 - [הצגת גירסאות קודמות של קבצי Office](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
-- [מגבלות של ניהול גירסאות](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+- [מגבלות ניהול גירסאות](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->אם אתה לקוח Office 365, ניהול גירסאות כעת מופעלת כברירת מחדל בעת יצירת OneDrive חדש עבור ספריות עסקיים, ישמור באופן אוטומטי את הגירסאות 500 האחרון של מסמך. פעולה זו תסייע לך למנוע אובדן מסמכים חשובים או נתונים. אם ברשותך ספריות הקיים שלך OneDrive עבור אתר עסקי או באתר הצוות שלך שאינם כוללים ניהול גירסאות זמין, באפשרותך להפעיל ניהול גירסאות אותם בכל עת.
+>אם אתה לקוח של Office 365, ניהול גירסאות מופעל כעת כברירת מחדל בעת יצירת כונן OneDrive חדש עבור ספריות עסקיות, והוא שומר באופן אוטומטי את גירסאות 500 האחרונות של מסמך. פעולה זו תסייע לך למנוע אובדן של מסמכים או נתונים חשובים. אם ברשותך ספריות קיימות באתר האינטרנט שלך עבור מקום עסקים או באתר הצוות שלך שאין ברשותך ניהול גירסאות, באפשרותך להפעיל את ניהול הגירסאות בכל עת.
 
 

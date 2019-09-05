@@ -1,6 +1,6 @@
 ---
-title: להפעיל או לבטל שיתוף של SharePoint חיצוני
-ms.author: kirks
+title: הפעלה או ביטול של שיתוף חיצוני עבור SharePoint
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,26 +10,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2f61a34cb0b510af7c4fcc6193a977662c328063
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507884"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750917"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>הודעת אזהרה: מדיניות הארגון שלך אינן מאפשרות לך לשתף עם משתמשים אלה
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>הודעת אזהרה: פריטי המדיניות של הארגון שלך אינם מאפשרים לך לשתף עם משתמשים אלה
 
-המשתמשים עלולים להיתקל הודעת אזהרה בעת ניסיון לשתף עם משתמשים חיצוניים של הארגון שלך. ההודעה היא **מדיניות הארגון שלך אינן מאפשרות לך לשתף עם משתמשים אלה. עבור אל שיתוף חיצוני במרכז הניהול של Office 365 כדי להפוך אותו לזמין**. זה קורה לעתים קרובות בפעם הראשונה מנסה לשתף עם משתמשים חיצוניים או בעת שיתוף עם משתמשים חיצוניים חדשים.
+משתמשים עלולים להיתקל בהודעת אזהרה בעת ניסיון לשתף עם משתמשים חיצוניים של הארגון שלך. ההודעה היא **שפריטי המדיניות של הארגון שלך אינם מאפשרים לך לשתף עם משתמשים אלה. עבור אל שיתוף חיצוני במרכז הניהול של Office 365 כדי להפעילה**. דבר זה קורה לעתים קרובות בפעם הראשונה שמנסה לשתף עם משתמשים חיצוניים או בעת שיתוף עם משתמשים חיצוניים חדשים.
 
-בדוק את **הגדרות SharePoint ושיתוף OneDrive חיצוני** עבור הארגון שלך.
+בדוק את הגדרות השיתוף החיצוני של **SharePoint ו-OneDrive** עבור הארגון שלך.
 
-1. שלך [Microsoft 365 Admin מרכז](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), בחר **SharePoint**.
-3. בחר **שיתוף** כדי לראות החיצונית הגדרות שיתוף.
+1. במרכז [הניהול של Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), בחר ב- **SharePoint**.
+3. בחר **** באפשרות שיתוף כדי לראות את הגדרות השיתוף החיצוני.
 
-בדוק את **הגדרות שיתוף חיצוני** עבור אתר מסוים.
+בדוק **** את הגדרות השיתוף החיצוני עבור אתר מסוים.
 
-1. שלך [Microsoft 365 Admin מרכז](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), בחר **SharePoint**.
-2. בחר **אתרים פעילים** כדי לראות את האתרים הזמינים.
-3. בחר את האתר שברצונך לבדוק ולאחר מכן בחר לחצן **שיתוף** המציג את שורת התפריטים כדי לאמת את ההגדרות עבור האתר.
+1. במרכז [הניהול של Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/), בחר ב- **SharePoint**.
+2. בחר באפשרות ' **אתרים פעילים** ' כדי לראות את האתרים הזמינים.
+3. בחר את האתר שברצונך לבדוק ולאחר מכן **** בחר את לחצן השיתוף המוצג בשורת התפריטים כדי לאמת את ההגדרות עבור האתר.
 
 לקבלת מידע נוסף, ראה [מבט כולל על שיתוף חיצוני](https://docs.microsoft.com/sharepoint/external-sharing-overview).
