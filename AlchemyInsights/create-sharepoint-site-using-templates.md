@@ -1,6 +1,6 @@
 ---
-title: צור אתר ב- SharePoint Online
-ms.author: kirks
+title: יצירת אתר ב-SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,39 +10,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 7c24a0cf3bcae0f2780c1cb33c911cb38c1ca5cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42430c8dadc17b87dc7741f3fa045ba7c25fab84
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514999"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755309"
 ---
-# <a name="create-sharepoint-sites-using-templates"></a><span data-ttu-id="d4868-102">צור אתרי SharePoint באמצעות תבניות</span><span class="sxs-lookup"><span data-stu-id="d4868-102">Create SharePoint sites using templates</span></span>
+# <a name="create-sharepoint-sites-using-templates"></a><span data-ttu-id="57f21-102">יצירת אתרי SharePoint באמצעות תבניות</span><span class="sxs-lookup"><span data-stu-id="57f21-102">Create SharePoint sites using templates</span></span>
 
-<span data-ttu-id="d4868-103">תבניות האתר של SharePoint הם הגדרות והאינטראקטיביות המיועד סביב צורך עסקי מסוים.</span><span class="sxs-lookup"><span data-stu-id="d4868-103">SharePoint site templates are prebuilt definitions designed around a particular business need.</span></span> <span data-ttu-id="d4868-104">לקבלת מידע נוסף, ראה [שימוש בתבניות כדי ליצור סוגים שונים של אתרי SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).</span><span class="sxs-lookup"><span data-stu-id="d4868-104">For more information, see [Using templates to create different kinds of SharePoint sites](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).</span></span>
+<span data-ttu-id="57f21-103">תבניות אתר של SharePoint מעוצבות באופן מידי הגדרות שתוכננו סביב צורך עסקי מסוים.</span><span class="sxs-lookup"><span data-stu-id="57f21-103">SharePoint site templates are prebuilt definitions designed around a particular business need.</span></span> <span data-ttu-id="57f21-104">לקבלת מידע נוסף, ראה [שימוש בתבניות ליצירת סוגים שונים של אתרי SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).</span><span class="sxs-lookup"><span data-stu-id="57f21-104">For more information, see [Using templates to create different kinds of SharePoint sites](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).</span></span>
 
-<span data-ttu-id="d4868-105">להלן מספר נפוצות בעיות/פתרונות לגבי שמירה אתר או רשימה כתבנית ב- Sharepoint Online.</span><span class="sxs-lookup"><span data-stu-id="d4868-105">Here are some common issues/solutions regarding Saving a Site or List as a template in Sharepoint Online.</span></span> 
+<span data-ttu-id="57f21-105">להלן כמה בעיות/פתרונות נפוצים לגבי שמירת אתר או רשימה כתבנית ב-Sharepoint Online.</span><span class="sxs-lookup"><span data-stu-id="57f21-105">Here are some common issues/solutions regarding Saving a Site or List as a template in Sharepoint Online.</span></span> 
 
-<span data-ttu-id="d4868-106">**לחצן תבנית הרשימה site/שמור אינו זמין או חסר**</span><span class="sxs-lookup"><span data-stu-id="d4868-106">**Save site/list template button is not available or missing**</span></span>
+<span data-ttu-id="57f21-106">**לחצן שמירת תבנית של אתר/רשימה אינו זמין או חסר**</span><span class="sxs-lookup"><span data-stu-id="57f21-106">**Save site/list template button is not available or missing**</span></span>
 
-<span data-ttu-id="d4868-107">מנהלים יהיה עליך לאפשר קובץ Script מותאם אישית כדי להפעיל את תכונות התבנית.</span><span class="sxs-lookup"><span data-stu-id="d4868-107">Administrators will need to Allow Custom Script to enable the template features.</span></span> <span data-ttu-id="d4868-108">לקבלת שלבים מפורטים, ראה דוגמאות ושיקולים</span><span class="sxs-lookup"><span data-stu-id="d4868-108">For detailed steps, examples and considerations see</span></span> 
+<span data-ttu-id="57f21-107">מנהלי מערכת יצטרכו לאפשר Script מותאם אישית כדי להפוך את תכונות התבנית לזמינות.</span><span class="sxs-lookup"><span data-stu-id="57f21-107">Administrators will need to Allow Custom Script to enable the template features.</span></span> <span data-ttu-id="57f21-108">לקבלת שלבים מפורטים, דוגמאות ושיקולים לראות</span><span class="sxs-lookup"><span data-stu-id="57f21-108">For detailed steps, examples and considerations see</span></span> 
 
-- [<span data-ttu-id="d4868-109">אפשר או מנע בקובץ script מותאם אישית</span><span class="sxs-lookup"><span data-stu-id="d4868-109">Allow or prevent custom script</span></span>](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [<span data-ttu-id="57f21-109">התרה או מניעה של קובץ script מותאם אישית</span><span class="sxs-lookup"><span data-stu-id="57f21-109">Allow or prevent custom script</span></span>](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- <span data-ttu-id="d4868-110">האתר שמור תבנית הפקודה אינה נתמכת ואת עלולה לגרום לבעיות באתרי משתמשים התשתית פרסום שרת SharePoint.</span><span class="sxs-lookup"><span data-stu-id="d4868-110">The Save site as template command is not supported and can cause problems on sites that use the SharePoint Server Publishing Infrastructure.</span></span>
+- <span data-ttu-id="57f21-110">הפקודה ' שמור אתר כתבנית ' אינה נתמכת ועלולה לגרום לבעיות באתרים המשתמשים בתשתית הפרסום של SharePoint Server.</span><span class="sxs-lookup"><span data-stu-id="57f21-110">The Save site as template command is not supported and can cause problems on sites that use the SharePoint Server Publishing Infrastructure.</span></span>
 
-<span data-ttu-id="d4868-111">**תבנית האתר אין אפשרות ליצור או אינו פועל כראוי**</span><span class="sxs-lookup"><span data-stu-id="d4868-111">**The site template cannot be created or does not work correctly**</span></span>
+<span data-ttu-id="57f21-111">**אין אפשרות ליצור את תבנית האתר או לא לפעול כראוי**</span><span class="sxs-lookup"><span data-stu-id="57f21-111">**The site template cannot be created or does not work correctly**</span></span>
 
-<span data-ttu-id="d4868-112">התבנית חסרה [תכונה](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) והפעלת לא.</span><span class="sxs-lookup"><span data-stu-id="d4868-112">The template may be missing a [feature](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) and won't activate.</span></span> <span data-ttu-id="d4868-113">אם התכונה אינה זמינה להפעיל את אוסף האתרים הנוכחי, לא ניתן להשתמש תבנית האתר כדי ליצור אתר.</span><span class="sxs-lookup"><span data-stu-id="d4868-113">If the feature is not available to activate in the current site collection, you cannot use the site template to create a site.</span></span>
+<span data-ttu-id="57f21-112">ייתכן שהתבנית חסרה [תכונה](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) ולא תפעיל אותה.</span><span class="sxs-lookup"><span data-stu-id="57f21-112">The template may be missing a [feature](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) and won't activate.</span></span> <span data-ttu-id="57f21-113">אם התכונה אינה זמינה להפעלה באוסף האתרים הנוכחי, אין באפשרותך להשתמש בתבנית האתר כדי ליצור אתר.</span><span class="sxs-lookup"><span data-stu-id="57f21-113">If the feature is not available to activate in the current site collection, you cannot use the site template to create a site.</span></span>
 
-- <span data-ttu-id="d4868-114">בדוק אם כל הרשימות או הספריות לחרוג [סף מגבלה של תצוגת רשימה](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) של פריטים 5000 כפי זה יכול לחסום יצירה של תבנית אתר.</span><span class="sxs-lookup"><span data-stu-id="d4868-114">Check to see if any lists or libraries exceed the [List View Limit Threshold](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) of 5000 items as this can block creation of a site template.</span></span>
+- <span data-ttu-id="57f21-114">בדוק אם רשימות או ספריות מסוימות חורגות [ממגבלת הרשימה של מגבלת התצוגה](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) של 5000 פריטים מאחר שאפשרות זו חוסמת יצירה של תבנית אתר.</span><span class="sxs-lookup"><span data-stu-id="57f21-114">Check to see if any lists or libraries exceed the [List View Limit Threshold](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) of 5000 items as this can block creation of a site template.</span></span>
 
-- <span data-ttu-id="d4868-115">האתר באמצעות משאבים רבים מדי, לכן תבנית האתר חורג ממגבלת 50 MB.</span><span class="sxs-lookup"><span data-stu-id="d4868-115">The site may be using too many resources and therefore the site template exceeds the 50 MB limit.</span></span>
+- <span data-ttu-id="57f21-115">ייתכן שהאתר משתמש במשאבים רבים מדי ולכן התבנית של האתר חורגת ממגבלת 50 MB.</span><span class="sxs-lookup"><span data-stu-id="57f21-115">The site may be using too many resources and therefore the site template exceeds the 50 MB limit.</span></span>
 
 
-- <span data-ttu-id="d4868-116">קיימות בעיות הצגת נתונים מתוך רשימה המשתמשת עמודה של בדיקת מידע.</span><span class="sxs-lookup"><span data-stu-id="d4868-116">There are problems displaying data from a list that uses a lookup column.</span></span> <span data-ttu-id="d4868-117">לקבלת מידע נוסף, ראה [שנוצר על-ידי תבנית הרשימה אינה מציגה נתונים מרשימת בדיקת המידע הנכון ב- SharePoint Online](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).</span><span class="sxs-lookup"><span data-stu-id="d4868-117">For more information, see [Template-generated list doesn't display data from the correct lookup list in SharePoint Online](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).</span></span>
+- <span data-ttu-id="57f21-116">קיימות בעיות בהצגת נתונים מרשימה המשתמשת בעמודת בדיקת מידע.</span><span class="sxs-lookup"><span data-stu-id="57f21-116">There are problems displaying data from a list that uses a lookup column.</span></span> <span data-ttu-id="57f21-117">לקבלת מידע נוסף, ראה [רשימה שנוצרה על-ידי תבנית אינה מציגה נתונים מרשימת בדיקת המידע הנכונה ב-SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).</span><span class="sxs-lookup"><span data-stu-id="57f21-117">For more information, see [Template-generated list doesn't display data from the correct lookup list in SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).</span></span>
 
-<span data-ttu-id="d4868-118">לקבלת מידע מפורט יותר אודות בעיות ופתרונות נפוצים, נא בדוק [יצירה ושימוש של תבניות אתר](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span><span class="sxs-lookup"><span data-stu-id="d4868-118">For more detailed information on common problems and solutions, please check [Create and use site templates](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span></span>
+<span data-ttu-id="57f21-118">לקבלת מידע מפורט יותר אודות בעיות ופתרונות נפוצים, נא בדוק [יצירה ושימוש בתבניות אתר](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span><span class="sxs-lookup"><span data-stu-id="57f21-118">For more detailed information on common problems and solutions, please check [Create and use site templates](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).</span></span>
 
 
 

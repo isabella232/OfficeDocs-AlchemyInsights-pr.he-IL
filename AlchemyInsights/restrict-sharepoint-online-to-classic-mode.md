@@ -1,6 +1,6 @@
 ---
-title: להגביל את SharePoint Online במצב קלאסי
-ms.author: kirks
+title: הגבל את SharePoint Online למצב קלאסי
+ms.author: pebaum
 author: Techwriter40
 ms.date: 3/27/2018
 ms.audience: ITPro
@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551560"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752069"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a><span data-ttu-id="5889d-102">להגביל את SharePoint Online במצב קלאסי</span><span class="sxs-lookup"><span data-stu-id="5889d-102">Restrict SharePoint Online to classic mode</span></span>
+# <a name="restrict-sharepoint-online-to-classic-mode"></a><span data-ttu-id="e6f9a-102">הגבל את SharePoint Online למצב קלאסי</span><span class="sxs-lookup"><span data-stu-id="e6f9a-102">Restrict SharePoint Online to classic mode</span></span>
 
-<span data-ttu-id="5889d-103">ארגונים מסוימים דורשים עדיין את חוויית במצב קלאסי.</span><span class="sxs-lookup"><span data-stu-id="5889d-103">Some organizations still require the Classic mode experience.</span></span> <span data-ttu-id="5889d-104">כאשר אין גם כל תוכניות כדי להסיר במצב קלאסי ברמה מדוקדקת, היא אינה אפשרית עוד להגביל את הארגון כולו (דיירים) במצב קלאסי עבור רשימות וספריות.</span><span class="sxs-lookup"><span data-stu-id="5889d-104">While there are no plans to remove classic mode at a granular level, it is no longer possible to restrict an entire organization (tenant) to classic mode for lists and libraries.</span></span>
+<span data-ttu-id="e6f9a-103">ארגונים מסוימים עדיין דורשים את חוויית המצב הקלאסי.</span><span class="sxs-lookup"><span data-stu-id="e6f9a-103">Some organizations still require the Classic mode experience.</span></span> <span data-ttu-id="e6f9a-104">אמנם אין תוכניות להסיר מצב קלאסי ברמה הגרעינית, אין עוד אפשרות להגביל את הארגון כולו (דייר) למצב הקלאסי עבור רשימות וספריות.</span><span class="sxs-lookup"><span data-stu-id="e6f9a-104">While there are no plans to remove classic mode at a granular level, it is no longer possible to restrict an entire organization (tenant) to classic mode for lists and libraries.</span></span>
 
-<span data-ttu-id="5889d-105">המנהל תהיה האפשרויות הבאות כדי לנהל ברשימות ובספריות במצב קלאסי באמצעות בוררים הצטרפות פרטני שאנו מספקים ברמות הבאות:</span><span class="sxs-lookup"><span data-stu-id="5889d-105">The admin will have the following options to manage individual lists and libraries in classic mode using granular opt-out switches that we provide at the following levels:</span></span>
+<span data-ttu-id="e6f9a-105">למנהל יהיו האפשרויות הבאות לניהול רשימות וספריות בודדות במצב קלאסי באמצעות מתגי הצטרפות מבודדים שאנו מספקים ברמות הבאות:</span><span class="sxs-lookup"><span data-stu-id="e6f9a-105">The admin will have the following options to manage individual lists and libraries in classic mode using granular opt-out switches that we provide at the following levels:</span></span>
 
-- <span data-ttu-id="5889d-106">אוסף אתרים</span><span class="sxs-lookup"><span data-stu-id="5889d-106">site collection</span></span>
-- <span data-ttu-id="5889d-107">אתר</span><span class="sxs-lookup"><span data-stu-id="5889d-107">site</span></span>
-- <span data-ttu-id="5889d-108">רשימה</span><span class="sxs-lookup"><span data-stu-id="5889d-108">list</span></span>
-- <span data-ttu-id="5889d-109">ספריה</span><span class="sxs-lookup"><span data-stu-id="5889d-109">library</span></span>
+- <span data-ttu-id="e6f9a-106">אוסף אתרים</span><span class="sxs-lookup"><span data-stu-id="e6f9a-106">site collection</span></span>
+- <span data-ttu-id="e6f9a-107">אתר</span><span class="sxs-lookup"><span data-stu-id="e6f9a-107">site</span></span>
+- <span data-ttu-id="e6f9a-108">רשימה</span><span class="sxs-lookup"><span data-stu-id="e6f9a-108">list</span></span>
+- <span data-ttu-id="e6f9a-109">ספריה</span><span class="sxs-lookup"><span data-stu-id="e6f9a-109">library</span></span>
 
-<span data-ttu-id="5889d-110">בנוסף, רשימות המשתמשים בתכונות מסוימות והתאמות אישיות שאינן נתמכות על-ידי מודרנית עדיין להיות שונתה באופן אוטומטי במצב קלאסי.</span><span class="sxs-lookup"><span data-stu-id="5889d-110">Additionally, lists that use certain features and customizations that are not supported by modern will still be automatically switched to classic mode.</span></span>
+<span data-ttu-id="e6f9a-110">בנוסף, רשימות המשתמשות בתכונות והתאמות אישיות מסוימות שאינן נתמכות על-ידי המודרניות עדיין מוחלפות באופן אוטומטי למצב קלאסי.</span><span class="sxs-lookup"><span data-stu-id="e6f9a-110">Additionally, lists that use certain features and customizations that are not supported by modern will still be automatically switched to classic mode.</span></span>
 
-<span data-ttu-id="5889d-111">החל באפריל 1 במאי 2019, התהליך כדי להשבית את רמת דיירים ההצטרפות רשימה מודרני ו ספריות להתחיל ולהמשיך עד 31 במאי 2019.</span><span class="sxs-lookup"><span data-stu-id="5889d-111">Beginning April 1, 2019, the process to disable the tenant level opt out of modern list and libraries will start and continue through May 31, 2019.</span></span>  <span data-ttu-id="5889d-112">הרשימות והספריות הנמצאים במצב קלאסי כתוצאה דיירים opt-out באופן אוטומטי יוסטו כדי מודרניים.</span><span class="sxs-lookup"><span data-stu-id="5889d-112">The lists and libraries that are in classic mode as a result of tenant opt-out will automatically be shifted to modern.</span></span>
+<span data-ttu-id="e6f9a-111">החל באפריל 1, 2019, התהליך להשבית את רמת הדייר מחוץ לרשימה המודרנית הספריות יתחילו ולהמשיך במאי 31, 2019.</span><span class="sxs-lookup"><span data-stu-id="e6f9a-111">Beginning April 1, 2019, the process to disable the tenant level opt out of modern list and libraries will start and continue through May 31, 2019.</span></span>  <span data-ttu-id="e6f9a-112">הרשימות והספריות הנמצאות במצב קלאסי כתוצאה מבחירת הדיירים החוצה באופן אוטומטי, משתנה למודרני.</span><span class="sxs-lookup"><span data-stu-id="e6f9a-112">The lists and libraries that are in classic mode as a result of tenant opt-out will automatically be shifted to modern.</span></span>
 
-<span data-ttu-id="5889d-113">אם דרוש לך במצב קלאסי נא עיין במידע נוסף [כאן](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) והוראת PnP Powershell [כאן](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) המתאר ואפשרויות של כלים שבהם באפשרותך להשתמש היום לשימוש בחוויית במצב קלאסי.</span><span class="sxs-lookup"><span data-stu-id="5889d-113">If you require classic mode please see more information [here](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) and PnP Powershell instruction [here](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) that describes options and tools you can use today to use the classic mode experience.</span></span>
+<span data-ttu-id="e6f9a-113">אם דרוש לך מצב קלאסי נא עיין במידע נוסף [כאן](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) והוראת PnP Powershell [כאן](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) המתארת אפשרויות וכלים שבהם באפשרותך להשתמש כיום כדי להשתמש בחוויית המצב הקלאסי.</span><span class="sxs-lookup"><span data-stu-id="e6f9a-113">If you require classic mode please see more information [here](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) and PnP Powershell instruction [here](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) that describes options and tools you can use today to use the classic mode experience.</span></span>
