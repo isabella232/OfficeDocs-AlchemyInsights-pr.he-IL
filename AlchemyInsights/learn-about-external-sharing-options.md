@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
-ms.openlocfilehash: 121618982dbecd9c01b7082ed7f544386a5bf3aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63e0cab7c9dcfd6ef2a6cc9b6b6c00d751727557
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497768"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735354"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="1c1ab-102">למד אודות אפשרויות שיתוף לוח שנה חיצוני</span><span class="sxs-lookup"><span data-stu-id="1c1ab-102">Learn about external calendar sharing options</span></span>
+# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="73d37-102">מידע אודות אפשרויות שיתוף לוח שנה חיצוניות</span><span class="sxs-lookup"><span data-stu-id="73d37-102">Learn about external calendar sharing options</span></span>
 
-<span data-ttu-id="1c1ab-103">אם עליך לקבוע פגישות עם אנשים מחוץ לארגון שלך, Office 365 מאפשר לך להפוך לוחות תאריכים זמינים למשתמשים"חיצוני," למי צריך לראות את המועדים הפנויים/לא פנויים זמן אך אין חשבונות משתמשים לסביבתך Office 365.</span><span class="sxs-lookup"><span data-stu-id="1c1ab-103">If you need to schedule meetings with people outside your organization, Office 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Office 365 environment.</span></span> <span data-ttu-id="1c1ab-104">לקבלת מידע נוסף, ראה [שיתוף לוחות שנה עם משתמשים חיצוניים](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span><span class="sxs-lookup"><span data-stu-id="1c1ab-104">For more information, see [Share calendars with external users](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).</span></span>
+<span data-ttu-id="73d37-103">אם עליך לתזמן פגישות עם אנשים מחוץ לארגון שלך, Office 365 מאפשר לך להפוך לוחות שנה לזמינים עבור "משתמשים חיצוניים", אלה הצריכים לראות זמן פנוי/לא פנוי, אך אין ברשותך חשבונות משתמשים עבור סביבת Office 365 שלך.</span><span class="sxs-lookup"><span data-stu-id="73d37-103">If you need to schedule meetings with people outside your organization, Office 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Office 365 environment.</span></span> <span data-ttu-id="73d37-104">לקבלת מידע נוסף, ראה [שיתוף לוחות שנה עם משתמשים חיצוניים](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="73d37-104">For more information, see [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>

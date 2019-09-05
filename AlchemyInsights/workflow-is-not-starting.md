@@ -1,5 +1,5 @@
 ---
-title: זרימת העבודה לא מופעל
+title: זרימת עבודה אינה מתחילה
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557974"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738090"
 ---
-# <a name="workflow-is-not-starting"></a><span data-ttu-id="b0fcc-102">זרימת העבודה לא מופעל</span><span class="sxs-lookup"><span data-stu-id="b0fcc-102">Workflow is not starting</span></span>
+# <a name="workflow-is-not-starting"></a><span data-ttu-id="9bb02-102">זרימת עבודה אינה מתחילה</span><span class="sxs-lookup"><span data-stu-id="9bb02-102">Workflow is not starting</span></span>
 
-- <span data-ttu-id="b0fcc-103">זרימות עבודה של SharePoint 2010 ו- SharePoint 2013 אתה לא מתחיל.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-103">SharePoint 2010 and SharePoint 2013 workflows are not starting.</span></span>
+- <span data-ttu-id="9bb02-103">זרימות עבודה של SharePoint 2010 ו-SharePoint 2013 אינן מתחילות.</span><span class="sxs-lookup"><span data-stu-id="9bb02-103">SharePoint 2010 and SharePoint 2013 workflows are not starting.</span></span>
 
-    - <span data-ttu-id="b0fcc-104">אם זרימת העבודה שלך לא מופעל, ייתכן שקיימת בעיית שירות זמני שבו משתמשים עלולים להיתקל עיכובים לסירוגין עם התקדמות זרימת העבודה.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-104">If your workflow is not starting, there may be a temporary service issue where users may experience intermittent delays with workflow progress.</span></span> <span data-ttu-id="b0fcc-105">בדוק את [לוח המחוונים של תקינות השירות](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לראות אם הארגון שלך מושפע.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-105">Check the [Service Health Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+    - <span data-ttu-id="9bb02-104">אם זרימת העבודה שלך אינה מתחילה, ייתכן שקיימת בעיית שירות זמנית שבה משתמשים עלולים להיתקל בעיכובים לסירוגין עם התקדמות זרימת העבודה.</span><span class="sxs-lookup"><span data-stu-id="9bb02-104">If your workflow is not starting, there may be a temporary service issue where users may experience intermittent delays with workflow progress.</span></span> <span data-ttu-id="9bb02-105">בדוק את [לוח הבקרה של תקינות השירות](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.</span><span class="sxs-lookup"><span data-stu-id="9bb02-105">Check the [Service Health Dashboard](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
 
-    - <span data-ttu-id="b0fcc-106">אם יותר מ- 24 שעות חלפו מאז שראית תחילה את הבעיה, היכנס כרטיס תמיכה.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-106">If more than 24 hours have passed since you first saw this issue, please log a support ticket.</span></span> <span data-ttu-id="b0fcc-107">במקרים רבים, אנו אתה כבר עובד על פתרון.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-107">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="b0fcc-108">נא תן לנו לפחות 24 שעות להשלמת פתרון.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-108">Please give us at least 24 hours to complete a solution.</span></span>
+    - <span data-ttu-id="9bb02-106">אם חלפו יותר מ -24 שעות מאז הפעם הראשונה שראית את הנושא הזה, אנא התחבר כרטיס תמיכה.</span><span class="sxs-lookup"><span data-stu-id="9bb02-106">If more than 24 hours have passed since you first saw this issue, please log a support ticket.</span></span> <span data-ttu-id="9bb02-107">במקרים רבים, אנחנו כבר עובדים על פתרון.</span><span class="sxs-lookup"><span data-stu-id="9bb02-107">In many cases, we're already working on a solution.</span></span> <span data-ttu-id="9bb02-108">בבקשה תן לנו לפחות 24. שעות כדי להשלים פיתרון</span><span class="sxs-lookup"><span data-stu-id="9bb02-108">Please give us at least 24 hours to complete a solution.</span></span>
 
-- <span data-ttu-id="b0fcc-109">זרימות עבודה של SharePoint 2010 איחור בהתחלת.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-109">SharePoint 2010 workflows delayed on start.</span></span>
+- <span data-ttu-id="9bb02-109">זרימות עבודה של SharePoint 2010 איחרו בהתחלה.</span><span class="sxs-lookup"><span data-stu-id="9bb02-109">SharePoint 2010 workflows delayed on start.</span></span>
 
-    - <span data-ttu-id="b0fcc-110">מצב זה מתרחש אם זרימת העבודה מופעלת בקבוצות גדולות.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-110">This occurs if the workflow is triggered in large batches.</span></span> <span data-ttu-id="b0fcc-111">(לדוגמה, כאשר מספר פריטים נוספים בבת אחת).</span><span class="sxs-lookup"><span data-stu-id="b0fcc-111">(for example, when several items are added at once).</span></span>
+    - <span data-ttu-id="9bb02-110">מצב זה מתרחש אם זרימת העבודה מופעלת באצוות גדולות.</span><span class="sxs-lookup"><span data-stu-id="9bb02-110">This occurs if the workflow is triggered in large batches.</span></span> <span data-ttu-id="9bb02-111">(לדוגמה, כאשר מספר פריטים נוספים בבת אחת).</span><span class="sxs-lookup"><span data-stu-id="9bb02-111">(for example, when several items are added at once).</span></span>
 
-    - <span data-ttu-id="b0fcc-112">זרימות עבודה אינה מיועדת לפעול בזמן אמת, כך עיכוב היא על-ידי עיצוב התנהגות.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-112">Workflows are not designed to run real-time, so a delay is by-design behavior.</span></span>
+    - <span data-ttu-id="9bb02-112">זרימות עבודה אינן מתוכננות לפעול בזמן אמת, כך שהשהיה היא התנהגות לפי עיצוב.</span><span class="sxs-lookup"><span data-stu-id="9bb02-112">Workflows are not designed to run real-time, so a delay is by-design behavior.</span></span>
 
-   -  <span data-ttu-id="b0fcc-113">אם זרימת העבודה הוא מורכב להרחבה האובייקט סימון השפה (XMOL), יכול להיות איטי הידור.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-113">If the Workflow is complex Extensible Object Markup Language (XMOL), compilation can be slow.</span></span> <span data-ttu-id="b0fcc-114">בדוק מאמר [זה](https://support.microsoft.com/en-us/kb/3043697) .</span><span class="sxs-lookup"><span data-stu-id="b0fcc-114">Check [this](https://support.microsoft.com/en-us/kb/3043697) article.</span></span>
+   -  <span data-ttu-id="9bb02-113">אם זרימת העבודה היא שפת סימון אובייקט מורחבת מורכבת (XMOL), ההידור יכול להיות איטי.</span><span class="sxs-lookup"><span data-stu-id="9bb02-113">If the Workflow is complex Extensible Object Markup Language (XMOL), compilation can be slow.</span></span> <span data-ttu-id="9bb02-114">בדוק [את המאמר](https://support.microsoft.com//kb/3043697) .</span><span class="sxs-lookup"><span data-stu-id="9bb02-114">Check [this](https://support.microsoft.com//kb/3043697) article.</span></span>
 
-    - <span data-ttu-id="b0fcc-115">עליך לפשט את זרימת העבודה או לעצב אותו באמצעות סוג פלטפורמה של Microsoft SharePoint 2013 זרימת מחדש.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-115">You should simplify the workflow or redesign it using the Microsoft SharePoint 2013 Workflow platform type.</span></span>
+    - <span data-ttu-id="9bb02-115">עליך לפשט את זרימת העבודה או לעצב אותה מחדש באמצעות סוג פלטפורמת זרימת העבודה של Microsoft SharePoint 2013.</span><span class="sxs-lookup"><span data-stu-id="9bb02-115">You should simplify the workflow or redesign it using the Microsoft SharePoint 2013 Workflow platform type.</span></span>
 
-    - <span data-ttu-id="b0fcc-116">אם היסטוריית זרימת העבודה שלך גדלה גדול יותר, ייתכן שתרצה למחוק לצמיתות את הפריטים או ליצור רשימת היסטוריה חדשה.</span><span class="sxs-lookup"><span data-stu-id="b0fcc-116">If your workflow history has grown large, you may want to purge the items or create a new history list.</span></span>
+    - <span data-ttu-id="9bb02-116">אם היסטוריית זרימת העבודה שלך גדלה בגדול, ייתכן שתרצה למחוק את הפריטים או ליצור רשימת היסטוריה חדשה.</span><span class="sxs-lookup"><span data-stu-id="9bb02-116">If your workflow history has grown large, you may want to purge the items or create a new history list.</span></span>
 
-        <span data-ttu-id="b0fcc-117">מידע נוסף: [ניקוי היסטוריית זרימת עבודה](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)</span><span class="sxs-lookup"><span data-stu-id="b0fcc-117">More Information : [Purge Workflow History](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)</span></span>
+        <span data-ttu-id="9bb02-117">מידע נוסף: [נקה היסטוריית זרימת עבודה](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)</span><span class="sxs-lookup"><span data-stu-id="9bb02-117">More Information : [Purge Workflow History](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)</span></span>
 
 
-## <a name="related-topics"></a><span data-ttu-id="b0fcc-118">נושאים קשורים</span><span class="sxs-lookup"><span data-stu-id="b0fcc-118">Related topics</span></span>
-<span data-ttu-id="b0fcc-119">מעוניין לנסות זרימה Microsoft ב- SharePoint Online?</span><span class="sxs-lookup"><span data-stu-id="b0fcc-119">Want to try Microsoft Flow in SharePoint Online?</span></span>
-- [<span data-ttu-id="b0fcc-120">צור זרימה</span><span class="sxs-lookup"><span data-stu-id="b0fcc-120">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [<span data-ttu-id="b0fcc-121">SharePoint וזרימה</span><span class="sxs-lookup"><span data-stu-id="b0fcc-121">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+## <a name="related-topics"></a><span data-ttu-id="9bb02-118">נושאים קשורים</span><span class="sxs-lookup"><span data-stu-id="9bb02-118">Related topics</span></span>
+<span data-ttu-id="9bb02-119">רוצה לנסות את Microsoft Flow ב-SharePoint Online?</span><span class="sxs-lookup"><span data-stu-id="9bb02-119">Want to try Microsoft Flow in SharePoint Online?</span></span>
+- [<span data-ttu-id="9bb02-120">צור זרימה</span><span class="sxs-lookup"><span data-stu-id="9bb02-120">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [<span data-ttu-id="9bb02-121">SharePoint וזרימה</span><span class="sxs-lookup"><span data-stu-id="9bb02-121">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

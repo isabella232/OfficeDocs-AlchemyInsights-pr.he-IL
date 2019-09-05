@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544648"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734454"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="18ab6-102">העברת תיבות דואר בין שני דיירים שונים</span><span class="sxs-lookup"><span data-stu-id="18ab6-102">Migrate mailboxes between two different tenants</span></span>
+# <a name="migrate-mailboxes-between-two-different-tenants"></a><span data-ttu-id="5d11e-102">העברת תיבות דואר בין שני דיירים שונים</span><span class="sxs-lookup"><span data-stu-id="5d11e-102">Migrate mailboxes between two different tenants</span></span>
 
-<span data-ttu-id="18ab6-103">ייתכן שיהיה עליך להעביר תיבות דואר בין שני שונים דיירים ב- Office 365, לדוגמה, כאשר ישנם מיזוגים הארגון.</span><span class="sxs-lookup"><span data-stu-id="18ab6-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="18ab6-104">העברות אלה צריכה להיות מתוכננת בקפידה.</span><span class="sxs-lookup"><span data-stu-id="18ab6-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="18ab6-105">נא ראה את ההנחיות הבאות:</span><span class="sxs-lookup"><span data-stu-id="18ab6-105">Please see the following guidance:</span></span>
+<span data-ttu-id="5d11e-103">ייתכן שיהיה עליך להעביר תיבות דואר בין שני דיירים שונים ב-Office 365, לדוגמה, כאשר קיימים מיזוגים ארגוניים.</span><span class="sxs-lookup"><span data-stu-id="5d11e-103">You may need to migrate mailboxes between two different tenants in Office 365, for example, when there are organization mergers.</span></span> <span data-ttu-id="5d11e-104">יש לתכנן את ההעברות הללו בקפידה.</span><span class="sxs-lookup"><span data-stu-id="5d11e-104">These migrations should be carefully planned.</span></span> <span data-ttu-id="5d11e-105">נא עיין בהנחיות הבאות:</span><span class="sxs-lookup"><span data-stu-id="5d11e-105">Please see the following guidance:</span></span>
   
-[<span data-ttu-id="18ab6-106">כיצד להעביר תיבות דואר מתוך דיירים Office 365 אחת לאחרת</span><span class="sxs-lookup"><span data-stu-id="18ab6-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[<span data-ttu-id="5d11e-106">כיצד להעביר תיבות דואר מדייר אחד של Office 365 למשנהו</span><span class="sxs-lookup"><span data-stu-id="5d11e-106">How to migrate mailboxes from one Office 365 tenant to another</span></span>](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

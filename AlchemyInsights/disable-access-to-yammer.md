@@ -1,5 +1,5 @@
 ---
-title: בטל Access ל- Yammer
+title: בטל גישה ליאממר
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,15 +11,15 @@ ms.custom:
 - "722"
 - "6000004"
 ms.assetid: ddc083c7-d01f-4f97-a232-5eafe8abddce
-ms.openlocfilehash: 50f10f68670ca7fd68a771405f07f3bea4220ff4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e7947afed1223fa55a2aa5710573c03cd804416
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512857"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740358"
 ---
-# <a name="disable-access-to-yammer"></a><span data-ttu-id="6a739-102">בטל גישה ל- Yammer</span><span class="sxs-lookup"><span data-stu-id="6a739-102">Disable access to Yammer</span></span>
+# <a name="disable-access-to-yammer"></a><span data-ttu-id="1b114-102">הפוך את הגישה ליאממר</span><span class="sxs-lookup"><span data-stu-id="1b114-102">Disable access to Yammer</span></span>
 
-<span data-ttu-id="6a739-103">הפתרון ביטול הגישה Yammer היא לחסום ולאחר ביטול הקצאה של רשיונות Yammer עבור משתמשים של Office 365.</span><span class="sxs-lookup"><span data-stu-id="6a739-103">The solution to disable Yammer access is to block and unassign Yammer licenses for Office 365 users.</span></span> <span data-ttu-id="6a739-104">נא עיין במאמר הבא לקבלת מידע נוסף.</span><span class="sxs-lookup"><span data-stu-id="6a739-104">Please refer to the following article for more information.</span></span>
+<span data-ttu-id="1b114-103">הפתרון לביטול גישה של Yammer הוא לחסום ולבטל את הקצאת רשיונות של Yammer עבור משתמשי Office 365.</span><span class="sxs-lookup"><span data-stu-id="1b114-103">The solution to disable Yammer access is to block and unassign Yammer licenses for Office 365 users.</span></span> <span data-ttu-id="1b114-104">עיין במאמר הבא לקבלת מידע נוסף.</span><span class="sxs-lookup"><span data-stu-id="1b114-104">Please refer to the following article for more information.</span></span>
   
-- [<span data-ttu-id="6a739-105">לבטל גישה Yammer עבור משתמשים של Office 365</span><span class="sxs-lookup"><span data-stu-id="6a739-105">Turn off Yammer access for Office 365 users</span></span>](https://support.office.com/article/1f79bfad-f713-4143-aa5d-5584985ce53a)
+- [<span data-ttu-id="1b114-105">ביטול גישה ל-Yammer עבור משתמשי Office 365</span><span class="sxs-lookup"><span data-stu-id="1b114-105">Turn off Yammer access for Office 365 users</span></span>](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access)
