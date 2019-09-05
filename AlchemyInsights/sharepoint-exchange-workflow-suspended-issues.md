@@ -1,6 +1,6 @@
 ---
-title: תחילת העבודה עם SharePoint Online
-ms.author: kirks
+title: התחל לעבוד עם SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ae27a9fc342eb4fc4633ffd5518d63600b978db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503996"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751673"
 ---
-# <a name="workflows-in-sharepoint"></a>זרימות עבודה ב- SharePoint
+# <a name="workflows-in-sharepoint"></a>זרימות עבודה ב-SharePoint
 
-אם זרימות עבודה של SharePoint לא שולח הודעות דואר אלקטרוני, הארגון שלך נתקל מגבלות השולח Exchange Online.
+אם זרימות עבודה של SharePoint אינן שולחות הודעות דואר אלקטרוני, ייתכן שהארגון שלך נתקל במגבלות השולח המקוון של Exchange Online.
 
-הודעת השגיאה 'זרימת עבודה מושעית' עלולה להתרחש אם יש לך אחד מהפריטים הבאים:
+הודעת השגיאה ' זרימת עבודה היא מושהה ' עשויה להתרחש אם אחד מהפריטים הבאים מופיעים ברשותך:
 
-- יש לך זרימת עבודה ב- SharePoint במצב מקוון שבו הוא משתמש SharePoint 2010 או סוג פלטפורמה זרימת עבודה של SharePoint 2013.
+- ברשותך זרימת עבודה ב-SharePoint Online המשתמשת בסוג פלטפורמת זרימת העבודה sharepoint 2010 או SharePoint 2013.
 
-- זרימת העבודה נקבעה כדי לשלוח הודעת דואר אלקטרוני מותאמות אישית משתמשים יותר מ- 200 בכל פעם, למעלה מ- 10,000 נמענים בכל יום או יותר מ- 30 הודעות לדקה.
+- תצורת זרימת העבודה מוגדרת לשליחת הודעת דואר אלקטרוני מותאמת אישית ליותר מ-200 משתמשים בכל פעם, יותר מ-10,000 נמענים ביום, או יותר מ-30 הודעות בדקה.
 
-כאשר אתה מפעיל את זרימת העבודה, לא תישלח הודעת דואר אלקטרוני, אתה מבחין את הודעת השגיאה, מצב פנימי מוגדר מוצג מושעה או אין אפשרות לשלוח לנמען.
+בעת הפעלת זרימת העבודה, הודעת הדואר האלקטרוני אינה נשלחת ואתה מבחין בהודעת השגיאה, ' מצב פנימי ' מוגדר כ-' מושהה ' או שלא ניתן לשלוח לנמען מוצג.
 
-לקבלת מידע נוסף, עיין [במאמר](https://support.office.com/article/-daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or-unable-to-send-to-a-recipient-error-in-a-sharepoint-online-workflow-89d02169-5fa6-4259-affc-73edb6ca9fb6?ui=en-US&amp;rs=en-US&amp;ad=US)הבא.
+לקבלת מידע נוסף, עיין [במאמר](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)הבא.
 

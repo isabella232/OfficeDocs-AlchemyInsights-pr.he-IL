@@ -1,6 +1,6 @@
 ---
-title: כיצד להשתמש מאגר המונחים המקוונת של SharePoint
-ms.author: kirks
+title: כיצד להשתמש במאגר ' טווח מקוון ' של SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 8c87a4ca51dae25a0cfec86d53bc45ec59f8962f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539642"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754841"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>כיצד להשתמש מאגר המונחים המקוונת של SharePoint
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>כיצד להשתמש במאגר ' טווח מקוון ' של SharePoint
 
-מאגר המונחים אינו זמין הניהול של Office 365 הכללית, הניהול של SharePoint, ולאחר מנהלים מאגר המונחים ולא ניתן למצוא במרכז הניהול של SharePoint Online החדש.
+המונח Store זמין ל-Office 365 הכללית Admin, SharePoint Admin, ו-המונח Store מנהלים ניתן למצוא במרכז החדש של SharePoint Online Admin.
   
-לקבלת מידע נוסף אודות אופן השימוש בחנות מונח המקוונת של SharePoint ואת טקסונומיה בתוך SharePoint Online, ראה [מבוא מנוהל מטה-נתונים](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+לקבלת מידע נוסף אודות אופן השימוש במאגר המונח ובטקסונומיה של SharePoint online בתוך SharePoint Online, ראה [מבוא למטא-נתונים מנוהלים](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-אם אתה נתקל בבעיה עם תנאי לא הופעתם או להופיע לסירוגין, אנו ממליצים לך להמתין 24 שעות ולאחר מכן היכנס בקשת תמיכה אם הבעיה לא נפתרה. אף-על-פי 24 שעות יכול להיות זמן רב, עלול להיות בעיית האחסון במטמון או אנו ייתכן כבר עובד על פתרון בעיה זו.
+אם אתה נתקל בבעיה עם מונחים שאינם מופיעים או מופיעים לסירוגין, מומלץ להמתין 24 שעות ולאחר מכן לבצע רישום של בקשת תמיכה אם הבעיה נמשכת. למרות 24 שעות יכול להיות הרבה זמן, יכול להיות בעיה במטמון או שאנחנו כבר עובד על פתרון לבעיה זו.
   

@@ -1,6 +1,6 @@
 ---
-title: שיתוף עם אתר צוות חיצוני
-ms.author: kirks
+title: שיתוף חיצוני עם אתר צוות
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: da38dd61369e9581b123448c9a566cde5d2e561e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da9d90ba6024df5c61d45d2343008fa0b0fdab7b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525969"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755885"
 ---
-# <a name="external-sharing-with-a-team-site"></a>שיתוף עם אתר צוות חיצוני
+# <a name="external-sharing-with-a-team-site"></a>שיתוף חיצוני עם אתר צוות
 
-כדי להפעיל שיתוף עבור אתרי צוות משתמש חיצוני, בצע את הפעולות הבאות: 
+כדי להפעיל שיתוף משתמשים חיצוני עבור ' אתרי צוות ', בצע את הפעולות הבאות: 
   
-1. במרכז הניהול של SharePoint, לחץ על **אתרים פעילים**.
+1. במרכז הניהול החדש של SharePoint, לחץ על **אתרים פעילים**.
   
-2. בחר אתר בעל תבנית **אתר הצוות** . 
+2. בחר אתר הכולל תבנית **אתר צוות** . 
   
-3. בחר בלחצן **שיתוף** מתוך התפריט העליון. 
+3. בחרו בלחצן ' **שיתוף** ' מהתפריט העליון. 
   
- **הערה**: כברירת מחדל, בעת יצירת אתר צוות מודרניים, החיצונית אפשרות שיתוף תוגדר חדש ומשתמשים חיצוניים קיימים. 
+ **הערה**: כברירת מחדל, בעת יצירת אתר צוות מודרני, האפשרות שיתוף חיצוני תהיה מוגדרת למשתמשים חיצוניים חדשים וקיימים. 
   
- **הערה:** אם יש לך יותר מאתר אחד נבחר, יופיע לחצן **השיתוף** לא זמין. בחר אתר אחד בלבד. 
+ **הערה:** אם בחרת יותר מאתר אחד, לחצן **השיתוף** יופיע כלא זמין. בחר אתר אחד בלבד. 
   
 

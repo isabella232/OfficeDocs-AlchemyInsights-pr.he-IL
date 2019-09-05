@@ -1,6 +1,6 @@
 ---
-title: הכנסת מספר קבצים בו-זמנית
-ms.author: kirks
+title: בדיקת מספר קבצים בו
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 9/17/2018
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e1a2f9068ff787ac835ad665c77bba70cd6b352
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520524"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755201"
 ---
-# <a name="check-in-several-files-at-once"></a>הכנסת מספר קבצים בו-זמנית
+# <a name="check-in-several-files-at-once"></a>בדיקת מספר קבצים בו
 
-הכנסה והוצאה SharePoint של קבצים בספריה היא דרך מצוינת לעקוב אחר אופן העדכון של תוכן הפקד. אם ברצונך לבצע שינויים בקובץ באתר וברצונך לוודא שאף אחד אחר יכול לערוך אותו, להוציא את הקובץ. כשיש לך את הוצאת הקובץ, באפשרותך לערוך אותו במצב מקוון או במצב לא מקוון, ולשמור אותו מספר פעמים, במידת הצורך.
+בדיקת קבצים בספריית SharePoint והוצאה ממנה היא דרך מצוינת למעקב ולשליטה באופן העדכון של תוכן. אם ברצונך לבצע שינויים בקובץ באתר וברצונך לוודא שאף אחד אחר לא יכול לערוך אותו, בדוק את הקובץ. לאחר שהוצאת את הקובץ, באפשרותך לערוך אותו באופן מקוון או לא מקוון ולשמור אותו מספר פעמים, אם יש צורך בכך.
 
-להלן הן קישורים שימושיים מסוימים לגבי תכונה זו.
+להלן כמה קישורים מועילים לגבי תכונה זו.
 
-- [כיצד להוציא, להכניס או לבטל שינויים בקבצים](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [כיצד לבצע צ'ק-אין או לבטל שינויים בקבצים](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [העליון שאלות אודות הוצאה, הכנסה וגירסאות](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
+- [שאלות מובילות לגבי הוצאה, הוצאה וגירסאות](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 
-- [הכנסת קבצים מרובים בבת אחת](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [בדיקת קבצים מרובים בו](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [אפשר או בטל ניהול גירסאות/שיק על ספריה](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f&amp;ui=en-US&amp;rs=en-US&amp;ad=US)
+- [הפעלה או ביטול של ניהול גירסאות/הוצאה בספריה](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
 
   

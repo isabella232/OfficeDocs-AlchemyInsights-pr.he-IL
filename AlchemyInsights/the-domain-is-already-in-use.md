@@ -10,17 +10,17 @@ ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.custom:
 - "29"
 - "10"
-ms.openlocfilehash: 20a9935d17a6797a1eda7f69da534e3287c3cea1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c8be71fb3df6669587959a231b5de524ad17b861
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660721"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743022"
 ---
 # <a name="the-domain-is-already-in-use"></a>התחום נמצא כבר בשימוש
 
 התחום שאתה מנסה להוסיף שייך כבר לארגון אחר. תחילה עליך להסיר את התחום מהארגון האחר כדי שתוכל להוסיף אותו לארגון זה. המאמרים הבאים ינחו אותך בתהליכים אלה.
   
-- [הסרת תחום מ- Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+- [הסרת תחום מ- Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
 
-- [הוספת תחום ויצירת רשומות DNS](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+- [הוספת תחום ויצירת רשומות DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

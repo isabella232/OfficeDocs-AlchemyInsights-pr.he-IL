@@ -1,6 +1,6 @@
 ---
-title: מחיקת אוסף אתרים ב- SharePoint
-ms.author: kirks
+title: מחיקת אוסף אתרים ב-SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09c6396e62f79b4ea2922022b60da7dc91dc58d2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513108"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748181"
 ---
 # <a name="delete-a-site-collection"></a>מחיקת אוסף אתרים
 
-כאשר אתה, כללי או SharePoint admin ב- Office 365, למחוק אתר (שנקרא בעבר "אוסף אתרים"), להעביר אל סל המיחזור של אוסף האתרים ואת נשמרים עבור ימים 93. 
+כאשר אתה, כגון כללי או מנהל SharePoint ב-Office 365, מחק אתר (שנקרא בעבר "אוסף אתרים"), הוא מועבר לסל המיחזור של אוסף האתרים ונשמר במשך 93 ימים. 
 
-בעת מחיקת אתר, הכל בתוכו נמחק כולל:
+בעת מחיקת אתר, כל מה שבתוכו נמחק כולל:
 
-- ספריות מסמכים וקבצים.
-- רשימות ונתוני רשימות.
-- הגדרות אתר ועל ההיסטוריה.
-- כל אתרי המשנה ואת התוכן שלהן.
+- תעד ספריות וקבצים.
+- רשימות ונתוני רשימה.
+- הגדרות אתר והיסטוריה.
+- כל אתרי משנה. ותוכנם
 
-עליך להודיע המנהלים אתר ובעלי משנה לפני מחיקת אתר כדי שיוכלו להעביר את הנתונים שלהם למיקום אחר, ולנהל גם להורות למשתמשים כאשר האתרים יימחקו. 
+עליך להודיע למנהלים של האתר ולבעלים של אתרי המשנה לפני שתמחק אתר כדי שיוכלו להעביר את הנתונים שלהם למיקום אחר, וגם להודיע למשתמשים כאשר האתרים יימחקו. 
 
 לקבלת מידע נוסף, ראה [מחיקת אוסף אתרים](https://docs.microsoft.com/sharepoint/delete-site-collection). 

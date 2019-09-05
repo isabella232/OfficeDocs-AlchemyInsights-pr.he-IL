@@ -1,5 +1,5 @@
 ---
-title: אלכימיה - קריסה Outlook שלבים לפתרון בעיות
+title: אלכימיה-שלבי פתרון בעיות של התרסקות Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664573"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737118"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>שלבים לפתרון בעיות קריסה של outlook
+# <a name="outlook-crash-troubleshooting-steps"></a>שלבי פתרון בעיות בהתרסקות Outlook
 
-אם אתה נתקל בעיות קריסה בשולחן העבודה של Outlook, התחל על-ידי שלושת השלבים הבאים, המפורטים כל בפירוט במאמר זה: [כיצד לפתור בעיות העלולות לגרום Outlook לקרוס או להפסיק להגיב בעת שימוש ב- Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+אם אתה נתקל בבעיות התרסקות שולחן העבודה של Outlook, התחל בעקבות שלושת השלבים שלהלן, אשר כולם רשומים בפירוט במאמר זה: [כיצד לפתור בעיות הגורמות ל-Outlook לקרוס או להפסיק להגיב בעת שימוש ב-Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-שלב 1: לחקור בעיות אפשריות עם תוספות.
+שלב 1: חקירת בעיות אפשריות בתוספות.
   
-שלב 2: תיקון Outlook ומפעיל את [הכלי תמיכה ומסייע השחזור](https://aka.ms/SaRA-OutlookWontStart) כדי לפתור בעיות של שגיאות הפעלה של Outlook במחשב המושפע.
+שלב 2: תיקון Outlook ולהפעיל את [הכלי תמיכה ושחזור מסייע](https://aka.ms/SaRA-OutlookWontStart) כדי לפתור שגיאות הפעלה של Outlook במחשב המושפע.
   
-שלב 3: יצירת פרופיל Outlook חדש או להפעיל את [הכלי פרופיל Outlook](https://aka.ms/SaRA-OutlookSetupProfile) במחשב המושפע.
+שלב 3: יצירת פרופיל חדש של Outlook, או הפעלת [כלי הפרופיל של outlook](https://aka.ms/SaRA-OutlookSetupProfile) במחשב המושפע.
   
-אם הבעיה אירעה לאחר עדכון הצעדים שלעיל אינם פועלים, ייתכן שיהיה עליך לחזור build קודמת. ראה [כיצד לחזור לגירסה קודמת של Office 2016 לחץ והפעל](https://support.microsoft.com/help/2770432).
+אם הבעיה אירעה לאחר עדכון והשלבים שלעיל לא יעבדו, ייתכן שיהיה עליך לחזור למבנה קודם. ראה [כיצד לחזור לגירסה קודמת של Office 2016 לחץ-להפעלה](https://support.microsoft.com/help/2770432).
   

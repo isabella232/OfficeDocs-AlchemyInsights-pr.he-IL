@@ -1,6 +1,6 @@
 ---
 title: בעיות ביצועים-SharePoint או OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666733"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752717"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint או OneDrive איטי, נגיש או אינו זמין עבור משתמשים מרובים
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint או OneDrive איטי, לא נגיש או לא זמין עבור משתמשים מרובים
 
-SharePoint או OneDrive עשוי להיות איטי, נגיש או אינו זמין עקב מספר סיבות:
+SharePoint או OneDrive עשויים להיות איטיים, לא נגישים או לא זמינים ממספר סיבות:
   
-- אם אתר SharePoint או OneDrive שלך איטיות או מתעכבות עבור משתמשים מרובים, ייתכן שקיימת בעיית שירות זמני שבו משתמשים להיתקל שגיאות ניווט או עיכובים לסירוגין בעת גישה אל אתרי SharePoint או תוכן OneDrive. בדוק את [לוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לראות אם הארגון שלך מושפע.
+- אם אתר SharePoint או OneDrive שלך איטי או מתעכב עבור משתמשים מרובים, ייתכן שקיימת בעיית שירות זמנית שבה משתמשים חווים עיכובים לסירוגין או שגיאות ניווט בעת גישה לאתרי SharePoint או לתוכן OneDrive. בדוק את [לוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.
   
-- אם אתה נתקל בביצועים איטיים עם אתר SharePoint **קלאסית** או דף, להפעיל את [כלי האבחון של הדף](https://aka.ms/perftool) כדי לנתח את העמודים.
+- אם אתה נתקל בביצועים איטיים עם אתר או דף של SharePoint **קלאסיים** , נצל את [הכלי ' אבחון עמוד](https://aka.ms/perftool) ' כדי לנתח את העמודים.
   
-- אם אתה עדיין נתקל כללי לביצועים איטיים, נא סקור את המשאבים בחלק התחתון של מאמר זה: [מבוא לביצועים כוונון עבור SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- אם אתה עדיין נתקל בביצועים איטיים כלליים, עיין במשאבים בחלק התחתון של מאמר זה: [מבוא לכיוונון ביצועים עבור SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

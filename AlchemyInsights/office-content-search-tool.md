@@ -1,6 +1,6 @@
 ---
-title: 1491-search-not-returning-expected-results
-ms.author: kirks
+title: 1491-חיפוש-לא-חוזר-צפוי-תוצאות
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132689"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753850"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>כלי חיפוש תוכן כדי למצוא מידע רלוונטי
+# <a name="content-search-tool-to-find-relevant-info"></a>הכלי ' חיפוש תוכן ' למציאת מידע רלבנטי
 
-השתמש בכלי החיפוש תוכן ב- & אבטחה מרכז תאימות כדי למצוא במהירות דוא בתיבות הדואר של Exchange, מסמכים אתרי SharePoint מיקומים OneDrive, ואת שיחות ב- Skype עבור העסק של העברת הודעות מיידיות. באפשרותך להשתמש בכלי חיפוש תוכן כדי לחפש דואר אלקטרוני, מסמכים, שיחות ב- Office 365 כלי שיתוף פעולה כגון Microsoft צוותים וקבוצות Office 365 העברת הודעות מיידיות.
+השתמש בכלי חיפוש תוכן ב-Security _ Amp_ מרכז התאימות כדי למצוא במהירות דואר אלקטרוני בתיבות דואר של Exchange, מסמכים באתרי SharePoint ומיקומי OneDrive ושיחות העברת הודעות מיידיות בסקייפ לעסקים. באפשרותך להשתמש בכלי החיפוש תוכן כדי לחפש דואר אלקטרוני, מסמכים ושיחות העברת הודעות מיידיות בכלי שיתוף פעולה של Office 365 כגון צוותי Microsoft ו-Office 365 קבוצות.
 
 
-לפני השימוש [חיפוש תוכן](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) מתוך [& אבטחה מרכז תאימות](https://sip.protection.office.com/homepage), ברצונך להשלים הגדרות התצורה כולל [הרשאות](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [מהירויות ההורדה הגדרה](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) ולקבוע את תצורת [הגדרות ייצוא](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+לפני השימוש [ב'חיפוש תוכן](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) ' [ממרכז התאימות של אבטחה _ ampb](https://sip.protection.office.com/homepage), ברצונך להשלים הגדרות תצורה כולל [קביעת תצורה של הרשאות](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [הגדרת מהירויות הורדה](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) [והגדרות ייצוא](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
-להבין יותר אודות חיפוש תוכן על-ידי סקירת את [דרישות ומגבלות](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [חקירת פריטי אינדקס חלקית](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ותוצאות אחרות להיות מודע.
+המשך להבין עוד אודות חיפוש תוכן על-ידי סקירת [הדרישות והמגבלות](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [בחקירת פריטים בעלי אינדקס חלקי](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ותוצאות אחרות שיש לשים לב אליהם.
 
-לאחר סקירת הגבלות של חיפוש תוכן והגדרות תצורה, עיין [באמצעות חיפוש תוכן</a> כדי לחפש פריטים במקום כגון דואר אלקטרוני, מסמכים שיחות בארגון Office 365 שלך להעברת הודעות מיידיות](https://docs.microsoft.com/office365/securitycompliance/content-search).
+לאחר סקירת הגדרות התצורה וההגבלות של חיפוש תוכן, עיין [בשימוש ב'חיפוש</a> תוכן ' כדי לחפש פריטים במקום כגון דואר אלקטרוני, מסמכים ושיחות העברת הודעות מיידיות בארגון Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
-עבור מלא שלב אחר שלב של חיפוש תוכן, ראה [חיפוש עבור תוכן ב- Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) לקבלת מידע נוסף.
+לקבלת מידע נוסף, עיין [בחיפוש אחר תוכן ב-Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) .

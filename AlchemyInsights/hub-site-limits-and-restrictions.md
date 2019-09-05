@@ -1,26 +1,26 @@
 ---
-title: הגבלות ומגבלות של אתר רכזת
-ms.author: kirks
+title: מגבלות ומגבלות של אתר Hub
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: be714787d426164e9e0d03050c8fe3fc8d858124
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa44561d2e49944d4f9de5995499a961faa2b07b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539282"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754697"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>הגבלות ומגבלות אתר רכזת SharePoint
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>מגבלות ומגבלות של אתרי hub של SharePoint
 
-- מומלץ לבחור אתר תקשורת, או אתר צוות העושה שימוש מודרני התבנית החדשה. אם אתה משתמש באתר צוות קלאסי, הניווט רכזת יופיעו רק בעמודי מודרניים, הגדרות אתר רכזת יופיע רק בדפים מודרניים.
+- מומלץ לבחור אתר תקשורת או אתר צוות המשתמש בתבנית המודרנית החדשה. אם אתה משתמש באתר צוות קלאסי, ניווט ה-hub יופיע רק בעמודים מודרניים, והגדרות אתר hub יופיעו רק בעמודים מודרניים.
 
-- האתרים המקושרים כבר עם אחר hub **אין** אפשרות להמיר אתר רכזת.
+- **אין** אפשרות להמיר אתרים שכבר משויכים לרכזת אחרת לאתר hub.
 
-- באפשרותך ליצור אתרים רכזת עד 100 עבור הארגון שלך. אין הגבלה על מספר אתרים שניתן לשייך לאתר ה-hub.
+- באפשרותך ליצור עד 100 אתרי hub עבור הארגון שלך. אין הגבלה על מספר האתרים שניתן לשייך לאתר hub.
 
-- כאשר משתמשים לשייך האתרים שלהם אתר רכזת, לא להשפיע על ההרשאות של אתר רכזת או האתרים המשויכים. חשוב לוודא שכל המשתמשים שאפשר לשייך אתרים ל- hub יש הרשאה ל- hub.
+- כאשר משתמשים מקשרים את האתרים שלהם עם אתר hub, הוא אינו משפיע על ההרשאות של אתר ה-hub או של האתרים המשויכים. חשוב לוודא שכל המשתמשים שאתה מתיר לשייך אתרים לרכזת יש הרשאה לרכזת.
 

@@ -1,5 +1,5 @@
 ---
-Title: רענן באמצעות האינטרנט המחבר אינו פועל כראוי
+title: רענון באמצעות מחבר האינטרנט אינו פועל כראוי
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: e6c0f44f8f62b01e7f4dd23776ba8c13a2999c6b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753292"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748901"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>רענן באמצעות האינטרנט המחבר אינו פועל כראוי
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>רענון באמצעות מחבר האינטרנט אינו פועל כראוי
 
-אם יש לך קובץ script מחבר אינטרנט העושה שימוש בפונקציה [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) , עדכנת את הנתונים (dataset) או הדוח לאחר ה-18 בנובמבר, 2016, עליך להשתמש בשער בסדר רענון כדי לפעול כהלכה.
+אם ברשותך קובץ script של מחבר אינטרנט המשתמש בפונקציה [web. Page](https://msdn.microsoft.com/library/mt260924.aspx) ועדכנת את ערכת הנתונים או את הדוח שלך לאחר ה-18 בנובמבר, 2016, עליך להשתמש בשער כדי שהרענון יפעל כראוי.
 
-לקבלת מידע נוסף:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+למידע נוסף:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

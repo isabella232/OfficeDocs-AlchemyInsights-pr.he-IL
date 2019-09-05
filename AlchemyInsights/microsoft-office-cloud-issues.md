@@ -1,6 +1,6 @@
 ---
-title: תפקיד מנהל וכיצד להקצות
-ms.author: kirks
+title: תפקיד מנהל ואופן ההקצאה
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544612"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754085"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>נתקל בבעיות עם שירות ענן?
+# <a name="experiencing-problems-with-a-cloud-service"></a>נתקלת בבעיות בשירות ענן?
 
-אם אתה נתקל בבעיות עם שירות ענן, באפשרותך לבדוק את [תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) במרכז admin Microsoft 365 כדי לקבוע אם זוהי בעיה מוכרת עם רזולוציה מתבצע לפני התקשר לתמיכה או לבזבז זמן פתרון בעיות. הבעיה עשויה להיות מאוד זמניות ולא כבר שזוהה על-ידי Microsoft, אולם ייתכנו lapse בזמן בין זיהוי בעיה רישום ללוח המחוונים תקינות השירות. נא להמשיך לבדוק את לוח המחוונים של שירות עדכונים נוספים.
+אם אתה נתקל בבעיות בשירות ענן, באפשרותך לבדוק את [תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) במרכז הניהול של Microsoft 365 כדי לקבוע אם מדובר בבעיה מוכרת עם רזולוציה מתבצעת לפני שתתקשר לתמיכה או תבזבז את פתרון הבעיות בזמן. הבעיה עשויה להיות זמנית מאוד ומזוהה כבר על-ידי Microsoft, עם זאת ייתכנו השגות בזמן בין זיהוי הנושא והרישום ללוח הבקרה של תקינות השירות. אנא המשיכו לבדוק את לוח המחוונים של השירות לקבלת עדכונים נוספים.
 
-**מדיניות דיווח**
+**מדיניות הדיווח**
 
-כאשר מתרחש מקרה שירות, Microsoft מזהה תקשורת, ממוקדת, מדויקים ובמועד הם קריטיים עבור לקוחות. Microsoft תודיע מנהלי מערכת Office 365 על-ידי עדכון ספציפי דיירים [שירות תקינות לוח מחוונים (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) בפורטל הניהול של Office 365. שירות עדכונים אירוע מסופקים על cadence לשעה או אם נדרשת cadence שונים, בו יצוינו ברישום תקשורת SHD. לקבלת מידע נוסף, ראה [כיצד לבדוק את תקינות השירות של Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+כאשר מתרחשת אירוע שירות, Microsoft מזהה שתקשורת מתוזמן, ממוקדת ומדויקת היא קריטית עבור לקוחות. Microsoft מודיעה למנהלי Office 365 על-ידי עדכון [לוח הבקרה של שירות ספציפי לדייר (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) בפורטל הניהול של office 365. העדכונים של אירוע השירות ניתנים על קדנצה מדי שעה, או אם נדרש מקצב שונה, הוא יצוין ברישום התקשורת של SHD. לקבלת מידע נוסף, ראה [כיצד לבדוק את Office 365 בריאות השירות](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

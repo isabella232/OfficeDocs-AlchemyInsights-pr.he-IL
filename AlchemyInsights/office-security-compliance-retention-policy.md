@@ -1,7 +1,7 @@
 ---
-title: מידע נוסף אודות מדיניות שמירה
+title: מידע נוסף על מדיניות שמירה
 ms.author: stephow
-author: msft-stephow
+author: stephow-msft
 manager: laurawi
 ms.date: 08/14/2019
 ms.audience: admin
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: ff9daf0489fb5feeb22bda19d55136caaea024cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521676"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753761"
 ---
-# <a name="more-info-about-retention-policies"></a>מידע נוסף אודות מדיניות שמירה
+# <a name="more-info-about-retention-policies"></a>מידע נוסף על מדיניות שמירה
 
-עבור רוב הארגונים, אמצעי האחסון והמורכבות של הנתונים שלהם גדל מדי יום - דואר אלקטרוני, מסמכים, הודעות מיידיות ועוד. ניהול יעיל או והתקנות מידע זה חשוב ולאחר מדיניות שמירה יכולות לסייע לך להשיג מטרות אלה. לקבלת מידע נוסף אודות מדיניות שמירה, אנא בקר באתר קישורים אלה:
+עבור רוב הארגונים, אמצעי האחסון והמורכבות של הנתונים מגדילים את היום-דואר אלקטרוני, מסמכים, הודעות מיידיות ועוד. ניהול מידע זה ביעילות או השליטה בו הוא חשוב, ומדיניות שמירה יכולה לסייע לך להשיג מטרות אלה. למידע נוסף על מדיניות שמירה, בקר בקישורים הבאים:
 
-## <a name="a-from-security-and-compliance-center"></a>A) מתוך מרכז תאימות ואבטחה
+## <a name="a-from-security-and-compliance-center"></a>A) ממרכז האבטחה והתאימות
 
-- מעבר אל האבטחה והתאימות > נתונים התנהלות > השמירה
+- עבור לאבטחה ולתאימות ממשל נתונים _ Gt_ שמירה
   - ראה מאמר [זה](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
-- מעבר אל האבטחה והתאימות > eDiscovery> מתקדם גילוי אלקטרוני 
+- עבור לאבטחה ולתאימות לeDiscovery> מתקדם של הגילוי האלקטרוני 
   - ראה מאמר [זה](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- מעבר אל אבטחה ושמירה תאימות > סיווגי >
-  - עיין במאמרים אלה
+- לעבור לאבטחה ולתאימות _ סיווגים _ שמירה
+  - ראה מאמרים אלה
     - [תוויות רגישות](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [מבט כולל על תוויות](https://docs.microsoft.com/office365/securitycompliance/labels)
 
-## <a name="b-legacy-ediscovery-policies"></a>B) פריטי מדיניות של גילוי אלקטרוני מדור קודם
+## <a name="b-legacy-ediscovery-policies"></a>B) מדיניות eDiscovery מורשת
 
 - ראה מאמר [זה](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)
 
-## <a name="c-site-closure-and-deletion-policies"></a>C) פריטי מדיניות של הסגירה ומחיקה של אתרים
+## <a name="c-site-closure-and-deletion-policies"></a>ג) מדיניות הסגר והמחיקה באתר
 
 - ראה מאמר [זה](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)  
 
-## <a name="d-information-rights-management-irm"></a>D) ניהול (IRM) זכויות מידע
+## <a name="d-information-rights-management-irm"></a>D) ניהול זכויות מידע (IRM)
 
-- עיין במאמרים אלה
-  - [IRM על רשימה/ספריה](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [מבט כולל על ניהול זכויות מידע](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- ראה מאמרים אלה
+  - [IRM ברשימה/ספריה](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [סקירת IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> אנו ממליצים מאוד העברה ל האבטחה ואת תאימות כחיבורי אם אתה עדיין משתמש גילוי אלקטרוני מדור קודם או פריטי מדיניות IRM או סגירת אתר ומחיקה.
+> אנו ממליצים בחום לעבור אל מדיניות אבטחה ותאימות אם אתה עדיין משתמש ב-eDiscovery מדור קודם או ב-IRM או במדיניות הסגר והמחיקה של האתר.

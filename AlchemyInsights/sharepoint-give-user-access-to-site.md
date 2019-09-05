@@ -1,6 +1,6 @@
 ---
-title: התכונה בקשות של Access
-ms.author: kirks
+title: התכונה ' בקשות גישה '
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 11/14/2018
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14ae1064de9e26a4b9d9540205020af11ca2daee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503816"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751529"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>להעניק למשתמשים גישה לאתר SharePoint
+# <a name="give-users-access-to-sharepoint-site"></a>תן למשתמשים גישה לאתר SharePoint
 
-התכונה של בקשת גישה מאפשר לאנשים לבקש גישה לתוכן אין כעת להם הרשאה לראות. כבעל אתר, באפשרותך להגדיר את התכונה כדי לשלוח לך דואר כאשר מישהו מבקש גישה לאתר. לקבלת מידע נוסף, נא בקר [להגדיר למעלה ולנהל בקשות גישה](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+תכונת בקשת הגישה מאפשרת לאנשים לבקש גישה לתוכן שאין להם כרגע הרשאה לראותם. כבעלים של אתר, באפשרותך לקבוע את תצורת התכונה כך שתשלח לך דואר כאשר משתמש יבקש גישה לאתר. לקבלת מידע נוסף, בקר [בהגדרה וניהול של בקשות גישה](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
 
-להלן מספר קישורים נפוצות לגבי בקשות גישה:
+להלן מספר קישורים נפוצים לגבי בקשות גישה:
 
-- [Access נדחתה"רשימת בקשות Access או"בקשת אישור נכשלה"כאשר התהליך של בקשה ממתינה ב- SharePoint Online](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [גישה שנדחתה "לרשימת בקשות Access או" אישור בקשה נכשל "בעת עיבוד בקשה ממתינה ב-SharePoint Online](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [בקשות גישת שינוי הגדרות](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [שינוי הגדרות בקשות גישה](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [לאשר או לדחות בקשות גישה עבור אתר](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [אישור או דחיית בקשות גישה לאתר](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [ניהול הזמנות משתמשים חיצוניים (Online SharePoint בלבד)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [ניהול הזמנות למשתמשים חיצוניים (SharePoint Online בלבד)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [שלח מחדש הזמנה](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [שליחה חוזרת של הזמנה](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

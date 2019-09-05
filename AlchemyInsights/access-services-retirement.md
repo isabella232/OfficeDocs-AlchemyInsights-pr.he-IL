@@ -1,6 +1,6 @@
 ---
-title: פרישה שירותים של Access
-ms.author: kirks
+title: שירותי גישה לגמלאות
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,26 +10,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 8886d7a6fad49e942e17f6a2f3c98542f87aae0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495752"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747785"
 ---
-# <a name="access-services-retirement"></a>פרישה שירותים של Access
+# <a name="access-services-retirement"></a>שירותי גישה לגמלאות
 
-כמו במקור להכריז ב- MC97576, ב- 2017 במרץ, ואנו ממשיכות לקיים תקשורת במהלך השנה האחרונות שירותי Access עובר פרשו מ- Office 365. השלב הבא בתהליך זה יהיה ההסרה של Access מסדי נתונים של אינטרנט המשתמשים רשימות SharePoint כמקום אחסון הנתונים הבסיסי שלהם.
+כפי שהכרזנו במקור ב-MC97576, במרץ 2017, והמשיך לתקשר בשנה האחרונה שירותי הגישה פרשו מ-Office 365. השלב הבא בתהליך זה יהיה ההסרה של מסדי נתונים של Access המשתמשים ברשימות SharePoint כאחסון הנתונים הבסיסי שלהם.
 
-**כיצד זה משפיע על לי?**
+**? איך זה משפיע עליי**
 
-החל 2019 ביוני, אנו להפסיק יצירה של מסדי נתונים חדשים של Access ב- SharePoint Online ולכבות את השירות ואת כל apps הנותרים על-ידי 2020 באפריל.
+החל יוני 2019, נפסיק את היצירה של מסדי נתונים חדשים של Access ב-SharePoint Online ולסגור את השירות וכל היישומים הנותרים על ידי אפריל 2020.
 
-**מה עלי לעשות כדי להתכונן לקראת השינוי?**
+**מה עלי לעשות כדי להתכונן לשינוי זה?**
 
-אנו ממליצים ליצור תוכנית המעבר עבור מסדי נתונים של web Access של הארגון שלך. מנהלים באפשרותך להשתמש [סורק יישום SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) לקבלת רשימת מלאי של apps Access משתמש בהם אתרים.
+אנו מעודדים אותך ליצור תוכנית מעבר עבור מסדי הנתונים של הארגון שלך ב-Access. למנהלים יש אפשרות להשתמש [בסורק ה-SharePoint Access app](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) כדי לקבל רשימת מלאי של יישומי Access שבהם משתמשים אתרים.
 
-ישנן מספר דרכים להעברת נתונים במסדי נתונים של Access אינטרנט:
+קיימות מספר דרכים להעברת נתוני מסדי נתונים באינטרנט של Access:
 
-- ייבוא למסד נתונים Access מקומי (. ACCDB) או לקובץ Excel.
-- כמו כן, מומלץ לסייר Microsoft PowerApps כפלטפורמה חלופי כדי ליצור פתרונות עסקיים ללא קוד לאינטרנט ולהתקנים ניידים.
+- ייבוא למסד נתונים מקומי של Access (. ACCDB) או לקובץ Excel.
+- כמו כן, אנו ממליצים לחקור את Microsoft PowerApps כפלטפורמה חלופית כדי ליצור פתרונות עסקיים ללא קוד עבור מכשירים לאינטרנט ולמכשירים ניידים.

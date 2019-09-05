@@ -1,6 +1,6 @@
 ---
-title: פתרון הבעיה - המשתמש לא נמצא בספריה
-ms.author: kirks
+title: פתרון בעיות-משתמש לא נמצא בספריה
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544864"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754193"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>פתרון הבעיה - המשתמש לא נמצא בספריה
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>פתרון בעיות-משתמש לא נמצא בספריה
 
-אם משתמשים מקבלים שגיאה הודעת "המשתמש לא נמצא' בספריה. נא נסה שוב כאשר סוג הבעיה אינו משתמש בספריה.
+אם משתמשים מקבלים הודעת שגיאה "לא ניתן למצוא את המשתמש" בספריה. נא נסה שוב כאשר משתמש סוג הנושא אינו בספריה.
 
-יש להשלים את השלבים הבאים כדי לפתור את הבעיה.
+ניתן להשלים את השלבים הבאים כדי לפתור את הבעיה.
 
-- ודא שהחשבון קיבל שההזמנה בדוא ל הוא באותו חשבון אשר משמש להיכנס במועד מאוחר יותר. ודא כי המשתמש עושה שימוש באותו החשבון כדי לקבל את ההזמנה או להיכנס אל האתר. 
+- ודא שהחשבון שקיבל את ההזמנה בדואר האלקטרוני הוא אותו חשבון המשמש לכניסה מאוחר יותר. ודא שהמשתמש משתמש באותו חשבון כדי לקבל את ההזמנה ולהיכנס לאתר. 
 
-לקבלת מידע נוסף, ראה [כיצד לנהל כינויים עבור חשבון Microsoft שלך</a> כדי לנהל את הכניסה Office 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+לקבלת מידע נוסף, ראה [כיצד לנהל כינויים</a> עבור חשבון Microsoft שלך כדי לנהל את הכניסה למשרד 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- דפדף אל כל אתרים שבו המשתמש מקבל את השגיאה. 
+- דפדף לכל אתר (ים) שבו המשתמש מקבל את השגיאה. 
 
-הוספת "/ _layouts/15/people.aspx/membershipgroupid=0" (בתוך מרכאות כפולות) לסוף כתובת ה-URL של האתר. 
+הוסף את המילה "/_layouts/15/people.aspx/membershipgroupid = 0" (בתוך המרכאות הכפולות) עד לסוף כתובת ה-URL של האתר. 
 
-דוגמה: https://_lT _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+דוגמה: https://< _ "contoso">. sharepoint. com/_ פריסות/15/אנשים. aspx/מחבר שיפגרפיד = 0.
 
 - בחר את המשתמש מתוך הרשימה.
 
 - לחץ על **הסר הרשאות משתמש** מרצועת הכלים. 
--  הוסף את המשתמש ושלח את ההזמנה למשתמש.
+-  הוסף בחזרה את המשתמש ושלח ממנו את ההזמנה למשתמש.
 

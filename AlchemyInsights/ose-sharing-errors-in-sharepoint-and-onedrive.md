@@ -1,6 +1,6 @@
 ---
-title: שיתוף OSE לשגיאות ב- SharePoint ו- OneDrive
-ms.author: kirks
+title: OSE שיתוף שגיאות ב-SharePoint ו-OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543134"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752969"
 ---
-# <a name="ose-sharing-errors"></a>שגיאות שיתוף OSE
+# <a name="ose-sharing-errors"></a>שגיאות שיתוף של OSE
 
-המאמר עוסק שגיאות שונות בהן אתה עשוי להיתקל בעת שיתוף קבצים או תיקיות מתוך SharePoint Online או OneDrive עבור העסק ב- Office 365. עליך להיות כללי או מנהל SharePoint בארגון שלך כדי לתקן שגיאות אלה. אם אינך מנהל, פנה אל מחלקת התמיכה שלך ולתת להם את קוד השגיאה.
+המאמר מכסה את השגיאות השונות שבהן אתה עשוי להיתקל בעת שיתוף קבצים או תיקיות מ-SharePoint Online או OneDrive עבור עסקים ב-Office 365. עליך להיות מנהל כללי או של SharePoint בארגון שלך כדי לתקן שגיאות אלה. אם אינך מנהל מערכת, פנה אל צוות העזרה שלך וספק להם את קוד השגיאה.
 
-לקבלת מידע נוסף על קודי השגיאה OSE, ראה [שיתוף שגיאות ב- SharePoint ו- OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+לקבלת מידע נוסף אודות קודי שגיאת OSE, ראה [שיתוף שגיאות ב-SharePoint ו-OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
