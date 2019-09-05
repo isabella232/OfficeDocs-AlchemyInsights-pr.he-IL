@@ -1,5 +1,5 @@
 ---
-title: לשחזר קבוצה שנמחקה Yammer
+title: שחזור קבוצת ימר שנמחקה
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: b3adc5045a7fa8abea04fd1a79466cb6f8fca1a7
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753254"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745146"
 ---
-# <a name="restore-a-deleted-yammer-group"></a><span data-ttu-id="75fd2-102">לשחזר קבוצה שנמחקה Yammer</span><span class="sxs-lookup"><span data-stu-id="75fd2-102">Restore a deleted Yammer group</span></span>
+# <a name="restore-a-deleted-yammer-group"></a><span data-ttu-id="564c8-102">שחזור קבוצת יממר שנמחקה</span><span class="sxs-lookup"><span data-stu-id="564c8-102">Restore a deleted Yammer group</span></span>
 
-<span data-ttu-id="75fd2-103">[Office 365 מחובר קבוצות ב- Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) ניתן לשחזר בתוך 30 ימים של מחיקה על-ידי ביצוע השלבים הבאים כדי [לשחזר קבוצה שנמחקה של Office 365](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54).</span><span class="sxs-lookup"><span data-stu-id="75fd2-103">[Office 365 connected groups in Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) can be restored within 30 days of deletion by following the steps to [Restore a deleted Office 365 Group](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54).</span></span>
-<span data-ttu-id="75fd2-104">במקרים מסוימים ייתכן שלא מחובר קבוצה Yammer לקבוצת Office 365.</span><span class="sxs-lookup"><span data-stu-id="75fd2-104">In some cases a Yammer group may not be connected to an Office 365 group.</span></span> <span data-ttu-id="75fd2-105">אם זהו המקרה, אין אפשרות לשחזר באופן אוטומטי את הקבוצה, אך ייתכן שתהיה אפשרות לגשת לנתונים שנמחקו Yammer [ייצוא נתונים](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) אם הגדרת רשת [מדיניות שמירה של נתונים](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) כדי *למחוק רכים*.</span><span class="sxs-lookup"><span data-stu-id="75fd2-105">If this is the case, it is not possible to automatically restore the group, but it may be possible to access the deleted data in the Yammer [data export](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) if the network [data retention policy](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) is set to *Soft Delete*.</span></span> <span data-ttu-id="75fd2-106">פנה [למנהל לאמת](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) עבור רשת Yammer שלך כדי לבדוק את מדיניות השמירה של נתונים, או כדי לבצע ייצוא של נתונים.</span><span class="sxs-lookup"><span data-stu-id="75fd2-106">Contact the [Verified Administrator](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) for your Yammer network to check the data retention policy, or to perform a data export.</span></span>
+<span data-ttu-id="564c8-103">ניתן לשחזר את [הקבוצות המחוברות של office 365 ביאממר](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) תוך 30 יום ממחיקה על-ידי ביצוע השלבים [לשחזור קבוצת Office 365 שנמחקה](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).</span><span class="sxs-lookup"><span data-stu-id="564c8-103">[Office 365 connected groups in Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) can be restored within 30 days of deletion by following the steps to [Restore a deleted Office 365 Group](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).</span></span>
+<span data-ttu-id="564c8-104">במקרים מסוימים ייתכן שקבוצת Yammer לא תהיה מחוברת לקבוצת Office 365.</span><span class="sxs-lookup"><span data-stu-id="564c8-104">In some cases a Yammer group may not be connected to an Office 365 group.</span></span> <span data-ttu-id="564c8-105">אם זהו המצב, אין אפשרות לשחזר באופן אוטומטי את הקבוצה, אך ייתכן שיהיה ניתן לגשת לנתונים שנמחקו [בייצוא הנתונים](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) של yammer אם [מדיניות השמירה של נתוני](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) הרשת מוגדרת *כמחיקה רכה*.</span><span class="sxs-lookup"><span data-stu-id="564c8-105">If this is the case, it is not possible to automatically restore the group, but it may be possible to access the deleted data in the Yammer [data export](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) if the network [data retention policy](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) is set to *Soft Delete*.</span></span> <span data-ttu-id="564c8-106">פנה אל [מנהל המערכת שאומת](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) כדי לבדוק את מדיניות שמירת הנתונים, או כדי לבצע ייצוא נתונים.</span><span class="sxs-lookup"><span data-stu-id="564c8-106">Contact the [Verified Administrator](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) for your Yammer network to check the data retention policy, or to perform a data export.</span></span>
