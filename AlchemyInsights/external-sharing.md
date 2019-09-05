@@ -12,34 +12,34 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2389"
-ms.openlocfilehash: 25276298935449e93ac07d132e4ff4d726516c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f22e17b9951ee119093444a6d5d7e9a6087da646
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526068"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735930"
 ---
 # <a name="external-sharing"></a>שיתוף חיצוני
 
-אם הארגון שלך מבצע את העבודה הכרוכה שיתוף מסמכים או שיתוף פעולה באופן ישיר עם ספקים, לקוחות או לקוחות ולאחר מכן באפשרותך להשתמש את [חיצוני שיתוף תכונות של SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) לשיתוף תוכן עם אנשים מחוץ שלך ארגון.
+אם הארגון שלך מבצע עבודה המערבת שיתוף מסמכים או שיתוף פעולה ישירות עם ספקים, לקוחות או לקוחות, באפשרותך להשתמש [בתכונות השיתוף החיצוני של SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) כדי לשתף תוכן עם אנשים מחוץ ל ארגון.
 
-לקבלת מידע נוסף אודות שיתוף חיצוני, אנא בקר באתר הקישורים שלהלן:
+לקבלת מידע נוסף על שיתוף חיצוני, בקר בקישורים הבאים:
 
 - [הפעלה או ביטול של שיתוף חיצוני עבור SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
-- [להפעיל או לבטל שיתוף עבור אתר חיצוני](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
-- [הגדרות שיתוף לכל סוג אתר ברירת מחדל](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
-- [להשתמש ב- Sharepoint Online כפתרון אקסטרא-נט עסק לעסק (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
-- [שיתוף קבצים של SharePoint או תיקיה](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [הפסק שיתוף קבצים OneDrive או SharePoint או תיקיות או לשנות הרשאות](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&rs=en-US&ad=US)
-- [גישת אורח ב- Microsoft צוותים](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- [אורח Microsoft שיתוף הגדרות הפניה (תכלת הרקיע של Active Directory, Microsoft 365 ו- SharePoint במצב מקוון)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [הפעלה או ביטול של שיתוף חיצוני עבור אתר](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [הגדרות שיתוף המהווה ברירת מחדל לכל סוג אתר](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [השתמש ב-Sharepoint Online כפתרון אקסטרא-נט של עסק לעסקים (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [שיתוף קבצים או תיקיות של SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [הפסק לשתף קבצים או תיקיות של קובץ OneDrive או SharePoint, או שנה הרשאות](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [גישה לאורחים בצוותי Microsoft](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [הפניה להגדרות שיתוף האורח של Microsoft (מדריך פעיל, Microsoft 365 ו-SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
-מקבל שגיאה עם משתמש חיצוני?בדוק את הקישורים שלהלן:
+מקבל שגיאה באמצעות משתמש חיצוני?בדוק את הקישורים הבאים:
 
-- ["Access נדחתה", "דרושה לך הרשאה לגשת לאתר זה", או "המשתמש לא נמצא, ספריה של" שגיאות ב- SharePoint Online ו- OneDrive עבור העסק](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["מדיניות הארגון שלך אינן מאפשרות לך לשתף עם משתמשים אלה" שגיאה בעת שיתוף פריט או אתר SharePoint Online או OneDrive עבור העסק](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [אפשרויות שיתוף הם greyed החוצה בעת שיתוף מקוון של SharePoint או OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [הודעת שגיאה כאשר משתמש חיצוני מקבל ההזמנה המקוונת של SharePoint באמצעות חשבון אחר](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [OSE שיתוף שגיאות ב- SharePoint ו- OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["הגישה נדחתה", "אתה צריך הרשאה כדי לגשת לאתר זה", או "משתמש לא נמצא בספרייה" שגיאות ב-SharePoint Online ו-OneDrive עבור עסקים](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["המדיניות של הארגון שלך אינה מאפשרת לך לשתף עם משתמשים אלה" בעת שיתוף פריט או אתר ב-SharePoint Online או OneDrive עבור עסקים](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [אפשרויות שיתוף ממגרבלות בעת שיתוף מ-SharePoint Online או OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [הודעת שגיאה כאשר משתמש חיצוני מקבל הזמנה של SharePoint Online באמצעות חשבון אחר](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [שגיאות של OSE שיתוף ב-SharePoint ו-OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

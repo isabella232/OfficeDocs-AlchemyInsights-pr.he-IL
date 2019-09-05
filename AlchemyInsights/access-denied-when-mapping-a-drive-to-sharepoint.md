@@ -1,5 +1,5 @@
 ---
-title: Access נדחתה בעת מיפוי כונן ל- SharePoint
+title: הגישה נדחתה בעת מיפוי כונן ל-SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495860"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737478"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>פתור בעיות הקשורות ספריות SharePoint מיפוי כונני רשת
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>תיקון בעיות בספריות SharePoint הממופות לכונני רשת
 
-כשאתה אתה גולש אל כונן רשת ממופה, אתה עשוי לראות אחת מההודעות הבאות:
+כאשר אתה גולש לכונן רשת ממופה, ייתכן שתראה אחת מההודעות הבאות:
   
-- **\\הנתיב אינו נגיש. אין לך הרשאה לשימוש במשאב רשת זה. פנה אל מנהל המערכת של שרת זה כדי לברר אם יש לך הרשאות גישה.**
+- **\\נתיב אינו נגיש. ייתכן שאין לך הרשאה להשתמש במשאב רשת זה. פנה למנהל שרת זה כדי לברר אם יש לך הרשאות גישה.**
 
-- **Access נדחתה. לפני פתיחת קבצים במיקום זה, עליך תחילה להוסיף אתר אינטרנט לרשימת האתרים המהימנים שלך, עיין באתר האינטרנט, ולבחור באפשרות להיכנס באופן אוטומטי.**
+- **. הגישה נדחתה לפני פתיחת קבצים במיקום זה, עליך להוסיף תחילה את אתר האינטרנט לרשימת האתרים המהימנים שלך, לדפדף לאתר האינטרנט ולבחור את האפשרות להתחבר באופן אוטומטי.**
 
-[קבל עזרה לפתרון בעיות כונני הרשת הממופים](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[קבל עזרה בפתרון בעיות בכונני רשת ממופים](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-מיפוי ספריית ככונן רשת הוא זמני נתמכים רק ב- Internet Explorer. במקום זאת, [לסנכרן קבצים SharePoint עם לקוח הסינכרון החדש OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) אשר כולל [קבצים לפי דרישה](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Access את כל הקבצים שלך OneDrive ללא שימוש בשטח אחסון מקומי.
+מיפוי ספריה ככונן רשת הוא זמני ונתמך רק ב-Internet Explorer. במקום זאת, [סנכרן קבצי SharePoint עם הלקוח החדש של סינכרון OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) הכולל [קבצים לפי דרישה](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). גש אל כל הקבצים שלך ב-OneDrive ללא שימוש בשטח אחסון מקומי.
   

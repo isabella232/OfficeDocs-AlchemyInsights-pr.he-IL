@@ -1,5 +1,5 @@
 ---
-title: בדוק את מצב הסינכרון של זהות AAD
+title: בדוק את מצב סנכרון הזהות של התעודה
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520560"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738522"
 ---
-# <a name="check-aad-identity-sync-status"></a>בדוק את מצב הסינכרון זהות AAD
+# <a name="check-aad-identity-sync-status"></a>בדוק את מצב סנכרון הזהויות של אד-עמ
 
 בדיקת מצב סינכרון היא קלה:
   
-- היכנס למרכז הניהול של Microsoft 365 ובחרו **מצב DirSync** בדף הבית.
+- היכנס למרכז הניהול של Microsoft 365 ובחר **במצב Dirsync** בדף הבית.
 
-- לחלופין, באפשרותך לעבור אל משתמשים \> משתמשים פעילים, ובחר בדף משתמשים פעילים, יותר \> סינכרון ספריות.
+- לחלופין, באפשרותך לעבור \> למשתמשים פעילים של users, ובעמוד המשתמשים הפעילים, בחר באפשרות סינכרון ספריות נוסף \> .
 
-- סינכרון ספריות בחלונית, בחר מעבר אל ניהול DirSync.
+- בחלונית סינכרון ספריות, בחר עבור לניהול DirSync.
 
-אם קיימת בעיה עם סינכרון הספריה שלך, השגיאות מפורטים בדף זה. לקבלת מידע נוסף אודות שגיאות שונות שבהן אתה עשוי להיתקל, ראה [שגיאות סינכרון מדריך הכתובות של זיהוי ב- Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).
+אם קיימת בעיה בסינכרון הספריות, השגיאות מפורטות בדף זה. לקבלת מידע נוסף אודות שגיאות שונות שבהן אתה עשוי להיתקל, ראה [הצגת שגיאות סינכרון ספריות ב-Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

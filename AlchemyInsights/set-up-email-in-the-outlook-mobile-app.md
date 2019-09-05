@@ -1,5 +1,5 @@
 ---
-title: הגדרת דואר אלקטרוני ב- app נייד של Outlook 1800014
+title: 1800014 הגדרת דואר אלקטרוני ב-Outlook האפליקציה הניידת
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509181"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734166"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>הגדר דואר אלקטרוני ב- app נייד של Outlook
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>הגדרת דואר אלקטרוני ביישום הנייד של Outlook
 
-1. בחר **להתחיל** אם הוא שלך הראשון זמן הגדרת דואר אלקטרוני ב- app נייד. אחרת, הקש על **תפריט** ולאחר מכן הקש על **הגדרות** \> **הוספת חשבון** \> **להוסיף חשבון דואר אלקטרוני**.
+1. בחר באפשרות ' **התחל** ' אם זו הפעם הראשונה שאתה מגדיר דואר אלקטרוני באפליקציה הניידת. אחרת, הקש על **תפריט** ולאחר מכן הקש על **הגדרות** \> **הוספת** \> **חשבון הוספת חשבון דואר אלקטרוני**.
 
-2. הזן את כתובת הדואר האלקטרוני המלאה שלך ואת הקש על **המשך** או **הוספת חשבון**.
+2. הזן את כתובת הדואר האלקטרוני המלאה שלך והקש על **המשך** או **הוסף חשבון**.
 
-3. הזן את סיסמת חשבון הדואר האלקטרוני שלך ואת הקש על **כניסה** או **הבא**.
+3. הזן את סיסמת חשבון הדואר האלקטרוני שלך והקש על **כניסה פנימה** או **הבא**.
 
-4. אם [אימות מגורמים רבים](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) מופעלת, לאמת באמצעות שיטת שהגדרת (קוד 6 ספרות, שיחת טלפון או app מאמת Microsoft).
+4. אם [אימות מרובה-גורמים](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) מאופשר, ודא שימוש בשיטה שתגדיר (קוד של 6 ספרות, שיחת טלפון או יישום מאמת של Microsoft).
 
-5. אם מדיניות ניהול IT נוספים נמצאים במקומם, הקש על **הפעל** כדי להפוך אותם לזמינים.
+5. אם קיימים במקומם מדיניות ניהול מנהל IT נוספת, הקש על **Activate** כדי להפוך אותם לזמינים.
 
-6. Outlook עשויים לבקש הרשאה לגשת לוח שנה, אנשי קשר ומידע אחר. בחר **כן** או **לאפשר**.
+6. Outlook עשוי לבקש הרשאה לגשת ללוח השנה, לאנשי הקשר ולמידע אחר. בחר **באפשרות**' **כן** ' או ' התר '.
 
-קבל הוראות עבור [Android של Outlook](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) או [Outlook עבור iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) כאן להגדיר מפורט.
+קבל מפורט הוראות להגדיר עבור [Outlook עבור אנדרואיד](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) או [Outlook עבור iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) כאן.
   
  **זקוק לעזרה?**
   
-- [פתרון בעיות בהתקנה דוא בנייד](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [פתרון בעיות בהתקנת דואר אלקטרוני בנייד](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [קבלת עזרה ב- app עבור Outlook עבור iOS ו- Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [קבל ב-app עזרה עבור Outlook עבור iOS ו-Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

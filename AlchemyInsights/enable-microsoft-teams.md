@@ -1,5 +1,5 @@
 ---
-title: הפעל את Microsoft צוותים
+title: הפיכת צוותי Microsoft לזמינים
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "737"
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 78d555d5c93abbdcfd6ebf4a44c8904c7b08625d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527583"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736110"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>אפשר ולהשתמש Microsoft צוותים
+# <a name="enable-and-use-microsoft-teams"></a>הפעל והשתמש בצוותי Microsoft
 
-אם אין לך כלל גישה לצוותים Microsoft, להוציא [כיצד לקבל גישה אל Microsoft צוותים](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
+אם אין לך גישה לצוותי Microsoft בכלל, בדוק [כיצד אוכל לקבל גישה לצוותי microsoft](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
 
-אם כבר יש צוותים Microsoft ועליך לדעת כיצד להגדיר ולנהל אותו, ראה [הגדרות מנהל עבור Microsoft צוותים](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
+אם כבר יש לך צוותי Microsoft ועליך לדעת כיצד להגדיר ולנהל אותו, ראה [ניהול הגדרות של צוותי Microsoft עבור הארגון שלך](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).

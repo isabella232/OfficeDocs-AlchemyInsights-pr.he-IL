@@ -1,5 +1,5 @@
 ---
-title: ניהול קבוצות ב- Yammer
+title: ניהול קבוצות ביאממר
 ms.author: pebaum
 author: pebaum
 ms.date: 8/3/2018
@@ -11,20 +11,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: e3b1c8d7bfab350f2ee4bede0515c90be8c1fad3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 657e2f11a18d22e63765f3781c92aa4be42af40c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496976"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735030"
 ---
-# <a name="manage-groups-in-yammer"></a>ניהול קבוצות ב- Yammer
+# <a name="manage-groups-in-yammer"></a>ניהול קבוצות ביאממר
 
-- **הרשאת יצירת קבוצה.** Yammer אינה קובעת מי יכול ליצור קבוצה. עם זאת, קיימת אפשרות לניהול יצירת קבוצה עבור קבוצות מחוברות של Office 365. לקבלת מידע נוסף, ראה [ניהול מי יכול ליצור קבוצות של Office 365](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618).
+- **הרשאת יצירה קבוצתית.** . יאממר לא שולט במי שיכול ליצור קבוצה עם זאת, ניתן לנהל את היצירה הקבוצתית עבור קבוצות מקושרות של Office 365. ראה [ניהול מי יכול ליצור קבוצות של Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups) לקבלת מידע נוסף.
 
-- **חברות בקבוצה דינאמי.** נא עיין [ביצירת דינאמי לקבץ ב- Yammer](https://support.office.com/article/create-a-dynamic-group-in-yammer-6d2a6ec7-1d65-46bb-b253-1bf441ec80a5)לקבלת מידע אודות יצירת חברות דינאמי עבור Yammer מחובר קבוצות של Office 365.
+- **חברות בקבוצה דינאמית.** נא עיין [ביצירת קבוצה דינאמית ביאממר](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) לקבלת מידע על יצירת חברות דינאמיות עבור החברה המחוברת ל-Office 365 קבוצות.
 
-- **שחזור קבוצות שנמחקו.** שחזור Office 365 קבוצות Yammer מחובר אפשרי [לשחזר קבוצה שנמחקה Office 365](https://support.office.com/article/Restore-a-deleted-Office-365-Group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54) שאינם מחוברים באמצעות קבוצות לא ישוחזרו לאחר המחיקה.
+- **שחזור קבוצות שנמחקו.** שחזור של Office 365 מחובר לקבוצות Yammer אפשרי באמצעות שחזור לא ניתן לשחזר קבוצות של [office 365 שאינן מחוברות לאחר המחיקה](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group) .
 
-לקבלת מידע נוסף אודות ניהול קבוצה, ראה [ניהול קבוצה ב- Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). לקבלת מידע אודות קבוצות Office 365 מחוברות, ראה [Yammer וקבוצות Office 365](https://support.office.com/article/Yammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869)
+לקבלת מידע נוסף אודות ניהול קבוצה, ראה [ניהול קבוצה ביאממר](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). לקבלת מידע אודות קבוצות מקושרות של Office 365, ראה [Yammer ו-Office 365 קבוצות](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
   

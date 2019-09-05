@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 8226b88c0f472d0e35ff462dc5a5259487a8ef06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7b16cb448684d3f68be84fda4d9de201b953ffb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497015"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734886"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>מיפוי ספריית SharePoint לכונן רשת
 
-מיפוי ספריית ככונן רשת הוא זמני נתמכים רק באמצעות Internet Explorer. עליך מדי פעם לפתוח את אתר SharePoint ב- Internet Explorer ולבחור **להישאר מחובר** כדי למנוע את הפעלת תאריך תפוגה. במקום זאת, [לסנכרן קבצים SharePoint עם לקוח הסינכרון החדש של OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> המספק [קבצים לפי דרישה](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Access את כל הקבצים שלך OneDrive ללא שימוש בשטח אחסון מקומי.
+מיפוי ספריה ככונן רשת הוא זמני ונתמך רק באמצעות Internet Explorer. לעתים עליך לפתוח את אתר SharePoint ב-Internet Explorer ולבחור באפשרות ' **שהייה חתומה '** כדי למנוע את תפוגת ההפעלה. במקום זאת,</a> [סנכרן קבצי SharePoint עם הלקוח החדש של סינכרון onedrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) המספק [קבצים לפי דרישה](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). גש אל כל הקבצים שלך ב-OneDrive ללא שימוש בשטח אחסון מקומי.
 
-אם תבחר למפות כונן במקום [באמצעות לקוח סינכרון OneDrive חדש](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), ודא שבצע את הפעולות המתוארות במאמר שלהלן. 
-
-
-**כיצד להגדיר תצורה ולפתור את כונני הרשת הממופים**
+אם תבחר למפות כונן במקום [להשתמש בלקוח סינכרון OneDrive החדש](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), ודא שאתה מבצע את השלבים במאמר שלהלן. 
 
 
-ראה [קביעת תצורה של פתרון בעיות כונני הרשת הממופים](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US).
+**כיצד להגדיר ולפתור בעיות בכונני רשת ממופים**
 
-הערה: אם אתה משתמש ב- Internet Explorer 10 עם Windows 8 או ב- Windows 7 ולקבל **נדחתה על-ידי Access** או **הנתיב הוא אינו נגיש** בעת מיפוי כונן, להתקין [תיקון חם זה](https://support.microsoft.com/help/2846960) כדי לפתור בעיה זו. 
+
+ראה [פתרון בעיות של כונני רשת ממופים המתחברים אל SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+
+הערה: אם אתה משתמש ב-Internet Explorer 10 עם Windows 8 או Windows 7, ומקבל **גישה שנדחתה** או **שהנתיב אינו נגיש** בעת מיפוי כונן, התקן [תיקון חם זה](https://support.microsoft.com/help/2846960) כדי לפתור בעיה זו. 

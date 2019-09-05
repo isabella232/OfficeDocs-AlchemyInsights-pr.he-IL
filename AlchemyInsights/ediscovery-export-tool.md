@@ -1,5 +1,5 @@
 ---
-title: כלי ייצוא גילוי אלקטרוני
+title: כלי הייצוא של eDiscovery
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528264"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736326"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>אין אפשרות להתקין או להפעיל גילוי אלקטרוני כלי ייצוא?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>אין אפשרות להתקין או להפעיל את כלי הייצוא של eDiscovery?
 
-אם אין באפשרותך להתקין או להפעיל את כלי ייצוא כדי להוריד את תוצאות החיפוש של גילוי אלקטרוני של Office 365, בדוק את הדברים הבאים:
+אם אין באפשרותך להתקין או להפעיל את כלי הייצוא של Office 365 eDiscovery כדי להוריד תוצאות חיפוש, בדוק את הדברים הבאים:
   
-- המחשב שבו אתה משתמש עונה על דרישות מוקדמות אלה:
+- המחשב בו אתה משתמש עונה על דרישות מראש אלה:
 
-  - גירסאות 32 או 64 סיביות של Windows 7 ומעלה
+  - 32-או גירסאות 64 סיביות של Windows 7 וגירסאות מאוחרות יותר
 
-  - Microsoft .NET Framework 4.7
+  - מיקרוסופט .NET framework 4.7
 
   - דפדפן נתמך:
 
-  - קצה של Microsoft
+  - מיקרוסופט אדג '
 
     או
 
-  - Internet Explorer 10 ומעלה
+  - Internet Explorer 10 וגירסאות מאוחרות יותר
 
-    בדפדפנים אחרים, כגון Google Chrome ו- Mozilla Firefox אינן נתמכות.
+    דפדפנים אחרים, כגון Google Chrome ו-Mozilla Firefox אינם נתמכים.
 
-- הארגון שלך יכול להתחבר לנקודת הקצה בתכלת הרקיע, שהוא ** \*. blob.core.windows.net** (התו הכללי מייצג מזהה ייחודי עבור משימת ייצוא שלך).
+- הארגון שלך יכול להתחבר לנקודת הקצה בתכלת, שהיא ** \*. blob.core.windows.net** (התווים הכלליים מייצגים מזהה ייחודי עבור משימת הייצוא שלך).
 
-- מוקצית לך את תפקיד ייצוא ב- Office 365 האבטחה &amp; מרכז תאימות. כברירת מחדל, תפקיד זה מוקצה לקבוצת התפקיד של מנהל גילוי אלקטרוני בלבד. ראה [הקצאת הרשאות גילוי אלקטרוני](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- מוקצית לך תפקיד הייצוא במרכז תאימות האבטחה &amp; של Office 365. כברירת מחדל, תפקיד זה מוקצה רק לקבוצת התפקידים ' מנהל eDiscovery '. ראה [הקצאת הרשאות eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-לקבלת מידע נוסף, ראה [ייצוא תוכן התוצאות](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+לקבלת מידע נוסף, ראה [ייצוא תוצאות חיפוש תוכן](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

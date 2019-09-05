@@ -1,6 +1,6 @@
 ---
-title: Access נדחתה בעת הצגת זרימת עבודה
-ms.author: kirks
+title: הגישה נדחתה בעת הצגת זרימת עבודה
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495824"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747749"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Access נדחתה בעת הצגת זרימת עבודה
+# <a name="access-denied-when-viewing-a-workflow"></a>הגישה נדחתה בעת הצגת זרימת עבודה
 
-זרימות עבודה 2013 SharePoint המנסות לשלוח דואר אלקטרוני אל קבוצת SharePoint עלולים להיכשל עם הודעת שגיאה "Access נדחתה" אם החברות בקבוצת SharePoint אינו מוגדר לכולם.
+SharePoint 2013 זרימות עבודה שמנסות לשלוח הודעת דואר אלקטרוני לקבוצת SharePoint יכולה להיכשל בהודעת שגיאה "הגישה נדחתה" אם החברות בקבוצת SharePoint אינה מוגדרת ככולם.
   
  **כדי לפתור בעיה זו, בצע את הפעולות הבאות:**
   
- 1. אפשר את כולם לראות את חברי קבוצת SharePoint.
+ 1. אפשר לכולם לראות את החברים בקבוצת SharePoint.
   
- 2. הסר את הקבוצה SharePoint אל או עותק שורה של הודעת הדואר האלקטרוני.
+ 2. הסר את קבוצת SharePoint מהשורה ' אל ' או ' עותק ' של הדואר האלקטרוני.
   
- 3. להוסיף באופן מפורש את המשתמשים אל או עותק שורה אם לא ניתן לשנות את הניראות של חברות עבור קבוצת SharePoint.
+ 3. הוסף במפורש את המשתמשים לשורה ' אל ' או ' עותק ' אם אין אפשרות לשנות את ניראות החברות עבור קבוצת SharePoint.
   
-כדי להציג פרטים נוספים נא עיין [בלתי מורשית של HTTP כדי /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+כדי לצפות בפרטים נוספים, עיין ב- [HTTP לא מורשה ל-/_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

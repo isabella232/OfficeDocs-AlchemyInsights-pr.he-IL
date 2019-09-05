@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501692"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743346"
 ---
 # <a name="solutions-for-error-30068-39"></a>פתרונות עבור שגיאה 30068-39
 
-נסה פתרונות אלה כדי לתקן שגיאה [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
+נסה את הפתרונות הבאים כדי לתקן שגיאה [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
   
-- הפעל מחדש את המחשב ונסה [להתקין את Office](https://portal.office.com/OLS/MySoftware.aspx).
+- הפעל מחדש את המחשב ונסה להתקין את [Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- בדוק אם **Microsoft ' לחץ והפעל**[השירות אינו זמין](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) אם היא אינה זמינה, לשנות את המצב **ידני** או **אוטומטי**.
+- בדוק אם שירות **הלחיצה-להפעלה של Microsoft** [אינו זמין](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) ואם הוא אינו זמין, שנה את המצב לידני או **** לאוטומטי. ****
 
-- הורד והתקן את [התמיכה ומסייע השחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- הורד והתקן את [מסייע התמיכה והשחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. כשהוא נפתח, מתוך **מוצרים להסיר את ההתקנה של Office** , בחר את הגירסה שברצונך להסיר ובחר **הבא**.
+1. כאשר הוא נפתח, מתוך הסרת התקנה של **מוצרי Office** בחר בגירסה שברצונך להסיר את התקנתה ובחר **הבא**.
 
-2. המשך לעבור מסכים והפעל מחדש את המחשב כאשר תתבקש לעשות זאת.
+2. המשך לעבור בין מסכים והפעל מחדש את המחשב כשתתבקש.
 
-    לאחר ההפעלה מחדש, התמיכה ומסייע השחזור פותח באופן אוטומטי מחדש כדי להשלים את תהליך הסרת ההתקנה.
+    לאחר הפעלה מחדש, מסייע התמיכה והשחזור נפתח מחדש באופן אוטומטי כדי להשלים את תהליך הסרת ההתקנה.
 
-3. בצע את שאר ההנחיות, ולהתקין [מחדש את Office](https://portal.office.com/OLS/MySoftware.aspx) או לסגור המסייע.
+3. בצע את ההנחיות הנותרות [והתקן מחדש את Office](https://portal.office.com/OLS/MySoftware.aspx) או סגור את המסייע.

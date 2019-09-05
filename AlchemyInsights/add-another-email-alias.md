@@ -1,5 +1,5 @@
 ---
-title: הוספת כינוי דואר אלקטרוני אחר
+title: הוסף כינוי דואר אלקטרוני נוסף
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: c6ac69ab9a6063b2f42542c05cd7d21ec7d7be57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495104"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737334"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>יצירה או הוספה של כינוי דואר אלקטרוני עבור משתמש
 
 עליך ליצור כינוי דואר אלקטרוני עבור משתמש או להוסיף כתובת דואר אלקטרוני נוספת? פשוט בצע שלבים אלה!
   
-1. במרכז הניהול של Microsoft 365, לעבור אל הדף ' [משתמשים](https://go.microsoft.com/fwlink/p/?linkid=834822) ', או בחרו **משתמשים** \> **משתמשים פעילים**.
+1. במרכז הניהול של Microsoft 365, עבור אל הדף [users](https://go.microsoft.com/fwlink/p/?linkid=834822) , או בחר **משתמשים** \> **פעילים**.
     
 2. בדף **משתמשים פעילים**, בחר את שם האדם שברצונך לערוך. 
     
@@ -34,6 +34,6 @@ ms.locfileid: "36495104"
     
     לרוב יחלפו כ- 30 דקות עד שהכינוי החדש ייכנס לתוקף.
     
-    **לקבלת פרטים נוספים, עיין במאמר זה:**[הוספה של כינויי דואר אלקטרוני נוספים למשתמש](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    **לפרטים נוספים, ראה מאמר זה:** [הוספת כינוי דואר אלקטרוני נוסף למשתמש](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 

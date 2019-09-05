@@ -1,5 +1,5 @@
 ---
-title: OneDrive בעיות נפוצות ופתרונות
+title: OneDrive בעיות נפוצות החלטות
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -11,20 +11,20 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: ffd92db8c2ff810e1cc12dae3cf9a5cb559a8f9d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1aaac66a914b159dad64cce0950e46b04bf4685a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660865"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734274"
 ---
-# <a name="onedrive-common-issues-and-resolutions"></a>OneDrive בעיות נפוצות ופתרונות
+# <a name="onedrive-common-issues-and-resolutions"></a>OneDrive בעיות נפוצות החלטות
 
-להלן חלק מהנושאים המבוקש לעתים קרובות לגבי בעיות OneDrive:
+להלן מספר נושאים המבוקשים לעתים קרובות לגבי בעיות OneDrive:
 
-- **הגדרת סינכרון OneDrive**: [הסינכרון שלך OneDrive עבור קבצים עסקיים](https://go.microsoft.com/fwlink/?linkid=533375) או [לסנכרן קבצים SharePoint](https://go.microsoft.com/fwlink/?linkid=871666) עם הלקוח סינכרון OneDrive עבור Windows.  באמצעות Mac? באפשרותך [לסנכרן קבצים עם OneDrive](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) עם אותו גם כן.
+- **הגדרת סינכרון onedrive**: [סנכרן את onedrive שלך עבור קבצים עסקיים](https://go.microsoft.com/fwlink/?linkid=533375) או [סינכרון קבצי SharePoint](https://go.microsoft.com/fwlink/?linkid=871666) עם לקוח סינכרון onedrive עבור Windows.  משתמש ב-Mac? באפשרותך [לסנכרן גם קבצים עם OneDrive](https://support.office.com/article/Sync-files-with-the-OneDrive-sync-client-on-Mac-OS-X-d11b9f29-00bb-4172-be39-997da46f913f) .
 
-- **פתרון בעיות סינכרון OneDrive**: OneDrive אם לא לסנכרן קבצים כפי שציפית, באפשרותך [לפתור בעיות סינכרון OneDrive](https://go.microsoft.com/fwlink/?linkid=866431) עבור Windows. באמצעות Mac? באפשרותך [לפתור בעיות סינכרון](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756?ui=en-US&rs=en-US&ad=US) עבור אותו גם.
-- **מגבלות OneDrive**: למד אודות [הגבלות ומגבלות](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) החלים על שמות קבצים וסוגי קבצים בעת ביצוע סינכרון עם OneDrive.
-- **אחסון OneDrive**: ראה כיצד [לשנות את שטח האחסון של OneDrive של משתמש מסוים](https://docs.microsoft.com/onedrive/change-user-storage) או [לנהל את OneDrive עבור אחסון לעסק](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68).
-- **יומני ביקורת**: ראה כיצד באפשרותך [להשתמש בחיפוש יומן ביקורת](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) לבדיקת פעילות של קבצים, תיקיות, המשתמש (ים) או הרשאות. 
+- **פתור בעיות סינכרון onedrive**: אם onedrive אינו מסנכרן קבצים כפי שציפית, באפשרותך [לפתור בעיות סינכרון Onedrive](https://go.microsoft.com/fwlink/?linkid=866431) עבור Windows. משתמש ב-Mac? באפשרותך גם [לפתור](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756) בעיות סינכרון עבורו.
+- **מגבלות onedrive**: למד אודות [ההגבלות והמגבלות](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) החלות על שמות קבצים וסוגי קבצים בעת סינכרון עם onedrive.
+- **אחסון onedrive**: לראות כיצד [לשנות משתמש ספציפי onedrive שטח אחסון](https://docs.microsoft.com/onedrive/change-user-storage) או [לנהל onedrive שלך אחסון עסקי](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68).
+- **יומני ביקורת**: ראה כיצד [באפשרותך להשתמש בחיפוש יומן ביקורת](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) כדי לבדוק את הפעילות של הקבצים, התיקיות, המשתמשים או ההרשאות. 

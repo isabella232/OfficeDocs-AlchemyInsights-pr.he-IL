@@ -11,16 +11,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: 45e9e734a7b7f1fed42d52b48fd329dc43633c1d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4e0ce3d7c12ecad04e13a179fd833e6b935fadfa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661153"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737226"
 ---
 # <a name="add-or-remove-an-email-address-for-a-user"></a>הוספה או הסרה של כתובת דואר אלקטרוני עבור משתמש
 
-[בצע](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) את הפעולות הבאות במרכז הניהול של Microsoft 365 כדי להתחיל.
+[בצע את הפעולות הבאות](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) במרכז הניהול של Microsoft 365 כדי להתחיל.
 
- **הערה**: באפשרותך לקבל יותר מכתובת דואר אלקטרוני אחת עבור משתמש ** , אך ניתן להשתמש בכינויים נוספים בדואר אלקטרוני לקבלת דואר אלקטרוני בלבד. אם עליך לשלוח דואר אלקטרוני עם שם בדוי, צור [תיבת דואר משותפת](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9). בדרך זו תקבל את הכינוי לשליחה וקבלה של דואר.
+ **הערה**: באפשרותך לקבל יותר מכתובת דואר אלקטרוני אחת עבור משתמש, אך ניתן להשתמש *בכינויים נוספים בדואר* אלקטרוני לקבלת דואר אלקטרוני בלבד. אם עליך לשלוח דואר אלקטרוני עם שם בדוי, צור [תיבת דואר משותפת](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox). בדרך זו תקבל את הכינוי לשליחה וקבלה של דואר.
   

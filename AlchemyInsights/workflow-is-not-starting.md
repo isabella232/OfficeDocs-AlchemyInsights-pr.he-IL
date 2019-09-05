@@ -1,5 +1,5 @@
 ---
-title: זרימת העבודה לא מופעל
+title: זרימת עבודה אינה מתחילה
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557974"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738090"
 ---
-# <a name="workflow-is-not-starting"></a>זרימת העבודה לא מופעל
+# <a name="workflow-is-not-starting"></a>זרימת עבודה אינה מתחילה
 
-- זרימות עבודה של SharePoint 2010 ו- SharePoint 2013 אתה לא מתחיל.
+- זרימות עבודה של SharePoint 2010 ו-SharePoint 2013 אינן מתחילות.
 
-    - אם זרימת העבודה שלך לא מופעל, ייתכן שקיימת בעיית שירות זמני שבו משתמשים עלולים להיתקל עיכובים לסירוגין עם התקדמות זרימת העבודה. בדוק את [לוח המחוונים של תקינות השירות](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לראות אם הארגון שלך מושפע.
+    - אם זרימת העבודה שלך אינה מתחילה, ייתכן שקיימת בעיית שירות זמנית שבה משתמשים עלולים להיתקל בעיכובים לסירוגין עם התקדמות זרימת העבודה. בדוק את [לוח הבקרה של תקינות השירות](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.
 
-    - אם יותר מ- 24 שעות חלפו מאז שראית תחילה את הבעיה, היכנס כרטיס תמיכה. במקרים רבים, אנו אתה כבר עובד על פתרון. נא תן לנו לפחות 24 שעות להשלמת פתרון.
+    - אם חלפו יותר מ -24 שעות מאז הפעם הראשונה שראית את הנושא הזה, אנא התחבר כרטיס תמיכה. במקרים רבים, אנחנו כבר עובדים על פתרון. בבקשה תן לנו לפחות 24. שעות כדי להשלים פיתרון
 
-- זרימות עבודה של SharePoint 2010 איחור בהתחלת.
+- זרימות עבודה של SharePoint 2010 איחרו בהתחלה.
 
-    - מצב זה מתרחש אם זרימת העבודה מופעלת בקבוצות גדולות. (לדוגמה, כאשר מספר פריטים נוספים בבת אחת).
+    - מצב זה מתרחש אם זרימת העבודה מופעלת באצוות גדולות. (לדוגמה, כאשר מספר פריטים נוספים בבת אחת).
 
-    - זרימות עבודה אינה מיועדת לפעול בזמן אמת, כך עיכוב היא על-ידי עיצוב התנהגות.
+    - זרימות עבודה אינן מתוכננות לפעול בזמן אמת, כך שהשהיה היא התנהגות לפי עיצוב.
 
-   -  אם זרימת העבודה הוא מורכב להרחבה האובייקט סימון השפה (XMOL), יכול להיות איטי הידור. בדוק מאמר [זה](https://support.microsoft.com/en-us/kb/3043697) .
+   -  אם זרימת העבודה היא שפת סימון אובייקט מורחבת מורכבת (XMOL), ההידור יכול להיות איטי. בדוק [את המאמר](https://support.microsoft.com//kb/3043697) .
 
-    - עליך לפשט את זרימת העבודה או לעצב אותו באמצעות סוג פלטפורמה של Microsoft SharePoint 2013 זרימת מחדש.
+    - עליך לפשט את זרימת העבודה או לעצב אותה מחדש באמצעות סוג פלטפורמת זרימת העבודה של Microsoft SharePoint 2013.
 
-    - אם היסטוריית זרימת העבודה שלך גדלה גדול יותר, ייתכן שתרצה למחוק לצמיתות את הפריטים או ליצור רשימת היסטוריה חדשה.
+    - אם היסטוריית זרימת העבודה שלך גדלה בגדול, ייתכן שתרצה למחוק את הפריטים או ליצור רשימת היסטוריה חדשה.
 
-        מידע נוסף: [ניקוי היסטוריית זרימת עבודה](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        מידע נוסף: [נקה היסטוריית זרימת עבודה](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>נושאים קשורים
-מעוניין לנסות זרימה Microsoft ב- SharePoint Online?
+רוצה לנסות את Microsoft Flow ב-SharePoint Online?
 - [צור זרימה](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint וזרימה](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 

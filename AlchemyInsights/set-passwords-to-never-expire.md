@@ -1,5 +1,5 @@
 ---
-title: להגדיר סיסמאות יפוג לעולם
+title: הגדר סיסמאות שתוקפן לא יפוג לעולם
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: 835998c6adfbd7c0f0024aecaa5181fc5d1d89a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b74e12a2618ff34d27886eb6b8cf628f689307b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550084"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741114"
 ---
-# <a name="set-passwords-to-never-expire"></a>להגדיר סיסמאות יפוג לעולם
+# <a name="set-passwords-to-never-expire"></a>הגדר סיסמאות שתוקפן לא יפוג לעולם
 
-הגדרת סיסמאות יפוג לעולם מתוך [אבטחה &amp; פרטיות](https://portal.office.com/adminportal/home#/settings/security). לחץ על "ערוך" לצד מדיניות סיסמה, והפעל את המחוון כדי "פעיל".
+הגדר סיסמאות שלא יפוג לעולם [מפרטיות אבטחה &amp; ](https://portal.office.com/adminportal/home#/settings/security). לחץ על "עריכה" לצד מדיניות סיסמה והפעל את המחוון "on".
   
-לקבלת מידע מפורט יותר, ראה: [הגדרת מדיניות תפוגה של סיסמה עבור הארגון שלך](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).
+לקבלת מידע מפורט יותר, ראה: [הגדרת מדיניות תפוגת הסיסמה עבור הארגון שלך](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
   
 

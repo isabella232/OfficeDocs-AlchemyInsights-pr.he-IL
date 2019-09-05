@@ -1,5 +1,5 @@
 ---
-title: קוד שגיאה 5.7.501 550 נדחתה על-ידי Access, דואר זבל על שימוש לרעה זוהה
+title: קוד שגיאה 550 5.7.501 הגישה נדחתה, התעללות בדואר זבל זוהתה
 ms.author: chrisda
 author: chrisda
 ms.date: 6/28/2018
@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 577104e0517820c6dd7faf7e4db6b55ac2e5398a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527169"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740142"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>5.7.501 550 נדחתה על-ידי Access, דואר זבל על שימוש לרעה זוהה
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 הגישה נדחתה, התעללות בדואר זבל זוהתה
 
-בדרך כלל, הודעה זו מופיעה כאשר משתמשים שולחים הודעות דואר אלקטרוני מכתובות IP באמצעות הראשונית *. onmicrosoft.com* תחום המוקצה דיירים חדשים ב- Office 365. הדרך הקלה ביותר כדי לפתור בעיה זו היא:
+בדרך כלל, הודעה זו מתרחשת כאשר משתמשים שולחים הודעות דואר אלקטרוני מכתובות IP המשתמשות בקבוצת המחשבים *הonmicrosoft.com* הראשונית שהוקצתה לדיירים חדשים ב-Office 365. הדרך הקלה ביותר לפתור את הבעיה היא:
 
-1. [הוספה לתחום שלך דיירים](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx).
+1. [להוסיף דומיין לדייר שלך](https://docs.microsoft.com//office365/admin/setup/add-domain).
 
-2. [שינוי כתובת הדואר האלקטרוני הראשית של המשתמשים](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx) לקבוצת המחשבים מותאמת אישית חדשה שהוספת זה עתה.
+2. [שינוי כתובת הדואר האלקטרוני הראשית של המשתמשים](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) לתחום המותאם אישית החדש שהוספת זה עתה.
