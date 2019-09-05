@@ -1,30 +1,30 @@
 ---
-title: ויסות מקוון ב- SharePoint
-ms.author: kirks
+title: ויסות מקוונות של SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 6c940f3277e39c955adc24f22d5d9ef1591561ba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cbe6799e5b7f415e560449485ce09518c6ac2999
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502715"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749945"
 ---
-# <a name="sharepoint-online-throttling"></a>ויסות מקוון ב- SharePoint
+# <a name="sharepoint-online-throttling"></a>ויסות מקוונות של SharePoint
 
-SharePoint Online משתמשת ויסות כדי לשמור על ביצועים מיטביים ואמינות של השירות המקוון של SharePoint. ויסות מגבלות מספר פעולות המשתמש או בו-זמניים שיחות (על-ידי script או קוד) כדי למנוע שימוש יתר של משאבים. לקבלת מידע נוסף, נא בקר הקישורים שלהלן.
+SharePoint Online משתמש בוויסות כדי לשמור על ביצועים ואמינות אופטימליים של שירות SharePoint Online. האפשרות ' ויסות ' מגבילה את מספר פעולות המשתמש או שיחות בו (לפי סקריפט או קוד) כדי למנוע שימוש יתר במשאבים. למידע נוסף, אנא בקרו בקישורים שלהלן.
 
-- [להימנע מקבלת בוויסות או חסומים ב- SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [הימנע מקבלת נחנקו או חסום ב-SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-- [העברת נתונים וויסות SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
+- [העברת נתונים ויסות SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
 
-- [SharePoint במצב מקוון ומהירות ההעברה OneDrive](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [SharePoint Online ו-OneDrive מהירות הגירה](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
- - [לטפל SharePoint Online ויסות באמצעות מעריכי ויתור](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
+ - [טיפול בוויסות מקוון של SharePoint באמצעות חזרה מעריכית](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
 
-- [קיבולת תכנון וטען בדיקה מקוונת של SharePoint](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
+- [תכנון קיבולת ובדיקת עומס של SharePoint Online](https://docs.microsoft.com/office365/enterprise/capacity-planning-and-load-testing-sharepoint-online)
 

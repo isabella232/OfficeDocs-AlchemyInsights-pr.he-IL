@@ -1,5 +1,5 @@
 ---
-title: הגדרת SPF ב- Office 365
+title: הגדר SPF ב-Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d11c1c637761429c684875096397d03ac64a1b6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509109"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744786"
 ---
-# <a name="set-passwords-to-never-expire"></a>להגדיר סיסמאות יפוג לעולם
+# <a name="set-passwords-to-never-expire"></a>הגדר סיסמאות שתוקפן לא יפוג לעולם
 
-כדי להגדיר את כל הסיסמאות יפוג לעולם, במרכז הניהול של Microsoft 365, עבור אל **הגדרות** > [אבטחה &amp; פרטיות](https://portal.office.com/adminportal/home#/settings/security) הדף. בחר **ערוך** לצד **מדיניות סיסמה**, והפעל את המחוון אל ****.
+כדי להגדיר את כל הסיסמאות שלא יפוג לעולם, במרכז הניהול של Microsoft 365, עבור אל דף[הפרטיות של &amp; אבטחת](https://portal.office.com/adminportal/home#/settings/security) **ההגדרות** > . בחר ' **עריכה** ' לצד **מדיניות הסיסמה**והפעל **** את המחוון.
   
-לקבלת מידע מפורט יותר, ראה: [להגדיר מדיניות תפוגה של סיסמה עבור הארגון שלך.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
+לקבלת מידע מפורט יותר, ראה: [הגדרת מדיניות תפוגת הסיסמה עבור הארגון שלך.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[הגדר סיסמה לעולם לא יפוג עבור משתמשים מסוימים](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[הגדר סיסמה שלעולם לא תפוג עבור משתמשים מסוימים](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   

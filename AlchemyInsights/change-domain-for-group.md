@@ -1,5 +1,5 @@
 ---
-title: שינוי קבוצת המחשבים עבור קבוצת Office 365
+title: שינוי תחום עבור קבוצת Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 2d08c3b4091274daee8e47527b14865574715176
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519732"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736830"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>שינוי קבוצת המחשבים עבור קבוצת של Office 365
+# <a name="change-the-domain-for-office-365-group"></a>שינוי התחום עבור קבוצת Office 365
 
-אם ברצונך לשנות את קבוצת המחשבים עבור קבוצת Office 365 במהלך יצירת, בצע את השלבים ב [בחר את התחום שישמש בעת יצירת קבוצות של Office 365](https://support.office.com/article/7cf5655d-e523-4bc3-a93b-3ccebf44a01a.aspx).
+אם ברצונך לשנות את התחום עבור קבוצת Office 365 במהלך היצירה, בצע את השלבים [בבחירת התחום שבו יש להשתמש בעת יצירת קבוצות של Office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-לאחר שקבוצת Office 365 כבר נוצר, כעת אין דרך לשנות את התחום. הדרך היחידה היא ליצור קבוצה חדשה של Office 365 ולמחוק את הישן במידת הצורך (ניתן להוסיף כתובות דוא ל נוסף באמצעות [מרכז הניהול של Exchange](https://outlook.office365.com/ecp.aspx)).
+לאחר שקבוצת Office 365 כבר נוצרה, אין אפשרות לשנות את התחום כרגע. הדרך היחידה היא ליצור קבוצת Office 365 חדשה ולמחוק את הישן במידת הצורך (ניתן להוסיף כתובות דואר אלקטרוני נוספות באמצעות [מרכז הניהול של Exchange](https://outlook.office365.com/ecp.aspx)).

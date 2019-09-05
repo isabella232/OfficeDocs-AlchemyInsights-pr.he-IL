@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 167c4e5fe0b1be2d4c0c3931db08c02feb8fa53d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516420"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738342"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a>המרת קבוצת הפצה לקבוצת Office 365
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a>המרת קבוצת תפוצה לקבוצת Office 365
 
-באפשרותך להמיר קבוצות הפצה לקבוצות של Office 365 אם הם עומדים בקריטריונים מסוימים. כדי להמיר קבוצה או לפתור בעיות בהמרת, ראה [שדרוג רשימות תפוצה Office 365 לקבוצות ב- Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).
+באפשרותך להמיר קבוצות תפוצה ל-Office 365 קבוצות אם הם מספקים קריטריונים מסוימים. כדי להמיר קבוצה או לפתור בעיות המרה, ראה [שדרוג רשימות תפוצה ל-Office 365 קבוצות ב-Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).

@@ -1,34 +1,34 @@
 ---
-title: מבט כולל על אתרי ה-hub של SharePoint
-ms.author: kirks
+title: מבט כולל על אתרי hub של SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ace1b7adac2f1a15b8d39411f98b23df74eb29b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 585f3d06c358adffd267d76a2a31ea9b2135cccc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508316"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751457"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>מבט כולל על אתרי ה-hub של SharePoint
+# <a name="sharepoint-hub-sites-overview"></a>מבט כולל על אתרי hub של SharePoint
 
-עזרה אתרי ה-hub של SharePoint שלענות על הצרכים של הארגון שלך על-ידי התחברות וארגון של אתרים המבוססים על פרוייקט, מחלקה, חטיבה, אזור, וכד' ובכך להקל על:
+אתרי hub של SharePoint מסייעים לך לענות על הצרכים של הארגון שלך על-ידי חיבור וארגון של אתרים המבוססים על פרוייקט, מחלקה, חלוקה, אזור וכד המקלים על:
 
-- גילוי תוכן קשור כגון חדשות ופעילויות אחרות של האתר.
-
-
-- החל נפוצות ניווט ומיתוג על-פני אתרים משויך.
+- גלה תוכן מקורב כגון חדשות ופעילויות אתר אחרות.
 
 
-- חיפוש על-פני אתרים כל המשויך.
+- החל ניווט משותף ומיתוג באתרים משויכים.
 
 
-ראה [יצירת אתר רכזת ב- SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site) לקבלת מידע נוסף אודות אופן יצירת אתר רכזת מרכז Admin חדשה או Microsoft PowerShell. 
+- חפש בכל האתרים המשויכים.
 
-לקבלת מידע נוסף אודות האופן שבו ניתן לשייך של אתרים קיימים באתר הרכזת מתוך מרכז Admin חדשה או PowerShell, ראה [לשייך אתר SharePoint עם אתר רכזת](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) .  
 
-לקבלת מידע נוסף אודות האופן שבו ניתן להסיר אתר רכזת קיים מרכז Admin חדשה או PowerShell, ראה [להסיר אתר רכזת](https://docs.microsoft.com/sharepoint/remove-hub-site) . 
+ראה [יצירת אתר hub ב-SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site) לקבלת מידע נוסף אודות אופן היצירה של אתר Hub ממרכז הניהול החדש או מ-Microsoft PowerShell. 
+
+ראה [שיוך אתר SharePoint לאתר hub](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) לקבלת מידע נוסף אודות אופן השיוך של אתרים קיימים לאתר Hub ממרכז הניהול החדש או מתוך PowerShell.  
+
+ראה [הסרת אתר hub](https://docs.microsoft.com/sharepoint/remove-hub-site) לקבלת מידע נוסף אודות אופן ההסרה של אתר hub קיים ממרכז הניהול החדש או מתוך PowerShell. 
