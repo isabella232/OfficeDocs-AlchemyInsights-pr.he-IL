@@ -1,5 +1,5 @@
 ---
-title: קודי Outlook.com Facebook
+title: Outlook.com הקודים של פייסבוק
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546772"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822307"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a><span data-ttu-id="e4c92-102">אינו מקבל לקודים Outlook.com Facebook</span><span class="sxs-lookup"><span data-stu-id="e4c92-102">Not receiving Facebook codes using Outlook.com</span></span>
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a><span data-ttu-id="54929-102">לא מקבל קודים בפייסבוק באמצעות Outlook.com</span><span class="sxs-lookup"><span data-stu-id="54929-102">Not receiving Facebook codes using Outlook.com</span></span>
 
-<span data-ttu-id="e4c92-103">אם ביקש סיסמה חדשה מ- Facebook, אך לא קיבל לאיפוס הסיסמה דוא:</span><span class="sxs-lookup"><span data-stu-id="e4c92-103">If you requested a new password from Facebook but didn't receive your password reset email:</span></span>
+<span data-ttu-id="54929-103">אם ביקשת סיסמה חדשה מפייסבוק אך לא קיבלת את הדוא ל איפוס הסיסמה שלך:</span><span class="sxs-lookup"><span data-stu-id="54929-103">If you requested a new password from Facebook but didn't receive your password reset email:</span></span>
 
-- <span data-ttu-id="e4c92-104">בדוק את [דואר הזבל או תיקיית דואר זבל](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="e4c92-104">Check your [spam or junk mail folder](https://outlook.live.com/mail/junkemail).</span></span>
-- <span data-ttu-id="e4c92-105">נסה [לאפס את הסיסמה Facebook שלך שוב](https://www.facebook.com/help/213395615347144?helpref=faq_content).</span><span class="sxs-lookup"><span data-stu-id="e4c92-105">Try to [reset your Facebook password again](https://www.facebook.com/help/213395615347144?helpref=faq_content).</span></span>
+- <span data-ttu-id="54929-104">בדוק את תיקיית הדואר [הזבל או הזבל](https://outlook.live.com/mail/junkemail)שלך.</span><span class="sxs-lookup"><span data-stu-id="54929-104">Check your [spam or junk mail folder](https://outlook.live.com/mail/junkemail).</span></span>
+- <span data-ttu-id="54929-105">נסה [לאפס שוב את סיסמת הפייסבוק שלך](https://aka.ms/facebook-password-reset).</span><span class="sxs-lookup"><span data-stu-id="54929-105">Try to [reset your Facebook password again](https://aka.ms/facebook-password-reset).</span></span>
 
-<span data-ttu-id="e4c92-106">אם אין באפשרותך לאפס את הסיסמה שלך מאחר אין אפשרות לגשת דוא ל או מספר הטלפון הנייד לחשבון שלך, נסה [עצות איפוס הסיסמה של Facebook](https://www.facebook.com/help/218815984812734).</span><span class="sxs-lookup"><span data-stu-id="e4c92-106">If you can't reset your password because you can't access the email or mobile phone number on your account, try [Facebook's Password Reset Tips](https://www.facebook.com/help/218815984812734).</span></span>
+<span data-ttu-id="54929-106">אם אין באפשרותך לאפס את הסיסמה שלך מכיוון שאין באפשרותך לגשת למספר הטלפון האלקטרוני או הנייד בחשבונך, נסה את [העצות לאיפוס סיסמה של פייסבוק](https://aka.ms/facebook-password-help).</span><span class="sxs-lookup"><span data-stu-id="54929-106">If you can't reset your password because you can't access the email or mobile phone number on your account, try [Facebook's Password Reset Tips](https://aka.ms/facebook-password-help).</span></span>

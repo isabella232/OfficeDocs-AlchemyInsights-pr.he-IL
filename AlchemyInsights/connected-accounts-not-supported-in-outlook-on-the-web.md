@@ -1,5 +1,5 @@
 ---
-title: חשבונות מחוברים 1800029 אינו נתמך ב- Outlook באינטרנט
+title: 1800029 חשבונות מחוברים שאינם נתמכים ב-Outlook באינטרנט
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504769"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821803"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a><span data-ttu-id="f1ed9-102">חשבונות מחוברים אינן נתמכות עוד</span><span class="sxs-lookup"><span data-stu-id="f1ed9-102">Connected accounts are no longer supported</span></span>
+# <a name="connected-accounts-are-no-longer-supported"></a><span data-ttu-id="19e11-102">אין עוד תמיכה בחשבונות מחוברים</span><span class="sxs-lookup"><span data-stu-id="19e11-102">Connected accounts are no longer supported</span></span>
 
-<span data-ttu-id="f1ed9-103">מיקרוסופט הסירה את היכולת להוסיף חשבונות חדשים ל- Outlook באינטרנט באמצעות התכונה חשבונות מחוברים ב- 15 בספטמבר, 2018 ויעצרו סינכרון חשבונות קיימים ב- 30 באוקטובר, 2018 שהיו מחוברים לפני ה-15 בספטמבר, 2018.</span><span class="sxs-lookup"><span data-stu-id="f1ed9-103">Microsoft has removed the ability to add new accounts to Outlook on the web using the Connected accounts feature on September 15, 2018 and will stop syncing existing accounts on October 30, 2018 that were connected before September 15, 2018.</span></span> <span data-ttu-id="f1ed9-104">ב- 15 בנובמבר, האפשרות חשבונות מחוברים ( **הגדרות** \> **דואר** \> **חשבונות**) יוסרו מ- Outlook באינטרנט.</span><span class="sxs-lookup"><span data-stu-id="f1ed9-104">On November 15th, the Connected accounts option ( **Settings** \> **Mail** \> **Accounts**) will be removed from Outlook on the web .</span></span><span data-ttu-id="f1ed9-105">לקבלת מידע נוסף, ראה [חשבונות מחוברים אינו נתמך עוד ב- Outlook באינטרנט (Office 365 עבור חשבונות עסקיים)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span><span class="sxs-lookup"><span data-stu-id="f1ed9-105">  For more information see, [Connected accounts is no longer supported in Outlook on the web (Office 365 for business accounts)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span></span>
+<span data-ttu-id="19e11-103">מיקרוסופט הסירה את היכולת להוסיף חשבונות חדשים ל-Outlook באינטרנט באמצעות התכונה חשבונות מחוברים ב -15 בספטמבר, 2018 והוא יפסיק לסנכרן חשבונות קיימים ב-30 באוקטובר, 2018 שהיו מחוברים לפני 15 בספטמבר 2018.</span><span class="sxs-lookup"><span data-stu-id="19e11-103">Microsoft has removed the ability to add new accounts to Outlook on the web using the Connected accounts feature on September 15, 2018 and will stop syncing existing accounts on October 30, 2018 that were connected before September 15, 2018.</span></span> <span data-ttu-id="19e11-104">בתאריך 15 בנובמבר, האפשרות חשבונות מחוברים ( **הגדרות** \> \*\*\*\* \> **חשבונות**דואר) תוסר מ-Outlook באינטרנט.</span><span class="sxs-lookup"><span data-stu-id="19e11-104">On November 15th, the Connected accounts option ( **Settings** \> **Mail** \> **Accounts**) will be removed from Outlook on the web .</span></span><span data-ttu-id="19e11-105">לקבלת מידע נוסף ראה, [חשבונות מחוברים אינם נתמכים עוד ב-Outlook באינטרנט (Office 365 עבור חשבונות עסקיים)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span><span class="sxs-lookup"><span data-stu-id="19e11-105">  For more information see, [Connected accounts is no longer supported in Outlook on the web (Office 365 for business accounts)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)</span></span>
   
-<span data-ttu-id="f1ed9-106">כדי להמשיך לראות דואר אלקטרוני מחשבונות אחרים: עדיין באפשרותך להעביר דואר אלקטרוני מחשבונות אלה ל- Outlook באינטרנט.</span><span class="sxs-lookup"><span data-stu-id="f1ed9-106">To continue seeing email from other accounts: you can still forward email from those accounts to Outlook on the web.</span></span> <span data-ttu-id="f1ed9-107">לקבלת מידע נוסף, ראה:</span><span class="sxs-lookup"><span data-stu-id="f1ed9-107">For more information, see:</span></span>
+<span data-ttu-id="19e11-106">כדי להמשיך לראות דואר אלקטרוני מחשבונות אחרים: אתה עדיין יכול להעביר דוא ל מחשבונות אלה ל-Outlook באינטרנט.</span><span class="sxs-lookup"><span data-stu-id="19e11-106">To continue seeing email from other accounts: you can still forward email from those accounts to Outlook on the web.</span></span> <span data-ttu-id="19e11-107">לקבלת מידע נוסף, ראה:</span><span class="sxs-lookup"><span data-stu-id="19e11-107">For more information, see:</span></span>
   
-[<span data-ttu-id="f1ed9-108">הפעלה או ביטול של העברה אוטומטית ב- Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f1ed9-108">Turn on or off automatic forwarding in Outlook.com</span></span>](https://go.microsoft.com/fwlink/?linkid=2038346)
+[<span data-ttu-id="19e11-108">הפעלה או ביטול של העברה אוטומטית ב-Outlook.com</span><span class="sxs-lookup"><span data-stu-id="19e11-108">Turn on or off automatic forwarding in Outlook.com</span></span>](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[<span data-ttu-id="f1ed9-109">להעביר באופן אוטומטי הודעות Gmail לחשבון אחר</span><span class="sxs-lookup"><span data-stu-id="f1ed9-109">Automatically forward Gmail messages to another account</span></span>](https://support.google.com/mail/answer/10957?hl=en)
+[<span data-ttu-id="19e11-109">העבר באופן אוטומטי הודעות ב-Gmail לחשבון אחר</span><span class="sxs-lookup"><span data-stu-id="19e11-109">Automatically forward Gmail messages to another account</span></span>](https://aka.ms/forward-gmail-messages)
   
-[<span data-ttu-id="f1ed9-110">העברה אוטומטית של דואר אלקטרוני ב- Yahoo mail</span><span class="sxs-lookup"><span data-stu-id="f1ed9-110">Automatic email forwarding in Yahoo mail</span></span>](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[<span data-ttu-id="19e11-110">העברת דואר אלקטרוני אוטומטי בדואר יאהו</span><span class="sxs-lookup"><span data-stu-id="19e11-110">Automatic email forwarding in Yahoo mail</span></span>](https://aka.ms/yahoo-email-forwarding)
   
