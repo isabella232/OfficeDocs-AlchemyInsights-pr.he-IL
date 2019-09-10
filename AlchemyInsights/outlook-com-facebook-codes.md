@@ -1,5 +1,5 @@
 ---
-title: קודי Outlook.com Facebook
+title: Outlook.com הקודים של פייסבוק
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546772"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822307"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>אינו מקבל לקודים Outlook.com Facebook
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>לא מקבל קודים בפייסבוק באמצעות Outlook.com
 
-אם ביקש סיסמה חדשה מ- Facebook, אך לא קיבל לאיפוס הסיסמה דוא:
+אם ביקשת סיסמה חדשה מפייסבוק אך לא קיבלת את הדוא ל איפוס הסיסמה שלך:
 
-- בדוק את [דואר הזבל או תיקיית דואר זבל](https://outlook.live.com/mail/junkemail).
-- נסה [לאפס את הסיסמה Facebook שלך שוב](https://www.facebook.com/help/213395615347144?helpref=faq_content).
+- בדוק את תיקיית הדואר [הזבל או הזבל](https://outlook.live.com/mail/junkemail)שלך.
+- נסה [לאפס שוב את סיסמת הפייסבוק שלך](https://aka.ms/facebook-password-reset).
 
-אם אין באפשרותך לאפס את הסיסמה שלך מאחר אין אפשרות לגשת דוא ל או מספר הטלפון הנייד לחשבון שלך, נסה [עצות איפוס הסיסמה של Facebook](https://www.facebook.com/help/218815984812734).
+אם אין באפשרותך לאפס את הסיסמה שלך מכיוון שאין באפשרותך לגשת למספר הטלפון האלקטרוני או הנייד בחשבונך, נסה את [העצות לאיפוס סיסמה של פייסבוק](https://aka.ms/facebook-password-help).

@@ -1,9 +1,8 @@
 ---
-title: תיבת הדואר הנכנס Outlook.com לא טוען
+title: Outlook.com תיבת הדואר הנכנס אינה נטענת
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/1/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +11,26 @@ ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: 0699b73e9df875f4fee2bb169540b43e48a72a95
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e53353949a37518b21b85a4786e443577cb88bda
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536436"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822343"
 ---
 # <a name="empty-inbox"></a>תיבת דואר נכנס ריקה
 
-**תיבת הדואר הנכנס שלי ב- Outlook.com הוא ריק**
+**תיבת הדואר הנכנס שלי Outlook.com ריקה**
 
-- הרחבות מסוימות בדפדפן Firefox עלול למנוע inbox טעינה. בקר תמיכה Firefox כדי ללמוד כיצד [להפוך ללא זמין או להסיר הרחבות](https://support.mozilla.org/kb/disable-or-remove-add-ons).
+- הרחבות מסוימות בדפדפן Firefox עשויות למנוע טעינה של תיבת הדואר הנכנס. בקר בתמיכת Firefox כדי ללמוד כיצד [להשבית או להסיר הרחבות](https://aka.ms/mozilla-add-ons).
 
-**אני רוצה לרוקן את תיבת הדואר הנכנס שלי**
+**ברצוני לרוקן את תיבת הדואר הנכנס שלי**
 
-אם ברצונך לרוקן את תיבת הדואר הנכנס שלך ולמחוק כל הדוא ל שלך:
+אם ברצונך לרוקן את תיבת הדואר הנכנס שלך ולמחוק את כל הדואר האלקטרוני שלך:
 
-1. בחר את העיגול <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQmA5S/CAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACPklEQVQ4ja2UTUsyURTHf3p1RB0ccRtuFBJsEbRKW+S6/AQG066l+IEiMNJPULQpqIXjbF1MoEgbl8FgvuLL5baIhnzKCh7/y3Pu+XHe7vEppRQbVOA742KxoNVqYVkW7Xab0WgEgK7rZDIZ8vk8u7u7BIPBL7G+fzPsdrtcXl7iui57e3vkcjlisRgAr6+v2LZNq9UiHo9jmibpdHqVqD6p0WioSqWiarWaGg6Hap2Gw6G6urpS5XJZWZa14vOAjuOoSqWi7u/v1XK5XAv70HK5VHd3d6pcLivHcTx74KOU6+tr9vf3OTw8RAjxa/OFEBQKBV5eXri5uWFrawvDMPADtNttptMp+Xz+T7DP0IODAyaTCZ1OBwC/lJJms0k6nSaZTP4KGY1G3tQBkskkqVQK27aRUuJ3XZfpdEo2m/0TrFqtUq/Xmc/nnn1nZ4fJZILruvjH4zGDwYBQKPRjJh8wn89HqVRC0zTPFwqF6Pf7jMfj7xd7Pp9Tq9WQUmKaJoAHM00TXdfXVuGPRqPEYjFms5ln1DSNk5MTlFJcXFxwfn7+I2w2mxGPx4lGo/gTiQThcJinp6eVR7quc3p6ihACTdN+zMxxHCKRCIlEgoAQglwux+3tLb1eb2XSuq5zdnYG8O2/Bej1ejw/P3N0dIQQ4n0PM5kM4XAYy7KQUq4EBIPBtTApJY1Gg0gkwvb29nsPAQzDoFgsYts2j4+PX6DrYA8PDzSbTY6PjzEM492x6eOw8fP1BQgbPrD/qzfGztb/Cf8baQAAAABJRU5ErkJggg==' /> הבא לתיבת [הדואר הנכנס](https://outlook.live.com/mail/inbox) בחלק העליון של רשימת ההודעות שלך כדי לבחור את כל ההודעות שלך.
-1. בחלק העליון של הדף, בחר **תיקיה ריקה** (או **ממוקד ריקה** / **ריק אחר** אם תיבת הדואר הנכנס ממוקד מופעלת).
+1. בחר את המעגל <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQmA5S/CAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACPklEQVQ4ja2UTUsyURTHf3p1RB0ccRtuFBJsEbRKW+S6/AQG066l+IEiMNJPULQpqIXjbF1MoEgbl8FgvuLL5baIhnzKCh7/y3Pu+XHe7vEppRQbVOA742KxoNVqYVkW7Xab0WgEgK7rZDIZ8vk8u7u7BIPBL7G+fzPsdrtcXl7iui57e3vkcjlisRgAr6+v2LZNq9UiHo9jmibpdHqVqD6p0WioSqWiarWaGg6Hap2Gw6G6urpS5XJZWZa14vOAjuOoSqWi7u/v1XK5XAv70HK5VHd3d6pcLivHcTx74KOU6+tr9vf3OTw8RAjxa/OFEBQKBV5eXri5uWFrawvDMPADtNttptMp+Xz+T7DP0IODAyaTCZ1OBwC/lJJms0k6nSaZTP4KGY1G3tQBkskkqVQK27aRUuJ3XZfpdEo2m/0TrFqtUq/Xmc/nnn1nZ4fJZILruvjH4zGDwYBQKPRjJh8wn89HqVRC0zTPFwqF6Pf7jMfj7xd7Pp9Tq9WQUmKaJoAHM00TXdfXVuGPRqPEYjFms5ln1DSNk5MTlFJcXFxwfn7+I2w2mxGPx4lGo/gTiQThcJinp6eVR7quc3p6ihACTdN+zMxxHCKRCIlEgoAQglwux+3tLb1eb2XSuq5zdnYG8O2/Bej1ejw/P3N0dIQQ4n0PM5kM4XAYy7KQUq4EBIPBtTApJY1Gg0gkwvb29nsPAQzDoFgsYts2j4+PX6DrYA8PDzSbTY6PjzEM492x6eOw8fP1BQgbPrD/qzfGztb/Cf8baQAAAABJRU5ErkJggg==' /> לצד [תיבת דואר נכנס](https://outlook.live.com/mail/inbox) בראש רשימת ההודעות שלך כדי לבחור את כל ההודעות שלך.
+1. בחלק העליון של הדף, בחר **תיקיה ריקה** (או **רוקן ממוקד** / **ריק אחר** אם תיבת דואר נכנס ממוקדת מופעלת).
 1. בחר **מחק הכל**.
-1. כדי לנקות את כל ההודעות שנמחקו שלך, פתח את [התיקיה פריטים שנמחקו](https://outlook.live.com/mail/deleteditems) ובחר **תיקיה ריקה** > **למחוק את כל**, לאחר מכן בחר **לשחזר פריטים שנמחקו מתיקיה זו** בחלק העליון של הדף ולחץ שוב בחר **תיקיה ריקה** .
+1. כדי למחוק את כל ההודעות שמחקת, פתח את [התיקיה פריטים שנמחקו](https://outlook.live.com/mail/deleteditems) ובחר **תיקיה** > ריקה**מחק הכל**, ולאחר מכן בחר **שחזר פריטים שנמחקו מתיקיה זו** בראש הדף ובחר **תיקיה ריקה** שוב .
 
-לקבלת מידע נוסף, ראה [מחיקת דוא ב- Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy)
+לקבלת מידע נוסף, ראה [מחיקת דואר אלקטרוני בOutlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy)

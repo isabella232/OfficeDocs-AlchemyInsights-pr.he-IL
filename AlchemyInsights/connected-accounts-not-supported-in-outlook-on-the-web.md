@@ -1,5 +1,5 @@
 ---
-title: חשבונות מחוברים 1800029 אינו נתמך ב- Outlook באינטרנט
+title: 1800029 חשבונות מחוברים שאינם נתמכים ב-Outlook באינטרנט
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504769"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821803"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a>חשבונות מחוברים אינן נתמכות עוד
+# <a name="connected-accounts-are-no-longer-supported"></a>אין עוד תמיכה בחשבונות מחוברים
 
-מיקרוסופט הסירה את היכולת להוסיף חשבונות חדשים ל- Outlook באינטרנט באמצעות התכונה חשבונות מחוברים ב- 15 בספטמבר, 2018 ויעצרו סינכרון חשבונות קיימים ב- 30 באוקטובר, 2018 שהיו מחוברים לפני ה-15 בספטמבר, 2018. ב- 15 בנובמבר, האפשרות חשבונות מחוברים ( **הגדרות** \> **דואר** \> **חשבונות**) יוסרו מ- Outlook באינטרנט.לקבלת מידע נוסף, ראה [חשבונות מחוברים אינו נתמך עוד ב- Outlook באינטרנט (Office 365 עבור חשבונות עסקיים)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+מיקרוסופט הסירה את היכולת להוסיף חשבונות חדשים ל-Outlook באינטרנט באמצעות התכונה חשבונות מחוברים ב -15 בספטמבר, 2018 והוא יפסיק לסנכרן חשבונות קיימים ב-30 באוקטובר, 2018 שהיו מחוברים לפני 15 בספטמבר 2018. בתאריך 15 בנובמבר, האפשרות חשבונות מחוברים ( **הגדרות** \> **** \> **חשבונות**דואר) תוסר מ-Outlook באינטרנט.לקבלת מידע נוסף ראה, [חשבונות מחוברים אינם נתמכים עוד ב-Outlook באינטרנט (Office 365 עבור חשבונות עסקיים)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-כדי להמשיך לראות דואר אלקטרוני מחשבונות אחרים: עדיין באפשרותך להעביר דואר אלקטרוני מחשבונות אלה ל- Outlook באינטרנט. לקבלת מידע נוסף, ראה:
+כדי להמשיך לראות דואר אלקטרוני מחשבונות אחרים: אתה עדיין יכול להעביר דוא ל מחשבונות אלה ל-Outlook באינטרנט. לקבלת מידע נוסף, ראה:
   
-[הפעלה או ביטול של העברה אוטומטית ב- Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
+[הפעלה או ביטול של העברה אוטומטית ב-Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[להעביר באופן אוטומטי הודעות Gmail לחשבון אחר](https://support.google.com/mail/answer/10957?hl=en)
+[העבר באופן אוטומטי הודעות ב-Gmail לחשבון אחר](https://aka.ms/forward-gmail-messages)
   
-[העברה אוטומטית של דואר אלקטרוני ב- Yahoo mail](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[העברת דואר אלקטרוני אוטומטי בדואר יאהו](https://aka.ms/yahoo-email-forwarding)
   
