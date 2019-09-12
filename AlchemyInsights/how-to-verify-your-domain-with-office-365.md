@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
+ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664069"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36851721"
 ---
 # <a name="how-to-verify-your-domain-with-office-365"></a>כיצד לאמת את התחום שלך עם Office 365
 
-כדי לאמת את התחום שלך, יהיה עליך להוסיף רשומת TXT רשם התחום שלך כדי לוודא שאתה הבעלים של התחום שלך. תחילה, בצע את הפעולות [באשף הוספת תחום](https://portal.office.com/adminportal/home#/Domains) על-ידי בחירת **הגדרות** \> **Domaisn**, ולאחר מכן **הוסף תחום**.
+כדי לאמת את התחום שלך, יהיה עליך להוסיף רשומת TXT לרשם התחום שלך כדי לוודא שאתה הבעלים של התחום שלך. תחילה, בצע את [אשף הוספת קבוצת המחשבים](https://portal.office.com/adminportal/home#/Domains) על-ידי בחירת **תחומים** **של הגדרות** \> ולאחר מכן **הוסף קבוצת מחשבים**.
   
-בצע את ההוראות המופיעות [רשומות DNS ליצור אצל כל ספק אירוח DNS עבור Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) לשם הוספת רשומת TXT כדי לאמת את התחום שלך.
+בצע את ההוראות [ביצירת רשומות dns בכל ספק dns המארח עבור Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) כדי להוסיף רשומת TXT כדי לאמת את התחום שלך.
   
