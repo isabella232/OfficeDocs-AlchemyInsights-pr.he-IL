@@ -1,5 +1,5 @@
 ---
-title: דוחות יומן הביקורת של SharePoint קלאסי
+title: דוחות יומן ביקורת קלאסיים של SharePoint
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504392"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068024"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>יומני ביקורת של SharePoint ו- OneDrive
+# <a name="sharepoint-and-onedrive-audit-logs"></a>יומני ביקורת של SharePoint ו-OneDrive
 
-**SharePoint יומני ביקורת אחידה מודרניים OneDrive מתאימות**
+**SharePoint ו-OneDrive מודרני יומני ביקורת מאוחד מציות**
 
-- [הפעלה/ביטול אחידה ברישום ביקורת](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [הפעלה/ביטול של רישום ביקורת אחיד](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-תצורה נוספת נדרשת בתוך SharePoint או OneDrive.
+אין צורך בקביעת תצורה נוספת בתוך SharePoint או OneDrive.
 
-- השתמש בחיפוש רישום ביקורת לבדיקת פעילות של קבצים, תיקיות, משתמשים, הרשאות:
+- השתמש בחיפוש ביומן ביקורת כדי לבדוק את הפעילות של הקבצים, התיקיות, המשתמשים, ההרשאות:
 
-    - [קובץ ופעילויות דף](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [פעילויות קובץ ועמוד](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
     - [פעילויות תיקיה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [פעילויות בקשת שיתוף וגישה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [פעילויות סינכרון](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [פעילויות ניהול אתר](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- לקבלת מידע נוסף אודות האופן שבו ניתן לאחזר אירועים אלה, ראה [חיפוש יומן הביקורת](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+    - [שיתוף וגישה לפעילויות בקשה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [פעילויות סנכרון](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [פעילויות ניהול האתר](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- לקבלת מידע נוסף אודות אחזור אירועים אלה, ראה [חיפוש ביומן הביקורת](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**יומני ביקורת קלאסי של SharePoint**
+**יומני ביקורת קלאסיים של SharePoint**
 
-- [הצג ולאפשר יומני ביקורת SharePoint קלאסי](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+העברנו ביקורת מדור קודם של SPO ליומן ביקורת אחיד (רע מ). זה בעצם אומר כי כל דוחות ביקורת מורשת SPO כעת יהיה מופעל באמצעות רע מ, ואת אותות ביקורת מדור קודם הועברו רע מ.
 
-צורך הביקורת תהיה זמינה לכל בכל אוסף אתרים. 
+שינויי מפתח:
 
-**הערה**: מומלץ להשתמש יומני ביקורת אחידה מודרני עבור אפשרויות בקרה טובה יותר ומתקדמות מאשר אלה יומני ביקורת קלאסי.
+- זמירה כיכולת אינו זמין.
+- המקטע שבו תבחר אירועים ספציפיים לביקורת אינו זמין. נא עיין [במסמך זה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) לקבלת רשימה מלאה של אירועים מבוקרים הזמינים כברירת מחדל.
+- האפשרות "מיקום" תחת **דוחות מותאמים אישית** אינה זמינה. 
+- אירועים "פתיחה או הורדה של מסמכים" אינם זמינים. 
 
