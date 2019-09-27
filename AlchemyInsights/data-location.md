@@ -2,7 +2,6 @@
 title: מיקום נתונים
 ms.author: pebaum
 author: pebaum
-ms.date: 6/20/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +10,27 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b895dabc8d3513a2035b698fefb04a540810cfa3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514133"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207262"
 ---
 # <a name="data-location"></a>מיקום נתונים
 
-אנו לשמור עותקים מרובים של הנתונים שלך על-פני datacenters עבור יתירות. [לראות היכן ממוקם הנתונים שלך](https://office.com/datamaps). אם אנו להרחיב את המיקום של נתוני לתוך חדש מדינה או אזור, תקבל הודעה מראש של חודש אחד.
-  
-לקבלת מידע נוסף אודות אבטחה, פרטיות ותאימות Office 365, ראה [מרכז יחסי האמון ב- Office 365](https://products.office.com/business/office-365-trust-center-welcome).
-  
+באפשרותך להציג את המיקום של הדייר 365 של Office במרכז הניהול או על-ידי התחברות ל-Exchange Online דרך PowerShell.
+
+
+**מרכז ניהול:**
+1. היכנס [למרכז הניהול](https://admin.microsoft.com/Adminportal/Home).
+2. בחר באפשרות **הגדרות** > **פרופיל ארגוני**.
+3. תחת **מיקום נתונים**, בחר באפשרות **הצגת פרטים**.
+
+
+**PowerShell**
+1. התחבר ל-Exchange Online באמצעות Windows PowerShell.
+2. בצע את ה-cmdlet ' [קבל](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) ' של הארגון כדי להציג רשימה של המאפיינים של הדייר. 
+3. הבט במאפיין ' מזהה הארגון '.
+
+כאשר יש לך את מיקום הנתונים עבור EXO ו-SPO, באפשרותך לקבוע את מיקום הנתונים עבור שירותים אחרים שבהם אתה עשוי להשתמש [מהיכן שהנתונים שלך ממוקמים](https://products.office.com/where-is-your-data-located).
