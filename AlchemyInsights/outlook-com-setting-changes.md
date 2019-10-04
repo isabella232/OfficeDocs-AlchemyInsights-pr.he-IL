@@ -9,12 +9,12 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b710fdd2f258b8142bb536205ce7e969c4669e2c
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
+ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752897"
+ms.lasthandoff: 10/03/2019
+ms.locfileid: "37386366"
 ---
 # <a name="settings-in-outlookcom"></a>הגדרות בOutlook.com
 
@@ -23,10 +23,17 @@ ms.locfileid: "36752897"
 **נציגים** של משתמשים המוגנים בדואר אלקטרוני שנשלחו אל, אינם יכולים לפתוח הודעות מוגנות. רק הנמענים המקוריים (אדם המוגן בדואר אלקטרוני) יכולים להציג את המידע באימייל.
 
 - אם הנמען נמצא בספק שירותי אינטרנט אחר&nbsp;ואין באפשרותם לפתוח את ההודעה ולראות קובץ מצורף של ' rpmsg ', בצע את ההוראות הבאות:
+    
     - בחר **קרא** את ההודעה.
+    
     - הם מנותבים מחדש לדף שבו עליהם לבחור **כניסה באמצעות קוד סיסמה חד פעמי**.
+    
     - קוד גישה לשימוש יחיד נשלח לאותה כתובת דואר אלקטרוני. הזן את הקוד בחלון הדפדפן ולאחר מכן בחר באפשרות ' **המשך** ' כדי לקרוא את ההודעה.
+
 - אם אין באפשרותך להצפין הודעות מארגון אחר של Office 365, בצע את שלבי הרזולוציה המצוינים [במאמר](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)זה.
+
 - אם תיבת הדואר של הנמען נמצאת ב- **Yahoo או**ב-</span> Gmail, נא בצע את ההוראות שנמצאו [במאמר](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)זה.
-- מדיניות הגנה חלה רק על [תבניות קובץ ידועות](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). קובץ PDF ו-OneDrive עבור מצורף לעסקים אינם נתמכים עבור הצפנה.
+
+- מדיניות הגנה חלה רק על [תבניות קובץ ידועות](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types). אין תמיכה ב-OneDrive עבור קבצים מצורפים עסקיים עבור הצפנה.
+
 - תיבות דואר משותפות **אינן יכולות לפתוח הודעות מוצפנות כעת באמצעות כל לקוח**. 
