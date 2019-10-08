@@ -12,12 +12,12 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: d745b514594d3dcaae94b8ea2c2402b76553f432
+ms.sourcegitcommit: 488ba34cccad1ead27318df01732e06cdac2ba93
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36752717"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "37414048"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint או OneDrive איטי, לא נגיש או לא זמין עבור משתמשים מרובים
 
@@ -25,7 +25,7 @@ SharePoint או OneDrive עשויים להיות איטיים, לא נגישים
   
 - אם אתר SharePoint או OneDrive שלך איטי או מתעכב עבור משתמשים מרובים, ייתכן שקיימת בעיית שירות זמנית שבה משתמשים חווים עיכובים לסירוגין או שגיאות ניווט בעת גישה לאתרי SharePoint או לתוכן OneDrive. בדוק את [לוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.
   
-- אם אתה נתקל בביצועים איטיים עם אתר או דף של SharePoint **קלאסיים** , נצל את [הכלי ' אבחון עמוד](https://aka.ms/perftool) ' כדי לנתח את העמודים.
+- אם אתה נתקל בביצועים איטיים עם אתר או דף SharePoint **קלאסי** או **מודרני** , נצל את [כלי אבחון העמוד](https://aka.ms/perftool) כדי לנתח את הדפים.
   
 - אם אתה עדיין נתקל בביצועים איטיים כלליים, עיין במשאבים בחלק התחתון של מאמר זה: [מבוא לכיוונון ביצועים עבור SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   
