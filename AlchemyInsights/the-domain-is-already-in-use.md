@@ -17,10 +17,10 @@ ms.contentlocale: he-IL
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36743022"
 ---
-# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="4fabe-102">התחום נמצא כבר בשימוש</span><span class="sxs-lookup"><span data-stu-id="4fabe-102">The domain is already in use</span></span>
+# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="bb75d-102">התחום נמצא כבר בשימוש</span><span class="sxs-lookup"><span data-stu-id="bb75d-102">The domain is already in use</span></span>
 
-<span data-ttu-id="4fabe-103">התחום שאתה מנסה להוסיף שייך כבר לארגון אחר.</span><span class="sxs-lookup"><span data-stu-id="4fabe-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="4fabe-104">תחילה עליך להסיר את התחום מהארגון האחר כדי שתוכל להוסיף אותו לארגון זה.</span><span class="sxs-lookup"><span data-stu-id="4fabe-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="4fabe-105">המאמרים הבאים ינחו אותך בתהליכים אלה.</span><span class="sxs-lookup"><span data-stu-id="4fabe-105">The articles below will guide you through these processes.</span></span>
+<span data-ttu-id="bb75d-103">התחום שאתה מנסה להוסיף שייך כבר לארגון אחר.</span><span class="sxs-lookup"><span data-stu-id="bb75d-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="bb75d-104">תחילה עליך להסיר את התחום מהארגון האחר כדי שתוכל להוסיף אותו לארגון זה.</span><span class="sxs-lookup"><span data-stu-id="bb75d-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="bb75d-105">המאמרים הבאים ינחו אותך בתהליכים אלה.</span><span class="sxs-lookup"><span data-stu-id="bb75d-105">The articles below will guide you through these processes.</span></span>
   
-- [<span data-ttu-id="4fabe-106">הסרת תחום מ- Office 365</span><span class="sxs-lookup"><span data-stu-id="4fabe-106">Remove a domain from Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
+- [<span data-ttu-id="bb75d-106">הסרת תחום מ- Office 365</span><span class="sxs-lookup"><span data-stu-id="bb75d-106">Remove a domain from Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
 
-- [<span data-ttu-id="4fabe-107">הוספת תחום ויצירת רשומות DNS</span><span class="sxs-lookup"><span data-stu-id="4fabe-107">Add a domain and create DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [<span data-ttu-id="bb75d-107">הוספת תחום ויצירת רשומות DNS</span><span class="sxs-lookup"><span data-stu-id="bb75d-107">Add a domain and create DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

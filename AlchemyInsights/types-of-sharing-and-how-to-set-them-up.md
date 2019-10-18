@@ -21,14 +21,14 @@ ms.contentlocale: he-IL
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36742410"
 ---
-# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="09ec4-102">סוגים שונים של לוחות שנה משותפים של Outlook וכיצד להגדיר אותם</span><span class="sxs-lookup"><span data-stu-id="09ec4-102">Different types of shared calendars and how to set them up</span></span>
+# <a name="different-types-of-shared-outlook-calendars-and-how-to-set-them-up"></a><span data-ttu-id="57903-102">סוגים שונים של לוחות שנה משותפים של Outlook וכיצד להגדיר אותם</span><span class="sxs-lookup"><span data-stu-id="57903-102">Different types of shared calendars and how to set them up</span></span>
 
-- [<span data-ttu-id="09ec4-103">יצירת תיבת דואר משותפת</span><span class="sxs-lookup"><span data-stu-id="09ec4-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
+- [<span data-ttu-id="57903-103">יצירת תיבת דואר משותפת</span><span class="sxs-lookup"><span data-stu-id="57903-103">Create a shared mailbox</span></span>](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox)
 
-- [<span data-ttu-id="09ec4-104">תיבות דואר של חדרים וציוד</span><span class="sxs-lookup"><span data-stu-id="09ec4-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
+- [<span data-ttu-id="57903-104">תיבות דואר של חדרים וציוד</span><span class="sxs-lookup"><span data-stu-id="57903-104">Room and equipment mailboxes</span></span>](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes)
 
-- [<span data-ttu-id="09ec4-105">יצירת קבוצת לוחות שנה</span><span class="sxs-lookup"><span data-stu-id="09ec4-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
+- [<span data-ttu-id="57903-105">יצירת קבוצת לוחות שנה</span><span class="sxs-lookup"><span data-stu-id="57903-105">Create a calendar group</span></span>](https://support.office.com/article/8385667b-d758-4489-a53f-f542dd01e6ff)
 
-- [<span data-ttu-id="09ec4-106">שיתוף לוח שנה של Outlook עם אנשים אחרים</span><span class="sxs-lookup"><span data-stu-id="09ec4-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="57903-106">שיתוף לוח שנה של Outlook עם אנשים אחרים</span><span class="sxs-lookup"><span data-stu-id="57903-106">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
-<span data-ttu-id="09ec4-107">אם אינך רואה מידע לגבי מועדים פנויים/לא פנויים בלוחות שנה אחרים, או אם אנשים אחרים אינם רואים מידע לגבי מועדים פנויים/לא פנויים בלוח השנה שלך, השתמש ב[מסייע התמיכה והשחזור של Microsoft עבור Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="09ec4-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="57903-107">אם אינך רואה מידע לגבי מועדים פנויים/לא פנויים בלוחות שנה אחרים, או אם אנשים אחרים אינם רואים מידע לגבי מועדים פנויים/לא פנויים בלוח השנה שלך, השתמש ב[מסייע התמיכה והשחזור של Microsoft עבור Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="57903-107">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
