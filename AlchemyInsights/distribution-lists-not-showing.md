@@ -1,5 +1,5 @@
 ---
-title: רשימות תפוצה לא מוצג
+title: רשימות תפוצה שאינן מציגות
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
 ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530460"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>קבוצת התפוצה אינה מוצגת ברשימת קבוצות
+# <a name="distribution-group-not-showing-in-groups-list"></a>קבוצת תפוצה שאינה מוצגת ברשימה ' קבוצות '
 
-עשוי להימשך עד 60 דקות לפני רשימת תפוצה חדשה שלך מופיע במרכז מרכז הניהול של Exchange.
+הדבר יכול להימשך עד 60 דקות לפני שרשימת התפוצה החדשה תופיע במרכז הניהול של Exchange.
   
-אם ברצונך להוסיף חברים או לבצע עריכות נוספות כעת, נא השתמש בתכונה קבוצות ב [מרכז הניהול של Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+אם ברצונך להוסיף חברים או לבצע פעולות עריכה אחרות כעת, נא השתמש בתכונה ' קבוצות ' [במרכז הניהול של Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

@@ -1,5 +1,5 @@
 ---
-title: 8000036 שינוי פרופיל pic/שם ב- Outlook.com
+title: 8000036 שינוי pic פרופיל/שם ב Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
 ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511346"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>שינוי תמונת הפרופיל או שם ב- Outlook.com שלי
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>שינוי תמונת הפרופיל שלי או השם בOutlook.com
 
-1. מעבר אל [מידע חשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. בחר **לערוך שם** או **שינוי תמונה**.
+1. עבור אל [פרטי חשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. בחרו ' **עריכת שם** ' או ' **שינוי תמונה**'.
 
-לתשומת לבך, עד 24 שעות כדי שהשינויים שלך תמונות הפרופיל או שם תיכנס לתוקף.
+נא המתן עד 24 שעות לשינויים בצילום הפרופיל או בשמך כדי להיכנס לתוקף.

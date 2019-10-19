@@ -1,5 +1,5 @@
 ---
-title: מנויים Outlook.com 9000215
+title: 9000215 מנויים Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511812"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>מנויים וביטול המנוי צריך להיות
+# <a name="subscriptions-and-unsubscribing"></a>מנויים וביטול רישום
 
-אם ברצונך להפסיק לקבל ידיעונים או מבצעים, קיימות שתי דרכים שבאפשרותך לבטל את המנוי ב- Outlook.com:
+אם ברצונך להפסיק לקבל ידיעונים או קידומי מכירות, קיימות שתי דרכים לביטול המנוי ב-Outlook.com:
 
-1. בתיבת הדואר הנכנס שלך, בחר ידיעון או דואר אלקטרוני לקידום מכירות. בחלק העליון של חלונית הקריאה, בחר **ביטול המנוי**.
-2. פתח את [הגדרות מנויים Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**הגדרות** > **להציג את כל הגדרות Outlook** > **דואר אלקטרוני** > **מנויים**) ובחר באפשרות **ביטול המנוי**.
+1. בתיבת הדואר הנכנס שלך, בחר ידיעון או דואר אלקטרוני פרסומי. בראש חלונית הקריאה, בחר **בביטול מנוי**.
+2. פתח את [הגדרות מנויי הOutlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) שלך (**הגדרות** > **הצג את כל הגדרות** > **הדואר האלקטרוני** > **** של Outlook) ובחר ביטול **מנוי**.
 
-הערות:
+ערות
 
-- לא כל הלקוחות יכולים ליהנות תכונה זו כרגע.
-- תכונה זו תופיע רק אם קיבלת דואר אלקטרוני מהחברה שליחת דואר אלקטרוני שאתה מנוי עליהן.
+- לא כל הלקוחות יכולים ליהנות מתכונה זו כרגע.
+- תראה תכונה זו רק אם קיבלת הודעת דואר אלקטרוני מהחברה השולחת דואר אלקטרוני מנוי.

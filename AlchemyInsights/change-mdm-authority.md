@@ -1,5 +1,5 @@
 ---
-title: שינוי רשות MDM
+title: שינוי הרשות של MDM
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519300"
 ---
-# <a name="change-intune-mdm-authority"></a>שינוי רשות Intune MDM
+# <a name="change-intune-mdm-authority"></a>שינוי הרשות Intune MDM
 
-באפשרותך לשנות את רשות MDM מבלי לפתוח אירוע תמיכה. לראות את המסמכים הבאים לקבלת הוראות:
+באפשרותך לשנות את הרשות MDM מבלי לפתוח מקרה תמיכה. לקבלת הוראות, עיין במסמכים הבאים:
   
-- [שנה רשות MDM מתוך מנהל התצורה העצמאית Intune](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [שינוי הרשות של MDM ממנהל התצורה ל-Intune עצמאיות](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [שינוי MDM רשות מתוך עצמאי Intune אל מנהל תצורה](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [שינוי רשות MDM מ-Intune עצמאית למנהל התצורה](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **קיום משותף של רשות MDM**
+ **דו-קיום של הרשות MDM**
   
-- יכולים להיות שני רשויות MDM הפעיל בו-זמנית אם כבר יש לך Office 365 MDM זמינה אך ברצונך לנסות Intune MDM.
+- באפשרותך להפעיל את שני רשויות MDM בו אם יש לך כבר הפעלה של Office 365 MDM, אך ברצונך לנסות את Intune MDM.
     
-- מנהלים שהם כבר בעלי MDM O365 פעיל פשוט באפשרותך לסמן Intune MDM כפעילה מתוך הפורטל תכלת הרקיע.
+- מנהלים אשר כבר יש O365 MDM פעיל יכול פשוט לסמן Intune MDM כמו פעיל מתוך הפורטל התכלת.
     
-- אם יש לך Intune MDM אך ברצונך להשתמש של Office 365 MDM: נא לפתוח כרטיס להלן ו סוכן תמיכה יאפשרו זאת עבורך.
+- אם יש לך Intune MDM אבל רוצה לעשות שימוש ב-Office 365 MDM: נא לפתוח כרטיס למטה וסוכן תמיכה יסייע לך להפוך את זה עבורך.
     
 

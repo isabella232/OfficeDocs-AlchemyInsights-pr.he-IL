@@ -1,5 +1,5 @@
 ---
-title: שינויים גישת משתמש חיצוני
+title: שינויים בגישת משתמש חיצונית
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
 ms.openlocfilehash: a136938d3962c0b49a8711b5940ed650c0903c27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36520812"
 ---
-# <a name="changes-to-external-user-access"></a>שינויים גישת משתמש חיצוני
+# <a name="changes-to-external-user-access"></a>שינויים בגישת משתמש חיצונית
 
-החל 23 במרץ, 2018, משתמשים חיצוניים כבר לא תהיה אפשרות גישה לתוכן שותפה עם כולם, כל המשתמשים המורשים או כל המשתמשים טפסים, גם אם מוזמנים או להוסיף לקבוצות מורשים. משתמשים חיצוניים בלבד תהיה אפשרות גישה לתוכן שותפה עם המשתמש או עם הקבוצות אליהן שייך המשתמש. אם ברצונך לשמור את ההגדרות הקיימות, נא ראה:https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+החל מ-23 במרץ 2018, משתמשים חיצוניים לא יוכלו עוד לגשת לתוכן ששותף עם כולם, כל המשתמשים המאומתים או כל הטפסים, גם אם הם הוזמנו או נוספו לקבוצות מורשות. משתמשים חיצוניים יוכלו רק לגשת לתוכן ששותף עם המשתמש או עם קבוצות שאליהן המשתמש שייך. אם ברצונך לשמור על ההגדרות הקיימות, נא ראה:https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 
