@@ -1,5 +1,5 @@
 ---
-title: שנה את הסיסמה שלך ב- Outlook באינטרנט
+title: שינוי הסיסמה ב-Outlook באינטרנט
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,12 +12,12 @@ ms.custom:
 - "8000002"
 - "1990"
 ms.openlocfilehash: 18aef4096e936138c85f22f343500f5f233f903f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510480"
 ---
-# <a name="change-your-office-365-password"></a><span data-ttu-id="daf9d-102">שנה את הסיסמה של Office 365</span><span class="sxs-lookup"><span data-stu-id="daf9d-102">Change your Office 365 password</span></span>
+# <a name="change-your-office-365-password"></a><span data-ttu-id="cc151-102">שינוי הסיסמה של Office 365</span><span class="sxs-lookup"><span data-stu-id="cc151-102">Change your Office 365 password</span></span>
 
-<span data-ttu-id="daf9d-103">אם יש צורך לשנות או לאפס את הסיסמה Office 365, באפשרותך לעבור ישירות לעמוד זה: [איפוס סיסמת Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841910)</span><span class="sxs-lookup"><span data-stu-id="daf9d-103">If you need to change or reset your Office 365 password, you can go directly to this page: [Reset your Microsoft password](https://go.microsoft.com/fwlink/p/?linkid=841910)</span></span>
+<span data-ttu-id="cc151-103">אם עליך לשנות או לאפס את סיסמת Office 365 שלך, באפשרותך לעבור ישירות לדף זה: [איפוס סיסמת Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=841910)</span><span class="sxs-lookup"><span data-stu-id="cc151-103">If you need to change or reset your Office 365 password, you can go directly to this page: [Reset your Microsoft password](https://go.microsoft.com/fwlink/p/?linkid=841910)</span></span>

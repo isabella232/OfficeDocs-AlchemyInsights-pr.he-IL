@@ -13,17 +13,17 @@ ms.custom:
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
 ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36747677"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="309d9-102">אין אפשרות להוסיף ברירת מחדל 2010 זרימת עבודה של אישור</span><span class="sxs-lookup"><span data-stu-id="309d9-102">Can't add default 2010 Approval Workflow</span></span>
+# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="a24c5-102">אין אפשרות להוסיף ברירת מחדל 2010 זרימת עבודה של אישור</span><span class="sxs-lookup"><span data-stu-id="a24c5-102">Can't add default 2010 Approval Workflow</span></span>
 
-<span data-ttu-id="309d9-103">באוסף אתרים של Microsoft SharePoint, אין באפשרותך להוסיף זרימת עבודה גלובלית הניתנת לשימוש חוזר (כגון "אישור-SharePoint 2010") לרשימה או ספריה.</span><span class="sxs-lookup"><span data-stu-id="309d9-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="309d9-104">ייתכן שזרימת העבודה של האישור חסרה.</span><span class="sxs-lookup"><span data-stu-id="309d9-104">The approval workflow may be missing.</span></span> <span data-ttu-id="309d9-105">כדי לפתור בעיה זו, עיין ב- [אין אפשרות להוסיף זרימת עבודה גלובלית לשימוש חוזר לרשימה או ספריה של SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span><span class="sxs-lookup"><span data-stu-id="309d9-105">To resolve this issue, refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span>
+<span data-ttu-id="a24c5-103">באוסף אתרים של Microsoft SharePoint, אין באפשרותך להוסיף זרימת עבודה גלובלית הניתנת לשימוש חוזר (כגון "אישור-SharePoint 2010") לרשימה או ספריה.</span><span class="sxs-lookup"><span data-stu-id="a24c5-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="a24c5-104">ייתכן שזרימת העבודה של האישור חסרה.</span><span class="sxs-lookup"><span data-stu-id="a24c5-104">The approval workflow may be missing.</span></span> <span data-ttu-id="a24c5-105">כדי לפתור בעיה זו, עיין ב- [אין אפשרות להוסיף זרימת עבודה גלובלית לשימוש חוזר לרשימה או ספריה של SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span><span class="sxs-lookup"><span data-stu-id="a24c5-105">To resolve this issue, refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span>
 
-<span data-ttu-id="309d9-106">לקבלת מידע נוסף אודות אישורי זרימת עבודה, ראה [הכל אודות זרימות עבודה של אישור](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span><span class="sxs-lookup"><span data-stu-id="309d9-106">For more info about Workflow Approvals, see [All about Approval workflows](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
+<span data-ttu-id="a24c5-106">לקבלת מידע נוסף אודות אישורי זרימת עבודה, ראה [הכל אודות זרימות עבודה של אישור](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span><span class="sxs-lookup"><span data-stu-id="a24c5-106">For more info about Workflow Approvals, see [All about Approval workflows](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
  
-<span data-ttu-id="309d9-107">למד עוד אודות [אישורים מודרניים בזרם](https://flow.microsoft.com/blog/introducing-modern-approvals).</span><span class="sxs-lookup"><span data-stu-id="309d9-107">Learn more about [Modern Approvals in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
+<span data-ttu-id="a24c5-107">למד עוד אודות [אישורים מודרניים בזרם](https://flow.microsoft.com/blog/introducing-modern-approvals).</span><span class="sxs-lookup"><span data-stu-id="a24c5-107">Learn more about [Modern Approvals in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
   
