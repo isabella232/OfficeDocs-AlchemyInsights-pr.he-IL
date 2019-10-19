@@ -1,5 +1,5 @@
 ---
-title: אישור הפדרציה של ADFS פג
+title: פג תוקפם של אישור הפדרציה של ADFS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,13 +14,13 @@ ms.custom:
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
 ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737190"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>אישור הפדרציה של ADFS פג
+# <a name="adfs-federation-certificate-expiring"></a>פג תוקפם של אישור הפדרציה של ADFS
 
 כדי לפתור בעיה זו, בצע את הפעולות הבאות:
   
