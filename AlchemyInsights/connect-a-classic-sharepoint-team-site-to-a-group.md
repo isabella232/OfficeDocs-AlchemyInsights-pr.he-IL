@@ -1,5 +1,5 @@
 ---
-title: להתחבר אתר צוות SharePoint קלאסי קבוצה
+title: חיבור אתר צוות קלאסי של SharePoint לקבוצה
 ms.author: kaarins
 author: kaarins
 ms.date: 6/29/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
 ms.openlocfilehash: 389880415621b7623c9f7ea9f43417eab878806a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504763"
 ---
-# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a><span data-ttu-id="ac3ab-102">להתחבר אתרי צוות של SharePoint קלאסי קבוצות חדשות של Office 365</span><span class="sxs-lookup"><span data-stu-id="ac3ab-102">Connect classic SharePoint team sites to new Office 365 groups</span></span>
+# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a><span data-ttu-id="11526-102">חיבור אתרי צוות SharePoint קלאסיים לקבוצות חדשות של Office 365</span><span class="sxs-lookup"><span data-stu-id="11526-102">Connect classic SharePoint team sites to new Office 365 groups</span></span>
 
-<span data-ttu-id="ac3ab-103">כדי להעריך אם אוספי אתרים של SharePoint שלך מוכן להתחבר לקבוצות Office 365, השתמש [בכלי סורק modernization של SharePoint](https://go.microsoft.com/fwlink/?linkid=873066).</span><span class="sxs-lookup"><span data-stu-id="ac3ab-103">To assess whether your SharePoint site collections are ready to connect to Office 365 groups, use the [SharePoint modernization scanner tool](https://go.microsoft.com/fwlink/?linkid=873066).</span></span> <span data-ttu-id="ac3ab-104">כלי זה יכול לסייע לך לתכנן החוצה האסטרטגיה modernization באתר שלך וכן ייצור הדוח מעמיק, כולל אזורים הדורשים תשומת לב.</span><span class="sxs-lookup"><span data-stu-id="ac3ab-104">This tool can help you plan out your site modernization strategy and will create an in-depth report, including areas that need attention.</span></span>
+<span data-ttu-id="11526-103">כדי להעריך אם אוספי אתרי SharePoint שלך מוכנים להתחבר לקבוצות של Office 365, השתמש [בכלי הסורק של מודרניזציית sharepoint](https://go.microsoft.com/fwlink/?linkid=873066).</span><span class="sxs-lookup"><span data-stu-id="11526-103">To assess whether your SharePoint site collections are ready to connect to Office 365 groups, use the [SharePoint modernization scanner tool](https://go.microsoft.com/fwlink/?linkid=873066).</span></span> <span data-ttu-id="11526-104">כלי זה יכול לסייע לך לתכנן את אסטרטגיית המודרניזציה של האתר שלך וליצור דוח מעמיק, כולל אזורים הזקוקים לתשומת לב.</span><span class="sxs-lookup"><span data-stu-id="11526-104">This tool can help you plan out your site modernization strategy and will create an in-depth report, including areas that need attention.</span></span>
   
-<span data-ttu-id="ac3ab-105">אם ברצונך לאפשר מנהלי אוסף אתרים להתחבר אתרי צוות קלאסי קבוצות חדשות מפקודת תפריט חדש אנו אתה מוסיף, אין צורך לעשות דבר.</span><span class="sxs-lookup"><span data-stu-id="ac3ab-105">If you want to allow site collection administrators to connect classic team sites to new groups from a new menu command we're adding, you don't need to do anything.</span></span> <span data-ttu-id="ac3ab-106">אם, עם זאת, ברצונך לבטל אפשרות זו, יהיה עליך לשנות את הגדרת ברירת המחדל.</span><span class="sxs-lookup"><span data-stu-id="ac3ab-106">If, however, you want to disable this option, you will need to change the default setting.</span></span> <span data-ttu-id="ac3ab-107">[למד כיצד לעשות זאת](https://go.microsoft.com/fwlink/?linkid=2004316).</span><span class="sxs-lookup"><span data-stu-id="ac3ab-107">[Learn how](https://go.microsoft.com/fwlink/?linkid=2004316).</span></span> <span data-ttu-id="ac3ab-108">הערה כללי זה ו- SharePoint ' מנהלים ' ב- Office 365 תמיד תהיה אפשרות להתחבר לאתרים קבוצות חדשות באמצעות PowerShell cmdlet או API.</span><span class="sxs-lookup"><span data-stu-id="ac3ab-108">Note that global and SharePoint admins in Office 365 will always be able to connect sites to new groups by using the PowerShell cmdlet or API.</span></span>
+<span data-ttu-id="11526-105">אם ברצונך לאפשר למנהלי אוספי אתרים לחבר אתרי צוות קלאסיים לקבוצות חדשות מפקודת תפריט חדשה שאנו מוסיפים, אינך צריך לעשות דבר.</span><span class="sxs-lookup"><span data-stu-id="11526-105">If you want to allow site collection administrators to connect classic team sites to new groups from a new menu command we're adding, you don't need to do anything.</span></span> <span data-ttu-id="11526-106">עם זאת, אם ברצונך להפוך אפשרות זו ללא זמינה, יהיה עליך לשנות את הגדרת ברירת המחדל.</span><span class="sxs-lookup"><span data-stu-id="11526-106">If, however, you want to disable this option, you will need to change the default setting.</span></span> <span data-ttu-id="11526-107">[למד כיצד לעשות זאת](https://go.microsoft.com/fwlink/?linkid=2004316).</span><span class="sxs-lookup"><span data-stu-id="11526-107">[Learn how](https://go.microsoft.com/fwlink/?linkid=2004316).</span></span> <span data-ttu-id="11526-108">שים לב לכך שמנהלים גלובליים ו-SharePoint ב-Office 365 תמיד יוכלו לחבר אתרים לקבוצות חדשות באמצעות ה-cmdlet PowerShell או API.</span><span class="sxs-lookup"><span data-stu-id="11526-108">Note that global and SharePoint admins in Office 365 will always be able to connect sites to new groups by using the PowerShell cmdlet or API.</span></span>
   
 

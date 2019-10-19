@@ -16,30 +16,30 @@ ms.custom:
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
 ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36734166"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="8ecf0-102">הגדרת דואר אלקטרוני ביישום הנייד של Outlook</span><span class="sxs-lookup"><span data-stu-id="8ecf0-102">Set up email in the Outlook mobile app</span></span>
+# <a name="set-up-email-in-the-outlook-mobile-app"></a><span data-ttu-id="354d3-102">הגדרת דואר אלקטרוני ביישום הנייד של Outlook</span><span class="sxs-lookup"><span data-stu-id="354d3-102">Set up email in the Outlook mobile app</span></span>
 
-1. <span data-ttu-id="8ecf0-103">בחר באפשרות ' **התחל** ' אם זו הפעם הראשונה שאתה מגדיר דואר אלקטרוני באפליקציה הניידת.</span><span class="sxs-lookup"><span data-stu-id="8ecf0-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="8ecf0-104">אחרת, הקש על **תפריט** ולאחר מכן הקש על **הגדרות** \> **הוספת** \> **חשבון הוספת חשבון דואר אלקטרוני**.</span><span class="sxs-lookup"><span data-stu-id="8ecf0-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
+1. <span data-ttu-id="354d3-103">בחר באפשרות ' **התחל** ' אם זו הפעם הראשונה שאתה מגדיר דואר אלקטרוני באפליקציה הניידת.</span><span class="sxs-lookup"><span data-stu-id="354d3-103">Select **Get Started** if it's your first time setting up email in the mobile app.</span></span> <span data-ttu-id="354d3-104">אחרת, הקש על **תפריט** ולאחר מכן הקש על **הגדרות** \> **הוספת** \> **חשבון הוספת חשבון דואר אלקטרוני**.</span><span class="sxs-lookup"><span data-stu-id="354d3-104">Otherwise, tap **Menu** and then tap **Settings** \> **Add Account** \> **Add Email Account**.</span></span>
 
-2. <span data-ttu-id="8ecf0-105">הזן את כתובת הדואר האלקטרוני המלאה שלך והקש על **המשך** או **הוסף חשבון**.</span><span class="sxs-lookup"><span data-stu-id="8ecf0-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
+2. <span data-ttu-id="354d3-105">הזן את כתובת הדואר האלקטרוני המלאה שלך והקש על **המשך** או **הוסף חשבון**.</span><span class="sxs-lookup"><span data-stu-id="354d3-105">Enter your full email address and tap **Continue** or **Add Account**.</span></span>
 
-3. <span data-ttu-id="8ecf0-106">הזן את סיסמת חשבון הדואר האלקטרוני שלך והקש על **כניסה פנימה** או **הבא**.</span><span class="sxs-lookup"><span data-stu-id="8ecf0-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
+3. <span data-ttu-id="354d3-106">הזן את סיסמת חשבון הדואר האלקטרוני שלך והקש על **כניסה פנימה** או **הבא**.</span><span class="sxs-lookup"><span data-stu-id="354d3-106">Enter your email account password and tap **Sign In** or **Next**.</span></span>
 
-4. <span data-ttu-id="8ecf0-107">אם [אימות מרובה-גורמים](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) מאופשר, ודא שימוש בשיטה שתגדיר (קוד של 6 ספרות, שיחת טלפון או יישום מאמת של Microsoft).</span><span class="sxs-lookup"><span data-stu-id="8ecf0-107">If [multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
+4. <span data-ttu-id="354d3-107">אם [אימות מרובה-גורמים](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) מאופשר, ודא שימוש בשיטה שתגדיר (קוד של 6 ספרות, שיחת טלפון או יישום מאמת של Microsoft).</span><span class="sxs-lookup"><span data-stu-id="354d3-107">If [multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) is enabled, verify using the method you set up (6 digit code, phone call, or Microsoft Authenticator app).</span></span>
 
-5. <span data-ttu-id="8ecf0-108">אם קיימים במקומם מדיניות ניהול מנהל IT נוספת, הקש על **Activate** כדי להפוך אותם לזמינים.</span><span class="sxs-lookup"><span data-stu-id="8ecf0-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
+5. <span data-ttu-id="354d3-108">אם קיימים במקומם מדיניות ניהול מנהל IT נוספת, הקש על **Activate** כדי להפוך אותם לזמינים.</span><span class="sxs-lookup"><span data-stu-id="354d3-108">If additional IT admin policies are in place, tap **Activate** to enable them.</span></span>
 
-6. <span data-ttu-id="8ecf0-109">Outlook עשוי לבקש הרשאה לגשת ללוח השנה, לאנשי הקשר ולמידע אחר.</span><span class="sxs-lookup"><span data-stu-id="8ecf0-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="8ecf0-110">בחר **באפשרות**' **כן** ' או ' התר '.</span><span class="sxs-lookup"><span data-stu-id="8ecf0-110">Select **Yes** or **Allow**.</span></span>
+6. <span data-ttu-id="354d3-109">Outlook עשוי לבקש הרשאה לגשת ללוח השנה, לאנשי הקשר ולמידע אחר.</span><span class="sxs-lookup"><span data-stu-id="354d3-109">Outlook may request permission to access your calendar, contacts, and other information.</span></span> <span data-ttu-id="354d3-110">בחר **באפשרות**' **כן** ' או ' התר '.</span><span class="sxs-lookup"><span data-stu-id="354d3-110">Select **Yes** or **Allow**.</span></span>
 
-<span data-ttu-id="8ecf0-111">קבל מפורט הוראות להגדיר עבור [Outlook עבור אנדרואיד](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) או [Outlook עבור iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) כאן.</span><span class="sxs-lookup"><span data-stu-id="8ecf0-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
+<span data-ttu-id="354d3-111">קבל מפורט הוראות להגדיר עבור [Outlook עבור אנדרואיד](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) או [Outlook עבור iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) כאן.</span><span class="sxs-lookup"><span data-stu-id="354d3-111">Get detailed set up instructions for [Outlook for Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) or [Outlook for iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) here.</span></span>
   
- <span data-ttu-id="8ecf0-112">**זקוק לעזרה?**</span><span class="sxs-lookup"><span data-stu-id="8ecf0-112">**Need help?**</span></span>
+ <span data-ttu-id="354d3-112">**זקוק לעזרה?**</span><span class="sxs-lookup"><span data-stu-id="354d3-112">**Need help?**</span></span>
   
-- [<span data-ttu-id="8ecf0-113">פתרון בעיות בהתקנת דואר אלקטרוני בנייד</span><span class="sxs-lookup"><span data-stu-id="8ecf0-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [<span data-ttu-id="354d3-113">פתרון בעיות בהתקנת דואר אלקטרוני בנייד</span><span class="sxs-lookup"><span data-stu-id="354d3-113">Troubleshoot email setup on mobile</span></span>](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [<span data-ttu-id="8ecf0-114">קבל ב-app עזרה עבור Outlook עבור iOS ו-Android</span><span class="sxs-lookup"><span data-stu-id="8ecf0-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [<span data-ttu-id="354d3-114">קבל ב-app עזרה עבור Outlook עבור iOS ו-Android</span><span class="sxs-lookup"><span data-stu-id="354d3-114">Get in-app help for Outlook for iOS and Android</span></span>](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

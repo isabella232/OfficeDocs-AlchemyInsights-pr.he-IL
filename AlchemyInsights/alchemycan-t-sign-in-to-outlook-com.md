@@ -1,5 +1,5 @@
 ---
-title: אלכימיה - אין אפשרות להיכנס ל- Outlook.com
+title: אלכימיה-אין אפשרות להיכנס לOutlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 79595b9d-ce9b-44e5-b142-8d6df9cbb427
 ms.openlocfilehash: 6c13c50e66dc8575c5b1803e83b8842c0481511e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36493952"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a><span data-ttu-id="40b95-102">אין באפשרותך להיכנס ל- Outlook.com</span><span class="sxs-lookup"><span data-stu-id="40b95-102">Can't sign in to Outlook.com</span></span>
+# <a name="cant-sign-in-to-outlookcom"></a><span data-ttu-id="bd3af-102">אין אפשרות להיכנס לOutlook.com</span><span class="sxs-lookup"><span data-stu-id="bd3af-102">Can't sign in to Outlook.com</span></span>
 
-<span data-ttu-id="40b95-103">אם אתה נתקל בבעיות בכניסה לחשבון שלך, ודא כי החשבון שלך לא פעיל למשך יותר מ- 365 ימים.</span><span class="sxs-lookup"><span data-stu-id="40b95-103">If you're having problems signing into your account, make sure your account hasn't been inactive for more than 365 days.</span></span> <span data-ttu-id="40b95-104">לאחר 365 ימים של חוסר פעילות, הדוא ל שלך יימחקו ואין אפשרות לשחזר אותה.</span><span class="sxs-lookup"><span data-stu-id="40b95-104">After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
+<span data-ttu-id="bd3af-103">אם אתה נתקל בבעיות בכניסה לחשבונך, ודא שהחשבון שלך לא היה פעיל במשך יותר מ-365 ימים.</span><span class="sxs-lookup"><span data-stu-id="bd3af-103">If you're having problems signing into your account, make sure your account hasn't been inactive for more than 365 days.</span></span> <span data-ttu-id="bd3af-104">לאחר 365 ימים של חוסר פעילות, הדוא ל שלך יימחק ולא ניתן לשחזר.</span><span class="sxs-lookup"><span data-stu-id="bd3af-104">After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
   
-<span data-ttu-id="40b95-105">החשבון שלך עלולה להיות חסומה זמנית מאחר שמנו פעילות סימן חריגות מסוימות.</span><span class="sxs-lookup"><span data-stu-id="40b95-105">Your account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="40b95-106">אם החשבון שלך חסום, לקרוא כיצד [בטל חסימה חשבון Outlook.com שלי](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx).</span><span class="sxs-lookup"><span data-stu-id="40b95-106">If your account is blocked, read how to [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx).</span></span> 
+<span data-ttu-id="bd3af-105">ייתכן שהחשבון שלך נחסם באופן זמני מכיוון שבחנו בפעילות כניסה בלתי רגילה.</span><span class="sxs-lookup"><span data-stu-id="bd3af-105">Your account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="bd3af-106">אם החשבון שלך חסום, קרא כיצד [לבטל את חסימת חשבון Outlook.com שלי](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx).</span><span class="sxs-lookup"><span data-stu-id="bd3af-106">If your account is blocked, read how to [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4.aspx).</span></span> 
   
-<span data-ttu-id="40b95-107">אם אתה חושד שחשבונך Outlook.com פרצו למחשב, ראה [חשבון Outlook.com שלי פרצו למחשב](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).</span><span class="sxs-lookup"><span data-stu-id="40b95-107">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).</span></span>
+<span data-ttu-id="bd3af-107">אם אתה חושד שחשבון Outlook.com שלך נפרץ, ראה [חשבון Outlook.com שלי נפרץ](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).</span><span class="sxs-lookup"><span data-stu-id="bd3af-107">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8.aspx).</span></span>
   
-<span data-ttu-id="40b95-108">אם כבר שכחת או איבדת את הסיסמה שלך, באפשרותך [לאפס את הסיסמה שלך](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span><span class="sxs-lookup"><span data-stu-id="40b95-108">If you've forgotten or lost your password, you can [Reset your password](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span></span>
+<span data-ttu-id="bd3af-108">אם שכחת או איבדת את הסיסמה, באפשרותך [לאפס את סיסמתך](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span><span class="sxs-lookup"><span data-stu-id="bd3af-108">If you've forgotten or lost your password, you can [Reset your password](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span></span>
   
-<span data-ttu-id="40b95-109">קרא עוד אודות [כאשר אין באפשרותך להיכנס לחשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="40b95-109">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
+<span data-ttu-id="bd3af-109">קרא עוד אודות [המועד שבו אין באפשרותך להיכנס לחשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="bd3af-109">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
   
 
