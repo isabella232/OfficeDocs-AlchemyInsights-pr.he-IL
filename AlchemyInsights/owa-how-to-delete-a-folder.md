@@ -14,17 +14,17 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556530"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>כיצד למחוק תיקיה ב- Outlook באינטרנט
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>כיצד למחוק תיקיה ב-Outlook באינטרנט
 
-1. בחלונית התיקיות, לחץ לחיצה ימנית על התיקיה או על תיקיית המשנה שברצונך למחוק.
-2. בחר **מחק תיקיה**.
-3. לחץ על **אישור** כדי לאשר.
+1. בחלונית התיקיות, לחץ באמצעות לחצן העכבר הימני על התיקיה או תיקיית המשנה שברצונך למחוק.
+2. בחר את **תיקיית המחיקה**.
+3. בחר **ב'אישור '** כדי לאשר.
 
-לקבלת מידע נוסף, ראה [עבודה עם תיקיות של הודעות ב- Outlook באינטרנט](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+כדי ללמוד עוד, ראה [עבודה עם תיקיות הודעות ב-Outlook באינטרנט](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

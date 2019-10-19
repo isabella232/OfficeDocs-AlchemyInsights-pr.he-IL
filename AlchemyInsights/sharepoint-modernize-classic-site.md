@@ -1,5 +1,5 @@
 ---
-title: אתר מודרניים כמו אתר הבסיס
+title: אתר מודרני כאתר השורש
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,22 +7,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ''
-ms.openlocfilehash: 7f481110d37bed6660c5a220ac230284d613c976
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.assetid:
+- "9000153"
+- "1692"
+ms.openlocfilehash: 6f55f1c63551027cc5522d296cb3f3f342356d95
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503492"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36576680"
 ---
-# <a name="modernize-your-classic-sharepoint-site"></a>Modernize אתר SharePoint שלך קלאסי
+# <a name="modernize-your-classic-sharepoint-site"></a>מודרניזציה אתר SharePoint הקלאסי שלך
 
-ראה הבאות לקבלת פרטים אודות השימוש חוויית מודרני חדש:
+כדי להפוך את הבורר לממשק משתמש מודרני, עליך להתמקד בפעולות הבאות:
 
-- לקבלת מבט כולל שלב אחר שלב של modernizing לאתרי SharePoint שלך קלאסי לחוויית מודרניים, עיין [Modernize לאתרי SharePoint שלך קלאסי](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- המעבר **בין הרשימות והספריות** שלך לשימוש בממשק המשתמש המודרני (המכונה גם הרשימה המודרנית וחוויית הספריה).
+- שינוי הצורה של **דפי האתר** מדפי wiki וחלקי אינטרנט קלאסיים לדפים מודרניים בצד הלקוח.
+- יצירת **אתרים מודרניים** (אתר צוות או אתר תקשורת).
 
-- כדי להגדיל את השימוש של ממשק המשתמש מודרני עבור דפי רשימה וספריה ודפים באתר שלך, עיין [Modernize בממשק המשתמש](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface). 
+למודרניזציה החוויה שלך על ידי:
+- [הפעלת רשימות וספריות להצגה בממשק המשתמש המודרני](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries) על-ידי החלפת התאמות אישיות, הסרת עמודות לא תואמות מהתצוגות שבשימוש או (כמוצא אחרון) העברת נתונים לסוג רשימה תואם-ממשק משתמש מודרני.
+- [חיבור האתר שלך לקבוצת Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group), המעניקה לאתר שלך דף בית מודרני ומאפשר לאתר שלך להשתמש, לדוגמה, תיבת דואר או מתכנן Microsoft. הדבר מאפשר לך להשתמש בגירסה מודרנית של לוח שנה ורשימת משימות.
+- [יצירת דפים מודרניים](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec), היא דרך מצוינת לשתף רעיונות באמצעות תמונות, Excel, Word ו-PowerPoint מסמכים, וידאו ועוד.
+- [יצירת דפים מודרניים בצד הלקוח](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) וקביעת התצורה של הגדרות אלה "דומות" לדפי הויקי והאינטרנט הקלאסיים של המפתח. יש לבצע שינוי עמוד תכנותי עבור דפי המפתח של האתרים שלך, כאשר שינוי הצורה של כל העמודים הוא עתיר משאבים ולעתים קרובות אינו נחוץ. כדי לסייע במקרי מיון אלה, סורק המודרניזציה של SharePoint יכול לתת לך מידע אודות השימוש אודות דפי הויקי והאינטרנט הנוכחיים.
+- [יצירת אתרים מודרניים](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d). האם עלי ליצור אתר צוות או אתר תקשורת?
 
-- כדי ללמוד עוד אודות כיצד לבטל את החסימה של הרשימות והספריות שלך בעת שימוש בממשק המשתמש מודרניים, ראה [שימוש הגדל של ספריות ורשימות מודרני](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+מידע נוסף: 
+- לקבלת סקירה צעד-אחר-צעד של המודרניזציה של אתרי SharePoint הקלאסיים שלך לחוויה המודרנית, ראה [המודרניזציה של אתרי sharepoint הקלאסיים שלך](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- ראו מדריך [לחוויה מודרנית](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- ראה [התנסויות קלאסיות ומודרניות של SharePoint](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f). 
 
-- לקבלת מידע נוסף אודות התחברות לקבוצת Office 365 וביצוע של חיבור הקבוצה, ראה [התחברות לקבוצת Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+
+
+

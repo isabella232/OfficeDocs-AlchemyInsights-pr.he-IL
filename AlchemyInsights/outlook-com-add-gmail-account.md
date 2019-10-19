@@ -1,5 +1,5 @@
 ---
-title: להוסיף חשבון Gmail Outlook.com
+title: הוסף חשבון Gmail ל Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538129"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>להוסיף חשבון Gmail שלך Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>הוסף את חשבון Gmail שלך לOutlook.com
 
-1. פתח את [הגדרות סינכרון של דואר אלקטרוני](https://go.microsoft.com/fwlink/?linkid=875264).
-2. תחת **חשבונות מחוברים**, בחר **Gmail**.
-3. הזן שם תצוגה (הנמענים שם יראו כאשר הם מקבלים הודעת דואר אלקטרוני ממך).
-4. בחר אם Outlook.com לייבא הדוא ל שלך מ- Gmail והיכן יאוחסן דואר אלקטרוני מיובאת.
-5. בחר **אישור** כדי לעבור אל דף הכניסה של Google.
+1. פתח את [הגדרות הדואר האלקטרוני לסינכרון](https://go.microsoft.com/fwlink/?linkid=875264).
+2. תחת **חשבונות מחוברים**, בחר ב- **Gmail**.
+3. הזן שם תצוגה (נמעני השמות יראו כאשר יקבלו ממך הודעת דואר אלקטרוני).
+4. בחר אם Outlook.com צריך לייבא את הדוא ל שלך מ-Gmail והיכן הדוא ל המיובאים יאוחסנו.
+5. בחר **ב'אישור** ' כדי לעבור אל דף הכניסה של Google.
 
-סינכרון מחשבון מחובר לחשבון שלך Outlook.com הוא חד-כיווני בלבד. דואר אלקטרוני נשלח מחשבון Gmail שלך באמצעות Outlook.com לא יופיעו פריטים שנשלחו ב- Gmail.
+סינכרון מחשבון מחובר לחשבון Outlook.com שלך הוא כיוון אחד בלבד. דואר אלקטרוני שנשלח מחשבון Gmail שלך באמצעות Outlook.com לא יופיע בפריטים שנשלחו ב-Gmail.
 
-באפשרותך לשלוח דואר אלקטרוני ב- Outlook.com מחשבון Gmail שלך מחובר. בעת חיבור הודעת דואר אלקטרוני, בחר **מתוך** ובחר שלך כתובת Gmail, או [לעדכן את ברירת המחדל מכתובת](https://go.microsoft.com/fwlink/?linkid=875264).
+אתה יכול לשלוח דואר אלקטרוני ב Outlook.com מהחשבון המחובר שלך ב-Gmail. בעת חיבור דואר אלקטרוני, בחר **מתוך** ובחר את כתובת Gmail שלך, או [עדכן את כתובתך ברירת המחדל](https://go.microsoft.com/fwlink/?linkid=875264).
 
-לקבלת מידע נוסף, ראה [הוספה שלך אחרים חשבונות דואר אלקטרוני כדי Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+לקבלת מידע נוסף, ראה [הוספת חשבונות דואר אלקטרוני אחרים לOutlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

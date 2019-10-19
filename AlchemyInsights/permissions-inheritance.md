@@ -1,5 +1,5 @@
 ---
-title: מעבר בירושה של הרשאות
+title: הרשאות בירושה
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554947"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>כיצד פועלת ירושה של הרשאות ב- SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>כיצד מורשת ההרשאות פועלת ב-SharePoint
 
-כברירת מחדל, עוברות בירושה הרשאות ב- SharePoint מתוך למעלה גבוהה יותר בהירארכיה. כך קובץ יורש את הרשאותיו מהתיקיה, יורש את הרשאותיו מספריית, יורש את הרשאותיו מאתר, יורש את הרשאותיו מאוסף האתרים.
+כברירת מחדל, הרשאות ב-SharePoint עוברות בירושה מלמעלה בהירארכיה. לכן, קובץ יורש את הרשאותיו מהתיקיה, שיורשת את ההרשאות שלו מהספריה, היורשת את ההרשאות שלו מהאתר, היורשת את ההרשאות שלו מאוסף האתרים.
   
-לקבלת מידע אודות הסרת הרשאות ייחודיות ושחזור של ירושה, ראה [לערוך ולנהל הרשאות עבור רשימה או ספריה](https://go.microsoft.com/fwlink/?linkid=869946).
+לקבלת מידע אודות הסרת הרשאות ייחודיות ושחזור ירושה, ראה [עריכה וניהול של הרשאות עבור רשימה או ספריה](https://go.microsoft.com/fwlink/?linkid=869946).
   
 

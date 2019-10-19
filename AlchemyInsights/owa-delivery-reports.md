@@ -1,5 +1,5 @@
 ---
-title: דוחות אי-מסירה ב- Outlook באינטרנט
+title: דוחות אי-מסירה ב-Outlook באינטרנט
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,14 +10,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
 ms.openlocfilehash: 1b39decd55f0bf63746a28866f880d42dd4d3001
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557106"
 ---
-# <a name="issues-with-email-delivery"></a>בעיות עם מסירת דואר אלקטרוני
+# <a name="issues-with-email-delivery"></a>בעיות במשלוח דואר אלקטרוני
 
-כאשר קיימת בעיה מסירת הודעת דואר אלקטרוני ששלחת, Office 365 שולח הודעת דואר אלקטרוני כדי ליידע אותך. הודעת הדואר האלקטרוני שאתה מקבל הוא דיווח מצב מסירה, המכונה גם הודעה DSN או ניתור. הסוג הנפוץ ביותר נקרא הדוח אי-מסירה (NDR), אשר מורה לא נמסרה הודעה. אי-מסירה עשוי להיגרם על-ידי משהו פשוט כמו טעות הקלדה של כתובת דואר אלקטרוני. דוחות Ndr לכלול קוד שגיאה המציינת מדוע לא נמסרה הדוא ל שלך, פתרונות כדי לסייע לך לקבל את הדואר האלקטרוני שלך נמסרה, קישור עזרה נוספת על האינטרנט, ועל פרטים טכניים עבור מנהלי מערכת.
+כאשר יש בעיה בהעברת הודעת דואר אלקטרוני ששלחת, Office 365 שולח דואר אלקטרוני כדי ליידע אותך. הודעת הדואר האלקטרוני שקיבלת היא הודעה על מצב מסירה, המוכרת גם כ-DSN או כהודעת ניתור. הסוג הנפוץ ביותר נקרא דוח אי-מסירה (NDR), שאומר לך שההודעה לא נמסרה. אי-מסירה יכול להיגרם על ידי משהו פשוט כמו שגיאת דפוס בכתובת דוא. כולל קוד שגיאה המציין מדוע הדואר האלקטרוני שלך לא נמסר, פתרונות שיסייעו לך לקבל את הדואר האלקטרוני שלך, קישור לעזרה נוספת באינטרנט ופרטים טכניים עבור מנהלי מערכת.
 
-כדי לראות רשימה של דוחות Ndr ולגלות מדוע ההודעה שלך לא נמסרה, ראה [דואר אלקטרוני אי-מסירה דוחות ב- Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+כדי לראות רשימה של הודעות דואר אלקטרוני ולברר מדוע הודעתך לא נמסרה, ראה [דוחות אי-מסירה של דוא ל ב-Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).

@@ -1,5 +1,5 @@
 ---
-title: הוספת 9000238 Outlook.com כינוי
+title: 9000238 Outlook.com מוסיף כינוי
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542702"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>הוסף כינוי דואר אלקטרוני ב- Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>הוספת כינוי דואר אלקטרוני בOutlook.com
 
-כינוי הוא כתובת דואר אלקטרוני נוספת המשתמשת באותה תיבת הדואר הנכנס, רשימת אנשי הקשר והגדרות חשבון ככתובת הדואר האלקטרוני הראשית שלך. באפשרותך לבחור אילו כתובת דואר אלקטרוני לשליחת דואר, ואתה יכול להיכנס לחשבון שלך Outlook.com עם כל הכינויים שלך — כולם להשתמש באותה הסיסמה.
+כינוי הוא כתובת דואר אלקטרוני נוספת המשתמשת באותה תיבת דואר נכנס, רשימת אנשי קשר והגדרות חשבון ככתובת הדואר האלקטרוני הראשית שלך. באפשרותך לבחור את כתובת הדואר האלקטרוני לשליחת דואר, ובאפשרותך להיכנס לחשבון Outlook.com שלך עם כל אחד מהכינויים שלך — כולם משתמשים באותה סיסמה.
 
-כדי להוסיף כתובת דואר אלקטרוני:
+להוספת כתובת אימייל:
 
-1. לעבור לדף [הוספת כינוי](https://go.microsoft.com/fwlink/p/?linkid=864833). היכנס לחשבון Microsoft שלך, אם תתבקש לעשות זאת.
-2. תחת **הוסף כינוי**, אחד:
-    1. צור כתובת דואר אלקטרוני Outlook.com חדשה והוסף אותו ככינוי.
-    2. הוספת כתובת דואר אלקטרוני קיימת ככינוי.
-3. בחר **הוסף כינוי**.
+1. עבור [להוספת כינוי](https://go.microsoft.com/fwlink/p/?linkid=864833). היכנס לחשבון Microsoft שלך, אם תתבקש.
+2. תחת **הוסף כינוי**, בין אם:
+    1. צור כתובת דואר אלקטרוני חדשה Outlook.com והוסף אותה ככינוי.
+    2. הוסף כינוי דואר אלקטרוני קיים ככינוי.
+3. בחר **בהוסף כינוי**.
 
-קרא עוד אודות האופן שבו ניתן [להוסיף](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)או להסיר כינוי דואר אלקטרוני ב- Outlook.com.  
+קרא עוד אודות אופן [ההוספה או ההסרה של כינוי דואר אלקטרוני ב-Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-קרא [כיצד להתחבר לחשבון דואר אלקטרוני אחר](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) לחשבון שלך Outlook.com.
+קרא [כיצד לחבר חשבון דואר אלקטרוני אחר](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) לחשבון Outlook.com שלך.

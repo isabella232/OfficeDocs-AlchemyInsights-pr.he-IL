@@ -12,17 +12,17 @@ ms.custom:
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
 ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660901"
 ---
 # <a name="setup-email-accounts"></a>הגדרת חשבונות אימייל
 
-1. ב-Outlook, **** > בחר בחשבון הוספת**פרטי** > **** קובץ.
+1. ב-Outlook, בחר**בחשבון הוספת****פרטי** >  **קובץ** > .
 
-2. הזן את כתובת הדואר האלקטרוני **** שלך ולאחר מכן בחר באפשרות התחבר.
+2. הזן את כתובת הדואר האלקטרוני שלך ולאחר מכן בחר באפשרות **התחבר**.
 
 3. הזן את סיסמתך ולאחר מכן בחר **באישור**.
 

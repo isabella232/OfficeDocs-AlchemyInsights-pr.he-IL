@@ -1,5 +1,5 @@
 ---
-title: 8000037 אינו מקבל דואר אלקטרוני ב- Outlook.com
+title: 8000037 לא מקבל דואר אלקטרוני בOutlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
 ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538562"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>לא מקבל דואר ב- Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>לא מקבל דואר בOutlook.com
 
-אם אתה לא מקבל דואר אלקטרוני משולח מסוים, כגון דוחות בנק או הסיסמה שלך לאפס הודעות, יהיה עליך לפנות אל השולח ולהודיע לו שאינם קבלת דואר אלקטרוני בכל חשבון Outlook.com שלך. נא עיין השולח כדי [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), היכן ניתן למצוא מידע אודות שיטות עבודה מומלצות, המלצת פתרון בעיות קישור ליצירת קשר עם צוות התמיכה שלנו השולח.
+אם אינך מקבל דואר אלקטרוני משולח ספציפי, כגון דוחות הבנק שלך או הודעות איפוס סיסמה, יהיה עליך ליצור קשר עם השולח וליידע אותם שאינך מקבל דואר אלקטרוני בחשבון Outlook.com שלך. נא פנה אל [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)השולח, שבו באפשרותם למצוא מידע אודות שיטות עבודה מומלצות, המלץ על פתרון בעיות וקישור ליצירת קשר עם צוות התמיכה של השולח.
   
-אם החשבון שלך Outlook.com אינו מקבל כל דוא ל, עיין [Outlook.com לפתור בעיות סינכרון של דואר אלקטרוני](https://go.microsoft.com/fwlink/p/?linkid=874363).
+אם חשבון Outlook.com שלך אינו מקבל דוא ל כלל, ראה [תיקון הודעות דוא ל Outlook.com בעיות סינכרון](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 

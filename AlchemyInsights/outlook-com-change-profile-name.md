@@ -1,5 +1,5 @@
 ---
-title: לשנות את שם הפרופיל שלך ב- Outlook.com
+title: שנה את שם הפרופיל שלך בOutlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546721"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a>לשנות את שם הפרופיל שלך ב- Outlook.com
+# <a name="change-your-profile-name-in-outlookcom"></a>שנה את שם הפרופיל שלך בOutlook.com
 
-1. מעבר אל [מידע חשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. בחר **לערוך שם**.
-3. הזן שם פרטי ושם משפחה, ובחר באפשרות **שמור**.
+1. עבור אל [פרטי חשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=860841).
+2. בחר **שם עריכה**.
+3. הזן שם פרטי ושם משפחה ובחר באפשרות ' **שמור**'.
 
-לתשומת לבך, עד 24 שעות עבור שינויים שם הפרופיל שלך אל תיכנס לתוקף.
+נא המתן עד 24 שעות לשינוי שם הפרופיל שלך כדי להיכנס לתוקף.

@@ -1,5 +1,5 @@
 ---
-title: הרשאות החשבון Outlook.com מחובר 8000093
+title: 8000093 Outlook.com הרשאות חשבון מחוברות
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.custom:
 - "1431"
 - "8000093"
 ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546882"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>כיצד לתקן "נראה כאילו אין לנו הרשאה"
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>איך לתקן "זה נראה כאילו אין לנו אישור"
 
-אם אתה רואה את הודעת השגיאה "נראה כאילו אין לנו הרשאה לקבל דואר אלקטרוני עבור..." נא בצע את הפעולות הבאות:
+אם אתה רואה את הודעת השגיאה "זה נראה כאילו אין לנו הרשאה לקבל דואר אלקטרוני..." אנא בצע את הפעולות הבאות:
 
-1. פתח את [הגדרות החשבון המחובר](https://outlook.live.com/mail/options/mail/accounts) להסיר או למחוק את החשבון המחובר המפורטים בהשגיאה.
+1. פתח את [הגדרות החשבון המחובר](https://outlook.live.com/mail/options/mail/accounts) שלך והסר או מחק את החשבון המחובר המפורט בשגיאה.
 2. הוסף שוב את החשבון המחובר.
-3. מעבר [אחורה אל תיבת הדואר שלך](https://outlook.live.com/mail/inbox).
+3. . [תחזור לתיבת הדואר שלך](https://outlook.live.com/mail/inbox)
 
-היא עשויה להימשך זמן מה עבור כל הודעות דוא ל לסנכרן מחדש מהחשבון שלך מחובר.
+זה יכול לקחת קצת זמן עבור כל הודעות דוא ל לסנכרן מחדש מהחשבון המחובר שלך.
 
-למד עוד אודות [ [הסרת](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) והוספת](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) חשבונות מחוברים.
+למד עוד אודות [הסרה](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) [והוספה](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) של חשבונות מחוברים.

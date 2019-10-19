@@ -1,5 +1,5 @@
 ---
-title: אלכימיה - חיפוש Outlook לא idexing
+title: אלכימיה-חיפוש Outlook לא אידיזינג
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
 ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505832"
 ---
-# <a name="outlook-search-not-indexing"></a>לא יצירת אינדקס החיפוש של outlook
+# <a name="outlook-search-not-indexing"></a>חיפוש ב-Outlook אינו יוצר אינדקס
 
-אנו מודעים Outlook חיפוש בעיות הקשורות לעדכני עדכוני אבטחה של Windows.
+אנו מודעים לבעיות חיפוש ב-Outlook הקשורות לעדכוני האבטחה האחרונים עבור Windows.
   
-בעת חיפוש ב- Outlook, ייתכן שתקבל אחת מהשגיאות הבאות: **משהו השתבש וגם לא היתה אפשרות להשלים את החיפוש שלך**, או **ייתכן שתוצאות החיפוש לא הושלמה מאחר פריטים עדיין כלולים באינדקס**. הונפק על-ידי תיקון כעדכון אופציונלי של Windows. נא התקן את אחד התואם לגירסת Windows שאתה רואה בעיה זו על: 
+בעת חיפוש ב-Outlook, ייתכן שתקבל אחת מהשגיאות הבאות: **משהו השתבש והחיפוש שלך לא הושלם**, או **שתוצאות החיפוש עשויות להיות לא שלמות מכיוון שפריטים עדיין נכללים באינדקס**. התיקון הונפק כעדכון אופציונלי של Windows. נא התקן את המחשב המתאים לגירסת Windows שבה אתה רואה את הבעיה המתוארת: 
   
-> [Windows 7 - 27 ביוני 2017 לעדכן](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7-יוני 27, 2017 עדכון](https://support.microsoft.com/kb/4022168.aspx)
     
-> [עדכון של Windows 8.1 - 27 ביוני 2017](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8.1-27 ביוני, 2017 עדכון](https://support.microsoft.com/kb/4022720.aspx)
     
-> [גירסת Windows 10 1703 - עדכון 27 ביוני 2017](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 גירסה 1703-27 ביוני, 2017 עדכון](https://support.microsoft.com/kb/4022716.aspx)
     
-לקבלת המידע העדכני ביותר, נא עיין במאמר: [עדכוני האבטחה של יוני 2017 בעיות ידועות עם Outlook](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) בעיה #5. 
+לקבלת המידע העדכני ביותר, עיין במאמר: [בעיות ידועות ב-Outlook בנושא עדכוני האבטחה ה#5 ביוני 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) . 
   
 

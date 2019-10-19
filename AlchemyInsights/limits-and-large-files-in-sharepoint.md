@@ -1,5 +1,5 @@
 ---
-title: קבצים גדולים ב- SharePoint ומגבלות
+title: מגבלות וקבצים גדולים ב-SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497588"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>הקבצים אין אפשרות להעלות ל- SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>קבצים שלא ניתן להעלות ל-SharePoint Online
 
-אם קובץ לא העלה ל- SharePoint Online, ודא כי:
+אם קובץ לא יטען ל-SharePoint Online, ודא כי:
   
-- הוא פחות מ- 15 GB בגודל.
+- זה פחות מ 15 GB בגודל.
     
-- הנתיב כולו, כולל שם הקובץ, הוא פחות מ- 400 תווים.
+- הנתיב כולו, כולל שם הקובץ, קטן מ-400 תווים.
     
-- שם הקובץ אינו מכיל את התווים " \* : \< \> ? / \ | לא נמצאת ברשימה של [שמות לא חוקי](https://go.microsoft.com/fwlink/?linkid=866430).
+- שם הקובץ אינו מכיל את התווים \< \> " \* :? / \ | ולא ברשימה של [שמות לא חוקיים](https://go.microsoft.com/fwlink/?linkid=866430).
     
-אם אתה מנסה לטעון את הקובץ באמצעות היישום בשולחן העבודה של OneDrive, ראה [הגבלות ומגבלות בעת סינכרון קבצים ותיקיות](http://go.microsoft.com/fwlink/p/?LinkID=717734) או [OneDrive לפתור בעיות סינכרון](https://go.microsoft.com/fwlink/?linkid=866431).
+אם אתה מנסה להעלות את הקובץ באמצעות יישום שולחן העבודה OneDrive, ראה [הגבלות ומגבלות כאשר אתה מסנכרן קבצים ותיקיות](http://go.microsoft.com/fwlink/p/?LinkID=717734) או [מתקן בעיות של סינכרון onedrive](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

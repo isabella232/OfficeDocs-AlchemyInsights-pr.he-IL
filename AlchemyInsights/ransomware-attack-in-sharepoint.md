@@ -1,5 +1,5 @@
 ---
-title: התקפה Ransomware ב- SharePoint או OneDrive
+title: Ransomware התקפה ב-SharePoint או OneDrive
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4f8e77cbbf7385fefbd30ca0e5e59134fd2a2f4e
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553397"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745542"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>התקפה Ransomware ב- SharePoint או OneDrive
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware התקפה ב-SharePoint או OneDrive
 
-1.  אם אתה מחפש עזרה לגבי מה לעשות כאשר נמצא קובץ זדוני OneDrive או צוותים או SharePoint שלך, ראה [מה לעשות כאשר נמצא קובץ זדוני](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
+1.  אם אתה מחפש עזרה על מה לעשות כאשר קובץ זדוני נמצא על OneDrive או צוותי SharePoint או שלך, ראה [מה לעשות כאשר קובץ זדוני נמצא](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
 2. אם אתה מחפש כיצד להגן על הנתונים שלך מפני ransomware, ראה:
-    - [הגנה על הנתונים שלך ב- SharePoint ו- OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [הגנה מפני איום Ransomware](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+    - [שמירה על הנתונים שלך ב-SharePoint ו-OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [הגנה מפני איומים Ransomware](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  האם כל הקבצים ב- OneDrive או ה-SharePoint שלך מושפע Ransomware או תוכנות זדוניות או וירוס ההצפנה? 
+3.  האם כל הקבצים על OneDrive שלך או SharePoint מושפע על ידי Ransomware או Malware או וירוס הצפנה? 
 
-מיד עצירה/השהה הסינכרון OneDrive (אם בכלל) או לנתק את תצוגת סייר ממופה לספריית מן המחשב המושפע (אם בכלל), ולאחר מכן שחזר את הספריה כולה OneDrive או SharePoint לזמן קודם באמצעות תכונת שחזור קבצים. 
+עצור/השהה באופן מיידי את סינכרון OneDrive (אם בכלל) או התנתק מתצוגת Explorer הממופה לספריה מהמחשב המושפע (אם בכלל), ולאחר מכן באפשרותך לשחזר את הספריה כולה של OneDrive או SharePoint לפעם קודמת על-ידי שימוש בתכונת שחזור הקבצים. 
 
-לקבלת מידע נוסף על אופן שחזור, ראה:
+לקבלת מידע נוסף אודות אופן השחזור, ראה:
 
-- [שחזור ספריה OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [שחזור ספריית מסמכים](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
+- [שחזור ספריית OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [שחזור ספריית מסמכים](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-לקבלת מידע נוסף אודות הגנה מפני איום מתקדם (ATP), ראה:
+לקבלת מידע נוסף על הגנת איום מתקדם (ATP), ראה:
 - [ATP עבור SharePoint, OneDrive וצוותים](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [תצוגות הסייר איום](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [האיום בסייר התצוגות](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
-מידע נוסף:
+פרטים נוספים:
 
-- [זיהוי וירוסים ב- SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [הצפנת נתונים ODB ו- SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [זיהוי Ransomware ושחזור קבצים](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [זיהוי איום Explorer ובזמן אמת](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [איתור וירוסים ב-SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [הצפנת נתונים ב-ODB ו-SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Ransomware האיתור והשחזור של קבצים](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [האיום של סייר והגילויים בזמן אמת](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

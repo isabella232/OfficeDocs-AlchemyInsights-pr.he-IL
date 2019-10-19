@@ -1,5 +1,5 @@
 ---
-title: Access מותנה עם Intune
+title: גישה מותנית עם Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504995"
 ---
-# <a name="conditional-access-with-intune"></a>Access מותנה עם Intune
+# <a name="conditional-access-with-intune"></a>גישה מותנית עם Intune
 
-באמצעות **Access מותנה** Intune דורש 3 שלבים: 
+שימוש **בגישה מותנית** עם Intune דורש 3 שלבים: 
   
-- יצירת **מדיניות Access מותנה** המגדיר המוגן אילו משאבים, ואת התנאים הדרושים יתקיימו לקבל גישה למשאבים אלה. לדוגמה, התקן חייב להיות תואם בטרם ניגש דוא של החברה. 
+- צור **מדיניות גישה מותנית** המגדירה אילו משאבים מוגנים ואילו תנאים יש להכיר כדי לגשת למשאבים אלה. לדוגמה, על התקן להיות תואם לפני הגישה לדואר אלקטרוני של חברה. 
     
-- יצירת **מדיניות תאימות** כדי להגדיר הגדרות שיש לעמוד בהן לפני נחשבת להתקן תואם. לדוגמה, התקן חייב להיות ה-pin של ספרות לפחות 6 לפני שהיא נחשבת תואם. 
+- צור **מדיניות תאימות** כדי להגדיר הגדרות שחייבות להיות מולאו לפני שההתקן נחשב לתואם. לדוגמה, על התקן להיות בעל pin של 6 ספרות לפחות לפני שהוא נחשב לתואם. 
     
-- הבטחת **תאימות מדיניות** **ומדיניות Access מותנה** מיועדים לקבוצות הרצוי של משתמשים. פעולה זו עשויה לדרוש יצירת קבוצות מסוימות של משתמשים ב- Active Directory תכלת הרקיע. 
+- הבטחת הן **מדיניות תאימות** והן **פריטי מדיניות גישה מותנית** מיועדים לקבוצות המשתמשים הרצויות. הדבר עשוי לדרוש יצירת קבוצות מסוימות של משתמשים בספריית הפעילות התכלת. 
     
 קרא עוד:
   
-- [מותנה Access, שיטות עבודה מומלצות](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [שיטות עבודה מומלצות לגישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [תחילת העבודה עם Access מותנה](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [תחילת ההתחלה עם גישה מותנית](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

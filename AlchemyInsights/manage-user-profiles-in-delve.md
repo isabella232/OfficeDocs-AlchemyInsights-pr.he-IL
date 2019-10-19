@@ -1,5 +1,5 @@
 ---
-title: ניהול פרופילי משתמשים ב- Delve
+title: ניהול פרופילי משתמשים בהתעמק
 ms.author: ponincev
 author: pebaum
 ms.date: 9/12/2018
@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497192"
 ---
-# <a name="manage-user-profiles-in-delve"></a>ניהול פרופילי משתמשים ב- Delve
+# <a name="manage-user-profiles-in-delve"></a>ניהול פרופילי משתמשים בהתעמק
 
-Office Delve מאפשר למשתמשים לנהל בפרופיל המשתמש שלו ב- Office 365. משתמשים יכולים:
+Office להתעמק מאפשר למשתמשים לנהל את פרופיל המשתמש שלהם ב-Office 365. משתמשים יכולים:
   
 - הצג ועדכן את המידע שלהם
     
-- לשמור על פרטיות מידע מסוים
+- שמור קצת מידע פרטי
     
-- שינוי תמונת הפרופיל או השער שלהם
+- שינוי הפרופיל או תמונת הכיסוי שלהם
     
-- שנה את תבנית השפה והשעה עבור Delve
+- שינוי תבנית השפה והשעה עבור ההתעמק
     
 > [!NOTE]
-> אם משתמש עדכנה את תמונת הפרופיל שלהם ואת השינוי אינו מופיע ב- SharePoint או OneDrive, כדי לבקש ממנו לפתוח דפדפן אינטרנט, [לעבור אל Office.com](https://www.office.com), היכנס באמצעות עבודתם או בית ספר החשבון ולאחר מכן לחץ על המשבצת OneDrive או SharePoint. זה יבקש את תמונת הפרופיל לסינכרון. המשתמש, ייתכן שתצטרך לנסות להשלים שלבים אלה עם פרטי הגירסה של הדפדפן שלהם. 
+> אם משתמש עדכן את תמונת הפרופיל שלהם והשינוי אינו מופיע ב-SharePoint או OneDrive, בקש מהם לפתוח דפדפן אינטרנט, [עבור אל Office.com](https://www.office.com), היכנס באמצעות העבודה או חשבון בית הספר ולאחר מכן לחץ על האריח Onedrive או SharePoint. פעולה זו תנחה את תמונת הפרופיל להסתנכרן. ייתכן שהמשתמש יצטרך לנסות להשלים שלבים אלה באמצעות הגירסה הפרטית של הדפדפן שלהם. 
   
-[למד עוד אודות עדכון פרופילים ב- Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[למד עוד אודות עדכון פרופילים בלהתעמק](https://go.microsoft.com/fwlink/?linkid=735070)
   
 
