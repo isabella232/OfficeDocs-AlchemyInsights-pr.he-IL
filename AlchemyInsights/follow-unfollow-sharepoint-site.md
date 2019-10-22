@@ -1,26 +1,26 @@
 ---
 title: הפעל או בטל את המעקב אחר אתר SharePoint
 ms.author: pebaum
-author: Techwriter40
+author: v-miegge
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
+ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755705"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611698"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="24374-102">הפעל או בטל את המעקב אחר אתר SharePoint</span><span class="sxs-lookup"><span data-stu-id="24374-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="c142e-102">הפעל או בטל את המעקב אחר אתר SharePoint</span><span class="sxs-lookup"><span data-stu-id="c142e-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="24374-103">קיימות מספר דרכים לעקוב אחר אתר המעניין אותך ב-SharePoint.</span><span class="sxs-lookup"><span data-stu-id="24374-103">There are multiple ways to follow a site that interests you in SharePoint.</span></span> <span data-ttu-id="24374-104">הדבר יאפשר לך למצוא את האתר בקלות ברשימתך, ולאפשר לך לראות פעילות מהאתר.</span><span class="sxs-lookup"><span data-stu-id="24374-104">This will allow you to find the site easily in your list, and allow you to see activity from the site.</span></span> 
+<span data-ttu-id="c142e-103">קיימות מספר דרכים לחיפוש ולמעקב אחר אתרים, חדשות ותוכן המעניינים אותך ב-SharePoint.</span><span class="sxs-lookup"><span data-stu-id="c142e-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="c142e-104">זה יאפשר לך למצוא את המידע בקלות ברשימה שלך, ולאפשר לך לראות את הפעילות מ-SharePoint.</span><span class="sxs-lookup"><span data-stu-id="c142e-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
 
-<span data-ttu-id="24374-105">צפה בסרטון וידאו כדי [לעקוב אחר אתר SharePoint](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0).</span><span class="sxs-lookup"><span data-stu-id="24374-105">Watch the video to [Follow a SharePoint site](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0).</span></span> 
+<span data-ttu-id="c142e-105">צפה בסרטון הווידאו כדי [לאתר ולעקוב אחר אתרים וחדשות](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span><span class="sxs-lookup"><span data-stu-id="c142e-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
 
-<span data-ttu-id="24374-106">אם אין באפשרותך לבצע או לבטל את הטיפול באתר ולהרגיש שהתוצאות אינן הצפויות, ראה אם הבעיה קשורה למשתמש יחיד או לכל המשתמשים בארגון.</span><span class="sxs-lookup"><span data-stu-id="24374-106">If you are unable to follow or un-follow a site and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="24374-107">אם הבעיה מזוהה על-ידי כל המשתמשים, ייתכן שקיימת בעיית שירות זמנית.</span><span class="sxs-lookup"><span data-stu-id="24374-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span> 
+<span data-ttu-id="c142e-106">אם אין באפשרותך לבצע או לבטל את המעקב אחר אתר, חדשות או תוכן ולהרגיש שהתוצאות אינן הצפויות, ראה אם הבעיה קשורה למשתמש בודד או לכל המשתמשים בארגון.</span><span class="sxs-lookup"><span data-stu-id="c142e-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="c142e-107">אם הבעיה מזוהה על-ידי כל המשתמשים, ייתכן שקיימת בעיית שירות זמנית.</span><span class="sxs-lookup"><span data-stu-id="c142e-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
 
-<span data-ttu-id="24374-108">בדוק את [לוח הבקרה של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.</span><span class="sxs-lookup"><span data-stu-id="24374-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+<span data-ttu-id="c142e-108">בדוק את [לוח הבקרה של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.</span><span class="sxs-lookup"><span data-stu-id="c142e-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
