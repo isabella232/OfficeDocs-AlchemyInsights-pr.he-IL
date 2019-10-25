@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637778"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654257"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>שליטה בהגדרות הלובי וברמת ההשתתפות
 
@@ -24,7 +24,7 @@ ms.locfileid: "37637778"
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-יישומון זה כרגע דורש שימוש במודול סקייפ לעסק PowerShell. כדי לגרום לתוכנית ההתקנה להשתמש ב-cmdlet זה, עיין בניהול מדיניות באמצעות PowerShell.
+יישומון זה כרגע דורש שימוש במודול סקייפ לעסק PowerShell. כדי לקבל את תוכנית ההתקנה להשתמש ב-cmdlet זה, הוצאת [ניהול מדיניות באמצעות PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 באפשרותך להגדיר מדיניות חדשה, שבה יהיה עליך להחיל אותה על משתמשים. אם תשנה את המדיניות הכללית, היא תחול באופן אוטומטי על משתמשים. עבור כל שינוי מדיניות, עליך להמתין לפחות 4 שעות עד 24 שעות כדי שהמדיניות ייכנסו לתוקף.
 
