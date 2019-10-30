@@ -3,7 +3,6 @@ title: חיפוש היברידי ומאוחד
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 1f31fdc6d9f0eab6a436b46e45ea5663965f2767
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: 15e4c6a5b531ca90b0a44e696aa158bd480c072f
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122405"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768980"
 ---
-# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="936d8-102">חיפושים היברידיים ומאוחדים</span><span class="sxs-lookup"><span data-stu-id="936d8-102">Hybrid and Federated Searches</span></span> 
+# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="7c5b5-102">חיפושים היברידיים ומאוחדים</span><span class="sxs-lookup"><span data-stu-id="7c5b5-102">Hybrid and federated searches</span></span> 
 
-1. <span data-ttu-id="936d8-103">מידע אודות היברידית וחיפוש מאוחד ב-SharePoint Online?</span><span class="sxs-lookup"><span data-stu-id="936d8-103">Information about Hybrid and Federated Search in SharePoint Online?</span></span>
-    <span data-ttu-id="936d8-104">בדוק [כאן](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)</span><span class="sxs-lookup"><span data-stu-id="936d8-104">Check [here](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)</span></span>
+<span data-ttu-id="7c5b5-103">לקבלת מידע אודות חיפוש היברידי ומאוחד ב-SharePoint Online, ראה [חיפוש היברידי ב-sharepoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="7c5b5-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
 
-2. <span data-ttu-id="936d8-105">רוצה לתכנן את החיפוש המאוחד של היברידי?</span><span class="sxs-lookup"><span data-stu-id="936d8-105">Want to plan Hybrid federated search?</span></span>
-    <span data-ttu-id="936d8-106">בדוק [כאן](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)</span><span class="sxs-lookup"><span data-stu-id="936d8-106">Check [here](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)</span></span>
+<span data-ttu-id="7c5b5-104">לקבלת מידע אודות תכנון חיפוש מאוחד היברידי, ראה [תכנון חיפוש מאוחד היברידי עבור SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="7c5b5-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>

@@ -1,8 +1,7 @@
 ---
-title: שינוי גודל של הודעה או קובץ מצורף
+title: שינוי גודל הודעה או קובץ מצורף
 ms.author: pebaum
 author: pebaum
-ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +10,19 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: 7c891034ac8d41bca4c4ee32130bcff306f9ed24
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520668"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769664"
 ---
-# <a name="changing-message-or-attachment-size"></a><span data-ttu-id="b2de8-102">שינוי גודל של הודעה או קובץ מצורף</span><span class="sxs-lookup"><span data-stu-id="b2de8-102">Changing message or attachment size</span></span>
+# <a name="changing-message-or-attachment-size"></a><span data-ttu-id="6f8c4-102">שינוי גודל הודעה או קובץ מצורף</span><span class="sxs-lookup"><span data-stu-id="6f8c4-102">Changing message or attachment size</span></span>
 
-<span data-ttu-id="b2de8-103">כמו הניהול של Office 365, באפשרותך לשנות גודל מרבי / המינימלי של הודעות (הכוללים קבצים מצורפים) לשלוח למשתמשים שלך.</span><span class="sxs-lookup"><span data-stu-id="b2de8-103">As an Office 365 admin, you can change the maximum / minimum size of messages (which includes attachments) that your users send.</span></span> <span data-ttu-id="b2de8-104">באפשרותך לבצע פעולה זו עבור כל המשתמשים (ברירת המחדל של הארגון) או משתמשים בודדים.</span><span class="sxs-lookup"><span data-stu-id="b2de8-104">You can do this for individual users or all users (organization default).</span></span> <span data-ttu-id="b2de8-105">לאחר שינוי הגדרה זו, שלוקח כ- 30 דקות תיכנס לתוקף.</span><span class="sxs-lookup"><span data-stu-id="b2de8-105">After you change this setting, it takes about 30 minutes to go into effect.</span></span>
+<span data-ttu-id="6f8c4-103">כמנהל 365 של Office, באפשרותך לשנות את הגודל המירבי/מינימלי של הודעות (הכולל קבצים מצורפים) שהמשתמשים שלך שולחים.</span><span class="sxs-lookup"><span data-stu-id="6f8c4-103">As an Office 365 admin, you can change the maximum/minimum size of messages (which includes attachments) that your users send.</span></span> <span data-ttu-id="6f8c4-104">באפשרותך לעשות זאת עבור משתמשים בודדים או עבור כל המשתמשים (ברירת המחדל של הארגון).</span><span class="sxs-lookup"><span data-stu-id="6f8c4-104">You can do this for individual users or all users (organization default).</span></span> <span data-ttu-id="6f8c4-105">לאחר שינוי הגדרה זו, לוקח בערך 30 דקות לפעול.</span><span class="sxs-lookup"><span data-stu-id="6f8c4-105">After you change this setting, it takes about 30 minutes to go into effect.</span></span>
   
-- <span data-ttu-id="b2de8-106">כדי לשנות את גודל ההודעה עבור משתמש מסוים, עבור אל **ניהול מרכזי** \> **Exchange** \> **נמענים** \> **תיבות דואר**.</span><span class="sxs-lookup"><span data-stu-id="b2de8-106">To change the message size for a specific user, go to **Admin centers** \> **Exchange** \> **recipients** \> **mailboxes**.</span></span> <span data-ttu-id="b2de8-107">בחר את תיבת הדואר של משתמש.</span><span class="sxs-lookup"><span data-stu-id="b2de8-107">Select a user's mailbox.</span></span> <span data-ttu-id="b2de8-108">לחץ על סמל עריכה, לאחר מכן תחת **מגבלות גודל ההודעה**, בחר **הצג פרטים** וציין גודל ההודעה המרבי החדש.</span><span class="sxs-lookup"><span data-stu-id="b2de8-108">Click the edit icon, then under **Message Size Restrictions**, choose **View details** and specify new maximum message size.</span></span>
+- <span data-ttu-id="6f8c4-106">כדי לשנות את גודל ההודעה עבור משתמש מסוים, עבור אל **תיבות דואר**של **נמעני** \> \> **מרכזי מנהל** **החליפין** \> .</span><span class="sxs-lookup"><span data-stu-id="6f8c4-106">To change the message size for a specific user, go to **Admin centers** \> **Exchange** \> **recipients** \> **mailboxes**.</span></span> <span data-ttu-id="6f8c4-107">בחר תיבת דואר של משתמש.</span><span class="sxs-lookup"><span data-stu-id="6f8c4-107">Select a user's mailbox.</span></span> <span data-ttu-id="6f8c4-108">בחר בסמל העריכה, בחר **בתכונות תיבת דואר**ולאחר מכן תחת **הגבלות גודל הודעה**, בחר פרטים וציין **את** גודל ההודעה המירבי החדש.</span><span class="sxs-lookup"><span data-stu-id="6f8c4-108">Select the edit icon, select **mailbox features**, and then under **Message Size Restrictions**, choose **View details** and specify new maximum message size.</span></span>
 
-- <span data-ttu-id="b2de8-109">כדי ללמוד כיצד לשנות הגדרה זו עבור כל תיבות הדואר, נא עיין [במאמר זה](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).</span><span class="sxs-lookup"><span data-stu-id="b2de8-109">To learn how to change this for all mailboxes, please see [this article](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).</span></span>
+- <span data-ttu-id="6f8c4-109">כדי ללמוד כיצד לשנות זאת עבור כל תיבות הדואר, עיין [במאמר זה](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).</span><span class="sxs-lookup"><span data-stu-id="6f8c4-109">To learn how to change this for all mailboxes, please see [this article](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).</span></span>
 
-- <span data-ttu-id="b2de8-110">כדי לקרוא אודות מגבלות המרבית באמצעות Outlook או Outlook באינטרנט, עיין [במאמר זה](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits).</span><span class="sxs-lookup"><span data-stu-id="b2de8-110">To read about maximum limits using Outlook or Outlook on the web, see [this article](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits).</span></span> <span data-ttu-id="b2de8-111">טלפון נייד של outlook יש מגבלה מירבית של 25MB.</span><span class="sxs-lookup"><span data-stu-id="b2de8-111">Outlook Mobile has a maximum limit of 25MB.</span></span> <span data-ttu-id="b2de8-112">כדי לקבל Outlook iOS ותמיכה Android, [לחץ כאן](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).</span><span class="sxs-lookup"><span data-stu-id="b2de8-112">To get Outlook iOS and Android support, [click here](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).</span></span>
+- <span data-ttu-id="6f8c4-110">כדי לקרוא על מגבלות מרביות באמצעות Outlook או Outlook באינטרנט, עיין [במאמר זה](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits).</span><span class="sxs-lookup"><span data-stu-id="6f8c4-110">To read about maximum limits using Outlook or Outlook on the web, see [this article](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits).</span></span> <span data-ttu-id="6f8c4-111">ל-Outlook Mobile יש גבול מירבי של 25MB.</span><span class="sxs-lookup"><span data-stu-id="6f8c4-111">Outlook Mobile has a maximum limit of 25MB.</span></span> <span data-ttu-id="6f8c4-112">כדי לקבל Outlook iOS ותמיכה אנדרואיד, [לחץ כאן](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).</span><span class="sxs-lookup"><span data-stu-id="6f8c4-112">To get Outlook iOS and Android support, [click here](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).</span></span>
