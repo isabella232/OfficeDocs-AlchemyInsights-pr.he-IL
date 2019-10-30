@@ -1,9 +1,8 @@
 ---
-title: 714 שולחים חיצוניים Allowing דוא ל רשימות תפוצה
+title: 714 המאפשר שולחים חיצוניים לרשימות תפוצה בדואר אלקטרוני
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506552"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768225"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>אפשר שולחים חיצוניים לשלוח הודעות לקבוצות הפצה
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>אפשר לשולחים חיצוניים לשלוח הודעות לקבוצות תפוצה
 
-אם למשתמשים מחוץ לארגון שלך מקבל שגיאות בעת שהם שולחים הודעות קבוצות ההפצה שלך, או אם ברצונך לוודא כי קבוצות ההפצה שלך מוגדרות לקבל דואר משולחים חיצוניים, בצע את הפעולות הבאות:
+אם משתמשים מחוץ לארגון שלך מקבלים שגיאות כאשר הם שולחים הודעות לקבוצות ההפצה שלך, או שברצונך לוודא שקבוצות ההפצה שלך מוגדרות לקבלת דואר משולחים חיצוניים, בצע את הפעולות הבאות:
 
-1. מעבר אל הצומת **קבוצות** [בפורטל הניהול של Office 365](https://portal.office.com/adminportal/home#/groups).
+1. במרכז הניהול של Office 365, עבור אל **** > [העמוד קבוצות](https://portal.office.com/adminportal/home#/groups) קבוצות.  
 
-2. בחר את קבוצת ההפצה ולאחר קבוצת מאפיינים טיסה החוצה שמופיע, לחץ על **ערוך** בסעיף המכיל **לאפשר שולחים חיצוניים**.
+2. בחר את קבוצת התפוצה, ובחלונית המאפיינים קבוצה, בחר בכרטיסיה **הגדרות** .
 
-3. ב- **ערוך פרטי** טיסה החוצה שמופיע, ודא **לאפשר לאנשים מחוץ לארגון שלי לשלוח דואר אלקטרוני לקבוצת תפוצה זו.** **מופעל**ולאחר מכן לחץ על **שמור**.
+3. בחר **באפשרות אפשר לשולחים חיצוניים לשלוח דואר אלקטרוני לקבוצה זו**ולאחר מכן בחר **בשמור**.

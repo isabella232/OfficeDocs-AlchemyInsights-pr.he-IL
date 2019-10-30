@@ -1,9 +1,8 @@
 ---
-title: היכן נמצא ציר צריכת חשמל?
+title: היכן נמצא כוח ציר?
 ms.author: chrsm
 author: chrsm
 manager: jecon
-ms.date: 2/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +14,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 5767fead9f67ad1070b3dbe65415d4c728cfd92f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530950"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769844"
 ---
-# <a name="where-is-power-pivot"></a>היכן נמצא ציר צריכת חשמל?
+# <a name="where-is-power-pivot"></a>היכן נמצא כוח ציר?
 
-שלוש סיבות מדוע אינך רואה Pivot צריכת חשמל:
+קיימות שלוש סיבות לכך שייתכן שלא תראה את ציר החשמל:
   
-**גירסת Excel אינו כולל אותה**
+**גירסת Excel שברשותך אינה כוללת אותה**
   
-לא כל הגירסאות של Excel כוללים ציר צריכת חשמל. יהיה עליך לשדרג לגירסה של Office הכוללת Pivot צריכת חשמל. [בדוק את רשימת הגירסאות הנתמכות.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+לא כל הגירסאות של Excel כוללות את ה-Power Pivot. יהיה עליך לשדרג לגירסה של Office הכוללת את ' ציר החשמל '. [בדוק את רשימת הגירסאות הנתמכות.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**עדיין לא הפכת את ציר צריכת חשמל**
+**לא הפעלת את ' ציר החשמל '**
   
-אם אתה עובד בגירסת Excel התומכת Pivot צריכת חשמל, בדוק כי התוספת מופעלת:
+אם אתה עובד בגירסה של Excel התומכת ב-Power Pivot, בדוק אם התוספת זמינה:
   
-1. בחרו ' **קובץ** ' \> **אפשרויות** \> **תוספות**.
+1. בחר **בתוספות**של **אפשרויות** \> **קובץ** \> .
 
-2. בתיבה הנפתחת **נהל** , בחר **בתוספות COM** ולחץ על **מעבר**.
+2. בתיבה הנפתחת **ניהול** , בחר **תוספות COM** ולחץ על **Go**.
 
-3. בתיבת הדו-שיח **תוספות Com** , בחר בתיבת הסימון הסמוכה **Pivot צריכת חשמל של Microsoft עבור Excel**ולאחר מכן לחץ על **אישור**.
+3. בתיבת הדו ' **תוספות Com** ', בחר בתיבת הסימון שליד ' **ציר צריכת החשמל של Microsoft ' עבור Excel**ולאחר מכן לחץ על **אישור**.
 
-**יש לך חשבונות או מנויים מרובים**
+**יש לך מספר מנויים או חשבונות**
   
-ייתכן שונים מנויי Office 365 להקצות לחשבונות משתמשים שונים. ודא כי אתה מחובר לחשבון עם גירסה של Excel התומכת Pivot צריכת חשמל. בדוק את רשימת [הגירסאות הנתמכות](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), ובצע את ההוראות כדי [לעבור בין חשבונות שונים של Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+ייתכן שיהיו ברשותך מנויי Office 365 שונים המוקצים לחשבונות משתמשים שונים. ודא שאתה מחובר לחשבון עם גירסה של Excel התומכת ב-Power Pivot. בדוק את רשימת [הגירסאות הנתמכות](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)ובצע את ההוראות כדי [לעבור בין חשבונות Office שונים](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

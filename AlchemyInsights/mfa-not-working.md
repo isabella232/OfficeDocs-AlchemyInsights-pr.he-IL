@@ -11,15 +11,15 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545168"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768838"
 ---
-# <a name="issues-with-mfa"></a>בעיות עם משרד התואר
-יש כמה דברים לבדוק אם למשתמשים אין אפשרות להתחבר באמצעות אימות מרובה גורמים (משרד החוץ)
+# <a name="issues-with-azure-mfa"></a>בעיות עם התכלת
+יש כמה דברים לבדוק אם למשתמשים אין אפשרות להיכנס למערכת באמצעות אימות מרובה גורמים (משרד החוץ)
 
 1. המשתמש המושפע יכול להיות חסום בפורטל הספריה הפעילה. אם זהו המקרה, נסיונות האימות עבור משתמש ספציפי זה יידחו באופן אוטומטי. [נא בצע את הפעולות במאמר זה כדי לבטל את חסימתן.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 

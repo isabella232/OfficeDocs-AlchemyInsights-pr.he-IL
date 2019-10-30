@@ -1,5 +1,5 @@
 ---
-title: להעלות קבצים OneDrive או SharePoint
+title: העלאת קבצים ל-OneDrive או SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532512"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769880"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>להעלות קבצים OneDrive או SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>העלאת קבצים ל-OneDrive או SharePoint
 
-1. בדפדפן האינטרנט, עבור אל המיקום בו ברצונך להעלות קבצים.
+1. בדפדפן האינטרנט, עבור אל המיקום שבו ברצונך להעלות קבצים.
     
-2. פתח את סייר הקבצים ואתר הקבצים שברצונך להעלות.
+2. פתח את סייר הקבצים ודפדף אל הקבצים שברצונך להעלות.
     
-3. בחר את הקבצים ולחץ וגרור אותם אל המיקום ב- OneDrive או ב- SharePoint. הערה: אם אתה משתמש הקצה של Microsoft, Mozilla FireFox או Google Chrome, באפשרותך גם להעלות של תיקייה ושל כל הקבצים הנמצאים בה.
+3. בחר את הקבצים וגרור אותם למיקום ב-OneDrive או SharePoint. הערה: אם אתה משתמש ב-Microsoft Edge, ב-Mozilla FireFox או ב-Google Chrome, באפשרותך גם להעלות תיקיה ואת כל הקבצים בו.
     
-> [!NOTE]
->  באפשרותך להעלות קבצים בגודל עד 15 ג'יגה-בתים. > הנתיב המלא של קובץ (כולל שם הקובץ) אינו יכול להיות באורך של יותר מ- 400 תווים. > אם יש צורך להעלות קבצים יותר מ- 100, [השתמש הלקוח סינכרון OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+**ערות**
+- אתה יכול להעלות קבצים עד 15 GB בגודל. 
+- הנתיב המלא עבור קובץ (כולל שם הקובץ) אינו יכול להיות יותר מ-400 תווים באורך. 
+- אם עליך להעלות יותר מ-100 קבצים, [השתמש בלקוח הסינכרון OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

@@ -2,7 +2,6 @@
 title: למשתמש חיצוני אין אפשרות לגשת לתוכן
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +11,14 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 9638ce92fc0cda83999f64da278a827e0ba32584
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: d271206230148f2a6b95fb4e12682feefc02274f
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36740034"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769196"
 ---
-# <a name="external-user-cannot-access-content"></a>למשתמש חיצוני אין אפשרות לגשת לתוכן
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>למשתמש חיצוני אין אפשרות לגשת לתוכן SharePoint או OneDrive
 
 אם משתמש חיצוני הוזמן ואינו מסוגל לגשת לתוכן, נא נסה לבקר בקישורים הבאים:
 

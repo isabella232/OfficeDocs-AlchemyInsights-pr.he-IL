@@ -3,7 +3,6 @@ title: 713 הוספת כתובת דואר אלקטרוני נוספת לרשימ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494780"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766208"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>הוספת כתובת דואר אלקטרוני עבור קבוצת הפצה
+# <a name="add-an-email-address-for-a-distribution-group"></a>הוספת כתובת דואר אלקטרוני לקבוצת תפוצה
 
 כדי להוסיף כתובות דואר אלקטרוני עבור קבוצת תפוצה קיימת, בצע את הפעולות הבאות:
 
-1. [מרכז הניהול של Exchange](https://outlook.office365.com/ecp/), לעבור אל **הנמענים** \> **קבוצות**.
+1. במרכז [הניהול של Exchange](https://outlook.office365.com/ecp/), עבור אל **קבוצות** **הנמענים** \> .
 
-2. בחר את קבוצת ההפצה שברצונך לשנות ולאחר מכן לחץ על **עריכה**.
+2. בחר את קבוצת התפוצה שברצונך לשנות ולאחר מכן לחץ על **עריכה**.
 
-3. מאפייני הקבוצה, עבור אל הכרטיסיה **אפשרויות דואר אלקטרוני** כדי להוסיף כתובות דוא. 
+3. במאפייני הקבוצה, עבור לכרטיסיה **אפשרויות דואר אלקטרוני** כדי להוסיף כתובות דוא ל. 
 
 לקבלת מידע נוסף, ראה [אפשרויות דואר אלקטרוני](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
