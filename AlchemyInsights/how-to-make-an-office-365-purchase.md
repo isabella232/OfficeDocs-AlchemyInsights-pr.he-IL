@@ -1,5 +1,5 @@
 ---
-title: כיצד לבצע רכישה של Office 365
+title: כיצד לבצע רכישה 365 של Office
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 98713a0d9d62b6eabb857ea8391cb7dff75b4da3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664107"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921851"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="1ad2e-102">כיצד לבצע רכישה של Office 365</span><span class="sxs-lookup"><span data-stu-id="1ad2e-102">How to make an Office 365 purchase</span></span>
+# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="22f8f-102">כיצד לבצע רכישה 365 של Office</span><span class="sxs-lookup"><span data-stu-id="22f8f-102">How to make an Office 365 purchase</span></span>
 
-<span data-ttu-id="1ad2e-103">ניתן לבצע רכישות ב- Office 365 במרכז admin.</span><span class="sxs-lookup"><span data-stu-id="1ad2e-103">Purchases in Office 365 can be made in the admin center.</span></span>
+<span data-ttu-id="22f8f-103">ניתן לעשות רכישות ב-Office 365 במרכז המנהלה.</span><span class="sxs-lookup"><span data-stu-id="22f8f-103">Purchases in Office 365 can be made in the admin center.</span></span>
   
-- <span data-ttu-id="1ad2e-104">כדי לרכוש מנוי Office 365, עבור אל **חיוב** \> דף [לרכוש שירותים](https://go.microsoft.com/fwlink/p/?linkid=868433) .</span><span class="sxs-lookup"><span data-stu-id="1ad2e-104">To purchase an Office 365 subscription, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+- <span data-ttu-id="22f8f-104">כדי לרכוש מנוי של Office 365, עבור אל דף [שירותי הרכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) של **חיוב** \> .</span><span class="sxs-lookup"><span data-stu-id="22f8f-104">To purchase an Office 365 subscription, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-- <span data-ttu-id="1ad2e-105">כדי לרכוש רשיונות נוספים, עבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="1ad2e-105">To purchase additional licenses, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="1ad2e-106">בחר את המנוי שברצונך להוסיף רשיונות, ולאחר מכן בחר **רשיונות הוספה/הסרה**.</span><span class="sxs-lookup"><span data-stu-id="1ad2e-106">Choose the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
+- <span data-ttu-id="22f8f-105">כדי לרכוש רשיונות נוספים, עבור אל \*\*\*\* \> [מוצרי חיוב _ מוצרים לדף שירותים](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="22f8f-105">To purchase additional licenses, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="22f8f-106">בחר את המנוי שאליו ברצונך להוסיף רשיונות ולאחר מכן בחר **בהוספה/הסרה של רשיונות**.</span><span class="sxs-lookup"><span data-stu-id="22f8f-106">Choose the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
   
-<span data-ttu-id="1ad2e-107">לקבלת מידע נוסף, ראה [לרכוש רשיונות עבור Office 365 שלך עבור מנוי עסקי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="1ad2e-107">To learn more, see [Buy licenses for your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>
+<span data-ttu-id="22f8f-107">לקבלת מידע נוסף, ראה [רכישת רשיונות עבור Office 365 עבור מנוי עסקי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="22f8f-107">To learn more, see [Buy licenses for your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>
 
-<span data-ttu-id="1ad2e-108">**משאבים נוספים**</span><span class="sxs-lookup"><span data-stu-id="1ad2e-108">**Additional Resources**</span></span>
+<span data-ttu-id="22f8f-108">**פתרון בעיות**</span><span class="sxs-lookup"><span data-stu-id="22f8f-108">**Troubleshooting**</span></span>
+
+<span data-ttu-id="22f8f-109">אם נתקלת בבעיות בטעינת הדף, נסה לפתוח את דף האינטרנט בדפדפן אחר או נסה לפתוח את הדף כחלון דפדפן פרטי, כגון חלון InPrivate ב-Microsoft Edge או חלון בעילום שם ב-Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="22f8f-109">If you experience problems with the page loading, try opening the web page in a different browser, or try opening the page a private browser window, such as an InPrivate window in Microsoft Edge or an incognito window in Google Chrome.</span></span> 
+
+<span data-ttu-id="22f8f-110">**משאבים נוספים**</span><span class="sxs-lookup"><span data-stu-id="22f8f-110">**Additional Resources**</span></span>
   
-- [<span data-ttu-id="1ad2e-109">הקצאת רשיונות למשתמשים ב- Office 365 לעסקים</span><span class="sxs-lookup"><span data-stu-id="1ad2e-109">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="22f8f-111">הקצאת רשיונות למשתמשים ב- Office 365 לעסקים</span><span class="sxs-lookup"><span data-stu-id="22f8f-111">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [<span data-ttu-id="1ad2e-110">ביטול Office 365 עבור העסק</span><span class="sxs-lookup"><span data-stu-id="1ad2e-110">Cancel Office 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [<span data-ttu-id="22f8f-112">ביטול Office 365 לעסק</span><span class="sxs-lookup"><span data-stu-id="22f8f-112">Cancel Office 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
