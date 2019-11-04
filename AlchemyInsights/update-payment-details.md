@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660937"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921815"
 ---
 # <a name="update-payment-details"></a>עדכון פרטי תשלום
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660937"
 4. בצע את העדכונים ולאחר מכן בחר **שמור**.
 
 5. כדי להסיר שיטת תשלום זו, בחר **מחק**.
+
+**פתרון בעיות**
+
+אם אתה נתקל בבעיות בטעינת הדף, נסה לפתוח את דף האינטרנט בדפדפן אחר, או נסה לפתוח את הדף בחלון דפדפן פרטי, כגון חלון InPrivate ב- Microsoft Edge או חלון גלישה בסתר ב- Google Chrome. 
 
 לקבלת מידע נוסף, ראה [הוספה, עדכון או הסרה של כרטיס אשראי או חשבון בנק ב- Office 365 לעסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ו[פתרון בעיות בכרטיסי אשראי ובחשבונות בנק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
