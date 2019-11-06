@@ -12,38 +12,40 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
-ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
+ms.openlocfilehash: be95034bea3c58a4fde96cfb0f9ba525e810758e
+ms.sourcegitcommit: 24e8248b0f061a76af50bf566d7a13fc24d29d99
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37068024"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37992619"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>יומני ביקורת של SharePoint ו-OneDrive
 
-**SharePoint ו-OneDrive מודרני יומני ביקורת מאוחד מציות**
+## <a name="sharepoint-classic-audit-logs"></a>יומני ביקורת קלאסיים של SharePoint
 
-- [הפעלה/ביטול של רישום ביקורת אחיד](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
-
-אין צורך בקביעת תצורה נוספת בתוך SharePoint או OneDrive.
-
-- השתמש בחיפוש ביומן ביקורת כדי לבדוק את הפעילות של הקבצים, התיקיות, המשתמשים, ההרשאות:
-
-    - [פעילויות קובץ ועמוד](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [פעילויות תיקיה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [שיתוף וגישה לפעילויות בקשה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [פעילויות סנכרון](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [פעילויות ניהול האתר](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- לקבלת מידע נוסף אודות אחזור אירועים אלה, ראה [חיפוש ביומן הביקורת](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-
-**יומני ביקורת קלאסיים של SharePoint**
-
-העברנו ביקורת מדור קודם של SPO ליומן ביקורת אחיד (רע מ). זה בעצם אומר כי כל דוחות ביקורת מורשת SPO כעת יהיה מופעל באמצעות רע מ, ואת אותות ביקורת מדור קודם הועברו רע מ.
+ביקורת מדור קודם של SPO הועברה ליומן ביקורת אחיד (רע מ). כל דוחות הביקורת מהדור הקודם של SPO יהיו מופעל באמצעות רע מ, ואותות הביקורת הישנים הועברו ל-רע מ.
 
 שינויי מפתח:
 
-- זמירה כיכולת אינו זמין.
-- המקטע שבו תבחר אירועים ספציפיים לביקורת אינו זמין. נא עיין [במסמך זה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) לקבלת רשימה מלאה של אירועים מבוקרים הזמינים כברירת מחדל.
-- האפשרות "מיקום" תחת **דוחות מותאמים אישית** אינה זמינה. 
-- אירועים "פתיחה או הורדה של מסמכים" אינם זמינים. 
+* זמירה אינו זמין כיכולת.
+* בחירת אירועים ספציפיים לביקורת אינה זמינה. עיין [במסמך זה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) לקבלת רשימה מלאה של אירועים מבוקרים הזמינים כברירת מחדל.
+* אפשרות **המיקום** תחת **דוחות מותאמים אישית** אינה זמינה.
+* האפשרות **פתיחה או הורדה של אירועי מסמכים** אינה זמינה.
 
+[קביעת תצורה של הגדרות ביקורת עבור אוסף אתרים](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
+
+## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>SharePoint ו-OneDrive מודרני יומני ביקורת מאוחד מציות
+
+* [הפעלה/ביטול של רישום ביקורת אחיד](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+
+אין צורך בקביעת תצורה נוספת בתוך SharePoint או OneDrive.
+
+השתמש בחיפוש ביומן ביקורת כדי לבדוק את הפעילות של הקבצים, התיקיות, המשתמשים, ההרשאות:
+
+* [פעילויות קובץ ועמוד](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+* [פעילויות תיקיה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [שיתוף וגישה לפעילויות בקשה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [פעילויות סנכרון](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [פעילויות ניהול האתר](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+
+לקבלת מידע נוסף אודות אחזור אירועים אלה, ראה [חיפוש ביומן הביקורת](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
