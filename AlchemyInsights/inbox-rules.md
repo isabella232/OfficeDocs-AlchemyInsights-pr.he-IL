@@ -13,10 +13,10 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36499640"
 ---
 # <a name="inbox-rules"></a>כללי תיבת דואר נכנס
@@ -27,4 +27,4 @@ ms.locfileid: "36499640"
 
 - [ניהול ההודעות שלך באמצעות כללי תיבת דואר נכנס ב-Outlook באינטרנט](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-באפשרותך גם לנהל כללי תיבת דואר נכנס ב-Exchange Online PowerShell. לקבלת מידע נוסף, ראה [קבלת-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (תצוגה), [חדש-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (ליצור), [הסר-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (מחיקה), [Set-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (לשנות קיים), [להשבית-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (להשבית קיים), ו [-הפעל-inboxrule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(אפשר קיים).
+באפשרותך גם לנהל כללי תיבת דואר נכנס ב-Exchange Online PowerShell. לקבלת מידע נוסף, ראה [קבלת-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (תצוגה), [חדש-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (ליצור), [הסר-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (מחיקה), [Set-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (לשנות קיים), [להשבית-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (להשבית קיים), ו [-הפעל-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (לאפשר קיים).
