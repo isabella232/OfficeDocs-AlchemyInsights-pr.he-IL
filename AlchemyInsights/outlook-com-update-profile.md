@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
 ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36511346"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a><span data-ttu-id="e335d-102">שינוי תמונת הפרופיל שלי או השם בOutlook.com</span><span class="sxs-lookup"><span data-stu-id="e335d-102">Change my profile picture or name in Outlook.com</span></span>
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a><span data-ttu-id="95244-102">שינוי תמונת הפרופיל שלי או השם בOutlook.com</span><span class="sxs-lookup"><span data-stu-id="95244-102">Change my profile picture or name in Outlook.com</span></span>
 
-1. <span data-ttu-id="e335d-103">עבור אל [פרטי חשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="e335d-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-1. <span data-ttu-id="e335d-104">בחרו ' **עריכת שם** ' או ' **שינוי תמונה**'.</span><span class="sxs-lookup"><span data-stu-id="e335d-104">Select **Edit name** or **Change picture**.</span></span>
+1. <span data-ttu-id="95244-103">עבור אל [פרטי חשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="95244-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+1. <span data-ttu-id="95244-104">בחרו ' **עריכת שם** ' או ' **שינוי תמונה**'.</span><span class="sxs-lookup"><span data-stu-id="95244-104">Select **Edit name** or **Change picture**.</span></span>
 
-<span data-ttu-id="e335d-105">נא המתן עד 24 שעות לשינויים בצילום הפרופיל או בשמך כדי להיכנס לתוקף.</span><span class="sxs-lookup"><span data-stu-id="e335d-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>
+<span data-ttu-id="95244-105">נא המתן עד 24 שעות לשינויים בצילום הפרופיל או בשמך כדי להיכנס לתוקף.</span><span class="sxs-lookup"><span data-stu-id="95244-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>

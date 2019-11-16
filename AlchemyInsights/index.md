@@ -1,5 +1,5 @@
 ---
-title: דף הבית של תובנות אלכימיה
+title: אלכימיה תובנות הבית
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.openlocfilehash: 3f89d9ef2d6961db7bd2bc9bf68f6a59eb6da5f7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "32412536"
 ---
-# <a name="alchemy-insights"></a><span data-ttu-id="91226-102">תובנות אלכימיה</span><span class="sxs-lookup"><span data-stu-id="91226-102">Alchemy Insights</span></span>
+# <a name="alchemy-insights"></a><span data-ttu-id="9b925-102">אלכימיה תובנות</span><span class="sxs-lookup"><span data-stu-id="9b925-102">Alchemy Insights</span></span>
 
-<span data-ttu-id="91226-103">ספריה זו נשמר עבור תוכן עזרה ב- app.</span><span class="sxs-lookup"><span data-stu-id="91226-103">This library is reserved for in-app help content.</span></span>
+<span data-ttu-id="9b925-103">ספריה זו שמורה עבור תוכן עזרה ב-app.</span><span class="sxs-lookup"><span data-stu-id="9b925-103">This library is reserved for in-app help content.</span></span>

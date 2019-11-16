@@ -12,17 +12,17 @@ ms.custom:
 - "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
 ms.openlocfilehash: 07f80551d99f26002dd5559b4b76acfea8e7bf5a
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768333"
 ---
-# <a name="how-to-attach-files-in-outlook"></a><span data-ttu-id="a04c2-102">כיצד לצרף קבצים ב-OUtlook</span><span class="sxs-lookup"><span data-stu-id="a04c2-102">How to attach files in OUtlook</span></span> 
+# <a name="how-to-attach-files-in-outlook"></a><span data-ttu-id="3cf1d-102">כיצד לצרף קבצים ב-OUtlook</span><span class="sxs-lookup"><span data-stu-id="3cf1d-102">How to attach files in OUtlook</span></span> 
 
-1. <span data-ttu-id="a04c2-103">לחבר הודעה חדשה או להשיב להודעה.</span><span class="sxs-lookup"><span data-stu-id="a04c2-103">Compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="3cf1d-103">לחבר הודעה חדשה או להשיב להודעה.</span><span class="sxs-lookup"><span data-stu-id="3cf1d-103">Compose a new message or reply to a message.</span></span>
 
-2. <span data-ttu-id="a04c2-104">בתחתית חלונית החיבור, בחר את סמל מהדק הנייר.</span><span class="sxs-lookup"><span data-stu-id="a04c2-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
+2. <span data-ttu-id="3cf1d-104">בתחתית חלונית החיבור, בחר את סמל מהדק הנייר.</span><span class="sxs-lookup"><span data-stu-id="3cf1d-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
 
-<span data-ttu-id="a04c2-105">למד עוד אודות [אופן הצירוף של קבצים ב-Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="a04c2-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
+<span data-ttu-id="3cf1d-105">למד עוד אודות [אופן הצירוף של קבצים ב-Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="3cf1d-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
   

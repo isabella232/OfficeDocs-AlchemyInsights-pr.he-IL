@@ -13,25 +13,25 @@ ms.custom:
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
 ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37658258"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="8219d-102">נהל את האחסון המקוון של SharePoint שלך</span><span class="sxs-lookup"><span data-stu-id="8219d-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="6c87e-102">נהל את האחסון המקוון של SharePoint שלך</span><span class="sxs-lookup"><span data-stu-id="6c87e-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="8219d-103">למד כיצד [מחושב אחסון דיירים](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) בהתבסס על התוכנית שלך.</span><span class="sxs-lookup"><span data-stu-id="8219d-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
+<span data-ttu-id="6c87e-103">למד כיצד [מחושב אחסון דיירים](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) בהתבסס על התוכנית שלך.</span><span class="sxs-lookup"><span data-stu-id="6c87e-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
 
-<span data-ttu-id="8219d-104">עבור רוב הארגונים, אחסון SharePoint מנוהל באופן אוטומטי, כך שאין צורך להגדיר מגבלות לכל אוסף אתרים.</span><span class="sxs-lookup"><span data-stu-id="8219d-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
+<span data-ttu-id="6c87e-104">עבור רוב הארגונים, אחסון SharePoint מנוהל באופן אוטומטי, כך שאין צורך להגדיר מגבלות לכל אוסף אתרים.</span><span class="sxs-lookup"><span data-stu-id="6c87e-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
 
-<span data-ttu-id="8219d-105">למד כיצד [להציג את שטח האחסון הכולל והזמין עבור הארגון שלך](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="8219d-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
+<span data-ttu-id="6c87e-105">למד כיצד [להציג את שטח האחסון הכולל והזמין עבור הארגון שלך](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="6c87e-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
 
-<span data-ttu-id="8219d-106">למד כיצד [לנהל מגבלות אחסון של אוספי אתרים בודדים](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="8219d-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
+<span data-ttu-id="6c87e-106">למד כיצד [לנהל מגבלות אחסון של אוספי אתרים בודדים](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="6c87e-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
 
-<span data-ttu-id="8219d-107">אם האתר שלך מחוץ לשטח או אם ברצונך לדעת איזו ספריה או רשימה מנצל את השטח, עבור אל > **מדדי אחסון** **של הגדרות אתר**(הרשאות מנהל אוסף אתרים נדרשות).</span><span class="sxs-lookup"><span data-stu-id="8219d-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
+<span data-ttu-id="6c87e-107">אם האתר שלך מחוץ לשטח או אם ברצונך לדעת איזו ספריה או רשימה מנצל את השטח, עבור אל > **מדדי אחסון** **של הגדרות אתר**(הרשאות מנהל אוסף אתרים נדרשות).</span><span class="sxs-lookup"><span data-stu-id="6c87e-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
 
-<span data-ttu-id="8219d-108">למד כיצד [לפקח על מגבלות האחסון באתר באמצעות PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span><span class="sxs-lookup"><span data-stu-id="8219d-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
+<span data-ttu-id="6c87e-108">למד כיצד [לפקח על מגבלות האחסון באתר באמצעות PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span><span class="sxs-lookup"><span data-stu-id="6c87e-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
 
-<span data-ttu-id="8219d-109">למד כיצד [לרכוש מקום אחסון נוסף](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="8219d-109">Learn how to [buy extra storage](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span></span> 
+<span data-ttu-id="6c87e-109">למד כיצד [לרכוש מקום אחסון נוסף](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="6c87e-109">Learn how to [buy extra storage](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span></span> 
   
