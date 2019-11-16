@@ -12,16 +12,16 @@ ms.custom:
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
 ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36740142"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="ff1b6-102">550 5.7.501 הגישה נדחתה, התעללות בדואר זבל זוהתה</span><span class="sxs-lookup"><span data-stu-id="ff1b6-102">550 5.7.501 Access denied, spam abuse detected</span></span>
+# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="fea42-102">550 5.7.501 הגישה נדחתה, התעללות בדואר זבל זוהתה</span><span class="sxs-lookup"><span data-stu-id="fea42-102">550 5.7.501 Access denied, spam abuse detected</span></span>
 
-<span data-ttu-id="ff1b6-103">בדרך כלל, הודעה זו מתרחשת כאשר משתמשים שולחים הודעות דואר אלקטרוני מכתובות IP המשתמשות בקבוצת המחשבים *הonmicrosoft.com* הראשונית שהוקצתה לדיירים חדשים ב-Office 365.</span><span class="sxs-lookup"><span data-stu-id="ff1b6-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="ff1b6-104">הדרך הקלה ביותר לפתור את הבעיה היא:</span><span class="sxs-lookup"><span data-stu-id="ff1b6-104">The easiest way to resolve this problem is to:</span></span>
+<span data-ttu-id="fea42-103">בדרך כלל, הודעה זו מתרחשת כאשר משתמשים שולחים הודעות דואר אלקטרוני מכתובות IP המשתמשות בקבוצת המחשבים *הonmicrosoft.com* הראשונית שהוקצתה לדיירים חדשים ב-Office 365.</span><span class="sxs-lookup"><span data-stu-id="fea42-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="fea42-104">הדרך הקלה ביותר לפתור את הבעיה היא:</span><span class="sxs-lookup"><span data-stu-id="fea42-104">The easiest way to resolve this problem is to:</span></span>
 
-1. <span data-ttu-id="ff1b6-105">[להוסיף דומיין לדייר שלך](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="ff1b6-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
+1. <span data-ttu-id="fea42-105">[להוסיף דומיין לדייר שלך](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="fea42-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
 
-2. <span data-ttu-id="ff1b6-106">[שינוי כתובת הדואר האלקטרוני הראשית של המשתמשים](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) לתחום המותאם אישית החדש שהוספת זה עתה.</span><span class="sxs-lookup"><span data-stu-id="ff1b6-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
+2. <span data-ttu-id="fea42-106">[שינוי כתובת הדואר האלקטרוני הראשית של המשתמשים](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) לתחום המותאם אישית החדש שהוספת זה עתה.</span><span class="sxs-lookup"><span data-stu-id="fea42-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
