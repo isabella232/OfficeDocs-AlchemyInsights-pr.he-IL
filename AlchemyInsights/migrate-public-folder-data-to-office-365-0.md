@@ -1,9 +1,8 @@
 ---
-title: העברת נתוני התיקיה הציבורית Office 365
+title: העברת נתוני תיקיה ציבורית ל-Office 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,22 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 9bf21c6377d4587032cac0549d6e57ee0749c437
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
+ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544359"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "39202595"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="29646-102">העברת נתוני התיקיה הציבורית Office 365</span><span class="sxs-lookup"><span data-stu-id="29646-102">Migrate public folder data to Office 365</span></span>
+# <a name="migrate-public-folder-data-to-office-365"></a><span data-ttu-id="7a72a-102">העברת נתוני תיקיה ציבורית ל-Office 365</span><span class="sxs-lookup"><span data-stu-id="7a72a-102">Migrate public folder data to Office 365</span></span>
 
-<span data-ttu-id="29646-103">אם אין ברשותך מספר רב של תיקיות ציבוריות כדי להביא לתוך Office 365, הדרך הקלה ביותר כדי להביא אותן יהיה להעתיק את הנתונים לתוך. PST קבצים ולאחר מכן לייבא אותם לתוך Office 365.</span><span class="sxs-lookup"><span data-stu-id="29646-103">If you don't have a lot of public folders to bring into Office 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Office 365.</span></span> <span data-ttu-id="29646-104">עבור כמויות קטנות של נתונים, פשוט גרור ושחרר של התיקיה הציבורית לתוך. קובץ PST יכול להספיק.</span><span class="sxs-lookup"><span data-stu-id="29646-104">For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient.</span></span> <span data-ttu-id="29646-105">אם יש לך יותר נתונים זה (עד 30 ג'יגה-בתים), יש לנו [מתועד תהליך](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) שבו באפשרותך להשתמש כדי לייצא תיקיות קבצי PST.</span><span class="sxs-lookup"><span data-stu-id="29646-105">If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span>
+<span data-ttu-id="7a72a-103">אם אין לך הרבה תיקיות ציבוריות כדי להביא לתוך Office 365, הדרך הקלה ביותר להביא אותם תהיה להעתיק את הנתונים לתוך. PST קבצים ולאחר מכן לייבא אותם לתוך Office 365.</span><span class="sxs-lookup"><span data-stu-id="7a72a-103">If you don't have a lot of public folders to bring into Office 365, the easiest way to bring them would be to copy the data into .PST files and then import them into Office 365.</span></span> <span data-ttu-id="7a72a-104">עבור כמויות קטנות של נתונים, גרור פשוט ושחרר את התיקיה הציבורית לתוך. PST הקובץ יכול להיות מספיק.</span><span class="sxs-lookup"><span data-stu-id="7a72a-104">For small amounts of data, a simple drag and drop of public folder into a .PST file can be sufficient.</span></span> <span data-ttu-id="7a72a-105">אם יש לך יותר נתונים מאשר זה (עד 30GB), יש לנו [תיעד תהליך](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) שבו אתה יכול להשתמש כדי לייצא תיקיות PST קבצים.</span><span class="sxs-lookup"><span data-stu-id="7a72a-105">If you have more data than that (up to 30GB), we have [documented a process](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) that you can use to export folders to PST files.</span></span>
   
-<span data-ttu-id="29646-106">עבור ארגונים גדולים יותר מי אתה מעביר תיקיות ציבוריות ל- Office 365, יש לנו מספר קווי עזר זמינים:</span><span class="sxs-lookup"><span data-stu-id="29646-106">For larger organizations who are moving public folders into Office 365, we have several guides available:</span></span>
+<span data-ttu-id="7a72a-106">עבור ארגונים גדולים יותר העוברים תיקיות ציבוריות ל-Office 365, יש לנו קווי עזר זמינים:</span><span class="sxs-lookup"><span data-stu-id="7a72a-106">For larger organizations who are moving public folders into Office 365, we have guides available:</span></span>
   
-- <span data-ttu-id="29646-107">[העברת תיקיות ציבוריות מדור קודם](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 וגירסאות קודמות)</span><span class="sxs-lookup"><span data-stu-id="29646-107">[Migrate legacy public folders](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 and earlier)</span></span>
+- <span data-ttu-id="7a72a-107">[העברת תיקיות ציבוריות מדור קודם](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)</span><span class="sxs-lookup"><span data-stu-id="7a72a-107">[Migrate legacy public folders](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)</span></span>
 
-- [<span data-ttu-id="29646-108">העברת תיקיות ציבוריות של Exchange 2013</span><span class="sxs-lookup"><span data-stu-id="29646-108">Migrate Exchange 2013 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
+- [<span data-ttu-id="7a72a-108">העברת תיקיות ציבוריות של Exchange 2013, Exchange 2016 או Exchange 2019</span><span class="sxs-lookup"><span data-stu-id="7a72a-108">Migrate Exchange 2013, Exchange 2016, or Exchange 2019 public folders</span></span>](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-- [<span data-ttu-id="29646-109">העברת תיקיות ציבוריות של Exchange 2016</span><span class="sxs-lookup"><span data-stu-id="29646-109">Migrate Exchange 2016 public folders</span></span>](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-
-<span data-ttu-id="29646-110">יש לך גם את האפשרות להעביר [תיקיות ציבוריות לקבוצות של Office 365](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="29646-110">You also have the option to [migrate public folders to Office 365 Groups](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="7a72a-109">יש לך גם אפשרות [להעביר תיקיות ציבוריות ל-Office 365 קבוצות](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).</span><span class="sxs-lookup"><span data-stu-id="7a72a-109">You also have the option to [migrate public folders to Office 365 Groups](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).</span></span>
   
