@@ -1,7 +1,7 @@
 ---
 title: התחל לעבוד עם SharePoint Online
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0b589888bed37a3733b6bf2148070b46ff874ddc
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: e5024c28da89cb7e615f57924e52c1433166b82f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36749585"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053622"
 ---
-# <a name="workflows-in-sharepoint"></a><span data-ttu-id="53cc0-102">זרימות עבודה ב-SharePoint</span><span class="sxs-lookup"><span data-stu-id="53cc0-102">Workflows in SharePoint</span></span>
+# <a name="workflows-in-sharepoint"></a><span data-ttu-id="f975b-102">זרימות עבודה ב-SharePoint</span><span class="sxs-lookup"><span data-stu-id="f975b-102">Workflows in SharePoint</span></span>
 
-<span data-ttu-id="53cc0-103">זרימות עבודה ב-SharePoint מאפשרות לך לדגמן ולהפוך תהליכים עסקיים לאוטומטיים.</span><span class="sxs-lookup"><span data-stu-id="53cc0-103">Workflows in SharePoint allow you to model and automate business processes.</span></span> <span data-ttu-id="53cc0-104">SharePoint תומך בשתי סביבות פיתוח של זרימת עבודה ראשיות ליצירת זרימות עבודה: מעצב SharePoint וסטודיו חזותי.</span><span class="sxs-lookup"><span data-stu-id="53cc0-104">SharePoint supports two primary workflow development environments for authoring workflows: SharePoint Designer and Visual Studio.</span></span> 
+<span data-ttu-id="f975b-103">זרימות עבודה ב-SharePoint מאפשרות לך לדגמן ולהפוך תהליכים עסקיים לאוטומטיים.</span><span class="sxs-lookup"><span data-stu-id="f975b-103">Workflows in SharePoint allow you to model and automate business processes.</span></span> <span data-ttu-id="f975b-104">SharePoint תומך בשתי סביבות פיתוח של זרימת עבודה ראשיות ליצירת זרימות עבודה: מעצב SharePoint וסטודיו חזותי.</span><span class="sxs-lookup"><span data-stu-id="f975b-104">SharePoint supports two primary workflow development environments for authoring workflows: SharePoint Designer and Visual Studio.</span></span> 
 
-<span data-ttu-id="53cc0-105">ראה [פיתוח זרימות עבודה של sharepoint ב-SharePoint designer ו-Visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) או [פיתוח זרימות עבודה של Sharepoint באמצעות Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) כדי להעריך את היתרונות והחסרונות של כל אחד מהם.</span><span class="sxs-lookup"><span data-stu-id="53cc0-105">See [Develop SharePoint workflows in SharePoint Designer and Visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) or [Develop SharePoint workflows using Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) to evaluate the advantages and disadvantages of each.</span></span> 
+<span data-ttu-id="f975b-105">ראה [פיתוח זרימות עבודה של sharepoint ב-SharePoint designer ו-Visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) או [פיתוח זרימות עבודה של Sharepoint באמצעות Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) כדי להעריך את היתרונות והחסרונות של כל אחד מהם.</span><span class="sxs-lookup"><span data-stu-id="f975b-105">See [Develop SharePoint workflows in SharePoint Designer and Visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) or [Develop SharePoint workflows using Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) to evaluate the advantages and disadvantages of each.</span></span> 
 
-<span data-ttu-id="53cc0-106">אם אתה מנסה לקבוע אם זרימות עבודה הן פתרון לשימוש בסביבת SharePoint שלך או שאתה מחפש מידע כללי אודות תחילת [העבודה, ראה מבט כולל על זרימות העבודה ב-SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="53cc0-106">If you're trying determine if workflows are a solution to use in your SharePoint environment or are looking for general information on getting started, see [Overview of workflows in SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).</span></span>
+<span data-ttu-id="f975b-106">אם אתה מנסה לקבוע אם זרימות עבודה הן פתרון לשימוש בסביבת SharePoint שלך או שאתה מחפש מידע כללי אודות תחילת [העבודה, ראה מבט כולל על זרימות העבודה ב-SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="f975b-106">If you're trying determine if workflows are a solution to use in your SharePoint environment or are looking for general information on getting started, see [Overview of workflows in SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).</span></span>

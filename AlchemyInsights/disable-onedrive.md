@@ -1,7 +1,7 @@
 ---
-title: בטל OneDrive
-ms.author: efrene
-author: efrene
+title: בטל כונן OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -12,28 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 712004b2dfb36396707e0a39419e566fbfc6a751
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512885"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052938"
 ---
-# <a name="disable-onedrive"></a><span data-ttu-id="53eb5-102">בטל OneDrive</span><span class="sxs-lookup"><span data-stu-id="53eb5-102">Disable OneDrive</span></span>
+# <a name="disable-onedrive"></a><span data-ttu-id="8ff53-102">בטל כונן OneDrive</span><span class="sxs-lookup"><span data-stu-id="8ff53-102">Disable OneDrive</span></span>
 
-<span data-ttu-id="53eb5-103">ישנן מספר דרכים ניתן לבטל גישה OneDrive ושירותים שלו בהתאם לצרכים העסקיים שלך:</span><span class="sxs-lookup"><span data-stu-id="53eb5-103">There are several ways you can disable access to OneDrive and its services depending on your business needs:</span></span>
+<span data-ttu-id="8ff53-103">קיימות מספר דרכים לביטול גישה אל OneDrive ושירותיה בהתאם לצרכיך העסקיים:</span><span class="sxs-lookup"><span data-stu-id="8ff53-103">There are several ways you can disable access to OneDrive and its services depending on your business needs:</span></span>
 
-[<span data-ttu-id="53eb5-104">בטל קישור, להסתיר או להסיר את ההתקנה של היישום OneDrive</span><span class="sxs-lookup"><span data-stu-id="53eb5-104">Unlink, hide or uninstall the OneDrive Application</span></span>](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[<span data-ttu-id="8ff53-104">בטל קישור, הסתר או הסר התקנה של יישום OneDrive</span><span class="sxs-lookup"><span data-stu-id="8ff53-104">Unlink, hide or uninstall the OneDrive Application</span></span>](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[<span data-ttu-id="53eb5-105">אפשר רק סינכרון עבור ארגונים מסוימים</span><span class="sxs-lookup"><span data-stu-id="53eb5-105">Only allow syncing for specific organizations</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[<span data-ttu-id="8ff53-105">אפשר סינכרון של ארגונים ספציפיים בלבד</span><span class="sxs-lookup"><span data-stu-id="8ff53-105">Only allow syncing for specific organizations</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[<span data-ttu-id="53eb5-106">בטל יצירת אתרים OneDrive עבור משתמשים מסוימים</span><span class="sxs-lookup"><span data-stu-id="53eb5-106">Disable OneDrive site creation for some users</span></span>](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[<span data-ttu-id="8ff53-106">בטל יצירת אתר OneDrive עבור משתמשים מסוימים</span><span class="sxs-lookup"><span data-stu-id="8ff53-106">Disable OneDrive site creation for some users</span></span>](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[<span data-ttu-id="53eb5-107">שליטה בגישה אל נתוני SharePoint Online ו- OneDrive על בסיס מיקומי רשת</span><span class="sxs-lookup"><span data-stu-id="53eb5-107">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[<span data-ttu-id="8ff53-107">שליטה בגישה אל נתוני SharePoint Online ו- OneDrive על בסיס מיקומי רשת</span><span class="sxs-lookup"><span data-stu-id="8ff53-107">Control access to SharePoint Online and OneDrive data based on network location</span></span>](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[<span data-ttu-id="53eb5-108">בטל סינכרון OneDrive אישי</span><span class="sxs-lookup"><span data-stu-id="53eb5-108">Disable personal OneDrive sync</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[<span data-ttu-id="8ff53-108">בטל סנכרון אישי של OneDrive</span><span class="sxs-lookup"><span data-stu-id="8ff53-108">Disable personal OneDrive sync</span></span>](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[<span data-ttu-id="53eb5-109">ניהול חיבורים מהתקנים Windows כדי OneDrive ושירותים אחרים</span><span class="sxs-lookup"><span data-stu-id="53eb5-109">Manage connections from Windows devices to OneDrive and other services</span></span>](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[<span data-ttu-id="8ff53-109">ניהול חיבורים מהתקני Windows ל-OneDrive ושירותים אחרים</span><span class="sxs-lookup"><span data-stu-id="8ff53-109">Manage connections from Windows devices to OneDrive and other services</span></span>](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

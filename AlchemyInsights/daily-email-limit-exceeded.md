@@ -1,9 +1,8 @@
 ---
-title: חריגה ממגבלת דואר אלקטרוני יומי. זרימת עבודה מושעית.
-ms.author: efrene
-author: efrene
+title: אירעה חריגה ממגבלת הדואר האלקטרוני היומית. זרימת העבודה מושעית.
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: e3fbcd5bfc279847cfb39140c3689f5433b61509
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514455"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053118"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a><span data-ttu-id="d7a67-103">חריגה ממגבלת דואר אלקטרוני יומי.</span><span class="sxs-lookup"><span data-stu-id="d7a67-103">Daily email Limit Exceeded.</span></span> <span data-ttu-id="d7a67-104">זרימת עבודה מושעית.</span><span class="sxs-lookup"><span data-stu-id="d7a67-104">Workflow is suspended.</span></span>
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a><span data-ttu-id="68fbf-103">אירעה חריגה ממגבלת הדואר האלקטרוני היומית.</span><span class="sxs-lookup"><span data-stu-id="68fbf-103">Daily email Limit Exceeded.</span></span> <span data-ttu-id="68fbf-104">זרימת העבודה מושעית.</span><span class="sxs-lookup"><span data-stu-id="68fbf-104">Workflow is suspended.</span></span>
 
-<span data-ttu-id="d7a67-105">שגיאה זו עשויה להתקבל בתרחישים הבאים:</span><span class="sxs-lookup"><span data-stu-id="d7a67-105">This error may be received in the following scenarios:</span></span>
+<span data-ttu-id="68fbf-105">שגיאה זו עשויה להתקבל בתרחישים הבאים:</span><span class="sxs-lookup"><span data-stu-id="68fbf-105">This error may be received in the following scenarios:</span></span>
 
-- <span data-ttu-id="d7a67-106">יש לך זרימת עבודה ב- SharePoint במצב מקוון שבו הוא משתמש SharePoint 2010 או סוג פלטפורמה זרימת עבודה של SharePoint 2013.</span><span class="sxs-lookup"><span data-stu-id="d7a67-106">You have a workflow in SharePoint Online that's using the SharePoint 2010 or SharePoint 2013 workflow platform type.</span></span>
-- <span data-ttu-id="d7a67-107">זרימת העבודה נקבעה כדי לשלוח הודעת דואר אלקטרוני מותאמות אישית משתמשים יותר מ- 200 בכל פעם, למעלה מ- 10,000 נמענים בכל יום או יותר מ- 30 הודעות לדקה.</span><span class="sxs-lookup"><span data-stu-id="d7a67-107">The workflow is configured to send a custom email message to more than 200 users at a time, more than 10,000 recipients per day, or more than 30 messages per minute.</span></span>
-- <span data-ttu-id="d7a67-108">כאשר אתה מפעיל את זרימת העבודה, ההודעה לא תישלח ולאחר תבחין בהתנהגות הבאה:</span><span class="sxs-lookup"><span data-stu-id="d7a67-108">When you run the workflow, the email message isn't sent, and you notice the following behavior:</span></span>
-    - <span data-ttu-id="d7a67-109">עבור זרימת עבודה באמצעות סוג פלטפורמת SharePoint 2013, דפדף אל דף **מצב זרימת העבודה** .</span><span class="sxs-lookup"><span data-stu-id="d7a67-109">For a workflow using the SharePoint 2013 platform type, you browse to the **Workflow Status** page.</span></span> <span data-ttu-id="d7a67-110">בדף ' מצב זרימת עבודה ', **מצב פנימי** מוגדר **הופעל**, ומציג בלון המידע **אין אפשרות לשלוח לנמען**.</span><span class="sxs-lookup"><span data-stu-id="d7a67-110">On the Workflow Status page, the **Internal Status** is set to **Started**, and the information balloon displays **Unable to send to a recipient**.</span></span>
+- <span data-ttu-id="68fbf-106">ברשותך זרימת עבודה ב-SharePoint Online המשתמשת בסוג פלטפורמת זרימת העבודה sharepoint 2010 או SharePoint 2013.</span><span class="sxs-lookup"><span data-stu-id="68fbf-106">You have a workflow in SharePoint Online that's using the SharePoint 2010 or SharePoint 2013 workflow platform type.</span></span>
+- <span data-ttu-id="68fbf-107">תצורת זרימת העבודה מוגדרת לשליחת הודעת דואר אלקטרוני מותאמת אישית ליותר מ-200 משתמשים בכל פעם, יותר מ-10,000 נמענים ביום, או יותר מ-30 הודעות בדקה.</span><span class="sxs-lookup"><span data-stu-id="68fbf-107">The workflow is configured to send a custom email message to more than 200 users at a time, more than 10,000 recipients per day, or more than 30 messages per minute.</span></span>
+- <span data-ttu-id="68fbf-108">בעת הפעלת זרימת העבודה, הודעת הדואר האלקטרוני אינה נשלחת ואתה מבחין בהתנהגות הבאה:</span><span class="sxs-lookup"><span data-stu-id="68fbf-108">When you run the workflow, the email message isn't sent, and you notice the following behavior:</span></span>
+    - <span data-ttu-id="68fbf-109">עבור זרימת עבודה באמצעות סוג פלטפורמת SharePoint 2013, אתה גולש לדף ' **מצב זרימת עבודה** '.</span><span class="sxs-lookup"><span data-stu-id="68fbf-109">For a workflow using the SharePoint 2013 platform type, you browse to the **Workflow Status** page.</span></span> <span data-ttu-id="68fbf-110">בדף ' מצב זרימת עבודה ', **המצב הפנימי** מוגדר **כהתחלתי**ובבלון המידע מציג **אפשרות לשלוח לנמען**.</span><span class="sxs-lookup"><span data-stu-id="68fbf-110">On the Workflow Status page, the **Internal Status** is set to **Started**, and the information balloon displays **Unable to send to a recipient**.</span></span>
 
-<span data-ttu-id="d7a67-111">כדי לעקוף בעיה זו, קביעת התצורה של זרימת העבודה שלך כדי לשלוח הודעות דואר אלקטרוני מבלי לחרוג [ממגבלות השולח Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits).</span><span class="sxs-lookup"><span data-stu-id="d7a67-111">To work around this issue, configure your workflow to send email messages without exceeding the [Exchange Online sender limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits).</span></span> <span data-ttu-id="d7a67-112">לדוגמה, השתמש השהיה בזרימת העבודה, הדואר האלקטרוני לקבוצה Office 365, קבוצת תפוצה או קבוצת אבטחה דואר זמין או לשלוח את ההודעה לנמענים פחות מ- 200 בכל פעם.</span><span class="sxs-lookup"><span data-stu-id="d7a67-112">For example, use a pause in the workflow, send the email to an Office 365 group, a distribution group or mail enabled security group, or send the message to fewer than 200 recipients at a time.</span></span>
+<span data-ttu-id="68fbf-111">כדי לעקוף בעיה זו, הגדר את זרימת העבודה שלך לשליחת הודעות דואר אלקטרוני מבלי לחרוג [ממגבלות השולח המקוון של Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits).</span><span class="sxs-lookup"><span data-stu-id="68fbf-111">To work around this issue, configure your workflow to send email messages without exceeding the [Exchange Online sender limits](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits).</span></span> <span data-ttu-id="68fbf-112">לדוגמה, השתמש בהשהיה בזרימת העבודה, שלח את הדואר האלקטרוני לקבוצת Office 365, קבוצת תפוצה או קבוצת אבטחה זמינה בדואר, או שלח את ההודעה לפחות מ-200 נמענים בכל פעם.</span><span class="sxs-lookup"><span data-stu-id="68fbf-112">For example, use a pause in the workflow, send the email to an Office 365 group, a distribution group or mail enabled security group, or send the message to fewer than 200 recipients at a time.</span></span>
 
 
-<span data-ttu-id="d7a67-113">לקבלת מידע נוסף, עיין [במאמר](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)הבא.</span><span class="sxs-lookup"><span data-stu-id="d7a67-113">For more information, see the following [article](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).</span></span>
+<span data-ttu-id="68fbf-113">לקבלת מידע נוסף, עיין [במאמר](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)הבא.</span><span class="sxs-lookup"><span data-stu-id="68fbf-113">For more information, see the following [article](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).</span></span>
 
-## <a name="related-topics"></a><span data-ttu-id="d7a67-114">נושאים קשורים</span><span class="sxs-lookup"><span data-stu-id="d7a67-114">Related topics</span></span>
-- [<span data-ttu-id="d7a67-115">צור זרימה</span><span class="sxs-lookup"><span data-stu-id="d7a67-115">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [<span data-ttu-id="d7a67-116">SharePoint וזרימה</span><span class="sxs-lookup"><span data-stu-id="d7a67-116">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+## <a name="related-topics"></a><span data-ttu-id="68fbf-114">נושאים קשורים</span><span class="sxs-lookup"><span data-stu-id="68fbf-114">Related topics</span></span>
+- [<span data-ttu-id="68fbf-115">צור זרימה</span><span class="sxs-lookup"><span data-stu-id="68fbf-115">Create Flow</span></span>](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [<span data-ttu-id="68fbf-116">SharePoint וזרימה</span><span class="sxs-lookup"><span data-stu-id="68fbf-116">SharePoint and Flow</span></span>](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
