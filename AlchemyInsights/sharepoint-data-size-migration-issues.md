@@ -1,7 +1,7 @@
 ---
-title: בעיות בעת העברת נתונים ל- SharePoint Online
-ms.author: efrene
-author: efrene
+title: בעיות בעת העברת נתונים ל-SharePoint Online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504356"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051750"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>בעיות בעת העברת נתונים ל- SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>בעיות בעת העברת נתונים ל-SharePoint Online
 
-נראה שאתה מעביר למעלה מ- 100 טרה-בתים של נתונים ל- SharePoint Online. נא בצע את השלבים הבאים כך אנו עשויים לסייע לך בהקדם האפשרי. 
+נראה שאתה מעביר מעל 100TB של נתונים ל-SharePoint Online. נא בצע את השלבים הבאים כדי שנוכל לסייע לך בהקדם האפשרי. 
 
-1. בחר **לבקש שירות חדש**, ולאחר מכן **לבקש שירות חדש**. 
-2. השאר את הכותרת והתיאור כ **ההעברה SharePoint מעל 100 טרה -בתים**.
-3. לאחר הכרטיס נשלח, לעדכן אותו עם המידע הבא: 
+1. בחר **בקשת שירות חדשה**ולאחר מכן **בקשת שירות חדשה**. 
+2. השאר את הכותרת והתיאור **כהעברת SharePoint מעל 100 טרה-בתים**.
+3. לאחר הגשת הכרטיס, אנא עדכנו אותו במידע הבא: 
 
-    - הגודל המשוער של ההעברה שלך.
-    - הערכת כאשר ברצונך להתחיל ולאחר השלמת ההעברה שלך.
-    - תאר היכן שאתה מעביר את התוכן שלך, כגון שרת SharePoint, תיבת, GDrive, שיתופי קבצים, וכן הלאה...
+    - הגודל המשוער של ההעברה.
+    - הערכה של מתי ברצונך להתחיל ולהשלים את ההעברה.
+    - תאר היכן אתה מעביר את התוכן שלך, כגון SharePoint Server, Box, GDrive, שיתופי קבצים וכו '.
 
 
   

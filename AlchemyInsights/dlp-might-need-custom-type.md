@@ -1,7 +1,7 @@
 ---
-title: טכנולוגיית DLP תזדקקו סוג מותאם אישית
-ms.author: stephow
-author: stephow-MSFT
+title: ייתכן שטכנולוגיית DLP זקוקה לסוג מותאם אישית
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530352"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052902"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>טכנולוגיית DLP תזדקקו סוג מותאם אישית
+# <a name="dlp-might-need-a-custom-type"></a>ייתכן שטכנולוגיית DLP זקוקה לסוג מותאם אישית
 
-עם מדיניות (DLP) מניעת אובדן נתונים, באפשרותך לזהות וכן להגן על נתונים רגישים בארגון שלך. בתרחישים מסוימים, ייתכן שתצטרך ליצור סוג מידע רגיש **מותאמים אישית** משלך כדי להגן על הנתונים של הארגון.
+באמצעות מדיניות של מניעת אובדן נתונים (DLP), באפשרותך לזהות ולהגן על נתונים רגישים בארגון שלך. בתרחישים מסוימים, ייתכן שיהיה עליך ליצור סוג מידע **מותאם אישית** משלך כדי להגן על הנתונים של הארגון שלך.
 
-לדוגמה, ייתכן שיהיה עליך הארגון שלך לזהות ולהגן על זיהוי של עובדים או נתונים אחרים בתבנית מסוימות ספציפיות לארגון שלך אם כן, עיין במאמרים הבאים לקבלת מידע נוסף.
+לדוגמה, ייתכן שהארגון שלך יצטרך לזהות ולהגן על מזהי עובדים או על נתונים אחרים בתבנית מסוימת הספציפית לארגון שלך. אם כן, עיין במאמרים הבאים לקבלת מידע נוסף.
   
- **התאמה אישית של סוג מידע רגיש מוכללים**
+ **התאמה אישית של סוג מידע רגיש מוכלל**
   
-אם סוג מידע רגיש מוכללים יענו לצרכים שלך עם tweaks ספורות, באפשרותך [להתאים אישית את סוג מידע רגיש מוכלל](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). לדוגמה, באפשרותך להוסיף או להסיר מילות מפתח, או להוסיף או להסיר עדות התומכת כגון תאריך או כתובת.
+אם סוג מידע רגיש מובנה מתאים לצרכיך עם מספר משודרג בלבד, באפשרותך [להתאים אישית סוג מידע רגיש מוכלל](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). לדוגמה, באפשרותך להוסיף או להסיר מילות מפתח, או להוסיף או להסיר ראיות תומכות כגון תאריך או כתובת.
   
  **יצירת סוג מידע רגיש מותאם אישית**
   
-אך אם אתה צריך לזהות ולהגן על סוג אחר של מידע רגיש לגמרי, באפשרותך [ליצור סוג מידע רגיש מותאם אישית](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) בממשק המשתמש של & אבטחה מרכז תאימות.
+אך אם עליך לזהות ולהגן על סוג אחר של מידע רגיש לחלוטין, באפשרותך [ליצור סוג מידע רגיש ומותאם אישית](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) בממשק המשתמש של מרכז התאימות של אבטחה _ אמפר _.
   
-**יצירת סוג מידע רגיש מותאמים אישית ב- & אבטחה PowerShell מרכז תאימות**
+**יצירת סוג מידע רגיש מותאם אישית באבטחה _ אמפר _ מרכז התאימות PowerShell**
 
-לבסוף, אם ממשק המשתמש אינה מספקת את כל האפשרויות שהדרושות, באפשרותך [ליצור סוג מידע רגיש מותאמים אישית ב- & אבטחה PowerShell מרכז תאימות](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). על-ידי הפעלת קובץ XML, באפשרותך להשתמש בכל אפשרות זמינה.
+לבסוף, אם ממשק המשתמש אינו מספק את כל האפשרויות הדרושות לך, באפשרותך [ליצור סוג מידע רגיש מותאם אישית באבטחה _ אמפר _ מרכז התאימות PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). על-ידי התחלה עם קובץ XML, באפשרותך להשתמש בכל אפשרות זמינה.

@@ -1,7 +1,7 @@
 ---
-title: לשחזר קבוצה שנמחקה Office 365
-ms.author: kaarins
-author: kaarins
+title: שחזור קבוצת Office 365 שנמחקה
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 3/23/2018
 ms.audience: Admin
@@ -13,20 +13,20 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: e1f0ecaeca3154096c952c0a5018805ac46d8d3f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2e89b479f8cfc0ee0e590b64d09abae8a678e1cc
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509254"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40048833"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>לשחזר קבוצה שנמחקה Office 365
+# <a name="restore-a-deleted-office-365-group"></a>שחזור קבוצת Office 365 שנמחקה
 
 קבוצות שנמחקו נשמרות למשך 30 יום. כדי לשחזר קבוצה שנמחקה:
   
-1. [מרכז הניהול של Exchange](https://outlook.office365.com/ecp/), בחר **נמענים** בחלונית הימנית ולאחר מכן בחר **קבוצות**. אם קבוצה נמחק לפני פחות מ- 30 ימים, הוא יופיע ברשימה ולא עמודה מצב תפרט את התאריך נמחק.
+1. במרכז [הניהול של Exchange](https://outlook.office365.com/ecp/), בחר **נמענים** בחלונית הימנית ולאחר מכן בחר באפשרות **קבוצות**. אם קבוצה נמחקה לפני פחות מ-30 יום, היא תופיע ברשימה ועמודת המצב תפרט את התאריך שנמחק.
 
-2. בחר את הקבוצה ולאחר מכן לחץ על **שחזר** בסרגל הפקודות, או לחץ על הקישור "לחץ כאן כדי לשחזר" בחלונית הפרטים.
+2. בחר את הקבוצה ולאחר מכן לחץ על **שחזר** בשורת הפקודה, או לחץ על הקישור "לחץ כאן כדי לשחזר" בחלונית הפרטים.
 
-לקבלת מידע נוסף, או כדי ללמוד כיצד לשחזר קבוצות באמצעות PowerShell, ראה [שחזור קבוצה Office 365 שנמחקה](https://go.microsoft.com/fwlink/?linkid=867802).
+לקבלת מידע נוסף, או כדי ללמוד כיצד לשחזר קבוצות באמצעות PowerShell, ראה [שחזור קבוצת Office 365 שנמחקה](https://go.microsoft.com/fwlink/?linkid=867802).
   

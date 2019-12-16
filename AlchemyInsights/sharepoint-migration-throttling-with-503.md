@@ -1,7 +1,7 @@
 ---
-title: ההעברה SharePoint ויסות עם שגיאות 503
-ms.author: efrene
-author: efrene
+title: ויסות העברה של SharePoint עם 503 שגיאות
+ms.author: pebaum
+author: pebaum
 ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: b0545c792e81fe733107a6157f4d57aa7bbc9fba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503600"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054054"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>ההעברה SharePoint ויסות עם שגיאות 503
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>ויסות העברה של SharePoint עם 503 שגיאות
 
-נראה מעביר ל- SharePoint Online וקבלה של שגיאות 503. נא בצע את השלבים הבאים כך אנו עשויים לסייע לך בהקדם האפשרי. 
+נראה שאתה מעביר ל-SharePoint Online ומקבל 503 שגיאות. נא בצע את השלבים הבאים כדי שנוכל לסייע לך בהקדם האפשרי. 
 
-1. לחץ על **צור קשר עם התמיכה**ולאחר מכן **לבקש שירות חדש**.
-2. עבור כותרת ותיאור, הקלד **ויסות ההעברה של SharePoint עם 503**.
-3. לאחר הכרטיס נשלח, לעדכן אותו עם המידע הבא:
-    - כמה משמאל ההעברה (לדוגמה, כמה TBs?).
-    - ההעברה התחלה וסיום תאריך.
-    - תאר היכן שאתה מעביר את התוכן שלך, כגון שרת SharePoint, תיבת, GDrive, שיתופי קבצים, וכן הלאה...
-    - להעריך את מספר השגיאות ויסות (לדוגמה, x מצערת לשעה?) ואת כאשר פרסמה את ויסות להתרחש.
-    - העברת איזה כלי אתה משתמש (לדוגמה, SPMT או ShareGate).
+1. לחץ על **תמיכה באנשי קשר**ולאחר מכן **בקשת שירות חדשה**.
+2. עבור הכותרת והתיאור, הקלד **ויסות העברת SharePoint עם 503**.
+3. לאחר הגשת הכרטיס, אנא עדכנו אותו במידע הבא:
+    - כמה משמאל של הגירה (לדוגמה, כמה TBs?).
+    - תאריך התחלה וסיום של העברה.
+    - תאר היכן אתה מעביר את התוכן שלך, כגון SharePoint Server, Box, GDrive, שיתופי קבצים וכו '.
+    - האם להעריך את מספר שגיאות הוויסות (לדוגמה, x המצערת לשעה?) ומתי הוויסות יתרחש.
+    - באיזה כלי הגירה אתה משתמש (לדוגמה, SPMT או ShareGate).
 
 

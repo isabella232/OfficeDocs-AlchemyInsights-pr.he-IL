@@ -1,7 +1,7 @@
 ---
-title: OneDrive שמירה ומחיקה
-ms.author: efrene
-author: efrene
+title: החזקת OneDrive ומחיקה
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521568"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053334"
 ---
-# <a name="onedrive-retention-and-deletion"></a>OneDrive שמירה ומחיקה
+# <a name="onedrive-retention-and-deletion"></a>החזקת OneDrive ומחיקה
 
-- באפשרותך [לשחזר משתמש שנמחק OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) בעצמך. הם נמצאים סל המיחזור עבור 93 ימים. 
+- באפשרותך [לשחזר משתמשים שנמחקו לכונן בעצמך](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . הם נמצאים בסל מיחזור עבור 93 ימים. 
 
-- עיין [במאמר זה](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) כדי ללמוד:
-    - כיצד להעניק למשתמש גישה אחר OneDrive של משתמש שנמחק.
-    - מה קורה OneDrive של המשתמש בעת מחיקת חשבון המשתמש של Office 365 עבור הארגון שלך.
-    - כיצד להגדיר גישה אוטומטית הקצאה.
-    - כיצד פועל תהליך המחיקה OneDrive.
+- ראה [מאמר זה](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) כדי ללמוד:
+    - כיצד להעניק למשתמש אחר גישה לכונן OneDrive של משתמש שנמחק.
+    - מה קורה ל-OneDrive של משתמש בעת מחיקת חשבון Office 365 של המשתמש עבור הארגון שלך.
+    - כיצד להגדיר הקצאת גישה אוטומטית.
+    - האופן שבו פועל תהליך מחיקת כוננים.
 
-- מעוניינים בשמירה אבטחה ומרכז תאימות והחזקה?:
-    - [מדיניות שמירה עבור אתרי SharePoint ו- OneDrive](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [חסימה גילוי אלקטרוני עבור אתרי SharePoint ו- OneDrive](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- מעוניין בשמירה והחזקה של מרכז התאימות?:
+    - [מדיניות שמירה עבור אתרי OneDrive ו-SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [החזקת eDiscovery עבור אתרים OneDrive ו-SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 

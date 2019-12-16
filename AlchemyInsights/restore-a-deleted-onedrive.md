@@ -1,7 +1,7 @@
 ---
-title: שחזור OneDrive שנמחקו
-ms.author: kaarins
-author: kaarins
+title: שחזור שנמחק OneDrive
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 5/15/2018
 ms.audience: Admin
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: 80582bdcc38a92f85282826aa63822ddf0cb1994
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a6db2e22c001cb809465c63da494121c06178b64
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509326"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054198"
 ---
-# <a name="restore-a-deleted-onedrive"></a>שחזור OneDrive שנמחקו
+# <a name="restore-a-deleted-onedrive"></a>שחזור שנמחק OneDrive
 
-לאחר מחיקת משתמש, באפשרותך לגשת OneDrive של המשתמש באמצעות מרכז admin Microsoft 365 למשך 30 יום. משתמשים אחרים יכולים להמשיך לגשת לתוכן משותף ב- OneDrive עבור משך הזמן שהגדרת במרכז הניהול של OneDrive. (כדי ללמוד כיצד להגדיר פעולה זו, ראה [הגדרת את השמירה של קובץ ברירת מחדל עבור משתמשים OneDrive שנמחקו](https://go.microsoft.com/fwlink/?linkid=874267).) לאחר פרק זמן זה, OneDrive מועבר לסל המיחזור עבור ימים 93 ולאחר מכן למחוק אותה.
+לאחר מחיקת משתמש, באפשרותך לגשת ל-OneDrive של המשתמש דרך מרכז הניהול של Microsoft 365 למשך 30 יום. משתמשים אחרים יכולים להמשיך לגשת לתוכן משותף ב-OneDrive למשך הזמן שקבעת במרכז הניהול OneDrive. (כדי ללמוד כיצד להגדיר זאת, ראה [הגדרת שמירת הקבצים המהווה ברירת מחדל עבור משתמשי OneDrive שנמחקו](https://go.microsoft.com/fwlink/?linkid=874267)). לאחר זמן זה, OneDrive מועבר לסל המיחזור עבור 93 ימים, ולאחר מכן הוא נמחק.
   
-לאחר 30 הימים הראשונים, כאשר המשתמש שנמחקו אינה מופיעה עוד במרכז admin Microsoft 365, באפשרותך לגשת OneDrive של המשתמש באמצעות PowerShell. לקבלת מידע, ראה [שחזור OneDrive שנמחק](https://go.microsoft.com/fwlink/?linkid=874269).
+לאחר 30 הימים הראשונים, כאשר המשתמש שנמחק כבר לא מופיע ב-Microsoft 365 admin center, באפשרותך לגשת ל-OneDrive של המשתמש דרך PowerShell. לקבלת מידע, ראה [שחזור OneDrive שנמחק](https://go.microsoft.com/fwlink/?linkid=874269).
   
 

@@ -1,7 +1,7 @@
 ---
-title: המרת אתר לאתר רכזת
-ms.author: kaarins
-author: kaarins
+title: המרת אתר לאתר hub
+ms.author: pebaum
+author: pebaum
 ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5b8bb4d7a492db44888bb99bb21c59985295e13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516744"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049950"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>יצירת אתר SharePoint רכזת
+# <a name="create-a-sharepoint-hub-site"></a>יצירת אתר hub של SharePoint
 
-1. במרכז הניהול של SharePoint, תחת **אתרים**, לחץ על **אתרים פעילים**.
+1. במרכז הניהול החדש של SharePoint, תחת **אתרים**, לחץ על **אתרים פעילים**.
 
-2. בחר את האתר שברצונך להיות אתר רכזת, לחץ על **אתר רכזת**ולאחר מכן לחץ על **רישום כאתר hub**.
+2. בחר את האתר שברצונך להיות אתר hub, לחץ על **אתר hub**ולאחר מכן לחץ על **הירשם כאתר hub**.
 
-3. הזן שם תצוגה עבור אתר רכזת וציין משתמשים בודדים או קבוצות אבטחה שברצונך לאפשר כדי לשייך אתרי ה-hub.
+3. הזן שם תצוגה עבור אתר ה-hub וציין את המשתמשים הבודדים או את קבוצות האבטחה שברצונך לאפשר לשיוך אתרים לרכזת.
 
     > [!NOTE]
-    >  אנו ממליצים לבחור אתר תקשורת, או אתר צוות העושה את התבנית החדשה. אם אתה משתמש באתר צוות קלאסי, הניווט רכזת יופיעו רק בעמודי מודרניים, הגדרות אתר רכזת יופיע רק בדפים מודרניים. אין אפשרות לרשום את האתרים המקושרים כבר עם רכזת אחר כאתר hub.
+    >  מומלץ לבחור אתר תקשורת או אתר צוות המשתמש בתבנית החדשה. אם אתה משתמש באתר צוות קלאסי, ניווט ה-hub יופיע רק בעמודים מודרניים, והגדרות אתר hub יופיעו רק בעמודים מודרניים. לא ניתן לרשום אתרים שכבר משויכים לרכזת אחרת כאתר hub.
   
-[למד עוד אודות אתרי ה-hub](https://go.microsoft.com/fwlink/?linkid=869149)
+[למד עוד אודות אתרי hub](https://go.microsoft.com/fwlink/?linkid=869149)
   

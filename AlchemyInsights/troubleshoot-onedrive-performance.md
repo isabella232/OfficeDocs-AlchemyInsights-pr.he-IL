@@ -1,7 +1,7 @@
 ---
 title: פתרון ביצועים של כונן OneDrive
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 222f818c3fd78a19b9952d4703755498bc080910
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: 5416da63851de8b0b45e1d5c0cef24b03db40e6e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822199"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054955"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>פתרון ביצועים של כונן OneDrive
 
@@ -28,6 +28,6 @@ ms.locfileid: "36822199"
 
 - [מקסם את מהירות ההעלאה וההורדה](https://support.office.com/article/maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43), במיוחד אם אתה מסנכרן מכשיר בפעם הראשונה.
 
-- אם אתה מסנכרן ספריה עם יותר מ-100,000 פריטים, סינכרון OneDrive עשוי להיראות תקוע למשך זמן רב, או שהמצב מציג עיבוד 0KB של xMB. " [למד עוד אודות סינכרון של יותר מ-100,000 קבצים](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) , כמו גם [המגבלה הנתמכת של onedrive של קבצי 300,000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- אם אתה מסנכרן ספריה עם יותר מ-100,000 פריטים, סינכרון OneDrive עשוי להיראות תקוע למשך זמן רב, או שהמצב מציג את העיבוד 0KB של xMB. " [למד עוד אודות סינכרון של יותר מ-100,000 קבצים](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) , כמו גם [המגבלה הנתמכת של onedrive של קבצי 300,000](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 - כאשר משתמש חורג ממגבלות השימוש, SharePoint Online מוסיף בקשות נוספות מחשבון משתמש זה לתקופה קצרה. כל פעולות המשתמש מנחנקו כאשר המצערת בתוקף.

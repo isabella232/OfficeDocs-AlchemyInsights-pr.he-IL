@@ -1,7 +1,7 @@
 ---
 title: הגדרות Outlook.com
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386366"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053262"
 ---
 # <a name="settings-in-outlookcom"></a>הגדרות בOutlook.com
 
-אם הנמען הוא פנימי או חיצוני לארגון שלך ואם הם משתמשים בחשבון דואר אלקטרוני של Office 365 או Outlook.com, הלקוחות הבאים לא צריכים לעשות משהו מיוחד כדי לפתוח את ההודעה: **outlook 2016, outlook באינטרנט/Outlook Web App, האפליקציה הניידת של Outlook**
+אם הנמען הוא פנימי או חיצוני לארגון שלך ואם הם משתמשים ב-Office 365 או בחשבון דואר אלקטרוני Outlook.com, הלקוחות הבאים לא צריך לעשות משהו מיוחד כדי לפתוח את ההודעה: **outlook 2016, outlook באינטרנט/Outlook Web app, יישום הנייד של outlook**
 
 **נציגים** של משתמשים המוגנים בדואר אלקטרוני שנשלחו אל, אינם יכולים לפתוח הודעות מוגנות. רק הנמענים המקוריים (אדם המוגן בדואר אלקטרוני) יכולים להציג את המידע באימייל.
 

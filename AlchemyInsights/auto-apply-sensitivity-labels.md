@@ -1,7 +1,7 @@
 ---
-title: החל אוטומטית של תוויות רגישות
-ms.author: stephow
-author: stephow-MSFT
+title: החלת תוויות רגישות באופן אוטומטי
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517392"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050310"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>החל אוטומטית של תוויות רגישות
+# <a name="auto-apply-sensitivity-labels"></a>החלת תוויות רגישות באופן אוטומטי
 
-תוויות רגישות יכול באופן ידני לחול על תוכן על-ידי משתמשים, או באפשרותך להגדיר אותם באופן אוטומטי יחול על תוכן.
+תוויות רגישות יכולות להיות מוחלות באופן ידני על תוכן על-ידי משתמשים, או לקבוע את תצורתם כך שיוחלו על תוכן באופן אוטומטי.
 
-החלה אוטומטית של תוויות רגישות מסירה את הצורך הכשרת משתמשים כיצד לסווג תוכן את הצורך כדי ליידע אותם תצורות של מדיניות.
+החלת תוויות רגישות באופן אוטומטי מסירה את הצורך להכשיר משתמשים כיצד לסווג תוכן ואת הצורך להודיע להם על תצורות מדיניות.
 
-כדי להחיל באופן אוטומטי תוויות, נדרשת הבאות:
+כדי להחיל תוויות באופן אוטומטי, נדרשות הפעולות הבאות:
 
-- מנוי P2 הגנת מידע תכלת הרקיע
-- [הורד והתקן הגנת מידע תכלת הרקיע אחידה תיוג לקוח](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- הגנה על מידע תכלת מנוי P2
+- [הורד והתקן את הלקוח תיוג מאוחד להגנת מידע תכלת](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-אנחנו פועלים על תמיכה מקורית אשר לא מחייב את הלקוח labeling מאוחד הגנת מידע תכלת הרקיע בעתיד.
+אנו עובדים על תמיכה מקורית שלא תידרש ללקוח תיוג מאוחד של הגנת המידע בעתיד.
 
-כעת, רק Windows תומך הלקוח labeling מאוחד.  התכונה אינה נתמכת עדיין על Mac, iOS ו- Android.
+כרגע, רק Windows תומך בלקוח התיוג האחיד.  התכונה אינה נתמכת עדיין ב-Mac, iOS ו-Android.
 
-לקבלת מידע נוסף אודות רגישות ותוויות להחיל אותן באופן אוטומטי תוכן, ראה:
+לקבלת מידע נוסף אודות תוויות רגישות והחלתם אוטומטית על תוכן, ראה:
 
 - [מבט כולל על תוויות רגישות](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [להחיל תווית רגישות לתוכן באופן אוטומטי](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [החלת תווית רגישות על תוכן באופן אוטומטי](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

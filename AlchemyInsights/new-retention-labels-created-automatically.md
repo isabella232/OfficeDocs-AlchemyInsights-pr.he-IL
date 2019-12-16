@@ -1,7 +1,7 @@
 ---
-title: תוויות השמירה חדשות שנוצרו באופן אוטומטי
-ms.author: stephow
-author: stephow-MSFT
+title: תוויות שמירה חדשות שנוצרו באופן אוטומטי
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 2df788f74e7e6464d4a51653709e983046dd2f8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522180"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40054667"
 ---
-# <a name="new-retention-labels-created-automatically"></a>תוויות השמירה חדשות שנוצרו באופן אוטומטי
+# <a name="new-retention-labels-created-automatically"></a>תוויות שמירה חדשות שנוצרו באופן אוטומטי
 
-ייתכן שתראה [שלושה תוויות השמירה חדשות של Office 365](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) שנוצרו באופן אוטומטי בארגון שלך תחת **תוויות השמירה** במרכז ניהול אבטחה או תאימות. שמות תוויות הם:
+ייתכן [שתראה שלוש תוויות שמירה חדשות של Office 365](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) שנוצרו באופן אוטומטי בארגון שלך תחת **תוויות שמירה** במרכז ניהול האבטחה או התאימות. שמות התוויות הם:
 
-- הליך תפעולי
-- עסקי כללי
+- פרוצדורה תפעולית
+- כללי עסקים
 - הסכם חוזה
 
-הדבר יתרחש בפעם הראשונה שתבחר **לתכנן קובץ** אם אין תוויות השמירה אחרים שנוצרו. תוויות אלה נוצרים באופן אוטומטי ו, במידת הצורך, ניתן להסיר אם הם לא טרם הוחלו על תוכן. כדי להסיר את התוויות:
+פעולה זו תתרחש בפעם הראשונה שתבחר **בתוכנית הקבצים** אם לא נוצרו תוויות שמירה אחרות. תוויות אלה נוצרות באופן אוטומטי ובמידת הצורך, ניתן להסיר אותן אם הן טרם הוחלו על תוכן. כדי להסיר את התוויות:
 
-1. במרכז ניהול אבטחה או תאימות, בחרו **סיווגים** > **תוויות** > הכרטיסיה**שמירה** .
+1. במרכז ניהול האבטחה או התאימות, בחר בכרטיסיה**שמירה** של**תוויות** >  **סיווגים** > .
 
-1. בחר את התוויות השמירה שברצונך להסיר **למחוק תווית**> > **כן** כדי למחוק את התווית.
+1. בחר את תוויות השמירה שברצונך להסיר באמצעות >  **התווית ' מחיקה _ מחיקת**'**כן** כדי למחוק את התווית.
 
-עם מנהל תכנון של קבצים, באפשרותך לנהל תוויות השמירה ואת מדיניות בארגון שלך - לקבלת מידע נוסף, ראה [מבט כולל על מנהל תכנון הקבצים](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
+באמצעות מנהל תוכנית הקבצים, באפשרותך לנהל תוויות שמירה ופריטי מדיניות בארגון שלך-לקבלת מידע נוסף, ראה [מבט כולל על מנהל תוכנית הקבצים](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

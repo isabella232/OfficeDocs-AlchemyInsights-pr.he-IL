@@ -1,7 +1,7 @@
 ---
-title: לנהל קבוצה ללא רשיון של Exchange
-ms.author: dianef
-author: dianef77
+title: ניהול קבוצה ללא רשיון חליפין
+ms.author: pebaum
+author: pebaum
 ms.date: 5/23/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: b974217fa53efe943f8e2e44313c5679c0faa9b3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497461"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049266"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>לנהל קבוצה ללא רשיון של Exchange
+# <a name="manage-a-group-without-an-exchange-license"></a>ניהול קבוצה ללא רשיון חליפין
 
-אם חשבון הניהול של Office 365 שלך אין תיבת דואר, ייתכן שתקבל שגיאה אודות רשיון מוצר חסר בעת ניסיון לערוך קבוצת Office 365.
+אם לחשבון המנהל שלך ב-Office 365 אין תיבת דואר, ייתכן שתקבל שגיאה בנוגע לרשיון מוצר חסר בעת ניסיון לערוך קבוצת Office 365.
   
-משום שאינך ניהול הדיירים, הוא מאפשר לך לערוך קבוצה גם אם אין לך רשיון עבור Exchange. פשוט עבור אל [מרכז הניהול של Exchange](https://outlook.office365.com/ecp.aspx) \> **קבוצות** כדי לנהל את הקבוצה של Office 365.
+מכיוון שאתה מנהל הדיירים, ייתכן שתערוך קבוצה למרות שאין לך רשיון Exchange. פשוט עבור \> **לקבוצות** [מרכז הניהול של Exchange](https://outlook.office365.com/ecp.aspx) כדי לנהל את קבוצת Office 365.
   
-אם ברצונך לערוך קבוצות במרכז admin, להוסיף רשיון Exchange לחשבונך admin. עליך להמתין עד תיבת הדואר מלאה נוצר לפני שתוכל לערוך קבוצה.
+אם ברצונך לערוך קבוצות במרכז הניהול, הוסף רשיון Exchange לחשבון המנהל שלך. עליך להמתין עד שתיבת הדואר תיווצר במלואה לפני שתוכל לערוך קבוצה.
   

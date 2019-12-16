@@ -1,19 +1,19 @@
 ---
 title: חיבור אתר צוות קלאסי של SharePoint לקבוצה
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
-ms.openlocfilehash: 389880415621b7623c9f7ea9f43417eab878806a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4af4890ac6d353083c2ddb813ea1e91629b6fd51
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36504763"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049986"
 ---
 # <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>חיבור אתרי צוות SharePoint קלאסיים לקבוצות חדשות של Office 365
 
