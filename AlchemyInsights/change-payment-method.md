@@ -1,5 +1,5 @@
 ---
-title: שינוי שיטת התשלום
+title: שינוי שיטת תשלום
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 9408ea841ec142450c6a796b703021e0e2835543
+ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665343"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068281"
 ---
-# <a name="change-payment-method"></a>שינוי שיטת התשלום
+# <a name="change-payment-method"></a>שינוי שיטת תשלום
 
-באפשרותך לוודא ולשנות את שיטת התשלום שתצורתו נקבעה במרכז הניהול של Microsoft 365. בחר את המנוי שברצונך לאמת. שיטת התשלום שהוגדר עבור המנוי מופיעה תחת **חיוב**. 
+באפשרותך לאמת ולשנות את שיטת התשלום שהוגדרה במרכז הניהול של Microsoft 365. בחר את המנוי שברצונך לאמת. שיטת התשלום שהוגדרה עבור המנוי מופיעה תחת **חיוב**.
   
-1. במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז הניהול, עבור לדף **חיוב** \> [מוצרים ושירותים](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. לצד שיטת תשלום עבור המנוי שברצונך לשנות את שיטת התשלום עבור, בחר **לערוך**.
+2. חפש את המנוי שעבורו ברצונך לשנות את שיטת התשלום. לצד שיטת התשלום, בחרו ' **עריכה**'.
 
-3. בצע את השלבים שעל המסך כדי לסיים את השינוי.
+3. בצע את השלבים שעל המסך כדי להשלים את השינוי.
 
-האם אתה משתמש במרכז admin הישן? עבור השלבים הישן, או כדי ללמוד עוד, ראה [שינוי שיטת התשלום שלך עבור Office 365 עבור העסק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+לקבלת מידע נוסף, ראה [שינוי שיטת התשלום עבור Office 365 עבור עסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
