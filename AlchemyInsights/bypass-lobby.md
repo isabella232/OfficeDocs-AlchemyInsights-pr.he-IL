@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626349"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889083"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>שליטה בהגדרות הלובי וברמת ההשתתפות
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>שליטה בהגדרות הלובי וברמת ההשתתפות בצוותים
 
-אם ברצונך לאפשר לכולם, כולל חיוג, משתמשים חיצוניים ואנונימיים לעקוף את הלובי בצוותי Microsoft, באפשרותך להשתמש ב-PowerShell כדי לעשות זאת. להלן דוגמה לשינוי מדיניות הפגישה הגלובלית עבור הארגון שלך:
+אם ברצונך לאפשר לכולם, כולל חיוג, משתמשים חיצוניים ואנונימיים, **לעקוף את הלובי**, השתמש ב-PowerShell כדי לבצע משימה זו. להלן דוגמה לשינוי מדיניות הפגישה הגלובלית עבור הארגון שלך.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-יישומון זה כרגע דורש שימוש במודול סקייפ לעסק PowerShell. כדי לקבל את תוכנית ההתקנה להשתמש ב-cmdlet זה, הוצאת [ניהול מדיניות באמצעות PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+יישומון זה כרגע דורש שימוש במודול סקייפ לעסק PowerShell. כדי לקבל הגדרת כדי להשתמש ב-cmdlet זה, הוצאת [ניהול מדיניות באמצעות PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-באפשרותך להגדיר מדיניות חדשה, שבה יהיה עליך להחיל אותה על משתמשים. אם תשנה את המדיניות הכללית, היא תחול באופן אוטומטי על משתמשים. עבור כל שינוי מדיניות, עליך להמתין לפחות 4 שעות עד 24 שעות כדי שהמדיניות ייכנסו לתוקף.
+לאחר הגדרת מדיניות, עליך להחילו על משתמשים; לחלופין, אם שינית את המדיניות הכללית, היא תחול באופן אוטומטי על משתמשים. עבור שינוי מדיניות כלשהו, עליך להמתין לפחות **4 שעות עד 24 שעות** כדי שפריטי המדיניות ייכנסו לתוקף. 
 
 הקפד לסקור את התיעוד שלהלן לפני ביצוע שינויים אלה כדי להבין בדיוק מה הדבר מאפשר.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>הבנת קבוצות של פקדי מדיניות לובי
+
+הגדרות אלה קובעות באיזו פגישה המשתתפים ממתינים בלובי לפני שהם מגיעים לפגישה ולרמת ההשתתפות הם מותרים בפגישה. באפשרותך להשתמש ב-PowerShell כדי לעדכן הגדרות מדיניות פגישה שעדיין לא יושמו (המסומנות כ"בקרוב בקרוב") במרכז הניהול של הצוותים. ראה להלן לדוגמה PowerShell cmdlet המאפשר לכל המשתמשים לעקוף את הלובי.
 
 - [להודות באופן אוטומטי שאנשים](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) היא מדיניות לפי מארגן הקובעת אם אנשים יצטרפו לפגישה ישירות או יחכו בלובי עד שהם יאוודו על-ידי משתמש מאומת.
 
