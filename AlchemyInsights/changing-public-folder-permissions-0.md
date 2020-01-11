@@ -1,9 +1,8 @@
 ---
-title: שינוי הרשאות תיקיה ציבורית
+title: שינוי הרשאות של תיקיה ציבורית
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +11,26 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 488567efb7e96b6eef52e87fc96670ab3ea91c20
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
+ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631713"
+ms.lasthandoff: 01/11/2020
+ms.locfileid: "41022198"
 ---
-# <a name="changing-public-folder-permissions"></a>שינוי הרשאות תיקיה ציבורית
+# <a name="changing-public-folder-permissions"></a>שינוי הרשאות של תיקיה ציבורית
 
-ניתן לשנות הרשאות תיקיה ציבורית על-ידי משתמשי ומנהלי ב- Outlook. מנהלים ניתן גם לשלוט בהרשאות מתוך Exchange Admin מרכז (EAC), על-ידי ביצוע הפעולות הבאות:
+ניתן לשנות הרשאות של תיקיות ציבוריות על-ידי משתמשים ומנהלים ב-Outlook. מנהלי מערכת יכולים גם לשלוט בהרשאות ממרכז הניהול של Exchange (EAC), על-ידי ביצוע הפעולות הבאות:
   
-1. מרכז הניהוליים IIn Microsoft 365, עבור אל **ניהול מרכזי** \> **Exchange**.
+1. במרכז הניהול של Microsoft 365, עבור אל **מרכזי** \> ניהול **החליפין**.
 
 2. בחר **תיקיות ציבוריות**.
 
-3. משם, באפשרותך לשנות הרשאות עבור תיקיות ציבוריות מסוימות על-ידי הקצאת הרשאות קבוצות אבטחה. עבור משתמש קצה לשנות הרשאות תיקיה ציבורית, המשתמש זקוק זכויות הבעלים על התיקיה.
+3. משם, באפשרותך לשנות הרשאות עבור תיקיות ציבוריות בודדות על-ידי הקצאת קבוצות אבטחה להרשאות. כדי שמשתמש קצה ישנה הרשאות של תיקיה ציבורית, על המשתמש להיות בעל זכויות בעלים בתיקיה.
+
+> [!NOTE]
+> קיימות מספר בעיות ידועות שייתכן שתיתקל בהן בעת ניסיון לשנות הרשאות בתיקיות ציבוריות. לקבלת מידע נוסף, עיין במאמרים הבאים.
+>
+> [אין אפשרות להחיל הרשאות על תיקיות ממשנה של תיקיות ציבוריות ב-EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+>
+> ["תיבת הדואר אינה מופיעה ביער המקומי" בעת גישה לתיקיות ציבוריות](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
