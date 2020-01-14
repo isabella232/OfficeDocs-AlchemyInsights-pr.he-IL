@@ -12,27 +12,31 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e8e6d1829d60695d40036765c880533c2dfcc5b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b89f0c0e1c698137720c60900eeba562877d0d8d
+ms.sourcegitcommit: 8b3ffd019dfcaff8d2dbde9eb5320f30c135aaa3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664753"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "41104658"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>רכישת מנוי ל- Office 365 דרך גירסת הניסיון ללא תשלום שברשותך
 
-ניסית את Office 365, ועכשיו אתה מוכן לקנות אותו. עומדות בפניך שתי אפשרויות בעת קניית Office 365 מגירסת הניסיון שלך:
+ניסית את Office 365, ועכשיו אתה מוכן לקנות אותו. יש לך שתי אפשרויות בעת רכישת Office 365 מגירסת הניסיון שלך:
   
  **קניית תוכנית זהה לגירסת הניסיון**
   
-1. במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז הניהול, עבור לדף **חיוב** \> [מוצרים ושירותים](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. חפש את המנוי שברצונך לרכוש. במקטע **רשיונות** , בחר **מנוי רכש**ובצע את השלבים כדי להוציא מאחסון.
+2. חפש את המנוי שברצונך לקנות. במקטע **רשיונות** , בחר **מנוי רכישה**ובצע את השלבים לבדיקה.
 
-**לרכוש מנוי אחר**
+**רכישת מנוי שונה**
   
-1. במרכז admin, לעבור אל **חיוב** \> דף [שירותי רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. במרכז הניהול, עבור אל דף **** \> [שירותי הרכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) של חיוב.
 
-3. מצא את המנוי שברצונך לרכוש, בחר **לקנות**ובצע את השלבים כדי להוציא מאחסון.
+3. חפש את המנוי שברצונך לקנות, בחר ' **קנה**' ובצע את השלבים לרישום.
 
-לקבלת מידע נוסף, ראה [לרכוש מנוי Office 365 עבור העסק מתוך הניסיון ללא תשלום](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+לקבלת מידע נוסף, ראה [רכישת מנוי ל-Office 365 עבור עסקים מגירסת הניסיון שלך ללא תשלום](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+
+**פתרון בעיות**
+
+אם אתה נתקל בבעיות בטעינת הדף, נסה לפתוח את דף האינטרנט בדפדפן אחר, או נסה לפתוח את הדף בחלון דפדפן פרטי, כגון חלון InPrivate ב- Microsoft Edge או חלון גלישה בסתר ב- Google Chrome.
