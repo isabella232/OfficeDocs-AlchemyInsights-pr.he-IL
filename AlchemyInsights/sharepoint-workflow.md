@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050922"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770460"
 ---
 # <a name="workflows-in-sharepoint"></a>זרימות עבודה ב-SharePoint
 
-זרימות עבודה של SharePoint מתוכנתים מראש מיני יישומים המייעלים ומאוטומטיים מגוון רחב של תהליכים עסקיים. זרימות עבודה יכולות לנוע מאיסוף חתימות, משוב או אישורים עבור תוכנית או מסמך, כדי לעקוב אחר המצב הנוכחי של הליך שגרתי.
+זרימות עבודה של SharePoint הן יישומים מתוכנתים מראש המייעלים מגוון רחב של תהליכים עסקיים. עיין בקישורים שלהלן לקבלת מידע נוסף.
 
-**תחילת התחלת:** אם אתה רק מתחיל עם זרימות עבודה של SharePoint, ראה [מבוא לזרימות עבודה של sharepoint לקבלת מידע נוסף](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>תחילת ההתחלה
 
-**Microsoft flow**: שקול להשתמש בזרימת microsoft במקום בפתרונות זרימת העבודה הקלאסיים של SharePoint. לקבלת מידע נוסף, ראה [יצירת זרימה עבור רשימה או ספריה ב-SharePoint Online או OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+אם אתה רק מתחיל עם זרימות עבודה של SharePoint, ראה [מבוא לזרימות עבודה של sharepoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**זרימת עבודה לפתרון בעיות ואיתור באגים**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>פתרון בעיות ואיתור באגים בזרימת עבודה של SharePoint
 
-זרימות עבודה של איתור באגים דומה לזו של גירסאות קודמות. לקבלת מידע נוסף, ראה [איתור באגים בזרימות עבודה של SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). לקבלת מידע נוסף אודות פתרון בעיות, ראה [פתרון שגיאות אימות זרימת עבודה של SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+ראה [פתרון בעיות בשגיאות אימות של זרימת עבודה של sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) [ובאגים בזרימות עבודה של sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>הפיכת הכוח לאוטומטי
+
+שקול להשתמש [באוטומציה של צריכת חשמל](https://docs.microsoft.com/power-automate/modern-approvals) במקום בפתרונות זרימת העבודה הקלאסיים של SharePoint.

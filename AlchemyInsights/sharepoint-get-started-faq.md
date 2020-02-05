@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051534"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771180"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>בעיות נפוצות של SharePoint Online ורזולוציות
 
 להלן מספר נושאים הנדרשים לעתים קרובות עבור בעיות ב-SharePoint Online:
+
+- **תחילת העבודה:** השתמש [בספר המראה של SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) כדי לבנות רשת אינטרא-נט יפה ורבת עוצמה המחברת את מקום העבודה. ראה [דוגמאות](https://lookbook.microsoft.com/) וקבל [הדרכה לעיצוב](https://spdesign.azurewebsites.net/). ראה [מבוא ל-Sharepoint online](https://docs.microsoft.com/sharepoint/introduction) עבור מבוא כולל ל-sharepoint online.
 
 - **הרשאות**: [בניית אסטרטגיית הרשאות](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) [והכרת רמות הרשאה](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ ms.locfileid: "40051534"
 
 - **מודרנז SharePoint**: [לסקור את המדריך לחוויה המודרנית ב-SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) [ומודרמודרניזציה שלך אתרי sharepoint הקלאסי שלך](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) כדי להתחיל את המהלך.
 
-- תחילת **התחלת**: למד כיצד [להתחיל עם SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) עם אסטרטגיות ניהול אתרים.
+**הערה:** לקבלת תשובה ספציפית יותר אודות בעיית SharePoint, נסח בקצרה את שאלתך וכלול שגיאות שאתה רואה או תכונות שבהן אתה משתמש.

@@ -14,12 +14,12 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0ecb317a0dfb760e459b35b6bff86006c06dc0d6
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053046"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770496"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>מחיקת אתר SharePoint השייך לקבוצת Office 365
 
@@ -27,8 +27,8 @@ ms.locfileid: "40053046"
   
 חשוב
 
-- אתה יכול לשחזר אתרים שנמחקו עבור 93 ימים. לקבלת מידע נוסף, ראה הצגה ושחזור של אתרים שנמחקו. שים לב שיש לשחזר קבוצות שנמחקו תוך 30 יום.
+- אתה יכול לשחזר אתרים שנמחקו עבור 93 ימים. יש לשחזר קבוצות שנמחקו תוך 30 יום. [הציג ולשחזר אתרים שנמחקו](https://admin.microsoft.com/sharepoint) ישירות ממרכז הניהול של SharePoint. [הציג ולשחזר קבוצות שנמחקו](https://outlook.office.com/people/group/deleted), על-ידי בחירה **בניהול קבוצות**ולאחר מכן בחירה **במחיקה**.
 - אם האתר הוא חלק ממדיניות שמירה, ייתכן שלא יהיה באפשרותך למחוק אותו עד שהאתר יוסר [ממרכז הניהול &amp; של תאימות האבטחה](https://protection.office.com/?rfr=AdminCenter#/retention). ראה [מבט כולל על מדיניות שמירה](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) לקבלת מידע נוסף.
   
-כדי [להציג ולשחזר אתרים שנמחקו במרכז הניהול החדש של SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), בחר **אתרים שנמחקו**. בחר את האתר שנמחק ובחר באפשרות ' שחזר ' או ' מחק ' (שימחק לצמיתות את האתר). כדי למחוק אתר פעיל, בחר ' אתרים **פעילים** ', בחר באתר ובחר ' **מחק**'. לקבלת מידע נוסף, ראה [ניהול אתרים במרכז הניהול החדש של SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+כדי [להציג ולשחזר אתרים שנמחקו](https://admin.microsoft.com/sharepoint), בחר את האתר שנמחק ובחר באפשרות **שחזור** או **מחק** (אשר ימחק את האתר לצמיתות). [מחק אתר פעיל](https://admin.microsoft.com/sharepoint) ישירות ממרכז הניהול של SharePoint על-ידי בחירת האתר ולאחר מכן בחירה באפשרות **Delete**. לקבלת מידע נוסף, ראה [ניהול אתרים במרכז הניהול החדש של SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   

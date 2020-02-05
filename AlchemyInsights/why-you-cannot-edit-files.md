@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049410"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771144"
 ---
 # <a name="why-cant-i-edit-files"></a>מדוע אין באפשרותי לערוך קבצים?
 
-אם מסמך, גליון עבודה או מצגת נעולים לעריכה ואין אפשרות לפתוח אותם ביישומי שולחן העבודה של Windows, ייתכן שהקובץ כבר נערך על-ידי משתמש אחר, או שהקובץ הוצא. בואו נסתכל במהירות על כמה מהסיבות [שייתכן שלא תוכל לערוך את הקובץ](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+מבט מהיר על כמה מהסיבות [שייתכן שלא תוכל לערוך את הקובץ](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 אם יש לך ספריות עם **הוצאה, עמודות נדרשות** או **אימות** או מטא-נתונים, או כאשר ' **טיוטה של פריט אבטחה** ' מוגדרת **רק למשתמשים שיכולים לערוך** או **רק משתמשים שיכולים לאשר פריטים** בהגדרות גירסה של הספריה:
 

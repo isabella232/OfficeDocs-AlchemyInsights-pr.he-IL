@@ -1,5 +1,5 @@
 ---
-title: אין אפשרות ליצור הערכה של תאימות
+title: אין אפשרות ליצור הערכת תאימות
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800386"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771072"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>אין אפשרות ליצור הערכה של תאימות
+# <a name="cant-create-a-compatibility-assessment"></a>אין אפשרות ליצור הערכת תאימות
 
-תצורת מנהל ההתקן נקבעה בהצלחה, אך Analytics שולחן העבודה אין אפשרות ליצור הערכה של תאימות. הוא אינו כולל ערכה מלאה של הנתונים עבור התצורה של ההתקן (מפקד) או להתקין יישומים (מלאי).
+מנהל תצורת נקודות הקצה של Microsoft קבע בהצלחה את ההתקן, אך ניתוח שולחן עבודה אינו יכול ליצור הערכת תאימות. אין לו ערכת נתונים מלאה עבור תצורת המכשיר (מפקד) או יישומים מותקנים (מלאי).
 
-בעיה זו נפתרת לעתים קרובות באופן אוטומטי כאשר ניסיונות חוזרים של ההתקן. אם היא נמשכת, ודא כי ההתקן יש אפשרות לקיים תקשורת עם השירות. לקבלת מידע נוסף, ראה [נקודות קצה](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) ואת [הנתונים חסר](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+בעיה זו מתוקנת לעתים קרובות באופן אוטומטי כאשר ההתקן מקיים נסיונות חוזרים. אם היא נמשכת, ודא שההתקן יכול לקיים תקשורת עם השירות. לקבלת מידע נוסף, ראה [נקודות קצה](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) [ונתונים חסרים](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).
