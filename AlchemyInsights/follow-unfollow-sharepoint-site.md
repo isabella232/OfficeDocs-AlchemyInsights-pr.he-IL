@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611698"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855552"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="c142e-102">הפעל או בטל את המעקב אחר אתר SharePoint</span><span class="sxs-lookup"><span data-stu-id="c142e-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="02830-102">הפעל או בטל את המעקב אחר אתר SharePoint</span><span class="sxs-lookup"><span data-stu-id="02830-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="c142e-103">קיימות מספר דרכים לחיפוש ולמעקב אחר אתרים, חדשות ותוכן המעניינים אותך ב-SharePoint.</span><span class="sxs-lookup"><span data-stu-id="c142e-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="c142e-104">זה יאפשר לך למצוא את המידע בקלות ברשימה שלך, ולאפשר לך לראות את הפעילות מ-SharePoint.</span><span class="sxs-lookup"><span data-stu-id="c142e-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
+<span data-ttu-id="02830-103">אם משתמשים חווים בעיות הבאות או שאינן מבאות לאחר משאבי SharePoint, השלם את הצעדים הבאים:</span><span class="sxs-lookup"><span data-stu-id="02830-103">If users are experiencing issues following or unfollowing SharePoint resources, complete these steps:</span></span>
 
-<span data-ttu-id="c142e-105">צפה בסרטון הווידאו כדי [לאתר ולעקוב אחר אתרים וחדשות](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span><span class="sxs-lookup"><span data-stu-id="c142e-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
-
-<span data-ttu-id="c142e-106">אם אין באפשרותך לבצע או לבטל את המעקב אחר אתר, חדשות או תוכן ולהרגיש שהתוצאות אינן הצפויות, ראה אם הבעיה קשורה למשתמש בודד או לכל המשתמשים בארגון.</span><span class="sxs-lookup"><span data-stu-id="c142e-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="c142e-107">אם הבעיה מזוהה על-ידי כל המשתמשים, ייתכן שקיימת בעיית שירות זמנית.</span><span class="sxs-lookup"><span data-stu-id="c142e-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
-
-<span data-ttu-id="c142e-108">בדוק את [לוח הבקרה של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.</span><span class="sxs-lookup"><span data-stu-id="c142e-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+* <span data-ttu-id="02830-104">בקש מהמשתמש להירשם ולהיכנס לתוך SharePoint ולנסות את אותם השלבים שבהם יש לבצע/לבטל את הטיפול במשאב SharePoint.</span><span class="sxs-lookup"><span data-stu-id="02830-104">Ask the user to sign-out and sign back into SharePoint and try the same steps to follow/unfollow the SharePoint resource.</span></span>
+* <span data-ttu-id="02830-105">קבע אם הבעיה היא באתר מסוים או בכל האתרים.</span><span class="sxs-lookup"><span data-stu-id="02830-105">Determine if the issue is with a specific site or all sites.</span></span> <span data-ttu-id="02830-106">אם הבעיה מתרחשת באתרים מסוימים, ודא כי התכונה "התוכן הבא" פעילה עבור האתר על-ידי מעקב אחר **הגדרות האתר _ שניהול תכונות אתר _ Gt_ התוכן הבא**.</span><span class="sxs-lookup"><span data-stu-id="02830-106">If the issue occurs with specific sites, ensure the “Following Content” feature is active for the site by going to **Site Settings > Manage Site Features > Following Content**.</span></span> <span data-ttu-id="02830-107">אם התכונה מוגדרת כ-Active, נסה לנתק ולהפעיל שוב את התכונה עבור האתר.</span><span class="sxs-lookup"><span data-stu-id="02830-107">If the feature is set to Active, try deactivating and activating the feature again for the site.</span></span>
+* <span data-ttu-id="02830-108">בקש מהמשתמש לנסות דפדפן אינטרנט אחר כדי לראות אם הבעיה היא ספציפית לדפדפן של המשתמש.</span><span class="sxs-lookup"><span data-stu-id="02830-108">Ask the user to try a different Internet browser to see if the issue is specific to the user’s browser.</span></span>
+* <span data-ttu-id="02830-109">אם כל המשתמשים וכל האתרים נתקלים באותה בעיה, בדוק את [לוח הבקרה של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.</span><span class="sxs-lookup"><span data-stu-id="02830-109">If all users and all sites are experiencing the same issue, check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
