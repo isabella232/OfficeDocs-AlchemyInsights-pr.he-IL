@@ -9,16 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "2657"
 - "9000734"
-ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+- "2657"
+ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
+ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627575"
+ms.lasthandoff: 02/15/2020
+ms.locfileid: "42042845"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>ניהול מדיניות פגישה בצוותי Microsoft
+
+**הערה: ניתן לבצע עד 24 שעות כדי ששינויי מדיניות ייכנסו לתוקף עבור משתמשים.** ייתכן שלא תוכל לבצע שינויים בפריטי מדיניות חדשים שנוצרו באופן מיידי; המתן 4 שעות ונסה לשנות שוב מדיניות חדשה שנוצרה.
 
 מדיניות פגישה משמשת לשליטה בתכונות הזמינות לפגישה עם משתתפים בפגישות שתוזמנו על-ידי משתמשים בארגון שלך. ייתכן שחלק מהתכונות של מדיניות הפגישה לא יושמו במרכז הניהול של הצוותים עדיין (אלה מתויגים "בקרוב" בתיעוד). במקרה זה, או אם אתה מקבל שגיאה כמו "אנחנו לא יכולים לעדכן את המדיניות עכשיו, אבל לנסות את זה שוב מאוחר יותר" במרכז הניהול של צוותי Microsoft, אנו ממליצים להשתמש ב-PowerShell כדי ליצור או לשנות מדיניות פגישה של צוותים. 
 
@@ -30,4 +32,3 @@ ms.locfileid: "39627575"
     - אתה צריך להשתמש [סקייפ עבור עסקים PowerShell מודול](https://www.microsoft.com/download/details.aspx?id=39366) עבור צוותי מדיניות פגישה. 
     - בדוק את [התיעוד *-c, מדיניות יישומוני ה-cmdlet](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) לקבלת מידע נוסף.
 
-**הערה:** זה יכול להימשך עד 24 שעות כדי שהשינויים במדיניות ייכנסו לתוקף עבור משתמשים. ייתכן שלא תוכל לבצע שינויים בפריטי מדיניות חדשים שנוצרו באופן מיידי; המתן 4 שעות ונסה לשנות שוב מדיניות חדשה שנוצרה. אם עדיין יש לך בעיות, נסה PowerShell.  
