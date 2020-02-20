@@ -11,22 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 80735a03eef6ef9f7b791c43019678ea01f83c00
-ms.sourcegitcommit: 9db3be25d088b8d4b2d476aeace79e653ca0a421
+ms.openlocfilehash: 10ef2e8fa7c564d53177a52136eb48cd709e5c55
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/17/2020
-ms.locfileid: "42093576"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158505"
 ---
 # <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce דורש חשבון ' חברה ' או ' מנהל חיוב '
 
 מודול MSCommerce דורש חשבון עם הרשאות ' חברה ' או ' מנהל חיוב '. אם אתה מקבל את השגיאה הבאה, יהיה עליך להתחבר מחדש לחשבון אחר.
 
-    ErrorMessage - The remote server returned an error: (403) Forbidden. ErrorDetails - 
-    At C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5
-    +     HandleError -ErrorContext $_ -CustomErrorMessage "Failed to retri ...
-    +     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        + CategoryInfo          : NotSpecified: (:) [Write-Error], WriteErrorException
-        + FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError
+*ErrorMessage-השרת המרוחק החזיר שגיאה: (403). אסור פרטי שגיאה-ב-C:\cpe\tatlatser\t/מודולים/ה1.2\moe.cfin\user1:216 char: 5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;הקשר שגיאת קוד שגיאה $ _-הודעה מפני התאמה אישית לא הצליחה לשחזר...*<br>
+\+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: לא צוין: (:) [כתיבה-שגיאה], כתיבת שגיאת חריגה*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ מוסמך: מיקרוסופט. PowerShell. פקודות. כאשר שגיאת חריגה, שגיאה בבעיה*
 
 אם לחשבון שלך אין הרשאות ' חברה ' או ' מנהל חיוב ', פנה למנהל ה-IT שלך.
