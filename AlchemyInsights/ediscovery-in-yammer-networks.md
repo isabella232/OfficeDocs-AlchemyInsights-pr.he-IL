@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033867"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162913"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>גילוי ברשתות יאממר
 
 כעת באפשרותך לבצע חיפוש באמצעות האפשרות eDiscovery עבור תוכן של יממר ב-Office 365.  ביצוע חיפושים של eDiscovery או ייצוא בתוכן Yammer דורש את הפעולות הבאות:
 
-1. עליך להעביר תחילה את הרשת הארגונית של Yammer למצב מקורי כדי להפוך את ההודעות והקבצים של Yammer לניתנים לגילוי.
-
-   > [!NOTE] 
-   >אם אתה לקוח של Office 365 החדש מתאריך ה2020 של Jan 9th ורשת Yammer כבר נמצאת במצב מקורי, הנתונים שלך כעת ניתנים לגילוי באמצעות eDiscovery.
+1. עליך להעביר תחילה את הרשת הארגונית של Yammer למצב מקורי כדי להפוך את ההודעות והקבצים של Yammer לניתנים לגילוי. **הערה: אם אתה לקוח חדש של Office 365 מתאריך ה2020 של Jan 9th ורשת Yammer כבר נמצאת במצב מקורי, הנתונים שלך ניתנים כעת**לגילוי ב-ediscovery.
 
 2. עבור הלקוחות היוצאים, eDiscovery עבור Yammer יהיה זמין לאחר הכלי יישור מצב מקורי משוחרר והגירה במצב מקורי משלים עבור Yammer בדייר.
 
