@@ -1,5 +1,5 @@
 ---
-title: תיקיות חסר Outlook.com
+title: Outlook.com תיקיות חסרות
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536184"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260243"
 ---
-# <a name="find-missing-folders"></a><span data-ttu-id="5fe33-102">חיפוש תיקיות חסרות</span><span class="sxs-lookup"><span data-stu-id="5fe33-102">Find missing folders</span></span>
+# <a name="find-missing-folders"></a><span data-ttu-id="709b6-102">חיפוש תיקיות חסרות</span><span class="sxs-lookup"><span data-stu-id="709b6-102">Find missing folders</span></span>
 
-<span data-ttu-id="5fe33-103">אם אין באפשרותך לראות את התיקיות שלך, בדוק את התיקיות שלך אינם מכווצים.</span><span class="sxs-lookup"><span data-stu-id="5fe33-103">If you can't see your folders, check that your folders aren't collapsed.</span></span> <span data-ttu-id="5fe33-104">בחר בחץ שליד **תיקיות** בחלונית הימנית.</span><span class="sxs-lookup"><span data-stu-id="5fe33-104">Select the arrow next to **Folders** in the left pane.</span></span>
-  
-<span data-ttu-id="5fe33-105">אם מחקת בטעות תיקיה, באפשרותך לשחזר אותו אם הוא עדיין נמצא בתיקיה פריטים שנמחקו.</span><span class="sxs-lookup"><span data-stu-id="5fe33-105">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="5fe33-106">לקבלת מידע נוסף, קרא [הודעות דואר אלקטרוני ב- Outlook.com שנמחקו שחזור](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="5fe33-106">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
-  
-<span data-ttu-id="5fe33-107">קיימת בעיה ידועה בה תיקיות חסרים.</span><span class="sxs-lookup"><span data-stu-id="5fe33-107">There is a known issue where folders are missing.</span></span> <span data-ttu-id="5fe33-108">אנחנו פועלים כדי לפתור בעיה זו.</span><span class="sxs-lookup"><span data-stu-id="5fe33-108">We're working to fix this.</span></span> <span data-ttu-id="5fe33-109">תוכל עדיין למצוא פריטים שנשמרו בתוך תיקיות חסרות שימוש **בחיפוש**</span><span class="sxs-lookup"><span data-stu-id="5fe33-109">You can still find items saved within the missing folders using **Search**</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' /><span data-ttu-id="5fe33-110">, עשוי לסייע אם להתנתק ולאחר מכן להיכנס שוב.</span><span class="sxs-lookup"><span data-stu-id="5fe33-110">, and it may help if you sign out and then sign in again.</span></span> [<span data-ttu-id="5fe33-111">לחץ כאן כדי להירשם ביציאה.</span><span class="sxs-lookup"><span data-stu-id="5fe33-111">Click here to sign out.</span></span>](https://login.live.com/logout.srf)
+<span data-ttu-id="709b6-103">ייתכן שלמשתמשים מסוימים לא תהיה אפשרות לראות את חלונית התיקיות השמאלית בעת צפייה במסך קטן.</span><span class="sxs-lookup"><span data-stu-id="709b6-103">Some users may not be able to see the left folder pane when viewing on a small screen.</span></span>
+
+- <span data-ttu-id="709b6-104">הרחב את חלונית התיקיות רק כאשר אתה זקוק לה.</span><span class="sxs-lookup"><span data-stu-id="709b6-104">Expand the folder pane only when you need it.</span></span> <span data-ttu-id="709b6-105">בחר את סמל שורת השורה שבפס הצד השמאלי כדי להציג או להסתיר תיקיות.</span><span class="sxs-lookup"><span data-stu-id="709b6-105">Select the three line icon in the left side bar to show or hide folders.</span></span>
+- <span data-ttu-id="709b6-106">פתח את [הגדרות הפריסה](https://outlook.live.com/mail/options/mail/layout) ובחר באפשרות **הסתר חלונית קריאה** ולאחר מכן **שמור**.</span><span class="sxs-lookup"><span data-stu-id="709b6-106">Open [layout settings](https://outlook.live.com/mail/options/mail/layout) and select **Hide reading pane** and then **Save**.</span></span> <span data-ttu-id="709b6-107">פעולה זו תעניק למסך שטח גדול יותר להצגת תיקיות.</span><span class="sxs-lookup"><span data-stu-id="709b6-107">This will give the screen more space to show folders.</span></span>
+
+<span data-ttu-id="709b6-108">אם מחקת בטעות תיקיה, באפשרותך לשחזר אותה אם היא עדיין נמצאת בתיקיה ' פריטים שנמחקו '.</span><span class="sxs-lookup"><span data-stu-id="709b6-108">If you accidentally delete a folder, you can recover it if it's still in your Deleted Items folder.</span></span> <span data-ttu-id="709b6-109">כדי ללמוד עוד, קרא [שחזור הודעות דואר אלקטרוני שנמחקו ב-Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span><span class="sxs-lookup"><span data-stu-id="709b6-109">To learn more, read [Restoring deleted email messages in Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).</span></span>
