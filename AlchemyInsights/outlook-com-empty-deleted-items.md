@@ -3,6 +3,7 @@ title: רוקן את התיקיה ' פריטים שנמחקו ' ב-Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768693"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277932"
 ---
-# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="a6ced-102">רוקן את התיקיה ' פריטים שנמחקו '</span><span class="sxs-lookup"><span data-stu-id="a6ced-102">Empty the Deleted Items folder</span></span>
+# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="28e58-102">רוקן את התיקיה ' פריטים שנמחקו '</span><span class="sxs-lookup"><span data-stu-id="28e58-102">Empty the Deleted Items folder</span></span>
 
-<span data-ttu-id="a6ced-103">כדי למחוק את כל הודעות Outlook שנמחקו , עבור אל [התיקיה פריטים שנמחקו](https://outlook.live.com/mail/deleteditems)ובחר **תיקיה ריקה**, בחר באפשרות **שחזר פריטים שנמחקו מתיקיה** זו מעל רשימת ההודעות ובחר **תיקיה** ריקה שוב.</span><span class="sxs-lookup"><span data-stu-id="a6ced-103">To purge all your deleted Outlook messages, go to your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder**, then select **Recover items deleted from this folder** above the message list and select **Empty folder** again.</span></span>
+1. <span data-ttu-id="28e58-103">פתח את התיקיה ' פריטים שנמחקו ' ובחר **תיקיה ריקה**.</span><span class="sxs-lookup"><span data-stu-id="28e58-103">Open your Deleted Items folder and select **Empty folder**.</span></span>
+2. <span data-ttu-id="28e58-104">בחרו **פריטים הניתנים לשחזור** בראש העמוד ובחרו שוב **תיקיה ריקה** .</span><span class="sxs-lookup"><span data-stu-id="28e58-104">Select **Recoverable items** at the top of the page and select **Empty folder** again.</span></span>
 
-<span data-ttu-id="a6ced-104">אם מחקת הודעות רבות, ייתכן שייקח זמן לפריטים אלה לעבור או להיות מטוהר מהתיקיה ' פריטים שנמחקו '.</span><span class="sxs-lookup"><span data-stu-id="a6ced-104">If you've deleted a lot of messages, it may take some time for those items to move to or be purged from the Deleted Items folder.</span></span> <span data-ttu-id="a6ced-105">נא השאר את חלון הדפדפן פתוח עד שהפריטים יימחקו.</span><span class="sxs-lookup"><span data-stu-id="a6ced-105">Please leave the browser window open until the items are deleted.</span></span>
+<span data-ttu-id="28e58-105">**אין אפשרות לרוקן את התיקיה ' פריטים שנמחקו '**</span><span class="sxs-lookup"><span data-stu-id="28e58-105">**Unable to empty the Deleted Items folder**</span></span>
 
-<span data-ttu-id="a6ced-106">אם הודעות אינן מוחקות כראוי, נסה למחוק מספר קטן יותר של הודעות.</span><span class="sxs-lookup"><span data-stu-id="a6ced-106">If messages fail to delete properly, try deleting a smaller number of messages.</span></span>
+- <span data-ttu-id="28e58-106">אם מחקת הרבה דואר אלקטרוני, ייתכן שייקח זמן לפריטים אלה להעביר או להימחק מהתיקיה ' פריטים שנמחקו '.</span><span class="sxs-lookup"><span data-stu-id="28e58-106">If you've deleted a lot of email, it may take some time for those items to move to or be deleted from the Deleted Items folder.</span></span> <span data-ttu-id="28e58-107">השאר את חלון הדפדפן פתוח בזמן שמחיקת המחיקה מתבצעת.</span><span class="sxs-lookup"><span data-stu-id="28e58-107">Leave the browser window open while the deleting takes place.</span></span>
+- <span data-ttu-id="28e58-108">אם הדואר האלקטרוני עדיין לא מצליח למחוק כראוי, בחר אצווה קטנה יותר למחיקה.</span><span class="sxs-lookup"><span data-stu-id="28e58-108">If the email still fails to delete properly, select a smaller batch to delete.</span></span>
+- <span data-ttu-id="28e58-109">אם דוא ל נמחק חוזר, זה יכול להיות בגלל שמחקת הרבה דוא ל לאחרונה.</span><span class="sxs-lookup"><span data-stu-id="28e58-109">If deleted email comes back, it could be because you've deleted a lot of email recently.</span></span> <span data-ttu-id="28e58-110">. אנא נסה שוב מאוחר יותר</span><span class="sxs-lookup"><span data-stu-id="28e58-110">Please try again later.</span></span>
