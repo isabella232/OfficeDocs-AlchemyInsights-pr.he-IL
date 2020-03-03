@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 3858a2cd2955f279aff77440abbd5e4642871bb8
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
+ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278917"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42365138"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>השתמש בגזור _ Amp_ סקיצה כדי ללכוד, לסמן ולשתף תמונות
 
@@ -27,9 +27,12 @@ ms.locfileid: "42278917"
 2. בחרו נקודה בקצה האזור שברצונכם להעתיק ולחצו על הסמן. 
 
 3. הזז את הסמן כדי לסמן את האזור שברצונך ללכוד. האזור שתלכוד יופיע על המסך.
+:::image type="content" source="media/snipone.png" alt-text="תמונה של בחירה מודגשת":::
 
 התמונה שאתה מרחרח נשמרת בלוח שלך, מוכן להדבקה בדואר אלקטרוני או במסמך. 
 
 **אם ברצונך לערוך או להציג את התמונה**: 
 
 - לחץ על סמל ההודעות בצד הימני הרחוק של שורת המשימות; לאחר מכן לחץ על התמונה שלכדת זה עתה. החיתוך שלך נפתח ביישום ' גזור _ Amp_ סקיצה '.
+
+:::image type="content" source="media/sniptwo.png" alt-text="תמונת תמונה שמוצגת ביישום החיתוך":::

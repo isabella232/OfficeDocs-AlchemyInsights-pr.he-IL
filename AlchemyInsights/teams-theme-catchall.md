@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
+ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626385"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42371523"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>צוותי בעיות והחלטות נפוצות
 
 לקבלת תשובה ספציפית יותר אודות בעיה של צוותי Microsoft, נסח בקצרה את שאלתך וכלול שגיאות שאתה רואה או תכונות שבהן אתה משתמש.
+
+אם אתה זקוק לעזרה בתמיכה בעובדים מרוחקים (WFH) עם צוותים, עיין [בתמיכה בעובדים מרוחקים באמצעות צוותי Microsoft](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
 
 להלן מספר משאבים נוספים:
 
