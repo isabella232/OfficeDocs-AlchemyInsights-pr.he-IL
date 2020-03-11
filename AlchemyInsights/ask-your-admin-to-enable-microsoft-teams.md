@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962298"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573133"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>! אתה מפסיד בקש ממנהל המחשב שלך להפוך את צוותי Microsoft לזמינים
 
-האם המרצים והסגל יכולים לגשת לצוותים, אך התלמידים אינם יכולים, או האם המשתמשים המורשים ברישיון F1 אינם יכולים לגשת לצוותים?
+אם יש לך דייר של EDU, עליך להפוך את הצוותים של Microsoft לזמינים באופן ידני. כדי לעשות זאת, עבור אל מרכז הניהול של Microsoft 365, **השירותים והתוספות של מיקרוסופט**. אם אתה משתמש במרכז הניהול החדש של הצוותים, יהיה עליך לבטל  **את הניסיון לאתר את מרכז הניהול החדש**כדי לחפש **שירותים ותוספות**. 
 
-על הצוותים להיות זמינים במפורש עבור סטודנטים ורשיונות F1. באפשרותך למצוא הוראות מפורטות יותר אודות אופן ההפעלה של צוותים עבור בית הספר שלך [בקביעת תצורה של צוותים לחינוך](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**חשוב**: ייתכן שתצטרך להמתין עד 24 שעות כדי שהשינויים ייכנסו לתוקף.
