@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274895"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599953"
 ---
 # <a name="teams-policies"></a>מדיניות קבוצות
 
@@ -27,7 +27,7 @@ ms.locfileid: "38274895"
 מדיניות הצוותים מחולקת לתחומים הבאים:
 
 - [מדיניות הצוותים](https://docs.microsoft.com/MicrosoftTeams/teams-policies) שולטת בגילוי משתמשים של צוותים פרטיים בחיפוש וביצירה של ערוצים פרטיים.  
-- [מדיניות פגישה](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) מבקרת מה משתמשים יכולים לעשות עם פגישות נבחרות, כולל שליטה בלובי. לקבלת עזרה בנושאי לובי, כמו קביעת תצורה של צוותים להודות לכולם, ראה [הגדרות לובי בקרה ורמות ההשתתפות](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
+- [מדיניות פגישה](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) מבקרת מה משתמשים יכולים לעשות עם פגישות נבחרות, כולל שליטה בלובי. לקבלת עזרה בנושאי לובי, כמו קביעת תצורה של צוותים להודות לכולם, ראה [הגדרות לובי בקרה ורמות ההשתתפות](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [מדיניות העברת הודעות](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) מבקרת מה משתמשים יכולים לעשות עם צ'אט והודעות, כולל הפעלה או ביטול של צ'אט, מחיקת צ'אטים, בקשת אישורי קריאה, שימוש בגיפים ומדבקות ועוד.
 - [מדיניות התקנת App](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) מבקרת אילו יישומים זמינים למשתמשים, כולל יישומים מותאמים אישית ויישומי צד שלישי, והסדר שבו הם מופיעים.  
 - [מדיניות שמירת](https://docs.microsoft.com/microsoftteams/retention-policies) נתונים עבור צוותים מצויים במרכז האבטחה והתאימות של Office 365.

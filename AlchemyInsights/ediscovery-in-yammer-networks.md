@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: adc5dba801236bfbcff30d3fa151f8d0463be3cd
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42162913"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600601"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>גילוי ברשתות יאממר
 
@@ -29,5 +29,5 @@ ms.locfileid: "42162913"
 לקבלת מידע נוסף אודות:
 
 - מצב מקורי ביאממר, ראה: [מבט כולל על מצב מקורי](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- גילוי ברשתות של יממר, ראה: [מבט כולל על eDiscovery ברשתות יממר](https://docs.microsoft.com/en-us/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- גילוי ב-Office 365, ראה [Ediscovery ב-office 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/ediscovery).
+- גילוי ברשתות של יממר, ראה: [מבט כולל על eDiscovery ברשתות יממר](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- גילוי ב-Office 365, ראה [Ediscovery ב-office 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

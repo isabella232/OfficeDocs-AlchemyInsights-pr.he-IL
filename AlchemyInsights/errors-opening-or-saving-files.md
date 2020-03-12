@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031615"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600133"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>פתרון שגיאות פתיחה או שמירה של קבצי Word
 
@@ -25,7 +25,7 @@ ms.locfileid: "42031615"
 - [התקנת עדכוני Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). לקבלת רשימה של עדכוני Office העדכניים ביותר, עיין [בעדכונים האחרונים](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [פתור בעיות במסמכים פגומים ב-Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [תיקון יישום של Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- אם המסמך מכיל שינויים מסומנים, השתמש בהצעות ב- [Word מאט או מפסיק להגיב אם יש שינויים או הערות מסומנים מוגזמת](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) כדי לפתור את הבעיה.
+- אם המסמך מכיל שינויים מסומנים, השתמש בהצעות ב- [Word מאט או מפסיק להגיב אם יש שינויים או הערות מסומנים מוגזמת](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) כדי לפתור את הבעיה.
 
 אם קיבלת שגיאה כאחת מהפעולות הבאות, השתמש בהצעות [בהודעת שגיאה ב-Office כאשר קובץ נחסם על-ידי הגדרות מדיניות הרישום](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 

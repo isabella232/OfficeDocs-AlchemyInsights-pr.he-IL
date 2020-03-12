@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157604"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600371"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>פרישה של כלים eDiscovery מהדור הקודם
 
@@ -37,7 +37,7 @@ ms.locfileid: "42157604"
     - [הזדאת תיבות הדואר](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [הגצידונתיבות דואר](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [משרד 365 מתקדם eDiscovery v 1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [משרד 365 מתקדם eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **ציר הזמן לפרישה**:
 - 1 באפריל, 2020: לא תוכל ליצור חיפושים חדשים, אך עדיין תוכל להפעיל, לערוך ולמחוק חיפושים קיימים באחריותך. התמיכה של Microsoft לא תתמוך עוד ב-' גילוי במקום ' ב-EDISCOVERY.
@@ -46,9 +46,9 @@ ms.locfileid: "42157604"
 
 **לקבלת מידע נוסף, ראה**:
 
- - [העברת חיפושים של eDiscovery מהדור הישן ומחזיקה במרכז התאימות של Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [פרישה של כלי eDiscovery מהדור הקודם](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [שאלות נפוצות אודות גילוי במקום וחסימות במקום](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [העברת חיפושים של eDiscovery מהדור הישן ומחזיקה במרכז התאימות של Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [פרישה של כלי eDiscovery מהדור הקודם](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [שאלות נפוצות אודות גילוי במקום וחסימות במקום](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 

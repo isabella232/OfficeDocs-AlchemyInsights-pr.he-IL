@@ -13,12 +13,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908746"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599485"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>צוותי Microsoft המותקנים עם עדכוני Office
 
@@ -32,6 +32,6 @@ ms.locfileid: "40908746"
 
 כדי ***להסיר את ההתקנה של צוותים*** מהתקן שבו פועל Windows, ראה [הסרת התקנה של צוותי Microsoft](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). כדי לנקות צוותים של Microsoft ממחשבי יעד או משתמשים מרובים, ראה [ניקוי הפריסה של צוותי microsoft](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 
-אם אתה משתמש במחשבים משותפים, בשירותי שולחן עבודה מרוחק (RDS) או בתשתית שולחן עבודה וירטואלי (VDI), ראה [סביבת מחשב משותפת וסביבות vdi עם צוותי Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). אם אתה משתמש ב-Office for Mac, ראה [התקנות Microsoft נבחרות ב-Mac](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+אם אתה משתמש במחשבים משותפים, בשירותי שולחן עבודה מרוחק (RDS) או בתשתית שולחן עבודה וירטואלי (VDI), ראה [סביבת מחשב משותפת וסביבות vdi עם צוותי Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). אם אתה משתמש ב-Office for Mac, ראה [התקנות Microsoft נבחרות ב-Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
 **הערה:** לאחר התקנת הצוותים, הוא [מתעדכן באופן אוטומטי](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) כ-2 שבועות עם תכונות חדשות ועדכונים איכותיים. 
