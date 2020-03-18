@@ -1,5 +1,5 @@
 ---
-title: כיצד ניתן להגדיר ועידות שמע עבור Teams
+title: הגדר ועידות שמע עבור Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "2711"
-- "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+- "3183"
+ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
 ms.translationtype: HT
 ms.contentlocale: he-IL
 ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692396"
+ms.locfileid: "42707659"
 ---
-# <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – ועידות שמע
+# <a name="setup-audio-conferencing-for-teams"></a>הגדר ועידות שמע עבור Teams
 
-זקוק לעזרה בהפעלה, או הגדרה של ועידות שמע ב-Microsoft Teams? האם משתמש זה נוצר לאחרונה?  אם כן, תצטרך להמתין בין שעתיים ל-24 שעות כדי שההגדרות ייכנסו לתוקף.    
+**Microsoft Teams – ועידות שמע**
+
+זקוק לעזרה בהפעלה, או הגדרה של ועידות שמע ב-Microsoft Teams?
+
+האם משתמש זה נוצר לאחרונה?  אם כן, תצטרך להמתין בין שעתיים ל-24 שעות כדי שההגדרות ייכנסו לתוקף.
 
 כדי לוודא שהמשתמש שלמשתמש יש רישיון לוועידות שמע ושיש לו מספר בתשלום המהווה ברירת מחדל:
 
@@ -31,7 +34,7 @@ ms.locfileid: "42692396"
 
 3. ודא שלמשתמש יש רישיונות שנבחרו עבור **ועידות שמע, Microsoft Teams**, ו-**Skype for Business Online (תוכנית 2)**.
 
-4. משתמש של **מרכזי המנהלים**, לחץ על **הצג הכל** ולאחר מכן לחץ על **Teams**.
+4. משתמש של **מרכזי ניהול** לחץ על **הצג הכל**ולאחר מכן על **Teams**.
 
 5. ב**מרכז הניהול של Microsoft Teams**, לחץ על **פורטל מדור קודם**.
 
@@ -39,4 +42,4 @@ ms.locfileid: "42692396"
 
 7. בחר את המשתמש המדובר ואמת שיש לו **מספר בתשלום המהווה ברירת מחדל**.
 
-לקבלת מידע נוסף, ראה [תוכניות שיחות עבור Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) או התקשר לצוות Microsoft Commerce Billing כדי שיעזרו לך עם שאלות שקשורות לרישוי.
+לקבלת מידע נוסף, פנה אל [תוכניות של שיחות עבור Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) או התקשר לצוות Microsoft Commerce Billing לקבלת עזרה עם שאלות הקשורות לרישוי.
