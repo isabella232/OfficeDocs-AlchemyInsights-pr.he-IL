@@ -12,14 +12,20 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: d9d45b31afcc5ef68f5969117d08f0c8dcfe8850
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7e12c74d33e3cee7c626ad899a4e7f2f0a409bca
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054054"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931659"
 ---
 # <a name="sharepoint-migration-throttling-with-503-errors"></a>ויסות העברה של SharePoint עם 503 שגיאות
+
+**חשוב**: לקוחות רבים של SharePoint Online ו-onedrive מנהלים יישומים קריטיים לעסקים נגד השירות המנוהל ברקע. אלה כוללים העברת תוכן, מניעת אובדן נתונים (DLP) ופתרונות גיבוי. במהלך זמנים חסרי תקדים אלה, אנו נוטלים צעדים כדי להבטיח ששירותי SharePoint Online ו-OneDrive יישארו זמינים ואמינים עבור המשתמשים התלויים בשירות יותר מתמיד בתרחישי עבודה מרוחקים.
+
+לתמיכה במטרה זו, אנו הטמיעה מגבלות ויסות הדוק יותר על יישומי הרקע (הגירה, DLP ופתרונות גיבוי) בשעות היום של ימי חול. אתה צריך לצפות כי יישומים אלה להשיג תפוקה מוגבלת מאוד במהלך הזמנים האלה. עם זאת, בשעות הערב ובסוף השבוע של האזור, השירות יהיה מוכן לעבד נפח גבוה יותר באופן משמעותי של בקשות מיישומי רקע.
+
+**503 שגיאות בעת הגירה ל-SharePoint Online**
 
 נראה שאתה מעביר ל-SharePoint Online ומקבל 503 שגיאות. נא בצע את השלבים הבאים כדי שנוכל לסייע לך בהקדם האפשרי. 
 

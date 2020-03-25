@@ -10,14 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: d0587b3a86b90358359c03fe32e9919facd30883
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 830b39c51658cbc02f4be81acdfdf3b164a8df70
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964015"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932731"
 ---
 # <a name="migrate-options-to-sharepoint-online"></a>העברת אפשרויות ל-SharePoint Online
+
+**חשוב**: לקוחות רבים של SharePoint Online ו-onedrive מנהלים יישומים קריטיים לעסקים נגד השירות המנוהל ברקע. אלה כוללים העברת תוכן, מניעת אובדן נתונים (DLP) ופתרונות גיבוי. במהלך זמנים חסרי תקדים אלה, אנו נוטלים צעדים כדי להבטיח ששירותי SharePoint Online ו-OneDrive יישארו זמינים ואמינים עבור המשתמשים התלויים בשירות יותר מתמיד בתרחישי עבודה מרוחקים.
+
+לתמיכה במטרה זו, אנו הטמיעה מגבלות ויסות הדוק יותר על יישומי הרקע (הגירה, DLP ופתרונות גיבוי) בשעות היום של ימי חול. אתה צריך לצפות כי יישומים אלה להשיג תפוקה מוגבלת מאוד במהלך הזמנים האלה. עם זאת, בשעות הערב ובסוף השבוע של האזור, השירות יהיה מוכן לעבד נפח גבוה יותר באופן משמעותי של בקשות מיישומי רקע.
+
+**אפשרויות הגירה**
 
 קיימות אפשרויות שונות הזמינות להעברת תוכן ל-SharePoint Online, בהתאם לגודל ולכמות הקבצים שעליך להעביר, עיין ברשימת האפשרויות [הממוקמות כאן](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
