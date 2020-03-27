@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 5aebf7903670e74f616c8f151749d760caf1d642
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: b25bf02e0ccddbb7524816cab0933f026a6a9224
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932180"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959007"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>העברה ל-SharePoint Online באמצעות מנהל ההעברה
 
-**חשוב**: לקוחות SharePoint Online ו- OneDrive רבים מפעילים אפליקציות חיוניות לעסקים בניגוד לשירות שפועל ברקע. אפליקציות אלו כוללות העברת תוכן, מניעת אובדן נתונים (DLP) ופתרונות גיבוי. במהלך תקופה חסרת תקדים זו, אנחנו נוקטים בצעדים כדי שישמרו על הזמינות הגבוהה והאמינות של שירות SharePoint Online ו- OneDrive עבור המשתמשים שלך אשר תלויים בשירות יותר מאי פעם בתרחישי עבודה מרחוק.
-
-כחלק מהתמיכה במטרה זו, יישמנו מגבלות ויסות הדוקות יותר על יישומי רקע (העברה, DLP ופתרונות רקע) במהלך שעות העבודה בימי חול. אתה יכול לצפות לתפוקה מוגבלת מאוד של יישומים אלה במועדים אלה. אולם, בשעות הערב ובסופי שבוע באזור, השירות יהיה מוכן לעבד נפח גבוה באופן משמעותי של בקשות מיישומי רקע.
+**חשוב**: בתקופה חסרת תקדים זאת, אנחנו נוקטים בצעדים כדי להבטיח ששירותי SharePoint Online ו- OneDrive יישארו בזמינות גבוהה - לקבלת מידע נוסף, בקר בכתובת[התאמות של תכונה זמנית ב- SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **מנהל העברה**
 
