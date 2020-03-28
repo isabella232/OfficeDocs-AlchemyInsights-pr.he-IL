@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856468"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030401"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>בעיות נפוצות ופתרונות ב-Teams
+
+**חשוב**: עקב שימוש מוגבר ב- Teams לאחרונה, כאשר אתה מקצה למשתמש רישיון Teams, ייתכן שיחלפו 24 שעות לפני שהוא יוגדר במלואו. עד אז, לא תוכל להקצות להם פריטי מדיניות של Teams, וייתכן שלא תהיה להם גישה לתכונות מסוימות של Teams, כגון ועידות שמע.
+
+**בעיות נפוצות ופתרונות**
 
 לקבלת תשובה מפורטת יותר, נסה לנסח מחדש את השאלה שלך כדי לכלול את השגיאות שאתה רואה או את תכונות Teams שבהן אתה משתמש.
 
