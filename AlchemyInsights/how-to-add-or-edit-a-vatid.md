@@ -1,5 +1,5 @@
 ---
-title: כיצד להוסיף או לערוך של VatID
+title: כיצד להוסיף או לערוך וותיקן
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664321"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059737"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>כיצד להוסיף או לערוך של VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>כיצד להוסיף או לערוך וותיקן
 
-1. במרכז הניהול של Microsoft 365, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+**הערה**: אם אתה נמצא במדינה המשתמשת במס מוסף מוערך (מע מ), כגון הממלכה המאוחדת, Microsoft הפקת חשבונית מחשבת את המע מ עבורך ומחילה את הסכום על החשבוניות שלך. לקבלת מידע נוסף, ראה [לכנופיה כתב ויתור](https://go.microsoft.com/fwlink/?LinkID=841741) שפורסם על ידי הנציבות האירופית.
 
-2. למצוא את כרטיס המנוי עבור המנוי שברצונך לעדכן.
+**הוספה או עריכה של וותיקן**
 
-3. במקטע **הגדרות & פעולות** , בחר **ערוך כתובת השימוש בשירות**.
+1. במרכז הניהול של Microsoft 365, עבור אל **Billing** \> [מוצרי חיוב _ מוצרים לדף שירותים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-4. בדף ' **עריכת כתובות השימוש שלך בשירות** , הזן את מזהה מע מ שלך בתיבה **מספר מע מ** , ולאחר מכן בחר **שמור**.
+2. חפש את כרטיס המנוי עבור המנוי שברצונך לעדכן.
 
-    בסיום, מע מ לא יחויב בחשבון הבא שלך.
+3. במקטע **הגדרות _ Amp_ Actions** , בחר באפשרות **ערוך כתובת שימוש בשירות**.
 
-לקבלת מידע נוסף, ראה [מס מה אני יחויב עבור Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+4. בדף ' **עריכת הכתובת לשימוש בשירות** ', הזן את מזהה המע מ שלך בתיבה **מספר המע מ** ולאחר מכן בחר בפקודה **שמור**.
+
+    כאשר תושלם, המע מ לא יחויב בחשבון הבא שלך.
+
+כדי ללמוד עוד, ראה [באיזה מס אני יחויב עבור Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **משאבים נוספים**
 
-[הוסף את מזהה מע מ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[הוסף את מזהה המע מ שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
