@@ -1,5 +1,5 @@
 ---
-title: 126 קבלת דואר לא נמצאה שגיאה ב- OWA?
+title: 126 מקבל תיבת דואר לא נמצא שגיאה ב-OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523872"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105240"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>קבלת דואר לא נמצאה שגיאה ב- Outlook באינטרנט?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>מקבל תיבת דואר שאינה מצאה שגיאה ב-Outlook באינטרנט?
 
-אם אתה משתמש ב- Outlook באינטרנט ולקבל הודעת שגיאה **לא היתה אפשרות למצוא את תיבת הדואר עבור** , לחשבון שבו השתמשת כדי להתחבר ל- Outlook באינטרנט אין רשיון של Exchange Online, ולכן, תיבת הדואר לא משויך לתיק הלקוח. המנהל שלך באפשרותך להקצות רשיון לחשבון שלך על-ידי ביצוע השלבים הבאים:
+אם אתה משתמש ב-Outlook באינטרנט ואתה מקבל **לא ניתן למצוא תיבת דואר עבור** שגיאה, לחשבון ששימש להתחברות ל-Outlook באינטרנט אין רשיון Exchange Online ולכן לא משויך תיבת דואר לחשבון. המנהל שלך יכול להקצות רשיון לחשבון שלך על-ידי ביצוע השלבים הבאים:
 
-1. פתח את [מרכז הניהוליים Microsoft 365](https://portal.office.com/adminportal/home#/homepage) ובחר תחת **משתמשים פעילים**, **ערוך משתמש**.
+1. פתח את [מרכז הניהול של Microsoft 365](https://portal.office.com/adminportal/home#/homepage) ועבור **למשתמשים פעילים** תחת המקטע **users** ובחר את המשתמש שרואה את השגיאה.
 
-2. בדף **עריכת משתמש** שנפתחת, בחר את המשתמש. בעמוד מאפייני המשתמש שנפתחת, לחץ על **ערוך** עבור **רשיונות למוצר**.
-
-3. בדף **רשיונות מוצר** שנפתחת, בחר את הערך המתאים של **מיקום** ולהקצות רשיון המכיל Exchange Online (הרחב את הרשיון כדי לראות את הפרטים שלו). לסיום, לחץ על **שמור**.
+2. בדף המשתמש שנפתח, עבור אל **הרשיונות ומקטע Apps** , בחר את ערך **המיקום** המתאים והקצה רשיון המכיל את Exchange Online (הרחב את הרשיון כדי לראות את פרטיו). לאחר שתסיים, לחץ על **שמור שינויים**.
