@@ -1,5 +1,5 @@
 ---
-title: שינוי תדירות אתה משלם
+title: שינוי תדירות התשלום
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386902"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195019"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="82438-102">שינוי תדירות אתה משלם</span><span class="sxs-lookup"><span data-stu-id="82438-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="c4996-102">שינוי תדירות התשלום</span><span class="sxs-lookup"><span data-stu-id="c4996-102">Change how often you pay</span></span>
 
- <span data-ttu-id="82438-103">**מעוניין לשנות את תדירות התשלומים שלך?**</span><span class="sxs-lookup"><span data-stu-id="82438-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="82438-104">אם ברצונך לשנות את תכיפות אתה משלם עבור Office 365 שלך עבור מנוי עסקי מ שנתי מדי חודש או מדי חודש כדי שנתיים, אנו יכולים לסייע לך עם זה.</span><span class="sxs-lookup"><span data-stu-id="82438-104">If you want to change how frequently you pay for your Office 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="82438-105">יהיה עליך לרכוש מנוי זהה עם תדירות תשלום חדש ו ביטול המנוי הישן.</span><span class="sxs-lookup"><span data-stu-id="82438-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="82438-106">נא השתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה.</span><span class="sxs-lookup"><span data-stu-id="82438-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="c4996-103">בעת רכישת מנוי, אתה בוחר חיוב חודשי או שנתי.</span><span class="sxs-lookup"><span data-stu-id="c4996-103">When you buy a subscription, you choose monthly or annual billing.</span></span> <span data-ttu-id="c4996-104">כדי לשנות את התדירות שבה אתה מחויב עבור מנוי, השתמש בשלבים הבאים.</span><span class="sxs-lookup"><span data-stu-id="c4996-104">To change how often you are billed for a subscription, use the following steps.</span></span>
+
+1. <span data-ttu-id="c4996-105">במרכז הניהול, עבור אל \*\*הBilling> [מוצרים _ amp_ שירותים](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\* בדף.</span><span class="sxs-lookup"><span data-stu-id="c4996-105">In the admin center, go to the **Billing> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+
+2. <span data-ttu-id="c4996-106">חפש את המנוי שברצונך לשנות.</span><span class="sxs-lookup"><span data-stu-id="c4996-106">Find the subscription you want to change.</span></span> <span data-ttu-id="c4996-107">במקטע **החיוב** , בסמוך לתשלום **חודשי** או לחיוב **מדי שנה**, לחץ על **עריכה**.</span><span class="sxs-lookup"><span data-stu-id="c4996-107">In the **Billing** section, next to either **Billed monthly** or **Billed annually**, click **Edit**.</span></span>
+
+3. <span data-ttu-id="c4996-108">בחר את האפשרות עבור התכיפות בה ברצונך לקבל את החיוב ולאחר מכן בחר **בשינוי**.</span><span class="sxs-lookup"><span data-stu-id="c4996-108">Choose the option for how often you want to be billed, then select **Change**.</span></span>
