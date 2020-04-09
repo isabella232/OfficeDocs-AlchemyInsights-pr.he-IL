@@ -1,5 +1,5 @@
 ---
-title: שינוי תדירות אתה משלם
+title: שינוי תדירות התשלום
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386902"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195019"
 ---
-# <a name="change-how-often-you-pay"></a>שינוי תדירות אתה משלם
+# <a name="change-how-often-you-pay"></a>שינוי תדירות התשלום
 
- **מעוניין לשנות את תדירות התשלומים שלך?** אם ברצונך לשנות את תכיפות אתה משלם עבור Office 365 שלך עבור מנוי עסקי מ שנתי מדי חודש או מדי חודש כדי שנתיים, אנו יכולים לסייע לך עם זה. יהיה עליך לרכוש מנוי זהה עם תדירות תשלום חדש ו ביטול המנוי הישן. נא השתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה.
+בעת רכישת מנוי, אתה בוחר חיוב חודשי או שנתי. כדי לשנות את התדירות שבה אתה מחויב עבור מנוי, השתמש בשלבים הבאים.
+
+1. במרכז הניהול, עבור אל **הBilling> [מוצרים _ amp_ שירותים](https://go.microsoft.com/fwlink/p/?linkid=842054) ** בדף.
+
+2. חפש את המנוי שברצונך לשנות. במקטע **החיוב** , בסמוך לתשלום **חודשי** או לחיוב **מדי שנה**, לחץ על **עריכה**.
+
+3. בחר את האפשרות עבור התכיפות בה ברצונך לקבל את החיוב ולאחר מכן בחר **בשינוי**.
