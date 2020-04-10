@@ -13,12 +13,12 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 766df76bc1e19218b6de131115af414a8007a7a7
+ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771144"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43209421"
 ---
 # <a name="why-cant-i-edit-files"></a>מדוע אין באפשרותי לערוך קבצים?
 
@@ -32,7 +32,8 @@ ms.locfileid: "41771144"
 
 לקבלת מידע נוסף אודות קבצים נעולים עבור Word או Excel, נא פנה למאמרים שלהלן.
 
+- [קיבלתי שגיאה "העלאה נכשלה" או "לא היתה אפשרות לשמור באופן אוטומטי" בעת עריכת קובץ Office](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+
 - [קובץ Excel נעול לעריכה על-ידי משתמש אחר](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
 - [קובץ Word נעול לעריכה על-ידי משתמש אחר](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
-
