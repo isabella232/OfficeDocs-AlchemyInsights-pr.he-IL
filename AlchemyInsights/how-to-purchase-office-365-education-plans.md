@@ -1,5 +1,5 @@
 ---
-title: כיצד לרכוש תוכניות Office 365 השכלה
+title: כיצד לרכוש משרד 365 תוכניות חינוכיות
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,19 +14,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390909"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286250"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>כיצד לרכוש תוכניות Office 365 השכלה
+# <a name="how-to-purchase-office-365-education-plans"></a>כיצד לרכוש משרד 365 תוכניות חינוכיות
 
-אתה שאושרו עבור Office 365 חינוך. כדי לרכוש:
-  
-1. במרכז admin, לעבור אל **חיוב** \> דף [שירותי רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+קיבלת אישור עבור Office 365 Education.  כדי לרכוש:
 
-2. בחר מתוך הרשימה תחת **תוכניות לימודים**.
+1. עבור אל **['חיוב' > 'שירותי רכש'](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
-3. רחף מעל המנוי שברצונך לרכוש, ובחרו ' **קנה כעת**.
+2. בחר מתוך הרשימה תחת **תוכניות למוסדות חינוך**.
+
+3. רחף מעל המנוי שברצונך לרכוש ובחר **'קנה עכשיו'**.
+
+**הוראה ולמידה מרחוק**
+
+- ראה [הוראה ולמידה מרחוק עם Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) כדי ללמוד את המדריך העדכני ביותר אודות הגדרת בית הספר שלך, תכנון שיעורים, פגישות וירטואליות ושיתוף תוכן עם התלמידים שלך.
+
+- קיימת הדרכת IT נוספת תחת [התחל לעבוד עם Microsoft Teams עבור למידה מרחוק](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu), וגם [ביצוע המעבר ללמידה מרחוק](https://www.microsoft.com/education/remote-learning).
