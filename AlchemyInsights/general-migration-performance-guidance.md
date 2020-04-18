@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958539"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537742"
 ---
 # <a name="general-migration-performance-guidance"></a>הדרכה כללית של ביצועי ההעברה
 
+
 **חשוב**: בתקופה חסרת תקדים זאת, אנחנו נוקטים בצעדים כדי להבטיח ששירותי SharePoint Online ו- OneDrive יישארו בזמינות גבוהה - לקבלת מידע נוסף, בקר בכתובת[התאמות של תכונה זמנית ב- SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**הדרכה של ביצועי העברה**
+**אפשרויות העברה**
 
-ניתן להשפיע על ביצועי העברה על-ידי תשתיות רשת, גודל קובץ, זמן ההעברה וויסותו. הבנה של גורמים אלו יכולה לעשות לך לתכנן ולמקסם את היעילות של ההעברה שלך.
+קיימות אפשרויות זמינות שונות להעברת תוכן ל-SharePoint Online, בהתאם לגודל ולכמות הקבצים שעליך להעביר, עיין ברשימה של האפשרויות [הנמצאת כאן](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [הדרכה כללית של ביצועי העברה](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+לקבלת פרטים נוספים אודות העברת תוכן, בקר בקישורים שלהלן.
+
+- [כלי העברה של Sharepoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [תחילת עבודה עם מנהל ההעברה](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)

@@ -1,5 +1,5 @@
 ---
-title: ביטול מנוי Office 365 שלך?
+title: ביטול המנוי שלך ל-Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,17 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665540"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552670"
 ---
-# <a name="canceling-your-office-365-subscription"></a>ביטול מנוי Office 365 שלך?
+# <a name="canceling-your-office-365-subscription"></a>ביטול המנוי שלך ל-Office 365?
 
-אנחנו מתנצלים לראות לך לעבור!
+! אנחנו מצטערים לראות אותך הולך
   
-בהתבסס על הנתונים הארגוניים שלך, אנו מאמינים שכל המנויים הנוכחית יש פחות מ- 25 מקומות. כדי לבטל את המנוי שלך באופן מקוון, עבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) . במקטע **הגדרות & פעולות** , בחר **לבטל את המנוי**.
+בהתבסס על נתוני הארגון שלך, אנו מאמינים שכל המנויים הנוכחיים שלך כוללים פחות מ -25 מושבים. כדי לבטל את המנוי שלך באופן **Billing** \> מקוון, עבור אל [מוצרי חיוב _ מוצרים לדף שירותים](https://go.microsoft.com/fwlink/p/?linkid=842054) . במקטע **הגדרות _ Amp_ Actions** , בחר **בביטול מנוי**.
   
-לקבלת מידע נוסף, ראה [לבטל את המנוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**החזר: כל זיכוי היחסי שיוחזר אליך בתוך מחזור החיוב הבא.** 
+
+**הערה**: אם אינך רואה את האפשרות לביטול, לחץ על המנוי כדי להציג את הפרטים ועליך לראות את אפשרות **ביטול המנוי** **בהגדרות _ amp_ Actions**. 
+
+כדי ללמוד עוד, ראה [ביטול המנוי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 

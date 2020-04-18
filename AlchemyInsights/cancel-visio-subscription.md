@@ -12,12 +12,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 6641544379b47e5b6db25e4ae1d4c9bef8f03840
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198813"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552763"
 ---
 # <a name="cancel-visio-subscription"></a>ביטול מנוי Visio
 
@@ -30,3 +30,9 @@ ms.locfileid: "43198813"
 3. אתר את תוכנית Visio לביטול.
 
 4. לחץ על **ביטול מנוי**.
+
+**החזר: כל זיכוי היחסי שיוחזר אליך בתוך מחזור החיוב הבא.** 
+
+**הערה**: אם אינך רואה את האפשרות לביטול, לחץ על המנוי כדי להציג את הפרטים ועליך לראות את אפשרות **ביטול המנוי** **בהגדרות _ amp_ Actions**. 
+
+כדי ללמוד עוד, ראה [ביטול המנוי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
