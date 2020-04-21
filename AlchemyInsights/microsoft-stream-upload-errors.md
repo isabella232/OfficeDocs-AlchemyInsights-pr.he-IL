@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: he-IL
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591547"
+ms.locfileid: "43599355"
 ---
 # <a name="microsoft-stream-upload-errors"></a>שגיאות העלאה של Microsoft Stream
 
