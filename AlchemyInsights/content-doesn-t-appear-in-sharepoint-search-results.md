@@ -1,8 +1,8 @@
 ---
-title: תוכן אינו מופיע בתוצאות החיפוש של SharePoint
+title: התוכן אינו מופיע בתוצאות החיפוש של SharePoint
 ms.author: tlarsen
 author: tklarsen
-ms.date: 1/8/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,26 +11,26 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a21e0047b41390f740f9e13d31cba32b13990151
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517032"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705662"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>תוכן אינו מופיע בתוצאות החיפוש של SharePoint
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>התוכן אינו מופיע בתוצאות החיפוש של SharePoint
 
-בצע את שלבי פתרון הבעיות כאשר תוכן הצפוי אינו מופיע בתוצאות החיפוש:
+בצע את הפעולות לפתרון בעיות אלה כאשר תוכן צפוי אינו מופיע בתוצאות החיפוש:
   
-1. בדוק **האתר** המכיל את התוכן הצפוי מוגדר לאפשר תוכן יופיעו בתוצאות החיפוש. בצע את השלבים ב [הצג תוכן באתר בתוצאות החיפוש](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. ודא **שהאתר** המכיל את התוכן הצפוי מוגדר כך שיאפשר לתוכן להופיע בתוצאות חיפוש. בצע את השלבים [בהצגת תוכן באתר בתוצאות חיפוש](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
 
-2. בדוק **הרשימה** או את **הספריה** המכילה את התוכן הצפוי מוגדר לאפשר תוכן יופיעו בתוצאות החיפוש. בצע את השלבים ב [הצג תוכן מרשימות או מספריות בתוצאות החיפוש](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
+2. בדוק **שהרשימה** או **הספריה** המכילה את התוכן הצפוי מוגדרות כדי לאפשר לתוכן להופיע בתוצאות חיפוש. בצע את השלבים [בהצגת תוכן מרשימות או ספריות בתוצאות חיפוש](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
 
-3. ודא הדף, על המסמך או על פריסת עמוד מותאם אישית שתפורסם כ **גירסה ראשית.** בצע את שלב 3 בחלונית [החיפוש אינה מחזירה את כל התוצאות ב- SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
+3. ודא שפריסת הדף, המסמך או העמוד המותאם אישית מתפרסמת **כגירסה ראשית.** בצע את שלב 3 [בחיפוש אינו מחזיר את כל התוצאות ב-SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. ודא שלמשתמש יש **הרשאות** להציג את התוכן. בצע את השלבים בנושא [הכרת רמות הרשאה ב- SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+4. ודא שלמשתמש יש **הרשאות** להציג את התוכן. בצע את השלבים [בהבנת רמות ההרשאה ב-SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
-5. אם סכימת החיפוש שונתה על-ידי הוספת מאפיין מנוהל חדש, על-ידי עריכת מאפיין מנוהל או על-ידי הסרת מאפיין מנוהל מכן מבקש סריקה אינדקס מחדש יהיה צורך. **אינדקס מחדש** התוכן על-ידי ביצוע השלבים בנושא [לבקש באופן ידני סריקה ויצירת אינדקס מחדש של אתר, ספריה או רשימה](https://docs.microsoft.com/sharepoint/crawl-site-content). הדבר עלול להימשך זמן רב, המתן 24 שעות לפני בדיקת התוצאות שוב.
+5. אם סכימת החיפוש שונתה על-ידי הוספת מאפיין מנוהל חדש, על-ידי עריכת מאפיין מנוהל, או על-ידי הסרת מאפיין מנוהל ולאחר מכן תתבקש לבצע סריקה ואינדקס מחדש. **צור אינדקס מחדש** של התוכן על-ידי ביצוע השלבים [בבקשה ידנית של סריקה ויצירת אינדקס מחדש של אתר, ספריה או רשימה](https://docs.microsoft.com/sharepoint/crawl-site-content). הדבר עלול להימשך זמן מה, להמתין 24 שעות לפני בדיקת התוצאות שוב.
 
-לקבלת מידע נוסף, ראה [הפעלת תוכן באתר כדי לשמש בחיפושים](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
+לקבלת מידע נוסף, ראה [הפיכת תוכן באתר לזמין לחיפוש](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
   

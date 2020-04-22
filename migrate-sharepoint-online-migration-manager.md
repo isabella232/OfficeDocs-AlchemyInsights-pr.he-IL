@@ -1,9 +1,9 @@
 ---
-title: הגירה ל-SharePoint Online באמצעות מנהל ההעברות
+title: העברה ל-SharePoint Online באמצעות מנהל ההעברה
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964178"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707188"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>הגירה ל-SharePoint Online באמצעות מנהל ההעברות
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>העברה ל-SharePoint Online באמצעות מנהל ההעברה
 
-ממוקם במרכז הניהול המודרני של SharePoint, מנהל ההעברות מנחה אותך באמצעות הכיוונון של לקוחותיך ויצירת המשימות שלך. באפשרותך לציין הגדרות כלליות או רמת פעילות, להציג התקדמות של פעילות מתקדמת ולהוריד סיכומים צבורים ודוחות ברמת הפעילות.
+מנהל ההעברה, אשר ממוקם במרכז הניהול המודרני של SharePoint, מנחה אותך לאורך ההגדרה של הלקוחות והיצירה של המשימות שלך. באפשרותך לציין הגדרות כלליות או רמת פעילות, להציג התקדמות של פעילות מתקדמת ולהוריד סיכומים צבורים ודוחות ברמת הפעילות.
 
-* [התחל לעבוד עם מנהל ההעברות](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [הגדרת לקוחות מנהל ההעברות](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [הגדרות מנהל ההעברה](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [תחילת עבודה עם מנהל ההעברה](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [הגדרת לקוחות של מנהל ההעברה](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [הגדרות של מנהל ההעברה](https://docs.microsoft.com/sharepointmigration/mm-settings)

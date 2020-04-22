@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737118"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708356"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>שלבי פתרון בעיות בהתרסקות Outlook
+# <a name="outlook-crash-troubleshooting-steps"></a>שלבי פתרון בעיות לקריסה של Outlook
 
-אם אתה נתקל בבעיות התרסקות שולחן העבודה של Outlook, התחל בעקבות שלושת השלבים שלהלן, אשר כולם רשומים בפירוט במאמר זה: [כיצד לפתור בעיות הגורמות ל-Outlook לקרוס או להפסיק להגיב בעת שימוש ב-Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+אם יש לך בעיות התרסקות שולחן העבודה של Outlook, להתחיל על-ידי ביצוע שלושת השלבים הבאים, אשר מפורטים כולם בפירוט במאמר זה: [כיצד לפתור בעיות הגורמות ל-Outlook להתרסק או להפסיק להגיב.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 שלב 1: חקירת בעיות אפשריות בתוספות.
   
@@ -30,5 +30,5 @@ ms.locfileid: "36737118"
   
 שלב 3: יצירת פרופיל חדש של Outlook, או הפעלת [כלי הפרופיל של outlook](https://aka.ms/SaRA-OutlookSetupProfile) במחשב המושפע.
   
-אם הבעיה אירעה לאחר עדכון והשלבים שלעיל לא יעבדו, ייתכן שיהיה עליך לחזור למבנה קודם. ראה [כיצד לחזור לגירסה קודמת של Office 2016 לחץ-להפעלה](https://support.microsoft.com/help/2770432).
+אם הבעיה התרחשה לאחר עדכון והשלבים שלעיל אינם פועלים, ייתכן שעליך לחזור לגירסת Build קודמת. ראה [כיצד לחזור לגירסה קודמת של Office 2016 לחץ-להפעלה](https://support.microsoft.com/help/2770432).
   

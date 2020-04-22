@@ -1,5 +1,5 @@
 ---
-title: הפעלת מנוי חדש באמצעות מפתח מוצר
+title: הפעלת מנוי חדש עם מפתח מוצר
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b4ae470e2a03509ea8a90e7fdf006eddfa4792ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766388"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707116"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>הפעלת מנוי חדש באמצעות מפתח מוצר
+# <a name="activate-a-new-subscription-with-a-product-key"></a>הפעלת מנוי חדש עם מפתח מוצר
 
-1. כדי להפעיל מנוי חדש של Office 365 עם מפתח המוצר [https://office.com/setupkey](https://office.com/setupkey)שלך, עבור אל.
+1. כדי להפעיל מנוי חדש עם מפתח המוצר שלך [https://office.com/setupkey](https://office.com/setupkey), עבור אל.
 
-2. הזן את מפתח המוצר של Office 365 ועקוב אחר ההנחיות כדי להפעיל את המנוי. אם אתה נתקל בבעיות בהפעלה, עיין ב [רשימה זו של שגיאות נפוצות ופתרונות בנוגע למפתח מוצר](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. הזן את מפתח המוצר שלך ובצע את ההנחיות כדי להפעיל את המנוי. אם אתה נתקל בבעיות בהפעלה, עיין ב [רשימה זו של שגיאות נפוצות ופתרונות בנוגע למפתח מוצר](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

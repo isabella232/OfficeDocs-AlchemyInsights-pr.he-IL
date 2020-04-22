@@ -1,9 +1,9 @@
 ---
-title: 761 התחברות ל- Exchange Online PowerShell כאשר מופעלת MFA
+title: 761 התחברות ל-Exchange Online PowerShell כאשר משרד האינטרנט מופעל
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: efcc1138a6ae71e7093f665722c8bafe730d70d6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517068"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705806"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>להתחבר אל Exchange Online PowerShell כאשר מופעלת MFA
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>התחבר ל-Exchange Online PowerShell כאשר משרד האינטרנט מופעל
 
-אם לחשבון שלך יש אימות מגורמים רבים (MFA) זמין, עליך למלא אחר ההוראות שלהלן כדי להתחבר אל Exchange Online PowerShell: [התחבר ל- Exchange Online PowerShell באמצעות אימות מגורמים רבים](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
+אם החשבון שלך כולל אימות רב-גורמי (משרד האינטרנט) הזמין, עליך לבצע את ההוראות הבאות כדי להתחבר ל-Exchange Online PowerShell: [התחבר ל-Exchange Online powershell באמצעות אימות מרובה גורמים](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
 
-**הערה**: גם אם אתה מחובר ל- Exchange Online PowerShell בעבר תוך שימוש [בהוראות חיבור רגיל](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), עליך להשתמש בהוראות חיבור MFA לאחר MFA הפכה לזמינה עבור החשבון שלך.
+**הערה**: גם אם התחברת ל-Exchange Online PowerShell בעבר באמצעות [הוראות החיבור הרגילות](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), עליך להשתמש בהוראות החיבור של משרד האינטרנט לאחר שתואר משרד האינטרנט הופעל עבור חשבונך.

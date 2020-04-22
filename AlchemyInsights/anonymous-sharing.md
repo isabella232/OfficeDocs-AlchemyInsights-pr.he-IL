@@ -2,18 +2,18 @@
 title: שיתוף אנונימי
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 8a007821fb44544512ae5b9bf22ee9aba16e618c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f503564af9ccdd3e27f328a3f94a52eb9871d17d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050382"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708056"
 ---
 # <a name="anonymous-sharing"></a>שיתוף אנונימי
 
@@ -31,6 +31,6 @@ ms.locfileid: "40050382"
     
 - למי ברצונך שהקישור זה יפעל? לחץ על **כל אחד.**
   
- **הערה**: **כל אחד** יוצר קישור שכל אחד יכול להשתמש בו כדי לגשת למסמך או לתיקיה, גם אם הם אינם מחוברים למשרד 365 או onedrive. השתמש באפשרות זו כדי לשתף עם כל אחד, בתוך או מחוץ לחברה שלך. קישור זה יכול גם להיות מועבר לכל אחד. 
+ **הערה**: **כל אחד** יוצר קישור שכל אחד יכול להשתמש בו כדי לגשת למסמך או לתיקיה, גם אם הם אינם מחוברים ל-Microsoft 365 או onedrive. השתמש באפשרות זו כדי לשתף עם כל אחד, בתוך או מחוץ לחברה שלך. קישור זה יכול גם להיות מועבר לכל אחד. 
     
 

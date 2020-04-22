@@ -3,7 +3,7 @@ title: כיצד לגשת Outlook.com בעת נסיעה
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "921"
 - "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: b341642e2ad078e53829b3a34d238a68b73cd0a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c24722758fe023246bf37c3cc260735848c656ac
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522684"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709732"
 ---
 # <a name="how-to-access-outlookcom-while-traveling"></a>כיצד לגשת Outlook.com בעת נסיעה
 
-כדי לגשת Outlook.com במהלך נסיעה, ודא את מידע האבטחה חשבון Microsoft - דואר אלקטרוני חלופית כתובת או מספר טלפון בו תוכל לקבל קודי אבטחה - מעודכן. לקבלת מידע נוסף, ראה [כיצד לגשת Outlook.com בעת נסיעה](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).
+כדי לגשת לOutlook.com בעת הנסיעה, ודא שפרטי האבטחה בחשבון של Microsoft-כתובת דואר אלקטרוני חלופית או מספר טלפון חלופי שבהם באפשרותך לקבל קודי אבטחה-מעודכנת. כדי ללמוד עוד, ראה [כיצד לגשת לOutlook.com בעת הנסיעה](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).

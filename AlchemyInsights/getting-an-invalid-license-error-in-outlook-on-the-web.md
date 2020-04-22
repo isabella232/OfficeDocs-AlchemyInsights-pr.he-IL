@@ -1,9 +1,9 @@
 ---
-title: 125 מקבל שגיאה רשיון לא חוקי ב- Outlook באינטרנט?
+title: 125 מקבל שגיאת רשיון לא חוקית ב-Outlook באינטרנט?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523800"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708832"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>מקבל שגיאה רשיון לא חוקי ב- Outlook באינטרנט?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>מקבל שגיאת רשיון לא חוקית ב-Outlook באינטרנט?
 
-אם אתה משתמש ב- Outlook באינטרנט ואתה מקבל את שגיאת **משהו השתבש** אשר מכיל **X-OWA-שגיאה: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, רשיון Exchange Online שלך אינו מוקצה כראוי או יש לאחרונה פג. המנהל שלך באפשרותך להקצות רשיון אליך על-ידי ביצוע השלבים הבאים:
+אם אתה משתמש ב-Outlook באינטרנט ואתה מקבל **משהו שגיאה שגויה** המכיל **X-OWA-שגיאה: Microsoft. Exchange. Data. הפטור**משגיאות, הרשיון של Exchange Online אינו מוקצה כראוי או שתוקפו פג לאחרונה. המנהל שלך יכול להקצות לך רשיון על-ידי ביצוע השלבים הבאים:
   
-1. פתח את [מרכז הניהוליים Microsoft 365](https://portal.office.com/adminportal/home#/homepage) ובחר תחת **משתמשים פעילים**, **ערוך משתמש**.
+1. פתח את [מרכז הניהול של Microsoft 365](https://portal.office.com/adminportal/home#/homepage) ותחת **משתמשים פעילים**, בחר **באפשרות ערוך משתמש**.
 
-2. בדף **עריכת משתמש** שנפתחת, בחר את המשתמש. בעמוד מאפייני המשתמש שנפתחת, לחץ על **ערוך** עבור **רשיונות למוצר**.
+2. בדף ' **עריכת דף משתמש** ' שנפתח, בחר במשתמש. בדף המאפיינים של המשתמש שנפתח, לחץ על **ערוך** עבור **רשיונות מוצר**.
 
-3. בדף **רשיונות מוצר** שנפתחת, בחר את הערך המתאים של **מיקום** ולהקצות רשיון המכיל Exchange Online (הרחב את הרשיון כדי לראות את הפרטים שלו). לסיום, לחץ על **שמור**.
+3. בדף **רשיונות המוצר** שנפתח, בחר את ערך **המיקום** המתאים והקצה רשיון המכיל את Exchange Online (הרחב את הרשיון כדי לראות את פרטיו). לסיום, לחץ על **שמור**.

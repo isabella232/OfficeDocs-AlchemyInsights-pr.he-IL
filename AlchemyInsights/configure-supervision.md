@@ -1,33 +1,33 @@
 ---
-title: קביעת תצורה שתהיה השגחה
+title: קביעת תצורה של פיקוח
 ms.author: robmazz
 author: robmazz
 manager: laurawi
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 0e693de897fe083e1afd9093789367bc58220846
-ms.sourcegitcommit: fbc613525a6302e61d78388ae821f842f186ad03
+ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34813839"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705914"
 ---
-# <a name="configure-supervision-policies"></a>קבע תצורה של מדיניות שתהיה השגחה
+# <a name="configure-supervision-policies"></a>קביעת תצורה של פריטי מדיניות פיקוח
 
-מדיניות שתהיה השגחה ב- Microsoft 365 Office 365 מאפשרים לך לפקח על דואר אלקטרוני של Exchange, Skype עבור העסק המקוון, צוותים Microsoft תקשורות צד שלישי הנשלחות בתוך הארגון ומחוצה. בודקים המיועד ניתן לבדוק הודעות תחת פיקוח כדי להבטיח שהם תואמים עם מדיניות, ניהול סיכונים ותקנים תאימות לתקנים של הארגון שלך לפתור אותן עם סוג סיווג.
+מדיניות ההשגחה ב-Microsoft 365 מאפשרת לך לנטר דואר אלקטרוני של Exchange, סקייפ לעסקים Online, צוותי Microsoft ותקשורת של צד שלישי הנשלחים בתוך הארגון ומחוצה לו. סוקרים ייעודיים יכולים לבדוק הודעות הנמצאות תחת פיקוח כדי לוודא שהן תואמות למדיניות הארגון, לניהול הסיכונים ולתקני התאימות לתקנות ולפתור אותן באמצעות סוג סיווג.
 
-כדי להשתמש במדיניות שתהיה השגחה בארגון שלך, עליך:
+כדי להשתמש במדיניות ההשגחה בארגון שלך, עליך:
 
-- לקבוע את התקשורת לפיקוח.
-- להחליט מי יבצע סקירה תקשורת.
-- הגדרת מדיניות שתהיה השגחה
+- קבע את התקשורת שעליה יש לפקח.
+- להחליט מי יבצע ביקורת תקשורת.
+- מדיניות פיקוח התקנה
 
 למד עוד:
 
-- [מבט כולל על מדיניות שתהיה השגחה](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [קבע תצורה של מדיניות שתהיה השגחה](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [מבט כולל על מדיניות ההשגחה](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
+- [קביעת תצורה של מדיניות פיקוח](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)

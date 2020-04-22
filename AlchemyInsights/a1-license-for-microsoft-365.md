@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530180"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687403"
 ---
 # <a name="a1-license-for-microsoft-365"></a>רישיון A1 עבור Microsoft 365
 
@@ -25,9 +25,9 @@ ms.locfileid: "43530180"
 
 - אם המוסד שלך עדיין לא התקין את Microsoft 365 Education, אבל אתה מעוניין להוסיף Office 365 בחינם, באפשרותך [להתחיל](https://www.microsoft.com/education/products/office) באמצעות הוספת הדואר האלקטרוני שלך. 
 
-- אם ברצונך **לעבור** מתוכנית אקדמית שונה אל תוכנית A1, ראה [עבור אל תוכנית אחרת](https://docs.microsoft.com/he-IL/microsoft-365/commerce/subscriptions/switch-plans-manually). 
+- אם ברצונך **לעבור** מתוכנית אקדמית שונה אל תוכנית A1, ראה [עבור אל תוכנית אחרת](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually). 
 
-- כדי להקצות משתמשים לתוכנית A1, ראה [הקצה רישיונות למשתמשים](https://docs.microsoft.com/he-IL/microsoft-365/admin/manage/assign-licenses-to-users).  
+- כדי להקצות משתמשים לתוכנית A1, ראה [הקצה רישיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
 
 **חשוב**: ייתכן שתצטרך להמתין עד 24 שעות עד שהשינויים שלך ייכנסו לתוקף. 
 

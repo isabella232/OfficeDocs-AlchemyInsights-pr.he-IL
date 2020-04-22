@@ -1,9 +1,9 @@
 ---
-title: הכרת לחיוב שלך עזרה
+title: עזור להבנת החשבון שלך
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523080"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710084"
 ---
-# <a name="help-understanding-your-bill"></a>הכרת לחיוב שלך עזרה
+# <a name="help-understanding-your-bill"></a>עזור להבנת החשבון שלך
 
-הסכום שחויב עבור Office 365 שלך עבור מנוי עסקי משקף מחיר הרישיון מוכפל במספר רשיונות שנרכשו מיסים/לעלויות הנדרש.
+הסכום שחויב עבור המנוי שלך משקף את מחיר הרשיון כפול ממספר הרשיונות שנרכשו וכל המסים/עמלות הנדרשים.
   
-אם סכום שחויב שונה לאחר מכן צפוי, קיימות כמה סיבות שזו עשויה להתרחש:
+אם הסכום שחויב לאחר מכן צפוי, קיימות מספר סיבות אפשריות לכך:
   
-- רשיונות שנוספו או הוסרו מהמנוי שלך. כאשר רשיונות מונח אמצע שהשתנו, הדבר משתקף בחשבונית הבאה. ייתכן שתראה אשראי ו מחדש לחיוב עבור תקופת שירות קודמת חשבון עבור שינוי זה.
+- רשיונות נוספו או הוסרו מהמנוי שלך. כאשר רשיונות משתנים באמצע הטווח, הדבר משתקף בחשבונית הבאה. ייתכן שתראה זיכוי וחיוב מחדש עבור תקופת השירות הקודמת כדי להסביר שינוי זה.
 
-- המנוי בוטלה. תקבל חשבונית לאחר ביטול עם כל יתרה בטיפול פחות יוצרים כלשהם.
+- המנוי בוטל. תקבל חשבונית לאחר הביטול עם יתרת חוב בניכוי זיכויים.
 
-- המנוי שלך יחודש עבור מונח חדש לבין מחיר הרישיון השתנה.
+- המנוי שלך חודש עבור תקופה חדשה, ומחיר הרישיון השתנה.
 
-לקבלת מידע נוסף אודות החשבונית שלך, ראה: [הכרת החשבונית שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+לקבלת מידע נוסף אודות החשבונית, ראה: [הבנת החשבונית](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

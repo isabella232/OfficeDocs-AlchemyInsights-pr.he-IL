@@ -3,7 +3,7 @@ title: כיצד ניתן להסיר את פרטי כרטיס האשראי?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f8b44773767aa28750a7c444b22091359030c93f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664429"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709976"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>כיצד ניתן להסיר את פרטי כרטיס האשראי?
 
-1. במרכז הניהול של Microsoft 365, עבור אל **** \> העמוד ' [שיטות תשלום](https://go.microsoft.com/fwlink/p/?linkid=2018806) לחיוב '.
+1. במרכז הניהול של Microsoft 365, עבור לדף **חיוב** \> [שיטות תשלום](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
 2. בדף **שיטות התשלום** , בחר בכרטיס האשראי או בחשבון הבנק שיש למחוק.
 
@@ -33,4 +33,4 @@ ms.locfileid: "36664429"
 
 4. בחלונית ' **מחיקת שיטת תשלום** ', בחרו ' **מחק**'.
 
-כדי ללמוד עוד, ראה [הוספה, עדכון או הסרה של כרטיס אשראי או חשבון בנק ב-Office 365 לצורך עסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+כדי ללמוד עוד, ראה [הוספה, עדכון או הסרה של כרטיס אשראי או חשבון בנק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

@@ -1,9 +1,9 @@
 ---
-title: 127 קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?
+title: 127 מקבל שגיאה באמצעות גישה לדואר אלקטרוני?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523980"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708904"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>קבלת הודעת שגיאה TenantAccessBlockedException בעת גישה דואר אלקטרוני?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>מקבל שגיאה באמצעות הגישה לדואר אלקטרוני?
 
-ישנן כמה סיבות שונות מדוע ייתכן שתקבל שגיאה זו. לדוגמה:
+קיימות מספר סיבות שונות לכך ששגיאה זו עלולה להתקבל. לדוגמה:
 
-- ודא כי המנוי שלך חוקית על **חיוב** \> העמוד [שירותים & מוצרים](https://portal.office.com/adminportal/home#/subscriptions) במרכז הניהול של Microsoft 365.
+- ודא שהמנוי שלך חוקי בדף מוצרי **חיוב** \> [_ amp_ services](https://portal.office.com/adminportal/home#/subscriptions) במרכז הניהול של Microsoft 365.
 
-- הסימון עבור כל שתאריך דיווחים על **חיוב** \> דף [תשלומים & שטרות](https://portal.office.com/adminportal/home#/billoverview) במרכז הניהול של Microsoft 365.
+- בדוק אם יש הודעות שטרם הגיע [לחשבון בחשבונות](https://portal.office.com/adminportal/home#/billoverview) **החיוב** \> של דף התשלומים ב-Microsoft 365 admin center.
 
-- אם חיוב ומנויי עבור החשבון שלך לאחרונה עודכנו, ייתכן שיידרשו זמן להפיץ את השינויים. נסה שוב בעוד מספר דקות, ואם אם הבעיה נמשכת, פנה אלינו.
+- אם החיוב והמנויים עבור החשבון שלך עודכנו לאחרונה, ייתכן שייקח זמן להפיץ את השינויים. נסה שוב בעוד מספר דקות, ואם הבעיה נמשכת, פנה אלינו.

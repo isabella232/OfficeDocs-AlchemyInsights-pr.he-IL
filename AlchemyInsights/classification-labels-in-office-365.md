@@ -1,5 +1,5 @@
 ---
-title: תוויות סיווג ב-Office 365
+title: תוויות סיווג
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,15 +7,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: 9cd9f2c76a7bd986b1962dcaa241d03ada0f8fea
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f1c457783eab79ecc810ef5c79671fbc40f7e64a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050094"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706274"
 ---
-# <a name="classification-labels-in-office-365"></a>תוויות סיווג ב-Office 365
+# <a name="classification-labels"></a>תוויות סיווג
 
-באמצעות תוויות רגישות או סיווג ב-Office 365, באפשרותך לסווג ולסייע בהגנה על התוכן הרגיש שלך, תוך הקפדה על היעילות והיכולת של האנשים שלך לשתף פעולה לא מפריע.
+באמצעות מדבקות רגישות או סיווג, באפשרותך לסווג ולסייע בהגנה על התוכן הרגיש שלך, תוך הקפדה על כך שהפרודוקטיביות והיכולת של האנשים שלך לשתף פעולה אינה מעכבת.
 
 לקבלת מידע נוסף, עיין [במאמר](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)הבא.
