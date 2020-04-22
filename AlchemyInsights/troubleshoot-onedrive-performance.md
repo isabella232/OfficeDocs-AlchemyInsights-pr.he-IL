@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: 5416da63851de8b0b45e1d5c0cef24b03db40e6e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 197a84c5f69f9e58460925049345263743fe78ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054955"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733199"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>פתרון ביצועים של כונן OneDrive
 
@@ -22,7 +22,7 @@ ms.locfileid: "40054955"
 
 - אשר שאין בעיות ידועות באמצעות [לוח המחוונים לתקינות השירות](https://portal.office.com/adminportal/home?ref=/servicehealth).
 
-- הפעל את ' [קבצים לפי דרישה](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-US&rs=en-US&ad=US) ' כך שתוכל לגשת לכל הקבצים שלך ב-onedrive מבלי להוריד את כולם ולהשתמש בשטח אחסון במכשיר.
+- הפעל את ' [קבצים לפי דרישה](https://support.office.com/article/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) ' כך שתוכל לגשת לכל הקבצים שלך ב-onedrive מבלי להוריד את כולם ולהשתמש בשטח אחסון במכשיר.
 
 - [סקור את שיטות העבודה המומלצות](https://docs.microsoft.com/office365/enterprise/network-planning-and-performance) עבור תכנון וביצועים ברשת.
 

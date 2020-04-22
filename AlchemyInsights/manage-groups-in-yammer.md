@@ -2,7 +2,7 @@
 title: ניהול קבוצות ביאממר
 ms.author: pebaum
 author: pebaum
-ms.date: 8/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: 657e2f11a18d22e63765f3781c92aa4be42af40c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 439ac70683bb0bc6812de7a2919fb808ea034281
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36735030"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762570"
 ---
 # <a name="manage-groups-in-yammer"></a>ניהול קבוצות ביאממר
 
@@ -24,7 +24,7 @@ ms.locfileid: "36735030"
 
 - **חברות בקבוצה דינאמית.** נא עיין [ביצירת קבוצה דינאמית ביאממר](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) לקבלת מידע על יצירת חברות דינאמיות עבור החברה המחוברת ל-Office 365 קבוצות.
 
-- **שחזור קבוצות שנמחקו.** שחזור של Office 365 מחובר לקבוצות Yammer אפשרי באמצעות שחזור לא ניתן לשחזר קבוצות של [office 365 שאינן מחוברות לאחר המחיקה](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group) .
+- **שחזור קבוצות שנמחקו.** ניתן לשחזר קבוצות של Yammer [באמצעות שחזור של קבוצת Office 365 שנמחקה](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group) אינה ניתנת לשחזור קבוצות שאינן מחוברות לאחר המחיקה.
 
 לקבלת מידע נוסף אודות ניהול קבוצה, ראה [ניהול קבוצה ביאממר](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). לקבלת מידע אודות קבוצות מקושרות של Office 365, ראה [Yammer ו-Office 365 קבוצות](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
   

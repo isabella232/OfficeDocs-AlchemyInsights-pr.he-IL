@@ -3,7 +3,7 @@ title: תוויות רגישות שאינן מופיעות
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048653"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758432"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>תוויות רגישות שאינן מופיעות
 
-תוויות רגישות מאפשרות לך לסווג ולסייע בהגנה על התוכן הרגיש שלך. ניתן ליצור אותן במרכז התאימות של Microsoft 365, במרכז האבטחה של Microsoft 365, או ב-Office 365 Security _ מרכז התאימות לפי תוויות של מיון _ שרתים. כדי ללמוד עוד אודות תכונה זו, ראה [מבט כולל על תוויות רגישות](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+תוויות רגישות מאפשרות לך לסווג ולסייע בהגנה על התוכן הרגיש שלך. ניתן ליצור אותם במרכז התאימות של Microsoft 365, במרכז האבטחה של Microsoft 365, או ב-Microsoft 365 אבטחה _ Amp_ מרכז התאימות תחת מדבקות סיווג _ שמות _. כדי ללמוד עוד אודות תכונה זו, ראה [מבט כולל על תוויות רגישות](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 אם קבעת את התצורה של תוויות הרגישות שלך אך הן אינן מופיעות ביישומי Office, בדוק את הפרטים הבאים:
 
 - ודא שתווית הרגישות [פורסמה](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) בפני המשתמשים והקבוצות הרצויים.
 
-- ודא שהמשתמש משתמש ביישום התומך בתוויות רגישות-ראה [תוויות רגישות במסמך](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- ודא שהמשתמש משתמש ביישום התומך בתוויות רגישות-ראה [תוויות רגישות במסמך](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
 - אם אתה [מעביר את התוויות להגנת מידע תכלת](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), שים לב לשיקולים המפורטים [כאן](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 

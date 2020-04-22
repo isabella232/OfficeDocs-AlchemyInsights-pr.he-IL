@@ -1,25 +1,25 @@
 ---
-title: עיכוב הקצאה של תיבת דואר
+title: עיכוב בהקצאת תיבת דואר
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 2/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a994658a-08e1-400e-9ae9-2663edd0d11e
-ms.openlocfilehash: ef9b7663b8230366764e5ff7bfa176d5cea3f4a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 03d5f0e5cf8bf0d74dcef488de2c1fbc12d82cf0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542414"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762678"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>יצירת תיבת דואר של משתמש
+# <a name="your-users-mailbox-is-being-created"></a>תיבת הדואר של המשתמש שלך נוצרת
 
-הוא יכול להימשך עד שעה לפני לתיבת דואר חדשה מוכן לשימוש.
+הפעולה יכולה להימשך עד שעה לפני שתיבת דואר חדשה מוכנה לשימוש.
   
-אם תיבת הדואר של משתמש בעל עבר "להכנת" יותר משעה, באפשרותך לנסות מחיקה ולאחר מכן ליצור מחדש את המשתמש, או השתמש באפשרות "הודע לנו להתקשר אליך" לשוחח עם מהנדס תמיכה.
+אם תיבת דואר של משתמש "הכינה" במשך יותר משעה, באפשרותך לנסות למחוק ולאחר מכן ליצור מחדש את המשתמש, או להשתמש באפשרות "תן לנו לקרוא לך" כדי לדבר עם מהנדס תמיכה.
   
 

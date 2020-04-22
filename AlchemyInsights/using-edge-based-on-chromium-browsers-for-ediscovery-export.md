@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: d4ccaf4928fb041ec7914b95520c4e7ccdac208c
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 5c247ab69c272d2d296f9602fc5246a08164da5e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741189"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726213"
 ---
 # <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>שימוש בקצה של Microsoft בהתבסס על דפדפנים כרום עבור ייצוא Ediscovery
 
-עקב שינוי שנעשה לאחרונה, לדפדפני Microsoft Edge לא תהיה עוד תמיכת ClickOnce כזמינה כברירת מחדל. כדי להמשיך להשתמש בכלי הייצוא של Microsoft Office 365 eDiscovery, יהיה עליך להשתמש ב-Microsoft Internet Explorer או להפעיל את התמיכה ClickOnce ב-Microsoft Edge. 
+עקב שינוי שנעשה לאחרונה, לדפדפני Microsoft Edge לא תהיה עוד תמיכת ClickOnce כזמינה כברירת מחדל. כדי להמשיך להשתמש בכלי הייצוא של Microsoft 365 eDiscovery, יהיה עליך להשתמש ב-Microsoft Internet Explorer או להפעיל את התמיכה ClickOnce ב-Microsoft Edge. 
 
 כדי להפעיל את התמיכה ClickOnce בקצה Microsoft בהתבסס על כרום: 
 1. בדפדפן הקצה של Microsoft, בקר edge://flags/#edge-לחץ פעם אחת.

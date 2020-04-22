@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: ac7a66fc3315132f85eccba6cfa7eb5d2c7f5465
-ms.sourcegitcommit: 1e86dec31d92dba0f7804db9d11c47017a450579
+ms.openlocfilehash: 046a64632c4708ddd48730e00b13da13880ae365
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42326233"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721738"
 ---
 # <a name="verify-your-domain-with-namecheap"></a>אמת את התחום שלך עם הנקב הזול
 
@@ -23,4 +23,4 @@ ms.locfileid: "42326233"
 
 תחילה, בצע את [אשף הוספת קבוצת המחשבים](https://portal.office.com/adminportal/home#/Domains) על-ידי בחירת **תחומים** **של הגדרות** \> ולאחר מכן **הוסף קבוצת מחשבים**.
   
-ראה [יצירת רשומות DNS ב-Namecheap זול עבור Office 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) לקבלת הוראות שלב אחר שלב.
+ראה [יצירת רשומות DNS ב-Namecheap זול עבור Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) לקבלת הוראות צעד-אחר-צעד.

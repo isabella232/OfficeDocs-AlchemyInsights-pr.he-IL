@@ -1,9 +1,9 @@
 ---
-title: Outlook.com שינוי סיסמה - צרפתית
+title: Outlook.com שינוי סיסמה-צרפתית
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: b665e1385c77a59b8af96031ae3369d55bf0a737
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ab7357250974c220a4f558b3a1f24c5c605872a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537420"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721931"
 ---
-# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>מחליף votre mot דה passe dans Outlook.com
+# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>מחלף ווטרה במות דה פאסה Outlook.com
 
-Votre mot דה passe Outlook.com est מ même ייחודיים votre mot דה passe Compte Microsoft.
+ווטרה מOutlook.com המהירה ביותר במעלה השביל מיקרוסופט.
 
-1. היא Accédez [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **דה mot du Sécurité passe**.
-2. Sécurité דה mesure par, vous pouvez être invité היא confirmer votre identité היא l'aide d'un קוד דה sécurité.
-3. Entrez votre mot דה passe actuel, votre nouveau דה mot passe, puis sélectionnez **Enregistrer**.
+1. מסעדת [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) **המלון**מהווה מיקום מהנה.
+2. בהחלט לא מספק את הקוד הטוב ביותר של החוק החוקי של המלון...
+3. מיזם זה מהווה את הקול הטוב ביותר, ווטרה נובו **מEnregistrer**.
 
-מזמין Si vous avez oublié votre mot דה passe, accédez היא la [דף דה réinitialisation דה mot דה דה passe compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les.
+בנוסף, המלון מזמין את מרבית [העמודים של מיקרוסופט](https://go.microsoft.com/fwlink/p/?linkid=841909), והיא מזמינה את ההזמנות שלכם לגבי התפריט.
 
-גו vous pensez ייחודיים votre Outlook.com piraté été, voir [compte יום ב' Outlook.com piraté été](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
+בנוסף, הOutlook.com בומחיותה [יום שני Outlook.com מאוד](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).

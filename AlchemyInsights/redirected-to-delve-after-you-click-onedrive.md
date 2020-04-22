@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 74151ed149c57ceebc841902796189f6638795a9
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571207"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722811"
 ---
 # <a name="redirected-to-delve-after-you-click-onedrive"></a>הופנה מהדף כדי להתעמק לאחר שתלחץ על OneDrive
 
 ראה את [מדריך פתרון התקלות](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)המפורט שלנו.
 
-כדי לפתור בעיה זו, על מנהל Office 365 להעניק למשתמשים את הזכות ליצור את האתר ' האתרים שלי '. הסיבה לכך היא שהדף OneDrive עבור העסק נוצר באתרים שלי.
+כדי לפתור בעיה זו, על מנהל המערכת להעניק למשתמשים את הזכות ליצור את האתר ' האתרים שלי '. הסיבה לכך היא שהדף OneDrive עבור העסק נוצר באתרים שלי.
 
 כדי להעניק זכות זו, בצע את הפעולות הבאות:
 

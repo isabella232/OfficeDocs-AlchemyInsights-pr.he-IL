@@ -1,9 +1,9 @@
 ---
-title: הסיסמה Outlook.com ספרדית
+title: Outlook.com הסיסמה ספרדית
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,15 +11,15 @@ ms.custom:
 - "8000055"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b6c4e5906f42701bcef2e62e6db51184c646b9c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8fb08b3b5034d9cce594b663047570d96149a523
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545908"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745012"
 ---
-# <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a>Cómo iniciar o cerrar sesión en Outlook.com
+# <a name="cmo-iniciar-o-cerrar-sesin-en-outlookcom"></a>מOutlook.com מ, מריו
 
-גו לא puede iniciar sesión en su רפאלי דה correo electrónico דה Outlook.com, Hotmail, חיים, o MSN, o sabe ללא קביעת תצורה sesión של cerrar o iniciar cómo seguridad, [aquí tiene algunas soluciones](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+ובכן, אין בעיה לבטל את הפעולה הזאת באמצעות הOutlook.com, Hotmail, Live, o MSN, או לא מורשה להיות מורשה להיות מעורב [בפתרון מזהה, כגון מסיסות](https://support.office.com/es-es/article/cómo-iniciar-o-cerrar-sesión-en-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)בלתי מורשה.
 
-קביעת תצורה של Si todavía tiene problemas sesión של el דה inicio, vea [Cuando רפאלי su en sesión לא iniciar puede Microsoft דה](https://go.microsoft.com/fwlink/p/?linkid=837479).
+ובכן, הבעיה היא, והוא לא מספק את הרמה הטובה ביותר [של מיקרוסופט](https://go.microsoft.com/fwlink/p/?linkid=837479)בבית המלון.

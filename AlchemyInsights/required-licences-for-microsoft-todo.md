@@ -1,9 +1,9 @@
 ---
-title: הרשיונות הדרושים עבור Microsoft לביצוע
+title: רשיונות דרושים עבור Microsoft המשך
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,50 +13,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552172"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722657"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>הרשיונות הדרושים עבור Microsoft לביצוע
+# <a name="required-licenses-for-microsoft-todo"></a>רשיונות דרושים עבור Microsoft המשך
 
-[הרשיונות הדרושים עבור Microsoft לביצוע](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[רשיונות דרושים עבור Microsoft המשך](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-משתמש חייב להיות אחד מהרשיונות הבאים כדי להשתמש לביצוע של Microsoft:
+על המשתמש להיות בעל אחד מהרשיונות הבאים כדי להשתמש ב-Microsoft:
   
 - Business Essentials
 
 - Business Premium
 
-- Firstline F1 Microsoft 365
+- השורה הראשונה של Microsoft 365 F1
 
-- כל תוכנית Office 365 ארגון
+- כל תוכנית ארגונית 365 של Office
 
-- ביקור פרודוקטיבי מאובטח
+- עסקים יצרניים מאובטחים
 
-- לאבטח E3 ארגון יעיל
+- מאבטח E3 ארגוני מועיל
 
-- לאבטח E5 ארגון יעיל
+- E5 מאובטח של ארגונים יצרניים
 
-- כל תוכנית Office 365 השכלה
+- כל תוכנית החינוך של Office 365
 
-- A3 Microsoft 365
+- מיקרוסופט 365 A3
 
-- A5 Microsoft 365
+- מיקרוסופט 365 A5
 
-בנוסף רשיון מוצר חוקי, אחת מהגירסאות הבאות של Exchange Online הדרוש לביצוע שניתן יהיה לסנכרן נתוני משתמש:
+בנוסף לרשיון מוצר חוקי, דרושה אחת מהגירסאות הבאות של Exchange Online כדי שתוכל לבצע סינכרון של נתוני משתמש:
   
-- Exchange Online תוכנית 1
+- תוכנית מקוונת של Exchange 1
 
 - תוכנית מקוונת של Exchange 2
 
-- יסודות Exchange
+- יסודות החליפין
 
-- Exchange Online קיוסק
+- החלפת קיוסק אונליין
 
-- Exchange Online POP
+- המרת מקוון POP
 
-[הקצאת רשיונות לחשבונות משתמשים עם Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[הקצאת רשיונות לחשבונות משתמשים באמצעות Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   
