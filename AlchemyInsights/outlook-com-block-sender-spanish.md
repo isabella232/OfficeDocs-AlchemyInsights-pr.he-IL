@@ -1,9 +1,9 @@
 ---
-title: השולחים החסומים ב- Outlook.com - ספרדית
+title: שולחי בלוק בOutlook.com-ספרדית
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: 01b8a14bf11a6b32b806997911bb99e8ff45ba5e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 00cd42649e62908dc55d8ce45ec311b07d76286f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537804"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717599"
 ---
-# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a><span data-ttu-id="7f7ec-102">Bloquear o desbloquear remitentes en Outlook.com</span><span class="sxs-lookup"><span data-stu-id="7f7ec-102">Bloquear o desbloquear remitentes en Outlook.com</span></span>
+# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a><span data-ttu-id="d539d-102">העברות כתמים בOutlook.com</span><span class="sxs-lookup"><span data-stu-id="d539d-102">Bloquear o desbloquear remitentes en Outlook.com</span></span>
 
-<span data-ttu-id="7f7ec-103">Puede bloquear לוס mensajes דה לאס direcciones דה correo electrónico específica o dominio llegue a la entrada דה Bandeja.</span><span class="sxs-lookup"><span data-stu-id="7f7ec-103">Puede bloquear los mensajes de las direcciones de correo electrónico específica o dominio llegue a la Bandeja de entrada.</span></span> <span data-ttu-id="7f7ec-104">Cuando agrega una dirección דה correo electrónico o un dominio a la bloqueados של remitentes דה-משתנהרשימה, Outlook.com mueve automáticamente לוס mensajes דה ese remitente a la carpeta correo electrónico deseado לא.</span><span class="sxs-lookup"><span data-stu-id="7f7ec-104">Cuando agrega una dirección de correo electrónico o un dominio a la lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese remitente a la carpeta correo electrónico no deseado.</span></span>
+<span data-ttu-id="d539d-103">מלון זה מהווה מלון מיוחד הנמצא במרחק של כ-"בנדיג'ה", במרחק של שלוש שלוש.</span><span class="sxs-lookup"><span data-stu-id="d539d-103">Puede bloquear los mensajes de las direcciones de correo electrónico específica o dominio llegue a la Bandeja de entrada.</span></span> <span data-ttu-id="d539d-104">המלון מבטל את העברות הנוסעים באמצעות מרכז העברות והשכרת מוסיקה מבית המלון, והוא מהווה הסכם לינה בלתי-מOutlook.com של האצטדיון הבינלאומי.</span><span class="sxs-lookup"><span data-stu-id="d539d-104">Cuando agrega una dirección de correo electrónico o un dominio a la lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese remitente a la carpeta correo electrónico no deseado.</span></span>
 
-<span data-ttu-id="7f7ec-105">פיסקה aprender más leer [Ayudar correo el mantener לא correo el y deseado לא entrada דה deseado fuera bandeja de la Outlook.com דה](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7f7ec-105">Para aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="d539d-105">[הפרה-הmantener אל-כרוב באנדג'ה דה לה בנדיז'ה דה מOutlook.com הוא מלון מהודר](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="d539d-105">Para aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
