@@ -1,29 +1,29 @@
 ---
-title: תוכנית ההתקנה של office 365 הגנה מפני איום מתקדם (ATP)
+title: כיוונון הגנת האיום המתקדם של Office 365 (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 8dde7236bdee2bd0b83087282ff32b32af8bae30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dfd6e900bc364699c7c19bda795408d87ccb4333
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419909"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761671"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 איום מתקדם הגנה (ATP)
+# <a name="office-365-advanced-threat-protection-atp"></a>הגנת האיום המתקדם של Office 365 (ATP)
 
-ATP office 365 כולל [מסמכים מצורפים בטוחים](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [קישורים בטוח](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [ואנטי-דיוג וכלה מתקדם](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)ועוד. 
+Office 365 ATP כולל [קבצים מצורפים בטוחים](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [קישורים בטוחים](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [תוכנות נגד דיוג מתקדמות](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)ועוד. 
 
-ATP נכללת מנויים, כגון Office 365 ארגון E5, A5 השכלה של Office 365 עסקיים 365 של Microsoft. אם המנוי שלך אינו כולל ATP, באפשרותך לרכוש העלול ATP כ הרחבה. לקבלת מידע נוסף, ראה [תיאור שירות ATP של Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+ATP נכלל במנויים, כגון Office 365 Enterprise E5, Office 365 השכלה A5 ו-Microsoft 365 Premium Business. אם המנוי שלך אינו כולל את ATP, באפשרותך לרכוש ATP כהרחבה. כדי ללמוד עוד, עיין [בתיאור השירות של Office 365 ATP](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
-## <a name="set-up-office-365-atp"></a>הגדר את Office 365 ATP
+## <a name="set-up-office-365-atp"></a>הגדרת Office 365 ATP
 
-לקבלת הגנה ATP תיכנס לתוקף, עליך להגדיר מדיניות. עיין [המדריך להתחלה מהירה: הגדרת הגנה איום מתקדם של Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+כדי שההגנה של ATP תהיה בתוקף, עליך לקבוע את תצורת פריטי המדיניות. ראה [מדריך התחלה מהירה: הגדר את הגנת האיום המתקדם של Office 365](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

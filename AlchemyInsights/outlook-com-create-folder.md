@@ -1,9 +1,9 @@
 ---
-title: צור תיקיה ב- Outlook.com
+title: יצירת תיקיה ב-Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "219"
 - "8000009"
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: d759ce00e47206d0d58bae771c962b408595416c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 01f2cb481f155e4e9ca958560aad96956b03c376
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536940"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760449"
 ---
-# <a name="create-a-folder-in-outlookcom"></a>צור תיקיה ב- Outlook.com
+# <a name="create-a-folder-in-outlookcom"></a>יצירת תיקיה ב-Outlook.com
 
-1. בחלק התחתון של חלונית התיקיות, בחר את **התיקיה החדשה**. ייתכן שיהיה עליך לגלול למטה בחלונית התיקיות כדי לראות את לחצן **תיקיה חדשה** .
+1. בתחתית חלונית התיקיות, בחר **תיקיה חדשה**. ייתכן שיהיה עליך לגלול מטה בחלונית התיקיות כדי לראות את לחצן **התיקיה החדשה** .
 2. בתיבת הטקסט, הזן שם עבור התיקיה ולאחר מכן הקש Enter.
 
-לקבלת מידע נוסף, ראה [יצירת תיקיה ב- Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+כדי ללמוד עוד, ראה [יצירת תיקיה ב-Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).

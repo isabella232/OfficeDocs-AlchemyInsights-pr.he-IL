@@ -1,9 +1,9 @@
 ---
-title: כיצד לרכוש Office 365 עבור רווחים שאינם
+title: כיצד לרכוש משרד 365 לעמותות
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/21/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: ac35c253b326e94a21d176d6e439c548b5ea88a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389973"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763542"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>כיצד לרכוש Office 365 עבור רווחים שאינם
+# <a name="how-to-purchase-office-365-for-non-profits"></a>כיצד לרכוש משרד 365 לעמותות
 
-את זכאותך בשם ארגון שאינו למטרת רווח מלא של Microsoft היא תחת סקירה. אתה יכול לצפות לקבל הודעה על קביעת הזכאות שלך לפני הניסיון יפוג. באפשרותך לעקוב אחר המצב של היישום שלך [כאן](http://eligibilityweb.azurewebsites.net/).
+הזכאות שלך כארגון ללא מטרות רווח של Microsoft נמצאת בסקירה. אתה יכול לצפות לקבל הודעה על קביעת זכאותך לפני שהמשפט יפוג. באפשרותך לעקוב אחר מצב היישום [כאן](https://eligibilityweb.azurewebsites.net/).

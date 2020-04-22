@@ -1,9 +1,9 @@
 ---
-title: פתרון בעיות מדיניות Intune ופרופילים
+title: פתרון בעיות במדיניות ובפרופילים של Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533628"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766674"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>פתרון בעיות מדיניות Intune ופרופילים
+# <a name="troubleshooting-intune-policy-and-profiles"></a>פתרון בעיות במדיניות ובפרופילים של Intune
 
-כדי לראות את המדיניות הקיימת, לפתור התנגשויות, לסקור את נתוני יומן הרישום ולראות שאלות ובעיות נפוצות, המדריכים שלהלן עשוי לעזור.
+כדי לראות פריטי מדיניות קיימים, פתור בעיות בהתנגשויות, סקירת נתוני יומן רישום וראה שאלות ונושאים נפוצים, ייתכן שהמדריכים הבאים יסייעו.
 
-- [פתרון בעיות של פרופילי Intune ומדיניות](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [פתרון בעיות במדיניות ובפרופילים ב-Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [שאלות, בעיות נפוצות, ופתרונות עם פרופילי Intune ומדיניות של התקן](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [שאלות נפוצות, בעיות ורזולוציות עם מדיניות ופרופילי התקנים בIntune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [לפקח על פרופילים של תצורת התקן ולהציג את ההתנגשויות Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [הצג פרופילי תצורת התקן והצג התנגשויות ב-Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [פתרון בעיות של תאימות ההתקן וגישה מותנה ב- Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [פתרון בעיות תאימות להתקן וגישה מותנית ב-Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [לפקח על מדיניות תאימות ולהציג את ההתנגשויות Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [הצג מדיניות תאימות והצג התנגשויות ב-Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [שלח נתוני יומן רישום Intune לאחסון תכלת הרקיע, רכזות אירוע, או לרשום analytics](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [שלח נתוני יומן רישום Intune לאחסון תכלת, לרכזות אירועים או לניתוח יומן רישום](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-ראו סקירה על כדי [לקבוע את התצורה של התקנים](https://docs.microsoft.com/intune/device-profiles) או [להשתמש בפריטי מדיניות של תאימות](https://docs.microsoft.com/intune/device-compliance-get-started).
+עיין במבט כולל כדי [להגדיר התקנים](https://docs.microsoft.com/intune/device-profiles) או [להשתמש במדיניות תאימות](https://docs.microsoft.com/intune/device-compliance-get-started).

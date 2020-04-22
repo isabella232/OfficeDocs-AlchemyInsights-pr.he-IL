@@ -1,9 +1,9 @@
 ---
-title: מה קורה שלי נתונים ו- access כאשר מסתיימת שלי Office 365 עבור מנוי עסקי?
+title: מה קורה לנתונים ולגישה שלי כאשר ה365 של Microsoft עבור מנוי עסקי מסתיים?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 746f9b1553336e66f0c2bcb9e59b75e49b41d3b0
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531252"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766206"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>מה קורה שלי נתונים ו- access כאשר מסתיימת שלי Office 365 עבור מנוי עסקי?
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>מה קורה לנתונים ולגישה שלי כאשר ה365 של Microsoft עבור מנוי עסקי מסתיים?
 
-אם קצות מנוי Office 365 שלך — משום פג תוקפו, או משום תחליט לבטל — הגישה שלך נתוני לקוחות, יישומים ושירותים של Office 365 לעבור מספר מצבים לפני המנוי כבוי לחלוטין, או *deprovisioned*  . אם אתה מודע התקדמות זה, יהיה טוב יותר כשהוא מצויד להחזיר את המנוי שלך למצב פעיל לפני שיהיה מאוחר מדי, או – אם אתה עוזב Office 365-גבה את הנתונים לפני שהיא נמחקת בסופו של דבר.
+אם המנוי שלך מסתיים-מאחר שתוקפה פג, או מאחר שהחלטת לבטל — הגישה שלך לשירותים, ליישומים ולנתוני לקוחות עוברת דרך מצבים מרובים לפני שהמנוי מבוטל לגמרי, או *הקצאת* מידע. אם אתה מודע להתקדמות זו, תהיה מצויד טוב יותר להחזיר את המנוי שלך למצב פעיל לפני שיהיה מאוחר מדי, או — אם אתה עוזב את Microsoft — גבה את הנתונים שלך לפני שיימחק בסופו של דבר.
   
-לפני המנוי למעשה מגיע תאריך התפוגה שלו, יש לך מספר אפשרויות **ניהול חוזרת לחיוב עבור המנוי**.
+לפני שהמנוי למעשה מגיע לתאריך התפוגה שלו, עומדות בפניך מספר אפשרויות **לניהול חיובים חוזרים עבור המנוי**.
   
-- אם **מחזורי חיוב** כבר מופעלת, אין צורך לבצע כל פעולה. המנוי שלך תחויב בתאריך **מחזורי חיוב** שלה ולאחר והמועד עבור שנת נוספים או חודש, בהתאם תדירות תשלום הנוכחי שלך. אם מסיבה כלשהי כיבית **חוזרת לחיוב** , באפשרותך תמיד [הפעלה חוזרת חיוב בחזרה](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- אם **החיוב החוזר** כבר מופעל, אינך חייב לנקוט בפעולה כלשהי. המנוי שלך יחויב בתאריך **החיוב החוזר** שלו, ותחויב במשך שנה או חודש נוספים, בהתאם לתדירות התשלום הנוכחית. אם מסיבה כלשהי הפכת את **החיוב החוזר** להיות מבוטל, באפשרותך תמיד [להפעיל בחזרה את החיוב](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on)החוזר.
 
-- אם אתה לקוח רישוי קבוצתי פתוח עם מנוי ששולמו מראש, שנה אחת, צור קשר עם השותף שלך לרכוש מפתח מוצר חדש. תקבל הוראות באמצעות דואר אלקטרוני כדי להפעיל את המפתח ב [מרכז השירות לרישוי קבוצתי](https://go.microsoft.com/fwlink/p/?LinkID=282016). כדי ללמוד כיצד למצוא שותף חדש, או שותף שעבדת בעבר, ראה [חיפוש שותף Office 365 או המשווק שלך](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
+- אם אתה לקוח של רישוי קבוצתי פתוח עם מנוי משולם מראש בשנה אחת, פנה לשותף שלך כדי לרכוש מפתח מוצר חדש. תקבל הוראות באמצעות דואר אלקטרוני כדי להפעיל את המפתח שלך [במרכז שירות רישוי הדיסק](https://go.microsoft.com/fwlink/p/?LinkID=282016). כדי ללמוד כיצד למצוא שותף חדש, או את השותף שעבדת איתו בעבר, ראה [איתור השותף או המשווק של Microsoft 365](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).
