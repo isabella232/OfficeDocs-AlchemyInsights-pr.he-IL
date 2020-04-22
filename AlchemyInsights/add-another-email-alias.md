@@ -3,7 +3,7 @@ title: הוסף כינוי דואר אלקטרוני נוסף
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737334"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708520"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a><span data-ttu-id="baed8-102">יצירה או הוספה של כינוי דואר אלקטרוני עבור משתמש</span><span class="sxs-lookup"><span data-stu-id="baed8-102">Create or add an email alias for a user</span></span>
+# <a name="create-or-add-an-email-alias-for-a-user"></a><span data-ttu-id="901c6-102">יצירה או הוספה של כינוי דואר אלקטרוני עבור משתמש</span><span class="sxs-lookup"><span data-stu-id="901c6-102">Create or add an email alias for a user</span></span>
 
-<span data-ttu-id="baed8-103">עליך ליצור כינוי דואר אלקטרוני עבור משתמש או להוסיף כתובת דואר אלקטרוני נוספת?</span><span class="sxs-lookup"><span data-stu-id="baed8-103">Need to create an email alias for a user, or add an additional email address?</span></span> <span data-ttu-id="baed8-104">פשוט בצע שלבים אלה!</span><span class="sxs-lookup"><span data-stu-id="baed8-104">Just follow these steps!</span></span>
+<span data-ttu-id="901c6-103">עליך ליצור כינוי דואר אלקטרוני עבור משתמש או להוסיף כתובת דואר אלקטרוני נוספת?</span><span class="sxs-lookup"><span data-stu-id="901c6-103">Need to create an email alias for a user, or add an additional email address?</span></span> <span data-ttu-id="901c6-104">פשוט בצע שלבים אלה!</span><span class="sxs-lookup"><span data-stu-id="901c6-104">Just follow these steps!</span></span>
   
-1. <span data-ttu-id="baed8-105">במרכז הניהול של Microsoft 365, עבור אל הדף [users](https://go.microsoft.com/fwlink/p/?linkid=834822) , או בחר **משתמשים** \> **פעילים**.</span><span class="sxs-lookup"><span data-stu-id="baed8-105">In the Microsoft 365 admin center, go to the [Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active Users**.</span></span>
+1. <span data-ttu-id="901c6-105">במרכז הניהול של Microsoft 365, עבור אל הדף [users](https://go.microsoft.com/fwlink/p/?linkid=834822) , או בחר **משתמשים** \> **פעילים**.</span><span class="sxs-lookup"><span data-stu-id="901c6-105">In the Microsoft 365 admin center, go to the [Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active Users**.</span></span>
     
-2. <span data-ttu-id="baed8-106">בדף **משתמשים פעילים**, בחר את שם האדם שברצונך לערוך.</span><span class="sxs-lookup"><span data-stu-id="baed8-106">On the **Active Users** page, select the name of the person you want to edit.</span></span> 
+2. <span data-ttu-id="901c6-106">בדף **משתמשים פעילים**, בחר את שם האדם שברצונך לערוך.</span><span class="sxs-lookup"><span data-stu-id="901c6-106">On the **Active Users** page, select the name of the person you want to edit.</span></span> 
     
-3. <span data-ttu-id="baed8-107">בצד שמאל, בשורה **שם משתמש / כינויי דואר אלקטרוני**, בחר **ערוך**.</span><span class="sxs-lookup"><span data-stu-id="baed8-107">On the right, in the **Username / Email Aliases** row, choose **Edit**.</span></span>
+3. <span data-ttu-id="901c6-107">בצד שמאל, בשורה **שם משתמש / כינויי דואר אלקטרוני**, בחר **ערוך**.</span><span class="sxs-lookup"><span data-stu-id="901c6-107">On the right, in the **Username / Email Aliases** row, choose **Edit**.</span></span>
     
-4. <span data-ttu-id="baed8-p102">בתיבה **כינוי**, הקלד כתובת דואר אלקטרוני חדשה ולאחר מכן בחר **הוסף**. אם רכשת את המנוי מ- GoDaddy או משותף אחר, כדי להגדיר את הכינוי החדש ככינוי ראשי, עליך לעבור אל מסוף הניהול של GoDaddy/השותף.</span><span class="sxs-lookup"><span data-stu-id="baed8-p102">In the **Alias** box, type a new email, then choose **Add**. If you purchased your subscription from GoDaddy or another Partner, to set the new alias as the primary, you must go to the GoDaddy/partner management console.</span></span> 
+4. <span data-ttu-id="901c6-p102">בתיבה **כינוי**, הקלד כתובת דואר אלקטרוני חדשה ולאחר מכן בחר **הוסף**. אם רכשת את המנוי מ- GoDaddy או משותף אחר, כדי להגדיר את הכינוי החדש ככינוי ראשי, עליך לעבור אל מסוף הניהול של GoDaddy/השותף.</span><span class="sxs-lookup"><span data-stu-id="901c6-p102">In the **Alias** box, type a new email, then choose **Add**. If you purchased your subscription from GoDaddy or another Partner, to set the new alias as the primary, you must go to the GoDaddy/partner management console.</span></span> 
     
-    <span data-ttu-id="baed8-p103">**חשוב**: אם מוצגת הודעת השגיאה " **לא ניתן למצוא פרמטר שמתאים לשם הפרמטר EmailAddresses**", המשמעות היא שנדרש מעט יותר זמן להשלמת הגדרת הדייר שלך ב- Office 365, או התחום המותאם אישית שלך, אם הוספת תחום כזה לאחרונה . ייתכן שיידרשו עד 4 שעות להשלמת תהליך ההגדרה. המתן לפי הצורך, עד שתהליך ההגדרה יושלם, ולאחר מכן נסה שוב. אם הבעיה נמשכת, התקשר לתמיכה. אנשי התמיכה יבצעו סינכרון מלא עבורך.</span><span class="sxs-lookup"><span data-stu-id="baed8-p103">**IMPORTANT**: If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Office 365 to finish setting up your tenant, or your custom domain if you recently added one. The setup process can take up to 4 hours to complete. Wait a while so the set up process has time to finish, and then try again. If the problem persists, call Support and they will do a full sync for you.</span></span>
+    <span data-ttu-id="901c6-110">**חשוב**: אם אתה מקבל את הודעת השגיאה " **אין אפשרות למצוא פרמטר התואם לשם פרמטר" emailaddresses**"זה אומר שהוא לוקח קצת יותר זמן כדי ש-Microsoft תסיים להגדיר את הדייר שלך, או את התחום המותאם אישית שלך אם הוספת לאחרונה אחד.</span><span class="sxs-lookup"><span data-stu-id="901c6-110">**IMPORTANT**: If you get the error message " **A parameter cannot be found that matches parameter name 'EmailAddresses**" it means that it's taking a bit longer for Microsoft to finish setting up your tenant, or your custom domain if you recently added one.</span></span> <span data-ttu-id="901c6-111">תהליך ההתקנה יכול להימשך עד 4 שעות להשלמת הפעילות.</span><span class="sxs-lookup"><span data-stu-id="901c6-111">The setup process can take up to 4 hours to complete.</span></span> <span data-ttu-id="901c6-112">המתן זמן רב כדי שתהליך ההגדרה יהיה מועד לסיום ולאחר מכן נסה שוב.</span><span class="sxs-lookup"><span data-stu-id="901c6-112">Wait a while so the set up process has time to finish, and then try again.</span></span> <span data-ttu-id="901c6-113">אם הבעיה נמשכת, התקשר לתמיכה והם יעשו סינכרון מלא עבורך.</span><span class="sxs-lookup"><span data-stu-id="901c6-113">If the problem persists, call Support and they will do a full sync for you.</span></span>
     
-    <span data-ttu-id="baed8-114">לרוב יחלפו כ- 30 דקות עד שהכינוי החדש ייכנס לתוקף.</span><span class="sxs-lookup"><span data-stu-id="baed8-114">It usually takes about 30 minutes for the new alias to take effect.</span></span>
+    <span data-ttu-id="901c6-114">לרוב יחלפו כ- 30 דקות עד שהכינוי החדש ייכנס לתוקף.</span><span class="sxs-lookup"><span data-stu-id="901c6-114">It usually takes about 30 minutes for the new alias to take effect.</span></span>
     
-    <span data-ttu-id="baed8-115">**לפרטים נוספים, ראה מאמר זה:** [הוספת כינוי דואר אלקטרוני נוסף למשתמש](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)</span><span class="sxs-lookup"><span data-stu-id="baed8-115">**For more details, see this article:** [Add another email alias for a user](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)</span></span>
+    <span data-ttu-id="901c6-115">**לפרטים נוספים, ראה מאמר זה:** [הוספת כינוי דואר אלקטרוני נוסף למשתמש](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)</span><span class="sxs-lookup"><span data-stu-id="901c6-115">**For more details, see this article:** [Add another email alias for a user](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)</span></span>
     
 
