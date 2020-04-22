@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745434"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719305"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>הצעדים המומלצים שיש לנקוט אם חשבון נחשף לסכנה
 
-[וידאו: תיקון חשבון של Office 365 שנחשף לסכנה](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[וידאו: תיקון חשבון שנחשף לסכנה](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [אפס את סיסמת המשתמש](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) באופן מיידי. אל תמסור את הסיסמה החדשה למשתמש הקצה בדואר אלקטרוני.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745434"
 
 5. הסר את חשבון המשתמש מכל [קבוצת תפקידים ניהוליים](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) עד שתהיה בטוח שהחשבון אינו חשוף עוד לסכנה.
 
-כדי למזער את הפוטנציאל של הפרת נתונים או חשיפת חשבון לסכנה בעתיד, מומלץ לקרוא את [מפת הדרכים שלנו לאבטחה ב- Office 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+כדי למזער את הפוטנציאל של הפרת נתונים או חשיפת חשבון לסכנה בעתיד, מומלץ לקרוא את [מפת הדרכים שלנו לאבטחה ב- Microsoft 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   
