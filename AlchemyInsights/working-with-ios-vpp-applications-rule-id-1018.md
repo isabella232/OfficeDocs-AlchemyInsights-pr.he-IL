@@ -1,8 +1,8 @@
 ---
-title: עבודה עם iOS VPP יישומים כלל מזהה 1018
+title: עבודה עם iOS VPP חוק כלל מזהה 1018
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: a0bbc1f49f251ef4f16300c8cca98e219008d17e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557997"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719958"
 ---
-# <a name="working-with-ios-vpp-applications"></a>עבודה עם iOS יישומים VPP
+# <a name="working-with-ios-vpp-applications"></a>עבודה עם iOS VPP יישומים
 
-קרא [כיצד לנהל יישומים iOS שנרכשו באמצעות תוכנית רכישה בכמות עם Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) כדי ללמוד אודות התכונות, אילוצים השלבים כדי להפוך להשתמש של תוכנית רכישה של אמצעי האחסון תפוח ותמיכה עבור אותו ב- Microsoft Intune.
+קרא [כיצד לנהל את האפליקציות iOS שנרכשו באמצעות תוכנית לרכישת אמצעי אחסון עם Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) כדי ללמוד אודות תכונות, אילוצים, ושלבים כדי לעשות שימוש בתוכנית הרכישה של אפל נפח ותמיכה עבור אותו ב-Microsoft Intune.
   
- **בעיות נפוצות:** "להקצות יישום VPP iOS המשתמשים שלי, אך ההתקנה נכשלה".
+ **סוגיות נפוצות:** "הוצבתי app VPP iOS למשתמשים שלי, אבל ההתקנה נכשלה."
   
-- הדבר יכול לקרות אם נעשה שימוש ב- token VPP יחיד על-פני מספר ספקים ניהול של מכשיר נייד. ניתן להשתמש באסימונים VPP מ- Apple רק עם ספק אחד. אם השתמשת אסימון VPP עם ספקים מרובים, עליך לטעון מחדש את האסימון כדי Intune.
+- הדבר עלול לקרות אם אסימון VPP יחיד משמש באמצעות מספר ספקי ניהול התקנים ניידים מרובים. אסימוני VPP מ-Apple יכולים לשמש רק עם ספק אחד. אם השתמשת באסימון VPP עם ספקים מרובים, עליך להעלות מחדש את האסימון ל-Intune.
 
-- ההתקנה עלול להיכשל גם אם המספר הכולל של התקנות לחרוג ממספר הרשיונות. כדי להציג של הדוח שימוש עבור הרישיונות שלך, עבור אל **apps ניידים Intune** \> דף **רשיונות App** . כדי ללמוד כיצד לפנות רשיונות בשימוש, עיין [מאמר זה.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- ההתקנה יכולה גם להיכשל אם המספר הכולל של ההתקנות חורג ממספר הרשיונות. כדי להציג דוח שימוש עבור הרשיונות שלך, עבור אל דף \> **היישומים Intune Mobile** **App** . כדי ללמוד כיצד להשיב רישיונות בשימוש, עיין [במאמר זה.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
