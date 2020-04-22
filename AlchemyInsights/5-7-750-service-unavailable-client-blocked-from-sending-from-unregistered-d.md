@@ -1,9 +1,9 @@
 ---
-title: 1048 5.7.750 השירות אינו זמין. הלקוח יכול לשלוח מתחומים לא רשומים
+title: 1048 5.7.750 השירות אינו זמין. לקוח נחסם משליחת מתחומים לא רשומים
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 7126b4de7f7d8861afdb22af2540d6910c1d014f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48b9c2de27f8d7f52215c3a3d547bdf746a3a4cd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494456"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676714"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 לקוח חסומה שליחת מתחום לא רשומים
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 לקוח שנחסם משליחת מתחום לא רשום
 
-השגיאה מתרחשת כאשר גדול נפח הודעות נשלחות מתחומים אשר אינם הוקצו משאבים ב- Office 365 (להוסיף כ תחומים מקובלים ואומתו).
+השגיאה מתרחשת כאשר כמות גדולה של הודעות נשלחת מתחומים שאינם מוקצים בדייר שלך (נוספים כתחומים מקובלים ומאומתים).
 
-כדי למנוע שגיאה זו, באפשרותך להשתמש מחבר זרימת דואר מבוסס-אישור שבה התחום של האישור תחום הקצאת משאבים, או באפשרותך להקצות כל התחומים השולח.
+כדי למנוע שגיאה זו, באפשרותך להשתמש במחבר זרימת דואר המבוסס על אישור שבו תחום האישור הוא תחום אספקה, או שבאפשרותך להקצות את כל קבוצות המחשבים השולחים.

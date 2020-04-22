@@ -1,8 +1,8 @@
 ---
-title: קוד שגיאה 30125-4 או 30125-מהמגבלה של 1011 בעת התקנת Office
+title: קוד שגיאה 30125-4 או 30125-1011 בעת התקנת Office
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: e57c0c5fd35f54c6fff70965e0010f3d013a8fe7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4853344968d0516e975cb71c5a92d070bdc454cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527090"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703063"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>קוד שגיאה 30125-4 או 30125-מהמגבלה של 1011 בעת התקנת Office
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>קוד שגיאה 30125-4 או 30125-1011 בעת התקנת Office
 
-ייתכן שתראה שגיאה זו אם תוכנת האנטי-וירוס שלך, חומת האש, הגדרות ה-proxy או חיבור למנוע התקנת Office. להלן כמה פעולות שבאפשרותך לנסות כדי לפתור את הבעיה:
+ייתכן שתראה שגיאה זו אם תוכנת האנטי-וירוס, חומת האש, הגדרות ה-proxy או החיבור שלך ימנעו ממך להתקין את Office. להלן מספר פעולות שבאפשרותך לנסות לפתור את הבעיה:
   
-- הפעל מחדש את המחשב ולהתקין מחדש את Office
+- הפעל מחדש את המחשב והתקן מחדש את Office
 
-- להתקין את Office באמצעות [המתקין לא מקוונים ב- Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- התקנת Office באמצעות [המתקין הלא מקוון של Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- לבטל באופן זמני את הגדרות ה-proxy
+- ביטול זמני של הגדרות proxy
 
 - ביטול זמני של תוכנת אנטי-וירוס
 
-- בטל באופן זמני את חומת האש
+- ביטול זמני של חומת אש
 
-לקבלת מידע נוסף ראה את [קוד השגיאה 30125-4 או 30125-מהמגבלה של 1011 בעת התקנת Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
+לקבלת מידע נוסף, ראה [קוד שגיאה 30125-4 או 30125-1011 בעת התקנת Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   

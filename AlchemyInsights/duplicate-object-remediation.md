@@ -1,9 +1,9 @@
 ---
-title: תיקונים לשכפל אובייקט 1314
+title: 1314 התיקון של עצמים כפולים
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: a37114097dbe7e3a3c8c13e9ddc53dc5c6b24a78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 138ba305b872e8c0508ba673fb59324672d14997
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529425"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703968"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>שגיאות סינכרון אובייקטים כפולים
+# <a name="duplicate-object-synchronization-errors"></a>שכפול של שגיאות סינכרון אובייקטים
 
-אם תקבל אחת מהודעות השגיאה הבאות במהלך הסינכרון:
+אם תקבל אחת מהשגיאות הבאות במהלך סינכרון:
 
-- אובייקט מסונכרן עם אותה כתובת proxy כבר קיים בספריה שלך השירותים המקוונים של Microsoft.
+- אובייקט מסונכרן עם אותה כתובת proxy קיים כבר בספריה ' שירותים מקוונים של Microsoft '.
 
-- הודעה דומה עבור UserPrincipalName.
+- הודעה דומה למשתמש הפריפרישם.
 
-השתמש תקינות AADConnect חדש מאבחן כדי לפתור שגיאות אובייקטים כפולים. לקבלת מידע נוסף, ראה [אבחן ו תיקון שגיאות סינכרון תכונה כפולה](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+השתמש באבחון התקינות החדש של AADConnect כדי לפתור שגיאות של אובייקטים כפולים. לקבלת מידע נוסף, ראה [אבחון ותיקון של שגיאות סינכרון של תכונות כפולות](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).

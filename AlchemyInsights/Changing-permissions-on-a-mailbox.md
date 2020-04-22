@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734382"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692514"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>שינוי הרשאות בתיבת דואר
 
-אם משתמשים זקוקים לגישה לתיבות דואר של Office 365 שאינן שלהם, יש לקבל הרשאות לעבודה עם תיבות דואר אלה. אופן הקצאת הרשאות אלה תלוי בסוג תיבת הדואר. אם משתמשים זקוקים לגישה אל:
+אם משתמשים זקוקים לגישה לתיבות דואר שאינן שלהם, יש לקבל הרשאות לעבודה עם תיבות דואר אלה. אופן הקצאת הרשאות אלה תלוי בסוג תיבת הדואר. אם משתמשים זקוקים לגישה אל:
   
-- תיבות דואר של משתמשים אחרים-נא ראה הצגת [הרשאות תיבת דואר למשתמש אחר ב-Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- תיבות דואר של משתמשים אחרים-נא ראה הצגת [הרשאות תיבת דואר למשתמש אחר](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
 - תיבת דואר משותפת-נא ראה [הוספה או הסרה של חברים מתיבת דואר משותפת](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     

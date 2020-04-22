@@ -1,9 +1,9 @@
 ---
-title: 1245-ייבוא PST-שירותים
+title: 1245-ייבוא-PST-שירותים
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496349"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687763"
 ---
-# <a name="office-365-import-service"></a>שירות ייבוא של office 365
+# <a name="microsoft-365-import-service"></a>שירות ייבוא של Microsoft 365
 
-שירות ייבוא של Office 365 מאפשר לך הייבוא בצובר קבצי PST מרובים לתיבות דואר של Exchange Online.
+שירות הייבוא של Microsoft 365 מאפשר לך לייבא בצובר קבצי PST מרובים לתיבות דואר מקוונות של Exchange Online.
 
-כדי לגשת לשירות ייבוא ולהתחיל את תהליך הייבוא:
+כדי לגשת לשירות ' ייבוא ' ולהתחיל בתהליך הייבוא:
 
-1. עבור אל [& אבטחה מרכז תאימות](https://protection.office.com) ולחץ להיכנס באמצעות האישורים עבור חשבון מנהל מערכת בארגון Office 365.
+1. עבור אל [האבטחה _ אמפר _ מרכז התאימות](https://protection.office.com) והיכנס באמצעות האישורים עבור חשבון מנהל מערכת בארגון שלך.
 
-2. בחלונית הימנית של **& אבטחה מרכז תאימות**, לחץ על **> התנהלות נתוני הייבוא**.
+2. בחלונית הימנית של **האבטחה _ אמפר _ מרכז התאימות**, לחץ על **ממשל נתונים _ הייבוא**.
 
-3. בדף ' **ייבוא** ', לחץ על **משימת ייבוא חדש**.
+3. בדף ' **ייבוא** ', לחץ על **משימת ייבוא חדשה**.
 
-4. כדי להשלים את השלבים באשף, נא בצע אלה [הוראות שלב אחר שלב](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. כדי להשלים את השלבים באשף, אנא בצע את [ההוראות](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)הבאות שלב אחר שלב.
 
-**חשוב**: כדי לגשת לדף **הייבוא** ב- & אבטחה מרכז תאימות, להיות הקצית [ההרשאות המתאימות](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**חשוב**: כדי לגשת לדף **הייבוא** במרכז התאימות של אבטחה _ amp_, יוקצה לך [ההרשאות המתאימות](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-אם ברצונך לייבא PST לתיבת הדואר שלך, עיין [במאמר זה](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+אם אתה רק רוצה לייבא PST לתיבת הדואר שלך, לראות [את המאמר הזה](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

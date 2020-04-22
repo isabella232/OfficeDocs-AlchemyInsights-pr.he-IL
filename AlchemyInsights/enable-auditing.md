@@ -1,5 +1,5 @@
 ---
-title: יומן הביקורת לזמינה וחיפוש
+title: הפעלה וחיפוש של יומן ביקורת
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665077"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703644"
 ---
-# <a name="enable-and-search-the-audit-log"></a>אפשר ולחפש יומן הביקורת
+# <a name="enable-and-search-the-audit-log"></a>הפיכת יומן הביקורת לזמין ולחיפוש
 
-**Office 365**
+**Microsoft 365**
 
-כדי לחפש את יומן הביקורת של Office 365, בצע את [הפעולות הבאות](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+כדי לחפש ביומן הביקורת של Microsoft 365, בצע את [הפעולות הבאות](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Exchange**
 
-- כברירת מחדל, פעילויות הניהול של Exchange יעברו ביקורת.
+- פעילויות ניהול Exchange מבוקרים כברירת מחדל.
 
-- ביקורת של תיבת דואר זמינה כברירת מחדל ב- Office 365. לקבלת מידע נוסף, עיין [במאמר זה](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- ביקורת תיבת דואר מאופשרת כברירת מחדל ב-Microsoft 365. לקבלת מידע נוסף, עיין [במאמר זה](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- תיבות דואר של קבוצת office 365 ותיבות דואר של התיקייה הציבורית ב- Exchange Online אינם תומכים רישום ביקורת.
+- תיבות דואר של Office 365 ותיבות דואר של תיקיות ציבוריות ב-Exchange Online אינן תומכות ברישום ביקורת.
 
-**SharePoint ו- OneDrive**
+**SharePoint ו-OneDrive**
 
-- אין תצורה נוספת הדרושה כדי לאפשר ביקורת עבור SharePoint ו- OneDrive.
+- אין צורך בקביעת תצורה נוספת כדי לאפשר ביקורת עבור SharePoint ו-OneDrive.
 
-- SharePoint OneDrive ותמיכה ביקורת סוגי הפעילויות הבאות:
+- ביקורת תמיכה של SharePoint ו-OneDrive בסוגי הפעילויות הבאים:
 
-    - קובץ, תיקיה ופעילויות דף
-    - פעילויות בקשת שיתוף וגישה
-    - פעילויות ניהול אתר
-    - פעילויות סינכרון קובץ
+    - פעילויות קובץ, תיקיה ועמוד
+    - שיתוף וגישה לפעילויות בקשה
+    - פעילויות ניהול האתר
+    - פעילויות סינכרון קבצים
 
-- לקבלת מידע אודות פעילויות מבוקר בשירותים אחרים של Office 365, עיין [בטבלה במאמר זה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- לקבלת מידע אודות פעילויות שעברו ביקורת בשירותים אחרים, עיין [בטבלה במאמר זה](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- להלן רשימה של שאלות נפוצות [שאלות נפוצות](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) אודות חיפוש יומן הביקורת.
+- להלן רשימה של שאלות נפוצות אודות [שאלות](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) נפוצות אודות חיפוש ביומן הביקורת.

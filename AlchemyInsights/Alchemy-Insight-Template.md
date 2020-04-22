@@ -3,7 +3,7 @@ title: זהה לשם הקובץ הטוב ביותר
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
-ms.date: 4/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 31a578800468e9f3a69fff4f6e2e1945943c779c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "35800046"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676534"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>כותרת האלכימיה הנדרשת H1, H2's לא עובד.
 שיטות עבודה מומלצות והנחיות לעריכת האלכימיה:
@@ -31,7 +31,7 @@ ms.locfileid: "35800046"
 1. לאחר מכן, מלא את גוף הטקסט באמצעות החומר הטיוטה בסעיף ' תובנות לקוחות ' בעמוד ' כלל האלכימיה '
     1. רשימות עם תבליטים הן בסדר
     1. גם רשימות ממוספרות
-    1. **** מודגש *ונטוי* הם בסדר
+    1. **Bold** מודגש *ונטוי* הם בסדר
     1. על הקישורים להיות תמיד **' קישורים לאינטרנט '/' חיצוני ' או '** קישורים עמוקים ' **לרכיבי UI**, לא קישורים פנימיים.
     1. התמונות אינן נתמכות באופן רשמי בשלב זה, אך היא נמצאת במפת הדרכים.
 

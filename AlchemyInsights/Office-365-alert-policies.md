@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661297"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687619"
 ---
-# <a name="office-365-alert-policies"></a>מדיניות התראה של Office 365
+# <a name="alert-policies"></a>מדיניות התראה
 
-מרכז התאימות של Office 365 מציע [מדיניות התראה המהווה ברירת מחדל](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) המפעילות התראות עבור ארגונים עם Office 365 Enterprise או OFFICE 365 ארה ב הממשלה E1/G1, E3/G3, או מנוי E5/ -5. לכן, מנהלים עשויים לקבל הודעת התראה בדוא ל שנשלחה על ידי Office365Alerts@microsoft.com עם שורת נושא כגון "התראה בסיכון נמוך: *שם מדיניות ההתראה*". הודעות התראה נשלחות כאשר התראות מופעלות עבור פעילויות נפוצות, כגון כאשר משתמשים:
+מרכז התאימות של Microsoft 365 _ מספק [מדיניות התראה המהווה ברירת מחדל](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) המפעיל התראות עבור ארגונים עם Office 365 Enterprise או OFFICE 365 ארה ב הממשלה E1/G1, E3/G3, או מנוי E5/ -5. לכן, מנהלים עשויים לקבל הודעת התראה בדוא ל שנשלחה על ידי Office365Alerts@microsoft.com עם שורת נושא כגון "התראה בסיכון נמוך: *שם מדיניות ההתראה*". הודעות התראה נשלחות כאשר התראות מופעלות עבור פעילויות נפוצות, כגון כאשר משתמשים:
 
 - צור כללי תיבת דואר נכנס הנמצאים בדואר אלקטרוני.
 - הקצה הרשאות לתיבת הדואר שלהם.

@@ -1,9 +1,9 @@
 ---
-title: הפעלת Visio
+title: הפעל את Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 50d1fc29ee4eafd6b6bbe0a873684ab471ba8f02
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495428"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43682293"
 ---
-# <a name="activate-visio"></a>הפעלת Visio
+# <a name="activate-visio"></a>הפעל את Visio
 
-לפני משתמש באפשרותך להתקין ולהפעיל את שולחן העבודה Visio שולחן העבודה app הכלולה שלהם Visio מקוון תכנון 2, המשתמש חייב הוקצו [רשיון Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+לפני שהמשתמש יוכל להתקין ולהפעיל את יישום שולחן העבודה של Visio בשולחן העבודה הכלול בתוכנית המקוונת שלהם ב-Visio Online, על המשתמש להיות מוקצה [רשיון Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
 
-**הערה** 1 תכנון מקוון Visio אינו כולל גירסה שולחנית של Visio.
+**שים לב** התוכנית המקוונת של visio לא כוללת גירסת שולחן עבודה של Visio.
 
-להפעלת Visio:
+כדי להפעיל את Visio:
 
-1. התקנת Visio מתוך [הפורטל החשבון שלי](https://portal.office.com/account#installs) אם אינו מותקן כבר. לקבלת עזרה, ראה [התקנת Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
-2. לאחר השלמת ההתקנה, פתח את יישום ה-Visio. Visio להניח יפעיל באופן אוטומטי, באפשרותך להתחיל להשתמש בו מיד. אם לא, ייתכן שתתבקש כדי להיכנס. הקפד להיכנס באמצעות עבודה זהה או חשבון הספר שהוקצתה רשיון Visio. בצע את ההנחיות כדי להמשיך עם ההפעלה. 
+1. התקן את Visio [מפורטל החשבון שלי](https://portal.office.com/account#installs) אם הוא אינו מותקן עדיין. לקבלת עזרה, ראה [התקנת Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. לאחר השלמת ההתקנה, פתח את יישום Visio. ככל הנראה, Visio יופעל באופן אוטומטי ותוכל להתחיל להשתמש בו מיד. אם לא, ייתכן שתתבקש להיכנס. הקפד להיכנס באמצעות אותו חשבון בעבודה או בבית ספר שהוקצה לו רשיון Visio. פעל לפי ההנחיות כדי להמשיך בהפעלה. 
 
-עבור בעיות הפעלה, הפעל את [פותר הבעיות של הפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy) במחשב המושפע.
+עבור בעיות הפעלה, הפעל את [פותר בעיות ההפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy) במחשב המושפע.
 
-לקבלת מידע מפורט, ראה:<br>
-[להפעיל את Office במחשב](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[מנוי, מופיעה בעת פתיחת יישום Office 365](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Office השגיאה "אין אפשרות להשתמש במוצרים מצאנו בחשבון שלך כדי להפעיל את <app>"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[שגיאות לא מורשה של המוצר והפעלה ב- Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+למידע מפורט ראה:<br>
+[הפעל את Office במחשב](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[הודעת מנוי מופיעה בעת פתיחת יישום של Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[שגיאת Office "לא ניתן להשתמש במוצרים שמצאנו בחשבונך כדי <app>להפעיל"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[שגיאות מסוג "מוצר ללא רישיון" ושגיאות הפעלה ב- Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

@@ -1,9 +1,9 @@
 ---
-title: Microsoft זרימה מותאם תמיכה
+title: תמיכה מיוחדת של מיקרוסופט בזרימה
 ms.author: pebaum
 author: pebaum
 manager: mnirke
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: 59cfe196492f90ff18902b8678b4322a0135533c
-ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
+ms.openlocfilehash: 6d40629c1259a78803302d6a23a96b50236561b5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35199238"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698563"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Microsoft זרימה מותאם תמיכה
+# <a name="microsoft-flow-specialized-support"></a>תמיכה מיוחדת של מיקרוסופט בזרימה
 
-לקבלת תמיכה זרימה Microsoft מיוחדות נא עבור אל החדש [מרכז הניהוליים פלטפורמה של צריכת חשמל](https://aka.ms/flowadminsupport). הפורטל החדש מספק נתיב ישיר יותר תמיכה וסיוע ממוטבת עבור Microsoft זרימה ומוצרים אחרים של פלטפורמת צריכת חשמל.
+עבור תמיכה מיוחדת של מיקרוסופט תזרים אנא עבור אל [מרכז הניהול החדש של פלטפורמת הכוח](https://aka.ms/flowadminsupport). הפורטל החדש מספק נתיב ישיר יותר לתמיכה בסיוע המותאם לזרימת Microsoft ולמוצרי פלטפורמת צריכת חשמל אחרים.
 
 למד עוד:
-- [מידע אודות רשיונות Microsoft לזרום חופשי](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [זרימה בארגון שלך, שאלות נפוצות](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Office 365 ו- Dynamics 365 תוכניות הכוללות זרימה של Microsoft](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [זרימה Microsoft וחיוב מדידה שאלות](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [מידע אודות רשיונות זרימה חופשית של Microsoft](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [שאלות נפוצות בנוגע לזרימה בארגון שלך](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [מיקרוסופט 365 ו-Dynamics 365 תוכניות הכוללות את Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [שאלות בנושא חיובים ומדידה של Microsoft תזרים](https://go.microsoft.com/fwlink/?linkid=2072612)

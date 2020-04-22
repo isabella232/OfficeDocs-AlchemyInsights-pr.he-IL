@@ -2,7 +2,7 @@
 title: שגיאה 0-1036 בעת התקנת office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c5e924255f9ed1f39690e5dc0da7857bac68eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527508"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703247"
 ---
 # <a name="error-0-1036-when-installing-office"></a>שגיאה 0-1036 בעת התקנת office
 
-נסה פתרונות אלה כדי לתקן את השגיאה Office 0 1036:
+נסה את הפתרונות הבאים כדי לתקן את שגיאת Office 0-1036:
   
-- הפעלה מחדש של המחשב ולאחר מכן נסה שוב [להתקין את Office](https://portal.office.com/OLS/MySoftware.aspx) .
+- הפעל מחדש את המחשב ונסה שוב [להתקין את Office](https://portal.office.com/OLS/MySoftware.aspx) .
 
-- הורד והתקן את [התמיכה ומסייע השחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- הורד והתקן את [מסייע התמיכה והשחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. כשהוא נפתח, מכל **מוצרי Office להסיר** לבחור את הגירסה שברצונך להסיר, ובחר **הבא**.
+1. כאשר הוא נפתח, מתוך **הסרת התקנה של מוצרי Office** בחר את הגירסה שברצונך להסיר את התקנתה ובחר באפשרות **הבא**.
 
-2. המשך לעבור מסכים והפעל מחדש את המחשב כאשר תתבקש לעשות זאת.
+2. המשך לעבור בין המסכים ולהפעיל מחדש את המחשב כאשר תתבקש לעשות זאת.
 
-    לאחר ההפעלה מחדש, התמיכה ומסייע השחזור פותח באופן אוטומטי מחדש כדי להשלים את תהליך הסרת ההתקנה.
+    לאחר הפעלה מחדש, מסייע התמיכה והשחזור נפתח מחדש באופן אוטומטי כדי להשלים את תהליך הסרת ההתקנה.
 
-3. בצע את שאר ההנחיות, ולהתקין [מחדש את Office](https://portal.office.com/OLS/MySoftware.aspx) או לסגור המסייע.
+3. בצע את ההנחיות הנותרות [והתקן מחדש את Office](https://portal.office.com/OLS/MySoftware.aspx) או סגור את המסייע.
 
-- [השתמש המתקין Office במצב לא מקוון](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) כדי להתקין את Office
+- [השתמש במתקין הלא מקוון של office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) כדי להתקין את Office

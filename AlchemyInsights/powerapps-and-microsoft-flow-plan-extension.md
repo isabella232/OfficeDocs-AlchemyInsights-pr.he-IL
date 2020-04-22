@@ -1,9 +1,9 @@
 ---
-title: 1575-PowerApps וגולש Microsoft לתכנן הרחבה
+title: 1575-יישומי PowerApps והרחבת תוכניות זרימה של Microsoft
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554717"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667030"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>הרחבת תוכנית PowerApps ו- Microsoft זרימה
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>הרחבת תוכניות של PowerApps ותזרים מיקרוסופט
 
-אם אתה מתכוון לבקש סיומת תוכנית עבור **Microsoft זרימה** או **PowerApps** דיירים שלך כבר יש משתמשים פעילים של אחת מהתכונות הבאות, אין צורך בקובץ בקשת תמיכה.
+אם בכוונתך לבקש הרחבת תוכנית עבור **Microsoft Flow** או **powerapps** ולדייר שלך כבר יש משתמשים פעילים באחת מהתכונות הבאות, אין צורך לתייק בקשת תמיכה.
 
-- יצירה ופרסום של מחברים מותאמים אישית ב- PowerApps וב -Microsoft זרימה
-- פעולות מותאמות אישית של HTTP משולב זרימה מחוץ SharePoint ו- OneDrive
-- שילוב של נתונים מקומי דרך השער נתונים מקומי
+- יצירה ופרסום של מחברים מותאמים אישית ב-PowerApps וב-Microsoft Flow
+- פעולות מותאמות אישית של HTTP המשולבות בתוך זרימה מחוץ ל-SharePoint ו-OneDrive
+- שילוב נתונים מקומיים באמצעות שער הנתונים המקומי
 
-הלקוחות עם משתמשים פעילים של תכונות אלה יקבלו הרחבה אוטומטית עד 31 בינואר 2020, או התפוגה שלהם תקופת המנוי הקיים של Office 365, הגדול מבין השניים.
+לקוחות עם משתמשים פעילים של תכונות אלה יקבלו הארכה אוטומטית עד ל-31 בינואר, 2020 או לתאריך התפוגה של תקופת המנוי הקיימת שלהם ב-Microsoft 365, הארוכה ביותר.

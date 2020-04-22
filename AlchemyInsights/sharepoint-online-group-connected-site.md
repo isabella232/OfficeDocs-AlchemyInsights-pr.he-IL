@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770352"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642145"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>בעיות בעת יצירת אתר המחובר לקבוצה ב-SharePoint
 
@@ -26,7 +26,7 @@ ms.locfileid: "41770352"
    - לקבלת מידע נוסף על תחילת התחלת עם Powershell, ראה [תחילת התחלת עם מעטפת ניהול מקוונת של SharePoint](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - הסר את האתר מאתרים שנמחקו באמצעות ה [-Cmdlet Remove-Spodeleאתר](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell. Powershell נדרש כדי למחוק לצמיתות אתרים בקבוצה.
 
-1. אם אתה יוצר אתר מחובר לקבוצה ומקבל אזהרה: **קבוצה אחרת עם אותו כינוי כבר קיימת**, בדוק את הקבוצות הקיימות מ- [Office 365 ממרכז הניהול](https://admin.microsoft.com/AdminPortal/Home#/groups). כדי לפתור את הבעיה, מחק את הקבוצה הקיימת אם אין עוד צורך או צור את האתר עם כינוי אחר שהוקצה.
+1. אם אתה יוצר אתר מחובר לקבוצה ומקבל אזהרה: **קבוצה אחרת עם אותו כינוי כבר קיימת**, בדוק את הקבוצות הקיימות [ממרכז הניהול של Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/groups). כדי לפתור את הבעיה, מחק את הקבוצה הקיימת אם אין עוד צורך או צור את האתר עם כינוי אחר שהוקצה.
 
 1. קיימות דרכים שונות ליצירה ולשימוש בקבוצות מודרניות עם SharePoint.
 

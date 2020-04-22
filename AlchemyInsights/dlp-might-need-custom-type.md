@@ -3,7 +3,7 @@ title: ייתכן שטכנולוגיית DLP זקוקה לסוג מותאם אי
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,16 +13,16 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 87fcb5c3cc9ccd525265097b66d9d9b3a85c5feb
-ms.sourcegitcommit: d108a2da2f5dab05246e30b5108cca5173e09051
+ms.openlocfilehash: b83bb77383e2ae7e78c31f35c972182c54487c60
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42977271"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704490"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>ייתכן שטכנולוגיית DLP זקוקה לסוג מותאם אישית
 
-**חשוב**: במהלך הזמנים חסרי התקדים האלה, אנו נוטלים צעדים כדי להבטיח ששירותי sharepoint online ו-onedrive יישארו זמינים במידה רבה – אנא בקר [בהתאמות התכונות הזמניות של sharepoint online](https://aka.ms/ODSPAdjustments) לקבלת מידע נוסף.
+**חשוב**: בתקופה חסרת תקדים זאת, אנחנו נוקטים בצעדים כדי להבטיח ששירותי SharePoint Online ו- OneDrive יישארו בזמינות גבוהה - לקבלת מידע נוסף, בקר בכתובת[התאמות של תכונה זמנית ב- SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **טכנולוגיית DLP עשויה לדרוש סוג מידע מותאם אישית**
 

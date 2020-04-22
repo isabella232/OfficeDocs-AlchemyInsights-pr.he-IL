@@ -1,9 +1,9 @@
 ---
-title: פריסת צוותים כקובץ עצמאי או עם התקנות Office חדש או קיים
+title: פריסת צוותים כעצמאיים או עם התקנות Office חדשות או קיימות
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
-ms.date: 08/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: 3318e1b17cc99e927e1011f7ca9eca8dec616d59
-ms.sourcegitcommit: 4600dd4fb577bf5f5482a24616c2d9a6b81e8052
+ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054232"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704634"
 ---
-# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>פריסת צוותים כקובץ עצמאי או עם התקנות Office חדש או קיים
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>פריסת צוותים כעצמאיים או עם התקנות Office חדשות או קיימות
 
-צוותים Microsoft היא כעת כלולים כחלק ***התקנות חדשות*** של Office 365 ProPlus, Office 365 עסקיים ו- Office for mac לקבלת מידע נוסף, ראה [כאשר צוותים Microsoft תתחיל הכלולה התקנות חדשות של Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+צוותי microsoft כלולים כעת כחלק ***מהתקנות חדשות*** של Microsoft 365 apps עבור הארגון, Microsoft 365 apps עבור עסקים ו-Office for Mac. לקבלת מידע נוסף, ראה מתי הנתונים של [Microsoft יתחילו להיכלל בהתקנות חדשות של Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-בנוסף, החל ב- 1906 גירסה בערוץ חודשי, צוותים יהיה ***להוסיף התקנות קיימות*** של Office 365 ProPlus (ואביזרי Office 365) במכשירים פועל בעת עדכון ההתקנה הקיימת שלך לגירסה העדכנית ביותר של Windows. לקבלת מידע נוסף, ראה [מה לגבי התקנות קיימות של Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
-
-> [!NOTE]
-> אם אין ברצונך להמתין לוח זמנים זה ההשקה, באפשרותך לפרוס צוותים כקובץ עצמאי עבור המשתמשים שלך על-ידי [ביצוע הוראות אלה](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) או לאפשר למשתמשים להתקין צוותים עבור עצמם מתוך [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).
-
-אם הארגון שלך אינו מוכן לפרוס צוותים, יש לנו את השלבים שבאפשרותך לבצע כדי ***לא לכלול צוותים*** מהתקנות [חדש](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) או [קיים](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) של Office. אם ברצונך לצוותים להיות מותקן, אך אינך מעוניין צוותים להתחיל באופן אוטומטי עבור המשתמש לאחר התקנתו, ראה [צוותים Microsoft מונעת ממנו לפעול באופן אוטומטי לאחר ההתקנה](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
-
-כדי ***להסיר את ההתקנה של צוותים*** מתוך התקן שפועל בו Windows, ראה [הסרת התקנה צוותים Microsoft](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). ניקוי לצוותים Microsoft במחשבי יעד מרובים או משתמשים, ראה [פריסת Microsoft צוותים לנקות](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
-
-אם אתה משתמש מחשבים משותפים, שירותי שולחן עבודה מרוחק (RDS) או תשתית שולחן עבודה וירטואלי (VDI), ראה [מחשב משותף ובסביבות VDI עם צוותים של Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
-
-אם אתה משתמש ב- Office for Mac, ראה [התקנות צוותים Microsoft ב- Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+בנוסף, החל עם גירסה 1906 בערוץ חודשי, צוותים ***יתווספו להתקנות הקיימות*** של Microsoft 365 Apps עבור הארגון (ו-Microsoft 365 apps לעסקים) על התקנים המפעילים את Windows בעת עדכון ההתקנה הקיימת שלך לגירסה העדכנית ביותר. לקבלת מידע נוסף, ראה [מה לגבי התקנות קיימות של Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 > [!NOTE]
-> לאחר התקנת צוותים, הוא [מתעדכן אוטומטית](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) משבועיים עם תכונות חדשות ועדכונים איכות. 
+> אם אין ברצונך להמתין ללוח הזמנים של ההשקה, באפשרותך לפרוס צוותים כעצמאיים עבור המשתמשים שלך על-ידי [ביצוע הוראות](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) אלה או שאתה יכול לבקש מהמשתמשים להתקין צוותים מעצמם [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).
+
+אם הארגון שלך אינו מוכן לפרוס צוותים, יש לנו את הצעדים שבאפשרותך לנקוט כדי לא ***לכלול צוותים*** מהתקנות [חדשות](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) או [קיימות](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) של Office. אם ברצונך להתקין את הצוותים, אך אין ברצונך שהקבוצות יתחילו באופן אוטומטי עבור המשתמש לאחר התקנתה, ראה [מניעת הפעלה אוטומטית של צוותי Microsoft לאחר ההתקנה](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+
+כדי ***להסיר את ההתקנה של צוותים*** מהתקן שבו פועל Windows, ראה [הסרת התקנה של צוותי Microsoft](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). כדי לנקות את צוותי Microsoft ממחשבי יעד או משתמשים מרובים, ראה [הפריסה של צוותי microsoft נקיה](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+
+אם אתה משתמש במחשבים משותפים, בשירותי שולחן עבודה מרוחק (RDS) או בתשתית שולחן עבודה וירטואלי (VDI), ראה [סביבת מחשב משותפת וסביבות vdi עם צוותי Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+
+אם אתה משתמש ב-Office for Mac, ראה [התקנות Microsoft נבחרות ב-Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+
+> [!NOTE]
+> לאחר התקנת הצוותים, הוא [מתעדכן באופן אוטומטי](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) כ-2 שבועות עם תכונות חדשות ועדכונים איכותיים. 

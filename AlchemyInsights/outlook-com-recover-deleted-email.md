@@ -1,9 +1,9 @@
 ---
-title: שחזור למחוק דואר אלקטרוני ב- Outlook.com
+title: שחזור דואר אלקטרוני שנמחק ב Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545360"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666958"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>שחזור למחוק דואר אלקטרוני Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>שחזור דואר אלקטרוני שנמחק Outlook.com
 
-1. בחלונית הימנית, בחר **פריטים שנמחקו**.
-2. בחר את הפריט שברצונך לשחזר ובחר באפשרות **שחזור**.
-3. אם ההודעה אינה מופיעה פריטים שנמחקו, בחר **לשחזר פריטים שנמחקו מתיקיה זו** בחלק העליון של החלון.
+1. בחלונית הימנית, בחר באפשרות **פריטים שנמחקו**.
+2. בחר את הפריט שברצונך לשחזר ובחר באפשרות **שחזר**.
+3. אם ההודעה אינה נמצאת בפריטים שנמחקו, בחר באפשרות **שחזר פריטים שנמחקו מתיקיה זו** בחלק העליון של החלון.
 
  **מידע חשוב אודות פריטים שנמחקו:**
   
-- פריטים שהוסרו מהתיקיה פריטים שנמחקו שלך הן ניתנות לשחזור למשך 30 יום.
-- אם עדיין לא נרשמת לחשבון שלך במשך 365 יום, יימחקו הדוא ל שלך ואין אפשרות לשחזר אותה.
-- אין אפשרות לשחזר דואר אלקטרוני שנמחקו מחשבונות צאצא.
+- פריטים שהוסרו מהתיקיה ' פריטים שנמחקו ' ניתנים לשחזור במשך 30 יום.
+- אם לא חתמת בחשבון שלך עבור 365 ימים, הדוא ל שלך יימחק ולא ניתן לשחזר.
+- לא ניתן לשחזר דוא ל נמחק מחשבונות הילד.
 
-לקבלת מידע נוסף, ראה [שחזור למחוק הודעות דוא ב- Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+כדי ללמוד עוד, ראה [שחזור הודעות דואר אלקטרוני שנמחקו ב-Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -2,7 +2,7 @@
 title: פתרון בעיות הפעלה
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495572"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676426"
 ---
 # <a name="activation-troubleshooting"></a>פתרון בעיות הפעלה
 
-בלוח **הבקרה** \> **תוכניות ותכונות**, החיפוש של Office. אתה אמור לראות Microsoft Office 365 ProPlus או Microsoft Office 365 עסקיים. אם אתה רואה יותר מגירסה אחת של Office המפורטים, הסר את התקנת הגירסה שאינם בשימוש.
+\> **בתוכניות ובתכונות**של **לוח הבקרה** , חפש את Office. אתה צריך לראות את Microsoft 365 Apps עבור הארגון או Microsoft 365 Apps לעסקים. אם אתה רואה יותר מגירסה אחת של Office שרשומה, הסר את ההתקנה של הגירסה שבה אתה משתמש.
   
-אם לא ניתן להסיר בהצלחה באמצעות לוח הבקרה, להשתמש [תמיכה ומסייע השחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy) כדי להסיר את גירסת שאינם בשימוש.
+אם אין באפשרותך להסיר את ההתקנה בהצלחה באמצעות לוח הבקרה, השתמש [במסייע התמיכה והשחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy) כדי להסיר את ההתקנה של הגירסה שאינך משתמש בה.
   
-אם Office אינו מורשה עדיין, עבור חזרה אל **לוח הבקרה** \> **תוכניות ותכונות**. לחץ לחיצה ימנית על התקנת Office הנותרים, בחר **שנה** (או שינוי), ולאחר מכן בחר **תיקון מקוונת**. תיקון מקוונת עשויה להימשך זמן מה. לאחר מכן, מחדש את Office וכניסה באמצעות העבודה שלך או בית ספר חשבון, אם תתבקש לעשות זאת.
+אם Office עדיין לא מורשה, חזור אל \> **תוכניות ותכונות**של **לוח הבקרה** . לחץ לחיצה ימנית על התקנת Office הנותרת, בחר באפשרות **שנה** (או שנה) ולאחר מכן בחר **באפשרות תיקון מקוון**. התיקון המקוון עלול להימשך זמן מה. לאחר מכן, הפעל מחדש את Office והיכנס באמצעות חשבון העבודה או בית הספר שלך, אם תתבקש לעשות זאת.
   
-אם Office אינו מורשה עדיין, הורד ולאחר מכן הפעל את [פותר הבעיות של הפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy) במחשב המושפע כדי לפתור בעיות הפעלה.
+אם Office עדיין אינו מורשה, הורד ולאחר מכן הפעל את [פותר בעיות ההפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy) במחשב המושפע כדי לתקן את בעיות ההפעלה.
   
-לקבלת מידע נוסף, ראה: [מוצר ללא רשיון ושגיאות ההפעלה ב- Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+לקבלת מידע נוסף, ראה: [שגיאות ללא רשיון של מוצר והפעלה ב-Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

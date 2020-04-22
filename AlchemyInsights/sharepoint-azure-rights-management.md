@@ -7,17 +7,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 4a04134c1e2e6569302756f3b6be213283638a0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8b5f22269cab0ed0984bcb33703b49e943ef2446
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40046744"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642253"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>הגנה על IRM לקבצי SharePoint
 
 
-בתוך SharePoint Online, הגנת IRM מוחלת על קבצים ברמת הרשימה והספריה. לפני שהארגון שלך יכול להשתמש בהגנת IRM, עליך להגדיר תחילה את ניהול זכויות. IRM מסתמך על שירות ניהול זכויות תכלת מתוך הגנת מידע תכלת כדי להצפין ולהקצות מגבלות שימוש. חלק מתוכניות Office 365 כוללות את ניהול זכויות התכלת, אך לא את כולן. 
+בתוך SharePoint Online, הגנת IRM מוחלת על קבצים ברמת הרשימה והספריה. לפני שהארגון שלך יכול להשתמש בהגנת IRM, עליך להגדיר תחילה את ניהול זכויות. IRM מסתמך על שירות ניהול זכויות תכלת מתוך הגנת מידע תכלת כדי להצפין ולהקצות מגבלות שימוש. חלק מהמנויים של Microsoft 365 כוללים את ניהול זכויות התכלת, אך לא את כולם. 
 
 לקבלת מידע נוסף, ראה:
 

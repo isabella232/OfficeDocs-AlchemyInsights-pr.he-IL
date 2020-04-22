@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: e652fc1ae0a7212f4c7f092fc3b184ef1bc13d0d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e39b8525fbcd43ee3778e5f3df9d3576fbd8924f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053910"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692874"
 ---
 # <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>הודעת אזהרה: פריטי המדיניות של הארגון שלך אינם מאפשרים לך לשתף עם משתמשים אלה
 
-משתמשים עלולים להיתקל בהודעת אזהרה בעת ניסיון לשתף עם משתמשים חיצוניים של הארגון שלך. ההודעה היא **שפריטי המדיניות של הארגון שלך אינם מאפשרים לך לשתף עם משתמשים אלה. עבור אל שיתוף חיצוני במרכז הניהול של Office 365 כדי להפעילה**. דבר זה קורה לעתים קרובות בפעם הראשונה שמנסה לשתף עם משתמשים חיצוניים או בעת שיתוף עם משתמשים חיצוניים חדשים.
+משתמשים עלולים להיתקל בהודעת אזהרה בעת ניסיון לשתף עם משתמשים חיצוניים של הארגון שלך. ההודעה היא **שפריטי המדיניות של הארגון שלך אינם מאפשרים לך לשתף עם משתמשים אלה. עבור אל שיתוף חיצוני במרכז הניהול של Microsoft 365 כדי להפעילה**. דבר זה קורה לעתים קרובות בפעם הראשונה שמנסה לשתף עם משתמשים חיצוניים או בעת שיתוף עם משתמשים חיצוניים חדשים.
 
 בדוק את **הגדרות השיתוף החיצוני של SharePoint ו-OneDrive** עבור הארגון שלך.
 

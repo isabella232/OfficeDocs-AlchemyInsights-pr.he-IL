@@ -3,18 +3,18 @@ title: שולחן העבודה של Outlook מאחזר או מחליף הודע�
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36496112"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687511"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>אחזור או החלפה של הודעת דואר אלקטרוני של Outlook
 
@@ -37,4 +37,4 @@ ms.locfileid: "36496112"
 - [יצור חיפוש תוכן](https://docs.microsoft.com/office365/securitycompliance/content-search) כדי למצוא את ההודעה שיש למחוק.
 - [התחבר למרכז האבטחה והתאימות PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-אם אתה משתמש באימות מרובה גורמים, ראה [התחברות למרכז האבטחה והתאימות של Office 365 PowerShell באמצעות אימות מרובה גורמים](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+אם אתה משתמש באימות מרובה גורמים, ראה [התחברות לאבטחה ולמרכז התאימות של Microsoft 365 באמצעות אימות מרובה גורמים](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

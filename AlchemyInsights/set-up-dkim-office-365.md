@@ -1,5 +1,5 @@
 ---
-title: ההתקנה DKIM ב- Office 365
+title: הגדרת DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,43 +9,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666265"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645673"
 ---
-# <a name="setup-dkim-in-office-365"></a>ההתקנה DKIM ב- Office 365
+# <a name="setup-dkim"></a>הגדרת DKIM
 
-הוראות מלאות עבור קביעת תצורה של DKIM עבור תחומים מותאמים אישית ב- Office 365 הם [כאן](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+ההנחיות השלמות לקביעת התצורה של DKIM עבור תחומים מותאמים אישית ב-Microsoft 365 נמצאים [כאן](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
 
-1. עבור **כל** תחום מותאם אישית, עליך ליצור **שתי** רשומות DKIM CNAME בכל לשירות אירוח ה-DNS של התחום שלך (בדרך כלל, רשם תחום). לדוגמה, contoso.com fourthcoffee.com דורשים ארבע רשומות DKIM CNAME: שני עבור contoso.com ומשני עבור fourthcoffee.com.
+1. עבור **כל** תחום מותאם אישית, עליך ליצור **שתי** רשומות של dkim CNAME בשירות ה-DNS המארח של התחום שלך (בדרך כלל, רשם התחום). לדוגמה, contoso.com ו-fourthcoffee.com דורשות ארבע רשומות של DKIM CNAME: שתיים עבור contoso.com ושתיים עבור fourthcoffee.com.
 
-   רשומות DKIM CNAME עבור **כל** תחום מותאם אישית להשתמש בתבניות הבאות:
+   רשומות ה-DKIM CNAME עבור **כל** תחום מותאם אישית משתמשות בתבניות הבאות:
 
-   - **שם המחשב המארח**:`selector1._domainkey.<CustomDomain>`
+   - **שם מחשב מארח**:`selector1._domainkey.<CustomDomain>`
 
-     **נקודות לכתובת או ערך**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
+     **נקודות לכתובת או לערך**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **אורך חיים**: 3600
+     **TTL**: 3600
 
-   - **שם המחשב המארח**:`selector2._domainkey.<CustomDomain>`
+   - **שם מחשב מארח**:`selector2._domainkey.<CustomDomain>`
 
-     **נקודות לכתובת או ערך**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **נקודות לכתובת או לערך**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
-     **אורך חיים**: 3600
+     **TTL**: 3600
 
-   \<DomainGUID\> טקסט מימין `.mail.protection.outlook.com` ברשומת MX מותאם אישית עבור התחום המותאם אישית (לדוגמה, `contoso-com` עבור contoso.com תחום). \<InitialDomain\> הוא התחום שבו השתמשת כאשר נרשמת לקבלת Office 365 (לדוגמה, contoso.onmicrosoft.com).
+   \<DomainGUID\> הוא הטקסט שמשמאל `.mail.protection.outlook.com` לרשומת ה-MX המותאמת אישית עבור קבוצת המחשבים המותאמת אישית `contoso-com` (לדוגמה, עבור קבוצת המחשבים contoso.com). \<אתחאלתחום\> הוא התחום שבו השתמשת כאשר נרשמת ל365 של Microsoft (לדוגמה, contoso.onmicrosoft.com).
 
-2. לאחר שיצרת את רשומות CNAME לתחומים המותאם אישית שלך, בצע את ההוראות הבאות:
+2. לאחר שיצרת את רשומות ה-CNAME עבור התחומים המותאמים אישית שלך, השלם את ההוראות הבאות:
 
-   a. [היכנס ל- Office 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) באמצעות חשבון בעבודה או בבית ספר השייך לך.
+   קצת. [היכנס ל-Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) עם העבודה שלך או חשבון בית הספר.
 
    b. בחר את סמל מפעיל היישומים בפינה הימנית העליונה ובחר באפשרות **ניהול**.
 
-   c. בחלונית הניווט הימנית התחתונה, הרחב **Admin** ובחר **Exchange**.
+   c. בניווט השמאלי התחתון, הרחב את **Admin** ובחר באפשרות **Exchange**.
 
-   d. עבור אל **הגנה** > **DKIM**.
+   d. . לך **להגנה** > **.**
 
-   e. בחר את התחום ולאחר מכן בחר **לזמינה** עבור **הודעות כניסה עבור קבוצת מחשבים זו עם חתימות DKIM**. חזור על שלב זה עבור כל תחום מותאם אישית.
+   e. בחר את התחום ולאחר מכן בחר **באפשרות ' הפעל** **הודעות ' עבור תחום זה עם חתימות dkim**. חזור על שלב זה עבור כל תחום מותאם אישית.

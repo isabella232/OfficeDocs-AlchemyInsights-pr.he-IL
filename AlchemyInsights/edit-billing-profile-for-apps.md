@@ -1,9 +1,9 @@
 ---
-title: ערוך פרופיל החיוב עבור יישומים
+title: עריכת פרופיל חיוב עבור יישומים
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606741"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703896"
 ---
-# <a name="edit-billing-profile-for-apps"></a>ערוך פרופיל החיוב עבור יישומים
+# <a name="edit-billing-profile-for-apps"></a>עריכת פרופיל חיוב עבור יישומים
 
-## <a name="to-change-the-billing-profile-on-apps"></a>כדי לשנות את הפרופיל החיוב על יישומים
+## <a name="to-change-the-billing-profile-on-apps"></a>כדי לשנות את פרופיל החיוב ביישומים
 
-1. עבור אל **חיוב** > [שירותי & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) עמוד ולאחר מכן בחר את הכרטיסיה **Apps** .
+1. עבור אל מוצרי **החיוב** > [_ amp_ שירותים](https://go.microsoft.com/fwlink/p/?linkid=842054) בדף ולאחר מכן בחר בכרטיסיה **Apps** .
 
-2. חפש ובחר את היישום שברצונך לנהל.  
+2. חפש ובחר את האפליקציה שברצונך לנהל.  
 
-3. לצד **חיוב פרופיל**, בחר **לערוך** ובחר את הפרופיל החיוב שברצונך לשייך היישום.
+3. לצד **פרופיל חיוב**, בחר באפשרות ' **עריכה** ' ובחר בפרופיל החיוב שברצונך לשייך ליישום.
 
-## <a name="edit-billing-profiles"></a>עריכת פרופילי החיוב
+## <a name="edit-billing-profiles"></a>עריכת פרופילי חיוב
 
-1. עבור אל **חיוב** > [תשלומים & שטרות](https://go.microsoft.com/fwlink/p/?linkid=848039) עמוד ולאחר מכן בחר **חיוב פרופילים**.
+1. עבור לדף התשלומים של חשבונות **החיוב** > [_ אמפר](https://go.microsoft.com/fwlink/p/?linkid=848039) , ולאחר מכן בחר **פרופילי חיוב**.
 
-2. בחר את הפרופיל החיוב מתוך הרשימה כדי לערוך.
+2. בחר את פרופיל החיוב מהרשימה לעריכה.
