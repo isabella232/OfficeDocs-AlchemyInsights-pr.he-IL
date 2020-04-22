@@ -1,5 +1,5 @@
 ---
-title: רכישת רשיונות נוספים
+title: קנה רשיונות נוספים
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,28 +12,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664717"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712172"
 ---
-# <a name="buy-additional-office-365-licenses"></a><span data-ttu-id="df532-102">לרכוש רשיונות נוספים של Office 365</span><span class="sxs-lookup"><span data-stu-id="df532-102">Buy additional Office 365 licenses</span></span>
+# <a name="buy-additional-licenses"></a><span data-ttu-id="ff2fa-102">קנה רשיונות נוספים</span><span class="sxs-lookup"><span data-stu-id="ff2fa-102">Buy additional licenses</span></span>
 
-1. <span data-ttu-id="df532-103">במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="df532-103">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="ff2fa-103">במרכז הניהול, עבור לדף **חיוב** \> [מוצרים ושירותים](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="ff2fa-103">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="df532-104">המנוי שברצונך להוסיף רשיונות כדי למצוא, ולאחר מכן בחר **רשיונות הוספה/הסרה**.</span><span class="sxs-lookup"><span data-stu-id="df532-104">Find the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
+2. <span data-ttu-id="ff2fa-104">חפש את המנוי שאליו ברצונך להוסיף רשיונות ולאחר מכן בחר **בהוספה/הסרה של רשיונות**.</span><span class="sxs-lookup"><span data-stu-id="ff2fa-104">Find the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
 
-    [<span data-ttu-id="df532-105">מה קורה אם אינך רואה את הקישור הוספה/הסרה?</span><span class="sxs-lookup"><span data-stu-id="df532-105">What if I don't see the Add/Remove link?</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [<span data-ttu-id="ff2fa-105">מה קורה אם איני רואה את הקישור ' הוספה/הסרה '?</span><span class="sxs-lookup"><span data-stu-id="ff2fa-105">What if I don't see the Add/Remove link?</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. <span data-ttu-id="df532-106">בתיבה **סה כ רשיונות** , הזן את מספר הרשיונות הדרושים לך עבור מנוי זה ולאחר מכן בחר **לשנות השליחה**.</span><span class="sxs-lookup"><span data-stu-id="df532-106">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then choose **Submit change**.</span></span> <span data-ttu-id="df532-107">לדוגמה, אם יש לך 100 רשיונות וברצונך להוסיף 5 רשיונות נוספים, הזן 105.</span><span class="sxs-lookup"><span data-stu-id="df532-107">For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
+3. <span data-ttu-id="ff2fa-106">בתיבה **סך הרשיונות** , הזן את מספר הרשיונות הכולל הדרוש לך עבור מנוי זה ולאחר מכן בחר באפשרות **שלח שינוי**.</span><span class="sxs-lookup"><span data-stu-id="ff2fa-106">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then choose **Submit change**.</span></span> <span data-ttu-id="ff2fa-107">לדוגמה, אם יש לך 100 רשיונות וברצונך להוסיף 5 רשיונות נוספים, הזן 105.</span><span class="sxs-lookup"><span data-stu-id="ff2fa-107">For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="df532-108">[!הערה]  אם אתה משלם עבור המנוי באמצעות כרטיס אשראי או חשבון בנק, הרשיונות החדשים שאתה קונה זמינים מיד לאחר קבלת אישור ההזמנה.</span><span class="sxs-lookup"><span data-stu-id="df532-108">If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation.</span></span> <span data-ttu-id="df532-109">אם אתה משלם באמצעות חשבונית, ייתכן שתצטרך להמתין לבדיקת מצב אשראי עד שהרשיונות החדשים יהיו זמינים לשימוש.</span><span class="sxs-lookup"><span data-stu-id="df532-109">If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use.</span></span>
+    > <span data-ttu-id="ff2fa-108">[!הערה]  אם אתה משלם עבור המנוי באמצעות כרטיס אשראי או חשבון בנק, הרשיונות החדשים שאתה קונה זמינים מיד לאחר קבלת אישור ההזמנה.</span><span class="sxs-lookup"><span data-stu-id="ff2fa-108">If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation.</span></span> <span data-ttu-id="ff2fa-109">אם אתה משלם באמצעות חשבונית, ייתכן שתצטרך להמתין לבדיקת מצב אשראי עד שהרשיונות החדשים יהיו זמינים לשימוש.</span><span class="sxs-lookup"><span data-stu-id="ff2fa-109">If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use.</span></span>
 
-<span data-ttu-id="df532-110">לקבלת מידע נוסף, ראה [לרכוש רשיונות עבור Office 365 שלך עבור מנוי עסקי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="df532-110">To learn more, see [Buy licenses for your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>  
+<span data-ttu-id="ff2fa-110">לקבלת מידע נוסף, ראה [רכישת רשיונות עבור Microsoft 365 עבור מנוי עסקי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="ff2fa-110">To learn more, see [Buy licenses for your Microsoft 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>  
 
-<span data-ttu-id="df532-111">**משאבים נוספים**</span><span class="sxs-lookup"><span data-stu-id="df532-111">**Additional Resources**</span></span>
+<span data-ttu-id="ff2fa-111">**משאבים נוספים**</span><span class="sxs-lookup"><span data-stu-id="ff2fa-111">**Additional Resources**</span></span>
 
-- [<span data-ttu-id="df532-112">הקצאת רשיונות המשתמשים ב- Office 365 עבור העסק</span><span class="sxs-lookup"><span data-stu-id="df532-112">Assign licenses to users in Office 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="ff2fa-112">הקצאת רשיונות למשתמשים ב-Microsoft 365 עבור Business</span><span class="sxs-lookup"><span data-stu-id="ff2fa-112">Assign licenses to users in Microsoft 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)

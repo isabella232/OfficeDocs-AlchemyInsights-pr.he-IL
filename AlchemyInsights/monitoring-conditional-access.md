@@ -1,40 +1,40 @@
 ---
-title: פיקוח על Access מותנה
+title: ניטור גישה מותנית
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538746"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713719"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a><span data-ttu-id="bb8e8-102">פיקוח על Access מותנה עבור Exchange</span><span class="sxs-lookup"><span data-stu-id="bb8e8-102">Monitoring Conditional Access for Exchange</span></span>
+# <a name="monitoring-conditional-access-for-exchange"></a><span data-ttu-id="569cd-102">ניטור גישה מותנית עבור Exchange</span><span class="sxs-lookup"><span data-stu-id="569cd-102">Monitoring Conditional Access for Exchange</span></span>
 
-<span data-ttu-id="bb8e8-103">משתמשים ייעודיים עם גישה מותנית יקבלו של הודעת דואר אלקטרוני אם הן אינן עונות על דרישות גישה של הארגון שלך.</span><span class="sxs-lookup"><span data-stu-id="bb8e8-103">Users targeted with conditional access will receive a notification email if they do not meet your organization's access requirements.</span></span> <span data-ttu-id="bb8e8-104">כדי לפתור זאת, אנו ממליצים אחת או יותר מן הפתרונות הבאים:</span><span class="sxs-lookup"><span data-stu-id="bb8e8-104">To resolve, we recommend one or more of the following solutions:</span></span>
+<span data-ttu-id="569cd-103">משתמשים המיועדים לגישה מותנית יקבלו הודעת דואר אלקטרוני אם הם אינם עומדים בדרישות הגישה של הארגון שלך.</span><span class="sxs-lookup"><span data-stu-id="569cd-103">Users targeted with conditional access will receive a notification email if they do not meet your organization's access requirements.</span></span> <span data-ttu-id="569cd-104">כדי לפתור, אנו ממליצים על אחד או יותר מהפתרונות הבאים:</span><span class="sxs-lookup"><span data-stu-id="569cd-104">To resolve, we recommend one or more of the following solutions:</span></span>
   
-- <span data-ttu-id="bb8e8-105">אם ההתקן הוא presumed כדי להיות שנרשמו, ליידע את המשתמש כדי לעבור אל היישום פורטל החברה ולוודא שהוא יופיע בפורטל החברה.</span><span class="sxs-lookup"><span data-stu-id="bb8e8-105">If the device is presumed to be enrolled, advise the user to go to the Company Portal app and verify that it appears in the Company Portal.</span></span> <span data-ttu-id="bb8e8-106">אם לא, המשתמש צריך לרשום את ההתקן.</span><span class="sxs-lookup"><span data-stu-id="bb8e8-106">If it doesn't, the user should enroll the device.</span></span>
+- <span data-ttu-id="569cd-105">אם ההתקן משוער לרשום, הודע למשתמש לעבור ליישום פורטל החברה ולוודא שהוא מופיע בפורטל החברה.</span><span class="sxs-lookup"><span data-stu-id="569cd-105">If the device is presumed to be enrolled, advise the user to go to the Company Portal app and verify that it appears in the Company Portal.</span></span> <span data-ttu-id="569cd-106">אם לא, על המשתמש לרשום את ההתקן.</span><span class="sxs-lookup"><span data-stu-id="569cd-106">If it doesn't, the user should enroll the device.</span></span>
     
-- <span data-ttu-id="bb8e8-107">בפורטל תכלת הרקיע לעבור אל **Intune \> תאימות ההתקן**.</span><span class="sxs-lookup"><span data-stu-id="bb8e8-107">In the Azure portal go to **Intune \> Device compliance**.</span></span> <span data-ttu-id="bb8e8-108">תחת **הצג** , לחץ על **תאימות ההתקן**.</span><span class="sxs-lookup"><span data-stu-id="bb8e8-108">Under **Monitor** click **Device compliance**.</span></span> <span data-ttu-id="bb8e8-109">הצג את הדוח תאימות ההתקן כדי לאמת את ההתקן של המשתמש מסומן באופן תואם.</span><span class="sxs-lookup"><span data-stu-id="bb8e8-109">View your device compliance report to verify that the user's device is marked as compliant.</span></span> 
+- <span data-ttu-id="569cd-107">בפורטל התכלת עבור **לתאימות \> התקן Intune**.</span><span class="sxs-lookup"><span data-stu-id="569cd-107">In the Azure portal go to **Intune \> Device compliance**.</span></span> <span data-ttu-id="569cd-108">תחת **הצג** לחץ על **תאימות התקן**.</span><span class="sxs-lookup"><span data-stu-id="569cd-108">Under **Monitor** click **Device compliance**.</span></span> <span data-ttu-id="569cd-109">הצג את דוח תאימות ההתקן כדי לוודא שהתקן המשתמש מסומן כתואם.</span><span class="sxs-lookup"><span data-stu-id="569cd-109">View your device compliance report to verify that the user's device is marked as compliant.</span></span> 
     
-- <span data-ttu-id="bb8e8-110">בפורטל תכלת הרקיע לעבור אל **Intune \> תאימות ההתקן**.</span><span class="sxs-lookup"><span data-stu-id="bb8e8-110">In the Azure portal go to **Intune \> Device compliance**.</span></span> <span data-ttu-id="bb8e8-111">תחת **ניהול**, לחץ על **פריטי מדיניות**.</span><span class="sxs-lookup"><span data-stu-id="bb8e8-111">Under **Manage**, click **Policies**.</span></span> <span data-ttu-id="bb8e8-112">ברשימה של מדיניות תאימות, ודא פרופיל מוקצית להתקן של המשתמש.</span><span class="sxs-lookup"><span data-stu-id="bb8e8-112">In the list of compliance policies, verify that a profile is assigned to your user's device.</span></span> <span data-ttu-id="bb8e8-113">אם לא קיים פרופיל מוקצה, Intune לא יוכלו לאשר מצב תאימות של ההתקן.</span><span class="sxs-lookup"><span data-stu-id="bb8e8-113">If no profile is assigned, then Intune will not be able to confirm the device's compliance status.</span></span> 
+- <span data-ttu-id="569cd-110">בפורטל התכלת עבור **לתאימות \> התקן Intune**.</span><span class="sxs-lookup"><span data-stu-id="569cd-110">In the Azure portal go to **Intune \> Device compliance**.</span></span> <span data-ttu-id="569cd-111">תחת **ניהול**, לחץ על **פריטי מדיניות**.</span><span class="sxs-lookup"><span data-stu-id="569cd-111">Under **Manage**, click **Policies**.</span></span> <span data-ttu-id="569cd-112">ברשימת מדיניות התאימות, ודא שפרופיל מוקצה להתקן המשתמש.</span><span class="sxs-lookup"><span data-stu-id="569cd-112">In the list of compliance policies, verify that a profile is assigned to your user's device.</span></span> <span data-ttu-id="569cd-113">אם לא הוקצתה פרופיל, Intune לא תהיה אפשרות לאשר את מצב התאימות של ההתקן.</span><span class="sxs-lookup"><span data-stu-id="569cd-113">If no profile is assigned, then Intune will not be able to confirm the device's compliance status.</span></span> 
     
-- <span data-ttu-id="bb8e8-114">ערוך את ההקצאה של access מותנה של המשתמש.</span><span class="sxs-lookup"><span data-stu-id="bb8e8-114">Edit the user's conditional access assignment.</span></span>
+- <span data-ttu-id="569cd-114">ערוך את הקצאת הגישה המותנית של המשתמש.</span><span class="sxs-lookup"><span data-stu-id="569cd-114">Edit the user's conditional access assignment.</span></span>
     
-1. <span data-ttu-id="bb8e8-115">בפורטל תכלת הרקיע לעבור אל **Intune \> גישה מותנית \> מדיניות**</span><span class="sxs-lookup"><span data-stu-id="bb8e8-115">In the Azure portal go to **Intune \> Conditional access \> Policies**</span></span>
+1. <span data-ttu-id="569cd-115">בפורטל התכלת עבור אל **Intune \> מדיניות \> גישה מותנית**</span><span class="sxs-lookup"><span data-stu-id="569cd-115">In the Azure portal go to **Intune \> Conditional access \> Policies**</span></span>
     
-2. <span data-ttu-id="bb8e8-116">בחר מדיניות מהרשימה</span><span class="sxs-lookup"><span data-stu-id="bb8e8-116">Select a policy from the list</span></span>
+2. <span data-ttu-id="569cd-116">בחירת מדיניות מהרשימה</span><span class="sxs-lookup"><span data-stu-id="569cd-116">Select a policy from the list</span></span>
     
-3. <span data-ttu-id="bb8e8-117">לחץ על **משתמשים וקבוצות**</span><span class="sxs-lookup"><span data-stu-id="bb8e8-117">Click **Users and groups**</span></span>
+3. <span data-ttu-id="569cd-117">לחץ על **משתמשים וקבוצות**</span><span class="sxs-lookup"><span data-stu-id="569cd-117">Click **Users and groups**</span></span>
     
-4. <span data-ttu-id="bb8e8-118">כדי לייעד מדיניות מסוימים בכל אדם, להוסיף אותן לרשימת **הכלילה** .</span><span class="sxs-lookup"><span data-stu-id="bb8e8-118">To target a certain policy at someone, add them to the **Include** list.</span></span> <span data-ttu-id="bb8e8-119">כדי להבטיח כי אדם מושמט מן המדיניות, להוסיף אותם לרשימת **אי-כלילה** .</span><span class="sxs-lookup"><span data-stu-id="bb8e8-119">To ensure that a person is omitted from the policy, add them to the **Exclude** list.</span></span> 
+4. <span data-ttu-id="569cd-118">כדי למקד מדיניות מסוימת במישהו, הוסף אותן לרשימת **הכלילה** .</span><span class="sxs-lookup"><span data-stu-id="569cd-118">To target a certain policy at someone, add them to the **Include** list.</span></span> <span data-ttu-id="569cd-119">כדי להבטיח שאדם יושמט מהמדיניות, הוסף אותם לרשימת **הכלילה** .</span><span class="sxs-lookup"><span data-stu-id="569cd-119">To ensure that a person is omitted from the policy, add them to the **Exclude** list.</span></span> 
     
-<span data-ttu-id="bb8e8-120">קרא עוד: [כיצד Access מותנה צג התקנים](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span><span class="sxs-lookup"><span data-stu-id="bb8e8-120">Read more: [How to Monitor Conditional Access devices](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span></span>
+<span data-ttu-id="569cd-120">קרא עוד: [כיצד לנטר התקני גישה מותנית](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span><span class="sxs-lookup"><span data-stu-id="569cd-120">Read more: [How to Monitor Conditional Access devices](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)</span></span>
   
 

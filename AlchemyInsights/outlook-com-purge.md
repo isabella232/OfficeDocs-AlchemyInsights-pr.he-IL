@@ -1,9 +1,9 @@
 ---
-title: מחיקה לצמיתות של Outlook.com
+title: טיהור Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/1/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1964"
 - "9000336"
-ms.openlocfilehash: b97c6eaaece5958e3c043551584625d365e59c24
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a98a70e88356716cb81cb1c08b15747ef9a74401
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535867"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712819"
 ---
-# <a name="permanently-delete-email-in-outlookcom"></a><span data-ttu-id="ef78d-102">מחק לצמיתות דואר אלקטרוני ב- Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ef78d-102">Permanently delete email in Outlook.com</span></span>
+# <a name="permanently-delete-email-in-outlookcom"></a><span data-ttu-id="e5cfb-102">מחיקת דוא ל לצמיתות ב Outlook.com</span><span class="sxs-lookup"><span data-stu-id="e5cfb-102">Permanently delete email in Outlook.com</span></span>
 
-<span data-ttu-id="ef78d-103">אם ברצונך למחוק דואר אלקטרוני או לרוקן את תיבת הדואר הנכנס שלך:</span><span class="sxs-lookup"><span data-stu-id="ef78d-103">If you want to delete email or empty your inbox:</span></span>
+<span data-ttu-id="e5cfb-103">אם ברצונך למחוק דואר אלקטרוני או לרוקן את תיבת הדואר הנכנס:</span><span class="sxs-lookup"><span data-stu-id="e5cfb-103">If you want to delete email or empty your inbox:</span></span>
 
-1. <span data-ttu-id="ef78d-104">בחר את ההודעות שברצונך למחוק (או בחר העיגול</span><span class="sxs-lookup"><span data-stu-id="ef78d-104">Select the messages you want to delete (or select the circle</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQmA5S/CAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACPklEQVQ4ja2UTUsyURTHf3p1RB0ccRtuFBJsEbRKW+S6/AQG066l+IEiMNJPULQpqIXjbF1MoEgbl8FgvuLL5baIhnzKCh7/y3Pu+XHe7vEppRQbVOA742KxoNVqYVkW7Xab0WgEgK7rZDIZ8vk8u7u7BIPBL7G+fzPsdrtcXl7iui57e3vkcjlisRgAr6+v2LZNq9UiHo9jmibpdHqVqD6p0WioSqWiarWaGg6Hap2Gw6G6urpS5XJZWZa14vOAjuOoSqWi7u/v1XK5XAv70HK5VHd3d6pcLivHcTx74KOU6+tr9vf3OTw8RAjxa/OFEBQKBV5eXri5uWFrawvDMPADtNttptMp+Xz+T7DP0IODAyaTCZ1OBwC/lJJms0k6nSaZTP4KGY1G3tQBkskkqVQK27aRUuJ3XZfpdEo2m/0TrFqtUq/Xmc/nnn1nZ4fJZILruvjH4zGDwYBQKPRjJh8wn89HqVRC0zTPFwqF6Pf7jMfj7xd7Pp9Tq9WQUmKaJoAHM00TXdfXVuGPRqPEYjFms5ln1DSNk5MTlFJcXFxwfn7+I2w2mxGPx4lGo/gTiQThcJinp6eVR7quc3p6ihACTdN+zMxxHCKRCIlEgoAQglwux+3tLb1eb2XSuq5zdnYG8O2/Bej1ejw/P3N0dIQQ4n0PM5kM4XAYy7KQUq4EBIPBtTApJY1Gg0gkwvb29nsPAQzDoFgsYts2j4+PX6DrYA8PDzSbTY6PjzEM492x6eOw8fP1BQgbPrD/qzfGztb/Cf8baQAAAABJRU5ErkJggg==' />
- <span data-ttu-id="ef78d-105">הבא לתיבת **הדואר הנכנס** בחלק העליון של רשימת ההודעות שלך כדי לבחור את כל ההודעות בתיבת הדואר הנכנס שלך).</span><span class="sxs-lookup"><span data-stu-id="ef78d-105">next to **Inbox** at the top of your message list to select all messages in your inbox).</span></span>
-1. <span data-ttu-id="ef78d-106">בחלק העליון של הדף, בחר **למחוק** (עבור התיקיה כולה **תיקיה ריקה**או **ממוקד ריקה** / **ריק אחר** אם יש לך הנכנס ממוקד זמין).</span><span class="sxs-lookup"><span data-stu-id="ef78d-106">At the top of the page, select **Delete** (for the whole folder **Empty folder**, or **Empty Focused** / **Empty Other** if you have Focused Inbox enabled).</span></span>
-1. <span data-ttu-id="ef78d-107">כדי לנקות את כל הדואר האלקטרוני שנמחק, פתח את [התיקיה פריטים שנמחקו](https://outlook.live.com/mail/deleteditems) ובחר **תיקיה ריקה**, לאחר מכן בחר **פריטים ניתנים לשחזור** בחלק העליון של הדף ואת בחר **תיקיה ריקה** שוב.</span><span class="sxs-lookup"><span data-stu-id="ef78d-107">To purge all your deleted email, open your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder**, then select **Recoverable items** at the top of the page and select **Empty folder** again.</span></span>
+1. <span data-ttu-id="e5cfb-104">בחר את ההודעות שברצונך למחוק (או בחר את העיגול</span><span class="sxs-lookup"><span data-stu-id="e5cfb-104">Select the messages you want to delete (or select the circle</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQmA5S/CAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACPklEQVQ4ja2UTUsyURTHf3p1RB0ccRtuFBJsEbRKW+S6/AQG066l+IEiMNJPULQpqIXjbF1MoEgbl8FgvuLL5baIhnzKCh7/y3Pu+XHe7vEppRQbVOA742KxoNVqYVkW7Xab0WgEgK7rZDIZ8vk8u7u7BIPBL7G+fzPsdrtcXl7iui57e3vkcjlisRgAr6+v2LZNq9UiHo9jmibpdHqVqD6p0WioSqWiarWaGg6Hap2Gw6G6urpS5XJZWZa14vOAjuOoSqWi7u/v1XK5XAv70HK5VHd3d6pcLivHcTx74KOU6+tr9vf3OTw8RAjxa/OFEBQKBV5eXri5uWFrawvDMPADtNttptMp+Xz+T7DP0IODAyaTCZ1OBwC/lJJms0k6nSaZTP4KGY1G3tQBkskkqVQK27aRUuJ3XZfpdEo2m/0TrFqtUq/Xmc/nnn1nZ4fJZILruvjH4zGDwYBQKPRjJh8wn89HqVRC0zTPFwqF6Pf7jMfj7xd7Pp9Tq9WQUmKaJoAHM00TXdfXVuGPRqPEYjFms5ln1DSNk5MTlFJcXFxwfn7+I2w2mxGPx4lGo/gTiQThcJinp6eVR7quc3p6ihACTdN+zMxxHCKRCIlEgoAQglwux+3tLb1eb2XSuq5zdnYG8O2/Bej1ejw/P3N0dIQQ4n0PM5kM4XAYy7KQUq4EBIPBtTApJY1Gg0gkwvb29nsPAQzDoFgsYts2j4+PX6DrYA8PDzSbTY6PjzEM492x6eOw8fP1BQgbPrD/qzfGztb/Cf8baQAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="e5cfb-105">לצד **תיבת דואר נכנס** בראש רשימת ההודעות שלך כדי לבחור את כל ההודעות בתיבת הדואר הנכנס שלך.</span><span class="sxs-lookup"><span data-stu-id="e5cfb-105">next to **Inbox** at the top of your message list to select all messages in your inbox).</span></span>
+1. <span data-ttu-id="e5cfb-106">בחלק העליון של הדף, בחר **במחק** (עבור **התיקיה הריקה**של התיקיה כולה, או רוקן את האפשרות ריק **ממוקד** / **, אם** הפעלת תיבת דואר נכנס ממוקדת).</span><span class="sxs-lookup"><span data-stu-id="e5cfb-106">At the top of the page, select **Delete** (for the whole folder **Empty folder**, or **Empty Focused** / **Empty Other** if you have Focused Inbox enabled).</span></span>
+1. <span data-ttu-id="e5cfb-107">כדי למחוק את כל הדואר האלקטרוני שנמחק, פתח את [התיקיה פריטים שנמחקו](https://outlook.live.com/mail/deleteditems) ובחר **תיקיה ריקה**ולאחר מכן בחר **פריטים הניתנים לשחזור** בראש העמוד ובחר **תיקיה ריקה** שוב.</span><span class="sxs-lookup"><span data-stu-id="e5cfb-107">To purge all your deleted email, open your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder**, then select **Recoverable items** at the top of the page and select **Empty folder** again.</span></span>
 
-<span data-ttu-id="ef78d-108">לקבלת מידע נוסף, קרא [למחוק דואר אלקטרוני ב- Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ef78d-108">To learn more, read [Delete email in Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="e5cfb-108">כדי ללמוד עוד, קרא את [מחיקת הדואר האלקטרוני ב-Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="e5cfb-108">To learn more, read [Delete email in Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
