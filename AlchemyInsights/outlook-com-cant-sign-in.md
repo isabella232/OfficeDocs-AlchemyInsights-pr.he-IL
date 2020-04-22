@@ -1,9 +1,9 @@
 ---
-title: Outlook.com יכול להיכנס אל Outlook.com
+title: Outlook.com לא ניתן להיכנס לOutlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,22 +13,22 @@ ms.custom:
 - "541"
 - "8000024"
 ms.assetid: 46b0a31f-c4fc-4ecb-a18d-26a13a6b0aa4
-ms.openlocfilehash: de71c0980b775060131b0c8d15bfc62750393d25
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88526fdee1cf22380efd863bc808af613962e49a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537364"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698419"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a><span data-ttu-id="f581a-102">אין באפשרותך להיכנס ל- Outlook.com</span><span class="sxs-lookup"><span data-stu-id="f581a-102">Can't sign in to Outlook.com</span></span>
+# <a name="cant-sign-in-to-outlookcom"></a><span data-ttu-id="8cdb0-102">אין אפשרות להיכנס לOutlook.com</span><span class="sxs-lookup"><span data-stu-id="8cdb0-102">Can't sign in to Outlook.com</span></span>
 
-<span data-ttu-id="f581a-103">אם אתה נתקל בבעיות בכניסה לחשבון שלך, ודא כי החשבון שלך לא פעיל למשך יותר מ- 365 ימים.</span><span class="sxs-lookup"><span data-stu-id="f581a-103">If you're having problems signing into your account, make sure your account hasn't been inactive for more than 365 days.</span></span> <span data-ttu-id="f581a-104">לאחר 365 ימים של חוסר פעילות, הדוא ל שלך יימחקו ואין אפשרות לשחזר אותה.</span><span class="sxs-lookup"><span data-stu-id="f581a-104">After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
+<span data-ttu-id="8cdb0-103">אם אתה נתקל בבעיות בכניסה לחשבונך, ודא שהחשבון שלך לא היה פעיל במשך יותר מ-365 ימים.</span><span class="sxs-lookup"><span data-stu-id="8cdb0-103">If you're having problems signing into your account, make sure your account hasn't been inactive for more than 365 days.</span></span> <span data-ttu-id="8cdb0-104">לאחר 365 ימים של חוסר פעילות, הדוא ל שלך יימחק ולא ניתן לשחזר.</span><span class="sxs-lookup"><span data-stu-id="8cdb0-104">After 365 days of inactivity, your email will be deleted and cannot be recovered.</span></span>
   
-<span data-ttu-id="f581a-105">החשבון שלך עלולה להיות חסומה זמנית מאחר שמנו פעילות סימן חריגות מסוימות.</span><span class="sxs-lookup"><span data-stu-id="f581a-105">Your account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="f581a-106">אם החשבון שלך חסום, לקרוא כיצד [בטל חסימה חשבון Outlook.com שלי](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f581a-106">If your account is blocked, read how to [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="8cdb0-105">ייתכן שהחשבון שלך נחסם באופן זמני מכיוון שבחנו בפעילות כניסה בלתי רגילה.</span><span class="sxs-lookup"><span data-stu-id="8cdb0-105">Your account might be temporarily blocked because we noticed some unusual sign-in activity.</span></span> <span data-ttu-id="8cdb0-106">אם החשבון שלך חסום, קרא כיצד [לבטל את חסימת חשבון Outlook.com שלי](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="8cdb0-106">If your account is blocked, read how to [Unblock my Outlook.com account](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
-<span data-ttu-id="f581a-107">אם אתה חושד שחשבונך Outlook.com פרצו למחשב, ראה [חשבון Outlook.com שלי פרצו למחשב](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="f581a-107">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="8cdb0-107">אם אתה חושד שחשבון Outlook.com שלך נפרץ, ראה [חשבון Outlook.com שלי נפרץ](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="8cdb0-107">If you suspect your Outlook.com account has been hacked, see [My Outlook.com account has been hacked](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
-<span data-ttu-id="f581a-108">אם כבר שכחת או איבדת את הסיסמה שלך, באפשרותך [לאפס את הסיסמה שלך](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span><span class="sxs-lookup"><span data-stu-id="f581a-108">If you've forgotten or lost your password, you can [Reset your password](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span></span>
+<span data-ttu-id="8cdb0-108">אם שכחת או איבדת את הסיסמה, באפשרותך [לאפס את סיסמתך](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span><span class="sxs-lookup"><span data-stu-id="8cdb0-108">If you've forgotten or lost your password, you can [Reset your password](https://go.microsoft.com/fwlink/p/?LinkID=242804).</span></span>
   
-<span data-ttu-id="f581a-109">קרא עוד אודות [כאשר אין באפשרותך להיכנס לחשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="f581a-109">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
+<span data-ttu-id="8cdb0-109">קרא עוד אודות [המועד שבו אין באפשרותך להיכנס לחשבון Microsoft שלך](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="8cdb0-109">Read more about [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
   

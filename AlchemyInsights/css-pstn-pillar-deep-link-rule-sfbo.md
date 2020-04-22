@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: d95bd56839e56b199c7a7c4e569c8fe2c5d00c1e
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: c349f896d68c408ce6e5adba4bd69d012e0f2daa
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908851"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655391"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a><span data-ttu-id="112e8-102">PSTN מתקשר עם סקייפ עבור עסקים באינטרנט</span><span class="sxs-lookup"><span data-stu-id="112e8-102">PSTN Calling with Skype for Business Online</span></span>
+# <a name="pstn-calling-with-skype-for-business-online"></a><span data-ttu-id="b551b-102">PSTN מתקשר עם סקייפ עבור עסקים באינטרנט</span><span class="sxs-lookup"><span data-stu-id="b551b-102">PSTN Calling with Skype for Business Online</span></span>
 
-<span data-ttu-id="112e8-103">אם ברצונך לבצע שיחות PSTN ב-Office 365, תזדקק ל- [office 365 תוכנית התקשרות](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) או חיבור עם תשתית מקומית PSTN של טלפוניה.</span><span class="sxs-lookup"><span data-stu-id="112e8-103">If you want to make PSTN calls in Office 365, you will need an [Office 365 Calling Plan](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) or a connection with your on-premises PSTN telephony infrastructure.</span></span> <span data-ttu-id="112e8-104">לקבלת מידע נוסף, ראה:</span><span class="sxs-lookup"><span data-stu-id="112e8-104">For more information, see:</span></span>
+<span data-ttu-id="b551b-103">אם ברצונך לבצע שיחות PSTN ב-Microsoft 365, תזדקק [לתוכנית התקשרות של microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) או לחיבור עם תשתית הטלפוניה המקומית PSTN שלך.</span><span class="sxs-lookup"><span data-stu-id="b551b-103">If you want to make PSTN calls in Microsoft 365, you will need an [Microsoft 365 Calling Plan](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) or a connection with your on-premises PSTN telephony infrastructure.</span></span> <span data-ttu-id="b551b-104">לקבלת מידע נוסף, ראה:</span><span class="sxs-lookup"><span data-stu-id="b551b-104">For more information, see:</span></span>
 
-- [<span data-ttu-id="112e8-105">זמינות מדינה ואזור עבור שיחות ועידה קוליות ותוכניות שיחות</span><span class="sxs-lookup"><span data-stu-id="112e8-105">Country and region availability for Audio Conferencing and Calling Plans</span></span>](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [<span data-ttu-id="112e8-106">שאלות נפוצות הקשורות ל-Microsoft Office 365 שיחות ועידה קוליות</span><span class="sxs-lookup"><span data-stu-id="112e8-106">Common questions related to Microsoft Office 365 Audio Conferencing</span></span>](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [<span data-ttu-id="112e8-107">הוספת כספים וניהול קרדיטים לתקשורת</span><span class="sxs-lookup"><span data-stu-id="112e8-107">Add funds and manage Communications Credits</span></span>](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [<span data-ttu-id="112e8-108">PSTN המתקשרים לא יכולים להצטרף סקייפ עבור עסקים חיוג בשיחת ועידה</span><span class="sxs-lookup"><span data-stu-id="112e8-108">PSTN callers can't join a Skype for Business dial-in conference call</span></span>](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [<span data-ttu-id="b551b-105">זמינות מדינה ואזור עבור שיחות ועידה קוליות ותוכניות שיחות</span><span class="sxs-lookup"><span data-stu-id="b551b-105">Country and region availability for Audio Conferencing and Calling Plans</span></span>](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [<span data-ttu-id="b551b-106">שאלות נפוצות הקשורות ל-Microsoft 365 שיחות ועידה קוליות</span><span class="sxs-lookup"><span data-stu-id="b551b-106">Common questions related to Microsoft 365 Audio Conferencing</span></span>](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [<span data-ttu-id="b551b-107">הוספת כספים וניהול קרדיטים לתקשורת</span><span class="sxs-lookup"><span data-stu-id="b551b-107">Add funds and manage Communications Credits</span></span>](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [<span data-ttu-id="b551b-108">PSTN המתקשרים לא יכולים להצטרף סקייפ עבור עסקים חיוג בשיחת ועידה</span><span class="sxs-lookup"><span data-stu-id="b551b-108">PSTN callers can't join a Skype for Business dial-in conference call</span></span>](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
