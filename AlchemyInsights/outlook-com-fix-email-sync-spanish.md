@@ -1,9 +1,9 @@
 ---
-title: דואר אלקטרוני Outlook.com 8000064 אין אפשרות לסנכרן - ספרדית
+title: 8000064 Outlook.com דוא ל לא יכול להסתנכרן-ספרדית
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "1136"
 - "8000064"
-ms.openlocfilehash: 6560fce61b030e98f944296e0f15c75ccc85c4e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3b2975dc8428182deec7fe36db81b64b1b9f1763
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536760"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760233"
 ---
-# <a name="problemas-de-sincronizacin-del-correo-electrnico"></a><span data-ttu-id="81be7-102">Problemas דה sincronización del correo electrónico</span><span class="sxs-lookup"><span data-stu-id="81be7-102">Problemas de sincronización del correo electrónico</span></span>
+# <a name="problemas-de-sincronizacin-del-correo-electrnico"></a><span data-ttu-id="ba59e-102">בעיה של הפונקציה</span><span class="sxs-lookup"><span data-stu-id="ba59e-102">Problemas de sincronización del correo electrónico</span></span>
 
-<span data-ttu-id="81be7-103">גו לא puede enviar o recibir correo electrónico, o לא conectarse puede Outlook.com, pruebe [estas soluciones](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="81be7-103">Si no puede enviar o recibir correo electrónico, o no puede conectarse a Outlook.com, pruebe [estas soluciones](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="ba59e-103">לא הייתי מוכן לצפות בOutlook.com, או בשום [מידה של מסיסות כנגד האחרים](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="ba59e-103">Si no puede enviar o recibir correo electrónico, o no puede conectarse a Outlook.com, pruebe [estas soluciones](https://support.office.com/es-es/article/solución-de-problemas-de-sincronización-del-correo-electrónico-de-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
