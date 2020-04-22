@@ -1,29 +1,29 @@
 ---
-title: התקנה והגדרה של OneDrive
+title: התקן וקבע תצורה של OneDrive
 ms.author: matteva
 author: pebaum
-ms.date: 6/10/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- "844"
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: d732b8a0804d348a27e6d896e058806b3611034c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: becdd4dc3be4dbeb87ceff3700f60019873bef2d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498992"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710984"
 ---
-# <a name="install-and-configure-onedrive"></a>התקנה והגדרה של OneDrive
+# <a name="install-and-configure-onedrive"></a>התקן וקבע תצורה של OneDrive
 
-הלקוח סינכרון OneDrive הוא שהותקנו מראש עם Windows 10. כדי להתקין את OneDrive עבור Windows 7 או Mac, או לקבל את יישום נייד עבור טלפון או מחשב הלוח שלך, עבור אל [http://onedrive.com/download](http://onedrive.com/download).
+לקוח הסינכרון OneDrive מותקן מראש עם Windows 10. כדי להתקין את OneDrive עבור Windows 7 או Mac, או כדי לקבל את האפליקציה הניידת עבור הטלפון [https://onedrive.com/download](https://onedrive.com/download)או הלוח, עבור אל.
   
-כדי להגדיר את הלקוח סינכרון OneDrive ב- Windows, ראה:
+כדי להגדיר את לקוח הסינכרון OneDrive ב-Windows, ראה:
   
-- [הגדר את המחשב שלך כדי לסנכרן את OneDrive עבור קבצים ביקור ב- Office 365](https://go.microsoft.com/fwlink/?linkid=533375)
+- [הגדרת המחשב כך שיסנכרן את OneDrive עבור קבצים עסקיים](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [סינכרון קבצי SharePoint עם לקוח הסינכרון החדש של OneDrive](https://go.microsoft.com/fwlink/?linkid=871666)

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: acd99c8f4ed9ea25bd5e15b161e8c3fae083112b
-ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
+ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43118437"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713323"
 ---
 # <a name="office-activation-errors"></a>שגיאות הפעלת Office
 
@@ -26,6 +26,6 @@ ms.locfileid: "43118437"
 
 3. אם Office עדיין לא מורשה, הורד ולאחר מכן הפעל את [פותר בעיות ההפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy) במחשב המושפע כדי לתקן את בעיית ההפעלה. 
 
-4. אם Office עדיין לא מורשה, [אפס א מצב ההפעלה של Office](https://docs.microsoft.com/he-IL/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). לאחר מכן, הפעל מחדש את Office והיכנס באמצעות חשבון העבודה או בית הספר שלך, אם תתבקש לעשות זאת.  
+4. אם Office עדיין לא מורשה, [אפס א מצב ההפעלה של Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). לאחר מכן, הפעל מחדש את Office והיכנס באמצעות חשבון העבודה או בית הספר שלך, אם תתבקש לעשות זאת.  
 
 5. לפעולות פתרון בעיות נוספות, ראה [מוצר ללא רישיון ושגיאות הפעלה ב- Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).

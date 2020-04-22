@@ -1,8 +1,8 @@
 ---
-title: מזהה כלל פריסה App Intune 991
+title: מזהה כלל פריסה של Intune App 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498272"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714007"
 ---
-# <a name="intune-app-deployment"></a>פריסת App Intune
+# <a name="intune-app-deployment"></a>פריסת Intune App
 
-פריסת יישומים עם Intune היא תהליך שלב שלוש:
+פריסת יישומים עם Intune היא תהליך של שלושה צעדים:
   
-1. **הוספת יישום** - באפשרותך להוסיף יישום בחנות App או העלאה של app שורה של העסק.
+1. **הוספת יישום** -באפשרותך להוסיף App Store app או להעלות קו של יישום עסקי.
 
-2. **הקצאת יישום** - לקבוע את היקף הפריסה של היישום.
+2. **הקצאת יישום** -קביעת היקף הפריסה של היישום.
 
-3. **פיקוח על יישומים** - להציג את מצב ההתקנה של יישומים, פרט apps שהתגלו ולנהל יישומים שנרכשו בחנויות app.
+3. **ניטור apps** -להציג את מצב ההתקנה של apps, רשימה התגלתה יישומים, ולנהל יישומים שנרכשו מחנויות app.
 
-קרא [מהו ניהול App Intune](https://docs.microsoft.com/intune/app-management) עבור הדרכות ומידע אודות קביעת התצורה של הגנה על יישומים.
+קרא [מה הוא Intune App ניהול](https://docs.microsoft.com/intune/app-management) עבור ערוצים ומידע אודות קביעת תצורה והגנה על יישומים.
   

@@ -1,9 +1,9 @@
 ---
-title: יצירת פרופילים ומדיניות Intune
+title: יצירת מדיניות ופרופילים של Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514764"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715397"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>יצירת מדיניות Intune ופרופילים
+# <a name="creating-intune-policy-and-profiles"></a>יצירת מדיניות ופרופילים של Intune
 
-Intune, תוכל ליצור מדיניות ופרופילים לעשות דברים אחרים.
+בIntune, באפשרותך ליצור מדיניות ופרופילים העושים דברים שונים.
 
-- **פרופילי הרשמה**: לקבוע מראש את תצורת ההתקנים שלך על-ידי הפלטפורמה, אפשר קירבה משתמש, השתמש אימות מגורמים רבים, ועוד.
+- **פרופילי הרשמה**: קביעה מוגדרת מפני ההתקנים לפי פלטפורמה, לאפשר זיקה למשתמש, להשתמש באימות מרובה גורמים ועוד.
 
-  [מהו התקן הרשמה](https://docs.microsoft.com/intune/device-enrollment), ליצור פרופילים הרשמה עבור [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll), ו- [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) הן משאבים טובה.
+  [מהי הרשמת התקן](https://docs.microsoft.com/intune/device-enrollment)ויצירת פרופילי הרשמה עבור [אנדרואיד](https://docs.microsoft.com/intune/android-enroll), [IOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)ו- [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) הם משאבים טובים.
 
-- **פריטי מדיניות של תאימות**: להגדיר כללים והגדרות המתבססות על התקנים חייב להיות תואם. אתה יכול גם להשתמש בפריטי מדיניות של תאימות כדי לפקח על התקנים, וליידע את המשתמשים של אי-תאימות.
+- **מדיניות תאימות**: הגדר את הכללים וההגדרות שאליהם על ההתקנים לפעול כתואמים. באפשרותך גם להשתמש במדיניות תאימות כדי לנטר התקנים ולהודיע למשתמשים על אי-ציות.
 
-  תחילת העבודה עם [מדיניות תאימות ההתקן](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **פריטי מדיניות של גישה מותנית**: עזרה משאבים ארגונית מאובטחת, בהתאם לתנאים שאתה מזין. לדוגמה, עבור התקנים שאינם תואמי, השתמש גישה מותנה כדי להגביל גישה אל דואר אלקטרוני ו- SharePoint.
+  התחל לעבוד עם [מדיניות תאימות התקנים](https://docs.microsoft.com/intune/device-compliance-get-started).
+- **פריטי מדיניות של גישה מותנית**: סייע באבטחת משאבים ארגוניים, בהתאם לתנאים שתזין. לדוגמה, עבור התקנים שאינם תואמים, השתמש בגישה מותנית כדי להגביל את הגישה לדואר אלקטרוני ו-SharePoint.
 
-  [מהי גישה מותנית](https://docs.microsoft.com/intune/conditional-access) [דרכים נפוצות לשימוש גישה מותנית](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) הם משאבים טוב כדי להתחיל.
+  [מהי גישה מותנית](https://docs.microsoft.com/intune/conditional-access) [ודרכים נפוצות לשימוש בגישה מותנית](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) הן משאבים טובים כדי להתחיל לעבוד.
 
-- **פרופילי תצורה**: ניהול תכונות והגדרות במכשירים, לרבות הגדרות דואר אלקטרוני, הוסף רשת WiFi, להשתמש תבניות מוכללות, תכונות של iOS בקרת התקן macOS ועוד.
+- **פרופילי תצורה**: ניהול תכונות והגדרות על התקנים, כולל הגדרות דוא ל, להוסיף רשת WiFi, להשתמש בתבניות מוכללות, שליטה iOS ו-macOS תכונות ההתקן, ועוד.
 
-  להתחיל לעבוד בכל [הפרופילים תצורת ההתקן](https://docs.microsoft.com/intune/device-profiles).
+  התחל לעבוד [בפרופילי תצורת התקן](https://docs.microsoft.com/intune/device-profiles).
 
-קישורים שימושיים:
+קישורים מועילים:
 
-- [שאלות, בעיות נפוצות, ופתרונות עם פרופילי Intune ומדיניות של התקן](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [שאלות נפוצות, בעיות ורזולוציות עם מדיניות ופרופילי התקנים בIntune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [פתרון בעיות של פרופילי Intune ומדיניות](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [פתרון בעיות במדיניות ובפרופילים ב-Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

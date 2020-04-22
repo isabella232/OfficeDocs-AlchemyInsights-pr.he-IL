@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 1820cdb83a1adf36b4e7d0898ecdf8097eb6f0f3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627919"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715633"
 ---
 # <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>תיקון היישומים של Office "לא היתה הודעה לגבי רשיונות משרד המשויכים"
 
 אם תקבל הודעה זו, נסה את הפעולות הבאות:
 
-1. בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות ה-proxy כדי לוודא שהן אינן חוסמות גישה לאינטרנט ליישומי Office. ראה [כתובות Url של Office 365 וטווחי כתובות IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות ה-proxy כדי לוודא שהן אינן חוסמות גישה לאינטרנט ליישומי Office. ראה [כתובות url וטווחי כתובות IP של Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. הסר [והקצה מחדש את רשיון Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) עבור המשתמש המושפע. 
 3. פתח יישום Office [והיכנס](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) מחשבונות משתמשים קיימים.
 4. עבור אל הגדרות Windows _ gt_ **חשבונות** > **דואר אלקטרוני _ אמפר _ תיקי לקוחות**והסר את כל חשבונות העבודה מלבד החשבון המושפע.

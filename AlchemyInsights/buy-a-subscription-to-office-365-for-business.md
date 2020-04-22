@@ -1,5 +1,5 @@
 ---
-title: קנה מנוי ל-Office 365 לעסקים
+title: קנה מנוי ל-Microsoft 365 עבור עסקים מגירסת הניסיון שלך ללא תשלום
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218182"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712208"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>קנה מנוי ל-Office 365 לעסקים
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>קנה מנוי ל-Microsoft 365 מגירסת הניסיון שלך ללא תשלום
 
-ניסית את Office 365, ועכשיו אתה מוכן לקנות אותו. יש לך שתי אפשרויות בעת רכישת Office 365 מגירסת הניסיון שלך:
+ניסית את מיקרוסופט 365, ועכשיו אתה מוכן לקנות. יש לך שתי אפשרויות בעת רכישת Microsoft 365 מגירסת הניסיון שלך:
   
  **קניית תוכנית זהה לגירסת הניסיון**
   
@@ -35,7 +35,7 @@ ms.locfileid: "43218182"
 
 3. חפש את המנוי שברצונך לקנות, בחר ' **קנה**' ובצע את השלבים לרישום.
 
-לקבלת מידע נוסף, ראה [רכישת מנוי ל-Office 365 עבור עסקים מגירסת הניסיון שלך ללא תשלום](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+לקבלת מידע נוסף, ראה [רכישת מנוי ל-Microsoft 365 עבור עסקים מגירסת הניסיון שלך ללא תשלום](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **פתרון בעיות**
 

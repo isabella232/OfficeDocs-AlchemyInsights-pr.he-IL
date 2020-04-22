@@ -1,9 +1,9 @@
 ---
-title: לזהות העברת דואר אלקטרוני חיצוני על תיבות דואר ביומני ביקורת
+title: זיהוי העברת דואר אלקטרוני חיצוני בתיבות דואר ביומני ביקורת
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539102"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716461"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>לזהות בעת העברת דואר אלקטרוני חיצוני נקבעה עבור תיבות דואר
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>זיהוי כאשר תצורת העברת דואר אלקטרוני חיצונית מוגדרת בתיבות דואר
 
-כאשר משתמש Office 365 קובע תצורה של העברת דואר אלקטרוני חיצוני דואר, הפעילות תתבצע ביקורת כחלק cmdlet **Set-Mailbox** . באפשרותך לראות את הפעילות באמצעות חיפוש יומן ביקורת ב- & אבטחה מרכז תאימות.
+כאשר משתמש של Microsoft 365 מגדיר העברה של דואר אלקטרוני חיצוני בתיבת דואר, הפעילות מתבצעת ביקורת כחלק מיישומון ה **-Cmdlet Set-mailbox** . באפשרותך לראות את הפעילות באמצעות חיפוש יומן ביקורת במרכז התאימות של אבטחה _ אמפר _.
 
-1. היכנס אל [מרכז התאימות של Office 365 אבטחה &](https://protection.office.com/).
+1. היכנס ל- [Microsoft 365 האבטחה _ אמפר _ מרכז התאימות](https://protection.office.com/).
 
-2. עבור אל **חיפוש** > דף**החיפוש יומן הביקורת** .
+2. עבור אל דף **Search** > **החיפוש של יומן ביקורת** חיפוש.
 
-3. בחר את טווח התאריכים בשדות **תאריך התחלה** ותאריך **סיום** . אין צורך לציין שם משתמש. ודא שהשדה **פעילויות** מוגדר להצגת **תוצאות עבור כל הפעילויות**.
+3. בחר את טווח התאריכים **בתאריך ההתחלה** ושדות **הסיום** . אין צורך לציין שם משתמש. ודא שהשדה **פעילויות** מוגדר **להצגת תוצאות עבור כל הפעילויות**.
 
 4. לחץ על **חיפוש**.
 
-בתוצאות, לחץ על **סינון תוצאות** והקלד **Set-Mailbox** בתיבה מסנן פעילות. בחר את רשומת הביקורת בתוצאות. תפריט נשלף של **פרטים** , לחץ על **מידע נוסף**. יש לך להסתכל על הפרטים של כל רשומת הביקורת כדי לקבוע אם הפעילות קשורה דוא ל העברה.
+בתוצאות, לחץ על **סנן תוצאות** וסוג **ערכת תיבות דואר** בתיבה מסנן פעילות. בחר רשומת ביקורת בתוצאות. בתפריט **הפרטי** , לחץ על **מידע נוסף**. עליך לבדוק את הפרטים של כל רשומת ביקורת כדי לקבוע אם הפעילות קשורה להעברת דואר אלקטרוני.
 
-- **ObjectId**: הערך הכינוי של תיבת הדואר שהשתנה.
+- **אובייtid**: ערך הכינוי של תיבת הדואר שהשתנתה.
 
-- **פרמטרים**: _ForwardingSmtpAddress_ מציין את כתובת הדואר האלקטרוני של היעד.
+- **פרמטרים**: _כתובת השולח_ מציינת את כתובת האימייל של היעד.
 
-- **מזהה משתמש**: המשתמש שתצורתו נקבעה העברת דואר אלקטרוני בתיבת הדואר בשדה **ObjectId** .
+- **Userid**: המשתמש שהגדיר העברת דואר אלקטרוני בתיבת הדואר בשדה **אובייtid** .
 
-לקבלת מידע נוסף, ראה [קביעת שהגדיר העברה עבור תיבת דואר אלקטרוני](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+לקבלת מידע נוסף, ראה [קביעה מי הגדיר העברת דואר אלקטרוני עבור תיבת דואר](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).

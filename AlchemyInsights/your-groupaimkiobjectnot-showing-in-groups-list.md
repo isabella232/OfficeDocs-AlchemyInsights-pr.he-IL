@@ -1,24 +1,24 @@
 ---
-title: הקבוצה שלך אינו מופיע ברשימה קבוצות
+title: הקבוצה שלך אינה מוצגת ברשימה ' קבוצות '
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/8/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 1708cc461888d903531422f9d272db12e8dd142f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75d411dd42d1abd8784695c0d1a9a16718fe6838
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530803"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715813"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>הקבוצה שלך "{AimKIObject}" אינו מוצג ברשימה קבוצות
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>הקבוצה שלך "{אובייקטי האובייקט}" אינה מוצגת ברשימה קבוצות
 
-קבוצת התפוצה שלך בשם "{AimKIObject}" נוצר {AimKITimeElapsed} לפני דקות. עשוי להימשך עד 60 דקות לפני הקבוצה החדשה שלך מופיע במרכז Admin.
+קבוצת התפוצה הנקראת "{האובייקט}" נוצרה {לפני הזמן שחלף} דקות. הוא יכול להימשך עד 60 דקות לפני שהקבוצה החדשה שלך תופיע במרכז הניהול.
   
-אם ברצונך להוסיף חברים או לבצע עריכות נוספות כעת, נא השתמש בתכונה קבוצות ב [מרכז הניהול של Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+אם ברצונך להוסיף חברים או לבצע פעולות עריכה אחרות כעת, נא השתמש בתכונה ' קבוצות ' [במרכז הניהול של Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

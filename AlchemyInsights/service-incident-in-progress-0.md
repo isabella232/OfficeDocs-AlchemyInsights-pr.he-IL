@@ -1,8 +1,8 @@
 ---
-title: אירוע שירות בביצוע
+title: אירוע השירות מתבצע
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 9/19/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -17,19 +17,19 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: 4c139d72ca6370af1b28bfa9883669a7a1d4da88
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c9ce8d5cb969f20233565f778f3970b3ae77bd9c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551020"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716245"
 ---
-# <a name="service-incident-in-progress"></a>אירוע שירות בביצוע
+# <a name="service-incident-in-progress"></a>אירוע השירות מתבצע
 
-אתה עשוי להיות מושפע מקרה שירות או יידוע זה הוא כעת מתבצעת נכלל. באפשרותך לבדוק את המצב העדכני ביותר על-ידי מעבר אל הדף [תקינות השירות](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+ייתכן שאתה מושפע מאירוע שירות או מעלון יידוע הנמצא כעת בחקירה. באפשרותך לבדוק את המצב העדכני ביותר על-ידי הדרך לדף [הבריאות של השירות](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
-לנוחיותך, תמצא סיכום של אירוע זה שלהלן:
+לנוחיותך, אתה יכול למצוא תקציר של אירוע זה להלן:
   
-> **מספר אירוע:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **מספר אירוע: {מקרה**[הזיהוי}](https://admin.microsoft.com/adminportal/home#/servicehealth)
  
-> השפעה על תיאור: {ImpactDescription}
+> תיאור השפעה: {ImpactDescription}

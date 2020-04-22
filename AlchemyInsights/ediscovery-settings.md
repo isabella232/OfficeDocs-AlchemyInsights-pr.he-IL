@@ -1,31 +1,31 @@
 ---
-title: הגדרות גילוי אלקטרוני
+title: הגדרות ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528228"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714403"
 ---
-# <a name="ediscovery-settings"></a>הגדרות גילוי אלקטרוני
+# <a name="ediscovery-settings"></a>הגדרות ediscovery
 
-גילוי אלקטרוני/תוכן ב- Office 365 המאפשרים לך לחפש, החזק, וחיפושים ייצוא תוכן מתיבות דואר Exchange Online, SharePoint Online ו- OneDrive עבור אתרים עסקיים, Skype עבור שיחות עסקיות, צוותים Microsoft וקבוצות Office 365.
+חיפושי eDiscovery/תוכן מאפשרים לך לחפש, להחזיק ולייצא תוכן מתיבות דואר של Exchange Online, מאתר SharePoint Online ו-OneDrive עבור אתרי עסקים, סקייפ עבור שיחות עסקיות, צוותי Microsoft וקבוצות של Office 365.
 
-- אם אתה מחפש את גילוי אלקטרוני או אפשרויות התפריט חיפוש תוכן, ראה [בעיות גילוי אלקטרוני](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- למד אודות ההרשאות הנדרשות לביצוע חיפושים גילוי אלקטרוני מתוך [ההרשאות הדרושות עבור חיפושים גילוי אלקטרוני](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- אם החיפוש לא להחזיר את התוצאות הצפויות, ראה [החיפוש אינה מחזירה תוצאות צפויות](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- אם אתה מחפש את אפשרויות התפריט ' גילוי עצמי ' או ' חיפוש תוכן ', ראה [בעיות](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)של ' גילוי '.
+- למד אודות ההרשאות הדרושות לביצוע חיפושי eDiscovery [מהרשאות הנדרשות עבור חיפושים של ediscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
+- אם החיפוש שלך אינו מחזיר את התוצאות הצפויות, ראה [חיפוש לא מחזיר את התוצאות הצפויות](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-לקבלת מידע נוסף אודות גילוי אלקטרוני ב- Office 365, ראה [גילוי אלקטרוני ב- Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+לקבלת מידע נוסף אודות גילוי נתונים, ראה [ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).

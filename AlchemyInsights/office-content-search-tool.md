@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053478"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713287"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>הכלי ' חיפוש תוכן ' למציאת מידע רלבנטי
 
@@ -26,6 +26,6 @@ ms.locfileid: "40053478"
 
 המשך להבין עוד אודות חיפוש תוכן על-ידי סקירת [הדרישות והמגבלות](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [בחקירת פריטים בעלי אינדקס חלקי](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) ותוצאות אחרות שיש לשים לב אליהם.
 
-לאחר סקירת הגדרות התצורה וההגבלות של חיפוש תוכן, עיין [בשימוש ב'חיפוש</a> תוכן ' כדי לחפש פריטים במקום כגון דואר אלקטרוני, מסמכים ושיחות העברת הודעות מיידיות בארגון Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+לאחר סקירת הגדרות התצורה וההגבלות של חיפוש תוכן, עיין [בשימוש בחיפוש</a> תוכן כדי לחפש פריטים במקום כגון דואר אלקטרוני, מסמכים ושיחות העברת הודעות מיידיות בארגון](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 לקבלת מידע נוסף, עיין [בחיפוש אחר תוכן ב-Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) .

@@ -1,9 +1,9 @@
 ---
-title: פתח באמצעות הסייר אינו פועל
+title: הפתיחה באמצעות סייר אינה פועלת
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 12/10/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 7680766b53bd5e85789375d3f9e9ab635780ec6c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc939a3451ff4fe95e4aa5a999839a2c532b398c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538474"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713035"
 ---
-# <a name="open-with-explorer-isnt-working"></a>פתח באמצעות הסייר אינו פועל
+# <a name="open-with-explorer-isnt-working"></a>הפתיחה באמצעות סייר אינה פועלת
 
-אם **פתח באמצעות סייר** או **תצוגה ב- Explorer קובץ** אינה פועלת ודא כי שירות WebClient מוגדר **פועל** על-ידי ביצוע השלבים הבאים. לדוגמה, היא עשויה להימשך זמן רב כדי לפתוח ספריית SharePoint או OneDrive כאשר השירות אינו פועל. 
+אם **הפתיחה באמצעות סייר** או **תצוגה ב-Explorer של הקובץ** אינה פועלת, ודא שהשירות webclient מוגדר **לפעולה** על-ידי ביצוע השלבים שלהלן. לדוגמה, ייתכן שייקח זמן רב לפתוח ספריית SharePoint או OneDrive כאשר השירות אינו פועל. 
   
-1. בתיבת החיפוש של Windows, סוג הפעלה, בחר את הפעל app שולחן העבודה, סוג services. msc ולאחר מכן בחר **Enter**.
+1. בתיבת החיפוש של Windows, הקלד הפעלה, בחר את יישום שולחן העבודה, הקלד services. msc ולאחר מכן בחר באפשרות **Enter**.
     
-2. גלול מטה אל שירות WebClient ובדוק את עמודה **מצב** . אם המצב שירות WebClient אינו **פועל**, לחץ פעמיים על השירות, לחץ על **התחל**ולאחר מכן לחץ על **אישור**. הפעל את השירות, במידת הצורך, על-ידי בחירה **ידנית** או **אוטומטית** בתיבה **סוג הפעלה** . 
+2. גלול מטה לשירות WebClient ובדוק את עמודת **המצב** . אם מצב השירות WebClient אינו **פועל**, לחץ פעמיים על השירות, לחץ על **התחל**ולאחר מכן לחץ על **אישור**. הפעל את השירות, במידת הצורך, על-ידי בחירה באפשרות **ידני** או **אוטומטי** בתיבה **סוג הפעלה** . 
     
 > [!NOTE]
-> כדי לפתור בעיות בפתיחת בסייר קבצים, ראה [פתיחה בסייר](https://go.microsoft.com/fwlink/?linkid=871665). סיור סינכרון בתור חלופה טובה יותר: [SharePoint סינכרון קבצים עם לקוח סינכרון OneDrive החדש](https://go.microsoft.com/fwlink/?linkid=871666). 
+> כדי לפתור בעיות פתיחה בסייר הקבצים, ראה [פתיחה בסייר](https://go.microsoft.com/fwlink/?linkid=871665). סקור את הסינכרון כחלופה טובה יותר: [סנכרן קבצי SharePoint עם לקוח הסינכרון החדש OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

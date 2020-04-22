@@ -1,5 +1,5 @@
 ---
-title: האם עליך להעביר מספר Phone ספק אחד Office 365?
+title: האם עליך להעביר מספר טלפון מספק אחד למיקרוסופט?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 77d5699e69e625e03262b8472421e240e5a2e723
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664681"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714915"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-office-365"></a>העבר מספר טלפון של ספק אחר Office 365
+# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>העברת מספר טלפון מספק אחר ל-Microsoft
 
-האם עליך להעביר מספר טלפון של ספק אחר Office 365? ניתן למצוא מספרים Phone עבור מדינות שונות ואזורי במספרי [הטלפון ניהול עבור הארגון שלך](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). בחר את המדינה או האזור כדי לחפש מידע אודות העברת מספרים. 
+האם עליך להעביר מספר טלפון מספק אחר אל Microsoft? ניתן למצוא מספרי טלפון עבור מדינות ואזורים שונים [בניהול מספרי טלפון עבור הארגון שלך](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). בחר את המדינה או האזור שלך כדי למצוא מידע אודות העברת מספרים. 
   

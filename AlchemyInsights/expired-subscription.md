@@ -1,9 +1,9 @@
 ---
-title: מנוי שפג תוקפם
+title: מנוי שפג תוקפו
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665041"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714151"
 ---
-# <a name="expired-subscription"></a>מנוי שפג תוקפם
+# <a name="expired-subscription"></a>מנוי שפג תוקפו
 
-נראה שלך אחד או יותר של מנויים שפג תוקפו. אם ברצונך להמשיך לקבל שירות, עליך מחדש את המנוי, או לבצע רכישה חדשה.
+נראה שיש לך מנוי אחד או יותר שפג תוקפם. אם ברצונך להמשיך בשירות, עליך להפעיל מחדש את המנוי או לבצע רכישה חדשה.
   
 **הפעלה מחדש**
   
-1. במרכז admin, לעבור אל **חיוב** \> העמוד [שירותים & מוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז הניהול, עבור לדף **חיוב** \> [מוצרים ושירותים](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. חפש את המנוי שברצונך להפעיל מחדש. במקטע **חיוב** , בחר **מחדש**.
+2. מצא את המנוי שברצונך להפעיל מחדש. במקטע **חיוב**, בחר **הפעל מחדש**.
 
-אם אינך רואה **מחדש** פעולה זמין, התקשר לתמיכה כדי להפעיל מחדש את המנוי שלך.
+אם אינך רואה את **הפעל מחדש** כפעולה זמינה, התקשר לתמיכה כדי להפעיל מחדש את המנוי.
 
-3. אשר את פרטי התשלום שלך. באפשרותך לעדכן את פרטי התשלום הקיימים שלך כאן. לאחר שתסיים להזין את שיטת התשלום, לבחור **מחדש**.
+3. אשר את פרטי התשלום שלך. באפשרותך לעדכן כאן את פרטי התשלום הקיימים. לאחר שתסיים להזין את שיטת התשלום שלך, בחר **הפעל מחדש**.
 
-לקבלת מידע נוסף, ראה [הפעלה מחדש את המנוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
-**תבצע רכישה חדשה**
+**בצע רכישה חדשה**
   
-1. במרכז admin, לעבור אל **חיוב** \> דף [שירותי רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. במרכז הניהול, עבור אל דף **Billing** \> [שירותי הרכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) של חיוב.
 
-2. בחר את המנוי שברצונך לקנות ולאחר מכן בחר **לקנות**.
+2. בחר את המנוי שברצונך לקנות ולאחר מכן בחר באפשרות ' **קנה**'.
 
-3. הזן את מספר הרשיונות הדרושים ובחר אם לשלם מדי חודש או עבור שנה שלמה. בחר אם ברצונך להקצות רשיונות באופן אוטומטי לכל המשתמשים שאין להם כעת רשיון. לאחר מכן בחרו **להוציא כעת**.
+3. הזן את מספר הרשיונות הדרושים ובחר אם לשלם מדי חודש או עבור שנה שלמה. בחר אם ברצונך להקצות רשיונות באופן אוטומטי לכל המשתמשים שאין להם כעת רשיון. . אז תבחר **לבדוק עכשיו**
 
-4. בצע את השלבים הנותרים כדי להשלים הוצאה.
+4. בצע את הפעולות הנותרות כדי להשלים את הוצאת החשבון.
 
-לקבלת מידע נוסף, ראה [לרכוש מנוי אחר](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+לקבלת מידע נוסף, ראה [רכישת מנוי אחר](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

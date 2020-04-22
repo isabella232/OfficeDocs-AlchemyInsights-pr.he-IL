@@ -12,16 +12,16 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: e3ebeaef819945562d1e7e4d6a41430a9525d69d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665617"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711992"
 ---
 # <a name="isues-with-calendar-sharing-in-outlook"></a>מאשר שיתוף לוח שנה ב-Outlook
 
-- אם אינך רואה מידע לגבי מועדים פנויים/לא פנויים בלוחות שנה אחרים, או אם אנשים אחרים אינם רואים מידע לגבי מועדים פנויים/לא פנויים בלוח השנה שלך, השתמש ב[מסייע התמיכה והשחזור של Microsoft עבור Office 365](https://diagnostics.office.com/).
+- אם אין באפשרותך לראות מידע מועדים פנויים/לא פנויים בלוח שנה בלוחות שנה אחרים, או אם אנשים אחרים אינם יכולים לראות מידע פנוי/לא פנוי בלוח השנה שלך, השתמש [במסייע התמיכה והשחזור של microsoft עבור microsoft 365](https://diagnostics.office.com/).
 
 **משאבים נוספים:**
 

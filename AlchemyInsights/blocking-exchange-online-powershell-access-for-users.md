@@ -1,9 +1,9 @@
 ---
-title: 763 גישה חסימת PowerShell המקוונת של Exchange עבור משתמשים
+title: 763 חוסם את הגישה של Exchange Online PowerShell עבור משתמשים
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: f5e432423aa2792de4c13060b94a930892710057
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9d967032c0b2f13f8c33b989077897c0f3ae20d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517932"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712244"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>חסימת גישה Exchange Online PowerShell עבור משתמשים
-כמנהל, יש לך את היכולת לחסום גישה אל Exchange Online PowerShell עבור המשתמשים שלך. לקבלת מידע נוסף, עיין בנושאים הבאים:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>חסימת הגישה של Exchange Online PowerShell למשתמשים
+כמנהל, יש לך את היכולת לחסום את הגישה ל-Exchange Online PowerShell עבור המשתמשים שלך. לקבלת מידע נוסף, עיין בנושאים הבאים:
 
-- [הפעלה או ביטול של גישה PowerShell המקוונת של Exchange](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [הפיכת גישה לזמינה או ללא זמינה ל-Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [Access לקוח כללים ב- Exchange באופן מקוון](https://technet.microsoft.com/library/mt842508.aspx) (חפש את פרוטוקול **RemotePowerShell** ) 
+- [כללי גישה של לקוח ב-Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (חפש את פרוטוקול **powershell** ) 
 
-**הערה**: כפי שמתואר בנושא, היזהרו שלא לחסום גישה אל Exchange Online PowerShell עבור מנהלים.
+**הערה**: כפי שמתואר בנושא, להיזהר לא לחסום את הגישה ל-Exchange Online PowerShell עבור מנהלים.

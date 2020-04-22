@@ -14,16 +14,16 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769304"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714771"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>אין אפשרות להתקין או להפעיל את כלי הייצוא של eDiscovery?
 
-אם אין באפשרותך להתקין או להפעיל את כלי הייצוא של Office 365 eDiscovery כדי להוריד תוצאות חיפוש, בדוק את הדברים הבאים:
+אם אין באפשרותך להתקין או להפעיל את כלי הייצוא של eDiscovery כדי להוריד תוצאות חיפוש, בדוק את הדברים הבאים:
   
 - המחשב בו אתה משתמש עונה על דרישות מראש אלה:
 
@@ -43,7 +43,7 @@ ms.locfileid: "37769304"
 
 - הארגון שלך יכול להתחבר לנקודת הקצה בתכלת, שהיא ** \*. blob.core.windows.net** (התווים הכלליים מייצגים מזהה ייחודי עבור משימת הייצוא שלך).
 
-- מוקצית לך תפקיד הייצוא במרכז תאימות האבטחה &amp; של Office 365. כברירת מחדל, תפקיד זה מוקצה רק לקבוצת התפקידים ' מנהל eDiscovery '. ראה [הקצאת הרשאות eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- מוקצית לך תפקיד הייצוא במרכז תאימות האבטחה &amp; של Microsoft 365. כברירת מחדל, תפקיד זה מוקצה רק לקבוצת התפקידים ' מנהל eDiscovery '. ראה [הקצאת הרשאות eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
 לקבלת מידע נוסף, ראה [ייצוא תוצאות חיפוש תוכן](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

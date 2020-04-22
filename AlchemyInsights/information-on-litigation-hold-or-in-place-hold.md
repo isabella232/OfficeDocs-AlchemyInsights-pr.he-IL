@@ -1,32 +1,32 @@
 ---
-title: מידע אודות החסימה תביעה משפטית או במקום-השהיה
+title: מידע אודות חסימה משפטית או החזקת מקום
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498956"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711020"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>אודות חסימות תביעה משפטית חסימות במקום
+# <a name="about-litigation-holds-and-in-place-holds"></a>אודות התדיינות משפטית וחסימות במקום
 
-- כדי להחיל על תביעה משפטית חסימה או שדרוג במקום להחזיק לתיבת דואר, של [רשיון מקוון 2 לתכנן Exchange](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) נדרש. אם יש לך תוכנית אחרת, להקצות רשיון נפרד [בארכיון המקוון של Exchange](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) החשבון. 
+- כדי להחיל חסימה לצורך תביעה משפטית או החזקת מקום בתיבת דואר, נדרש [רשיון לתוכנית החלפה מקוונת של Exchange Online 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . אם יש לך תוכנית אחרת, הקצה לחשבון את רשיון [האחסון המקוון של Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) . 
     
-- **כדי לאפשר חסימה תביעה משפטית** עבור משתמש בודד, בצע את הפעולות המתוארות [כאן](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). כאשר החסימה תביעה משפטית מופעלת, כל התוכן בתיבת הדואר ממוקם בהמתנה.
+- **כדי לאפשר החזקת ליטיגציה** עבור משתמש יחיד, בצע את השלבים המפורטים [כאן](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). כאשר החסימה משפטית מופעלת, כל התוכן בתיבת הדואר מוצב בהמתנה.
     
-- כדי להחיל על **במקום להחזיק על משתמשים בודדים** או חסימה **לכל תיבות הדואר בארגון כולו**, באפשרותך להשתמש מדיניות שמירה במרכז האבטחה של Office 365 ותאימות על-ידי ביצוע את השלבים לרמות [כאן](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- כדי להחיל **החזקה במקום על משתמשים בודדים** או על חסימה לכל **תיבות הדואר בארגון כולו**, באפשרותך להשתמש במדיניות שמירה במרכז האבטחה והתאימות של Microsoft 365 על-ידי ביצוע השלבים המפורטים [כאן](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
-    > עבור מדיניות שמירה הארגוני כולו, משתמשים חדשים באופן אוטומטי יתווספו לחסימה. 
+    > עבור מדיניות שמירה ברחבי הארגון, משתמשים חדשים יתווספו באופן אוטומטי לחסימה. 
   
-- כדי להציג או לגלות את תוכן תיבת הדואר שממוקם בהמתנה, השתמש **גילוי אלקטרוני חיפוש וייצוא**. לקבלת מידע אודות שימוש **גילוי אלקטרוני חיפוש וייצוא**, בצע את השלבים לרמות [כאן](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- כדי להציג או לגלות את תוכן תיבת הדואר הממוקם בהמתנה, השתמש **בחיפוש וייצוא של Ediscovery**. לקבלת מידע אודות השימוש **בחיפוש וייצוא של Ediscovery**, בצע את השלבים המפורטים [כאן](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

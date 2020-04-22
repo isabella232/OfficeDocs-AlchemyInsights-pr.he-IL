@@ -3,7 +3,7 @@ title: זיהוי פעילות כלל תיבת דואר נכנס ביומני ב
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539170"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716425"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>זיהוי פעילות כלל תיבת דואר נכנס ביומני ביקורת
 
-באפשרותך להשתמש בחיפוש יומן ביקורת ב- & האבטחה של Office 365 מרכז תאימות כדי להציג אירועים כלל תיבת דואר נכנס (יצירה, שינוי ומחיקה של כללי תיבת דואר נכנס).
+באפשרותך להשתמש בחיפוש ביומן הביקורת ב-Microsoft 365 Security _ מרכז התאימות של מיקרוסופט כדי להציג אירועים של כלל תיבת דואר נכנס (יצירה, שינוי ומחיקה של כללי תיבת דואר נכנס).
 
-1. היכנס אל [מרכז התאימות של Office 365 אבטחה &](https://protection.office.com/).
+1. היכנס ל- [Microsoft 365 האבטחה _ אמפר _ מרכז התאימות](https://protection.office.com/).
 
-2. עבור אל **חיפוש** > דף**החיפוש יומן הביקורת** .
+2. עבור אל דף **Search** > **החיפוש של יומן ביקורת** חיפוש.
 
-3. בחר את טווח התאריכים בשדות **תאריך התחלה** ותאריך **סיום** .
+3. בחר את טווח התאריכים **בתאריך ההתחלה** ושדות **הסיום** .
 
-4. תחת **הפעילויות תיבת הדואר של Exchange**, ודא **פעילויות** שהשדה מוגדר **InboxRule חדש צור/לשנות/הפעל/בטל כלל תיבת דואר נכנס**.
+4. תחת **החלפת פעילויות תיבת דואר**, ודא שהשדה **פעילויות** מוגדר **לחדש-inboxrule יצירה/שינוי/הפעלה/השבתה של כלל תיבת דואר נכנס**.
 
 5. לחץ על **חיפוש**.
 
-בתוצאות, בחר את רשומת הביקורת. תפריט נשלף של פרטים, לחץ על **מידע נוסף**. מידע אודות הגדרות הכלל בתיבת הדואר הנכנס מוצג בשדה **פרמטרים** .
+בתוצאות, בחר ברשומת ביקורת. בתפריט הפרטי, לחץ על **מידע נוסף**. מידע אודות הגדרות כלל תיבת הדואר הנכנס מוצג בשדה **Parameters** .
 
-לקבלת מידע נוסף, ראה [קביעת אם משתמש נוצר כלל תיבת הדואר הנכנס](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+לקבלת מידע נוסף, ראה [קביעה אם משתמש יצר כלל תיבת דואר נכנס](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

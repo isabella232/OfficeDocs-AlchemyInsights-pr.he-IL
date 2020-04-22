@@ -1,9 +1,9 @@
 ---
-title: Office 365 עבור תוכניות ממשלתי ותמחור
+title: משרד 365 לתכניות ממשלתיות ותמחור
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9efe8473b56f1483076f86fe19c2af52201155bc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522120"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713359"
 ---
-# <a name="office-365-government-plans"></a>תוכניות office 365 ממשלתי
+# <a name="office-365-government-plans"></a>משרד 365 תוכניות ממשלתיות
 
-תוכניות של ממשלת ארה ב office 365 מיועדות על הצרכים הייחודיים של ארגונים ממשלת ארה ב. הן מספקות את כל התכונות והיכולות של Office 365 שירותים בקהילה הענן ממשלת מקוטע המאפשרת לארגונים לעמוד תקני האבטחה וציות של ארה ב.
+משרד 365 ארה ב תוכניות ממשלתיות מיועדות לצרכים הייחודיים של ארגונים ממשלתיים בארה ב. הם מספקים את כל התכונות והיכולות של שירותי Office 365 בקהילת ענן ממשלתית מקוטעת המאפשרת לארגונים לעמוד בדרישות התאימות והאבטחה של ארה ב.
   
-- [סקור את תוכניות ממשלתי](https://products.office.com/government/compare-office-365-government-plans)
+- [סקור את תוכניות הממשלה](https://products.office.com/government/compare-office-365-government-plans)
 
-- [השווה בין כל תוכניות Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [השוואת כל המנויים של Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
