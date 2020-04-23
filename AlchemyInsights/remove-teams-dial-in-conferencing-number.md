@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028037"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784800"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>הסרת מספר חיוג ועידות שמע של Teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "43028037"
 
 מספר הטלפון שמוגדר כברירת מחדל של גשר שיחות ועידה מגדיר את מזהה המתקשר שישמש כאשר משתתף או המארגן מוציא שיחה מתוך הפגישה.
 
-1. היכנס אל Office 365 עם חשבון העבודה שלך.
+1. היכנס באמצעות החשבון שלך בעבודה.
 
 2. עבור של **מרכז הניהול של Microsoft 365**.
 
