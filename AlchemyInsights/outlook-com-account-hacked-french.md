@@ -1,9 +1,9 @@
 ---
-title: חשבון Outlook.com 8000073 פרצו למחשב - צרפתית
+title: 8000073 חשבון Outlook.com פרוצים-צרפתית
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1151"
 - "8000073"
-ms.openlocfilehash: 8403b4441d9a5deb7ff1b0f83625833c49f9e29d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ba8cdf7c0b83f1f649d73b92487721eb7b66c3ff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538526"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761133"
 ---
-# <a name="mon-compte-outlookcom-a-t-pirat"></a>Compte יום ב' Outlook.com piraté été
+# <a name="mon-compte-outlookcom-a-t-pirat"></a>יום שני compte Outlook.com א-פירטה
 
-גו votre compte piraté été, cela signifie ייחודיים quelqu'un s'est procuré votre mot דה passe et יציקת qu'il peut utiliser votre compte accéder à vos מידע על personnelles ou envoyer des courriers indésirables.
+בנוסף, המלון מהווה מיקום מאוד מוקדם, והוא מהווה מטרה בלתי מעשית, והוא משמש כאחד ממוקדי השירות האישיים של מלון א. א. ו.
 
-יציקת compte votre récupérer, [הוראות les suivez](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).
+. שפוך [הוראות](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy)

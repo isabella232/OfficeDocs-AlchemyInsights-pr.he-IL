@@ -1,9 +1,9 @@
 ---
-title: נסיונות מרובים לחייב כלי מקוון תשלום
+title: מספר נסיונות לחיוב מכשירי תשלום מקוונים
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 5bcba5903f9ca00b3c6235f9d07e165f35b2a66e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 970963f5aca1d5c281e4d887733a53c8bd1eb0b8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548680"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761995"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>נסיונות מרובים לחייב כלי מקוון תשלום
+# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>מספר נסיונות לחיוב מכשירי תשלום מקוונים
 
-אנו מבצעים נסיונות מרובים לחייב כלי מקוון תשלום לפני נקיטת פעולה כלשהי על השירות. לאחר תשלום נבחרה שיטת, כל שתאריך כמויות יש לשלם עם שיטת התשלום שנבחרה. כדי לעדכן את פרטי התשלום הנוכחי עבור המנוי שלך, בצע את השלבים ב [להוסיף, לעדכן, או הסרה של כרטיס האשראי או חשבון הבנק ב- Office 365 עבור העסק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+אנו מנסים לטעון מספר נסיונות לחיוב מכשירי תשלום מקוונים לפני נטילת כל פעולה בשירות. לאחר בחירת שיטת תשלום, יש לשלם את כל הסכומים המגיעים בעבר בשיטת התשלום שנבחרה. כדי לעדכן את פרטי התשלום הנוכחיים עבור המנוי שלך, בצע את השלבים [בהוספה, עדכון או הסרה של כרטיס אשראי או חשבון בנק ב-Microsoft 365 עבור עסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

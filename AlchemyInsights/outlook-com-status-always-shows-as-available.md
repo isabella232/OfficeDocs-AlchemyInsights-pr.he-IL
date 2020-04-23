@@ -1,9 +1,9 @@
 ---
-title: מצב Outlook.com מציג תמיד כ זמין
+title: מצב Outlook.com מוצג תמיד כזמין
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 404bd93b5c470dd78a72ae07140a8df151878f40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: da4b014f39c03439e204cbc9eaab2764d663ae7f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511956"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743454"
 ---
-# <a name="my-status-always-shows-as-available"></a>המצב שלי מציג תמיד כ זמין
+# <a name="my-status-always-shows-as-available"></a>הסטטוס שלי תמיד מוצג כזמין
 
-בכל פעם שתיכנס אל Outlook.com, מצב החשבון שלך יאופסו כדי זמין. באפשרותך למנוע את מצבך שינוי על-ידי חתימה לא מחוץ Outlook.com. כדי להישאר מחובר בעת סגירת הדפדפן שלך, בחר את תיבת **השאר אותי מחובר** בדף Outlook.com הכניסה.
+בכל פעם שתיכנס לOutlook.com, מצב החשבון שלך יאופס ל'זמין '. באפשרותך למנוע מהמצב שלך להשתנות על-ידי אי-יציאה מ-Outlook.com. כדי להישאר מחובר בעת סגירת הדפדפן, בחר את התיבה **שמור אותי חתומה ב** -דף הכניסה Outlook.com.

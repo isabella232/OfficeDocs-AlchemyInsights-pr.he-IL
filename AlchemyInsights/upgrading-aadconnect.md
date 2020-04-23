@@ -1,9 +1,9 @@
 ---
-title: AADConnect שדרוג 932
+title: 932 שדרוג השדרוג
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fcc5fddb5cfd15407d0533449035317d187931ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506084"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766494"
 ---
-# <a name="upgrade-azure-ad-connect"></a>שדרוג AD תכלת הרקיע להתחבר
+# <a name="upgrade-azure-ad-connect"></a>לשדרג התכלת להתחבר
 
-כברירת מחדל, שדרוג אוטומטי זמין עבור התחברות AD תכלת הרקיע, המסייעת להבטיח לך אתה מפעיל את הגירסה העדכנית ביותר. כדי לוודא את הגדרות השדרוג האוטומטי, השתמש cmdlet **Get-ADSyncAutoUpgrade** ב- AD PowerShell תכלת הרקיע. ה-cmdlet תחזיר את אחד הערכים הבאים:
+כברירת מחדל, השדרוג האוטומטי מאופשר לחיבור תכלת לספירה, המסייע להבטיח שאתה מפעיל את הגירסה העדכנית ביותר. כדי לאמת את הגדרות השדרוג האוטומטי, השתמש ב **-Cmdlet קבל-Adsynpכתה** ב תכלת לספירה. ה-cmdlet יחזיר אחד מהערכים הבאים:
 
-- **זמין**: שדרוג אוטומטי מופעלת.
+- **זמין**: שדרוג אוטומטי מאופשר.
 
-- **זמין**: שדרוג אוטומטי אינו זמין.
+- לא **זמין**: שדרוג אוטומטי אינו זמין.
 
-- **מושעה**: המערכת כבר לא זכאי לקבל שדרוגים אוטומטיים. אין באפשרותך להגדיר ערך זה; הוא מוגדר על-ידי המערכת.
+- **מושעה**: המערכת אינה זכאית עוד לקבל שדרוגים אוטומטיים. אין באפשרותך לקבוע את התצורה של ערך זה; היא מוגדרת על-ידי המערכת.
 
 לקבלת מידע נוסף, ראה [שדרוג אוטומטי](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-כדי להוריד את הגירסה העדכנית ביותר של חיבור AD תכלת הרקיע, עבור אל [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).
+כדי להוריד את הגרסה העדכנית ביותר של תכלת [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594)AD התחבר, עבור אל.

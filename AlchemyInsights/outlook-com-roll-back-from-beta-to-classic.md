@@ -1,26 +1,26 @@
 ---
-title: בקשה לשם חזרה מביתא Outlook.com כדי Outlook.com קלאסי
+title: בקשה לחזור מOutlook.com ביתא לOutlook.com הקלאסי
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 77a1a51684525008a6319aa4820c7e62d6906ca5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ddcc6d04a93510ca35f0cd5d05fa3cf1d89d05a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535068"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743706"
 ---
-# <a name="the-new-outlookcom"></a>Outlook.com חדש
+# <a name="the-new-outlookcom"></a>הOutlook.com החדשה
 
-שהיא כבר לא ניתן להשאיר את חוויית Outlook.com חדש ולחזור לגירסה הקלאסית של Outlook.com.
+אין עוד אפשרות להשאיר את חוויית Outlook.com החדשה ולחזור לגירסה הקלאסית של Outlook.com.
 
-אם ברצונך לתת משוב אודות Outlook.com חדש, עבור אל [פורום UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). באפשרותך להצביע על הרעיונות או נדונו נושאים שהיית רוצה לראות, ולהגיב אנו ישירות העליון הערות והצעות.
+אם ברצונך לתת משוב על Outlook.com החדש, עבור אל [פורום Uservoice](https://go.microsoft.com/fwlink/p/?linkid=851599). אתה יכול להצביע על הרעיונות או הנושאים שאתה רוצה לראות ממוען, ואנו מגיבים ישירות העליון הערות והצעות.
 
-[קבלת עזרה עם Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[. תשיג עזרה עם Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

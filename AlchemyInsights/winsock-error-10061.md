@@ -1,9 +1,9 @@
 ---
-title: שגיאת Winsock 1554 10061
+title: 1554 Winsock שגיאה 10061
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "1554"
 - "9000079"
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f54c7fc81c274871fbc22908ce0fb21500975d9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f62d97efc937518ef766b45e1747e83b7f99c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530793"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766170"
 ---
-# <a name="winsock-error-10061"></a>שגיאת Winsock 10061
+# <a name="winsock-error-10061"></a>Winsock שגיאה 10061
 
-קוד שגיאה זו פירושה כי Office 365 לא היתה אפשרות ליצור שקע TCP (חיבור) עם מארח היעד. הסיבה הסבירה ביותר לשגיאה זו היא בעיה בתצורת חומת האש שלך. כדי לפתור את הבעיה, בדוק את הגדרות אלה:
+קוד שגיאה זה משמעו ש-Microsoft לא הצליחה ליצור שקע TCP (חיבור) עם מחשב המארח המיועד. הסיבה הסבירה ביותר לשגיאה זו היא בעיה בתצורת חומת האש שלך. כדי לפתור את הבעיה, בדוק הגדרות אלה:
 
-- ודא את תצורת חומת האש שלך עם המידע ב- [Office 365 Url ואת טווחי כתובות IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+- אמת את תצורת חומת האש שלך עם המידע [בכתובות Url של Microsoft 365 ובטווחי כתובות IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
-- אם השגיאה הוא ספציפי כדי Exchange Online הגנה (EOP), יש קיבלת בעבר הודעה על שינוי [כתובות IP הגנה מקוונת של Exchange](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+- אם השגיאה היא ספציפית ל-Exchange Online הגנה (EOP), היה עליך לקבל הודעה בעבר לשינוי [בכתובות ה-IP של הגנת Exchange Online](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
 
-- ודא כי את ספק שירותי האינטרנט (ISP) אינה חוסמת את היציאה.
+- ודא שספק שירותי האינטרנט (ISP) אינו חוסם את היציאה.
 
-- אמת את חכמה מארח והיעד הגדרות השרת במחברים שלך.
+- אמת את הגדרות המחשב המארח החכם ושרת היעד במחברים.
 
-שים לב כי Office 365 לא תחסום חיבורים *נכנסים* באופן זה.
+שים לב ש-Microsoft 365 אינו חוסם חיבורים *נכנסים* באופן זה.

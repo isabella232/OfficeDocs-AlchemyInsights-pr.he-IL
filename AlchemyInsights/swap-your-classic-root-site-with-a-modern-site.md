@@ -2,7 +2,7 @@
 title: החלף את אתר השורש הקלאסי שלך עם אתר מודרני
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: fe1f0f662c49de2bd0b5b997697c98309cb7983f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042928"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741545"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>החלף את אתר השורש הקלאסי שלך עם אתר מודרני
 
@@ -28,7 +28,7 @@ ms.locfileid: "40042928"
 
 - יכולות נוספות יוצגו בקרוב שיאפשרו לך להמשיך להשתמש בתוכן באתר, אך להמיר את האתר הקיים לאתר תקשורת. 
 >[!Important]
->יכולות אלה יוגלגלו בהדרגה. המשך לבדוק אם קיימים עדכונים במרכז ההודעות של Office 365. 
+>יכולות אלה יוגלגלו בהדרגה. המשך לבדוק את מרכז ההודעות לקבלת עדכונים. 
 
 ## <a name="known-issues-with-swapping-sites"></a>בעיות ידועות עם החלפת אתרים
 
@@ -37,8 +37,3 @@ ms.locfileid: "40042928"
 - כל דבר התלוי בקישורים "סטטיים" (כגון קבצי סינכרון קבצים ו-OneNote) יהיה צורך לתקן באופן ידני.
 - אם אתר המקור היה אתר חדשות ארגוני, עדכן את כתובת ה-URL.תשיגי רשימה של כל. אתרי החדשות האירגוניים
 - ייתכן שיהיה צורך באימות של אתרי Project Server כדי לוודא שהם עדיין משויכים כראוי.
-
-
-
-
-

@@ -3,18 +3,18 @@ title: הגדרות Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 71e5fd3ed79619425bb797d70b1c0d872063365d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053262"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743562"
 ---
 # <a name="settings-in-outlookcom"></a>הגדרות בOutlook.com
 
@@ -30,7 +30,7 @@ ms.locfileid: "40053262"
     
     - קוד גישה לשימוש יחיד נשלח לאותה כתובת דואר אלקטרוני. הזן את הקוד בחלון הדפדפן ולאחר מכן בחר באפשרות ' **המשך** ' כדי לקרוא את ההודעה.
 
-- אם אין באפשרותך להצפין הודעות מארגון אחר של Office 365, בצע את שלבי הרזולוציה המצוינים [במאמר](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)זה.
+- אם אינך מצליח להצפין הודעות מארגון אחר, בצע את שלבי הרזולוציה המצוינים [במאמר](https://support.office.com/article/known-issues-opening-irm-protected-emails-sent-from-users-in-other-office-365-organizations-0dec0593-a05d-4aa2-8445-9311ebab3164)זה.
 
 - אם תיבת הדואר של הנמען נמצאת ב- **Yahoo או**ב-</span> Gmail, נא בצע את ההוראות שנמצאו [במאמר](https://support.office.com/article/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)זה.
 

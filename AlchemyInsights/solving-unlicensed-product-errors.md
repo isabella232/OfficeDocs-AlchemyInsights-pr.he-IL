@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 178811c81775b22676a0106283be4e516d40a95b
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 87a0a2be6b222d35acbc862eed4f14fb3e3e36ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628027"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764154"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>הצעות לפתרון שגיאות "מוצר לא מורשה"
 
 כדי לפתור שגיאות אודות "מוצר לא מורשה", נסה את הפעולות הבאות:
 
 - בדוק אם מצב המנוי שלך פג.
-- ודא שיש לך מנוי המאפשר רשיונות לקוח, כגון Office 365 Business או Premium Business, [וודא שהוקצה למשתמש רשיון](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
+- ודא שיש לך מנוי המאפשר רשיונות לקוח, כגון Microsoft 365 Apps לעסקים או לפרמיה עסקית, [וודא שהוקצה למשתמש רשיון](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
 - ודא שהמשתמש מבצע כניסה ל-Office עם אותו חשבון שהוקצה לו הרשיון.
-- בדוק את [דף תקינות השירות של Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) כדי לראות אם יש בעיות ידועות בשירות.
-- בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות ה-proxy כדי לוודא שהן אינן חוסמות גישה ליישומי Office לאינטרנט. ראה [כתובות Url של Office 365 וטווחי כתובות IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- בדוק את [דף התקינות של השירות](https://docs.microsoft.com/office365/enterprise/view-service-health) כדי לראות אם יש בעיות ידועות בשירות.
+- בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות ה-proxy כדי לוודא שהן אינן חוסמות גישה ליישומי Office לאינטרנט. ראה [כתובות url וטווחי כתובות IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 ניתן גם לנסות את הפעולות הבאות לפתרון בעיות: 
 
@@ -35,7 +35,7 @@ ms.locfileid: "39628027"
 - [אפס את מצב ההפעלה של Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
 - [בצע תיקון מקוון של Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-לקבלת פתרונות נוספים לפתרון בעיות, ראה: 
+לפתרונות נוספים, ראה: 
 
-- [שגיאות במוצר והפעלה ללא רשיון ב-Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
-- [מצטער, אנחנו לא יכולים. להתחבר לחשבון שלך נא נסה שוב מאוחר יותר את השגיאה בעת הפעלת Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+- [שגיאות מסוג "מוצר ללא רישיון" ושגיאות הפעלה ב- Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+- [השגיאה "מצטערים, אין לנו אפשרות להתחבר לחשבון שלך. נסה שוב במועד מאוחר יותר"בעת הפעלת Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

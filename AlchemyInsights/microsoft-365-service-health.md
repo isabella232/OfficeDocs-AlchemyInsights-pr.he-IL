@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 93b8c19afb7efb9dc3901e5b51217179a4e9e731
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e50c5091caeb0e85a55eeaf0b4776fabeccf2f20
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762390"
 ---
 # <a name="microsoft-365-service-health"></a>בריאות השירות של Microsoft 365
 
@@ -29,4 +29,4 @@ ms.locfileid: "42600493"
 
 - בחר **היסטוריה** כדי לסקור את היסטוריית התקינות של הארגון שלך. 
 
-לקבלת מידע נוסף, ראה [כיצד לבדוק את תקינות השירות של Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+לקבלת מידע נוסף, ראה [כיצד לבדוק את בריאות השירות של Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
