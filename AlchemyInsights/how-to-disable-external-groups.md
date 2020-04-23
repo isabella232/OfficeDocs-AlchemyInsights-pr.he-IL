@@ -2,7 +2,7 @@
 title: כיצד להשבית קבוצות חיצוניות
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2159feb4aa3999072de57d76790a2959c7355976
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36739494"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720769"
 ---
-# <a name="how-to-disable-external-groups"></a><span data-ttu-id="447a5-102">כיצד להשבית קבוצות חיצוניות</span><span class="sxs-lookup"><span data-stu-id="447a5-102">How to disable External Groups</span></span>
+# <a name="how-to-disable-external-groups"></a><span data-ttu-id="18379-102">כיצד להשבית קבוצות חיצוניות</span><span class="sxs-lookup"><span data-stu-id="18379-102">How to disable External Groups</span></span>
 
-<span data-ttu-id="447a5-103">העברת הודעות חיצונית של yammer מחילה את כללי התעבורה של Exchange (ETRs), קבוצה של פקדים מקדימים כדי למנוע שיתוף של מידע אודות החברה.</span><span class="sxs-lookup"><span data-stu-id="447a5-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="447a5-104">כדי להגביל את המשתמשים מיצירת קבוצות חיצוניות, עליך לקבוע את התצורה של כלל התעבורה של Exchange (ETR) ולאחר מכן לקבוע את התצורה של Yammer כדי להשתמש בכלל ' תעבורת Exchange ' כדי לחסום העברת הודעות חיצונית.</span><span class="sxs-lookup"><span data-stu-id="447a5-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
+<span data-ttu-id="18379-103">העברת הודעות חיצונית של yammer מחילה את כללי התעבורה של Exchange (ETRs), קבוצה של פקדים מקדימים כדי למנוע שיתוף של מידע אודות החברה.</span><span class="sxs-lookup"><span data-stu-id="18379-103">Yammer external messaging applies Exchange Transport Rules (ETRs), a set of proactive controls to prevent company information from being shared.</span></span> <span data-ttu-id="18379-104">כדי להגביל את המשתמשים מיצירת קבוצות חיצוניות, עליך לקבוע את התצורה של כלל התעבורה של Exchange (ETR) ולאחר מכן לקבוע את התצורה של Yammer כדי להשתמש בכלל ' תעבורת Exchange ' כדי לחסום העברת הודעות חיצונית.</span><span class="sxs-lookup"><span data-stu-id="18379-104">In order to restrict users from creating external groups, you need to configure an Exchange transport rule (ETR), and then configure Yammer to use the Exchange Transport rule to block external messaging.</span></span>
   
-<span data-ttu-id="447a5-105">לאחר שיצרת כלל במרכז ניהול מקוון של Exchange Online, בצע את השלבים הבאים כדי להגדיר את ETR להחלה ב-Yammer:</span><span class="sxs-lookup"><span data-stu-id="447a5-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
+<span data-ttu-id="18379-105">לאחר שיצרת כלל במרכז ניהול מקוון של Exchange Online, בצע את השלבים הבאים כדי להגדיר את ETR להחלה ב-Yammer:</span><span class="sxs-lookup"><span data-stu-id="18379-105">Once you have created a rule in Exchange Online admin center, follow these steps to set ETR to apply in Yammer:</span></span>
   
-- <span data-ttu-id="447a5-106">היכנס ליאממר כמנהל מאומת, **ובמרכז הניהול של יממר**, עבור אל **הגדרות התוכן ואבטחת האבטחה \> של C.**</span><span class="sxs-lookup"><span data-stu-id="447a5-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
+- <span data-ttu-id="18379-106">היכנס ליאממר כמנהל מאומת, **ובמרכז הניהול של יממר**, עבור אל **הגדרות התוכן ואבטחת האבטחה \> של C.**</span><span class="sxs-lookup"><span data-stu-id="18379-106">Log on to Yammer as a verified admin, and in the **Yammer admin center**, go to C **Content and Security \> Security Settings.**</span></span>
 
-- <span data-ttu-id="447a5-107">תחת **העברת הודעות חיצונית**, בחר **באפשרות אכוף את כללי תעבורת החליפין של Exchange Online (etrs) ביאממר.**</span><span class="sxs-lookup"><span data-stu-id="447a5-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
+- <span data-ttu-id="18379-107">תחת **העברת הודעות חיצונית**, בחר **באפשרות אכוף את כללי תעבורת החליפין של Exchange Online (etrs) ביאממר.**</span><span class="sxs-lookup"><span data-stu-id="18379-107">Under **External Messaging**, select **Enforce your Exchange Online Exchange Transport Rules (ETRs) in Yammer.**</span></span>
 
-- <span data-ttu-id="447a5-108">בחר **שמור**.</span><span class="sxs-lookup"><span data-stu-id="447a5-108">Choose **Save**.</span></span>
+- <span data-ttu-id="18379-108">בחר **שמור**.</span><span class="sxs-lookup"><span data-stu-id="18379-108">Choose **Save**.</span></span>
 
-<span data-ttu-id="447a5-109">לקבלת מידע נוסף, ראה [השבתת הודעות חיצוניות ברשת Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span><span class="sxs-lookup"><span data-stu-id="447a5-109">For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span></span>
+<span data-ttu-id="18379-109">לקבלת מידע נוסף, ראה [השבתת הודעות חיצוניות ברשת Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span><span class="sxs-lookup"><span data-stu-id="18379-109">For more information, see [Disable external messaging in a Yammer network](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).</span></span>
   
