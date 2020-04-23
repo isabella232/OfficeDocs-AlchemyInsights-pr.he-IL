@@ -1,9 +1,9 @@
 ---
-title: מחיקת איש קשר ב- Outlook באינטרנט
+title: מחיקת איש קשר ב-Outlook באינטרנט
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.custom:
 - "8000012"
 - "1997"
-ms.openlocfilehash: 20bce234fdc486d23ab24b059d9e78c836577481
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 695952c1c3179a41be1aa40b5be12c254687cb02
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510444"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721200"
 ---
-# <a name="delete-a-contact"></a><span data-ttu-id="c4f65-102">מחיקת איש קשר</span><span class="sxs-lookup"><span data-stu-id="c4f65-102">Delete a contact</span></span>
+# <a name="delete-a-contact"></a><span data-ttu-id="6d44e-102">מחיקת איש קשר</span><span class="sxs-lookup"><span data-stu-id="6d44e-102">Delete a contact</span></span>
 
-1. <span data-ttu-id="c4f65-103">בפינה התחתונה הימנית של הדף ב- Outlook באינטרנט, בחר</span><span class="sxs-lookup"><span data-stu-id="c4f65-103">At the bottom left corner of the page in Outlook on the web, select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />
- <span data-ttu-id="c4f65-104">**אנשים**.</span><span class="sxs-lookup"><span data-stu-id="c4f65-104">**People**.</span></span>
-2. <span data-ttu-id="c4f65-105">בחר את איש הקשר שברצונך למחוק ובחר **מחק**.</span><span class="sxs-lookup"><span data-stu-id="c4f65-105">Select the contact you want to delete and select **Delete**.</span></span>
+1. <span data-ttu-id="6d44e-103">בפינה השמאלית התחתונה של הדף ב-Outlook באינטרנט, בחר</span><span class="sxs-lookup"><span data-stu-id="6d44e-103">At the bottom left corner of the page in Outlook on the web, select</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' />
+ <span data-ttu-id="6d44e-104">**אנשים**.</span><span class="sxs-lookup"><span data-stu-id="6d44e-104">**People**.</span></span>
+2. <span data-ttu-id="6d44e-105">בחר את איש הקשר שברצונך למחוק ובחר **delete**.</span><span class="sxs-lookup"><span data-stu-id="6d44e-105">Select the contact you want to delete and select **Delete**.</span></span>
 
-<span data-ttu-id="c4f65-106">אם אין באפשרותך לבחור **למחוק**, איש הקשר ייתכן Skype או חשבון רשת חברתית מחובר.</span><span class="sxs-lookup"><span data-stu-id="c4f65-106">If you can't select **Delete**, the contact might be from Skype or a connected social network account.</span></span> <span data-ttu-id="c4f65-107">כדי למחוק את איש הקשר, עבור Skype או לחשבון שבו ממוקם איש הקשר.</span><span class="sxs-lookup"><span data-stu-id="c4f65-107">To delete the contact, go to Skype or the account where the contact is located.</span></span>
+<span data-ttu-id="6d44e-106">אם אין באפשרותך לבחור באפשרות **Delete**, ייתכן שאיש הקשר מגיע מסקייפ או מחשבון רשת חברתית מחובר.</span><span class="sxs-lookup"><span data-stu-id="6d44e-106">If you can't select **Delete**, the contact might be from Skype or a connected social network account.</span></span> <span data-ttu-id="6d44e-107">כדי למחוק את איש הקשר, עבור לסקייפ או לחשבון שבו ממוקם איש הקשר.</span><span class="sxs-lookup"><span data-stu-id="6d44e-107">To delete the contact, go to Skype or the account where the contact is located.</span></span>

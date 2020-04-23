@@ -1,24 +1,24 @@
 ---
 ms.author: pebaum
-title: בעיות ב- outlook עם Exchange 2007
+title: בעיות ב-Outlook עם Exchange 2007
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 1ebcbc27f1a508f56c82c7706be9209c22baa1c6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5fea63cad08955d340a0382145c433bbc48b40ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372813"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743310"
 ---
-# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a><span data-ttu-id="d6406-102">הפתרון עבור שגיאה "לא תוכל לקבל דואר מתיבת הדואר הנוכחי"</span><span class="sxs-lookup"><span data-stu-id="d6406-102">Solution for error “You won’t be able to receive mail from a current mailbox"</span></span>
-<span data-ttu-id="d6406-103">השגיאות הבאות תופיע אם תנסה להשתמש Outlook 365/2016 עם שרת Exchange 2007:</span><span class="sxs-lookup"><span data-stu-id="d6406-103">You will receive the following errors if you attempt to use Outlook 365/2016 with an Exchange 2007 server:</span></span>
+# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a><span data-ttu-id="2c32a-102">פתרון לשגיאה "לא תוכל לקבל דואר מתיבת דואר נוכחית"</span><span class="sxs-lookup"><span data-stu-id="2c32a-102">Solution for error “You won’t be able to receive mail from a current mailbox"</span></span>
+<span data-ttu-id="2c32a-103">אם תנסה להשתמש ב-Outlook 365/2016 עם שרת Exchange 2007, תקבל את השגיאות הבאות:</span><span class="sxs-lookup"><span data-stu-id="2c32a-103">You will receive the following errors if you attempt to use Outlook 365/2016 with an Exchange 2007 server:</span></span>
 
-<span data-ttu-id="d6406-104">*עצור, עליך להמתין כדי להתקין את Office 2016. לא תוכל לקבל דואר מתיבת הדואר הנוכחית. Outlook 2016 אינו תואם ל- Exchange 2007. ייתכן שתרצה לפנות לספק תיבת הדואר שלך או למנהל המערכת אודות בעיה זו. המשאב שאתה מנסה להשתמש נמצא על גירסה שאינה נתמכת של Microsoft Exchange. לקבלת סיוע, פנה אל מנהל הדואר האלקטרוני שלך.*</span><span class="sxs-lookup"><span data-stu-id="d6406-104">*Stop, you should wait to install Office 2016. You won’t be able to receive mail from a current mailbox. Outlook 2016 is not compatible with Exchange 2007. You may want to contact your mailbox provider or system administrator about this issue. The resource that you are trying to use is located on an unsupported version of Microsoft Exchange. Contact your e-mail administrator for assistance.*</span></span>
+<span data-ttu-id="2c32a-104">*עצור, אתה צריך לחכות כדי להתקין את Office 2016. לא תוכל לקבל דואר מתיבת דואר נוכחית. Outlook 2016 אינו תואם ל-Exchange 2007. ייתכן שתרצה לפנות לספק תיבת הדואר או למנהל המערכת בנוגע לבעיה זו. המשאב שבו אתה מנסה להשתמש ממוקם בגירסה שאינה נתמכת של Microsoft Exchange. פנה למנהל הדואר האלקטרוני שלך לקבלת סיוע.*</span><span class="sxs-lookup"><span data-stu-id="2c32a-104">*Stop, you should wait to install Office 2016. You won’t be able to receive mail from a current mailbox. Outlook 2016 is not compatible with Exchange 2007. You may want to contact your mailbox provider or system administrator about this issue. The resource that you are trying to use is located on an unsupported version of Microsoft Exchange. Contact your e-mail administrator for assistance.*</span></span>
 
-<span data-ttu-id="d6406-105">כדי להשתמש ב- Outlook עם Exchange 2007, באפשרותך להתקין Outlook 2013 אם שדרגת מגירסה קודמת של Outlook.</span><span class="sxs-lookup"><span data-stu-id="d6406-105">To use Outlook with Exchange 2007, you can install Outlook 2013 if you upgraded from an earlier version of Outlook.</span></span> <span data-ttu-id="d6406-106">לקבלת מידע נוסף, ראה [כיצד אני מחדש Office 2013 לאחר שדרוג Office 2016?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)</span><span class="sxs-lookup"><span data-stu-id="d6406-106">For more information, see [How do I reinstall Office 2013 after an Office 2016 upgrade?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)</span></span>
+<span data-ttu-id="2c32a-105">כדי להשתמש ב-Outlook עם Exchange 2007, באפשרותך להתקין את Outlook 2013 אם שדרגת מגירסה קודמת של Outlook.</span><span class="sxs-lookup"><span data-stu-id="2c32a-105">To use Outlook with Exchange 2007, you can install Outlook 2013 if you upgraded from an earlier version of Outlook.</span></span> <span data-ttu-id="2c32a-106">לקבלת מידע נוסף, ראה [כיצד ניתן להתקין מחדש את Office 2013 לאחר שדרוג של office 2016?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)</span><span class="sxs-lookup"><span data-stu-id="2c32a-106">For more information, see [How do I reinstall Office 2013 after an Office 2016 upgrade?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)</span></span>
