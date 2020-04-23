@@ -1,5 +1,5 @@
 ---
-title: הסר את תחום ה-GoDaddy שלך מ-Office 365
+title: הסר את תחום ה-GoDaddy שלך מ-Microsoft 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -11,14 +11,14 @@ ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 949e60cc3d6a50c7fa9a38f510b7e1cd9887be34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13b3bfaf1af9fb26c721e6d9c637b85d7da2332d
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: he-IL
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719089"
+ms.locfileid: "43789087"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a><span data-ttu-id="80709-102">הסר את תחום ה-GoDaddy שלך מ-Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="80709-102">Remove your GoDaddy domain from Microsoft 365</span></span>
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a><span data-ttu-id="c14cc-102">הסר את תחום ה-GoDaddy שלך מ-Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="c14cc-102">Remove your GoDaddy domain from Microsoft 365</span></span>
 
-<span data-ttu-id="80709-103">אנחנו לא יכולים להסיר את הדומיין שלך מ-Microsoft 365 עבורך.</span><span class="sxs-lookup"><span data-stu-id="80709-103">We can't remove your GoDaddy domain from Microsoft 365 for you.</span></span> <span data-ttu-id="80709-104">. תתקשר [לשירות הלקוחות של גואב](https://aka.ms/contact-godaddy) לעזרה</span><span class="sxs-lookup"><span data-stu-id="80709-104">Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
+<span data-ttu-id="c14cc-103">אנחנו לא יכולים להסיר את הדומיין שלך מ-Microsoft 365 עבורך.</span><span class="sxs-lookup"><span data-stu-id="c14cc-103">We can't remove your GoDaddy domain from Microsoft 365 for you.</span></span> <span data-ttu-id="c14cc-104">. תתקשר [לשירות הלקוחות של גואב](https://aka.ms/contact-godaddy) לעזרה</span><span class="sxs-lookup"><span data-stu-id="c14cc-104">Call [GoDaddy customer service](https://aka.ms/contact-godaddy) for help.</span></span>
   
