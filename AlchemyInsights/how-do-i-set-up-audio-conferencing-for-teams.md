@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692396"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709940"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – ועידות שמע
 
-זקוק לעזרה בהפעלה, או הגדרה של ועידות שמע ב-Microsoft Teams? האם משתמש זה נוצר לאחרונה?  אם כן, תצטרך להמתין בין שעתיים ל-24 שעות כדי שההגדרות ייכנסו לתוקף.    
+זקוק לעזרה בהפעלה, או הגדרה של ועידות שמע ב-Microsoft Teams? האם משתמש זה נוצר לאחרונה?  אם כן, תצטרך להמתין בין שעתיים ל-24 שעות כדי שההגדרות ייכנסו לתוקף.
 
 כדי לוודא שהמשתמש שלמשתמש יש רישיון לוועידות שמע ושיש לו מספר בתשלום המהווה ברירת מחדל:
 
@@ -39,4 +39,4 @@ ms.locfileid: "42692396"
 
 7. בחר את המשתמש המדובר ואמת שיש לו **מספר בתשלום המהווה ברירת מחדל**.
 
-לקבלת מידע נוסף, ראה [תוכניות שיחות עבור Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) או התקשר לצוות Microsoft Commerce Billing כדי שיעזרו לך עם שאלות שקשורות לרישוי.
+לקבלת מידע נוסף, ראה [תוכניות שיחה](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) או התקשר לצוות Microsoft Commerce Billing כדי שיעזרו לך עם שאלות שקשורות לרישוי.

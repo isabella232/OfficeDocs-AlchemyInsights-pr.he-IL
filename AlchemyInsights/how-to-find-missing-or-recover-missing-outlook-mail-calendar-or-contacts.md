@@ -12,18 +12,18 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: b9e602538d3c3e83b681cf644fd63c223bdbac93
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664147"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720697"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>כיצד לחפש ולשחזר הודעות, אנשי קשר או פריטי לוח שנה חסרים ב-Outlook
 
 - באפשרותך להשתמש ב- [I אני נתקל בבעיות בשליחה, קבלה או חיפוש של כלי דואר אלקטרוני](https://aka.ms/SaRA-OutlookSendReceive) במחשב המושפע. כלי זה יבדוק מספר בעיות ויציע פתרונות אפשריים.
 
-- [קבע אם החשבון נחשף לסכנה](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). במקרה של סכנה, בצע את השלבים [בתגובה לחשבון דואר אלקטרוני שנפרץ ב-Office 365.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+- [קבע אם החשבון נחשף לסכנה](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). במקרה של סכנה, בצע את השלבים [בתגובה לחשבון דואר אלקטרוני שנפרץ.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
 
 - [איתור ההודעה או הפריט באמצעות ' חיפוש מיידי '](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
 

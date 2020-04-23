@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059881"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720066"
 ---
 # <a name="update-credit-card-information"></a>עדכון פרטי כרטיס האשראי
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059881"
 
 אם אתה נתקל בבעיות בטעינת הדף, נסה לפתוח את דף האינטרנט בדפדפן אחר, או נסה לפתוח את הדף בחלון דפדפן פרטי, כגון חלון InPrivate ב- Microsoft Edge או חלון גלישה בסתר ב- Google Chrome. 
 
-לקבלת מידע נוסף, ראה [הוספה, עדכון או הסרה של כרטיס אשראי או חשבון בנק ב- Office 365 לעסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ו[פתרון בעיות בכרטיסי אשראי ובחשבונות בנק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+לקבלת מידע נוסף, ראה [הוספה, עדכון או הסרה של כרטיס אשראי או חשבון בנק ב- Microsoft 365 לעסקים](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) ו[פתרון בעיות בכרטיסי אשראי ובחשבונות בנק](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
