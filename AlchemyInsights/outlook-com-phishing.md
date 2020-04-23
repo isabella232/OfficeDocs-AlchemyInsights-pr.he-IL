@@ -1,9 +1,9 @@
 ---
-title: העוסקים דיוג ב- Outlook.com
+title: התמודדות עם דיוג בOutlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,19 +11,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 96445a7689a0760c3d9dcd8e99889749d07e569a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fe8d3b17aae386f04fae9c142eb608f504a380b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535795"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744920"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>כיצד להתמודד עם דואר אלקטרוני דיוג
+# <a name="how-to-deal-with-a-phishing-email"></a>כיצד להתמודד עם דואר אלקטרוני של דיוג
 
-הונאת דיוג היא דואר אלקטרוני לכאורה, אך הוא למעשה בניסיון לגנוב את המידע האישי שלך או כסף. נוכלים, באפשרותך גם להשתמש בטכניקה הקרויה זיוף כדי לגרום לו להופיע כאילו קיבלת הודעת דואר אלקטרוני מבעצמך.
+הונאת דיוג היא אימייל שמופיע לגיטימי אך הוא למעשה ניסיון לגנוב מידע אישי או כסף. נוכלים יכולים גם להשתמש בטכניקה הנקראת זיופים כדי לגרום לזה להיראות כאילו קיבלת דוא ל מעצמך.
 
-אם קיבלת הודעת דואר אלקטרוני שנראית הונאת דיוג, באפשרותך הדוח אותו על-ידי בחירה בהודעה ולאחר מכן בחירה **זבל** > **דיוג**.
+אם אתה מקבל דואר אלקטרוני שנראה כמו הונאת דיוג, באפשרותך לדווח עליו על-ידי בחירת ההודעה ולאחר מכן בחירת**דיוג** **זבל** > .
 
-*הערה:* בעת סימון הודעה כהודעה דיוג, רק דוחות אותו השולח.הוא לא תחסום שולח לשלוח לך הודעות בעתיד. כדי לחסום את השולח, עליך להוסיף את השולח לרשימת השולחים החסומים שלך. לקבלת מידע נוסף, ראה [חסימת שולחים או ביטול חסימה של שולחים ב- Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*הערה:* בעת סימון הודעה כדיוג, היא מדווחת רק על השולח.היא אינה חוסמת את השולח משליחת הודעות בעתיד. כדי לחסום את השולח, עליך להוסיף את השולח לרשימת השולחים החסומים שלך. לקבלת מידע נוסף, ראה [חסימת שולחים או ביטול חסימה של שולחים ב-Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-למד כיצד [להתמודד עם שימוש לרעה, גניבת זהות/סיסמה, או זיוף ב- Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) ואבטחה [מתקדמים Outlook.com עבור מנויי Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+למד כיצד [להתמודד עם התעללות, דיוג או התחזות בOutlook.com ובאבטחה](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) [Outlook.com מתקדמות עבור מנויים של Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -1,24 +1,24 @@
 ---
-title: 9000071 אין באפשרותך להקליד @ סימן ב- Mac
+title: 9000071 אין אפשרות להקליד את סמל @ ב-Mac
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: 3bc9915516b268ba8175907bec3a8530351f9f40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d252d547757b3bf25dc4f71cf478119f32883be
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43746484"
 ---
-# <a name="how-to-type-special-characters-on-a-mac"></a>כיצד להקליד תווים מיוחדים ב- Mac
+# <a name="how-to-type-special-characters-on-a-mac"></a>כיצד להקליד תווים מיוחדים ב-Mac
 
-כדי להקליד תווים מיוחדים ב- Mac שלך, פתח את תפריט **תווים מיוחדים** עם קיצור המקשים ⌘ **הפקודה** + **שליטה** + **שטח**.
+כדי להקליד תווים מיוחדים ב-Mac שלך, פתח את התפריט **תווים מיוחדים** באמצעות**מרחב****בקרת** +  **הפקודה** + ⌘.
 
-קיצור דרך מהירה עבור @ הוא גם **ALT** + **64**.
+קיצור דרך מהיר עבור @ הוא גם **ALT** + **64**.
