@@ -3,7 +3,7 @@ title: הסרת התקנה של Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1936"
 - "9000201"
-ms.openlocfilehash: 50ad03e19b746c37949ddc85c17428d7dbd79efe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d4ef4295bda8c4845271162f8b0b591ea810eddd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506444"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43728788"
 ---
 # <a name="uninstall-visio"></a>הסרת התקנה של Visio
 
-הורד והתקן את [התמיכה ומסייע השחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+הורד והתקן את [מסייע התמיכה והשחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. כשהוא נפתח, מתוך **מוצרים להסיר את ההתקנה של Office** , בחר את הגירסה של Visio שברצונך להסיר ובחר **הבא**. 
+1. כאשר הוא נפתח, מתוך **הסרת התקנה של מוצרי Office** בחר בגירסת Visio שברצונך להסיר את התקנתה ובחר באפשרות **הבא**. 
     
-2. המשך לעבור מסכים והפעל מחדש את המחשב כאשר תתבקש לעשות זאת.
+2. המשך לעבור בין המסכים ולהפעיל מחדש את המחשב כאשר תתבקש לעשות זאת.
     
-    לאחר ההפעלה מחדש, התמיכה ומסייע השחזור פותח באופן אוטומטי מחדש כדי להשלים את תהליך הסרת ההתקנה.
+    לאחר הפעלה מחדש, מסייע התמיכה והשחזור נפתח מחדש באופן אוטומטי כדי להשלים את תהליך הסרת ההתקנה.
     
-3. בצע את ההנחיות הנותרות ולאחר אם יש לך מנוי המקוון של Visio, באפשרותך להתקין מחדש את Visio מתוך [חשבון בפורטל](https://portal.office.com/account#installs)של Office 365. לקבלת עזרה נוספת או עזרה עם התקנת גירסאות ללא מנוי של Visio כגון Visio Professional, ראה [התקנת Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
+3. עקוב אחר ההנחיות הנותרות, ואם יש לך מנוי ל-Visio Online, באפשרותך להתקין מחדש את Visio [מפורטל החשבון](https://portal.office.com/account#installs)של Microsoft 365. לקבלת עזרה נוספת או עזרה בהתקנת גירסאות שאינן מנויים של Visio כגון Visio Professional, ראה [התקנת visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936). 
     
-לקבלת רשימה של אפשרויות אחרות של הסרת התקנה, בחר [הסר את Office ממחשב](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).
+לקבלת רשימה של אפשרויות נוספות להסרת התקנה, בחר את [הסרת ההתקנה של Office ממחשב](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1936).

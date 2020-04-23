@@ -1,9 +1,9 @@
 ---
-title: כללי תיבת דואר נכנס 929 על כללי deflectTransport
+title: 929 כללי תיבת הדואר הנכנס ל-הגנה כללים
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499597"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724593"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>כללי זרימת דואר (המכונה גם כללי תעבורה)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>כללי זרימת דואר (המכונים גם כללי תעבורה)
 
-- מבט כולל על כללי זרימת דואר: [דואר זרימה כללים (תעבורה כללים) ב- Exchange באופן מקוון](https://technet.microsoft.com/library/jj919238.aspx)
+- מבט כללי על כללי זרימת דואר: [כללי זרימת דואר (כללי תעבורה) ב-Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- הגדרת כללי זרימת דואר: [דואר זרימה הליכים כלל ב- Exchange באופן מקוון](https://technet.microsoft.com/library/dn600436.aspx)
+- הגדרת כללי זרימת דואר: [שגרות כלל זרימת דואר ב-Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
-- יצירה, שינוי ומחיקה של כללי זרימת דואר: [ניהול כללי של זרימת דואר](https://technet.microsoft.com/library/jj657505.aspx)
+- יצירה, שינוי ומחיקה של כללי זרימת דואר: [ניהול כללי זרימת דואר](https://technet.microsoft.com/library/jj657505.aspx)
 
-באפשרותך גם לנהל כללי זרימת דואר ב- Exchange Online PowerShell. לקבלת מידע נוסף, ראה [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (תצוגה), [TransportRule חדש](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (צור), [TransportRule הסרה](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (מחיקה), [קבוצת-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (שינוי קיים), [TransportRule הפוך ללא זמין](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (disable קיימים), ו- [אפשר-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (הקיימת לזמינה).
+באפשרותך גם לנהל כללי זרימת דואר ב-Exchange Online PowerShell. לקבלת מידע נוסף, ראה התחבורה (תצוגה), [התחבורה החדשה](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) ( [ליצור](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) ), [הסרה-התחבורה](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (למחוק), [הגדרת ההעברה](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (לשנות קיים), [השבתת התחבורה](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (להשבית את הקיים), ו [-הפעל](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) מחדש (לאפשר קיים).
 
-כלי cmdlet של כלל זרימת דואר נוספים: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (רשימת פעולות זמינות), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (רשימה זמינה ותנאים חריגים), [ייצוא-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (ייצוא כללים) ו- [ ייבוא-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (ייבוא כללי).
+יישומוני cmdlet נוספים של כללי זרימת דואר: [מקבל התחבורה](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (רשימת פעולות זמינות), [קבל-התחבורה](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (רשימת תנאים וחריגים זמינים), [ייצוא התחבורה](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (כללי ייצוא), ו [-ייבוא התחבורה](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (כללי ייבוא).
