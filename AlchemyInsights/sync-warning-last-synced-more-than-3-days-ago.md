@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: ef896e79e46c7ef766234fadb57642b8a9736859
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: b515b75d1694488d034e773f3d2ad4d4ab58af96
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599917"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766926"
 ---
-# <a name="sync-warning-last-synced-more-than-3-days-ago"></a><span data-ttu-id="ab660-102">אזהרת סינכרון: הסינכרון האחרון לפני יותר מ-3 ימים</span><span class="sxs-lookup"><span data-stu-id="ab660-102">Sync warning: last synced more than 3 days ago</span></span>
+# <a name="sync-warning-last-synced-more-than-3-days-ago"></a><span data-ttu-id="e80f1-102">אזהרת סינכרון: הסינכרון האחרון לפני יותר מ-3 ימים</span><span class="sxs-lookup"><span data-stu-id="e80f1-102">Sync warning: last synced more than 3 days ago</span></span>
 
-<span data-ttu-id="ab660-103">לקבלת פתרון בעיות נוסף, ראה [תיקון בעיות בסינכרון ספריות עבור Office 365](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).</span><span class="sxs-lookup"><span data-stu-id="ab660-103">For additional troubleshooting, see [Fixing problems with directory synchronization for Office 365](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).</span></span>
+<span data-ttu-id="e80f1-103">לקבלת פתרון בעיות נוסף, ראה [תיקון בעיות בסינכרון ספריות](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).</span><span class="sxs-lookup"><span data-stu-id="e80f1-103">For additional troubleshooting, see [Fixing problems with directory synchronization](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).</span></span>
 
-<span data-ttu-id="ab660-104">באפשרותך לבדוק את מצב הסינכרון בפורטל הניהול של Office על-ידי ביצוע ההוראות [במצב סינכרון מדריך כתיקיות ב-office 365](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).</span><span class="sxs-lookup"><span data-stu-id="ab660-104">You can check sync status in the Office admin portal by following the instructions in [View directory synchronization status in Office 365](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).</span></span>
+<span data-ttu-id="e80f1-104">באפשרותך לבדוק את מצב הסינכרון בפורטל הניהול של Office על-ידי ביצוע ההוראות [במצב סינכרון מדריך כתיקיות](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).</span><span class="sxs-lookup"><span data-stu-id="e80f1-104">You can check sync status in the Office admin portal by following the instructions in [View directory synchronization status](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).</span></span>
 

@@ -1,8 +1,8 @@
 ---
-title: שלבים לפתרון שגיאה ההפעלה של Office 0xc004b100
+title: שלבים לפתרון שגיאת הפעלת Office 0xc004b100
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,17 +12,17 @@ ms.custom:
 - "1262"
 - "2000021"
 ms.assetid: 05d36350-3b1e-4a5b-bbb1-0791ae727b8a
-ms.openlocfilehash: 49ebcd433414a07becb035c36903d53a77f98872
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ac4692a9e0af76ce1516882177ab3b8cc61c20c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534384"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763968"
 ---
-# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a><span data-ttu-id="ce9e8-102">שלבים לפתרון שגיאה ההפעלה של Office 0xc004b100</span><span class="sxs-lookup"><span data-stu-id="ce9e8-102">Steps to resolve Office activation error 0xc004b100</span></span>
+# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a><span data-ttu-id="0c8f3-102">שלבים לפתרון שגיאת הפעלת Office 0xc004b100</span><span class="sxs-lookup"><span data-stu-id="0c8f3-102">Steps to resolve Office activation error 0xc004b100</span></span>
 
-<span data-ttu-id="ce9e8-103">נסה פתרונות אלה כדי לתקן את השגיאה ההפעלה של Office 0xc004b100:</span><span class="sxs-lookup"><span data-stu-id="ce9e8-103">Try these solutions to fix the Office activation error 0xc004b100:</span></span>
+<span data-ttu-id="0c8f3-103">נסה פתרונות אלה כדי לתקן את שגיאת ההפעלה של Office 0xc004b100:</span><span class="sxs-lookup"><span data-stu-id="0c8f3-103">Try these solutions to fix the Office activation error 0xc004b100:</span></span>
   
-1. <span data-ttu-id="ce9e8-104">לבצע [מקוון תיקון של Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="ce9e8-104">Perform an [Online Repair of Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
+1. <span data-ttu-id="0c8f3-104">בצע [תיקון מקוון של Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="0c8f3-104">Perform an [Online Repair of Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
 
-2. <span data-ttu-id="ce9e8-105">להוריד להתקין את [תמיכת ומסייע השחזור](https://aka.ms/SARA-OfficeActivation-Alchemy) ולהפעיל את **פותר הבעיות של הפעלה**.</span><span class="sxs-lookup"><span data-stu-id="ce9e8-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
+2. <span data-ttu-id="0c8f3-105">הורד והתקן את [מסייע התמיכה והשחזור](https://aka.ms/SARA-OfficeActivation-Alchemy) והפעל את **פותר בעיות ההפעלה**.</span><span class="sxs-lookup"><span data-stu-id="0c8f3-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>

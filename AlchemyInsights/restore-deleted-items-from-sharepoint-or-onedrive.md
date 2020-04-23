@@ -3,7 +3,7 @@ title: שחזור פריטים שנמחקו מתוך SharePoint או OneDrive
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 588c774d56ab092e7d50321ca6be9e2dd4f03f16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551884"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742516"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="b5680-102">שחזור פריטים שנמחקו מתוך SharePoint או OneDrive</span><span class="sxs-lookup"><span data-stu-id="b5680-102">Restore deleted items from SharePoint or OneDrive</span></span>
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a><span data-ttu-id="625f6-102">שחזור פריטים שנמחקו מתוך SharePoint או OneDrive</span><span class="sxs-lookup"><span data-stu-id="625f6-102">Restore deleted items from SharePoint or OneDrive</span></span>
 
-1. <span data-ttu-id="b5680-103">עבור אל OneDrive שלך או אתר ה-SharePoint.</span><span class="sxs-lookup"><span data-stu-id="b5680-103">Go to your OneDrive or the SharePoint site.</span></span>
+1. <span data-ttu-id="625f6-103">עבור אל הכונן הנכנס שלך או אל אתר ה-SharePoint.</span><span class="sxs-lookup"><span data-stu-id="625f6-103">Go to your OneDrive or the SharePoint site.</span></span>
     
-2. <span data-ttu-id="b5680-104">בחלונית הימנית, לחץ על **סל המיחזור** .</span><span class="sxs-lookup"><span data-stu-id="b5680-104">Click **Recycle Bin** in the left pane.</span></span> 
+2. <span data-ttu-id="625f6-104">לחץ על **סל המיחזור** בחלונית הימנית.</span><span class="sxs-lookup"><span data-stu-id="625f6-104">Click **Recycle Bin** in the left pane.</span></span> 
     
-3. <span data-ttu-id="b5680-105">לחץ מימין של פריטים או קבצים שברצונך לשחזר.</span><span class="sxs-lookup"><span data-stu-id="b5680-105">Click to the left of the items or files you want to restore.</span></span>
+3. <span data-ttu-id="625f6-105">לחץ משמאל לפריטים או לקבצים שברצונך לשחזר.</span><span class="sxs-lookup"><span data-stu-id="625f6-105">Click to the left of the items or files you want to restore.</span></span>
     
-4. <span data-ttu-id="b5680-106">לחץ על **שחזר**.</span><span class="sxs-lookup"><span data-stu-id="b5680-106">Click **Restore**.</span></span> 
+4. <span data-ttu-id="625f6-106">לחץ על **שחזר**.</span><span class="sxs-lookup"><span data-stu-id="625f6-106">Click **Restore**.</span></span> 
     
-<span data-ttu-id="b5680-107">בעת מחיקת קבצים, תיקיות, ספריות, רשימות ופריטי רשימה מאתר SharePoint, הם יעברו אל סל המיחזור, היכן הם אתה הנשמרות עבור ימים 93 אלא אם מישהו מוחק אותם זה מסל המיחזור.</span><span class="sxs-lookup"><span data-stu-id="b5680-107">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin.</span></span> <span data-ttu-id="b5680-108">אם הם למחוק מתוך זה סל המיחזור (הנקרא סל המיחזור של האתר), הן לאוסף האתרים סל המיחזור עבור משך הזמן הנותר ולאחר מכן נמחקים לצמיתות.</span><span class="sxs-lookup"><span data-stu-id="b5680-108">If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted.</span></span> <span data-ttu-id="b5680-109">שנמחקו אתרים ואוספי אתרים עבור ישירות אל אוסף האתרים סל המיחזור עבור הימים 93.</span><span class="sxs-lookup"><span data-stu-id="b5680-109">Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
+<span data-ttu-id="625f6-107">כאשר קבצים, תיקיות, ספריות, רשימות ופריטי רשימה נמחקים מאתר SharePoint, הם מולכים לסל המיחזור, שם הם נשמרים במשך 93 ימים אלא אם מישהו מוחק אותם מסל מיחזור זה.</span><span class="sxs-lookup"><span data-stu-id="625f6-107">When files, folders, libraries, lists, and list items are deleted from a SharePoint site, they go to the Recycle Bin, where they're kept for 93 days unless someone deletes them from this Recycle Bin.</span></span> <span data-ttu-id="625f6-108">אם הם נמחקים מסל מיחזור זה (נקרא סל המיחזור של האתר), הם מולכים לסל המיחזור של אוסף האתרים עבור הזמן הנותר ולאחר מכן נמחקים לצמיתות.</span><span class="sxs-lookup"><span data-stu-id="625f6-108">If they're deleted from this Recycle Bin (called the site Recycle Bin), they go to the site collection Recycle Bin for the remaining time, and then are permanently deleted.</span></span> <span data-ttu-id="625f6-109">אתרים שנמחקו ואוספי אתרים מולכים ישירות לסל המיחזור של אוסף האתרים עבור 93 הימים.</span><span class="sxs-lookup"><span data-stu-id="625f6-109">Deleted sites and site collections go directly to the site collection Recycle Bin for the 93 days.</span></span>
   
-<span data-ttu-id="b5680-110">[שחזור פריטים באוסף האתרים סל המיחזור](https://go.microsoft.com/fwlink/?linkid=867800) (מנהלים של אוסף אתרים)</span><span class="sxs-lookup"><span data-stu-id="b5680-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
+<span data-ttu-id="625f6-110">[שחזור פריטים בסל המיחזור של אוסף האתרים](https://go.microsoft.com/fwlink/?linkid=867800) (מנהלי אוסף אתרים)</span><span class="sxs-lookup"><span data-stu-id="625f6-110">[Restore items in the site collection Recycle Bin](https://go.microsoft.com/fwlink/?linkid=867800) (site collection admins)</span></span> 
   
-<span data-ttu-id="b5680-111">[שחזור למחוק אוספי אתרים](https://go.microsoft.com/fwlink/?linkid=867660) (כללית או מנהלים SharePoint ב- Office 365)</span><span class="sxs-lookup"><span data-stu-id="b5680-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Office 365)</span></span> 
+<span data-ttu-id="625f6-111">[שחזור אוספי אתרים שנמחקו](https://go.microsoft.com/fwlink/?linkid=867660) (מנהלים גלובליים או SharePoint ב-Microsoft 365)</span><span class="sxs-lookup"><span data-stu-id="625f6-111">[Restore deleted site collections](https://go.microsoft.com/fwlink/?linkid=867660) (global or SharePoint admins in Microsoft 365)</span></span> 
   
-<span data-ttu-id="b5680-112">עבור אתרים השייכים לקבוצת Office 365, עליך לשחזר את הקבוצה כדי לשחזר את האתר.</span><span class="sxs-lookup"><span data-stu-id="b5680-112">For sites that belong to an Office 365 group, you need to restore the group to restore the site.</span></span> <span data-ttu-id="b5680-113">ראה [לשחזר קבוצה שנמחקה Office 365](https://go.microsoft.com/fwlink/?linkid=867802) (מנהל כללי)</span><span class="sxs-lookup"><span data-stu-id="b5680-113">See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
+<span data-ttu-id="625f6-112">עבור אתרים השייכים לקבוצת Office 365, עליך לשחזר את הקבוצה כדי לשחזר את האתר.</span><span class="sxs-lookup"><span data-stu-id="625f6-112">For sites that belong to an Office 365 group, you need to restore the group to restore the site.</span></span> <span data-ttu-id="625f6-113">ראה [שחזור קבוצת Office 365 שנמחקה](https://go.microsoft.com/fwlink/?linkid=867802) (מנהל כללי)</span><span class="sxs-lookup"><span data-stu-id="625f6-113">See [Restore a deleted Office 365 group](https://go.microsoft.com/fwlink/?linkid=867802) (global admin)</span></span> 
   
 
