@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059975"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784548"
 ---
 # <a name="set-up-insider-risk-management"></a>הגדר ניהול סיכונים פנימיים
 
@@ -26,13 +26,13 @@ ms.locfileid: "43059975"
 
 - מנוי **Microsoft 365 E3** עם תוספת התאימות של Microsoft E5.
 
-אם אין לך תוכנית **Microsoft 365 E5** קיימת ואתה רוצה לנסות ניהול סיכונים פנימיים, באפשרותך להוסיף את Microsoft 365 למנוי Office 365 הקיים או להירשם לגירסת ניסיון של Microsoft 365 Enterprise E5.
+אם אין לך תוכנית **Microsoft 365 E5** קיימת ואתה רוצה לנסות את 'ניהול סיכונים פנימיים', באפשרותך להוסיף את Microsoft 365 למנוי הקיים שלך או להירשם לגירסת ניסיון של Microsoft 365 Enterprise E5.
 
 השלבים הבסיסיים לשימוש בניהול הסיכונים הפנימיים כוללים:
 
 1. להפוך הרשאות עבור ניהול סיכונים פנימיים לזמינות.
 
-2. להפוך את יומן הביקורת של Office 365 לזמין.
+2. הפיכת יומן הביקורת לזמין.
 
 3. קביעת התצורה של דרישות מוקדמות עבור תבנית (אופציונלי).
 

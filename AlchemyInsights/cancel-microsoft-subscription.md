@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002287"
 - "4420"
-ms.openlocfilehash: 6ca5ab985543e81108c85094f34bae84668c9978
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
+ms.openlocfilehash: 45f7c4c14287125fd928f13c08d459dd204409cc
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102637"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784260"
 ---
 # <a name="cancel-microsoft-subscription"></a>ביטול מינוי Microsoft
 
-אם ברצונך לבטל מינוי ל- Microsoft או מינוי ניסיון, כולל Xbox Live ו- Office 365, ראה [כיצד לבטל את המינוי שלך ל- Microsoft](https://support.microsoft.com/help/4027815).
+אם ברצונך לבטל מינוי ל- Microsoft או מינוי ניסיון, כולל Xbox Live ו- Microsoft 365, ראה [כיצד לבטל את המינוי שלך ל- Microsoft](https://support.microsoft.com/help/4027815).
 
 **שים לב**: עבור החזרים, החזרות או החלפות, ראה [החזרת פריטים שקנית ב- Microsoft להחלפה או לקבלת החזר כספי](https://support.microsoft.com/help/10558). באפשרותך לבדוק את [היסטוריית ההזמנות](https://account.microsoft.com/billing/orders/) כדי לאמת את הזמנתך מ- Microsoft. 
 

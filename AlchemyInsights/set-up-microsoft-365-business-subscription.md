@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: e631beacddb6829eb226e889b67439118ffb2a05
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: df3a236ca99df07cb162d884bd718db6efcf6d65
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764478"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787767"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>הגדרת מנוי Microsoft 365 Business
 
-לקבלת סיור מודרך, פנה אל [הגדר את Office 365 עבור העסק שלך](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide) כדי לעזור לך להגדיר עם מנוי Business שלך. 
+לקבלת הדרכה, עיין ב[הגדרת Microsoft 365 לעסקים](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide) כדי לקבל עזרה בהגדרת מנוי Business שלך. 
 
 **עוד משאבים מעולים**
 
