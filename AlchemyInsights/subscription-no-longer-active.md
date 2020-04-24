@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 0556a27795e6bff0969dae292d4f3f3d14dd31b4
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154327"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789231"
 ---
 # <a name="subscription-no-longer-active"></a>המנוי כבר לא פעיל
 
-אם [מופיעה הודעת מנוי כאשר יישום Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB) פתוח, סביר להניח שתצטרך להפעיל מחדש את המנוי.
+אם [מופיעה הודעת מינוי כאשר יישום Microsoft](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB) נפתח, סביר להניח שתצטרך להפעיל מחדש את המינוי.
 
 **הפעלה מחדש של מנוי**
 
@@ -28,7 +28,7 @@ ms.locfileid: "43154327"
 
 2. בדף ‘מוצרים ושירותים‘, חפש את המנוי שברצונך להפעיל מחדש.
 
-3. במקטע החיוב, לחץ על **הפעל מחדש כעת**.  אם אתה בתצוגת ‘כרטיסים‘, לחץ על שלוש הנקודות בין השם לבין כמות זמינה ובחר הפעלה מחדש מהתפריט. **הערה**: אם אינך רואה את המנוי שאותו אתה מחפש, ייתכן שתצטרך להתאים את המסנן מצב המנוי שבסמוך לחלק העליון של הדף למצב **הכל**.
+3. במקטע ‘חיוב‘, לחץ על **הפעל מחדש כעת**.  אם אתה בתצוגת ‘כרטיסים‘, לחץ על שלוש הנקודות בין השם לבין כמות זמינה ובחר הפעלה מחדש מהתפריט. **הערה**: אם אינך רואה את המנוי שאותו אתה מחפש, ייתכן שתצטרך להתאים את המסנן מצב המנוי שבסמוך לחלק העליון של הדף למצב **הכל**.
 
 4. אשר את פרטי החיוב שלך כדי לעדכן את פרטי החיוב הקיימים. לאחר שסיימת להזין את שיטת התשלום שלך, לחץ על **הפעלה מחדש**.
 
