@@ -3,7 +3,7 @@ title: חסימה או ביטול חסימה של שולחים בOutlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,29 +15,28 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
+ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717765"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43793956"
 ---
-# <a name="block-or-unblock-senders"></a><span data-ttu-id="9bd59-102">חסימה או ביטול חסימה של שולחים</span><span class="sxs-lookup"><span data-stu-id="9bd59-102">Block or unblock senders</span></span>
+# <a name="block-or-unblock-senders"></a><span data-ttu-id="7ff10-102">חסימה או ביטול חסימה של שולחים</span><span class="sxs-lookup"><span data-stu-id="7ff10-102">Block or unblock senders</span></span>
 
-<span data-ttu-id="9bd59-103">הודעות מכתובות דואר אלקטרוני או מתחומים בשולחים החסומים שלך ללכת ישירות לתיקיה דואר זבל של Outlook שלך.</span><span class="sxs-lookup"><span data-stu-id="9bd59-103">Messages from email addresses or domains on your blocked senders go directly to your Outlook Junk Email folder.</span></span> <span data-ttu-id="9bd59-104">דוא ל מוסר באופן אוטומטי מהתיקיה דואר זבל לאחר 30 ימים והוא לא ההשבה.</span><span class="sxs-lookup"><span data-stu-id="9bd59-104">Email is automatically removed from the Junk Email folder after 30 days and is not recoverable.</span></span> <span data-ttu-id="9bd59-105">בחר פריט כדי לראות מתי הוא יוסר.</span><span class="sxs-lookup"><span data-stu-id="9bd59-105">Select an item to see when it will be removed.</span></span>
+<span data-ttu-id="7ff10-103">הודעות מכתובות דואר אלקטרוני או מתחומים ברשימת השולחים החסומים לא יגיעו לתיבת הדואר Outlook.com.</span><span class="sxs-lookup"><span data-stu-id="7ff10-103">Messages from email addresses or domains on your blocked senders list will not come to your Outlook.com mailbox.</span></span>
 
-<span data-ttu-id="9bd59-106">**מתיבת הדואר הנכנס שלך:**</span><span class="sxs-lookup"><span data-stu-id="9bd59-106">**From your inbox:**</span></span>
+<span data-ttu-id="7ff10-104">**מתיבת הדואר הנכנס שלך:**</span><span class="sxs-lookup"><span data-stu-id="7ff10-104">**From your inbox:**</span></span>
 
-- <span data-ttu-id="9bd59-107">ברשימת ההודעות, בחר את ההודעה ולאחר מכן בחר**בבלוק** **זבל** > .</span><span class="sxs-lookup"><span data-stu-id="9bd59-107">In the message list, select the message and then select **Junk** > **Block**.</span></span>
-- <span data-ttu-id="9bd59-108">**הערה:** חסימת פריט שכבר נמצא בתיקיה ' דואר זבל ' לא תמחק אותה.</span><span class="sxs-lookup"><span data-stu-id="9bd59-108">**Note:** Blocking an item already in your Junk Email folder will not delete it.</span></span>
+- <span data-ttu-id="7ff10-105">ברשימת ההודעות, בחר את ההודעה ולאחר מכן בחר**בבלוק** **זבל** > .</span><span class="sxs-lookup"><span data-stu-id="7ff10-105">In the message list, select the message and then select **Junk** > **Block**.</span></span>
 
-<span data-ttu-id="9bd59-109">**מתוך הגדרות:**</span><span class="sxs-lookup"><span data-stu-id="9bd59-109">**From Settings:**</span></span>
+<span data-ttu-id="7ff10-106">**מתוך הגדרות:**</span><span class="sxs-lookup"><span data-stu-id="7ff10-106">**From Settings:**</span></span>
 
-1. <span data-ttu-id="9bd59-110">פתח את הגדרות [דואר "זבל"](https://outlook.live.com/mail/options/mail/junkEmail) .</span><span class="sxs-lookup"><span data-stu-id="9bd59-110">Open [Junk email](https://outlook.live.com/mail/options/mail/junkEmail) settings.</span></span>
-2. <span data-ttu-id="9bd59-111">תחת **שולחים ותחומים חסומים**, בחר באפשרות **הוספה**.</span><span class="sxs-lookup"><span data-stu-id="9bd59-111">Under **Blocked senders and domains**, select **Add**.</span></span>
-3. <span data-ttu-id="9bd59-112">הקלד את כתובת הדואר האלקטרוני של קבוצת המחשבים שברצונך לחסום והקש Enter.</span><span class="sxs-lookup"><span data-stu-id="9bd59-112">Type the email address of domain that you want to block and press Enter.</span></span>
-4. <span data-ttu-id="9bd59-113">בחר \*\* שמור\*\*.</span><span class="sxs-lookup"><span data-stu-id="9bd59-113">Select **Save**.</span></span>
+1. <span data-ttu-id="7ff10-107">פתח את הגדרות [דואר "זבל"](https://outlook.live.com/mail/options/mail/junkEmail) .</span><span class="sxs-lookup"><span data-stu-id="7ff10-107">Open [Junk email](https://outlook.live.com/mail/options/mail/junkEmail) settings.</span></span>
+2. <span data-ttu-id="7ff10-108">תחת **שולחים ותחומים חסומים**, בחר באפשרות **הוספה**.</span><span class="sxs-lookup"><span data-stu-id="7ff10-108">Under **Blocked senders and domains**, select **Add**.</span></span>
+3. <span data-ttu-id="7ff10-109">הקלד את כתובת הדואר האלקטרוני של קבוצת המחשבים שברצונך לחסום והקש Enter.</span><span class="sxs-lookup"><span data-stu-id="7ff10-109">Type the email address of domain that you want to block and press Enter.</span></span>
+4. <span data-ttu-id="7ff10-110">בחר \*\* שמור\*\*.</span><span class="sxs-lookup"><span data-stu-id="7ff10-110">Select **Save**.</span></span>
 
-<span data-ttu-id="9bd59-114">כדי לבטל חסימה של שולח, בחר את סמל האשפה שליד כתובת הדואר האלקטרוני או קבוצת המחשבים שברצונך לבטל את חסימת החסימה.</span><span class="sxs-lookup"><span data-stu-id="9bd59-114">To unblock a sender, select the trash icon next to the email address or domain you want to unblock.</span></span>
+<span data-ttu-id="7ff10-111">כדי לבטל חסימה של שולח, בחר את סמל האשפה שליד כתובת הדואר האלקטרוני או קבוצת המחשבים שברצונך לבטל את חסימת החסימה.</span><span class="sxs-lookup"><span data-stu-id="7ff10-111">To unblock a sender, select the trash icon next to the email address or domain you want to unblock.</span></span>
 
-<span data-ttu-id="9bd59-115">כדי ללמוד עוד, ראה [סימון דואר אלקטרוני כשולחים דואר זבל או חסימה ב-Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="9bd59-115">To learn more, see [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="7ff10-112">כדי ללמוד עוד, ראה [חסימת שולחים או סימון דואר אלקטרוני כדואר זבל](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7ff10-112">To learn more, see [Block senders or mark email as junk](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
