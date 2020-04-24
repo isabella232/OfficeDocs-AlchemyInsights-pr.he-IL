@@ -3,7 +3,7 @@ title: חסימה או ביטול חסימה של שולחים בOutlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,21 +15,20 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
+ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717765"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43793956"
 ---
 # <a name="block-or-unblock-senders"></a>חסימה או ביטול חסימה של שולחים
 
-הודעות מכתובות דואר אלקטרוני או מתחומים בשולחים החסומים שלך ללכת ישירות לתיקיה דואר זבל של Outlook שלך. דוא ל מוסר באופן אוטומטי מהתיקיה דואר זבל לאחר 30 ימים והוא לא ההשבה. בחר פריט כדי לראות מתי הוא יוסר.
+הודעות מכתובות דואר אלקטרוני או מתחומים ברשימת השולחים החסומים לא יגיעו לתיבת הדואר Outlook.com.
 
 **מתיבת הדואר הנכנס שלך:**
 
 - ברשימת ההודעות, בחר את ההודעה ולאחר מכן בחר**בבלוק** **זבל** > .
-- **הערה:** חסימת פריט שכבר נמצא בתיקיה ' דואר זבל ' לא תמחק אותה.
 
 **מתוך הגדרות:**
 
@@ -40,4 +39,4 @@ ms.locfileid: "43717765"
 
 כדי לבטל חסימה של שולח, בחר את סמל האשפה שליד כתובת הדואר האלקטרוני או קבוצת המחשבים שברצונך לבטל את חסימת החסימה.
 
-כדי ללמוד עוד, ראה [סימון דואר אלקטרוני כשולחים דואר זבל או חסימה ב-Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+כדי ללמוד עוד, ראה [חסימת שולחים או סימון דואר אלקטרוני כדואר זבל](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707659"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764370"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>הגדר ועידות שמע עבור Teams
 
@@ -42,4 +42,4 @@ ms.locfileid: "42707659"
 
 7. בחר את המשתמש המדובר ואמת שיש לו **מספר בתשלום המהווה ברירת מחדל**.
 
-לקבלת מידע נוסף, פנה אל [תוכניות של שיחות עבור Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) או התקשר לצוות Microsoft Commerce Billing לקבלת עזרה עם שאלות הקשורות לרישוי.
+לקבלת מידע נוסף, פנה אל ['תוכניות שיחות עבור Office 365'](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) או התקשר לצוות Microsoft Commerce Billing לקבלת עזרה עם שאלות הקשורות לרישוי.
