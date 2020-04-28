@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642145"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912967"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>בעיות בעת יצירת אתר המחובר לקבוצה ב-SharePoint
 
@@ -30,5 +30,5 @@ ms.locfileid: "43642145"
 
 1. קיימות דרכים שונות ליצירה ולשימוש בקבוצות מודרניות עם SharePoint.
 
-   - באפשרותך לחבר אתרים קיימים לקבוצת Office 365. לקבלת מידע נוסף, ראה [חיבור קבוצת Office 365 באמצעות ממשק המשתמש של SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - כדי ליצור אתר המחובר לקבוצת Office 365, יהיה עליך ליצור [אתר צוות](https://admin.microsoft.com/sharepoint).
+   - באפשרותך לחבר אתרים קיימים לקבוצת Microsoft 365. לקבלת מידע נוסף, ראה [חיבור קבוצת Microsoft 365 באמצעות ממשק המשתמש של SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - כדי ליצור אתר המחובר לקבוצת Microsoft 365, יהיה עליך ליצור [אתר צוות](https://admin.microsoft.com/sharepoint).

@@ -9,12 +9,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 2ab08cfa4d0cc7d39962f91dd60fd96d046b2ded
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9a6e59f5798130856ba3d82e8d233c2c79e462a7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704978"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911545"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>מחיקת אתר ממרכז הניהול החדש של SharePoint
 
@@ -23,7 +23,7 @@ ms.locfileid: "43704978"
 **חשוב:** אם האתר הוא חלק ממדיניות שמירה, ייתכן שלא יהיה באפשרותך למחוק אותו עד שהאתר יוסר [ממדיניות מרכז &amp; ניהול תאימות האבטחה](https://protection.office.com/?rfr=AdminCenter#/homepage). ראה [מבט כולל על מדיניות שמירה](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) לקבלת מידע נוסף. 
 
 טיפים
-- מנהלי SharePoint יכולים כעת למחוק אתרים השייכים ל- **Office 365 קבוצות**. פעולה זו תמחק את הקבוצה ואת כל המשאבים שלה, כולל תיבת הדואר ולוח השנה של Outlook וערוצי הצוותים. לקבלת מידע נוסף, ראה [מחיקת אתר SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- מנהלי SharePoint יכולים כעת למחוק אתרים השייכים ל- **Microsoft 365 קבוצות**. פעולה זו תמחק את הקבוצה ואת כל המשאבים שלה, כולל תיבת הדואר ולוח השנה של Outlook וערוצי הצוותים. לקבלת מידע נוסף, ראה [מחיקת אתר SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
 - אתה יכול לשחזר אתרים שנמחקו עבור 93 ימים. שים לב שיש לשחזר קבוצות שנמחקו תוך 30 יום. לקבלת מידע נוסף, ראה [הצגה ושחזור של אתרים שנמחקו](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
 - כדי להסיר אתר לצמיתות, ראה [מחיקה לצמיתות של אתר](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). שלב זה יידרש אם אתה מתכנן להשתמש מחדש בכתובת ה-URL. 
 - כדי להסיר אתר מאתר, ראה [מחיקת שלבים מהירות של אתרים או אתרי ממשנה](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)

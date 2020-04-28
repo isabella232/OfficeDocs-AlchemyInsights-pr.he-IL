@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 402
 ms.assetid: 3f6b7230-28a3-40d9-b30a-c7f252b91d37
-ms.openlocfilehash: 84268236862797049b47228ef59abedf19312152
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 76c984f08c4aac4879b3117129b405b69c9d21af
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711776"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911366"
 ---
-# <a name="calenders-in-office-365-groups"></a>לוח שנה ב-Office 365 קבוצות
+# <a name="calenders-in-microsoft-365-groups"></a>לוח שנה בקבוצות של Microsoft 365
 
-לקבלת מידע נוסף אודות לוחות שנה בקבוצות Office 365, ראה [למד אודות קבוצות של office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).
+לקבלת מידע נוסף אודות לוחות שנה בקבוצות של Microsoft 365, ראה [למד אודות הקבוצות של microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).

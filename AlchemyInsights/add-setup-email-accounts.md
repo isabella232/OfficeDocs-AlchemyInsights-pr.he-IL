@@ -1,5 +1,5 @@
 ---
-title: 764 הוספה/התקנה של חשבונות דואר אלקטרוני
+title: 764 הוספה/הגדרת חשבונות דואר אלקטרוני
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
@@ -11,23 +11,22 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e6cda6d0a21ebca7647662809dd55d942304471
+ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671386"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914979"
 ---
-# <a name="setup-email-accounts"></a>הגדרת חשבונות אימייל
+# <a name="set-up-email-accounts"></a>הגדרת חשבונות דואר אלקטרוני
 
-1. ב-Outlook, בחר**בחשבון הוספת****פרטי** >  **קובץ** > .
+1. ב-Outlook, לחץ על**חשבון הוספת** **קובץ** > **Info** > .
 
-2. הזן את כתובת הדואר האלקטרוני שלך ולאחר מכן בחר באפשרות **התחבר**.
+2. הזן את כתובת הדוא ל שלך ולאחר מכן לחץ על **התחבר**.
 
-3. הזן את סיסמתך ולאחר מכן בחר **באישור**.
+3. הזן את הסיסמה שלך ולחץ על **אישור**.
 
 4. באפשרותך לחזור על שלבים אלה כדי להוסיף חשבונות מרובים.
 
-    > [!NOTE]
-    > כמה חשבונות דוא ל, כמו Gmail, יאהו, ו iCloud, דורשים להגדיר אימות שני גורמים כדי להשתמש ב-Outlook לשלוח ולקבל דואר אלקטרוני. לקבלת מידע נוסף, ראה [הוספת חשבון דואר אלקטרוני ל-Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
+**הערה**: חשבונות דואר אלקטרוני מסוימים, כמו Gmail, יאהו, ו iCloud, דורשים להגדיר אימות שני גורמים כדי להשתמש ב-Outlook כדי לשלוח ולקבל דואר אלקטרוני. לקבלת מידע נוסף, ראה [הוספת חשבון דואר אלקטרוני ל-Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
   

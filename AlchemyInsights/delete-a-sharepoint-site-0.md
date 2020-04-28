@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705014"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911581"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>מחיקת אתרים השייכים לקבוצת Office 365
+# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>מחיקת אתרים השייכים לקבוצת Microsoft 365
 
-כאשר משתמשים יוצרים אתר צוות חדש מ-SharePoint Home או שאתה יוצר אתר צוות חדש ממרכז הניהול החדש של SharePoint, קבוצת Office 365 תואמת נוצרת באופן אוטומטי. אתרי צוות המחוברים לקבוצות של office 365 נוצרים גם בעת יצירת קבוצה של Office 365 או צוות בצוותי Microsoft. כדי למחוק אתר SharePoint השייך לקבוצת Office 365, עליך למחוק את הקבוצה של Office 365 עצמה. 
+כאשר משתמשים יוצרים אתר צוות חדש מ-SharePoint Home או שאתה יוצר אתר צוות חדש ממרכז הניהול החדש של SharePoint, קבוצה תואמת של Microsoft 365 נוצרת באופן אוטומטי. אתרי צוות המחוברים לקבוצות של microsoft 365 נוצרים גם בעת יצירת קבוצה של Microsoft 365 או צוות בצוותי Microsoft. כדי למחוק אתר SharePoint השייך לקבוצת Microsoft 365, עליך למחוק את הקבוצה של Microsoft 365 עצמה. 
   
 1. עבור אל [הדף ' קבוצות ' של מרכז הניהול של Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     

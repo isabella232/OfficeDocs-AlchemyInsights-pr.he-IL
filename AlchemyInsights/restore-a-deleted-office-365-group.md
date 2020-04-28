@@ -1,5 +1,5 @@
 ---
-title: שחזור קבוצת Office 365 שנמחקה
+title: שחזור קבוצת Microsoft 365 שנמחקה
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: c7b8bc9effa77a5fee8c6ae61e85baf03dc48a4b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0443d51690399ea5c82ab9c2d6fc803a946161dd
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758755"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912712"
 ---
-# <a name="restore-a-deleted-office-365-group"></a>שחזור קבוצת Office 365 שנמחקה
+# <a name="restore-a-deleted-microsoft-365-group"></a>שחזור קבוצת Microsoft 365 שנמחקה
 
 קבוצות שנמחקו נשמרות למשך 30 יום. כדי לשחזר קבוצה שנמחקה:
   
@@ -28,5 +28,5 @@ ms.locfileid: "43758755"
 
 2. בחר את הקבוצה ולאחר מכן לחץ על **שחזר** בשורת הפקודה, או לחץ על הקישור "לחץ כאן כדי לשחזר" בחלונית הפרטים.
 
-לקבלת מידע נוסף, או כדי ללמוד כיצד לשחזר קבוצות באמצעות PowerShell, ראה [שחזור קבוצת Office 365 שנמחקה](https://go.microsoft.com/fwlink/?linkid=867802).
+לקבלת מידע נוסף, או כדי ללמוד כיצד לשחזר קבוצות באמצעות PowerShell, ראה [שחזור קבוצת Microsoft 365 שנמחקה](https://go.microsoft.com/fwlink/?linkid=867802).
   

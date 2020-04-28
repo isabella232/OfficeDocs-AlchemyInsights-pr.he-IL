@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714403"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911149"
 ---
 # <a name="ediscovery-settings"></a>הגדרות ediscovery
 
-חיפושי eDiscovery/תוכן מאפשרים לך לחפש, להחזיק ולייצא תוכן מתיבות דואר של Exchange Online, מאתר SharePoint Online ו-OneDrive עבור אתרי עסקים, סקייפ עבור שיחות עסקיות, צוותי Microsoft וקבוצות של Office 365.
+חיפושי eDiscovery/תוכן מאפשרים לך לחפש, להחזיק ולייצא תוכן מתיבות דואר של Exchange Online, מאתר SharePoint Online ו-OneDrive עבור אתרי עסקים, סקייפ עבור שיחות עסקיות, צוותי Microsoft ו-Microsoft 365 קבוצות.
 
 - אם אתה מחפש את אפשרויות התפריט ' גילוי עצמי ' או ' חיפוש תוכן ', ראה [בעיות](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)של ' גילוי '.
 - למד אודות ההרשאות הדרושות לביצוע חיפושי eDiscovery [מהרשאות הנדרשות עבור חיפושים של ediscovery](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).

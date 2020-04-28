@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590423"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911939"
 ---
 # <a name="microsoft-teams-permissions"></a>הרשאות ' צוותי Microsoft '
 
-צוותי Microsoft כוללים שני תפקידי משתמש: בעלים וחבר. כברירת מחדל, משתמש שיוצר צוות חדש מקבל את מצב הבעלים. בנוסף, בעלים וחברים יכולים להיות בעלי יכולות מנחה עבור ערוץ (אם הוגדרה הנחיה). אם צוות נוצר מקבוצת Office 365 קיימת, הרשאות עוברות בירושה. לקבלת מידע נוסף, ראה:
+צוותי Microsoft כוללים שני תפקידי משתמש: בעלים וחבר. כברירת מחדל, משתמש שיצר צוות חדש מקבל את הסטטוס בעלים. בנוסף, בעלים וחברים יכולים להיות בעלי יכולות מנחה עבור ערוץ (אם הוגדרה הנחיה). אם צוות נוצר מקבוצה קיימת של Microsoft 365, הרשאות עוברות בירושה. לקבלת מידע נוסף, ראה:
 
 - [הקצאת בעלי צוות וחברים בצוותי Microsoft](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
 - [הרשאות ושיקולים של היישומים של Microsoft לצוותים](https://docs.microsoft.com/microsoftteams/app-permissions)

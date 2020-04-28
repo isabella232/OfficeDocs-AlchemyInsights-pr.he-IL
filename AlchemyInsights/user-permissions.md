@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710516"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912895"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>הרשאות משתמש ב-SharePoint ו-OneDrive
 
@@ -27,7 +27,7 @@ ms.locfileid: "43710516"
   
 1. פתח את האתר בדפדפן אינטרנט.
     
-2. אם האתר שייך לקבוצה של Office 365, לחץ על הסמל הגדרות בפינה הימנית העליונה ולאחר מכן לחץ על **הרשאות אתר**. לחץ על הזמן **אנשים**ולאחר מכן בחר להוסיף חברים לקבוצת Office 365 או לשתף את האתר בלבד. 
+2. אם האתר שייך לקבוצה של Microsoft 365, לחץ על הסמל הגדרות בפינה הימנית העליונה ולאחר מכן לחץ על **הרשאות אתר**. לחץ על הזמן **אנשים**ולאחר מכן בחר להוסיף חברים לקבוצת Microsoft 365 או לשתף את האתר בלבד. 
     
     עבור אתר תקשורת, לחץ על **אתר שיתוף** בפינה הימנית העליונה, הזן את שם האדם ולאחר מכן בחר את רמת ההרשאה (קריאה, עריכה או שליטה מלאה). 
     

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053118"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908705"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>אירעה חריגה ממגבלת הדואר האלקטרוני היומית. זרימת העבודה מושעית.
 
@@ -27,7 +27,7 @@ ms.locfileid: "40053118"
 - בעת הפעלת זרימת העבודה, הודעת הדואר האלקטרוני אינה נשלחת ואתה מבחין בהתנהגות הבאה:
     - עבור זרימת עבודה באמצעות סוג פלטפורמת SharePoint 2013, אתה גולש לדף ' **מצב זרימת עבודה** '. בדף ' מצב זרימת עבודה ', **המצב הפנימי** מוגדר **כהתחלתי**ובבלון המידע מציג **אפשרות לשלוח לנמען**.
 
-כדי לעקוף בעיה זו, הגדר את זרימת העבודה שלך לשליחת הודעות דואר אלקטרוני מבלי לחרוג [ממגבלות השולח המקוון של Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). לדוגמה, השתמש בהשהיה בזרימת העבודה, שלח את הדואר האלקטרוני לקבוצת Office 365, קבוצת תפוצה או קבוצת אבטחה זמינה בדואר, או שלח את ההודעה לפחות מ-200 נמענים בכל פעם.
+כדי לעקוף בעיה זו, הגדר את זרימת העבודה שלך לשליחת הודעות דואר אלקטרוני מבלי לחרוג [ממגבלות השולח המקוון של Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). לדוגמה, השתמש בהשהיה בזרימת העבודה, שלח את הדואר האלקטרוני לקבוצה של Microsoft 365, קבוצת תפוצה או קבוצת אבטחה זמינה בדואר, או שלח את ההודעה לפחות מ-200 נמענים בכל פעם.
 
 
 לקבלת מידע נוסף, עיין [במאמר](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)הבא.
