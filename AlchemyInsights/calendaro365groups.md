@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 402
 ms.assetid: 3f6b7230-28a3-40d9-b30a-c7f252b91d37
-ms.openlocfilehash: 84268236862797049b47228ef59abedf19312152
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 76c984f08c4aac4879b3117129b405b69c9d21af
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711776"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911366"
 ---
-# <a name="calenders-in-office-365-groups"></a><span data-ttu-id="d5be3-102">לוח שנה ב-Office 365 קבוצות</span><span class="sxs-lookup"><span data-stu-id="d5be3-102">Calenders in Office 365 groups</span></span>
+# <a name="calenders-in-microsoft-365-groups"></a><span data-ttu-id="63ad7-102">לוח שנה בקבוצות של Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="63ad7-102">Calenders in Microsoft 365 Groups</span></span>
 
-<span data-ttu-id="d5be3-103">לקבלת מידע נוסף אודות לוחות שנה בקבוצות Office 365, ראה [למד אודות קבוצות של office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).</span><span class="sxs-lookup"><span data-stu-id="d5be3-103">For more information about calendars in Office 365 groups, see [Learn about Office 365 groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).</span></span>
+<span data-ttu-id="63ad7-103">לקבלת מידע נוסף אודות לוחות שנה בקבוצות של Microsoft 365, ראה [למד אודות הקבוצות של microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).</span><span class="sxs-lookup"><span data-stu-id="63ad7-103">For more information about calendars in Microsoft 365 Groups, see [Learn about Microsoft 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).</span></span>
