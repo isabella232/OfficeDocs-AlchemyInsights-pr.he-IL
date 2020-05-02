@@ -1,5 +1,5 @@
 ---
-title: כיצד לרכוש משרד 365 לעמותות
+title: מיקרוסופט 365 עבור ללא רווחים-שנדחו
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: a529d4cb278c0c732a603acea11310e47f90ec57
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: facb44c932a2a610df3c4714c102a666bdf9aa20
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763614"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005295"
 ---
-# <a name="how-to-purchase-office-365-for-nonprofits"></a>כיצד לרכוש את Office 365 עבור שאינם רווחים
+# <a name="microsoft-365-for-nonprofits---declined"></a>מיקרוסופט 365 עבור ללא רווחים-שנדחו
 
 בדקנו את בקשתך וקבעת שארגון זה אינו זכאי לארגון ללא מטרות רווח של Microsoft.
   

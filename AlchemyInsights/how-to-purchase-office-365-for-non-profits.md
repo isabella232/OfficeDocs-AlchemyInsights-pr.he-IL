@@ -1,5 +1,5 @@
 ---
-title: כיצד לרכוש משרד 365 לעמותות
+title: מיקרוסופט 365 עבור שאינם רווחים-תחת סקירה
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763542"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005223"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>כיצד לרכוש משרד 365 לעמותות
+# <a name="microsoft-365-for-nonprofits---under-review"></a>מיקרוסופט 365 עבור שאינם רווחים-תחת סקירה
 
-הזכאות שלך כארגון ללא מטרות רווח של Microsoft נמצאת בסקירה. אתה יכול לצפות לקבל הודעה על קביעת זכאותך לפני שהמשפט יפוג. באפשרותך לעקוב אחר מצב היישום [כאן](https://eligibilityweb.azurewebsites.net/).
+הזכאות שלך כארגון ללא מטרות רווח של Microsoft מוסמך **בסקירה**. אתה יכול לצפות לקבל הודעה על קביעת הזכאות שלך **48 שעות** ממועד השליחה שלך. נא הרשה לפחות **48 שעות** לקבל הודעה זו לפני פתיחת בקשת שירות. 
+
+לקבלת מידע נוסף, ראה [Microsoft 365 עבור שאינם רווחים](https://www.microsoft.com/nonprofits/microsoft-365). 

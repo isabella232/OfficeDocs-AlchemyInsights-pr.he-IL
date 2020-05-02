@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 3f6113bf512ec20fbbe2229d0efdb429b2f5db92
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: b6ea61b36b9577c38bf8fe3a09e2b32569aa6f45
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600025"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005151"
 ---
 # <a name="microsoft-stream"></a>זרם מיקרוסופט
 
@@ -25,6 +25,7 @@ Microsoft Stream הוא שירות וידאו ארגוני שבו לאנשים �
 לקבלת מידע נוסף, ראה:
 
 - [מהו זרם מיקרוסופט?](https://docs.microsoft.com/stream/overview)
+- [מעבר וידאו של Office 365 ל-Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
 - [עדכוני שירות בזרם](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
 - [קבוצות וערוצים ב-Microsoft Stream](https://docs.microsoft.com/stream/groups-channels-organization)
 - [אירועים חיים ב-Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
