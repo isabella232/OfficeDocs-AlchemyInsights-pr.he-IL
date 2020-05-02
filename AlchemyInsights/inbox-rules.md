@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724557"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005259"
 ---
-# <a name="inbox-rules"></a><span data-ttu-id="04e60-102">כללי תיבת דואר נכנס</span><span class="sxs-lookup"><span data-stu-id="04e60-102">Inbox rules</span></span>
+# <a name="inbox-rules-in-outlook-desktop"></a><span data-ttu-id="71828-102">כללי תיבת דואר נכנס בשולחן העבודה של Outlook</span><span class="sxs-lookup"><span data-stu-id="71828-102">Inbox rules in Outlook Desktop</span></span>
 
-<span data-ttu-id="04e60-103">לקבלת מידע נוסף אודות השימוש בכללים של תיבת דואר נכנס בתיבת הדואר שלך, ראה:</span><span class="sxs-lookup"><span data-stu-id="04e60-103">For more information about using Inbox rules in your own mailbox, see:</span></span>
+1. <span data-ttu-id="71828-103">עבור **לקובץ _ Gt_ ניהול כללים _ אמפר _ התראות** כדי לפתוח את תיבת הדו **כללים והתראות** .</span><span class="sxs-lookup"><span data-stu-id="71828-103">Go to **File > Manage Rules & Alerts** to open the **Rules and Alerts** dialog box.</span></span>
+2. <span data-ttu-id="71828-104">בכרטיסיה **כללי דואר אלקטרוני** , לחץ על **כלל חדש**.</span><span class="sxs-lookup"><span data-stu-id="71828-104">On the **Email Rules** tab, click **New Rule**.</span></span>
+3. <span data-ttu-id="71828-105">בחר אחת מהתבניות **משלב 1**.</span><span class="sxs-lookup"><span data-stu-id="71828-105">Select one of the templates from **Step 1**.</span></span> <span data-ttu-id="71828-106">כדי להתחיל מכלל ריק, בחר **באפשרות החל כלל על הודעות שאני מקבל או החל כלל על הודעות שאני שולח**.</span><span class="sxs-lookup"><span data-stu-id="71828-106">To start from a blank rule, select **Apply rule on messages I receive or Apply rule on messages I send**.</span></span>
+4. <span data-ttu-id="71828-107">בשלב **2: עריכת תיבת תיאור הכלל**, לחץ על כל האפשרויות המסומנות בקו תחתון כדי להגדיר אותן.</span><span class="sxs-lookup"><span data-stu-id="71828-107">In the **Step 2: Edit the rule description box**, click on any underlined options to set them.</span></span> <span data-ttu-id="71828-108">לדוגמה, אם בחרת **בדגל הודעות ממישהו להמשך טיפול** בשלב 1, לחץ על **אנשים או על קבוצה ציבורית** כדי לבחור אילו הודעות של שולחים ברצונך לסמן; לאחר מכן לחץ על **המשך טיפול בשלב זה** כדי לבחור דגל ותאריך המשך טיפול.</span><span class="sxs-lookup"><span data-stu-id="71828-108">For example, if you selected **Flag messages from someone for follow-up** in Step 1, click **people or public group** to select which senders' messages you want to flag; then click **follow up at this time** to select a flag and a follow-up date.</span></span>
+5. <span data-ttu-id="71828-109">לחץ על **הבא**.</span><span class="sxs-lookup"><span data-stu-id="71828-109">Click **Next**.</span></span>
 
-- [<span data-ttu-id="04e60-104">ניהול הודעות דואר אלקטרוני באמצעות כללים ב-Outlook עבור PC</span><span class="sxs-lookup"><span data-stu-id="04e60-104">Manage email messages by using rules in Outlook for PC</span></span>](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [<span data-ttu-id="04e60-105">ניהול ההודעות שלך באמצעות כללי תיבת דואר נכנס ב-Outlook באינטרנט</span><span class="sxs-lookup"><span data-stu-id="04e60-105">Manage your messages by using inbox rules in Outlook on the web</span></span>](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-<span data-ttu-id="04e60-106">באפשרותך גם לנהל כללי תיבת דואר נכנס ב-Exchange Online PowerShell.</span><span class="sxs-lookup"><span data-stu-id="04e60-106">You can also manage Inbox rules in Exchange Online PowerShell.</span></span> <span data-ttu-id="04e60-107">לקבלת מידע נוסף, ראה [קבלת-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (תצוגה), [חדש-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (ליצור), [הסר-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (מחיקה), [Set-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (לשנות קיים), [להשבית-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (להשבית קיים), ו [-הפעל-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (לאפשר קיים).</span><span class="sxs-lookup"><span data-stu-id="04e60-107">For more information, see [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (view), [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (create), [Remove-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (delete), [Set-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (modify existing), [Disable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (disable existing), and [Enable-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (enable existing).</span></span>
+<span data-ttu-id="71828-110">לקבלת מידע נוסף אודות אופן העבודה עם כללי תיבת דואר נכנס נא ראה [ניהול הודעות דואר אלקטרוני באמצעות כללים](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).</span><span class="sxs-lookup"><span data-stu-id="71828-110">For additional information on how to work with inbox rules please see [Manage email messages by using rules](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).</span></span>
