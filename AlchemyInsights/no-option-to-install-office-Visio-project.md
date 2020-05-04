@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218231"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010147"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>אין אפשרות להתקין Office, Visio או Project
 
-כדי להתקין את יישומי הלקוח של Office, ודא שיש לך מנוי Office 365 או Microsoft 365 אשר [כוללים את יישומי הלקוח של Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), לדוגמה, Office 365 Business Premium, Office 365 Business או Office 365 ProPlus.
+כדי להתקין את יישומי הלקוח של Office, ודא שיש לך מנוי ל- Office 365 או ל- Microsoft 365 אשר [כולל את יישומי הלקוח של Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), למשל, Microsoft 365 Business Premium, יישומי Microsoft 365 לעסקים או יישומי Microsoft 365 לארגונים.
 
 **הערה**: [Office Home and Business](https://products.office.com/home-and-business) הוא מוצר [Office לבית](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) ולא חלק ממנוי עסקי. Project Online Essentials אינו כולל גירסת שולחן עבודה של Project, ולכן לא נדרשת התקנה. למשתמשי תוכנית Visio 1 יש גישה אל Visio באינטרנט, מכיוון שהתוכנית לא כוללת את יישום שולחן העבודה של Visio. יישומי שולחן העבודה של Project ו- Visio אינם זמינים ב- Mac
 
