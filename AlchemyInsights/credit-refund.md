@@ -12,19 +12,25 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 717e6e7547c9b60d9ddc490f66bcc4b689bbb2ab
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: beb3574cb94f5ede8282ab29feba6d3ac0e589a9
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705302"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086817"
 ---
-# <a name="creditrefund"></a><span data-ttu-id="0ce53-102">אשראי/החזר</span><span class="sxs-lookup"><span data-stu-id="0ce53-102">Credit/refund</span></span>
+# <a name="creditrefund"></a><span data-ttu-id="840b6-102">אשראי/החזר</span><span class="sxs-lookup"><span data-stu-id="840b6-102">Credit/refund</span></span>
 
-<span data-ttu-id="0ce53-103">**ביטול**</span><span class="sxs-lookup"><span data-stu-id="0ce53-103">**Cancellation**</span></span>
+<span data-ttu-id="840b6-103">**ביטול**</span><span class="sxs-lookup"><span data-stu-id="840b6-103">**Cancellation**</span></span>
   
-<span data-ttu-id="0ce53-104">בעת ביטול מנוי, תקבל חשבונית סופית עם זיכוי המגיע לתאריך החיוב הבא.</span><span class="sxs-lookup"><span data-stu-id="0ce53-104">When cancelling a subscription, you will receive a final invoice with a credit due on the next billing date.</span></span> <span data-ttu-id="0ce53-105">הדבר יכול להימשך עד 30 יום כדי לקבל מהתאריך שבו בוטלה המנוי.</span><span class="sxs-lookup"><span data-stu-id="0ce53-105">This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
+<span data-ttu-id="840b6-104">בעת ביטול מנוי, תקבל חשבונית סופית עם זיכוי המגיע לתאריך החיוב הבא.</span><span class="sxs-lookup"><span data-stu-id="840b6-104">When cancelling a subscription, you will receive a final invoice with a credit due on the next billing date.</span></span> <span data-ttu-id="840b6-105">הדבר יכול להימשך עד 30 יום כדי לקבל מהתאריך שבו בוטלה המנוי.</span><span class="sxs-lookup"><span data-stu-id="840b6-105">This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
   
-<span data-ttu-id="0ce53-106">**שינוי במושב**</span><span class="sxs-lookup"><span data-stu-id="0ce53-106">**Seat Change**</span></span>
+<span data-ttu-id="840b6-106">**שינוי במושב**</span><span class="sxs-lookup"><span data-stu-id="840b6-106">**Seat Change**</span></span>
   
-<span data-ttu-id="0ce53-107">כאשר רשיונות מוסרים ממנוי, הזמן שאינו בשימוש ברשיונות אלה יוחל כזיכוי על החשבון הבא.</span><span class="sxs-lookup"><span data-stu-id="0ce53-107">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill.</span></span> <span data-ttu-id="0ce53-108">הדבר יכול להימשך עד 30 יום כדי לקבל מהתאריך שבו הרשיונות יוסרו.</span><span class="sxs-lookup"><span data-stu-id="0ce53-108">This can take up to 30 days to receive from the date the licenses are removed.</span></span>
+<span data-ttu-id="840b6-107">כאשר רשיונות מוסרים ממנוי, הזמן שאינו בשימוש ברשיונות אלה יוחל כזיכוי על החשבון הבא.</span><span class="sxs-lookup"><span data-stu-id="840b6-107">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill.</span></span> <span data-ttu-id="840b6-108">הדבר יכול להימשך עד 30 יום כדי לקבל מהתאריך שבו הרשיונות יוסרו.</span><span class="sxs-lookup"><span data-stu-id="840b6-108">This can take up to 30 days to receive from the date the licenses are removed.</span></span>
+
+<span data-ttu-id="840b6-109">**חזר**</span><span class="sxs-lookup"><span data-stu-id="840b6-109">**Refund**</span></span>
+
+<span data-ttu-id="840b6-110">**הזיכוי היחסי יוחזר לך במחזור החיוב הבא.**</span><span class="sxs-lookup"><span data-stu-id="840b6-110">**Any prorated credit will be returned to you within the next billing cycle.**</span></span>
+
+<span data-ttu-id="840b6-111">לקבלת מידע נוסף, ראה [תהליך ביטול והחזר](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="840b6-111">For more information, see [cancellation and refund process](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).</span></span> 
