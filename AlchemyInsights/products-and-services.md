@@ -1,5 +1,5 @@
 ---
-title: מוצרים _ אמפר-שירותים
+title: המוצרים שלך
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758791"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062862"
 ---
-# <a name="products--services"></a>מוצרים _ אמפר-שירותים
+# <a name="your-products"></a>המוצרים שלך
 
-באפשרותך למצוא את המנויים הנמצאים בבעלות הארגון במוצרי **החיוב** > [**_ amp_ services**](https://go.microsoft.com/fwlink/p/?linkid=842054) . להלן כמה מגולות התכונות של דף זה יחד עם קישורים למידע נוסף על כל תכונה:
+באפשרותך למצוא את המנויים הנמצאים בבעלות **Billing** > הארגון שלך בדף**[המוצרים חיוב שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** . להלן כמה מגולות התכונות של דף זה יחד עם קישורים למידע נוסף על כל תכונה:
 
 1. נהל את מספר הרשיונות שנרכשו עבור כל מנוי יחד עם כמה נמצאים בשימוש.  **הערה**: רשיונות שאינם בשימוש (שאינם מוקצים למשתמש) עדיין מואשמים.  כדי לא להיות מחויב עבור רשיונות שאינם בשימוש, הפחת את מספר הרשיונות שנרכשו. לקבלת מידע אודות אופן ההוספה או ההסרה של רשיונות ממנוי, ראה [כיצד להוסיף או להקטין רשיונות](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 

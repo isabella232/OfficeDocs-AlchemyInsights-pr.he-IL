@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: b9ced670e412949b67a114c54f6ccf9b8e56656b
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417701"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063222"
 ---
 # <a name="subscription-status"></a>מצב מנוי
 
-ניתן למצוא את מצב המנוי בדף ' מוצרים ושירותים ' של מרכז הניהול של Microsoft 365.
+ניתן למצוא את מצב המנוי בדף **המוצרים שלך** של מרכז הניהול של Microsoft 365.
 
-1. עבור אל **** > [מוצרי חיוב _ amp_ services](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. עבור **לחיוב** > **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. אם קיימת בעיה במצב של כל אחד מהמנויים, תראה סמל אזהרה בצבע אדום ליד המנוי, או מצב "שפג תוקפו" או "לא זמין" במקטע חיוב של פרטי המנוי.
 
@@ -30,11 +30,11 @@ ms.locfileid: "42417701"
 
 **תאריך תפוגה**
 
-1. עבור אל **** > [מוצרי חיוב _ amp_ services](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. עבור **לחיוב** > **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. בהתאם לתצוגה, תאריך התפוגה יופיע **בתאריך** הימני של העמודה המסומנת בתווית או במקטע **החיוב** של פרטי המנוי שלצד **תפוגת**התוקף.
 
 **רשיונות**
 
-מספר הרישיונות שנרכשו ובשימוש מופיע לפי מנוי בעמוד [המוצרים _ Amp_ services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+מספר הרישיונות שנרכשו ובשימוש מופיע לפי מנוי בדף **המוצרים שלך** .
 

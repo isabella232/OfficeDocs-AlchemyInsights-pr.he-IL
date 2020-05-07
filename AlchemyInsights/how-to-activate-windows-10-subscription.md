@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: 2e3f9b789db6d8e581440c6decc4a1ea748eabf6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47063bfbc455f008a1dedbe5b6d53d091c616801
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709660"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063618"
 ---
 # <a name="activating-windows-10-subscriptions"></a>הפעלת מנויי Windows 10
 
-Microsoft 365 Business Premium, Microsoft 365 השכלה, Microsoft 365 ו-Enterprise מספקים רשיונות דיגיטליים עבור Windows 10 כחלק מהמנוי. כדי להפעיל את המנוי, נדרש Windows 10 Pro (1703 או גירסה מתקדמת יותר) שכבר מופעל במכשיר שלך. כדי להציג רשימה מלאה של דרישות להפעלת מנוי של Windows 10, ראה [דרישות הפעלת מנויים](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)של windows 9.
+Microsoft 365 Business Premium, Office 365 השכלה, Microsoft 365 ו-Enterprise מספקים רשיונות דיגיטליים עבור Windows 10 כחלק מהמנוי. כדי להפעיל את המנוי, נדרש Windows 10 Pro (1703 או גירסה מתקדמת יותר) שכבר מופעל במכשיר שלך. כדי להציג רשימה מלאה של דרישות להפעלת מנוי של Windows 10, ראה [דרישות הפעלת מנויים](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements)של windows 9.
