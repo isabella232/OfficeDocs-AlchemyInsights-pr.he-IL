@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 54619d2b5012ec100f8e1b25c49cec6f821375dd
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708248"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086889"
 ---
 # <a name="all-subscriptions-are-active"></a>כל המנויים פעילים
 
-. המנויים שלך פעילים ניתן לאמת זאת על-ידי הדרך לדף [מנויים](https://go.microsoft.com/fwlink/p/?linkid=842054) **לחיוב** \> . המנויים שלך מסודרים לפי מצב, עם מנויים פעילים בראש. מידע נוסף, כגון ספירת רשיונות ושיטת תשלום, ניתן לראות על-ידי בחירת המנוי.
+. המנויים שלך פעילים זה יכול להיות מאומת על ידי הולך **לחיוב** \> דף [המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) . המנויים שלך מסודרים לפי מצב, עם מנויים פעילים בראש. מידע נוסף, כגון ספירת רשיונות ושיטת תשלום, ניתן לראות על-ידי בחירת המנוי.
   
-אם אתה נתקל בבעיות עם השירות שלך, השתמש באפשרות "תן לנו לקרוא לך" כדי לדבר עם מהנדס תמיכה.
+אם אתה מחפש להסיר את המנויים הפעילים שלך או לסגור את חשבונך, ראה [כיצד לסגור את חשבונך](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).

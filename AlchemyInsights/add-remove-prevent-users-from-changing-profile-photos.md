@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671494"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061997"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>הוספה, הסרה או מניעה של משתמשים לשנות תמונות פרופיל
 
@@ -24,6 +24,6 @@ ms.locfileid: "43671494"
 
 - **הסרת תמונות פרופיל:** ניתן להסיר תמונות פרופיל על-ידי מנהל מערכת [בניהול משתמש של מדריך הכתובות בתכלת](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) או על-ידי משתמש בפרופיל המשתמש של צוותי Microsoft שלהם.
 
-- **חסימת שינויי תמונה בפרופיל:** ניתן לחסום שינויי תמונה עבור כל Microsoft 365 * על-ידי הוספת מדיניות Outlook Web App לכל המאמר, [נעילת תמונות או הגבלת הרשאות כדי לשנות את תמונת הפרופיל של microsoft 365](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **חסימת שינויי תמונה בפרופיל:** ניתן לחסום שינויי תמונה עבור כל Microsoft 365 * על-ידי הוספת מדיניות Outlook Web App לכל המאמר, [נעילת תמונות או הגבלת הרשאות כדי לשנות את תמונת הפרופיל של microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
 * הינכם מתבקשים לשים לב כי צוותי Microsoft אינם תומכים כעת במדיניות Outlook Web App כדי לחסום שינויי תמונה, אך היא מתכננת להוסיף תמיכה עבור תכונה זו בתחילת 2020.
