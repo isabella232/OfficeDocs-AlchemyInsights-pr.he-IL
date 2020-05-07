@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705086"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062285"
 ---
 # <a name="declined-credit-card"></a>כרטיס אשראי שנדחה
 
-אם אתה משלם באמצעות כרטיס אשראי וכרטיס האשראי שלך נדחה, תקבל הודעת דואר אלקטרוני שמודיעה לך כי אין באפשרותנו לעבד את התשלום. בדיקה כפולה של [פרטי כרטיס האשראי](https://go.microsoft.com/fwlink/p/?linkid=842054) , תאריך התפוגה, השם בכרטיס האשראי והכתובת, כולל העיר, המדינה והמיקוד-מופיעים בדיוק כפי שהם עושים בכרטיס האשראי ובהצהרת כרטיס האשראי שלך. באפשרותך לעדכן את פרטי כרטיס האשראי שלך ולהגיש באופן מיידי את התשלום על-ידי שימוש באפשרות **מאזן הייחוס** בעמוד [המוצרים _ amp_ services](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+אם אתה משלם באמצעות כרטיס אשראי וכרטיס האשראי שלך נדחה, תקבל הודעת דואר אלקטרוני שמודיעה לך כי אין באפשרותנו לעבד את התשלום. בדיקה כפולה של [פרטי כרטיס האשראי](https://go.microsoft.com/fwlink/p/?linkid=842054) , תאריך התפוגה, השם בכרטיס האשראי והכתובת, כולל העיר, המדינה והמיקוד-מופיעים בדיוק כפי שהם עושים בכרטיס האשראי ובהצהרת כרטיס האשראי שלך. באפשרותך לעדכן את פרטי כרטיס האשראי שלך ולשלוח מיד את התשלום באמצעות אפשרות **היתרה לייחוס** בדף **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** . 
 
 כדי ללמוד עוד, ראה "מה אם פג תוקפו של כרטיס האשראי שלי והתשלום שלי עבר?" [בתשלום עבור Microsoft 365 עבור מנוי עסקי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
