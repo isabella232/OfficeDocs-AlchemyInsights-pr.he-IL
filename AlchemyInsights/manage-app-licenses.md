@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: c7656c23142f9dcf649f0cf6294d105603b109eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cac8564d4939d498b2bd0e40a971b3c4d4ed09da
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762642"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063870"
 ---
 # <a name="manage-app-licenses"></a>ניהול רשיונות אפליקציה
 
 ## <a name="to-change-license-quantity"></a>כדי לשנות את כמות הרשיון
 
-1. עבור אל מוצרי **החיוב** > [_ amp_ שירותים](https://go.microsoft.com/fwlink/p/?linkid=842054) בדף ולאחר מכן בחר בכרטיסיה **Apps** .
+1. עבור אל דף **החיוב** > של**[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** ולאחר מכן בחר בכרטיסיה **Apps** .
 
 2. חפש ובחר את האפליקציה שברצונך לנהל.  
 
@@ -33,7 +33,7 @@ ms.locfileid: "43762642"
 
 ## <a name="to-assign-app-licenses"></a>כדי להקצות רשיונות אפליקציה
 
-1. עבור אל מוצרי **החיוב** > [_ amp_ שירותים](https://go.microsoft.com/fwlink/p/?linkid=842054) בדף ולאחר מכן בחר בכרטיסיה **Apps** .
+1. עבור אל דף **החיוב** > של**[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** ולאחר מכן בחר בכרטיסיה **Apps** .
 
 2. חפש ובחר את האפליקציה שברצונך לנהל.  
 
