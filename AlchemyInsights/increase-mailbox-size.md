@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714043"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064230"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>החלפת מנויים כדי להגדיל את גודל תיבת הדואר
 
@@ -25,7 +25,7 @@ ms.locfileid: "43714043"
   
 אם הגודל של תיבת הדואר הוא 50 GB, באפשרותך להגדיל אותו ל-100 GB על-ידי מעבר ל- [office 365 הארגון E3](https://products.office.com/business/office-365-enterprise-e3-business-software) או [Office 365 הארגון E5](https://products.office.com/business/office-365-enterprise-e5-business-software). להלן השלבים למעבר למנוי אחר:
   
-1. במרכז הניהול של Microsoft 365, עבור אל **Billing** \> [מוצרי חיוב _ מוצרים לדף שירותים](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז הניהול של Microsoft 365, עבור אל דף **החיוב** \> של **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. בחר את המנוי שברצונך לשדרג.
 

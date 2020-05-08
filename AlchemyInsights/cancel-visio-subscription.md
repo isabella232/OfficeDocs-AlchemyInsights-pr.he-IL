@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 0e38edf7f3e10486b0ce3313dfcb004d848ed1bf
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: bad7c8b3503800101d758fbcdd0429fc097bd2a0
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552763"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061599"
 ---
 # <a name="cancel-visio-subscription"></a>ביטול מנוי Visio
 
-מנהלים יכולים לבטל את מנוי Visio עבור הארגון שלהם **ממרכז הניהול של Microsoft 365**. 
+מנהלים יכולים לבטל את מנוי Visio עבור הארגון שלהם **ממרכז הניהול של Microsoft 365**.
 
-1. בחר באפשרות **החיוב** .
+1. עבור אל דף **החיוב של [המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
 
-2. לחץ על [מוצרים _ Amp_ services](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/subscriptions) כדי להציג את כל המנויים עבור הארגון שלך.
+2. אתר את תוכנית Visio לביטול.
 
-3. אתר את תוכנית Visio לביטול.
+3. לחץ על **ביטול מנוי**.
 
-4. לחץ על **ביטול מנוי**.
+**החזר: כל זיכוי היחסי שיוחזר אליך בתוך מחזור החיוב הבא.**
 
-**החזר: כל זיכוי היחסי שיוחזר אליך בתוך מחזור החיוב הבא.** 
+**הערה**: אם אינך רואה את האפשרות לביטול, לחץ על המנוי כדי להציג את הפרטים ועליך לראות את אפשרות **ביטול המנוי** **בהגדרות _ amp_ Actions**.
 
-**הערה**: אם אינך רואה את האפשרות לביטול, לחץ על המנוי כדי להציג את הפרטים ועליך לראות את אפשרות **ביטול המנוי** **בהגדרות _ amp_ Actions**. 
-
-כדי ללמוד עוד, ראה [ביטול המנוי](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+כדי ללמוד עוד, ראה [ביטול המנוי](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
