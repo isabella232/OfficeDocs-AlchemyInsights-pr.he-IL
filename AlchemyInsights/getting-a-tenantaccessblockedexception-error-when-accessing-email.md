@@ -14,10 +14,10 @@ ms.custom:
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
 ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062213"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>מקבל שגיאה באמצעות הגישה לדואר אלקטרוני?
@@ -26,6 +26,6 @@ ms.locfileid: "44062213"
 
 - ודא שהמנוי שלך חוקי בעמוד **חיוב** \> **[המוצרים שלך](https://portal.office.com/adminportal/home#/subscriptions)** במרכז הניהול של Microsoft 365.
 
-- בדוק אם יש הודעות שטרם הגיע **[לחשבון בחשבונות](https://portal.office.com/adminportal/home#/billoverview)** **החיוב** \> של דף התשלומים ב-Microsoft 365 admin center.
+- בדוק אם יש הודעות מסוימות שנענו בעבר בחשבונות **החיובים** של \> דף **[התשלומים](https://portal.office.com/adminportal/home#/billoverview)** במרכז הניהול של Microsoft 365.
 
 - אם החיוב והמנויים עבור החשבון שלך עודכנו לאחרונה, ייתכן שייקח זמן להפיץ את השינויים. נסה שוב בעוד מספר דקות, ואם הבעיה נמשכת, פנה אלינו.

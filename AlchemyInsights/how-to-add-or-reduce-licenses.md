@@ -13,17 +13,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063798"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>הוספה או הסרה של רשיונות עבור המנוי שלך
 
 להלן אופן ההוספה/הסרה של רשיונות.
   
-1. במרכז הניהול, עבור אל דף **החיוב** \> של **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. במרכז הניהול, עבור אל דף **החיוב** של \> **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. בחר את המנוי שעבורו ברצונך להוסיף/להסיר רשיונות.
 

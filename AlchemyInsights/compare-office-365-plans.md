@@ -14,10 +14,10 @@ ms.custom:
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058428"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>השוואה, שדרוג או רכישה של מנויים
@@ -26,6 +26,6 @@ ms.locfileid: "44058428"
   
 אם הארגון שלך מעוניין להשוות בין כל התוכניות והתמחור, סקור את [כל המנויים](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-אם הארגון שלך כבר רכש מנויים והוא מעוניין לשנות לתוכנית אחרת באפשרותך לעשות זאת ממרכז הניהול של Microsoft 365. עבור אל דף **החיוב** \> של [המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) , בחר את המנוי שברצונך לשנות ולאחר מכן בחר בכרטיסיית **השדרוג** כדי להציג את רשימת התוכניות החדשות הזמינות.
+אם הארגון שלך כבר רכש מנויים והוא מעוניין לשנות לתוכנית אחרת באפשרותך לעשות זאת ממרכז הניהול של Microsoft 365. עבור אל דף **החיוב** של \> [המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) , בחר את המנוי שברצונך לשנות ולאחר מכן בחר בכרטיסיית **השדרוג** כדי להציג את רשימת התוכניות החדשות הזמינות.
   
 הארגון שלך יכול גם לערבב ולהתאים מנויים כדי לענות על הצרכים והתכונות של המשתמשים. ממרכז הניהול, עבור אל דף **Billing** \> [שירותי הרכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) של חיוב.

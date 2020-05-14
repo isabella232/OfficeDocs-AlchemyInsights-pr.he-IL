@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062465"
 ---
 # <a name="find-and-activate-my-product-key"></a>חיפוש והפעלה של מפתח המוצר שלי
@@ -32,7 +32,7 @@ ms.locfileid: "44062465"
 
 **הערה**: כדי להשתמש במפתח מוצר כדי להאריך את תאריך התפוגה או להוסיף רשיון למנוי הקיים שלך ב-Microsoft 365 Business Premium, תזדקק למפתח חדש ולא מנוצל עבור אותו מנוי של microsoft 365.  הזנת מפתח המוצר המקורי של Microsoft 365 לא תפעל מכיוון שמפתח שכבר לא הצליח להשתמש בו שוב.
 
-1. במרכז הניהול, עבור אל דף **החיוב** > של**[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. במרכז הניהול, עבור אל דף **החיוב**של  >  **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. חפש את המנוי שאליו ברצונך להרחיב את תאריך התפוגה או להוסיף רשיונות.  לחץ על [הרחב תאריך סיום](https://go.microsoft.com/fwlink/p/?linkid=842054) או [הוסף רשיונות נוספים](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

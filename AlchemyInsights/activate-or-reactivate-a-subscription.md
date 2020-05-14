@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062105"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>הפעלה או הפעלה מחדש של מנוי
@@ -33,7 +33,7 @@ ms.locfileid: "44062105"
 
 אם תוקף המנוי שלך פג, הושבת על-ידי Microsoft, או שאתה ביטלת אותו באמצע תקופת מנוי, באפשרותך להפעילו מחדש במרכז הניהול.
   
-1. במרכז הניהול של Microsoft 365, עבור אל דף **החיוב** > של[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז הניהול של Microsoft 365, עבור אל דף **החיוב**של  >  [המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. בחר את המנוי שברצונך להפעיל מחדש, ולאחר מכן בחר **הפעל**מחדש. אם אינך רואה את **הפעל מחדש** כפעולה זמינה, [התקשר לתמיכה](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) כדי להפעיל מחדש את המנוי.
 
