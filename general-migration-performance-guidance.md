@@ -14,14 +14,14 @@ ms.custom:
 - "3179"
 ms.assetid: ''
 ms.openlocfilehash: 0f754fd4264d7800e4e02a295147cded46aca817
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "43692658"
 ---
-# <a name="general-migration-performance-guidance"></a><span data-ttu-id="1f8a0-102">הדרכה כללית של ביצועי ההעברה</span><span class="sxs-lookup"><span data-stu-id="1f8a0-102">General migration performance guidance</span></span>
+# <a name="general-migration-performance-guidance"></a><span data-ttu-id="3078f-102">הדרכה כללית של ביצועי ההעברה</span><span class="sxs-lookup"><span data-stu-id="3078f-102">General migration performance guidance</span></span>
 
-<span data-ttu-id="1f8a0-103">ניתן להשפיע על ביצועי העברה על-ידי תשתיות רשת, גודל קובץ, זמן ההעברה וויסותו.</span><span class="sxs-lookup"><span data-stu-id="1f8a0-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="1f8a0-104">הבנה של גורמים אלו יכולה לעשות לך לתכנן ולמקסם את היעילות של ההעברה שלך.</span><span class="sxs-lookup"><span data-stu-id="1f8a0-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="3078f-103">ניתן להשפיע על ביצועי העברה על-ידי תשתיות רשת, גודל קובץ, זמן ההעברה וויסותו.</span><span class="sxs-lookup"><span data-stu-id="3078f-103">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="3078f-104">הבנה של גורמים אלו יכולה לעשות לך לתכנן ולמקסם את היעילות של ההעברה שלך.</span><span class="sxs-lookup"><span data-stu-id="3078f-104">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
 
-[<span data-ttu-id="1f8a0-105">הדרכה כללית של ביצועי העברה</span><span class="sxs-lookup"><span data-stu-id="1f8a0-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+[<span data-ttu-id="3078f-105">הדרכה כללית של ביצועי העברה</span><span class="sxs-lookup"><span data-stu-id="3078f-105">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
