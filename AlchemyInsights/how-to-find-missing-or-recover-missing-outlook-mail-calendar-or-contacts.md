@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720697"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235298"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>כיצד לחפש ולשחזר הודעות, אנשי קשר או פריטי לוח שנה חסרים ב-Outlook
 
-- באפשרותך להשתמש ב- [I אני נתקל בבעיות בשליחה, קבלה או חיפוש של כלי דואר אלקטרוני](https://aka.ms/SaRA-OutlookSendReceive) במחשב המושפע. כלי זה יבדוק מספר בעיות ויציע פתרונות אפשריים.
+1. ב-Outlook, עבור לרשימת תיקיות הדואר האלקטרוני שלך ולאחר מכן בחר באפשרות **פריטים שנמחקו**. **חשוב**: אם אינך רואה את התיקיה **פריטים שנמחקו** , אך במקום זאת אתה רואה את תיקיית **הזבל** , החשבון שלך אינו תומך בשחזור פריט שאינו נמצא עוד בתיקיה ' **פריטים שנמחקו** '.
 
-- [קבע אם החשבון נחשף לסכנה](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). במקרה של סכנה, בצע את השלבים [בתגובה לחשבון דואר אלקטרוני שנפרץ.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. בתפריט **הבית** , לחץ על **שחזר פריטים שנמחקו מהשרת**. **חשוב**: אם אין הפקודה **שחזור פריטים שנמחקו מהשרת** בתפריט, החשבון שלך אינו תומך בשחזור פריט שאינו נמצא עוד בתיקיה ' **פריטים שנמחקו** '.
 
-- [איתור ההודעה או הפריט באמצעות ' חיפוש מיידי '](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. בחר את הפריטים שברצונך לשחזר, לחץ על **שחזר פריטים נבחרים**ולאחר מכן לחץ על **אישור**.
 
-- [שחזור פריטים שנמחקו ב-Outlook עבור Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**? לאן הולכים הפריטים המשוחזרים** בעת שחזור פריטים מהתיקיה ' פריטים הניתנים לשחזור ', הם מועברים לתיקיה ' **פריטים שנמחקו** '. לאחר שחזור פריט, באפשרותך למצוא אותו בתיקיה **פריטים שנמחקו** ולאחר מכן להעביר אותה לתיקיה אחרת.
+
+אתה יכול גם להשתמש [אני נתקל בבעיות שליחה, קבלה, או מציאת כלי דואר אלקטרוני הודעות](https://aka.ms/SaRA-OutlookSendReceive) **במחשב המושפע**. כלי זה יבדוק מספר בעיות ויציע פתרונות אפשריים.

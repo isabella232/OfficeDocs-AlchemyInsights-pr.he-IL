@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
+ms.sourcegitcommit: 1697031e86a07e44b8937ffaca809229ba2be754
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712639"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44232330"
 ---
 # <a name="banned-sending-ip"></a>מגורש לשלוח IP
 
-בעת שליחת דואר ל-Microsoft 365, ייתכן ששולח נתקל בשגיאה זו. השולח צריך לבקר https://sender.office.com ולעקוב אחר ההוראות.  אם הם לא מקבלים הודעת אימות מתוך הפורטל, יש להם לבדוק את תיקיית דואר הזבל ו/או לנסות עם כתובת דוא ל שונים.
+בעת שליחה לנמען של Office 365, ייתכן ששולח נתקל בשגיאה זו. השולח צריך לבקר ב [-Office 365 נגד דואר זבל בפורטל](https://sender.office.com/) ולספק את כתובת הדוא ל שלהם ואת כתובת ה-ip שצריך להיות מטעים. אם הם לא מקבלים הודעת אימות מתוך הפורטל, יש להם לבדוק את תיקיית דואר הזבל ו/או לנסות עם כתובת דוא ל שונים. 
+
+- לקבלת הוראות מפורטות, ראה [שימוש בפורטל הדליסט כדי להסיר את עצמך מרשימת השולחים החסומים](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
