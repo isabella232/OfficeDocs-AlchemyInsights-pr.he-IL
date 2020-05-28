@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030582"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354053"
 ---
 # <a name="teams-client-crashing"></a>לקוח Teams קורס?
 
@@ -24,32 +24,26 @@ ms.locfileid: "43030582"
 
 - אם אתה משתמש ביישום שולחן העבודה של Teams, [ודא שהיישום מעודכן במלואו](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- ודא שכל [כתובת ה-URL של Office 365 וטווחי הכתובות](https://docs.microsoft.com/microsoftteams/connectivity-issues) נגישים.
+- ודא שכל [כתובות ה-url וטווחי הכתובות של Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) נגישים.
 
-- היכנס עם חשבון מנהל המערכת שלך ובדוק את [לוח המחוונים של תקינות השירות](https://docs.microsoft.com/office365/enterprise/view-service-health) כדי לאמת שלא קיימות הפסקות חשמל או ירידה בביצועי השירות.
+- התחבר עם חשבון מנהל הדיירים שלך ובדוק את [לוח הבקרה של שירות בריאות](https://docs.microsoft.com/office365/enterprise/view-service-health) כדי לוודא כי אין הפסקת או השפלה שירות קיים.
 
- - כצעד אחרון, באפשרותך לנסות לנקות את המטמון של לקוח Teams:
+- הסרת התקנה והתקנה מחדש של יישום הצוותים (קישור)
+    - דפדף אל התיקיה%Appdata%\ute\cos\n במחשב שלך ומחק את כל הקבצים בספריה זו.
+    - [הורד והתקן את יישום הצוותים](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), ואם אפשר, התקן צוותים כמנהל (לחץ לחיצה ימנית על תוכנית ההתקנה של הצוותים ובחר באפשרות "הפעל כמנהל" אם הוא זמין).
 
-    1.  צא לחלוטין מלקוח שולחן העבודה של Microsoft Teams. באפשרותך ללחוץ בעזרת לחצן העכבר הימני על **Teams** מתוך מגש הסמל וללחוץ על **צא**, או להפעיל את מנהל המשימות ולעצור לגמרי את התהליך.
+אם לקוח הצוותים שלך עדיין מתרסק, האם תוכל לשחזר את הבעיה? אם כן:
 
-    2.  עבור אל סייר הקבצים והקלד %appdata%\Microsoft\teams.
+1. השתמש במקליט השלבים כדי ללכוד את הצעדים שלך.
+    - סגור את כל היישומים המיותרים או הסודיים.
+    - הפעל את מקליט השלבים ושנה את הבעיה בזמן שהתחברת עם חשבון המשתמש המושפע.
+    - [לאסוף את יומני הצוותים כי ללכוד את הצעדים המוקלט כי](https://docs.microsoft.com/microsoftteams/log-files). **הערה**: ודא שלכדת את כתובת הכניסה של המשתמש המושפעים.
+    - לאסוף את הקובץ dump ו/או מידע דלי תקלות (Windows). הפעל את Windows Powershell במחשב שבו ההתרסקות מתרחשת ולהפעיל את הפקודות הבאות:
 
-    3.  לאחר שתיכנס אל מדריך הכתובות, תראה כמה מהתיקיות הבאות:
-
-         - מתוך **מטמון יישום**, עבור אל מטמון ומחק את כל הקבצים במיקום המטמון:  %appdata%\Microsoft\teams\application cache\cache.
-
-        - מתוך **Blob_storage**, מחק את כל הקבצים: %appdata%\Microsoft\teams\blob_storage.
-
-        - מתוך **מטמון**, מחק את כל קבצים: %appdata%\Microsoft\teams\Cache.
-
-        - מתוך **מסדי נתונים**, מחק את כל קבצים: %appdata%\Microsoft\teams\Cache.
-
-        - מתוך **GPUCache**, מחק את כל קבצים: %appdata%\Microsoft\teams\Cache.
-
-        - מתוך **IndexedDB**, מחק את קובץ ה-.db: %appdata%\Microsoft\teams\IndexedDB.
-
-        - מתוך **אחסון מקומי**, מחק את כל הקבצים: %appdata%\Microsoft\teams\Local Storage.
-
-        - לבסוף, מתוך **tmp**, מחק את כל קבצי: %appdata%\Microsoft\teams\tmp.
-
-    4. הפעל מחדש את לקוח Teams שלך.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. צרף את הקובץ לתיק התמיכה שלך.

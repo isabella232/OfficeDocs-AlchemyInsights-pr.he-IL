@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767034"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343185"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>פתרון בעיות של 'פתח באמצעות הסייר' ב- SharePoint Online
 
@@ -28,9 +28,6 @@ ms.locfileid: "43767034"
 - [העתקה או העברה של קבצי ספריה באמצעות הפקודה 'פתח באמצעות הסייר'](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **הערה:**
+>- האפשרות 'פתח באמצעות סייר' נתמכת רק ב-Internet Explorer 10 או 11. הפקודה 'פתח באמצעות הסייר' אינה פועלת ב- Windows עם Microsoft Edge,‏ Google Chrome ו- Mozilla Firefox או בפלטפורמת Mac. בשל כך, ייתכן שהאפשרות 'תצוגת סייר' תופיע באפור.
 >
 >- לחצן פתח באמצעות הסייר אינו מופיע בחוויית הספריה החדשה. בחר את התפריט הנפתח **תצוגה** בפינה השמאלית העליונה (שם התפריט הנפתח משתנה בהתאם לתצוגה הנוכחית), ולאחר מכן בחר **הצג בסייר הקבצים**.
->
->- האפשרות 'פתח באמצעות סייר' נתמכת רק ב-Internet Explorer 10 או 11. הפקודה 'פתח באמצעות הסייר' אינה פועלת ב- Windows עם Microsoft Edge,‏ Google Chrome ו- Mozilla Firefox או בפלטפורמת Mac. בשל כך, ייתכן שהאפשרות 'תצוגת סייר' תופיע באפור.
-
-
