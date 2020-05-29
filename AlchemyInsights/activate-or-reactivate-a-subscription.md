@@ -12,12 +12,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062105"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418037"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>הפעלה או הפעלה מחדש של מנוי
 
@@ -37,7 +37,7 @@ ms.locfileid: "44062105"
 
 2. בחר את המנוי שברצונך להפעיל מחדש, ולאחר מכן בחר **הפעל**מחדש. אם אינך רואה את **הפעל מחדש** כפעולה זמינה, [התקשר לתמיכה](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) כדי להפעיל מחדש את המנוי.
 
-3. הזן את פרטי התשלום שלך. כאן באפשרותך גם [לעדכן את פרטי התשלום הקיימים](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account).
+3. הזן את פרטי התשלום שלך. כאן באפשרותך גם [לעדכן את פרטי התשלום הקיימים](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
