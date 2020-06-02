@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788667"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507027"
 ---
 # <a name="enable-an-archive-mailbox"></a>הפיכת תיבת דואר של ארכיון לזמינה
 
@@ -27,7 +27,7 @@ ms.locfileid: "43788667"
 
 2. היכנס ל-Microsoft 365 באמצעות חשבון המנהל שלך.
 
-3. בחלונית הימנית של מרכז &amp; תאימות האבטחה, בחר \> **ארכיון** **ממשל מידע** .
+3. בחלונית הימנית של &amp; מרכז תאימות האבטחה, בחר ארכיון **ממשל מידע** \> **Archive**.
 
 4. בחר את המשתמש שאת תיבת הדואר שלו בארכיון ברצונך להפוך לזמינה.
 
@@ -43,7 +43,7 @@ ms.locfileid: "43788667"
 
 1. עבור אל [מרכז הניהול של Exchange](https://outlook.office365.com/ecp) והיכנס באמצעות חשבון המנהל שלך.
 
-2. עבור אל **נמענים** > **משותפים**.
+2. עבור אל **נמענים**  >  **משותפים**.
 
 3. בחר את תיבת הדואר המשותפת.
 
@@ -51,6 +51,6 @@ ms.locfileid: "43788667"
 
 לקבלת מידע נוסף, ראה:
   
-- [הפיכת תיבות דואר של ארכיון לזמינות](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [הפיכת תיבות דואר של ארכיון לזמינות](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [הגדרת מדיניות ארכיון ומחיקה](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
