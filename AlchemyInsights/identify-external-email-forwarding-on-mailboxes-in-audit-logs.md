@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716461"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508953"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>זיהוי כאשר תצורת העברת דואר אלקטרוני חיצונית מוגדרת בתיבות דואר
 
@@ -25,7 +25,7 @@ ms.locfileid: "43716461"
 
 1. היכנס ל- [Microsoft 365 האבטחה _ אמפר _ מרכז התאימות](https://protection.office.com/).
 
-2. עבור אל דף **Search** > **החיפוש של יומן ביקורת** חיפוש.
+2. עבור אל דף **Search**  >  **החיפוש של יומן ביקורת** החיפוש.
 
 3. בחר את טווח התאריכים **בתאריך ההתחלה** ושדות **הסיום** . אין צורך לציין שם משתמש. ודא שהשדה **פעילויות** מוגדר **להצגת תוצאות עבור כל הפעילויות**.
 
@@ -39,4 +39,4 @@ ms.locfileid: "43716461"
 
 - **Userid**: המשתמש שהגדיר העברת דואר אלקטרוני בתיבת הדואר בשדה **אובייtid** .
 
-לקבלת מידע נוסף, ראה [קביעה מי הגדיר העברת דואר אלקטרוני עבור תיבת דואר](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+לקבלת מידע נוסף, ראה [קביעה מי הגדיר העברת דואר אלקטרוני עבור תיבת דואר](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

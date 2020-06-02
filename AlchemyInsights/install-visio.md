@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765990"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508665"
 ---
 # <a name="install-visio"></a>התקנת Visio
 
@@ -25,7 +25,7 @@ Visio נמכר כיישום עצמאי, כך שאם עדיין אין לך או�
 
 **הערה**: Visio Online Plan 1 אינו כולל גירסת שולחן עבודה של Visio, כך שאין אפשרות להתקנה.
 
-אם יש לך מנוי ל-Visio Online Plan 2, עליך [להקצות רשיון](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) למשתמש או שלא תהיה להם אפשרות להתקין **את Visio מההתקנות שלי** [בפורטל החשבון שלי](https://portal.office.com/account#installs). 
+אם יש לך מנוי ל-Visio Online Plan 2, עליך [להקצות רשיון](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) למשתמש או שלא תהיה להם אפשרות להתקין **את Visio מההתקנות שלי** [בפורטל החשבון שלי](https://portal.office.com/account#installs). 
 
 גירסאות רשיון ללא אמצעי אחסון של Visio Standard או Visio Professional משויכות לחשבונות של Microsoft ואין אפשרות לנהל אותה במרכז הניהול. כדי להתקין גירסאות אלה, על המשתמשים להיכנס ל- [account.microsoft.com](https://account.microsoft.com) עם חשבון microsoft המשויך לגירסה זו של Visio.
 

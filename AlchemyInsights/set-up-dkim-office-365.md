@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645673"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509385"
 ---
 # <a name="setup-dkim"></a>הגדרת DKIM
 
-ההנחיות השלמות לקביעת התצורה של DKIM עבור תחומים מותאמים אישית ב-Microsoft 365 נמצאים [כאן](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+ההנחיות השלמות לקביעת התצורה של DKIM עבור תחומים מותאמים אישית ב-Microsoft 365 נמצאים [כאן](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
 1. עבור **כל** תחום מותאם אישית, עליך ליצור **שתי** רשומות של dkim CNAME בשירות ה-DNS המארח של התחום שלך (בדרך כלל, רשם התחום). לדוגמה, contoso.com ו-fourthcoffee.com דורשות ארבע רשומות של DKIM CNAME: שתיים עבור contoso.com ושתיים עבור fourthcoffee.com.
 
@@ -36,7 +36,7 @@ ms.locfileid: "43645673"
 
      **TTL**: 3600
 
-   \<DomainGUID\> הוא הטקסט שמשמאל `.mail.protection.outlook.com` לרשומת ה-MX המותאמת אישית עבור קבוצת המחשבים המותאמת אישית `contoso-com` (לדוגמה, עבור קבוצת המחשבים contoso.com). \<אתחאלתחום\> הוא התחום שבו השתמשת כאשר נרשמת ל365 של Microsoft (לדוגמה, contoso.onmicrosoft.com).
+   \<DomainGUID\>הוא הטקסט שמשמאל `.mail.protection.outlook.com` לרשומת ה-MX המותאמת אישית עבור התחום המותאם אישית (לדוגמה, `contoso-com` עבור התחום contoso.com). \<InitialDomain\>הוא התחום בו השתמשת כאשר נרשמת עבור Microsoft 365 (לדוגמה, contoso.onmicrosoft.com).
 
 2. לאחר שיצרת את רשומות ה-CNAME עבור התחומים המותאמים אישית שלך, השלם את ההוראות הבאות:
 
@@ -46,6 +46,6 @@ ms.locfileid: "43645673"
 
    c. בניווט השמאלי התחתון, הרחב את **Admin** ובחר באפשרות **Exchange**.
 
-   d. . לך **להגנה** > **.**
+   d. . לך **להגנה**  >  **DKIM**.
 
    e. בחר את התחום ולאחר מכן בחר **באפשרות ' הפעל** **הודעות ' עבור תחום זה עם חתימות dkim**. חזור על שלב זה עבור כל תחום מותאם אישית.

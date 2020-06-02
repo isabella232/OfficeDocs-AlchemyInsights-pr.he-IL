@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493173"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508377"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>הסיווג האוטומטי אינו מתנהג כמצופה באמצעות לקוח AIP
 
 הסיווג האוטומטי אינו מתנהג כמצופה, השתמש בהנחיות המומלצות הבאות:
 
-1. אם נתקלת בבעיות בתיוג אוטומטי, ראה [כיצד להגדיר תנאים לסיווג אוטומטי ומומלץ עבור הגנת מידע תכלת](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) [ואילו סוגי המידע הרגישים](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)מחפשים.
+1. אם נתקלת בבעיות בתיוג אוטומטי, ראה [כיצד להגדיר תנאים לסיווג אוטומטי ומומלץ עבור הגנת מידע תכלת](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) [ואילו סוגי המידע הרגישים](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)מחפשים.
 2. בדוק אם אתה משתמש במדיניות מתוחם שאינה [מוגדרת כראוי: כיצד לקבוע את תצורת המדיניות ' הגנה מפני מידע ' עבור משתמשים ספציפיים באמצעות מדיניות מתוחם](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. אם תיוג אוטומטי אינו פועל עבור Outlook בעת צירוף מסמך המסומן בתווית, ודא `DRMEncryptProperty` שאינו מוגדר כמתואר כאן: [הגדרות הרישום של IRM עבור אבטחה](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. אם השתמשת [בסוגי המידע המוכללים](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) עבור מדיניות ' הגנת מידע תכלת ', ודא שהתוכן תואם לתבנית הצפויה.

@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: c781e9fd492ff97bc80667956e6609b3d40b28b4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010615"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508629"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>התקנת Office בשרת מסופים
 
@@ -30,11 +30,11 @@ ms.locfileid: "44010615"
 > [!TIP]
 > באפשרותך גם להוריד ולהפעיל את [מסייע התמיכה והשחזור של microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) כדי להתקין את Microsoft 365 Apps עבור ארגון במצב הפעלה משותף של המחשב.
   
-1. בדוק מה מנוי 365 של Microsoft שקיבלת. [למד כיצד](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. בדוק מה מנוי 365 של Microsoft שקיבלת. [למד כיצד](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. במקרה הצורך, עבור למנוי אחר של Microsoft 365. [למד כיצד](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. במקרה הצורך, עבור למנוי אחר של Microsoft 365. [למד כיצד](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. אם Office כבר מותקן בשרת ה-RDS באמצעות כל מנוי אחר של Microsoft 365, הסר את התקנתה. לדוגמה, על-ידי הדרך \> ללוח הבקרה הסר תוכנית. הסר [התקנה באמצעות מסייע התמיכה והשחזור של Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) אם אתה נתקל בבעיות.
+3. אם Office כבר מותקן בשרת ה-RDS באמצעות כל מנוי אחר של Microsoft 365, הסר את התקנתה. לדוגמה, על-ידי הדרך ללוח \> הבקרה הסר תוכנית. הסר [התקנה באמצעות מסייע התמיכה והשחזור של Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) אם אתה נתקל בבעיות.
 
 4. בשרת RDS, היכנס למרכז הניהול של Microsoft 365 עם חשבון מנהל המערכת שלך [והתקן את microsoft 365 Apps עבור הארגון](https://portal.office.com/OLS/MySoftware.aspx).
 

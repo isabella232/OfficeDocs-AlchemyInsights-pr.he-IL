@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: d812b8ba6f80b61f48502df53c67a17c102d22b1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f1305fd8af3289f3543d2a596937089195e2495c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712387"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508449"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>החלת תוויות רגישות באופן אוטומטי
 
@@ -36,5 +36,5 @@ ms.locfileid: "43712387"
 
 לקבלת מידע נוסף אודות תוויות רגישות והחלתם אוטומטית על תוכן, ראה:
 
-- [מבט כולל על תוויות רגישות](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [מבט כולל על תוויות רגישות](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 - [החלת תווית רגישות על תוכן באופן אוטומטי](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
