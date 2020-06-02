@@ -12,12 +12,12 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 37cdc6943b28dc6823044957691767351d4ac246
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051030"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512627"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>נהל את האחסון המקוון של SharePoint שלך
 
@@ -29,9 +29,9 @@ ms.locfileid: "40051030"
 
 למד כיצד [לנהל מגבלות אחסון של אוספי אתרים בודדים](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
 
-אם האתר שלך מחוץ לשטח או אם ברצונך לדעת איזו ספריה או רשימה מנצל את השטח, עבור אל > **מדדי אחסון** **של הגדרות אתר**(הרשאות מנהל אוסף אתרים נדרשות).
+אם האתר שלך מחוץ לשטח או אם ברצונך לדעת איזו ספריה או רשימה מנצל את השטח, עבור אל מדדי אחסון **של הגדרות אתר**  >  **Storage Metrics** (הרשאות מנהל אוסף אתרים נדרשות).
 
 למד כיצד [לפקח על מגבלות האחסון באתר באמצעות PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
 
-למד כיצד [לרכוש מקום אחסון נוסף](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
+למד כיצד [לרכוש מקום אחסון נוסף](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
   

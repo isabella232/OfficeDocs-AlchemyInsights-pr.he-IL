@@ -15,12 +15,12 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767574"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512483"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>הגדרת דואר אלקטרוני ביישום הנייד של Outlook
 
@@ -30,7 +30,7 @@ ms.locfileid: "43767574"
 
 3. הזן את סיסמת חשבון הדואר האלקטרוני שלך והקש על **כניסה פנימה** או **הבא**.
 
-4. אם [אימות מרובה-גורמים](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) מאופשר, ודא שימוש בשיטה שתגדיר (קוד של 6 ספרות, שיחת טלפון או יישום מאמת של Microsoft).
+4. אם [אימות מרובה-גורמים](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) מאופשר, ודא שימוש בשיטה שתגדיר (קוד של 6 ספרות, שיחת טלפון או יישום מאמת של Microsoft).
 
 5. אם קיימים במקומם מדיניות ניהול מנהל IT נוספת, הקש על **Activate** כדי להפוך אותם לזמינים.
 

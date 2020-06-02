@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571258"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511977"
 ---
 # <a name="unable-to-delete-items"></a>אין אפשרות למחוק פריטים
 
-מדיניות שמירה עלולה לגרום לכך, עליך לבטל או להוציא החזקה בהתאמה שגורמת לבעיה זו. לאחר הסרת מדיניות שמירה או החזקה, ייתכן שהשינוי ישפיע עד 24 שעות. ודא שלא קיימת הגדרת [מדיניות שמירה](https://docs.microsoft.com/office365/securitycompliance/retention-policies) בפריט.
+מדיניות שמירה עלולה לגרום לכך, עליך לבטל או להוציא החזקה בהתאמה שגורמת לבעיה זו. לאחר הסרת מדיניות שמירה או החזקה, ייתכן שהשינוי ישפיע עד 24 שעות. ודא שלא קיימת הגדרת [מדיניות שמירה](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) בפריט.
 
 ייתכן שהאתר חרג ממגבלת האחסון, הגדל את [מיכסת האתר](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) ומחק את הפריט.
 
