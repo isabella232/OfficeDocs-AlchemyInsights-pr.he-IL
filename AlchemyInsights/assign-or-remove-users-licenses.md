@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 9878d51cadd211668a150f2ba43c4aabe4a75620
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712567"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506372"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="55cbf-102">הקצאה או הסרה של רשיונות משתמשים</span><span class="sxs-lookup"><span data-stu-id="55cbf-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="5ae7b-102">הקצאה או הסרה של רשיונות משתמשים</span><span class="sxs-lookup"><span data-stu-id="5ae7b-102">Assign or remove users' licenses</span></span>
 
-<span data-ttu-id="55cbf-103">כמנהל, באפשרותך לכוונן את רשיונות המשתמשים לפי הצורך.</span><span class="sxs-lookup"><span data-stu-id="55cbf-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="55cbf-104">המאמרים להלן יראו לך כיצד לנהל את רשיונות המשתמשים שלך, כולל:</span><span class="sxs-lookup"><span data-stu-id="55cbf-104">The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="5ae7b-103">כמנהל, באפשרותך לכוונן את רשיונות המשתמשים לפי הצורך.</span><span class="sxs-lookup"><span data-stu-id="5ae7b-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="5ae7b-104">המאמרים להלן יראו לך כיצד לנהל את רשיונות המשתמשים שלך, כולל:</span><span class="sxs-lookup"><span data-stu-id="5ae7b-104">The articles below will show you how to manage your users' licenses, including:</span></span>
   
-- [<span data-ttu-id="55cbf-105">הקצאת רשיונות למשתמשים ב-Microsoft 365 עבור עסקים</span><span class="sxs-lookup"><span data-stu-id="55cbf-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="5ae7b-105">הקצאת רשיונות למשתמשים ב-Microsoft 365 עבור עסקים</span><span class="sxs-lookup"><span data-stu-id="5ae7b-105">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [<span data-ttu-id="55cbf-106">הקצאת רשיונות ממשתמשים ב-Microsoft 365 לעסקים</span><span class="sxs-lookup"><span data-stu-id="55cbf-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [<span data-ttu-id="5ae7b-106">הקצאת רשיונות ממשתמשים ב-Microsoft 365 לעסקים</span><span class="sxs-lookup"><span data-stu-id="5ae7b-106">Unassign licenses from users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-<span data-ttu-id="55cbf-107">? לא ענית על השאלה שלך</span><span class="sxs-lookup"><span data-stu-id="55cbf-107">Didn't answer your question?</span></span> <span data-ttu-id="55cbf-108">אין בעיה!</span><span class="sxs-lookup"><span data-stu-id="55cbf-108">No problem!</span></span> <span data-ttu-id="55cbf-109">השתמש בכפתור "זקוק לעזרה" כדי לדבר עם מהנדס תמיכה.</span><span class="sxs-lookup"><span data-stu-id="55cbf-109">Use the "Need help" button to talk to a support engineer.</span></span>
+<span data-ttu-id="5ae7b-107">? לא ענית על השאלה שלך</span><span class="sxs-lookup"><span data-stu-id="5ae7b-107">Didn't answer your question?</span></span> <span data-ttu-id="5ae7b-108">אין בעיה!</span><span class="sxs-lookup"><span data-stu-id="5ae7b-108">No problem!</span></span> <span data-ttu-id="5ae7b-109">השתמש בכפתור "זקוק לעזרה" כדי לדבר עם מהנדס תמיכה.</span><span class="sxs-lookup"><span data-stu-id="5ae7b-109">Use the "Need help" button to talk to a support engineer.</span></span>
