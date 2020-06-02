@@ -12,18 +12,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 039a60a6a4eece841fc494f619f13f1021b8906a
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 35a2f888a340f50f38b79d8b81262edc6d850e5d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064358"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509817"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>מעבר ל-Microsoft 365 שונה עבור מנוי עסקי
 
 כאשר העסק שלך משתנה, או שאתה זקוק לתכונות נוספות, באפשרותך לשדרג לתוכנית חדשה.
   
-1. במרכז הניהול, עבור אל דף **החיוב** של \> **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. במרכז הניהול, עבור אל דף **החיוב** של \> [**המוצרים שלך**](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. בחר את המנוי שברצונך לשדרג.
 
@@ -33,4 +33,4 @@ ms.locfileid: "44064358"
 
 5. הזן את מספר הרשיונות הדרוש לך, בחר אם לשלם כל חודש או עבור כל השנה, ולאחר מכן בחר **בקופה**.
 
-כדי ללמוד עוד, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+כדי ללמוד עוד, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).

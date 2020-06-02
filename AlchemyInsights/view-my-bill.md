@@ -12,19 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 3c74953118f248c79186e54bd6728e2c6e083226
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 37ab3aef2e6aeaef4a8b8d89ec4b9417b2067b69
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005475"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510321"
 ---
 # <a name="view-my-bill-or-invoice"></a>הצגת החיוב או החשבונית שלי
 
-1. במרכז הניהול של מיקרוסופט 365, עבור אל שטרות **החיוב** \> של [חשבונות _ _ דף התשלומים](https://go.microsoft.com/fwlink/p/?linkid=848039) .
+1. במרכז הניהול של Microsoft 365, עבור אל דף התשלומים של חשבונות **החיוב** \> [_ amp_](https://go.microsoft.com/fwlink/p/?linkid=848039) .
 
 2. בחר טווח תאריכים מהרשימה הנפתחת ולאחר מכן בחר את הסדר שברצונך להציג.
 
 3. להדפסת החשבון, הורידו את החשבון כקובץ PDF ולחצו על ' **הדפס**'.
 
-לקבל מידע נוסף, ראה [הצג את החיוב או החשבונית שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+לקבל מידע נוסף, ראה [הצג את החיוב או החשבונית שלך](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).

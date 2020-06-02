@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: bb2e5218f9dc2b6bbdcdad6a6c63fde08c8ea098
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474426"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509637"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>בעיות בחתימת לתוך Microsoft 365 Apps
 
@@ -25,7 +25,7 @@ ms.locfileid: "44474426"
 - עבור Windows, ראה [המלצות על פתרון בעיות כניסה נפוצות](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - עבור Mac, ראה [אין אפשרות להיכנס ל-Office 2016 For mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**הערה:** **השבתת האימות המודרני**(adal) או ניהול חשבונות אינטרנט (wam) לתיקון בעיות כניסה או הפעלה אינה מומלצת. אם השגיאות מתרחשות בעת התחברות ל-Microsoft 365 באמצעות Office 2013, ודא [שאפשרת אימות מודרני](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) עבור לקוח office.
+**הערה:** **השבתת האימות המודרני**(adal) או ניהול חשבונות אינטרנט (wam) לתיקון בעיות כניסה או הפעלה אינה מומלצת. אם השגיאות מתרחשות בעת התחברות ל-Microsoft 365 באמצעות Office 2013, ודא [שאפשרת אימות מודרני](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) עבור לקוח office.
 
 לפעולות פתרון בעיות ספציפיות, ראה:
 
