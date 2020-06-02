@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 40a09fdaa3b2218fc2dfacb10216f27d6440bd67
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061744"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506264"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>קנה מנוי ל-Microsoft 365 מגירסת הניסיון שלך ללא תשלום
 
@@ -25,7 +25,7 @@ ms.locfileid: "44061744"
   
  **קניית תוכנית זהה לגירסת הניסיון**
   
-1. במרכז הניהול, עבור אל דף **החיוב** של \> **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. במרכז הניהול, עבור אל דף **החיוב** של \> [**המוצרים שלך**](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. חפש את המנוי שברצונך לקנות. במקטע **רשיונות** , בחר **מנוי רכישה**ובצע את השלבים לבדיקה.
 
@@ -35,7 +35,7 @@ ms.locfileid: "44061744"
 
 3. חפש את המנוי שברצונך לקנות, בחר ' **קנה**' ובצע את השלבים לרישום.
 
-לקבלת מידע נוסף, ראה [רכישת מנוי ל-Microsoft 365 עבור עסקים מגירסת הניסיון שלך ללא תשלום](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+לקבלת מידע נוסף, ראה [רכישת מנוי ל-Microsoft 365 עבור עסקים מגירסת הניסיון שלך ללא תשלום](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
 
 **פתרון בעיות**
 

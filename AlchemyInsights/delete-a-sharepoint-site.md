@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 9a6e59f5798130856ba3d82e8d233c2c79e462a7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a8aba717c826a929eda4977ad279ce7f1ac4ce70
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911545"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505688"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>מחיקת אתר ממרכז הניהול החדש של SharePoint
 
 באמצעות מרכז הניהול החדש של SharePoint, באפשרותך למחוק אתרים קלאסיים ומודרניים. בחר **אתרים פעילים**, בחר את האתר ולאחר מכן בחר **במחק**. כדי [להציג ולשחזר אתרים שנמחקו במרכז הניהול החדש של SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), בחר **אתרים שנמחקו**. לקבלת מידע נוסף, ראה [מחיקת אתר במרכז הניהול החדש של SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**חשוב:** אם האתר הוא חלק ממדיניות שמירה, ייתכן שלא יהיה באפשרותך למחוק אותו עד שהאתר יוסר [ממדיניות מרכז &amp; ניהול תאימות האבטחה](https://protection.office.com/?rfr=AdminCenter#/homepage). ראה [מבט כולל על מדיניות שמירה](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) לקבלת מידע נוסף. 
+**חשוב:** אם האתר הוא חלק ממדיניות שמירה, ייתכן שלא יהיה באפשרותך למחוק אותו עד שהאתר יוסר &amp;. ראה [מבט כולל על מדיניות שמירה](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) לקבלת מידע נוסף. 
 
 טיפים
 - מנהלי SharePoint יכולים כעת למחוק אתרים השייכים ל- **Microsoft 365 קבוצות**. פעולה זו תמחק את הקבוצה ואת כל המשאבים שלה, כולל תיבת הדואר ולוח השנה של Outlook וערוצי הצוותים. לקבלת מידע נוסף, ראה [מחיקת אתר SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
