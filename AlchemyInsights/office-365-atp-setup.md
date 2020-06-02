@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dfd6e900bc364699c7c19bda795408d87ccb4333
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d7d983e1a39034345283c5b084e84e5147c17645
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761671"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502752"
 ---
 # <a name="office-365-advanced-threat-protection-atp"></a>הגנת האיום המתקדם של Office 365 (ATP)
 
-Office 365 ATP כולל [קבצים מצורפים בטוחים](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [קישורים בטוחים](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [תוכנות נגד דיוג מתקדמות](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)ועוד. 
+Office 365 ATP כולל [קבצים מצורפים בטוחים](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [קישורים בטוחים](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [תוכנות נגד דיוג מתקדמות](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)ועוד. 
 
 ATP נכלל במנויים, כגון Office 365 Enterprise E5, Office 365 השכלה A5 ו-Microsoft 365 Premium Business. אם המנוי שלך אינו כולל את ATP, באפשרותך לרכוש ATP כהרחבה. כדי ללמוד עוד, עיין [בתיאור השירות של Office 365 ATP](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 

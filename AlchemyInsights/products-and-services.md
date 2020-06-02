@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44062862"
 ---
 # <a name="your-products"></a>המוצרים שלך
 
-באפשרותך למצוא את המנויים הנמצאים בבעלות **Billing**הארגון שלך  >  בדף**[המוצרים חיוב שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** . להלן כמה מגולות התכונות של דף זה יחד עם קישורים למידע נוסף על כל תכונה:
+באפשרותך למצוא את המנויים הנמצאים בבעלות **Billing**הארגון שלך  >  בדף[**המוצרים חיוב שלך**](https://go.microsoft.com/fwlink/p/?linkid=842054) . להלן כמה מגולות התכונות של דף זה יחד עם קישורים למידע נוסף על כל תכונה:
 
 1. נהל את מספר הרשיונות שנרכשו עבור כל מנוי יחד עם כמה נמצאים בשימוש.  **הערה**: רשיונות שאינם בשימוש (שאינם מוקצים למשתמש) עדיין מואשמים.  כדי לא להיות מחויב עבור רשיונות שאינם בשימוש, הפחת את מספר הרשיונות שנרכשו. לקבלת מידע אודות אופן ההוספה או ההסרה של רשיונות ממנוי, ראה [כיצד להוסיף או להקטין רשיונות](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
@@ -34,4 +34,4 @@ ms.locfileid: "44062862"
 
 6. [בטל את המנוי](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-באפשרותך לרכוש מנויים נוספים **Billing**  >  מדף[**שירותי הרכישה**](https://go.microsoft.com/fwlink/p/?linkid=868433) של החיוב.
+באפשרותך לרכוש מנויים נוספים **Billing**  >  מדף**[שירותי הרכישה](https://go.microsoft.com/fwlink/p/?linkid=868433)** של החיוב.

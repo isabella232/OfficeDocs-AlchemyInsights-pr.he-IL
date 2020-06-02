@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692514"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502572"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>שינוי הרשאות בתיבת דואר
 
 אם משתמשים זקוקים לגישה לתיבות דואר שאינן שלהם, יש לקבל הרשאות לעבודה עם תיבות דואר אלה. אופן הקצאת הרשאות אלה תלוי בסוג תיבת הדואר. אם משתמשים זקוקים לגישה אל:
   
-- תיבות דואר של משתמשים אחרים-נא ראה הצגת [הרשאות תיבת דואר למשתמש אחר](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
+- תיבות דואר של משתמשים אחרים-נא ראה הצגת [הרשאות תיבת דואר למשתמש אחר](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
 - תיבת דואר משותפת-נא ראה [הוספה או הסרה של חברים מתיבת דואר משותפת](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
