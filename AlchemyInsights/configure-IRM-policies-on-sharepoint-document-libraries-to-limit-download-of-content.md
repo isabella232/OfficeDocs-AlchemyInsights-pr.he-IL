@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5712"
-ms.openlocfilehash: d19bdbe9d8279e80a655d82be394fe43d210d7e5
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
-ms.translationtype: MT
+ms.openlocfilehash: 5260448fb16a015bf76e4467d732855015c84113
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44357988"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507839"
 ---
-# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a><span data-ttu-id="3d607-102">קביעת תצורה של מדיניות IRM בספריות מסמכים של SharePoint כדי להגביל את הורדת התוכן</span><span class="sxs-lookup"><span data-stu-id="3d607-102">Configure IRM policies on SharePoint document libraries to limit download of content</span></span>
+# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a><span data-ttu-id="8ab19-102">קביעת תצורה של מדיניות IRM בספריות מסמכים של SharePoint כדי להגביל את הורדת התוכן</span><span class="sxs-lookup"><span data-stu-id="8ab19-102">Configure IRM policies on SharePoint document libraries to limit download of content</span></span>
 
-<span data-ttu-id="3d607-103">בתוך SharePoint Online, הגנת IRM מוחלת על קבצים ברמת הרשימה והספריה.</span><span class="sxs-lookup"><span data-stu-id="3d607-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="3d607-104">לפני שהארגון שלך יכול להשתמש בהגנת IRM, עליך להגדיר תחילה את ניהול זכויות.</span><span class="sxs-lookup"><span data-stu-id="3d607-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="3d607-105">IRM מסתמך על שירות ניהול זכויות תכלת מתוך הגנת מידע תכלת כדי להצפין ולהקצות מגבלות שימוש.</span><span class="sxs-lookup"><span data-stu-id="3d607-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span>
+<span data-ttu-id="8ab19-103">בתוך SharePoint Online, הגנת IRM מוחלת על קבצים ברמת הרשימה והספריה.</span><span class="sxs-lookup"><span data-stu-id="8ab19-103">Within SharePoint Online, IRM protection is applied to files at the list and library level.</span></span> <span data-ttu-id="8ab19-104">לפני שהארגון שלך יכול להשתמש בהגנת IRM, עליך להגדיר תחילה את ניהול זכויות.</span><span class="sxs-lookup"><span data-stu-id="8ab19-104">Before your organization can use IRM protection, you must first set up Rights Management.</span></span> <span data-ttu-id="8ab19-105">IRM מסתמך על שירות ניהול זכויות תכלת מתוך הגנת מידע תכלת כדי להצפין ולהקצות מגבלות שימוש.</span><span class="sxs-lookup"><span data-stu-id="8ab19-105">IRM relies on the Azure Rights Management service from Azure Information Protection to encrypt and assign usage restrictions.</span></span>
 
-- <span data-ttu-id="3d607-106">[קביעת תצורה של מדיניות IRM בספריות מסמכים של SharePoint כדי להגביל את הורדת התוכן](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).</span><span class="sxs-lookup"><span data-stu-id="3d607-106">[Configure IRM policies on SharePoint document libraries to limit download of content](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).</span></span>
+- <span data-ttu-id="8ab19-106">[קביעת תצורה של מדיניות IRM בספריות מסמכים של SharePoint כדי להגביל את הורדת התוכן](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span><span class="sxs-lookup"><span data-stu-id="8ab19-106">[Configure IRM policies on SharePoint document libraries to limit download of content](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).</span></span>
