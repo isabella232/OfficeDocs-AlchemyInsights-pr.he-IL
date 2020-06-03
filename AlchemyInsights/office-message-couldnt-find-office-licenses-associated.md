@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: ead72a182c65999258ac628b92d14a958c849bc4
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
-ms.translationtype: HT
+ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182680"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505092"
 ---
 # <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>הודעת אפליקציות Office - לא היתה אפשרות למצוא רשיונות Office משויכים
 
 כדי לתקן שגיאה זו, נסה את השלבים הבאים:
 
-- הסר ו[הקצה מחדש רישיון Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide) עבור המשתמש המושפע.
+- הסר ו[הקצה מחדש רישיון Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) עבור המשתמש המושפע.
 
 - פתח אפליקציה של Office ו[צא](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071) מחשבונות משתמשים קיימים.
 
@@ -44,4 +44,4 @@ ms.locfileid: "43182680"
 
 [שגיאות מסוג "מוצר ללא רישיון" ושגיאות הפעלה ב- Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[כתובות URL וטווחי כתובות IP של Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[כתובות Url וטווחי כתובות IP של Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

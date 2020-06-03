@@ -19,12 +19,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 886516f97ea15ca939cd535a0a34a58eaf78114e
-ms.sourcegitcommit: eadc530b967e5b83e70b59dd5f7dc612b9ac9629
-ms.translationtype: HT
+ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813435"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506300"
 ---
 # <a name="business-subscription-faq"></a>שאלות נפוצות בנושא מנוי לעסקים
 
@@ -35,7 +35,7 @@ ms.locfileid: "43813435"
 - כדי **להחליף תוכניות**, ראה [החלפה ידנית בין תוכניות Microsoft 365 לעסקים](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - כדי **להקצות רישיונות משתמשים**, עבור אל **'חיובים' > ['רישיונות'](https://go.microsoft.com/fwlink/p/?linkid=842264)**. לקבלת מידע נוסף, ראה ['הקצאת רישיונות'](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - כדי **להוסיף/להסיר רישיונות**, עבור אל **'חיובים' > ['מוצרים ושירותים'](https://go.microsoft.com/fwlink/p/?linkid=842054)**, בחר **'הוספה/הסרה של רישיונות'**. לקבלת מידע נוסף, ראה [הוספה/הסרה של רישיונות](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- כדי **לבטל** רישיונות, עבור אל **'חיובים' > ['מוצרים ושירותים'](https://go.microsoft.com/fwlink/p/?linkid=842054)**, בחר **'הגדרות ופעולות'**, ולאחר מכן לחץ על **'ביטול מנוי'**. לקבלת מידע נוסף, ראה [ביטול המנוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- כדי **לבטל** רישיונות, עבור אל **'חיובים' > ['מוצרים ושירותים'](https://go.microsoft.com/fwlink/p/?linkid=842054)**, בחר **'הגדרות ופעולות'**, ולאחר מכן לחץ על **'ביטול מנוי'**. לקבלת מידע נוסף, ראה [ביטול המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - כדי **להפעיל** את המנוי, ראה [הפעל את המנוי שלך](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - כדי **להפעיל מחדש מנוי** שפג תוקפו, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - כדי **להאריך את תקופת הניסיון**, ראה [להאריך את תקופת הניסיון](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
