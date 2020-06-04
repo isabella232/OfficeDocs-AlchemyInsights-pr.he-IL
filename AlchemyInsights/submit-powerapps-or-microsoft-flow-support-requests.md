@@ -1,5 +1,5 @@
 ---
-title: הגשת בקשות תמיכה PowerApps או Microsoft זרימה
+title: שלח יישומי PowerApps או בקשות תמיכה של Microsoft Flow
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559482"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>הגשת בקשות תמיכה PowerApps או Microsoft זרימה
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>שלח יישומי PowerApps או בקשות תמיכה של Microsoft Flow
 
-אם אתה **PowerApps** או לקוחות **Microsoft זרימה** נא שלח כרטיס הכניסה שלך דרך חדשה [פלטפורמה חשמל מרכז Admin](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). הפורטל החדש מספק נתיב ישיר יותר תמיכה וסיוע ממוטבת עבורו PowerApps ומוצרים אחרים של פלטפורמת צריכת חשמל.
+אם אתה לקוח **Powerapps** או **Microsoft Flow** נא להגיש את הכרטיס דרך [מרכז הניהול החדש של פלטפורמת הכוח](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). הפורטל החדש מספק נתיב ישיר יותר לתמיכה התומכת באופטימיזציה עבור PowerApps ומוצרים אחרים של פלטפורמת Power.
 
-[להגיש בקשת תמיכה של Microsoft זרימה](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[הגש בקשה לתמיכה בזרימת Microsoft](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

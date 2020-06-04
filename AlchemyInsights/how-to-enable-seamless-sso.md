@@ -1,5 +1,5 @@
 ---
-title: כיצד לאפשר SSO חלקה
+title: כיצד להפעיל SSO חלקה
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663863"
 ---
-# <a name="how-to-enable-seamless-sso"></a>כיצד לאפשר SSO חלקה
+# <a name="how-to-enable-seamless-sso"></a>כיצד להפעיל SSO חלקה
 
-אפשר SSO חלקה באמצעות [AD תכלת הרקיע להתחבר](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+הפעל SSO חלק באמצעות [התקשרות תכלת](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-אם אתה מבצע התקנה חדשה של התחברות AD תכלת הרקיע, לבחור את [נתיב ההתקנה המותאמת אישית](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). בדף **משתמש כניסה** , בחר באפשרות **אפשר כניסה יחידה** .
+אם אתה עושה התקנה חדשה של תכלת AD התחבר, בחר את [נתיב ההתקנה המותאמת אישית](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). בדף **הכניסה למשתמש** , בחר באפשרות **הפעל כניסה יחידה** .
   
-כדי לוודא כי הפכת SSO חלקה כראוי:
+כדי לוודא שהפכת את ערכת SSO חלקה לזמינה כהלכה:
   
-1. היכנס אל [מרכז ניהול תכלת הרקיע Active Directory](https://aad.portal.azure.com) בתור מנהל מערכת כללית
+1. היכנס [למרכז האדמיניסטרטיבי של הספריה הפעילה](https://aad.portal.azure.com) כמנהל כללי.
 
-2. בחר **תכלת הרקיע Active Directory** בחלונית הימנית.
+2. בחר באפשרות ' כחול **פעיל** ' בחלונית הימנית.
 
-3. ודא זה חלקה כניסה יחידה **זמין**.
+3. ודא כי כניסה יחידה חלקה **מופעלת**.
 
-לקבלת מידע נוסף, ראה [תכלת הרקיע Active Directory חלקה כניסה יחידה: התחלה מהירה](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+לקבלת מידע נוסף, ראה [כניסה יחידה של Active Directory בודדת: התחלה מהירה](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
