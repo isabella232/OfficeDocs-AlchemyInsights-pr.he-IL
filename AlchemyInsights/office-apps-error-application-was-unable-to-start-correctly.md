@@ -1,5 +1,5 @@
 ---
-title: 'שגיאת יישומים של Office: ליישום לא היתה אפשרות לפעול כהלכה'
+title: 'שגיאת Microsoft 365 apps: ליישום לא היתה אפשרות לפעול כהלכה'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2533"
 - "9000572"
-ms.openlocfilehash: a096fbb25daf341a3a66294782c33e20d29d8322
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: bc860a2e5debed1de33b7269e699ccd034181602
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886508"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581160"
 ---
-# <a name="office-apps-error-the-application-was-unable-to-start-correctly"></a>שגיאת יישומי Office: ליישום לא היתה אפשרות לפעול כהלכה
+# <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly"></a>שגיאת האפליקציות של Microsoft 365: ליישום לא היתה אפשרות לפעול כהלכה
 
 כדי לתקן שגיאה זו, נסה את האפשרויות הבאות:
 
@@ -30,6 +30,6 @@ ms.locfileid: "40886508"
 
 לקבלת מידע נוסף, ראה: 
 
-- [שגיאה בעת פתיחת יישומי Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [שגיאה בעת פתיחת יישומים של microsoft Microsoft 365](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [אני מקבל שגיאת "הפסקת עבודה" כאשר אני מפעיל יישומי Office במחשב שלי](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [פתרון בעיות המתרחשות בעת הפעלה או שימוש ב-Office Apps](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [פתור בעיות המתרחשות בעת הפעלה או שימוש ביישומים של Microsoft 365](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

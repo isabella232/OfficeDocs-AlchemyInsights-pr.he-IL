@@ -1,5 +1,5 @@
 ---
-title: הודעת אפליקציות Office - לא היתה אפשרות למצוא רשיונות Office משויכים
+title: הודעת היישומים של Microsoft 365-לא היתה מצליחה למצוא רשיונות Office המשויכים
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505092"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581652"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>הודעת אפליקציות Office - לא היתה אפשרות למצוא רשיונות Office משויכים
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>הודעת היישומים של Microsoft 365-לא היתה מצליחה למצוא רשיונות Office המשויכים
 
 כדי לתקן שגיאה זו, נסה את השלבים הבאים:
 
@@ -38,7 +38,7 @@ ms.locfileid: "44505092"
 
 - איפוס מצב ההפעלה של Office. ראה [איפוס יישומי Microsoft 365 עבור מצב הפעלה ארגונית](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות שרת ה- proxy כדי לוודא שהם אינם חוסמים את הגישה של יישומי Office לאינטרנט. 
+- בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות ה-proxy כדי לוודא שהן אינן חוסמות את הגישה של Microsoft 365 ליישומים לאינטרנט. 
 
 לפתרונות נוספים, ראה:
 
