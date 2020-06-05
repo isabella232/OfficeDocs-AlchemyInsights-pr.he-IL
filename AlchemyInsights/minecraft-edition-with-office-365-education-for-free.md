@@ -12,27 +12,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762066"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579650"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a><span data-ttu-id="0ccf7-102">Minecraft מהדורה עם Office 365 החינוך בחינם</span><span class="sxs-lookup"><span data-stu-id="0ccf7-102">Minecraft Edition with Office 365 Education for Free</span></span>
+# <a name="minecraft-edition-with-office-365-education-for-free"></a><span data-ttu-id="984f4-102">Minecraft מהדורה עם Office 365 החינוך בחינם</span><span class="sxs-lookup"><span data-stu-id="984f4-102">Minecraft Edition with Office 365 Education for Free</span></span>
 
-[<span data-ttu-id="0ccf7-103">Minecraft מהדורה עם Office 365 החינוך בחינם</span><span class="sxs-lookup"><span data-stu-id="0ccf7-103">Minecraft Edition with Office 365 Education for Free</span></span>](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[<span data-ttu-id="984f4-103">Minecraft מהדורה עם Office 365 החינוך בחינם</span><span class="sxs-lookup"><span data-stu-id="984f4-103">Minecraft Edition with Office 365 Education for Free</span></span>](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- <span data-ttu-id="0ccf7-104">**Minecraft: מהדורת החינוך** דורש Windows 10</span><span class="sxs-lookup"><span data-stu-id="0ccf7-104">**Minecraft: Education Edition** requires Windows 10</span></span>
+- <span data-ttu-id="984f4-104">**Minecraft: מהדורת החינוך** דורש Windows 10</span><span class="sxs-lookup"><span data-stu-id="984f4-104">**Minecraft: Education Edition** requires Windows 10</span></span>
 
-- <span data-ttu-id="0ccf7-105">מבחנים או מנויים של **Minecraft: מהדורת החינוך** מוצעים לדיירים החינוך כי הם מנוהלים על ידי התכלת הספרייה (כחול AD)</span><span class="sxs-lookup"><span data-stu-id="0ccf7-105">Trials or subscriptions of **Minecraft: Education Edition** are offered to education tenants that are managed by Azure Active Directory (Azure AD)</span></span>
+- <span data-ttu-id="984f4-105">מבחנים או מנויים של **Minecraft: מהדורת החינוך** מוצעים לדיירים החינוך כי הם מנוהלים על ידי התכלת הספרייה (כחול AD)</span><span class="sxs-lookup"><span data-stu-id="984f4-105">Trials or subscriptions of **Minecraft: Education Edition** are offered to education tenants that are managed by Azure Active Directory (Azure AD)</span></span>
 
-  - <span data-ttu-id="0ccf7-106">אם בבית הספר שלך אין דייר [לספירה תכלת, מנהל IT יכול להגדיר אחד](https://docs.microsoft.com/education/windows/school-get-minecraft) כחלק מהתהליך של מקבל **Minecraft: מהדורה החינוך**.</span><span class="sxs-lookup"><span data-stu-id="0ccf7-106">If your school doesn't have an Azure AD tenant, the [IT administrator can set one up](https://docs.microsoft.com/education/windows/school-get-minecraft) as part of the process of getting **Minecraft: Education Edition**.</span></span>
+  - <span data-ttu-id="984f4-106">אם בבית הספר שלך אין דייר [לספירה תכלת, מנהל IT יכול להגדיר אחד](https://docs.microsoft.com/education/windows/school-get-minecraft) כחלק מהתהליך של מקבל **Minecraft: מהדורה החינוך**.</span><span class="sxs-lookup"><span data-stu-id="984f4-106">If your school doesn't have an Azure AD tenant, the [IT administrator can set one up](https://docs.microsoft.com/education/windows/school-get-minecraft) as part of the process of getting **Minecraft: Education Edition**.</span></span>
 
-  - <span data-ttu-id="0ccf7-107">Office 365 השכלה, הכוללת גירסאות מקוונות של יישומי Office בתוספת 1 TB אחסון מקוון היא ללא תשלום עבור מורים וסטודנטים.</span><span class="sxs-lookup"><span data-stu-id="0ccf7-107">Office 365 Education, which includes online versions of Office apps plus 1 TB online storage is free for teachers and students.</span></span> <span data-ttu-id="0ccf7-108">[הרשם לבית הספר שלך לחינוך במשרד 365](https://products.office.com/academic/office-365-education-plan).</span><span class="sxs-lookup"><span data-stu-id="0ccf7-108">[Sign up your school for Office 365 Education](https://products.office.com/academic/office-365-education-plan).</span></span>
+  - <span data-ttu-id="984f4-107">Office 365 השכלה, הכוללת גירסאות מקוונות של Microsoft 365 apps ועוד 1 TB אחסון מקוון הוא ללא תשלום עבור מורים וסטודנטים.</span><span class="sxs-lookup"><span data-stu-id="984f4-107">Office 365 Education, which includes online versions of Microsoft 365 apps plus 1 TB online storage is free for teachers and students.</span></span> <span data-ttu-id="984f4-108">[הרשם לבית הספר שלך לחינוך במשרד 365](https://products.office.com/academic/office-365-education-plan).</span><span class="sxs-lookup"><span data-stu-id="984f4-108">[Sign up your school for Office 365 Education](https://products.office.com/academic/office-365-education-plan).</span></span>
 
-  - <span data-ttu-id="0ccf7-109">אם לבית הספר שלך יש מנוי השכלה של Office 365, הוא כולל מנוי חופשי של התכלת לספירה.</span><span class="sxs-lookup"><span data-stu-id="0ccf7-109">If your school has an Office 365 Education subscription, it includes a free Azure AD subscription.</span></span> <span data-ttu-id="0ccf7-110">[רשום את מנוי התכלת החופשי שלך](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="0ccf7-110">[Register your free Azure AD subscription](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).</span></span>
+  - <span data-ttu-id="984f4-109">אם לבית הספר שלך יש מנוי השכלה של Office 365, הוא כולל מנוי חופשי של התכלת לספירה.</span><span class="sxs-lookup"><span data-stu-id="984f4-109">If your school has an Office 365 Education subscription, it includes a free Azure AD subscription.</span></span> <span data-ttu-id="984f4-110">[רשום את מנוי התכלת החופשי שלך](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="984f4-110">[Register your free Azure AD subscription](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).</span></span>
 
-<span data-ttu-id="0ccf7-111">[למד כיצד מורים יכולים לקבל ולהפיץ Minecraft: מהדורת החינוך](https://docs.microsoft.com/education/windows/teacher-get-minecraft).</span><span class="sxs-lookup"><span data-stu-id="0ccf7-111">[Learn how teachers can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).</span></span>
+<span data-ttu-id="984f4-111">[למד כיצד מורים יכולים לקבל ולהפיץ Minecraft: מהדורת החינוך](https://docs.microsoft.com/education/windows/teacher-get-minecraft).</span><span class="sxs-lookup"><span data-stu-id="984f4-111">[Learn how teachers can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).</span></span>
   
-<span data-ttu-id="0ccf7-112">[למד כיצד מנהלי it יכולים לקבל ולהפיץ Minecraft: מהדורת השכלה](https://docs.microsoft.com/education/windows/school-get-minecraft)וכיצד לנהל הרשאות עבור Minecraft.</span><span class="sxs-lookup"><span data-stu-id="0ccf7-112">[Learn how IT administrators can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), and how to manage permissions for Minecraft.</span></span>
+<span data-ttu-id="984f4-112">[למד כיצד מנהלי it יכולים לקבל ולהפיץ Minecraft: מהדורת השכלה](https://docs.microsoft.com/education/windows/school-get-minecraft)וכיצד לנהל הרשאות עבור Minecraft.</span><span class="sxs-lookup"><span data-stu-id="984f4-112">[Learn how IT administrators can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), and how to manage permissions for Minecraft.</span></span>
