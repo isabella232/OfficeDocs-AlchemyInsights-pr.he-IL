@@ -2,18 +2,18 @@
 title: אין אפשרות להוסיף 2010 זרימת עבודה של אישור
 ms.author: pebaum
 author: pebaum
-ms.date: 12/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 11ba9bf04f826b0d7465a9a81a36c327e79f4d13
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049554"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582848"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>אין אפשרות להוסיף 2010 זרימת עבודה של אישור
 
@@ -33,7 +33,7 @@ ms.locfileid: "40049554"
   
 2. במקטע **ניהול** של רצועת הכלים **זרימת עבודה** , בחר פרסם באופן **גלובלי**. בתיבת הדו של האישור שמופיעה, בחר **ב'אישור '**. 
   
-3. בדפדפן אינטרנט, אתר את אתר הבסיס של אוסף האתרים ולאחר מכן גש \> **לתכונות אוסף אתרים**של **הגדרות אתר** . החלף את התכונה ' **זרימות עבודה** ': 
+3. בדפדפן אינטרנט, אתר את אתר הבסיס של אוסף האתרים ולאחר מכן **Site Settings** גש \> **לתכונות אוסף האתרים**של הגדרות אתר. החלף את התכונה ' **זרימות עבודה** ': 
   
 · אם התכונה *מופעלת* , לחץ על **בטל הפעלה** ולאחר מכן לחץ על **הפעל**. 
   

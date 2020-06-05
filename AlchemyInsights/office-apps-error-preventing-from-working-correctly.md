@@ -1,5 +1,5 @@
 ---
-title: 'שגיאת יישומי Office: האפליקציה הריצה לתוך שגיאה המונעת ממנה לפעול כהלכה'
+title: 'מיקרוסופט 365 apps שגיאה: האפליקציה הריצה לתוך שגיאה המונעת ממנו לפעול כראוי'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886509"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576813"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>שגיאת יישומי Office: היישום נתקל בשגיאה המונעת ממנה לפעול כהלכה
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>שגיאת האפליקציות של Microsoft 365: האפליקציה הריצה לתוך שגיאה המונעת ממנה לפעול כהלכה
 
 כדי לתקן שגיאה זו, נסה את האפשרויות הבאות:
 
@@ -31,6 +31,6 @@ ms.locfileid: "40886509"
 
 לקבלת מידע נוסף, ראה: 
 
-- [שגיאה בעת פתיחת יישומי Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [שגיאה בעת פתיחת יישומים של microsoft Microsoft 365](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [אני מקבל שגיאת "הפסקת עבודה" כאשר אני מפעיל יישומי Office במחשב שלי](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [פתרון בעיות המתרחשות בעת הפעלה או שימוש ב-Office Apps](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [פתור בעיות המתרחשות בעת הפעלה או שימוש ביישומים של Microsoft 365](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

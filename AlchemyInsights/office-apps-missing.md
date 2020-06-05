@@ -1,5 +1,5 @@
 ---
-title: יישומי Office חסרים
+title: מיקרוסופט 365 apps חסרים
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2529"
 - "9000572"
-ms.openlocfilehash: d0e38f376db8d4167df51e229b29deb1ce79fb83
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 5f935408bac9ac8ad36d18740bd61aba12bca1ca
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738885"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576777"
 ---
-# <a name="office-apps-missing"></a>יישומי Office חסרים
+# <a name="microsoft-365-apps-missing"></a>מיקרוסופט 365 apps חסרים
 
-אם אין באפשרותך לאתר יישומי Office במחשב לאחר התקנה או עדכון, ראה [אין אפשרות למצוא יישומי office ב-windows 10, windows 8 או windows 7?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6). אם אין באפשרותך למצוא את קיצורי הדרך של Office בתפריט התחלה או תחת **כל היישומים**, ראה [יישומי office חסרים בכל היישומים ב-Windows 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc). 
+אם אין באפשרותך לאתר יישומי Office במחשב לאחר התקנה או עדכון, ראה [אין אפשרות למצוא יישומי office ב-windows 10, windows 8 או windows 7?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6). אם אין באפשרותך למצוא את קיצורי הדרך של Office בתפריט התחלה או תחת **כל היישומים**, ראה [Microsoft 365 apps חסרים בכל היישומים ב-Windows 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc). 
 
 נסה [לתקן יישום של office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) אם קיצורי הדרך של office נעלמו לאחר כניסה או הפעלה מחדש של המחשב. 
 
-**הערה:** אם יישומי office חסרים להתקנה ב-office portal, עבור [לפתרון בעיות התקנת office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) ועבור אל **Office לבעיות** > **** > עסקיות נפוצות, אינך**רואה אפשרות להתקין את Office**. 
+**הערה:** אם Microsoft 365 apps חסרים עבור ההתקנה ב-office portal, עבור [לפתרון בעיות התקנת office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) ועבור אל **Office עבור בעיות עסקיות**  >  **נפוצות**, אינך  >  **רואה אפשרות להתקין את Office**. 
