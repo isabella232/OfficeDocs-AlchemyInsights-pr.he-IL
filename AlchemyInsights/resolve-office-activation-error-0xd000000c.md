@@ -13,18 +13,18 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: e7229980d39b60ec0f60ebd5e51948e8cf34bc76
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 75795c357442799e41c39df2f963e126c944e9f0
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474462"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582560"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>פתרון שגיאת הפעלה 0xD000000C של Office
 
 - ודא שהאינטרנט פועל ב- Mac שעליו אתה מנסה להתקין. באפשרותך לעשות זאת על-ידי פתיחת דפדפן האינטרנט שלך ומעבר אל [Microsoft](https://www.microsoft.com). אם הגף מטען, חיבור האינטרנט שלך פועל.
 
-- צא מכל יישומי Office.
+- צא מכל היישומים של Microsoft 365.
 
 - הורד והפעל את [כלי הסרת רישיון](https://go.microsoft.com/fwlink/?linkid=849815) כדי להסיר את כל ערכי ה- Keychain (צרור מפתחות) של Office.
 

@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: e327df91f13cc2488e836f940a6f3a7915451558
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628171"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582632"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word קורס או אינו מגיב
 
 קריסות תכופות ב-Word עשויות להיגרם על-ידי תוספת פגומה. באפשרותך להשבית תוספות של Word על-ידי ביצוע הוראות אלה:
 
-1. עבור אל**תוספות**של**אפשרויות** >  **קובץ** > .
+1. עבור אל **File**  >  **Options**  >  **תוספות**של אפשרויות קובץ.
 2. ברשימה **ניהול** , בחר **תוספות COM**ולאחר מכן בחר באפשרות **עבור**.
 3. בתיבה **תוספות זמינות** , נקה את תיבת הסימון לצד התוספת שברצונך להפוך ללא זמינה **ובחר באפשרות אישור**.
 
@@ -31,7 +31,7 @@ ms.locfileid: "39628171"
 1.   בשולחן עבודה של Windows, סגור את Outlook והקש CTRL + ALT + DEL כדי לפתוח את ' מנהל המשימות '. 
 2. בכרטיסיה ' **תהליכים** ', אם תהליכי Word פועלים, בחר בהם ובחר באפשרות ' **סיים משימה**'. מומלץ גם לבצע אתחול מחדש כדי לנקות הכל מהזיכרון.
 
-    אם Word ממשיך לקרוס או להיתקע במהלך השיגור, ראה [פתיחת יישומי Office במצב בטוח במחשב Windows](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) כדי להפעיל אותו במצב בטוח.
+    אם Word ממשיך לקרוס או להיתקע במהלך השיגור, ראה [פתיחת יישומי Microsoft 365 במצב בטוח במחשב Windows](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) כדי להפעיל אותו במצב בטוח.
 
 אם עדיין נתקלת בבעיות, עיין במאמרים הבאים: 
 - [אני מקבל שגיאת "הפסקת עבודה" כאשר אני מפעיל יישומי Office במחשב שלי](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)

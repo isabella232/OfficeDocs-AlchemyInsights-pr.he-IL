@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 37788c31f4068792956cfff9b89d48c3e9c2f253
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912548"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582524"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>שחזור פריטים שנמחקו מתוך SharePoint או OneDrive
 
@@ -34,6 +34,6 @@ ms.locfileid: "43912548"
   
 [שחזור אוספי אתרים שנמחקו](https://go.microsoft.com/fwlink/?linkid=867660) (מנהלים גלובליים או SharePoint ב-Microsoft 365) 
   
-עבור אתרים השייכים לקבוצה של Microsoft 365, עליך לשחזר את הקבוצה כדי לשחזר את האתר. ראה [שחזור קבוצת Microsoft 365 שנמחקה](https://go.microsoft.com/fwlink/?linkid=867802) (מנהל כללי) 
+עבור אתרים השייכים לקבוצת Microsoft 365, עליך לשחזר את הקבוצה כדי לשחזר את האתר. ראה [שחזור קבוצת Microsoft 365 שנמחקה](https://go.microsoft.com/fwlink/?linkid=867802) (מנהל כללי) 
   
 

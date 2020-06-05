@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512013"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582740"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>הצעות לפתרון שגיאות "מוצר לא מורשה"
 
@@ -26,7 +26,7 @@ ms.locfileid: "44512013"
 - ודא שיש לך מנוי המאפשר רשיונות לקוח, כגון Microsoft 365 Apps לעסקים או לפרמיה עסקית, [וודא שהוקצה למשתמש רשיון](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - ודא שהמשתמש מבצע כניסה ל-Office עם אותו חשבון שהוקצה לו הרשיון.
 - בדוק את [דף התקינות של השירות](https://docs.microsoft.com/office365/enterprise/view-service-health) כדי לראות אם יש בעיות ידועות בשירות.
-- בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות ה-proxy כדי לוודא שהן אינן חוסמות גישה ליישומי Office לאינטרנט. ראה [כתובות url וטווחי כתובות IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות ה-proxy כדי לוודא שהן אינן חוסמות את הגישה של Microsoft 365 ליישומים לאינטרנט. ראה [כתובות url וטווחי כתובות IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 ניתן גם לנסות את הפעולות הבאות לפתרון בעיות: 
 
