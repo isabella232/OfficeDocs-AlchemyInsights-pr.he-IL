@@ -13,18 +13,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: a8305e6f089251077400f2b727539615cf6165af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0cb5595513d8ade82782269c20e0173b2e7e7471
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722739"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582416"
 ---
-# <a name="repeated-sign-in-prompts-in-office-apps"></a><span data-ttu-id="1d0db-102">בקשות כניסה חוזרות ביישומי Office</span><span class="sxs-lookup"><span data-stu-id="1d0db-102">Repeated sign-in prompts in Office apps</span></span>
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a><span data-ttu-id="867f2-102">בקשות כניסה חוזרות ב-Microsoft 365 אפליקציות</span><span class="sxs-lookup"><span data-stu-id="867f2-102">Repeated sign-in prompts in Microsoft 365 apps</span></span>
 
-<span data-ttu-id="1d0db-103">כדי לפתור בקשות כניסה חוזרות ביישומי Office, ראה:</span><span class="sxs-lookup"><span data-stu-id="1d0db-103">To troubleshoot repeated sign-in prompts in Office apps, see:</span></span>
+<span data-ttu-id="867f2-103">לפתרון בקשות כניסה חוזרות ביישומי Microsoft 365, ראה:</span><span class="sxs-lookup"><span data-stu-id="867f2-103">To troubleshoot repeated sign-in prompts in Microsoft 365 apps, see:</span></span>
 
-- [<span data-ttu-id="1d0db-104">כיצד לפתור יישומים שאינם יישומי דפדפן שאינם יכולים להיכנס ל-Microsoft 365, תכלת או Intune</span><span class="sxs-lookup"><span data-stu-id="1d0db-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- [<span data-ttu-id="1d0db-105">"הגישה נדחתה" או שהמשתמש יתבקש שוב ושוב לקבל אישורים בעת ההתחברות ל-Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="1d0db-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [<span data-ttu-id="1d0db-106">משתמש מאוחד מתבקש שוב ושוב לאישורים במהלך הכניסה ל-Microsoft 365, תכלת או Intune</span><span class="sxs-lookup"><span data-stu-id="1d0db-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [<span data-ttu-id="867f2-104">כיצד לפתור יישומים שאינם יישומי דפדפן שאינם יכולים להיכנס ל-Microsoft 365, תכלת או Intune</span><span class="sxs-lookup"><span data-stu-id="867f2-104">How to troubleshoot non-browser apps that can't sign in to Microsoft 365, Azure, or Intune</span></span>](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- [<span data-ttu-id="867f2-105">"הגישה נדחתה" או שהמשתמש יתבקש שוב ושוב לקבל אישורים בעת ההתחברות ל-Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="867f2-105">"Access Denied", or user is repeatedly prompted for credentials when connecting to Microsoft 365</span></span>](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [<span data-ttu-id="867f2-106">משתמש מאוחד מתבקש שוב ושוב לאישורים במהלך הכניסה ל-Microsoft 365, תכלת או Intune</span><span class="sxs-lookup"><span data-stu-id="867f2-106">A federated user is repeatedly prompted for credentials during sign-in to Microsoft 365, Azure or Intune</span></span>](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 
