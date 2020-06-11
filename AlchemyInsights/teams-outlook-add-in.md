@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021499"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702207"
 ---
 # <a name="teams-outlook-add-in"></a>התוספת של Outlook לצוותים
 
-ישנם גורמים מרובים שעלולים לגרום לתוספת הצוותים שלך לא להופיע וכולם רשומים [כאן](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+כדי לפתור בעיות ב-Outlook Add-in של צוותים חסרים, תחילה יש להקפיד להפעיל את ' אבחון השירות ' כאן בפורטל המנהלה.  אם הבדיקה ' אבחון שירות ' אינה מציינת בעיות, אנא המשך להוריד ולהפעיל את התוכנית של [מסייע התמיכה והשחזור של Microsoft](https://aka.ms/SaRA-TeamsAddInScenario) ב **-Outlook התוספת תרחיש** במחשבי המשתמש המושפעים כדי לאבחן ולתקן בעיות של לקוח.
 
-**אנו ממליצים לבדוק תחילה שתוספת אינה זמינה:**
-
-- ב-Outlook, לחץ על **קובץ** ולאחר מכן **אפשרויות**.
-- בחר את הכרטיסיה **תוספות** של תיבת הדו **אפשרויות Outlook** .
-- ודא **שתוספת הפגישה של Microsoft Office לקבלת מיקרוסופט** מופיעה ברשימת **התוספות של יישומים פעילים** .
-- אם התוספת לפגישת קבוצות מפורטת ברשימה **תוספות של יישומים שאינם זמינים** , בחר **תוספות COM** **בניהול** ולאחר מכן לחץ על **Go...**
-- הגדר את תיבת הסימון לצד **תוספת לפגישה של microsoft באמצעות Microsoft Office**.
-- לחץ על **אישור** בכל תיבות הדו והפעל מחדש את Outlook.
+כדי לפתור את הבעיה באופן ידני, סקור את רשימת הגורמים הפוטנציאליים שעלולים לגרום לתוספת הצוותים שלך לא להופיע ברשימה [כאן](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
