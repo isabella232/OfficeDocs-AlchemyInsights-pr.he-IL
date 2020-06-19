@@ -11,21 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706202"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797972"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>בעיות נפוצות ופתרונות עבור ADFS
 
 ניתן לעדכן את התצורה של התחום המאוחד, כפי שמתואר במאמרים הבאים של Microsoft Knowledge Base.
 
-- [2713898](https://support.microsoft.com/help/2713898) "אירעה בעיה בגישה אל האתר" מ-AD FS כאשר משתמש מאוחד נכנס אל Office 365,‏ Azure, או Intune.
+- [פג תוקפם של אישור הפדרציה של ADFS](adfs-federation-certificate-expiring.md)
 
-- [2535191](https://support.microsoft.com/help/2535191) "מצטערים, איננו מצליחים להכניס אותך" ושגיאת "80048163" כאשר משתמש מאוחד מנסה להיכנס אל Office 365,‏ Azure, או Intune.
+- [2713898](https://support.microsoft.com/help/2713898) "אירעה בעיה בגישה לאתר" מתוך AD FS כאשר משתמש מאוחד מתחבר ל-Microsoft 365, תכלת או Intune.
 
-- [2647020](https://support.microsoft.com/help/2647020) "מצטערים, איננו מצליחים להכניס אותך" ושגיאה "80041317" או "80043431" כאשר משתמש מאוחד מנסה להיכנס אל Office 365,‏ Azure, או Intune.
+- [2535191](https://support.microsoft.com/help/2535191) "סליחה, אבל אנחנו מתקשים לחתום על השגיאה" ו-"80048163" כאשר משתמש מאוחד מנסה להיכנס ל-Microsoft 365, תכלת או Intune.
 
-לקבלת מידע נוסף, ראה [עדכון או תיקון ההגדרות של תחום מאוחד ב- Office 365,‏ Azure, או Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+- [2647020](https://support.microsoft.com/help/2647020) "סליחה, אבל אנחנו מתקשים לחתום על השגיאה" ו-"80041317" או "80043431" כאשר משתמש מאוחד מנסה להיכנס ל-Microsoft 365, תכלת או Intune.
+
+לקבלת מידע נוסף, ראה [עדכון או תיקון של ההגדרות של תחום מאוחד ב-Microsoft 365, תכלת או Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
