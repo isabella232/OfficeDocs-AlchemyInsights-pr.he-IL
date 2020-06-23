@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506156"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840922"
 ---
-# <a name="calendar-publishing-information"></a><span data-ttu-id="eee3b-102">מידע אודות הוצאה לאור בלוח שנה</span><span class="sxs-lookup"><span data-stu-id="eee3b-102">Calendar publishing information</span></span>
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a><span data-ttu-id="c87f3-102">אפשר שיתוף לוח שנה באמצעות מרכז הניהול של Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="c87f3-102">Enable calendar sharing using the Microsoft 365 admin center</span></span>
 
-- <span data-ttu-id="eee3b-103">Microsoft 365 מנהלים יכולים להפעיל או להשבית שיתוף לוחות שנה ולשיתוף לוח שנה עבור ארגון.</span><span class="sxs-lookup"><span data-stu-id="eee3b-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="eee3b-104">לקבלת מידע נוסף, ראה [הפעלת פרסום לוח שנה כדי שאנשים יוכלו לשתף מידע](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) [ולשתף לוחות שנה עם משתמשים חיצוניים](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="eee3b-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).</span></span>
+1. <span data-ttu-id="c87f3-103">במרכז הניהול, **עבור אל הגדרות**   >   **הגדרות הארגון**.</span><span class="sxs-lookup"><span data-stu-id="c87f3-103">In the admin center, go to  **Settings**  >  **Org Settings**.</span></span>
+2. <span data-ttu-id="c87f3-104">בכרטיסיה **שירותים** , בחר **בלוח שנה**.</span><span class="sxs-lookup"><span data-stu-id="c87f3-104">On the  **Services**  tab, select  **Calendar**.</span></span>
+3. <span data-ttu-id="c87f3-105">בדף **לוח השנה** שנפתח, בחר אם ברצונך לאפשר למשתמשים לשתף את לוחות השנה שלהם עם אנשים מחוץ לארגון שלך בעלי Microsoft 365 או Exchange.</span><span class="sxs-lookup"><span data-stu-id="c87f3-105">On the  **Calendar**  page that opens, choose whether you want to let your users share their calendars with people outside of your organization who have Microsoft 365 or Exchange.</span></span>
+4. <span data-ttu-id="c87f3-106">בחר אם ברצונך לאפשר למשתמשים אנונימיים (משתמשים ללא אישורי כניסה) לגשת ללוחות שנה באמצעות הזמנה בדואר אלקטרוני.</span><span class="sxs-lookup"><span data-stu-id="c87f3-106">Choose whether you want to allow anonymous users (users without logon credentials) to access calendars via an email invitation.</span></span>
+5. <span data-ttu-id="c87f3-107">בחר איזה סוג של מידע לוח שנה להפוך לזמין עבור משתמשים.</span><span class="sxs-lookup"><span data-stu-id="c87f3-107">Choose what type of calendar information to make available to users.</span></span> <span data-ttu-id="c87f3-108">באפשרותך להתיר את כל המידע, או להגביל אותה לשעה בלבד או לשעה, לנושא ולמיקום בלבד.</span><span class="sxs-lookup"><span data-stu-id="c87f3-108">You can allow all information, or limit it to time only or time, subject, and location only.</span></span>
 
-- <span data-ttu-id="eee3b-105">משתמשי Outlook יכולים לשתף לוחות שנה משלהם.</span><span class="sxs-lookup"><span data-stu-id="eee3b-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="eee3b-106">לקבלת מידע נוסף, ראה [שיתוף לוח שנה של Outlook עם אנשים אחרים](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span><span class="sxs-lookup"><span data-stu-id="eee3b-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>
+<span data-ttu-id="c87f3-109">מידע נוסף: [שתף לוחות שנה עם משתמשים חיצוניים](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span><span class="sxs-lookup"><span data-stu-id="c87f3-109">More Information: [Share calendars with external users](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)</span></span>
