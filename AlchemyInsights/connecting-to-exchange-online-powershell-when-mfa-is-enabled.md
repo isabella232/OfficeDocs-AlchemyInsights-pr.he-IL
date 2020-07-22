@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705806"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205304"
 ---
 # <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>התחבר ל-Exchange Online PowerShell כאשר משרד האינטרנט מופעל
 
-אם החשבון שלך כולל אימות רב-גורמי (משרד האינטרנט) הזמין, עליך לבצע את ההוראות הבאות כדי להתחבר ל-Exchange Online PowerShell: [התחבר ל-Exchange Online powershell באמצעות אימות מרובה גורמים](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
-
-**הערה**: גם אם התחברת ל-Exchange Online PowerShell בעבר באמצעות [הוראות החיבור הרגילות](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), עליך להשתמש בהוראות החיבור של משרד האינטרנט לאחר שתואר משרד האינטרנט הופעל עבור חשבונך.
+אם החשבון שלך כולל אימות רב-גורמי (משרד האינטרנט) הזמין, עליך לבצע את ההוראות הבאות כדי להתחבר ל-Exchange Online PowerShell: [השתמש ב-Exchange Online powershell עם אימות מודרני באמצעות מודול V2](https://aka.ms/exops-docs). נא חפש בעמוד זה הנחיות לאימות של משרד המידע/גורמים מרובים.
