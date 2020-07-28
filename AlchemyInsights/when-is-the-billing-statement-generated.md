@@ -2,8 +2,8 @@
 title: מתי נוצרת הצהרת החיוב?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510393"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431218"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="e298e-102">מתי משפט החיוב נוצר</span><span class="sxs-lookup"><span data-stu-id="e298e-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="36a5a-102">מתי משפט החיוב נוצר</span><span class="sxs-lookup"><span data-stu-id="36a5a-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="e298e-103">בכל חודש תקבל אימייל שאומר לך שהצהרת החיוב החדשה שלך זמינה במרכז הניהול של Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="e298e-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="e298e-104">החשבונית מכילה שני עמודים.</span><span class="sxs-lookup"><span data-stu-id="e298e-104">Your invoice contains two pages.</span></span> <span data-ttu-id="e298e-105">עמוד 1 הוא סיכום החשבונית, והוא מכיל מידע כללי לגבי החשבונית, ההזמנה, הסכום לתשלום, אופן ביצוע התשלום ואופן יצירת קשר עם התמיכה.</span><span class="sxs-lookup"><span data-stu-id="e298e-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="e298e-106">עמוד 2 מכיל פרטים לגבי פעילות החיוב עבור כל מנוי.</span><span class="sxs-lookup"><span data-stu-id="e298e-106">Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="36a5a-103">תאריך ההצהרה שלך מוגדר ליום החודש לאחר יצירת החשבון שלך.</span><span class="sxs-lookup"><span data-stu-id="36a5a-103">Your statement date is set to the day of month after your account was created.</span></span> <span data-ttu-id="36a5a-104">לדוגמה, אם יצרת את חשבונך ב-20 בינואר, תאריך ההצהרה שלך מוגדר ל-21 עבור כל חודש שלאחריו.</span><span class="sxs-lookup"><span data-stu-id="36a5a-104">For example, if you created your account on the 20th of January, your statement date is set to the 21st for each subsequent month.</span></span>
+
+<span data-ttu-id="36a5a-105">חיובים נוספים המתרחשים במהלך מחזור חיוב פעיל נכללים בחשבונית עבור החודש הבא.</span><span class="sxs-lookup"><span data-stu-id="36a5a-105">Additional charges that occur during an active billing cycle are included in the invoice for the following month.</span></span> <span data-ttu-id="36a5a-106">תאריכי ההתחלה והסיום של מחזור החיוב עבור כל חשבונית מפורטים **בסיכום החיוב** של החשבונית.</span><span class="sxs-lookup"><span data-stu-id="36a5a-106">The billing cycle start and end dates for each invoice are listed in the **Billing Summary** of the invoice.</span></span>
+
+<span data-ttu-id="36a5a-107">כרטיס אשראי ו/או חשבון בנק (במידת הצורך) תשלומים מיושבים יום לאחר **תאריך החשבונית**.</span><span class="sxs-lookup"><span data-stu-id="36a5a-107">Credit card and/or bank account (where applicable) payments are settled the day after the **Invoice Date**.</span></span>
   
-<span data-ttu-id="e298e-107">כדי ללמוד עוד אודות מושגי חיוב, ראה [הכרת החשבונית](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="e298e-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
+<span data-ttu-id="36a5a-108">לקבלת מידע נוסף, ראה [הכרת החשבונית](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="36a5a-108">To learn more, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
