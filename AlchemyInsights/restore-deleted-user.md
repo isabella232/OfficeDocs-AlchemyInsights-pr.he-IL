@@ -13,18 +13,18 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: cabb1463fd27cc26f2482210d50eb38823e8a60a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b6596aedf360cb9e3199a759960dc03e76338cac
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511257"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431254"
 ---
-# <a name="restore-a-user"></a>שחזור משתמש
+# <a name="restore-a-deleted-user"></a>שחזור משתמש שנמחק
 
 שחזר משתמש באמצעות שלבים אלה:
   
-1. עבור אל משתמשים \>.
+1. עבור אל משתמשים [ \> שנמחקו](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
 2. בחר את המשתמש ולאחר מכן בחר באפשרות **שחזר**.
 
