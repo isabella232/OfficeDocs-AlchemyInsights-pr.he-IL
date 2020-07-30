@@ -10,14 +10,16 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507027"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522736"
 ---
 # <a name="enable-an-archive-mailbox"></a>הפיכת תיבת דואר של ארכיון לזמינה
+
+אם ברצונך שנריץ בדיקות אוטומטיות כדי לוודא שניתן להגדיר תיבת דואר של ארכיון, בחר את לחצן החזרה _ Lt_-בראש דף זה ולאחר מכן הזן את כתובת הדואר האלקטרוני של החשבון.
 
 תיבות דואר של ארכיון ב-Microsoft 365 (הנקראות גם *ארכיון מקוון* או *ארכיון במקום*) מספקות למשתמשים אחסון דואר אלקטרוני נוסף. משתמשים יכולים להעביר או להעתיק פריטים לתיבת הדואר שלהם בארכיון, ומנהלים יכולים ליצור מדיניות ארכיון המעביר פריטים באופן אוטומטי לתיבות דואר בארכיון.
   

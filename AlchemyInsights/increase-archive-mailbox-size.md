@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508809"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522844"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>הגדלת גודל תיבת הדואר של הארכיון
+
+
+אם ברצונך שנריץ בדיקות אוטומטיות עבור ההגדרות שהוזכרו להלן, בחר את לחצן החזרה _ Lt_--בראש דף זה ולאחר מכן הזן את כתובת הדואר האלקטרוני של המשתמש הזקוק לגודל תיבת הדואר של הארכיון שלהם גדל.
 
 Microsoft 365 [מגביל](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) את גודל תיבות הדואר של הארכיון בהתבסס על הרשיון המוקצה לחשבון המשתמש. כאשר תיבת הדואר של הארכיון מגיעה ל-90% מגודלה המותר, המשתמש מקבל הודעת דואר אלקטרוני. כאשר תיבת דואר של ארכיון מגיעה למגבלת הגודל שלה, למשתמש אין אפשרות להעביר פריטים נוספים לתיבת הדואר של הארכיון. Microsoft 365 לא תגדיל את הגודל של תיבת דואר של ארכיון לאחר שהגעת למגבלת הגודל. במקום זאת, משתמשים יכולים לנקוט בפעולות הבאות כדי לפנות שטח בתיבת הדואר של הארכיון:
 
