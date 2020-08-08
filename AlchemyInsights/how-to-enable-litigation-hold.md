@@ -1,5 +1,5 @@
 ---
-title: 976-כיצד לאפשר-ליטיגציה-החזק
+title: 976-כיצד להפוך לזמין-ליטיגציה-החזקה
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: fe21746110ed2cb99fb13563c84c966e277fc70c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56620e4795649d55181305b7b8c0a9d28c83e977
+ms.sourcegitcommit: 61308045a58252764f6378bbeb8802b6d2ff6c0b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495813"
+ms.lasthandoff: 08/08/2020
+ms.locfileid: "46596748"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>הצבת תיבת דואר בחסימה משפטית
 
-- כדי למקם תיבת דואר בחסימה משפטית או בחסימה במקום, נדרש [רשיון להחלפת רשיון תוכנית מקוונת](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) של Exchange מקוון 2. אם מוקצית לתיבת דואר רשיון של תוכנית 1, באפשרותך להקצות רשיון הרחבה של Exchange Online לאחסון בארכיון [מקוון](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- כדי למקם תיבת דואר בחסימה לצורך תביעה משפטית או חסימה מקומית, נדרש [רשיון](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) של exchange online בתוכנית exchange online 2 רשיונות. אם תיבת דואר מוקצית לרשיון תוכנית 1, באפשרותך להקצות רשיון הרחבה נפרד של Exchange Online לאחסון בארכיון של exchange [online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- כדי לאפשר חסימה משפטית עבור משתמש יחיד, [בצע את הפעולות הבאות](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). כאשר האפשרות חסימה משפטית מאופשרת, כל התוכן בתיבת הדואר יישמר.
+- כדי לאפשר חסימה לצורך תביעה משפטית עבור משתמש בודד, [בצע שלבים אלה](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). כאשר החסימה לצורך תביעה משפטית מופעלת, כל התוכן בתיבת הדואר נשמר.
 
-- כדי לשמר תוכן בכל תיבות הדואר בארגון, באפשרותך להשתמש [במדיניות שמירה כלל-ארגונית](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). שים לב שעבור מדיניות שמירה ברחבי הארגון, משתמשים חדשים יוקצו באופן אוטומטי למדיניות.
+- כדי לשמר תוכן בכל תיבות הדואר בארגון שלך או כדי ליצור סוגים אחרים של חסימות שמירה, השתמש במדיניות שמירה או בתוויות. שים לב שעבור מדיניות שמירה ברחבי הארגון, משתמשים חדשים מוקצים באופן אוטומטי למדיניות. לקבלת מידע נוסף, ראה מידע [אודות מדיניות שמירה ותוויות שמירה](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
