@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509025"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634307"
 ---
 # <a name="how-to-verify-your-domain"></a>כיצד לאמת את התחום שלך
 
-כדי לאמת את התחום שלך, יהיה עליך להוסיף רשומת TXT לרשם התחום שלך כדי לוודא שאתה הבעלים של התחום שלך. תחילה, בצע את [אשף הוספת קבוצת המחשבים](https://portal.office.com/adminportal/home#/Domains/Wizard) על-ידי לחיצה על **Setup** \> **קבוצות מחשבים**של התקנה ולאחר מכן **הוסף תחום**.
-  
-בצע את ההוראות [ביצירת רשומות dns בכל ספק dns המארח](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) כדי להוסיף רשומת TXT כדי לאמת את התחום שלך.
+כדי לאמת תחום, פעל בהתאם [לאשף הוספת התחום](https://portal.office.com/adminportal/home#/Domains/Wizard), או עבור באופן ידני לתחומים של **הגדרת ההתקנה**  >  **Domains**  >  **הוסף תחום**.
 
-עבור בעיות אחרות בתחומים נסה את [שאלות נפוצות של תחומים](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+לקבלת מידע נוסף אודות אופן ההוספה של רשומת TXT כדי לאמת את התחום שלך, עיין בהוראות בנושא [הוספת רשומות DNS כדי לחבר את התחום שלך](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+לשאלות אחרות של תחומים, ראה שאלות [נפוצות אודות התחומים](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
