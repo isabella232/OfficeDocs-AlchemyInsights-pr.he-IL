@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
-ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
+ms.openlocfilehash: a099b3f056696bebae150fdd5b82e921f928f116
+ms.sourcegitcommit: 3ef4860c2e1918c1ff4009201189a5b77be3454f
 ms.translationtype: MT
 ms.contentlocale: he-IL
 ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634307"
+ms.locfileid: "46636694"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="0f489-102">כיצד לאמת את התחום שלך</span><span class="sxs-lookup"><span data-stu-id="0f489-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="e230b-102">כיצד לאמת את התחום שלך</span><span class="sxs-lookup"><span data-stu-id="e230b-102">How to verify your domain</span></span>
 
-<span data-ttu-id="0f489-103">כדי לאמת תחום, פעל בהתאם [לאשף הוספת התחום](https://portal.office.com/adminportal/home#/Domains/Wizard), או עבור באופן ידני לתחומים של **הגדרת ההתקנה**  >  **Domains**  >  **הוסף תחום**.</span><span class="sxs-lookup"><span data-stu-id="0f489-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
+<span data-ttu-id="e230b-103">כדי לאמת תחום, פעל בהתאם [לאשף הוספת התחום](https://portal.office.com/adminportal/home#/Domains/Wizard), או עבור באופן ידני לתחומים של **הגדרת ההתקנה**  >  **Domains**  >  **הוסף תחום**.</span><span class="sxs-lookup"><span data-stu-id="e230b-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="0f489-104">לקבלת מידע נוסף אודות אופן ההוספה של רשומת TXT כדי לאמת את התחום שלך, עיין בהוראות בנושא [הוספת רשומות DNS כדי לחבר את התחום שלך](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="0f489-104">For more information about how to add a TXT record to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+<span data-ttu-id="e230b-104">לקבלת מידע נוסף אודות שינויי DNS הדרושים כדי לאמת את התחום שלך, עיין בהוראות בנושא [הוספת רשומות dns כדי לחבר את התחום](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)שלך.</span><span class="sxs-lookup"><span data-stu-id="e230b-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
 
-<span data-ttu-id="0f489-105">לשאלות אחרות של תחומים, ראה שאלות [נפוצות אודות התחומים](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="0f489-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="e230b-105">לשאלות אחרות של תחומים, ראה שאלות [נפוצות אודות התחומים](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="e230b-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
