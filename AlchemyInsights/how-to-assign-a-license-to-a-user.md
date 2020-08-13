@@ -1,8 +1,8 @@
 ---
-title: הקצאה או בהקצאת רשיון למשתמשים
+title: הקצאה או ביטול הקצאה של רשיונות למשתמשים
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495988"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657068"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>הקצאה או בהקצאת רשיון למשתמשים
+# <a name="assign-or-unassign-licenses-to-users"></a>הקצאה או ביטול הקצאה של רשיונות למשתמשים
 
-משתמש זקוק לרשיון כדי שתהיה לו גישה לשירותים. להלן צעדים **להוספה, שינוי או הסרה** של רשיון ממשתמש.
+משתמש זקוק לרשיון כדי לקבל גישה לשירותים. להלן שלבים להקצאת רשיון או לביטול הקצאה של רשיון ממשתמש.
   
-1. במרכז הניהול, עבור **למשתמשים** \> [פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. במרכז הניהול, **עבור אל משתמשים** \> [פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822).
+2. בחר את שורת המשתמש שברצונך להקצות לה רשיון.
+3. בחלונית השמאלית, בחר **רישיונות ויישומים**.
+4. הרחב את המקטע **רשיונות** , בחר או נקה את התיבות עבור הרשיונות שברצונך להקצות או לבטל את ההקצאה, ולאחר מכן בחר **שמור שינויים**.
 
-2. בחר את שם המשתמש שעבורו ברצונך להקצות, לשנות או להסיר רשיון.
-
-3. לחץ על **נהל רשיונות מוצר**ובחר את הרשיון שברצונך להקצות למשתמש זה.
-
-    כברירת מחדל, כל השירותים המשויכים לרשיון זה מוקצים באופן אוטומטי למשתמש. כדי להגביל את השירותים הזמינים עבור המשתמש, נקה את תיבת הסימון עבור השירותים שאינך מעוניין שיהיה למשתמש זה.
-
-4. בתחתית החלונית, לחץ על **שמור שינויים**.
-
-לקבלת מידע נוסף, ראה [הקצאת רשיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) [והסרת רשיונות ממשתמשים](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).
+לקבלת מידע נוסף, ראה [הקצאת רשיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)וביטול [הקצאה של רשיונות ממשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
