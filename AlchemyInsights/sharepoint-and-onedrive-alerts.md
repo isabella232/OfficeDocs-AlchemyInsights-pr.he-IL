@@ -1,7 +1,7 @@
 ---
-title: עיכובים בקבלת התראות SharePoint ו-OneDrive
-ms.author: v-todmc
-author: todmccoy
+title: עיכובים בקבלת התראות של SharePoint ו-OneDrive
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 92e517ae6e83aa91b9838047ec77759dc893bc57
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563511"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785666"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>עיכובים בקבלת התראות SharePoint ו-OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>עיכובים בקבלת התראות של SharePoint ו-OneDrive
 
-- בדוק תחילה את התיקיה ' דואר זבל ' או ' דואר זבל ' בדואר האלקטרוני שלך.
-- אם **כל ההתראות מקבצים או ספריות מרובות מתעכבות**, בקר [בלוח המחוונים של תקינות השירות](https://portal.office.com/adminportal/home?ref=/servicehealth) כדי לבדוק אם קיימים עלוני יידוע/אירועים שעשויים להתרחש ב-SharePoint או ב-Exchange. ייתכן שהבעיה היא ביכולת ההתראה של SharePoint או בעיכובים בהודעות דואר אלקטרוני באמצעות Exchange. כמו כן, שים לב אם מועברות דואר אלקטרוני אחר — אם לא, סביר להניח שהבעיה היא בעיכובים של Exchange.
-- אם **התראה אינדיווידואלית מקובץ או ספריה מסוימים אינם מועברים**, נסה למחוק אותו וליצור אותו מחדש. ראה [ניהול, הצגה או מחיקה של התראות SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) כדי ליצור מחדש את ההתראה.
+- תחילה, בדוק את התיקיה ' זבל ' או ' דואר זבל ' בדואר האלקטרוני שלך.
+- אם **כל ההתראות מקבצים או ספריות מרובות מעוכבות**, בקר [בלוח המחוונים של תקינות השירות](https://portal.office.com/adminportal/home?ref=/servicehealth) כדי לבדוק את כל התקריות/האירועים שעשויים להתרחש באמצעות SharePoint או Exchange. הבעיה עשויה להיות עם יכולת ההתראה של SharePoint או עיכובים בהודעות דואר אלקטרוני באמצעות Exchange. כמו כן, שים לב אם דואר אלקטרוני אחר מועבר-אם לא, סביר להניח שהבעיה היא עיכובים של Exchange.
+- אם **התראה בודדת מקובץ או ספריה ספציפית אינו מועבר**, נסה למחוק אותה וליצור אותה מחדש. ראה [ניהול, הצגה או מחיקה של התראות](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) ב-SharePoint כדי ליצור מחדש את ההתראה.
 
 > [!NOTE]
-> - אין אפשרות לשלוח התראות לקבוצת תפוצה. יש תמיכה רק בקבוצות אבטחה ו-O365.
-> - אין באפשרותך להתאים אישית תבניות התראה של דואר אלקטרוני. עליך להשתמש ב-Microsoft Flow או בזרימת עבודה של SharePoint Designer כדי להשיג אותם.
+> - לא ניתן לשלוח התראות לקבוצת תפוצה. רק קבוצות אבטחה וO365 נתמכות.
+> - אין באפשרותך להתאים אישית תבניות דואר אלקטרוני של התראה. עליך להשתמש בזרימת העבודה של Microsoft Flow או ב-SharePoint Designer כדי להשיג אותם.

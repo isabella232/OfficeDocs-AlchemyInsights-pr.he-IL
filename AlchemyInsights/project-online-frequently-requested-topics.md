@@ -1,7 +1,7 @@
 ---
-title: הנושאים המבוקשים של Project Online
-ms.author: v-todmc
-author: todmccoy
+title: נושאים המבוקשים באופן תדיר ב-Project Online
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 03c82a04c6f5d65aef8823d6aa87056d380dd912
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c69725e296c9142c4c9034800f647df69873394f
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768042"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787466"
 ---
-# <a name="project-online-frequently-requested-topics"></a>הנושאים המבוקשים של Project Online
+# <a name="project-online-frequently-requested-topics"></a>נושאים המבוקשים באופן תדיר ב-Project Online
 
-להלן מספר נושאים המבוקשים לעתים קרובות עם Project:
+להלן כמה נושאים המבוקשים לעתים קרובות באמצעות Project:
 
-להלן נושאים המבוקשים לעתים קרובות עבור Project:
-1.  תחילת התחלת: 
-    -   [התחל לעבוד עם Project Online](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
-    -   [תיעוד מנהל מקוון של Project](https://docs.microsoft.com/projectonline/project-online) 
-    -   [פרויקט מקוון: גבולות תוכנה ומגבלות](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [הוסף אנשים, קבוצות ומשאבים, ולאחר מכן שתף את Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [כוונון ביצועי project Web App (PWA) ב-Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  התחבר [ללקוח שולחן העבודה של Project Online](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
-5.  [התקן ושימוש ב-Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 
+להלן נושאים הדרושים לעתים קרובות עבור Project:
+1.  תחילת העבודה: 
+    -   [תחילת העבודה עם Project Online](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
+    -   [תיעוד מנהל מערכת של Project Online](https://docs.microsoft.com/projectonline/project-online) 
+    -   [Project Online: גבולות ומגבלות התוכנה](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
+2.  [הוספת אנשים, קבוצות ומשאבים, ולאחר מכן שיתוף Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  [כוונון הביצועים של Project Web App (PWA) ב-Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  התחברות [ללקוח שולחן העבודה של Project Online](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
+5.  [התקנה ושימוש ב-Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 
