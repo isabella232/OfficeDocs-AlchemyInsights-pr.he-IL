@@ -1,5 +1,5 @@
 ---
-title: טפסים מקצועיים
+title: הפעלה או ביטול של טפסים Pro
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 087121cee32df8520dbb1eee11ea2993819508da
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 3b0c375dbcf3c49c4ceb4e0cee9411a4bccc7cf3
+ms.sourcegitcommit: 6d938730731b5c0e15cd45faa647d48ee75b5d50
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "41969479"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "46814673"
 ---
-# <a name="enable-or-disable-forms-pro"></a>הפעלה או השבתה של טופסי Pro
+# <a name="enable-or-disable-forms-pro"></a>הפעלה או ביטול של טפסים Pro
 
-אם אתה מנסה להפוך את Microsoft Forms Pro לזמינה, היא נכללת כחלק מהרשיון [הארגוני של Dynamics 365](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) . לחילופין, מנהל יכול לרכוש [רשיון של Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant). באפשרותך גם [להסיר רשיון של Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1) ממשתמש.
+Microsoft Forms Pro התפתח לקול הלקוח של Dynamics 365, ומספק לך יכולות סקר נוספות ויתרונות עסקיים. לקבלת מידע נוסף, ראה [עזרה למשאבי הלקוחות של Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
+
+Microsoft Forms Pro כלול כחלק מהרשיון של Dynamics 365 enterprise. לחלופין, מנהל מערכת יכול לרכוש רשיון של Microsoft Forms Pro. באפשרותך גם להסיר רשיון של Microsoft Forms Pro ממשתמש.  
+
+לקבלת מידע נוסף אודות רישוי, ראה [רכישת Microsoft Forms pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) [והפיכת Microsoft Forms pro ללא זמין עבור משתמש](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
+  
+עבור משאבי עזרה, ראה [פתרון בעיות בטפסים Pro](https://docs.microsoft.com/forms-pro/troubleshoot).
