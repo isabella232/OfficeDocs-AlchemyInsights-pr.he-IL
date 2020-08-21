@@ -1,5 +1,5 @@
 ---
-title: ערכת הנושא של OneNote תופסת את כל
+title: ערכת נושא של OneNote לתפוס הכל
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 58159ec61c9ee10e340e5f88a478d378339be3a5
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: ee621d55537347d3bae836e2cf074b1ac0b8237a
+ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563583"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852889"
 ---
-# <a name="common-issues-and-resolutions-with-onenote"></a>בעיות נפוצות והחלטות עם OneNote
+# <a name="common-issues-and-resolutions-with-onenote"></a>בעיות נפוצות ופתרונות באמצעות OneNote
 
-להלן כמה נושאי OneNote המבוקשים לעתים קרובות:
+להלן כמה נושאים הדרושים לעתים קרובות ב-OneNote:
 
-- [תקן בעיות סינכרון](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) -כדי לטפל ברוב הבעיות הנפוצות הקשורות לסינכרון onenote, השתמש בשלבים [בבעיות תיקון כאשר אין באפשרותך לסנכרן את OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+- [פתרון בעיות סינכרון](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) -כדי לטפל ברוב הבעיות הנפוצות הקשורות לסינכרון onenote, השתמש בשלבים המפורטים [בנושא פתרון בעיות כאשר לא ניתן לסנכרן את onenote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-- השתמש ב- [onenote כצוות](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **הערה**: כרגע, onenote בצוותים הוא לקריאה בלבד עבור דיירים מסחריים וחינוכיים. כדי לערוך, השתמש ב- OneNote עבור האינטרנט או ביישום שולחן העבודה של OneNote.
+- [שימוש ב-OneNote ב-teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) 
 
-- [השתמש במחשב מחברת מסוג OneNote בצוותים](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) עונה על שאלות אודות הגדרת מחברת Class בצוותים.
+- [השתמש במחברת כיתה של OneNote ב-teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) עונה על שאלות לגבי הגדרת מחברת כיתה ב-teams.
 
-- [העביר את המחברת אל ענן הצמתים](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).
+- [העבר את המחברת לענן](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a).
 
-- [פתרון בעיות בהעברת מחברות לענן הצמתים](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).
+- [פתרון בעיות בהעברת מחברות לענן](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78).
 
-- [התקנת onenote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -החל מחודש מרץ 2020, בעת התקנת office 365 או office 2019, יישום שולחן העבודה של OneNote יותקן לצד יישומי שולחן העבודה של Word, PowerPoint ו-Excel.
+- [התקן את OneNote 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) -החל ממרץ 2020, כשאתה מתקין את office 365 או את office 2019, אפליקציית שולחן העבודה של OneNote תותקן לצד היישומים Word, PowerPoint ו-Excel לשולחן העבודה.
 
-- [ייצוא וייבוא של מחברות של OneNote](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).
+- [ייצוא וייבוא של מחברות OneNote](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).
