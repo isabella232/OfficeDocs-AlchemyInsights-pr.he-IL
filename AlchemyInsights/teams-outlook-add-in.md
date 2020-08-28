@@ -1,5 +1,5 @@
 ---
-title: התוספת של Outlook לצוותים
+title: התוספת ' צוותים ' ב-Outlook
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,22 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: a8b548da6390391fd36de9cf848cf3a4801c9d92
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44702207"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290020"
 ---
-# <a name="teams-outlook-add-in"></a>התוספת של Outlook לצוותים
+# <a name="teams-outlook-add-in"></a>התוספת ' צוותים ' ב-Outlook
 
-כדי לפתור בעיות ב-Outlook Add-in של צוותים חסרים, תחילה יש להקפיד להפעיל את ' אבחון השירות ' כאן בפורטל המנהלה.  אם הבדיקה ' אבחון שירות ' אינה מציינת בעיות, אנא המשך להוריד ולהפעיל את התוכנית של [מסייע התמיכה והשחזור של Microsoft](https://aka.ms/SaRA-TeamsAddInScenario) ב **-Outlook התוספת תרחיש** במחשבי המשתמש המושפעים כדי לאבחן ולתקן בעיות של לקוח.
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>כדי לפתור בעיות בתוספת של Outlook בקבוצה חסרה
 
-כדי לפתור את הבעיה באופן ידני, סקור את רשימת הגורמים הפוטנציאליים שעלולים לגרום לתוספת הצוותים שלך לא להופיע ברשימה [כאן](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. הפעיל את אבחון השירות בפורטל הניהול. 
+2. אם הבדיקה ' אבחון שירות ' מציינת בעיות, אבחן ותקן את כל בעיות הלקוח במחשבי המשתמש המושפעים על-ידי הורדה והפעלה של תרחיש התוספת ' [מסייע התמיכה והשחזור של Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)' ב  >  **-Microsoft teams**.
+
+כדי לפתור בעיות בתוספת של Outlook החסרים ב-Outlook, סקור את רשימת הגורמים הפוטנציאליים שעשויים לגרום לתוספת הצוותים שלך לא להופיע ברשימה. לקבלת מידע נוסף, ראה [התוספת ' פגישת teams ' ב-Outlook עבור Windows אינה מופיעה](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>כדי לפתור בעיות בתזמון פגישת Teams בשם מישהו אחר (נציג)
+
+כדי לתזמן פגישת צוותים בשמו של מישהו אחר, ראה [פתרון בעיות של Microsoft teams ו-Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
