@@ -1,5 +1,5 @@
 ---
-title: שימוש באתר ויקס עם תחומים שנרכשו על ידי Office 365 או מנוהלים
+title: שימוש באתר ויקס באמצעות התחומים הנרכשים של Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 64dfe6082bea1e468eae78bf1576fde398e4c28a
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
-ms.translationtype: MT
+ms.openlocfilehash: 522392d41aa8f84f1f4684ccdbd37d68636be07e
+ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708055"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300708"
 ---
-# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>שימוש באתר ויקס עם תחומים שנרכשו על ידי Office 365 או מנוהלים
+# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>שימוש באתר ויקס באמצעות התחומים הנרכשים של Office 365
 
-- [עדכן רשומות DNS כדי לשמור על אתר האינטרנט שלך עם ספק האירוח הנוכחי שלך](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
-- מאמר ויקס "חיבור תחום לויקס בשיטת ההצבעה" ממליץ על הצבעה (הוספת רשומות DNS לקישור הנ ל) במקום לשנות שרתי שמות בעת שימוש ב-Office 365
-- אם אתה עדיין בוחר לשנות שרתי שמות ליקס, עליך [ליצור רשומות DNS בויקס עבור מיקרוסופט](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide)
-- אם התחום שלך נרכש מ-Microsoft לא ניתן לשנות את שרתי השמות. אם עליך לשנות את שרתי השמות, התחום שנרכש על-ידי Microsoft יצטרך להיות [מועבר לספק אחר המארח לאחר 60 ימים](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider)
+- [עדכן רשומות DNS כדי להשאיר את אתר האינטרנט שלך עם ספק האירוח הנוכחי שלך](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
+- מאמר ויקס "חיבור תחום לויקס באמצעות שיטת הצבעה" ממליצה להשתמש בהצבעה (הוספת רשומות DNS לכל הקישור לעיל) במקום לשנות שרתי שמות בעת שימוש ב-Office 365
+- אם אתה עדיין בוחר לשנות את שרתי השמות לויקס, תצטרך  [ליצור רשומות DNS ב-ויקס עבור Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide)
+- אם התחום שלך נרכש מ-Microsoft, לא ניתן לשנות את שרתי השמות. אם עליך לשנות שמות של שרתי שמות, יהיה עליך להעביר את תחום הרכישה של Microsoft  [לספק אירוח אחר לאחר 60 ימים](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
