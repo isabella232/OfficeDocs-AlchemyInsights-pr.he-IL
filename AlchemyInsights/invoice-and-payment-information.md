@@ -1,8 +1,8 @@
 ---
-title: פרטי חשבונית ותשלום
+title: חשבונית ופרטי תשלום
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 650a74eef9e2e2051c99e78b8ec1c7e8a35d3048
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c9716c4da16f085aabe5124a6ea36bd812fe7e6b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579974"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364768"
 ---
-# <a name="invoice-and-payment-information"></a>פרטי חשבונית ותשלום
+# <a name="invoice-and-payment-information"></a>חשבונית ופרטי תשלום
 
 **תשלום**
 
-כאשר אתה קונה 365 של Microsoft עבור מנוי עסקי ישירות מ-Microsoft, באפשרותך לשלם באמצעות כרטיס אשראי או חיוב.  במדינות/אזורים מסוימים, באפשרותך גם לשלם באמצעות חשבון בנק.  באפשרותך ללמוד לנהל ולפתור שיטות תשלום אלה [מהוספה, עדכון או הסרה של כרטיס אשראי או אפשרות תשלום אחרת עבור Microsoft 365 עבור Business](https://go.microsoft.com/fwlink/?linkid=2118133).  הדבר כולל פתרון בעיות כאשר כרטיס האשראי שלך נדחה ומעדכן פרטי תשלום.
+בעת קניית מנוי של Microsoft 365 for business ישירות מ-Microsoft, באפשרותך לשלם באמצעות כרטיס אשראי או חיוב.  במדינות/אזורים מסוימים, באפשרותך גם לשלם באמצעות חשבון בנק.  באפשרותך ללמוד לנהל ולפתור בעיות בשיטות תשלום אלה [מניהול שיטות תשלום](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). פעולה זו כוללת פתרון בעיות כאשר כרטיס האשראי שלך נדחה ומעדכן פרטי תשלום.
 
-**חשבונית/ביל**
+**חשבונית/חשבון**
 
-באפשרותך לחפש ולהוריד את החשבוניות שלך בדף [התשלום של החיוב _ **שטרות _** ](https://go.microsoft.com/fwlink/p/?linkid=848039) .  
+באפשרותך לחפש ולהוריד **Billing**את החשבוניות בדף  >  [התשלום של חשבונות חיוב &](https://go.microsoft.com/fwlink/p/?linkid=848039) .  
 
-**הערה**: אם אין חשבוניות גלויות, ייתכן שיהיה עליך לכוונן את מסנן טווח התאריכים.  כברירת מחדל, שלושת החודשים האחרונים של חשבוניות מוצגים.
+**הערה**: אם אף חשבונית אינה גלויה, ייתכן שתצטרך להתאים את המסנן ' טווח תאריכים '.  כברירת מחדל, שלושת החודשים האחרונים של חשבוניות מוצגים.
 
-חשבוניות נוצרות מדי חודש או מדי שנה בהתאם לתדירות התשלום שנבחרה במהלך הרכישה.  אם אתה משלם מדי שנה, ייתכן שתקבל חשבון אמצע הסמסטר בעת הוספה או הסרה של רשיונות במנוי.
- 
-- לקבלת מידע נוסף, ראה [הכרת החשבונית עבור Microsoft 365 עבור עסקים](https://go.microsoft.com/fwlink/?linkid=2119101).
+החשבוניות נוצרות מדי חודש או מדי שנה בהתאם לתדר החיוב שנבחר במהלך הרכישה.  אם אתה משלם מדי שנה, ייתכן שתקבל חשבון באמצע הסמסטר בעת הוספה או הסרה של רשיונות על מנוי.
+
+- לקבלת מידע נוסף, ראה [הבנת החשבונית שלך עבור Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
