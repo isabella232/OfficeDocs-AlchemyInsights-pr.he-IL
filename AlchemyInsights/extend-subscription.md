@@ -1,8 +1,8 @@
 ---
-title: מהן האפשרויות להארכת
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: מהן האפשרויות שלי להארכה
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5832"
-ms.openlocfilehash: e75243e24f609601e3f4d0014a318a55294be7a4
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 20626d3759cddfbc818da687ce4eafe0c41c843f
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707878"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364732"
 ---
-# <a name="what-are-my-options-to-extend"></a>? מה האופציות שלי להאריך
+# <a name="what-are-my-options-to-extend"></a>מהן האפשרויות שלי להארכה?
 
-לפני שהמנוי למעשה מגיע לתאריך התפוגה שלו, עומדות בפניך מספר אפשרויות:
+לפני שהמנוי יגיע בפועל לתאריך התפוגה, תוכל לבחור בין כמה אפשרויות:
 
-- **האריך את המשפט**  זקוק לזמן נוסף כדי להעריך את Microsoft 365? במקרים מסוימים, ייתכן שתוכל [להאריך את המשפט](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial?view=o365-worldwide).  
-- **אפשר חיוב חוזר** עבור המנוי. אם החיוב החוזר מופעל כבר, אינך חייב לנקוט בפעולה כלשהי. המנוי שלך יחויב באופן אוטומטי ותחויב במשך שנה או חודש נוספים, בהתאם לתדירות התשלום הנוכחית. אם מסיבה כלשהי הפכת את החיוב החוזר לפעיל, תוכל תמיד [להפעיל חזרה את החיוב](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)החוזר.
-- אם רכשת את Microsoft 365 Apps עבור עסקים עם **כרטיס**מראש, באפשרותך [להפעיל חיוב חוזר](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide) עבור המנוי שלך.
-- אם אתה **לקוח של רישוי קבוצתי פתוח** עם מנוי ששולם מראש בשנה אחת, פנה לשותף שלך כדי לרכוש מפתח מוצר חדש. תקבל הוראות באמצעות דואר אלקטרוני כדי להפעיל את המפתח שלך [במרכז שירות רישוי הדיסק](https://go.microsoft.com/fwlink/p/?LinkID=282016). כדי ללמוד כיצד למצוא שותף חדש, או את השותף שעבדת איתו בעבר, ראה [איתור השותף או המשווק](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
-- אם יש לך **Microsoft 365 Apps לעסקים**, ראה [ניהול חיובים חוזרים עבור המנוי](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide).
+- **הארכת תקופת הניסיון**.  זקוק לזמן רב יותר כדי להעריך את Microsoft 365? במקרים מסוימים, ייתכן שתוכל  [להאריך את גירסת הניסיון שלך](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).  
+- **הפוך חיוב חוזר** לזמין עבור המנוי. אם חיוב חוזר כבר מופעל, אינך צריך לעשות דבר. המנוי שלך יחויב באופן אוטומטי, ותחויב עבור שנה או חודש נוספים, בהתאם לתדירות החיוב הנוכחי שלך. אם מסיבה כלשהי ביטלת חיוב חוזר, תוכל תמיד  [להפעיל שוב את החיובים החוזרים](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+- אם רכשת את יישומי Microsoft 365 לעסקים באמצעות **כרטיס ששולם מראש**, באפשרותך [להפעיל חיוב חוזר](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription) עבור המנוי שלך.
+- אם אתה  **לקוח של רישוי רב משתמשים מסוג Open**  עם מנוי ששולם מראש לשנה, פנה לשותף שלך כדי לרכוש מפתח מוצר חדש. תוכל לקבל הוראות בדואר האלקטרוני כדי להפעיל את המפתח שלך ב[מרכז השירות של רישוי רב משתמשים](https://go.microsoft.com/fwlink/p/?LinkID=282016). כדי ללמוד כיצד למצוא שותף חדש או את השותף שעבדת איתו בעבר, ראה  [חיפוש השותף או המשווק](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- אם יש לך  **יישומי Microsoft 365 לעסקים** ראה  [ניהול חיוב חוזר עבור המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
