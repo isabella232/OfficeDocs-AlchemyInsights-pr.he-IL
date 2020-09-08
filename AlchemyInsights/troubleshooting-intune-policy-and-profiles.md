@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות במדיניות ובפרופילים של Intune
+title: פתרון בעיות של מדיניות ופרופילים
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5ecc849d78559bc392e83d2c6c3a866bcaa86944
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766674"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406291"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>פתרון בעיות במדיניות ובפרופילים של Intune
+# <a name="troubleshooting-intune-policy-and-profiles"></a>פתרון בעיות של מדיניות ופרופילים
 
-כדי לראות פריטי מדיניות קיימים, פתור בעיות בהתנגשויות, סקירת נתוני יומן רישום וראה שאלות ונושאים נפוצים, ייתכן שהמדריכים הבאים יסייעו.
+כדי לראות פריטי מדיניות קיימים, פתרון בעיות בהתנגשויות, סקירת נתוני יומן רישום והצגת שאלות נפוצות ובעיות נפוצות, ייתכן שהמדריכים הבאים יעזרו.
 
-- [פתרון בעיות במדיניות ובפרופילים ב-Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [פתרון בעיות של פריטי מדיניות ופרופילים בתוך ' כוונון '](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [שאלות נפוצות, בעיות ורזולוציות עם מדיניות ופרופילי התקנים בIntune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [שאלות נפוצות, בעיות ורזולוציות עם פריטי מדיניות ופרופילים של מכשירים בתוך ' כוונון '](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [הצג פרופילי תצורת התקן והצג התנגשויות ב-Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [ניטור פרופילי תצורת ההתקן והצגת התנגשויות בתוך ' כוונון '](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [פתרון בעיות תאימות להתקן וגישה מותנית ב-Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [פתרון בעיות תאימות מכשירים וגישה מותנית בתוך ' כוונון '](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [הצג מדיניות תאימות והצג התנגשויות ב-Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [ניטור מדיניות תאימות והתנגשויות תצוגה בתוך המנגינה](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [שלח נתוני יומן רישום Intune לאחסון תכלת, לרכזות אירועים או לניתוח יומן רישום](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [שליחת נתוני יומן רישום של ' שלחן נתונים ' לאחסון באזור התכלת, מרכזי אירועים או ניתוח יומני רישום](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-עיין במבט כולל כדי [להגדיר התקנים](https://docs.microsoft.com/intune/device-profiles) או [להשתמש במדיניות תאימות](https://docs.microsoft.com/intune/device-compliance-get-started).
+עיין במבט כולל כדי [לקבוע תצורה של מכשירים](https://docs.microsoft.com/intune/device-profiles) או [להשתמש במדיניות תאימות](https://docs.microsoft.com/intune/device-compliance-get-started).
