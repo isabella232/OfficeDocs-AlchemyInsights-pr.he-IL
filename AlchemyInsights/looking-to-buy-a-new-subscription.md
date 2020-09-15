@@ -1,5 +1,5 @@
 ---
-title: מחפש לקנות מנוי חדש?
+title: מעוניין לקנות מנוי חדש?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505544"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675178"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a>מחפש לקנות מנוי חדש?
+# <a name="looking-to-buy-a-new-subscription"></a>מעוניין לקנות מנוי חדש?
 
-אם כבר יש לך 365 של Microsoft עבור מנוי עסקי וברצונך לקנות מנוי אחר עבור הארגון שלך, **Billing** עבור אל \> דף [שירותי הרכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) של החיוב כדי להציג רשימה של מנויים הזמינים עבור הארגון שלך.
+אם כבר יש לך מנוי של Microsoft 365 for business וברצונך לקנות מנוי אחר עבור הארגון שלך, **Billing** עבור אל הדף ' \> [שירותי רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) לחיוב ' כדי לראות רשימה של מנויים הזמינים לארגון שלך.
  
-1. בחר את המנוי הרצוי ולאחר מכן בחר באפשרות **קנה**.
+1. בחר את המנוי הרצוי ולאחר מכן בחר **קנה**.
 
-2. בחר כיצד ברצונך לשלם, ומספר רשיונות המשתמש הדרושים.
+2. בחר כיצד ברצונך לשלם ומספר רשיונות המשתמשים הדרושים.
 
-3. בחר **עבור לקופה כעת**. בעמוד הבא, באפשרותך לסקור את הסדר ולהשלים את הרכישה.
+3. בחר **עבור לקופה כעת**. בעמוד הבא, באפשרותך לסקור את ההזמנה ולהשלים את הרכישה.
 
-4. לאחר השלמת הרכישה, ייתכן שיהיה עליך להקצות מחדש רשיונות או לבטל מנוי. לקבלת עזרה בדבר זה, עיין בסעיף ' משאבים נוספים ' להלן.
+4. לאחר השלמת הרכישה, ייתכן שיהיה עליך להקצות מחדש רשיונות או לבטל מנוי. לקבלת עזרה בנושא זה, עיין בסעיף משאבים נוספים שלהלן.
 
  **משאבים נוספים:**
   
-- [הקצאת רשיונות למשתמשים ב-Microsoft 365 עבור עסקים](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [הקצאת רשיונות למשתמשים ב-Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
 - [ביטול המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- אם אתה מעוניין להחליף מנויים, ראה [מעבר ל-Microsoft 365 שונה עבור תוכנית עסקית.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- אם אתה מעוניין להחליף מנויים, ראה [מעבר לתוכנית אחרת של Microsoft 365 for business.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

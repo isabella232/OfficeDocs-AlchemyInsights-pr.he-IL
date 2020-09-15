@@ -1,27 +1,28 @@
 ---
-title: ניסיון גישוש של צוותי Microsoft
+title: חוויית הבדיקה של Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
-ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
+ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612348"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674939"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>ניסיון גישוש של צוותי Microsoft
+# <a name="microsoft-teams-exploratory-experience"></a>חוויית הבדיקה של Microsoft Teams
 
-חווית הגישוש של צוותי Microsoft מאפשרת למשתמשים בארגון שלך בעלי מדריך כחול פעיל (עמ מ) ואינם מורשים לצוותים ליזום חוויית גישוש של צוותים. מנהלים יכולים להפעיל או לבטל תכונה זו עבור משתמשים בארגון שלהם. (משפט הענן המסחרי הקודם של Microsoft נקרא כעת ' חווית גישוש של צוותים ').
+חוויית הבדיקה של Microsoft Teams מאפשרת למשתמשים בארגון שיש להם תכלת Active Directory (עמ מ) ואינם מורשים ברשיון עבור Teams ליזום חוויה מנוסה של Teams. מנהלי מערכת יכולים להפעיל או לכבות תכונה זו עבור משתמשים בארגון שלהם. (גירסת הניסיון הקודמת של הענן המסחרי של Microsoft נקראת כעת חוויית הבדיקה Teams.)
 
-חוויית הגישוש של צוותי Microsoft זמינה ללא עלות נוספת עד ליום השנה הבאה של הסכם הארגון הבא או לאחר החידוש בינואר 2021. באותו זמן, משתמשי קצה ברשיון ניסיון של Microsoft יצטרכו לעבור לרשיון ששולם הכולל צוותים.
+חוויית הבדיקה של Microsoft Teams זמינה ללא תשלום נוסף עד ליום השנה או לחידוש הארגון הבא שלך או לאחר מכן ב-2021 בינואר. בשלב זה, משתמשי קצה ברשיון חוויית ניסיון של Microsoft יצטרכו לעבור לרשיון ששולם הכולל צוותים.
 
-לקבלת מידע נוסף, עיין [בניהול רישיון גישוש של צוותי Microsoft](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+לקבלת מידע נוסף, ראה [ניהול רשיון הגישוש של Microsoft teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).

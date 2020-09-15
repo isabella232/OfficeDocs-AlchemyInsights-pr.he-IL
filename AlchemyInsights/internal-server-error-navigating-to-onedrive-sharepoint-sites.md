@@ -5,32 +5,33 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 9fee9e3c63b9448f63b3dc98d98b3b28e03a7300
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763146"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677171"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>שגיאת שרת פנימית בעת ניווט לאתרי Sharepoint או כונן OneDrive
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>שגיאת שרת פנימי בעת ניווט לאתרי Sharepoint או OneDrive
 
-משתמשים עלולים לקבל שגיאת שרת פנימית 500 בעת ניסיון לנווט אל אתרי SharePoint או OneDrive. 
+משתמשים עשויים לקבל שגיאת שרת פנימי של 500 בעת ניסיון לנווט לאתרי SharePoint או OneDrive. 
 
-נסה לנקות את מטמון הדפדפן לפני ניווט לאתר.
+נסה לנקות את מטמון הדפדפן לפני הניווט לאתר.
 
 
-1. בדפדפן Edge של מיקרוסופט, עבור לעוד... _ הגדרות
+1. בדפדפן Microsoft Edge, עבור אל הגדרות עוד... >
 
-2. תחת נקה נתוני גלישה, בחר **באפשרות מה לנקות**
+2. תחת נקה גלישה בנתונים, בחר **באפשרות בחר מה לנקות**
 
-3. בחר את תיבת הסימון קבצי Cookie ונתוני אתר אינטרנט שנשמרו ובחר באפשרות **נקה**.
+3. בחר את תיבת הסימון קבצי Cookie ונתוני אתר אינטרנט שנשמרו ובחר **נקה**.
 
 הערה: שלבים אלה עשויים להיות שונים בעת שימוש בדפדפנים אחרים כגון Firefox או Chrome.
 
-אם פעולה זו אינה פותרת את הבעיה, באפשרותך לבדוק אם קיים תחזוקה פעילה המתרחשת בדייר שלך על-ידי ניווט [למרכז ההודעות](https://portal.office.com/adminportal/home#/MessageCenter).
+אם פעולה זו אינה פותרת את הבעיה, באפשרותך לבדוק אם יש תחזוקה פעילה שמתרחשת בדייר שלך על-ידי ניווט [למרכז ההודעות](https://portal.office.com/adminportal/home#/MessageCenter).
 
-לבסוף, ודא שאתה מבקר בדף [הבריאות של השירות](https://portal.office.com/adminportal/home#/servicehealth) כדי לבדוק אם יש עלוני יידוע/אירועים שעשויים להתרחש.
+לבסוף, ודא שאתה מבקר בדף [תקינות השירות](https://portal.office.com/adminportal/home#/servicehealth) כדי לבדוק את כל העלונים/האירועים שעשויים להתרחש.
 

@@ -1,11 +1,12 @@
 ---
-title: 8000035 השאר את הביתא של Outlook.com
+title: 8000035 השאר את גירסת הביתא של Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -18,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 97dd5e889cacfe73e0b81dcdee35f37dc12de9d7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762750"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676343"
 ---
-# <a name="the-new-outlookcom"></a>הOutlook.com החדשה
+# <a name="the-new-outlookcom"></a>הOutlook.com החדש
 
-זה כבר לא אפשרי לעזוב את בטא Outlook.com ולחזור לגרסה הקלאסית של Outlook.com.
+לא ניתן עוד לצאת מגירסת הביתא של Outlook.com ולחזור לגירסה הקלאסית של Outlook.com.
   
-אם ברצונך לתת משוב על Outlook.com החדש, עבור אל [פורום Uservoice](https://go.microsoft.com/fwlink/p/?linkid=851599). אתה יכול להצביע על הרעיונות או הנושאים שאתה רוצה לראות ממוען, ואנו מגיבים ישירות העליון הערות והצעות.
+אם ברצונך לתת משוב אודות הOutlook.com החדש, עבור אל [הפורום של UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). באפשרותך להצביע על הרעיונות או הבעיות שאתה מעוניין לראות כתובות, ואנו נגיב ישירות להערות ולהצעות המובילות.
   
-[למד עוד על Outlook.com החדש.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[קבל מידע נוסף על הOutlook.com החדש.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   
