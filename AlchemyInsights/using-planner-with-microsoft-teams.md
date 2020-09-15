@@ -1,30 +1,31 @@
 ---
-title: שימוש במתכנן עם צוותי Microsoft
+title: שימוש במתכנן עם Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 04a0bcff06c9a52db4bc7ff55799a1cef8fd1eca
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 95b83d6658fc77ac6e5eeac58c198f5c4adbb674
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37681707"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657385"
 ---
-# <a name="using-planner-with-microsoft-teams"></a>שימוש במתכנן עם צוותי Microsoft
+# <a name="using-planner-with-microsoft-teams"></a>שימוש במתכנן עם Microsoft Teams
 
-ארגן את הפעילויות שלך על-ידי הוספת כרטיסיות מתכנן אחת או יותר לערוץ קבוצות: 
+ארגן את המשימות שלך על-ידי הוספת כרטיסיות מתכנן אחת או יותר לערוץ Teams: 
 
-- [הוסף את הכרטיסיה ' מתכנן ' לערוץ צוות](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). המשתמש המוסיף את הכרטיסיה חייב להיות חבר בצוות, לא רק בעלים. באפשרותך להוסיף את המשתמש כחבר באמצעות ממשק הצוותים של Microsoft.
-- [הוסף תוכנית קיימת לצוותי Microsoft](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
-- [הסרת הכרטיסיה ' מתכנן ' או מחיקת תוכנית](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). לא ניתן לשחזר תוכניות שנמחקו בצוותים. אם כבר מחקת קבוצה, באפשרותך [לשחזר תוכניות וקבוצות שנמחקו](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
-- [הפיכת הודעות הקצאה לזמינות או ללא זמינות בצוותים](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
+- [הוספת כרטיסיית מתכנן לערוץ צוות](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). המשתמש שמוסיף את הכרטיסיה חייב להיות חבר בצוות, ולא רק לבעלים. באפשרותך להוסיף את המשתמש כחבר באמצעות ממשק Microsoft Teams.
+- [הוסף תוכנית קיימת ל-Microsoft teams](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
+- [הסרת כרטיסיית מתכנן או מחיקת תוכנית](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). לא ניתן לשחזר תוכניות שנמחקו ב-Teams. אם קבוצה נמחקת כבר, באפשרותך [לשחזר תוכניות וקבוצות שנמחקו](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
+- [הפיכת הודעות הקצאת מתכנן לזמינות או ללא זמינות ב-teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
 
-**הערה:** לקבלת סקירה כללית של שילוב מתכנן עם צוותי Microsoft, ראה [שימוש במתכנן בצוותי microsoft](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).
+**הערה:** לקבלת מבט כולל על שילוב מתכנן עם Microsoft Teams, ראה [שימוש במתכנן ב-Microsoft teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).

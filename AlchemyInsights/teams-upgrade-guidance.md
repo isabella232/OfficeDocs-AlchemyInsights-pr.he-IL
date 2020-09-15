@@ -1,37 +1,37 @@
 ---
-title: צוותים משדרגים הדרכה
+title: הדרכה לשדרוג של teams
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d79518434904a8c26ae0e15fd1c23177b68a05af
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44254750"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653550"
 ---
-# <a name="microsoft-teams-upgrade"></a>שדרוג הצוותים של Microsoft
+# <a name="microsoft-teams-upgrade"></a>שדרוג Microsoft Teams
 
-**חשוב**: אם אתה שודרג מסקייפ לעסקים באינטרנט לצוותים של Microsoft במצב צוותים בלבד, אבל למצוא שאתה עדיין לא מוכן, אנחנו יכולים לעזור לתקן את זה בשבילך באמצעות אבחון תמיכה. ודא שאתה משתמש במרכז הניהול החדש על-ידי הזזת הדו בקצה הימני העליון שאומר **מרכז הניהול החדש**מימין. באמצעות מרכז הניהול החדש, לחץ על **העזרה הדרושה?** יישומון, הקלד "**שדרוג צוותים**", ולאחר מכן בצע את ההנחיות כדי להפעיל את האבחון.
+**חשוב**: אם שדרגת מ-Skype For Business Online ל-Microsoft teams במצב teams בלבד, אך מגלה שאינך מוכן עדיין, אנו יכולים לעזור לך לתקן זאת עבורך באמצעות אבחון תמיכה. ודא שאתה משתמש במרכז הניהול החדש על-ידי הזזת הלחצן הדו-מצבי בחלק השמאלי העליון המציין **שמרכז הניהול החדש**משמאל. באמצעות מרכז הניהול החדש, לחץ על הרכיב **הזקוק לעזרה?** רכיב widget, הקלד "**team Upgrade**" ולאחר מכן פעל לפי ההנחיות כדי להפעיל את האבחון.
 
-בין אם אתה רק מתחיל עם צוותי, כבר משתמש בצוותים לצד סקייפ לעסקים, או מוכן לשדרוג, אנחנו רוצים לוודא שיש לך כל מה שאתה צריך כדי לנווט מסע מוצלח לצוותים. למידע נוסף אנא בקרו בקישורים שלהלן.
+בין אם אתה רק מתחיל בעבודה עם Teams, כבר משתמש ב-Teams לצד Skype for Business, או מוכן לשדרוג, אנחנו רוצים להבטיח שיש לך כל מה שאתה צריך כדי לנווט במסע מוצלח אל Teams. לקבלת מידע נוסף, עיין בקישורים הבאים.
 
-[תחילת ההתחלה עם שדרוג הצוותים של Microsoft](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[תחילת העבודה עם שדרוג Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
-[תכנן את השדרוג שלך](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[תכנון השדרוג](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[הכרת צוותי Microsoft וסקייפ לקיום עסקי](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[הכרת הדו של Microsoft Teams ו-Skype for Business](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[ביצוע השדרוג מסקייפ לעסקים מחוברים לצוותים](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[ביצוע השדרוג מ-Skype for Business Online ל-Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[ביצוע השדרוג מסקייפ לעסקים מקומיים לצוותים](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[ביצוע השדרוג מ-Skype for Business באופן מקומי ל-Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[בדוק את המצב של סקייפ עבור עסקים באינטרנט כדי לשדרג צוותים עם PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[בדיקת המצב של Skype for Business Online לשדרוג Teams עם PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

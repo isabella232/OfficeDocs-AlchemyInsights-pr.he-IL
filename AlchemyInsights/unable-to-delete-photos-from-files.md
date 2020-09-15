@@ -1,11 +1,12 @@
 ---
-title: 8000031 אין אפשרות למחוק תמונות מקבצים
+title: ל-8000031 אין אפשרות למחוק תמונות מקבצים
 ms.author: daeite
 author: daeite
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,18 +15,18 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 1ceb489be5100a16eafdb9adb0f38eb472852e48
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43731509"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653361"
 ---
-# <a name="unable-to-delete-photos-from-files"></a>אין אפשרות למחוק תמונות מקבצים
+# <a name="unable-to-delete-photos-from-files"></a>לא ניתן למחוק תמונות מקבצים
 
 כדי למחוק את התמונות מקבצים ב-Outlook.com:
   
-1. עבור אל **תיבת הדואר הנכנס** או התיקיה **פריטים שנשלחו** ומחק את הודעת הדואר האלקטרוני שאליה הם מחוברים.
+1. עבור אל התיקיה **תיבת דואר נכנס** או **פריטים שנשלחו** ומחק את הודעת הדואר האלקטרוני שאליה הם מצורפים.
 
 2. הסר את הפריטים **מהפריטים שנמחקו**.
 
