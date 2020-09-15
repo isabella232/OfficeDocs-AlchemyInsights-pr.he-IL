@@ -1,27 +1,28 @@
 ---
-title: הגבל גישה ל-SharePoint או OneDrive
+title: הגבל גישה ב-SharePoint או ב-OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e9eb1822a7770bc206992cc5fb7e54a5c972b7e2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692766"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700456"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>הגבל גישה ל-SharePoint או OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>הגבל גישה ב-SharePoint או ב-OneDrive
 
-קיימות דרכים רבות להגבלת הגישה לשירותי SharePoint Online/OneDrive. שיטות הגבלת גישה שונות אלה מתוארות להלן. 
+קיימות דרכים רבות להגבלת הגישה לשירותי SharePoint Online/OneDrive. שיטות הגבלת גישה שונות אלה מחולקות להלן. 
 
 **הגבלת הרשאה**
 
-ב-SharePoint Online ו-OneDrive עבור עסקים, אנו מגבילים גישה לפריטים כגון אתרים, קבצים ותיקיות על-ידי מתן גישה לאותן קבוצות/אנשים שצריכים לגשת אליהם.
+ב-SharePoint Online וב-OneDrive for Business, אנו מגבילים את הגישה לפריטים כגון אתרים, קבצים ותיקיות על-ידי הענקת גישה לקבוצות אלה/לאנשים שאמורים לגשת אליהם.
 
 - [התאמה אישית של הרשאות עבור רשימה או ספריה של SharePoint](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
@@ -31,17 +32,17 @@ ms.locfileid: "43692766"
 
 - [בקרת גישה ממכשירים לא מנוהלים](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-כמנהל SharePoint או כללי, באפשרותך לחסום או להגביל את הגישה לתוכן SharePoint ו-OneDrive מהתקנים לא מנוהלים (אלה שאינם מחוברים ל-AD היברידי או תואמי ב-Intune).
+כמנהל SharePoint או כמנהל מערכת כללי, באפשרותך לחסום או להגביל את הגישה לתוכן של SharePoint ו-OneDrive ממכשירים לא מנוהלים (מודעות לא היברידיות מצורפות או תואמות בתוך המנגינה).
 
-**הגבלת מיקום רשת**
+**מגבלת מיקום רשת**
 
-כמנהל IT, באפשרותך לשלוט בגישה למשאבי SharePoint ו-OneDrive בהתבסס על מיקומי רשת מוגדרים שבהם אתה נותן אמון. פעולה זו ידועה גם כמדיניות מבוססת מיקום. לקבלת מידע נוסף, עיין [בבקרת גישה לנתוני SharePoint Online ו-OneDrive בהתבסס על מיקום הרשת](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+כמנהל IT, באפשרותך לשלוט בגישה למשאבי SharePoint ו-OneDrive בהתבסס על מיקומי רשת מוגדרים שאתה נותן בהם אמון. פעולה זו נקראת גם מדיניות מבוססת מיקום. לקבלת מידע נוסף, ראה [שליטה בגישה לנתונים של SharePoint Online ו-OneDrive בהתבסס על מיקום ברשת](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
 **הגבלת נעילת אתר** 
 
-בתוך SharePoint Online יש לך את היכולת לנעול אוסף אתרים, כך שלאף אחד אין גישה. זה מוגדר באמצעות PowerShell ואת [מעטפת ניהול מקוונת של SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) באמצעות המאפיין [set-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) מדינה לוקזיט.
+בתוך SharePoint Online יש לך את היכולת לנעול אוסף אתרים, כך שלאף אחד אין גישה אליו. הגדרה זו מוגדרת באמצעות PowerShell [ומעטפת הניהול של SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) באמצעות המאפיין [set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -LockState.
 
-**הגבלת משתמשים מיצירת אתרים או אתרי מאתר**
+**הגבלת משתמשים מיצירת אתרים או אתרי משנה**
 
-בתור מנהל של SharePoint או מנהל כללי, באפשרותך לאפשר למשתמשים שלך ליצור ולנהל אתרי SharePoint משלהם, לקבוע אילו אתרים הם יכולים ליצור ולציין את מיקום האתרים. לקבלת מידע נוסף, עיין [בניהול יצירת אתרים ב-SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+כמנהל מערכת של SharePoint או כמנהל מערכת כללי, באפשרותך לאפשר למשתמשים ליצור ולנהל אתרי SharePoint משלהם, לקבוע אילו אתרים הם יוכלו ליצור ולציין את מיקום האתרים. לקבלת מידע נוסף, ראה [ניהול יצירת אתרים ב-SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 
