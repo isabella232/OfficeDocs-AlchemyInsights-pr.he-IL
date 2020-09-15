@@ -1,29 +1,30 @@
 ---
-title: אין תוצאות חיפוש של תוכן
+title: חיפוש תוכן ללא תוצאות
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516780"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680648"
 ---
-# <a name="no-results-from-content-searchexports"></a>אין תוצאות מתוך תוכן החיפוש/ייצוא
+# <a name="no-results-from-content-searchexports"></a>אין תוצאות מחיפוש תוכן/ייצוא
 
-בעיות עם תוכן החיפוש/ייצוא אינה מחזירה נתונים עשוי לנבוע מסנן אבטחה מסוימים תאימות שהיה ההתקנה על-ידי Admin ספציפיים והעברה לא אותה על כל המנהלים.
+בעיות בחיפוש תוכן/הייצוא לא מחזירות נתונים עשויים לנבוע ממסנן אבטחת תאימות מסוים שהיה הגדרה על-ידי מנהל מערכת ספציפי, ולא לקיים תקשורת עם כל מנהלי המערכת.
 
-כדי לפתור בעיה זו, בדוק אם ישנם מסננים אבטחה תאימות עלולות לגרום זו:
-1. להתחבר Powershell מרכז תאימות ואבטחה
-2. הפעל את commandlets הבאות:
+כדי לפתור זאת, בדוק אם קיימים מסנני אבטחה של תאימות שעשויים לגרום לכך:
+1. התחברות למרכז האבטחה והתאימות של Powershell
+2. הפעלת הcommandlet הבאים:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-$org של הארגון
+<br>Get-ComplianceSecurityFilter-ארגון $org

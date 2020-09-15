@@ -6,28 +6,29 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: e4718ffb672b9c0e5b78c52b2fcd3e15ae58f7dd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 03889c763a8ae9a49c83ef4532bbe788d011d293
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705986"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680972"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>קביעת תצורה של הגדרות ביקורת של SharePoint
+# <a name="configure-sharepoint-audit-settings"></a>קביעת התצורה של הגדרות ביקורת של SharePoint
 
-מנהלי אוסף אתרים של SharePoint יכולים לעקוב אחר פעולות משתמש בתוכן על-ידי קביעת תצורה של הגדרות ביקורת.
+מנהלי אוסף אתרים של SharePoint יכולים לעקוב אחר פעולות משתמש בתוכן על-ידי קביעת התצורה של הגדרות ביקורת.
   
-1. פתח את אתר ה-SharePoint.
+1. פתח את אתר SharePoint.
     
-2. לחץ על הסמל הגדרות ולאחר מכן לחץ על **הגדרות אתר**. אם אינך רואה "הגדרות אתר", לחץ על **מידע אתר**ולאחר מכן לחץ על **הצג את כל הגדרות האתר**.
+2. לחץ על סמל הגדרות ולאחר מכן לחץ על **הגדרות האתר**. אם אינך רואה את ההודעה "הגדרות אתר", לחץ על **מידע אודות האתר**ולאחר מכן לחץ על **הצג את כל הגדרות האתר**.
     
-3. תחת **ניהול אוסף אתרים**, בחר **הגדרות ביקורת של אוספי אתרים**. (אם אינך רואה אותה, לחץ תחילה על **הגדרות אתר ברמה העליונה** .) 
+3. תחת **ניהול אוסף אתרים**, בחר **הגדרות ביקורת של אוסף אתרים**. (אם אינך רואה זאת, לחץ על **עבור להגדרות אתר ברמה העליונה** תחילה.) 
     
-לקבלת מידע אודות מה שנכלל בדוחות יומן ביקורת של SharePoint וכיצד להציגם, ראה [קביעת תצורה של הגדרות ביקורת עבור אוסף אתרים](https://go.microsoft.com/fwlink/?linkid=404050).
+לקבלת מידע אודות התוכן הכלול בדוחות יומן הביקורת של SharePoint וכיצד להציג אותם, ראה [קביעת תצורה של הגדרות ביקורת עבור אוסף אתרים](https://go.microsoft.com/fwlink/?linkid=404050).
   
 

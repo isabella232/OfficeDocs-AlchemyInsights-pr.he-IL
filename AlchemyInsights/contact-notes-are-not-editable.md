@@ -6,20 +6,21 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: 0158d093b4ea8f3aa153178103944a0900e3691d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ea4e9f4f41629f4207be6ff56f3ff8f7a4989cbc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705698"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680937"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>אין אפשרות לערוך את שדה ההערות עבור איש קשר ב-Outlook
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>לא ניתן לערוך את השדה ' הערות ' עבור איש קשר ב-Outlook
 
-. זו בעיה מוכרת אנו עובדים כדי לתקן אותה ובאפשרותך לראות את המצב העדכני ביותר ב- [לא ניתן לערוך את שדה ההערות עבור איש קשר](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+זוהי בעיה ידועה. אנו עובדים כדי לתקן אותה וניתן לראות את המצב העדכני ביותר ב- [אין אפשרות לערוך את השדה ' הערות ' עבור איש קשר](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
 
-**עקיפת**הדרך: אם אתה משתמש בחשבון של Microsoft 365 או Outlook.com, באפשרותך לערוך את אנשי הקשר שלך באמצעות האינטרנט. אם אתה משתמש בחשבון מסוג IMAP או POP, אין אפשרות לעקיפת הפתרון בשלב זה.
+**פתרון**: אם אתה משתמש ב-Microsoft 365 או בחשבון Outlook.com, באפשרותך לערוך את אנשי הקשר שלך באמצעות האינטרנט. אם אתה משתמש בחשבון IMAP או POP, אין פתרון זמין בשלב זה.
