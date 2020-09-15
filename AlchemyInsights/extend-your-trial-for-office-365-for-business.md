@@ -1,10 +1,11 @@
 ---
-title: הרחבת המשפט שלך עבור Microsoft 365 עבור עסקים
+title: הרחבת גירסת הניסיון עבור Microsoft 365 for Business
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,23 +13,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 458806ee36efdcab64d7544f0d3b7a7e7d753ee9
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: a98c3bc0290adb64a8f9ce18e2358f2f9386781e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063438"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708648"
 ---
-# <a name="extend-your-trial-for-microsoft-365-for-business"></a>הרחבת המשפט שלך עבור Microsoft 365 עבור עסקים
+# <a name="extend-your-trial-for-microsoft-365-for-business"></a>הרחבת גירסת הניסיון עבור Microsoft 365 for business
 
-אתה יכול להאריך את הניסיון החופשי שלך לתקופה נוספת של 30 יום. אחרי זה המשפט שלך. מגיע [לתקופת חסד](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)של 30 יום בצע את השלבים הבאים כדי להאריך את המשפט:
+באפשרותך להרחיב את גירסת הניסיון ללא תשלום עבור פרק זמן אחד נוסף בן 30 יום. לאחר שהמשפט שלך ייכנס [לתקופת חסד](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)בת 30 יום. בצע שלבים אלה כדי להאריך את גירסת הניסיון:
   
-1. במרכז הניהול, עבור אל דף **החיוב** של \> **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. במרכז הניהול, עבור לדף ' **חיוב** \> **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** '.
 
 2. בחר את מנוי הניסיון שברצונך להרחיב.
 
-3. לחץ על **הרחב ניסוי** והשלם את השלבים באשף.
+3. לחץ על **הארך את תקופת הניסיון** והשלם את השלבים באשף.
 
-4. עליך לספק פרטי כרטיס אשראי כדי להאריך את המשפט. לא נגבה את כרטיס האשראי שלך עבור הרחבת הניסיון.
+4. עליך לספק את פרטי כרטיס האשראי כדי להאריך את תקופת הניסיון. לא נחייב את כרטיס האשראי שלך עבור הרחבת הניסיון.
 
-כדי ללמוד עוד אודות הרחבת המשפט או עבור הוראות שלב אחר שלב, ראה [הרחבת ניסיון עבור Office 365 עבור עסקים](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
+לקבלת מידע נוסף אודות הרחבת גירסת הניסיון או לקבלת הוראות צעד-אחר-צעד, ראה [הרחבת גירסת הניסיון עבור Office 365 for business](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

@@ -1,11 +1,12 @@
 ---
-title: 8000038 בדיקת חשבון הילד של GDPR
+title: אימות חשבון הצאצא של 8000038 GDPR
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,16 +14,16 @@ ms.custom:
 - "788"
 - "8000038"
 ms.assetid: 9039e40c-62d4-4658-ab5b-2649ba738c40
-ms.openlocfilehash: 238d1440438bce2531f1a57f5592a204cf9c3cf3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6ad5de2c3595c775d7b5080c2ac116dd002e6777
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764981"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707964"
 ---
-# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>תאריך הלידה שמוצג בחשבון Microsoft שלך שגוי
+# <a name="date-of-birth-displayed-in-your-microsoft-account-is-incorrect"></a>תאריך הלידה המוצג בחשבון Microsoft שגוי
 
-מיקרוסופט לוקחת את האבטחה ברצינות רבה. ייתכן שתתבקש לאחרונה לספק הסכמת הורים לחשבון Microsoft של הילד. אם אתה זקוק לעזרה במתן הסכמה הורית או עדכון תאריך הלידה בחשבון של Microsoft, ראה [אימות גיל עבור הסכמת ההורים](https://go.microsoft.com/fwlink/p/?linkid=874364).
+Microsoft מעבירה ברצינות רבה את האבטחה של החשבון. ייתכן שכבר התבקשת לספק את הסכמת ההורים עבור חשבון Microsoft של הילד. אם אתה זקוק לעזרה בהענקת הסכמה להורים או עדכון תאריך הלידה בחשבון Microsoft, ראה [אימות גיל עבור הסכמת הורים](https://go.microsoft.com/fwlink/p/?linkid=874364).
   
-למד עוד אודות [הסכמת הורים וחשבונות צאצא של Microsoft](https://go.microsoft.com/fwlink/p/?linkid=874365).
+קבל [מידע נוסף על הסכמה להורים וחשבונות של Microsoft צ'יילד](https://go.microsoft.com/fwlink/p/?linkid=874365).
   

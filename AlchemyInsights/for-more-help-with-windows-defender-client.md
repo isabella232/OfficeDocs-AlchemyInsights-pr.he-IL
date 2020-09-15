@@ -1,23 +1,24 @@
 ---
-title: לקבלת עזרה נוספת באמצעות לקוח Windows Defender
+title: לקבלת עזרה נוספת עבור Windows Defender client
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: dbe6a664e2f9e72a9eb14a95bd42ed686cf66a47
-ms.sourcegitcommit: 35b6db0a7160fa03a5ea54ad7f16cd84ca3186df
+ms.openlocfilehash: e39ba958540c85eab3b35e78bf75adf017773247
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403501"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708144"
 ---
-# <a name="for-more-help-with-windows-defender-client"></a>לקבלת עזרה נוספת באמצעות לקוח Windows Defender
+# <a name="for-more-help-with-windows-defender-client"></a>לקבלת עזרה נוספת עבור Windows Defender client
 
-בקר במרכז [התיעוד של האבטחה](https://docs.microsoft.com/security/#pivot=products&panel=products1) של Microsoft.
+בקר במרכז [התיעוד](https://docs.microsoft.com/security/#pivot=products&panel=products1) של Microsoft Security.
