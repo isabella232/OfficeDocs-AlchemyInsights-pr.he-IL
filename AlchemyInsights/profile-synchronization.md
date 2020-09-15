@@ -1,31 +1,32 @@
 ---
-title: סנכרון פרופילים
-ms.author: arnek
-author: arnek
+title: סינכרון פרופילים
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: dc6e0280961d14aa3e6bd466afbe0cbe89418d17
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768114"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801770"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>מתי הפרופיל שלי משתנה ומסונכרן ליישום פרופיל המשתמש של SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>מתי הפרופיל שלי משתנה ליישום פרופיל המשתמש של SharePoint?
 
-SharePoint Online משתמש במשימת שעון העצר Active Directory ייבוא (AD Import) כדי לייבא משתמשים וקבוצות אל יישום פרופיל המשתמש. 
+SharePoint Online משתמש במשימת הטיימר המיובאת של Active Directory (ייבוא AD) כדי לייבא משתמשים וקבוצות ליישום פרופילי משתמשים. 
   
-1. AD ייבוא שינויים מסונכרנים מתוך מאגר הספריות המקוונות של SharePoint ליישום פרופיל המשתמש. שינויים אלה מעובדים בקבוצות.
+1. AD Import מסנכרן שינויים מחנות הספריות של SharePoint Online ליישום פרופילי משתמשים. שינויים אלה מעובדים באצוות.
     
-2. משימת שעון העצר מופעלת עד שהשינויים מסונכרנים.
+2. משימת שעון העצר פועלת עד לסינכרון השינויים.
     
 > [!NOTE]
-> הזמן שלוקח לעבודה לפעול תלוי במספר השינויים לתהליך. מספר גדול של שינויים נמשך זמן רב יותר. הסכם רמת השירות (SLA) מצהיר ששינוי במשתמש בספריה המקוונת של SharePoint ישתקף ביישום פרופילי המשתמשים בתוך 24 שעות. 
+> הזמן הדרוש להפעלת המשימה תלוי במספר השינויים לתהליך. מספר גדול של שינויים אורכים זמן רב יותר. הסכם רמת שירות (SLA) מציין ששינוי למשתמש במדריך הכתובות של SharePoint Online ישתקף ביישום פרופיל המשתמש תוך 24 שעות. 
   
-[מידע נוסף על הפרופיל משתמש סינכרון ב-SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[מידע נוסף אודות סינכרון פרופילי משתמשים ב-SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

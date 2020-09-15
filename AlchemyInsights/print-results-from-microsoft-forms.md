@@ -1,25 +1,26 @@
 ---
-title: הדפס תוצאות טפסים של Microsoft
+title: הדפסת תוצאות מ-Microsoft Forms
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2545"
 - "9000672"
-ms.openlocfilehash: 32b72684c4c838f75353303109db8a6a7f391f30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3f83da053a3188b2d00719e1b4da90763084b308
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510336"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801914"
 ---
-# <a name="print-results-in-a-summary-of-responses"></a>תוצאות ההדפסה בסיכום של תגובות
+# <a name="print-results-in-a-summary-of-responses"></a>הדפסת תוצאות בסיכום של תגובות
 
-באפשרותך [להדפיס תוצאות טפסים Microsoft](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) כתקציר של תגובות או עבור אדם בודד. 
+באפשרותך [להדפיס את התוצאות של Microsoft Forms](https://support.office.com/article/print-a-form-22100b98-ba3c-41c1-9513-f76caca664fc) כסיכום של תגובות או עבור אדם מסוים. 
 
-אין באפשרותך להדפיס טפסים ללא תגובות, אך ניתן לבקש או להצביע על תכונה זו על-ידי ביקור [באתר UserVoice טפסים של Microsoft](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).
+לא ניתן להדפיס טפסים ללא תגובות, אך באפשרותך לבקש או להצביע על תכונה זו על-ידי ביקור [באתר Microsoft Forms UserVoice](https://microsoftforms.uservoice.com/forums/386451-welcome-to-microsoft-forms-suggestion-box).

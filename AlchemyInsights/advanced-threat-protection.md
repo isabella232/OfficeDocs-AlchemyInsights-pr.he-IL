@@ -1,32 +1,33 @@
 ---
-title: הגנת האיום המתקדם של Office 365
+title: הגנת איום מתקדמת של Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506595"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696622"
 ---
-# <a name="office-365-advanced-threat-protection"></a>הגנת האיום המתקדם של Office 365
+# <a name="office-365-advanced-threat-protection"></a>הגנת איום מתקדמת של Office 365
 
-- קבצים מצורפים בטוחים, קישורים בטוחים ותוכנות נגד דיוג הם חלק מהגנת האיום המתקדם של Office 365 (ATP). הארגון E5, חינוך A5, ו-Microsoft 365 עסקים Premium כוללים ATP. כל התוכניות האחרות דורשות מנוי ATP מוסף.
+- קבצים מצורפים בטוחים, קישורים בטוחים ואנטי-דיוג הם חלק מהגנת האיום המתקדמת של Office 365 (ATP). Enterprise E5, השכלה A5 ו-Microsoft 365 Business Premium כוללים ATP. כל התוכניות האחרות דורשות מנוי ATP של הרחבה.
 
-- עליך להקצות את הרשיונות המתאימים כדי להגן על המשתמשים שלך על-ידי Office 365 ATP. עיין [בנושא זה](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) לקבלת הוראות כיצד להחיל בצובר רשיונות על המשתמשים שלך.
+- עליך להקצות את הרשיונות המתאימים כדי להגן על המשתמשים שלך על-ידי Office 365 ATP. עיין [בנושא זה](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) לקבלת הוראות להחלת רשיונות בצובר על המשתמשים שלך.
 
-- מנהלי מערכת כלליים או מנהלי אבטחה יכולים לגשת לתכונות של Office 365 ATP במרכז התאימות של אבטחה _ amppe במדיניות **ניהול האיומים** \> **Policy**.
+- מנהלי מערכת כלליים או מנהלי אבטחה יכולים לגשת לתכונות של מרכז התאימות של Office 365 במרכז התאימות של & בנושא **האיום של Managmeent** \> **Policy**.
 
-- מדיניות ' קבצים מצורפים בטוחים ' ו'קישור בטוח ' ניתנת לאורך כל הארגון, קבוצות המחשבים הספציפיות או קבוצות המשתמשים הקטנות יותר.
+- מסמכים מצורפים בטוחים ומדיניות קישור בטוח יכולים להיות מורכבים עבורך בארגון כולו, בתחומים ספציפיים או בקבוצות קטנות יותר של משתמשים.
 
-- לא קיימת מדיניות ברירת מחדל של ' קובץ מצורף של ATP '. עליך [ליצור מדיניות](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) ולהחיל אותה על המשתמשים שלך.
+- אין מדיניות ברירת מחדל של קובץ מצורף בטוח של ATP. עליך [ליצור מדיניות](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) ולהחיל אותה על המשתמשים שלך.
 
-- קיימת מדיניות ברירת מחדל של ' קישורים בטוחים של ATP ' החלה על כל האנשים בארגון שלך. כדי לערוך מדיניות זו או כדי ליצור מדיניות מותאמת אישית, עיין [בנושא זה](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- יש מדיניות ברירת מחדל של קישורים בטוחים של ATP החלים על כל האנשים בארגון שלך. כדי לערוך מדיניות זו או כדי ליצור פריטי מדיניות מותאמים אישית, עיין [בנושא זה](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
