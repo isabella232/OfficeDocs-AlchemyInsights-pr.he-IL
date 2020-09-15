@@ -1,33 +1,34 @@
 ---
-title: עזרה עם מניעת אפל
+title: עזרה בנושא מניעת התמיכה של Apple
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 5e027994175dcdbd35ffbc67934d3c31b7ab503a
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: b3577ac32be31b213feb172b76843ba884b42a03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654451"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705516"
 ---
-# <a name="help-with-apple-dep"></a>עזרה עם מניעת אפל
+# <a name="help-with-apple-dep"></a>עזרה בנושא מניעת התמיכה של Apple
 
-אם התקן DEP אינו מסוגל להירשם ומשרד הרישום (אימות מרובה גורמים) מופעל, נא בטל את משרד הרישום. אין תמיכה כרגע ברישום משרד המידע עבור הרשמה ל-DEP.
+אם התקן DEP אינו מצליח להירשם ולתואר בעבודה (אימות רב-גורמי) הופך לזמין, בטל את התכונה ' ביטול מכשירים '. הצטרפות ל-DEP אינה נתמכת בשלב זה עבור הרשמה ל-DEP.
 
-[תחילת התחלת עם תוכנית ההרשמה להתקן של Intune ו-Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[תחילת העבודה עם המנגינה ותוכנית ההרשמה למכשירים של Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[משותף ההרשמה iOS שגיאות ופתרונות](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[שגיאות נפוצות ופתרונות של הרשמה ב-iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
 [פתרון בעיות בהרשמה כללית](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[השתמש בפורטל לפתרון בעיות Intune כדי לאבחן ולפתור תקלות הרשמה נפוצות](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[שימוש בפורטל ' שימוש בפתרון בעיות ' כדי לאבחן ולפתור כשלי הרשמה נפוצים](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
 
 

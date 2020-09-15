@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,30 +14,30 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 9b9008dca74e6aa8e6a05010361359a078dbd590
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4004ce468accad778e52b61bbab7e6c5dd1b13dd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44498936"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704976"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>כיצד ניתן לשנות מתשלומי כרטיס אשראי לחשבונית?
 
 > [!NOTE]
-> האפשרות לשלם בחשבונית זמינה רק אם המנוי שלך עולה על סכום מסוים (המשתנה בהתאם למיקום השירות). ייתכן שתידרש בדיקת אשראי עבור תשלומים גדולים באמצעות חשבונית. כדי ללמוד עוד, ראה [תשלום עבור המנוי](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
+> האפשרות לשלם באמצעות חשבונית זמינה רק אם המנוי שלך עולה על סכום מסוים (המשתנה לפי מיקום השירות). ייתכן שתידרש בדיקת אשראי עבור תשלומים גדולים באמצעות חשבונית. לקבלת מידע נוסף, ראה [תשלום עבור המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
 
-1. במרכז הניהול, עבור אל דף **החיוב**של  >  [המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז הניהול, עבור לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
 
-2. חפש את המנוי שברצונך לשנות. תחת **חיוב**, לצד שיטת התשלום, בחר באפשרות **עריכה**.
+2. חפש את המנוי שברצונך לשנות. תחת **חיוב**, לצד שיטת התשלום, בחר **ערוך**.
 
-3. לצד שיטת התשלום הקיימת, בחר באפשרות **שינוי**.
+3. לצד שיטת התשלום הקיימת, בחר **שינוי**.
 
 4. מהתפריט הנפתח, בחר **חשבונית או העברה בנקאית**.
 
-5. הזן את שמך, כתובתך ומספר הטלפון שלך. באפשרותך גם להוסיף מספר הזמנת רכש לתצוגה בחשבונית.
+5. הזן את שמך, הכתובת ומספר הטלפון שלך. באפשרותך גם להוסיף מספר הזמנת רכש להצגת החשבונית.
 
-6. כשתסיים, בחר **בשמור**.
+6. לאחר שתסיים, בחר **שמור**.
 
-7. ודא ששיטת התשלום הנבחרת נכונה ולאחר מכן בחר **בשמור**.
+7. ודא ששיטת התשלום שנבחרה נכונה ולאחר מכן בחר **שמור**.
 
-לקבלת מידע נוסף, ראה [שינוי שיטת התשלום](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+לקבלת מידע נוסף, ראה [שינוי שיטת התשלום שלך](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
