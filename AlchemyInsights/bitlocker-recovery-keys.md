@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908816"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685887"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="37412-102">גישה למפתחות שחזור של Bitlocker</span><span class="sxs-lookup"><span data-stu-id="37412-102">Accessing Bitlocker recovery keys</span></span>
+# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="a4c93-102">גישה למפתחות שחזור של Bitlocker</span><span class="sxs-lookup"><span data-stu-id="a4c93-102">Accessing Bitlocker recovery keys</span></span>
 
-<span data-ttu-id="37412-103">בעת קביעת התצורה של הגדרות Bitlocker Intune מדיניות הגנת נקודות קצה, ניתן להגדיר אם יש לאחסן מידע שחזור של Bitlocker בתיקיה ' פעיל '.</span><span class="sxs-lookup"><span data-stu-id="37412-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
+<span data-ttu-id="a4c93-103">בעת קביעת התצורה של מדיניות הגנת נקודות הקצה של Bitlocker, ניתן להגדיר אם יש לאחסן את מידע השחזור של Bitlocker ב-תכלת Active Directory.</span><span class="sxs-lookup"><span data-stu-id="a4c93-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
 
-<span data-ttu-id="37412-104">אם תצורתה של הגדרה זו נקבעת, על נתוני השחזור המאוחסנים להיות גלויים למנהל Intune כחלק מנתוני רשומת ההתקן בלהב Intune Devices בשתי דרכים:</span><span class="sxs-lookup"><span data-stu-id="37412-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
+<span data-ttu-id="a4c93-104">אם הגדרה זו מוגדרת, נתוני השחזור המאוחסנים אמורים להיות גלויים לניהול מכוונן כחלק מנתוני רשומת ההתקן בלהב של התקנים מובילים בשתי דרכים:</span><span class="sxs-lookup"><span data-stu-id="a4c93-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
 
-<span data-ttu-id="37412-105">התקנים-התקנים לספירה למעלה-התקן או התקנים-מכשירים/התקנים מבוססי-_ gt_ כל ההתקנים-_ Gt_ "התקן"-_ Gt_ מפתחות שחזור</span><span class="sxs-lookup"><span data-stu-id="37412-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
+<span data-ttu-id="a4c93-105">מכשירים-תכלת מכשירים-> "Device" או מכשירים-> כל המכשירים-> "התקן"-מפתחות שחזור ></span><span class="sxs-lookup"><span data-stu-id="a4c93-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
 
-<span data-ttu-id="37412-106">לחילופין, אם יש גישה ניהולית להתקן עצמו, ניתן לראות את מפתח השחזור (Password) על-ידי הפעלת הפקודה הבאה משורת פקודה מוגבהת:</span><span class="sxs-lookup"><span data-stu-id="37412-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
+<span data-ttu-id="a4c93-106">לחלופין, אם קיימת גישה מנהלית למכשיר עצמו, ניתן לראות את מפתח השחזור (סיסמה) על-ידי הפעלת הפקודה הבאה מתוך שורת פקודה מוגבהת:</span><span class="sxs-lookup"><span data-stu-id="a4c93-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-<span data-ttu-id="37412-107">אם ההתקן הוצפן לפני רישום ב-Intune, ייתכן שמפתח השחזור השויך ל-"חשבון Microsoft" (מס א) ששימש לכניסה להתקן במהלך תהליך ה-OOBE.</span><span class="sxs-lookup"><span data-stu-id="37412-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="37412-108">אם זה היה המקרה, גישה https://onedrive.live.com/recoverykey וכניסה עם זה מס ' מס צריך להראות את המכשירים שבהם אוחסנו מפתחות שחזור.</span><span class="sxs-lookup"><span data-stu-id="37412-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
+<span data-ttu-id="a4c93-107">אם המכשיר הוצפן לפני רישום בתוך המנגינה, ייתכן שמפתח השחזור השויך ל-"Microsoft Account" (ולכת למס א) המשמש לכניסה למכשיר במהלך תהליך ה-OOBE.</span><span class="sxs-lookup"><span data-stu-id="a4c93-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="a4c93-108">אם זה היה המקרה, כניסה  https://onedrive.live.com/recoverykey וכניסה באמצעות ולכת למס א אמור להראות את המכשירים שעבורם אוחסנו מפתחות השחזור.</span><span class="sxs-lookup"><span data-stu-id="a4c93-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
  
-<span data-ttu-id="37412-109">אם ההתקן הוצפן כתוצאה מתצורה באמצעות מדיניות קבוצתית מבוססת-תחום, ייתכן שמידע השחזור יאוחסן בספריה המקומית של Active Directory.</span><span class="sxs-lookup"><span data-stu-id="37412-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
+<span data-ttu-id="a4c93-109">אם המכשיר הוצפן כתוצאה מקביעת תצורה באמצעות מדיניות קבוצתית מבוססת תחום, מידע השחזור עשוי להיות מאוחסן ב-Active Directory המקומי.</span><span class="sxs-lookup"><span data-stu-id="a4c93-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
  
 
