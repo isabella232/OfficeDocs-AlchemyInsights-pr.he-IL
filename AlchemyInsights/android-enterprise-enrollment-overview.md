@@ -1,37 +1,38 @@
 ---
-title: אנדרואיד ההרשמה Enterprise-סקירה
+title: הרשמה ל-Android Enterprise-מבט כולל
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2496"
-ms.openlocfilehash: 9c9134c012bff5b0d41f759ea06f8a3066fe75b7
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 23ce3850639f29324118f3d1e98d17e8b3d88c65
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654447"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717902"
 ---
-# <a name="android-enterprise-enrollment---overview"></a>אנדרואיד ההרשמה Enterprise-סקירה
+# <a name="android-enterprise-enrollment---overview"></a>הרשמה ל-Android Enterprise-מבט כולל
 
-כדי להשתמש ההרשמה Enterprise אנדרואיד בארגון שלך אתה חייב תחילה [לחבר את חשבון Intune שלך לחשבון מנוהל Google Play](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
+כדי להשתמש בהרשמת Enterprise של Android בארגון שלך, תחילה עליך [לחבר את חשבון ה-intune שלך לחשבון Google Play המנוהל שלך](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
 
-לאחר ההתחברות בהצלחה, באפשרותך לבחור את השלבים המתאימים עבור סוג ההרשמה של Android שברצונך שהמשתמשים שלך יעקבו אחריהם:
+לאחר שתתחבר בהצלחה, באפשרותך לבחור את השלבים המתאימים עבור סוג ההרשמה של Android שברצונך לאפשר למשתמשים שלך לעקוב אחריהם:
 
-- [הגדרת ההרשמה של התקני פרופיל עבודה של אנדרואיד ארגוניים](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
-- [הגדרת ההרשמה Intune של התקנים ייעודיים של אנדרואיד ארגוניים](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
-- [הגדרת Intune ההרשמה של אנדרואיד התקנים מנוהלים במלואו](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
+- [הגדרת הרשמה של מכשירי פרופיל עבודה של Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
+- [הגדרת הרשמת כוונון של מכשירים ייעודיים של Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
+- [הגדרת הרשמה ל-intune של מכשירים המנוהלים באופן מלא של Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
 
-עבור זרימת עבודה של התקנה ורישום התקנים ארגוניים אנדרואיד יחד עם סקירה שאלות נפוצות, ראה [קביעת תצורה ופתרון בעיות של התקנים ארגוניים של android ב-Microsoft Intune](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
+לקבלת זרימת עבודה של הגדרה ורישום של מכשירי Android Enterprise יחד עם סקירה של שאלות נפוצות, ראה [קביעת תצורה של מכשירי Android enterprise ופתרון בעיות ב-Microsoft intune](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
 
-לקבלת מידע אודות פתרון בעיות בהרשמת התקן באופן כללי וכמה שגיאות הרשמה של Android, ראה [פתרון בעיות בהרשמת ההתקן ב-Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+לקבלת מידע אודות פתרון בעיות בהרשמת מכשירים בכלל ושגיאות הרשמה של Android, ראה [פתרון בעיות בהרשמת מכשירים ב-Microsoft intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
 
-אם אתה מעוניין בהרשמת קוד QR menthod עבור התקני COSU, ראה [בלוג זה](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
+אם אתה מעוניין בmenthod ההרשמה של קוד QR עבור מכשירי COSU, ראה [בלוג זה](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
 
-באפשרותך גם להשתמש [בתוכן המתאר את הלהב Intune פתרון בעיות](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) כדי לסייע בזיהוי בעיות ההרשמה שהמשתמשים חווים.
+באפשרותך גם להשתמש [בתוכן המתאר את להב פתרון הבעיות של ' כוונון '](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) כדי לזהות את בעיות ההרשמה שהמשתמשים חווים.
