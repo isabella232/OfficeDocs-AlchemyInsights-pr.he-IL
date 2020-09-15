@@ -1,39 +1,40 @@
 ---
-title: פתרון בעיות ברישום התקני iOS ב-Microsoft Intune
+title: פתרון בעיות ברישום מכשירי iOS ב-Microsoft intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 664c18daca5d8e0ad4a88f41db3ff0dbced606e5
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7d3e0049258a77016250c8a657c8fbcaf8d65212
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43736159"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669249"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>פתרון בעיות ברישום התקני iOS ב-Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>פתרון בעיות ברישום מכשירי iOS ב-Microsoft intune
 
-סקור את המשאבים המפורטים להלן כדי לפתור את הבעיה שלך כעת. 
+סקור את המשאבים המפורטים להלן כדי לפתור את הבעיה כעת. 
   
-מספר הודעות שגיאה נפוצות ושלבי פענוח:
+מספר הודעות שגיאה נפוצות ושלבי פתרון:
   
-- **הגעת למכסה ההתקן** למשתמש יש התקנים נוספים שנרשמו ממגבלת ההתקן. סקור [מסמכים אלה כדי להסיר התקן](https://docs.microsoft.com/intune/devices-wipe) או [לשנות את מגבלת ההתקן](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **הגעת לאות המכשירים** המשתמש מכיל מכשירים נוספים שנרשמו ממגבלת ההתקן. סקור מסמכים אלה כדי [להסיר מכשיר](https://docs.microsoft.com/intune/devices-wipe) או [לשנות את מגבלת ההתקן](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- **שירות זה אינו נתמך. אין מדיניות הרשמה:** שירות הודעות לדחיפת Apple (APNS) צריך להיות מוגדר או מתחדש. עיין [במסמך זה](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) לקבלת הוראות כיצד לעשות זאת. 
+- **שירות זה אינו נתמך. ללא מדיניות הרשמה:** שירות ההודעות של Apple פוש (APNS) צריך להיות מוגדר או מתחדש. סקור [מסמך זה](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) לקבלת הוראות לביצוע פעולה זו. 
     
-- **סוג רשיון משתמש לא חוקי או שם משתמש לא זוהה:** יש להקצות למשתמש רשיון Intune או EMS. סקור מסמכים אלה כדי להקצות רשיון באמצעות: [מרכז הניהול של Office](https://docs.microsoft.com/intune/licenses-assign) או [פורטל התכלת](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **סוג רשיון משתמש לא חוקי או שם משתמש אינו מזוהה:** יש להקצות למשתמש רשיון כוונון או EMS. סקור מסמכים אלה כדי להקצות רשיון דרך: [מרכז הניהול של Office](https://docs.microsoft.com/intune/licenses-assign) או [פורטל התכלת](https://docs.microsoft.com/azure/active-directory/license-users-groups).
     
-משאבים נוספים שיסייעו בפתרון הבעיה:
+משאבים נוספים שיעזרו לך לפתור את הבעיה:
   
-1. השתמש [בפורטל לפתרון בעיות Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) כדי לאבחן ולפתור כשלים נפוצים בהרשמה. לפרטים נוספים, עיין [במסמך זה](https://docs.microsoft.com/intune/help-desk-operators) . 
+1. השתמש [בפורטל לפתרון בעיות](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) ב-intune כדי לאבחן ולפתור כשלונות הרשמה נפוצים. סקור [מסמך זה](https://docs.microsoft.com/intune/help-desk-operators) לקבלת פרטים נוספים. 
     
-2. סקור מסמכים אלה לקבלת רשימה של שגיאות נפוצות המונעות הרשמה והחלטות לכל: [מדריך לפתרון בעיות](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) [ולפתרון בעיות doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. סקור מסמכים אלה לקבלת רשימה של שגיאות נפוצות המונעות הרשמה ורזולוציות לכל אחת מהן: [מדריך לפתרון בעיות](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) [ולפתרון בעיות](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-3. [למד כיצד לרשום התקני iOS ב-Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
+3. [למד כיצד לרשום מכשירי iOS ב-Microsoft intune](https://docs.microsoft.com/intune/ios-enroll).
     
 
