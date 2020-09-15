@@ -5,20 +5,21 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3415"
 - "9001434"
-ms.openlocfilehash: 1c72edc59b372b2cf0bbe84b2510dd71132e21a3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 04380315483f59fc0a1fb59aae3356abac32880c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628099"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693700"
 ---
-# <a name="cannot-dismiss-reminders"></a><span data-ttu-id="9bab2-102">אין אפשרות לבטל תזכורות</span><span class="sxs-lookup"><span data-stu-id="9bab2-102">Cannot dismiss reminders</span></span>
+# <a name="cannot-dismiss-reminders"></a><span data-ttu-id="29947-102">אין אפשרות לבטל תזכורות</span><span class="sxs-lookup"><span data-stu-id="29947-102">Cannot dismiss reminders</span></span>
 
-<span data-ttu-id="9bab2-103">לקבלת מידע אודות מה לעשות כאשר אינך מצליח לבטל תזכורות בלוח השנה, ראה [שאין באפשרותך לבטל בהצלחה תזכורות בלוח השנה ב-Outlook](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders).</span><span class="sxs-lookup"><span data-stu-id="9bab2-103">For information on what to do when you're unable to dismiss calendar reminders, see [You can't successfully dismiss calendar reminders in Outlook](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders).</span></span>
+<span data-ttu-id="29947-103">לקבלת מידע אודות הפעולות שיש לבצע כאשר אינך מצליח לבטל תזכורות של לוח שנה, ראה [לא ניתן לבטל בהצלחה תזכורות של לוח שנה ב-Outlook](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders).</span><span class="sxs-lookup"><span data-stu-id="29947-103">For information on what to do when you're unable to dismiss calendar reminders, see [You can't successfully dismiss calendar reminders in Outlook](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders).</span></span>
 
