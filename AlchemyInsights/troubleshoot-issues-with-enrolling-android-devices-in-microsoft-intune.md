@@ -1,46 +1,47 @@
 ---
-title: פתרון בעיות ברישום התקני אנדרואיד ב-Microsoft Intune
+title: פתרון בעיות ברישום מכשירי Android ב-Microsoft intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759621"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689955"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>פתרון בעיות ברישום התקני אנדרואיד ב-Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>פתרון בעיות ברישום מכשירי Android ב-Microsoft intune
 
-סקור את המשאבים המפורטים להלן כדי לפתור את הבעיה שלך כעת.
+סקור את המשאבים המפורטים להלן כדי לפתור את הבעיה כעת.
   
-מספר שלבים נפוצים של בעיות ורזולוציות:
+כמה בעיות נפוצות ושלבי פתרון:
   
- **התקן לא שגיאה מוצפנת בפורטל החברה:** גירסאות חדשות יותר של Android, המתחילות במיוחד ב-v 7.0, דורשות קוד סיסמה של הפעלה כדי לוודא שההתקן שלך מוצפן במלואו. פתרונות נפוצים הם לאפשר לפין הפעלה או להצפין את ההתקן במלואו. עיין [במסמך זה](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) לקבלת מידע נוסף.
+ **שגיאה לא מוצפנת של התקן בפורטל החברה:** גירסאות חדשות יותר של Android, במיוחד החל מ-v 7.0, דורשות סיסמה של הפעלה כדי לוודא שההתקן שלך מוצפן במלואו. פתרונות נפוצים משמשים להפיכת מספר זיהוי אישי של הפעלה לזמין או להצפנה מלאה של המכשיר. סקור [מסמך זה](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) לקבלת מידע נוסף.
   
- **התקנים אינם מצליחים לבצע צ'ק-אין בשירות Intune או להציג אותם כ"בלתי בריאים" במסוף מנהל Intune:** חלק סמסונג 4.4 ו-5.5 התקנים עשויים לא לבדוק את השירות. קיימים 3 פתרונות אפשריים לבעיה זו:
+ **המכשירים אינם מצליחים להיכנס באמצעות שירות ה-intune או הצג כ-"לא בריא" במסוף הניהול של intune:** ייתכן שמכשירים מסוימים של Samsung 4.4 ו-5.5 לא ייכנסו לשירות. קיימים 3 פתרונות אפשריים לבעיה זו:
   
-1. פתח באופן ידני את יישום הפורטל של Intune Company, אשר תיזום באופן אוטומטי סינכרון התקן.
+1. פתח באופן ידני את יישום הפורטל של כוונון החברה, שייזום באופן אוטומטי סינכרון מכשיר.
 
-2. עדכן את המכשיר אנדרואיד 6.0 או יותר.
+2. עדכן את המכשיר ל-Android 6.0 ואילך.
 
-3. להשבית את סמסונג מנהל חכם מניהול פורטל החברה Intune. עיין [במסמך זה](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) לקבלת פרטים נוספים אודות בעיות והחלטות אלה.
+3. הפוך את סמסונג Smart Manager ללא זמין מניהול הפורטל של החברה. סקור [מסמך זה](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) לקבלת פרטים נוספים על בעיות ופתרונות אלה.
 
- **סוג רשיון משתמש לא חוקי** או **שם משתמש לא זוהה שגיאה:** יש להקצות למשתמש רשיון Intune או EMS. סקור מסמכים אלה כדי להקצות רשיון באמצעות: מרכז הניהול של Office או פורטל התכלת.
+ **סוג רשיון של משתמש לא חוקי** או **שם משתמש לא זוהה שגיאה:** המשתמש צריך להקצות לו רשיון של כוונון או EMS. סקור מסמכים אלה כדי להקצות רשיון דרך: מרכז הניהול של Office או פורטל התכלת.
   
-משאבים נוספים שיסייעו בפתרון הבעיה:
+משאבים נוספים שיעזרו לך לפתור את הבעיה:
   
-1. השתמש [בפורטל לפתרון בעיות Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) כדי לאבחן ולפתור כשלים נפוצים בהרשמה. לפרטים נוספים, עיין [במסמך זה](https://docs.microsoft.com/intune/help-desk-operators) .
+1. השתמש [בפורטל לפתרון בעיות](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) ב-intune כדי לאבחן ולפתור כשלונות הרשמה נפוצים. סקור [מסמך זה](https://docs.microsoft.com/intune/help-desk-operators) לקבלת פרטים נוספים.
 
-2. סקור [מסמך זה](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) לקבלת רשימה של שגיאות נפוצות המונעות כל אחת מההרשמה והרזולוציות.
+2. סקור [מסמך זה](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) לקבלת רשימה של שגיאות נפוצות המונעות הרשמה ורזולוציות לכל אחת מהן.
 
-3. [למד כיצד לרשום התקנים אנדרואיד ב-Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).
+3. [למד כיצד לרשום מכשירים של Android ב-Microsoft intune](https://docs.microsoft.com/intune/android-enroll).

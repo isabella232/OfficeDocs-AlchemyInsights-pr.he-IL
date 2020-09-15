@@ -1,11 +1,12 @@
 ---
-title: רשיונות דרושים עבור Microsoft המשך
+title: רשיונות דרושים עבור Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,50 +14,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 490f1b2284c99d5f6b90b1cd3ac9ad526bda97d2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722657"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692296"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>רשיונות דרושים עבור Microsoft המשך
+# <a name="required-licenses-for-microsoft-todo"></a>רשיונות דרושים עבור Microsoft ToDo
 
-[רשיונות דרושים עבור Microsoft המשך](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[רשיונות דרושים עבור Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-על המשתמש להיות בעל אחד מהרשיונות הבאים כדי להשתמש ב-Microsoft:
+משתמש חייב להיות אחד מהרשיונות הבאים כדי להשתמש ב-Microsoft ToDo:
   
 - Business Essentials
 
 - Business Premium
 
-- השורה הראשונה של Microsoft 365 F1
+- Microsoft 365 Firstline F1
 
-- כל תוכנית ארגונית 365 של Office
+- כל תוכנית Office 365 Enterprise
 
-- עסקים יצרניים מאובטחים
+- מאובטח עסק פורה
 
-- מאבטח E3 ארגוני מועיל
+- מאובטחת ארגונית E3
 
-- E5 מאובטח של ארגונים יצרניים
+- מאובטח הארגון הפרודוקטיבי E5
 
-- כל תוכנית החינוך של Office 365
+- תוכנית לימודית של Office 365
 
-- מיקרוסופט 365 A3
+- Microsoft 365 A3
 
-- מיקרוסופט 365 A5
+- Microsoft 365 A5
 
-בנוסף לרשיון מוצר חוקי, דרושה אחת מהגירסאות הבאות של Exchange Online כדי שתוכל לבצע סינכרון של נתוני משתמש:
+בנוסף לרשיון מוצר חוקי, נדרשת אחת מהגירסאות הבאות של Exchange Online כדי שתוכל לסנכרן נתוני משתמשים:
   
-- תוכנית מקוונת של Exchange 1
+- Exchange Online תוכנית 1
 
-- תוכנית מקוונת של Exchange 2
+- Exchange Online תוכנית 2
 
-- יסודות החליפין
+- החלפת יסודות
 
-- החלפת קיוסק אונליין
+- קיוסק של Exchange Online
 
-- המרת מקוון POP
+- Exchange Online POP
 
 [הקצאת רשיונות לחשבונות משתמשים באמצעות Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

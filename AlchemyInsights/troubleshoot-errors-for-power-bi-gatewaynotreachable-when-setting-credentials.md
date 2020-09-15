@@ -1,25 +1,26 @@
 ---
-title: שמירה על נגישות בעת הגדרת אישורים
+title: GatewayNotReachable בעת הגדרת אישורים
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1321"
 - "2500002"
-ms.openlocfilehash: 599fb10eb557217c2de52bbab72784cd10bbe95c
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: eefd024944282f26460b8ae6da04829dd4239983
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36507128"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690856"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a>שמירה על נגישות בעת הגדרת אישורים
+# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable בעת הגדרת אישורים
 
-ייתכן שתיתקל בנקודת הגישה כאשר אתה מנסה להגדיר אישורים עבור מקור נתונים בתוך שירות ה-Power BI. זה יכול להיות תוצאה של שער מיושן. התקן את השער העדכני ונסה שוב.
+אתה עשוי להיתקל ב-GatewayNotReachable בעת ניסיון להגדיר אישורים עבור מקור נתונים בשירות Power BI. זו עשויה להיות תוצאה של שער מיושן. התקן את השער האחרון ונסה שוב.
 
-למידע נוסף:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+לקבלת מידע נוסף: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
