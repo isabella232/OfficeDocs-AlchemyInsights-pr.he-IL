@@ -1,27 +1,28 @@
 ---
-title: תחילת ההתחלה עם Intune
+title: תחילת העבודה עם ' כוונון '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: 3d6c0797b4cf73d33908ef42191fd7093d645229
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493324"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706344"
 ---
-# <a name="getting-started-with-intune"></a>תחילת ההתחלה עם Intune
+# <a name="getting-started-with-intune"></a>תחילת העבודה עם ' כוונון '
 
-לסיור מהיר של Intune וקונסולת מנהל, לבדוק [הדרכה של Intune בפורטל התכלת](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+לסיור מהיר ב-intune ובמסוף הניהול, עיין [בהדרכה של המנגינה בפורטל התכלת](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
 
-אם ברצונך לנסות את Intune או להגדיר ניסוי, סקור את [Quickstart: נסה את Microsoft Intune בחינם](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+אם ברצונך לנסות לבצע את ההגדרה או להגדיר גירסת ניסיון, סקור את [תחלה: נסה את Microsoft intune ללא תשלום](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
 
-אם כבר יש לך Intune ו מוכנים להתחיל להשתמש בו, לסקור שלנו [להגדיר](https://docs.microsoft.com/intune/fundamentals/setup-steps) מדריך Intune. 
+אם כבר יש לך כוונון ואתה מוכן להתחיל להשתמש בו, סקור את מדריך [ההגדרה](https://docs.microsoft.com/intune/fundamentals/setup-steps) שלנו. 
