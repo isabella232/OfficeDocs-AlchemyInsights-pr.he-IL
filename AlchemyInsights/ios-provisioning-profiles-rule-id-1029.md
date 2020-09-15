@@ -1,26 +1,27 @@
 ---
-title: הקצאת פרופילים של iOS מזהה חוק 1029
+title: מזהה כלל הקצאת פרופילים של iOS 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 07f98f96958e4897a3e14cef424cb0d7bd491dcc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765918"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695794"
 ---
-# <a name="ios-provisioning-profiles"></a>פרופילי אספקה של iOS
+# <a name="ios-provisioning-profiles"></a>פרופילי הקצאת משאבים של iOS
 
-אפל iOS שורה של העסק משתמשת במושג של פרופיל הקצאת מדיניות אשר משמש כדי לאמת את תקינות היישום ולאכוף את המדיניות המוגדרים בפרופיל. פרופילי אספקה אלה פגות לאחר 12 חודשים ולכן יש לשייך פרופיל חדש ליישום שנפרס כדי שהיישומים ימשיכו לפעול.
+Apple iOS line-business משתמש בקונספט של פרופיל הקצאת משאבים המשמש לאימות התקינות של היישום ולאכיפת מדיניות המוגדרת בפרופיל. תוקף הפרופילים של הקצאת המשאבים פג לאחר 12 חודשים ולכן יש לשייך פרופיל חדש ליישום שנפרס כדי שהיישומים ימשיכו לפעול.
   
-המאמר הבא מתאר כיצד ליצור שותף פרופיל הקצאת מחדש עם יישום iOS לוב פרוסים באמצעות Intune: [השתמש בפרופילים של הקצאת היישום ios כדי למנוע את היישומים שלך לפוג](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+המאמר הבא מתאר כיצד ליצור שיוך פרופיל הקצאת משאבים חדש באמצעות יישום LOB של iOS שנפרס באמצעות המנגינה: [שימוש בפרופילי הקצאת יישומים של ios כדי למנוע תפוגת היישומים שלך](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
   
