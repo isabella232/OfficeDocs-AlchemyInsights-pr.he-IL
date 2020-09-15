@@ -1,11 +1,12 @@
 ---
-title: הפיכת צוותי Microsoft לזמינים
+title: הפיכת Microsoft Teams לזמין
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,15 +16,15 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: da5d2fe06a7c51d1eaad61dfff5939f4e94c470e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b29db4001f0e60bf714a856d80bb1eca19db3d93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703536"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710016"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>הפעל והשתמש בצוותי Microsoft
+# <a name="enable-and-use-microsoft-teams"></a>הפיכת Microsoft Teams לזמין ושימוש בו
 
-אם אין לך גישה לצוותי Microsoft בכלל, בדוק [כיצד אוכל לקבל גישה לצוותי microsoft](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
+אם אין לך גישה ל-Microsoft Teams בכלל, עיין [באופן שבו ניתן לקבל גישה ל-Microsoft teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
 
-אם כבר יש לך צוותי Microsoft ועליך לדעת כיצד להגדיר ולנהל אותו, ראה [ניהול הגדרות של צוותי Microsoft עבור הארגון שלך](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).
+אם כבר יש לך Microsoft Teams ועליך לדעת כיצד לקבוע תצורה ולנהל אותה, ראה [ניהול הגדרות Microsoft teams עבור הארגון שלך](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).
