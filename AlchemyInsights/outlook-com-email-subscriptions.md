@@ -1,34 +1,35 @@
 ---
-title: מנויי דוא ל Outlook.com
-ms.author: lpyfer
-author: lpyfer
+title: מנויי דואר אלקטרוני של Outlook.com
+ms.author: pebaum
+author: pebaum
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: becf4fcf93871b78ae136efeaa004f999bf0532c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723667"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672417"
 ---
-# <a name="email-subscriptions"></a>מנויי דוא ל
+# <a name="email-subscriptions"></a>מנויי דואר אלקטרוני
 
-למה אני רואה אימיילים? ברשימות המנויים שלי
+מדוע אני רואה הודעות דואר אלקטרוני ברשימות המנויים שלי?
 
-Outlook.com זיהה שהודעת הדואר האלקטרוני מכילה פרטי מנוי, כולל "ביטול מנוי" בהודעה. Outlook.com לא כמנוי אותך באופן אוטומטי לידיעונים כלשהם.
+Outlook.com זיהה שהודעת הדואר האלקטרוני מכילה מידע אודות מנוי, כולל "ביטול מנוי" בהודעה. Outlook.com לא רשם אותך באופן אוטומטי לידיעונים כלשהם.
 
-אם ברצונך להפסיק לקבל ידיעונים או קידומי מכירות, קיימות שתי דרכים לביטול המנוי באמצעות Outlook.com:
-1. בתיבת הדואר הנכנס שלך, בחר ידיעון או דואר אלקטרוני פרסומי. בראש חלונית הקריאה, בחר **בביטול מנוי**.
-2. פתח את הגדרות [Outlook.com מנויים](https://go.microsoft.com/fwlink/?linkid=2110887) ובחר ביטול **מנוי**.
+אם ברצונך להפסיק לקבל ידיעונים או קידומי מכירות, קיימות שתי דרכים שבהן באפשרותך לבטל את המנוי באמצעות Outlook.com:
+1. בתיבת הדואר הנכנס שלך, בחר ידיעון או דואר אלקטרוני לקידום מכירות. בחלק העליון של חלונית הקריאה, בחר בטל **מנוי**.
+2. פתח את הגדרות [המנויים](https://go.microsoft.com/fwlink/?linkid=2110887) שלך ב-Outlook.com ובחר בטל את **המנוי**.
 
-הערות: אתה תראה רק תכונה זו אם קיבלת הודעת דוא ל מהחברה שליחת מיילים מנוי.
-אם השאילתה שלך היא אודות מנויים בתשלום של microsoft[https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) 365, עבור אל או [למד עוד אודות microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+הערות: תראה תכונה זו רק אם קיבלת הודעת דואר אלקטרוני מהחברה ששולחת הודעות דואר אלקטרוני המנויות.
+אם השאילתה שלך מתחברת ל-Microsoft 365 מנויים בתשלום, עבור אל [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   [Microsoft 365 או קבל מידע נוסף](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   
