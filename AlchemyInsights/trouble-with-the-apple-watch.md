@@ -1,35 +1,36 @@
 ---
-title: בעיות עם שעון אפל
+title: בעיות ב-Apple Watch
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: 131b21469e189c0db2d4c88a1f90cecffe1315f4
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288216"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700024"
 ---
-# <a name="trouble-with-the-apple-watch"></a>בעיות עם שעון אפל
+# <a name="trouble-with-the-apple-watch"></a>בעיות ב-Apple Watch
 
-אם אתה נתקל בבעיות באמצעות Outlook בשעון אפל, הנה כמה שלבים לפתרון בעיות: 
+אם אתה נתקל בבעיות בשימוש ב-Outlook ב-Apple Watch, להלן כמה שלבים לפתרון בעיות: 
 
-1. עבור אל האפליקציה Watch ב-iPhone.
+1. עבור אל האפליקציה ' צפה ' ב-iPhone.
 
-2. גלול אל האפליקציה של Outlook.
+2. גלול לאפליקציית Outlook.
 
-3. להחליף "הצג App על אפל לצפות" כדי **לבטל** את ההתקנה.
+3. הדו-מצבי ' הפעל את היישום ב-Apple Watch ' כדי **לבטל** את הסרת ההתקנה.
 
-4. להחליף "הצג App על אפל לצפות" **על** מנת להתקין מחדש על watch.
+4. הדו- **מצבי** ' החלף יישום ב-Apple watch ' כדי להתקין מחדש בשעון.
 
-5. הפעל את יישום Outlook על השעון אפל ולחכות נתונים לסנכרן העדכנית ביותר. 
+5. הפעל את אפליקציית Outlook ב-Apple Watch והמתן לסינכרון הנתונים העדכניים ביותר. 
 
-אם הבעיה שלך לא נפתרה, צוות התמיכה ישמח לעזור. עבור אל **הגדרות _ Gt_ עזרה _ משוב**_ שאלה _ התמיכה של איש קשר. 
+אם הבעיה אינה נפתרת, צוות התמיכה ישמח לעזור לך. עבור אל **הגדרות _GT_ עזרה של & משוב _GT_ פנה לתמיכה**. 

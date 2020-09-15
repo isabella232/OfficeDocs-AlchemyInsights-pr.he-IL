@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 1f2bd2d602ac499358940a3ee5c788d725a8db5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418037"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698350"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>הפעלה או הפעלה מחדש של מנוי
 
@@ -27,15 +28,15 @@ ms.locfileid: "44418037"
 
 - אם כבר מוקצה לך רישיון, באפשרותך למצוא יישומים שתוכל להוריד מ[דף החשבון שלי](https://portal.office.com/account/#installs). דף זה מספק רשימה של יישומים הזמינים עבורך להורדה בהתבסס על הרשיונות שהוקצו.
 
-- אם כבר הורדת את יישומי Office, ייתכן שיהיה עליך להיכנס ליישומים בעבודה או בחשבון בית הספר. ניתן לעשות זאת בכל יישום Office (Word,‏ Excel וכן הלאה) על-ידי לחיצה על **קובץ > חשבון** (ליד החלק התחתון). תחת פרטי משתמש, לחץ על **החלף חשבון**. לקבלת מידע נוסף, [התקן יישומים של Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- אם כבר הורדת את יישומי Office, ייתכן שיהיה עליך להיכנס ליישומים באמצעות החשבון שלך בעבודה או בבית הספר. ניתן לעשות זאת בכל יישום Office (Word,‏ Excel וכן הלאה) על-ידי לחיצה על **קובץ > חשבון** (ליד החלק התחתון). תחת פרטי משתמש, לחץ על **החלף חשבון**. לקבלת מידע נוסף, קרא את [התקנת יישומי Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **הפעלה מחדש של מינוי**
 
-אם תוקף המנוי שלך פג, הושבת על-ידי Microsoft, או שאתה ביטלת אותו באמצע תקופת מנוי, באפשרותך להפעילו מחדש במרכז הניהול.
+אם תוקף המנוי שלך פג, הוא הפך ללא זמין על-ידי Microsoft, או אם ביטלת אותו באמצע תקופת המנוי, באפשרותך להפעיל אותו מחדש במרכז הניהול.
   
-1. במרכז הניהול של Microsoft 365, עבור אל דף **החיוב**של  >  [המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז הניהול של Microsoft 365, עבור לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
 
-2. בחר את המנוי שברצונך להפעיל מחדש, ולאחר מכן בחר **הפעל**מחדש. אם אינך רואה את **הפעל מחדש** כפעולה זמינה, [התקשר לתמיכה](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) כדי להפעיל מחדש את המנוי.
+2. בחר את המנוי שברצונך להפעיל מחדש ולאחר מכן בחר **הפעל**מחדש. אם אינך רואה את **הפעל מחדש** כפעולה זמינה, [התקשר לתמיכה](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) כדי להפעיל מחדש את המנוי.
 
 3. הזן את פרטי התשלום שלך. כאן באפשרותך גם [לעדכן את פרטי התשלום הקיימים](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
