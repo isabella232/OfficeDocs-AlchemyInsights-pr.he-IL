@@ -1,11 +1,12 @@
 ---
-title: פתרון בעיות בסנכרון סיסמאות
+title: פתרון בעיות בסינכרון סיסמאות
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 54b5a033b7cbb99520425b31800364ed4a99a4e6
-ms.sourcegitcommit: 1d01b8b48eef2d5d10c375dcf802cd36e9d6bf61
+ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45387878"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664927"
 ---
-# <a name="troubleshoot-password-synchronization"></a>פתרון בעיות בסנכרון סיסמאות
+# <a name="troubleshoot-password-synchronization"></a>פתרון בעיות בסינכרון סיסמאות
 
-כדי לפתור בעיות בסינכרון הסיסמאות, התחל בשימוש במשימה זו של פתרון בעיות של התחברות אד-משתמשים כדי לקבוע מדוע סיסמאות אינן מסינכרון. כדי להתחיל, עבור [לניהול סינכרון ישיר](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
+כדי לפתור בעיות בסינכרון סיסמאות, התחל באמצעות משימת התחברות זו לפתרון בעיות כדי לקבוע מדוע סיסמאות אינן מסונכרנות. כדי להתחיל, עבור אל [ניהול סינכרון ישיר](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
 
-1. פתח הפעלה חדשה של Windows PowerShell בשרת החיבור של תכלת AD שלך, ובחר באפשרות **הפעל כמנהל** .
+1. פתח הפעלה חדשה של Windows PowerShell בשרת החיבור של תכלת לספירה ובחר באפשרות **הפעל כמנהל** .
 
-2. הפעלה של מדיניות הגדרת המדיניות חתומה או הוגדרה מדיניות לא מוגבלת.
+2. הפעיל את Set-ExecutionPolicy RemoteSigned או Set-ExecutionPolicy בלתי מוגבל.
 
-3. הפעל את אשף התקשרות תכלת.
+3. הפעל את אשף ההתחברות של תכלת לספירה.
 
-4. עבור אל דף הפעילויות הנוספות _ gt_ **פתור**את הפעולות  >  **הבאות**.
+4. עבור אל דף המשימות הנוספות > **פתור את הבעיות**  >  **הבאות**.
 
-5. בחר באפשרות ' **הפעלה** ' כדי לפתוח את תפריט פתרון בעיות PowerShell.
+5. בחר **הפעל** כדי לפתוח את תפריט פתרון בעיות של PowerShell.
 
-6. בחר **בפתרון בעיות בסינכרון סיסמאות**.
+6. בחר באפשרות **פתרון בעיות בסינכרון סיסמאות**.
 
-    הבעיה היא בדרך כלל שסיסמה אינה מסונכרנת עבור חשבון משתמש מסוים.
+    הבעיה היא בדרך כלל שסיסמה אינה מסונכרנת עבור חשבון משתמש ספציפי.
 
-    **פתקים** סינכרון הסיסמה נכשל אם סינכרון הסיסמה המוצלח האחרון היה לפני זמן מה.
+    **הערות** סינכרון סיסמאות נכשל אם סינכרון הסיסמאות האחרון שהצליח היה לפני זמן מה.
 
-לקבלת עזרה נוספת לפתרון בעיות בסינכרון סיסמאות, ראה [פתרון בעיות בסינכרון hash של סיסמה עם סינכרון התקשרות תכלת](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+לקבלת עזרה נוספת בפתרון בעיות בסינכרון סיסמאות, ראה [פתרון בעיות בסינכרון hash של סיסמאות באמצעות הסינכרון של תכלת AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).

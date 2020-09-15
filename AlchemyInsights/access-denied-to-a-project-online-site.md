@@ -1,31 +1,32 @@
 ---
-title: הגישה נדחתה לאתר של Project Web App
+title: Access נדחה לאתר Project Web App
 ms.author: pebaum
 author: pebaum
 manager: pamg
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: ea2069f73db1e7ff52ca7fa0be46b002e9b2702a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050562"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663658"
 ---
-# <a name="give-users-permissions-in-project-online"></a>תן הרשאות למשתמשים ב-Project Online
+# <a name="give-users-permissions-in-project-online"></a>הענקת הרשאות משתמשים ב-Project Online
 
-תן למשתמשים גישה לאתר של Project Web App באמצעות מצב הרשאה של SharePoint:
+הענקת גישה למשתמשים לאתר Project Web App באמצעות מצב הרשאה של SharePoint:
 
-1. היכנס ל-Project Online כמנהל.
-2. בדף הבית של Project Web App, בחר באפשרות **שתף** בפינה הימנית העליונה.
-3. בתיבת הדו **שיתוף Project Web App** , הקלד את שם המשתמש של האדם שאליו ברצונך להעניק גישה בתיבה **הזמנת אנשים** .
-4. בחרו ' **הצג אפשרויות**', ובתפריט ' **בחר רמת הרשאה** ', בחרו ' **מנהלי פרוייקט ל-project Web App**'.
-5. בחר באפשרות **שיתוף**.
+1. היכנס ל-Project Online כמנהל מערכת.
+2. בדף הבית של Project Web App, בחר **שתף** בפינה השמאלית העליונה.
+3. בתיבת הדו **שיתוף פרוייקט Web App** , הקלד את שם המשתמש של האדם שאליו ברצונך להעניק גישה בתיבה הזמן **אנשים** .
+4. בחר **באפשרות הצגת אפשרויות**, ובתפריט **בחירת רמת הרשאה** , בחר **מנהלי פרוייקטים עבור project Web App**.
+5. בחר **שתף**.
 
-אם אתה משתמש במצב ' הרשאות פרוייקט ', או לקבלת מידע נוסף, נא ראה [הוספת אנשים ל-Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+אם אתה משתמש במצב הרשאות פרוייקט, או לקבלת מידע נוסף, ראה [הוספת אנשים ל-Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

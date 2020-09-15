@@ -6,35 +6,36 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: bb84363ae7d3c91750d5de789c091c7cebbbedc2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 578e2690061286bde74ee0b4b74a197630716f59
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502320"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663991"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>אחזור או החלפה של הודעת דואר אלקטרוני של Outlook
 
-- כמנהל, באפשרותך **לאחזר הודעות בשם משתמשים באמצעות PowerShell**. אין באפשרותך לאחזר הודעות ממרכז הניהול.
-- **באפשרותך לאחזר הודעות שנשלחות לאנשים בארגונך בלבד**. אם ההודעה נשלחה לכתובת Gmail, לדוגמה, אינך יכול לאחזר אותה.
-- אתה יכול **רק לאחזר הודעות שנשלחו מ-Outlook 2016 במחשב**. אם משתמש שולח הודעה באמצעות Outlook for Mac או Outlook באינטרנט, אינך יכול לאחזר אותו.
+- כמנהל המערכת, באפשרותך **לאחזר הודעות בשם משתמשים באמצעות PowerShell**. אין באפשרותך לאחזר הודעות ממרכז הניהול.
+- **באפשרותך לאחזר הודעות שנשלחות לאנשים בארגון שלך בלבד**. אם ההודעה נשלחה לכתובת Gmail, לדוגמה, אין באפשרותך לאחזר אותה.
+- באפשרותך **לאחזר הודעות שנשלחו מ-Outlook 2016 במחשב PC בלבד**. אם משתמש שולח הודעה באמצעות Outlook עבור Mac או Outlook באינטרנט, לא ניתן לאחזר אותו.
 
 כדי לאחזר או להחליף הודעת דואר אלקטרוני:
 
-1. בחלונית התיקיות שמשמאל לחלון Outlook, בחר את התיקיה פריטים שנשלחו.
+1. בחלונית התיקיות מימין לחלון Outlook, בחר את התיקיה פריטים שנשלחו.
 1. לחץ פעמיים על ההודעה שברצונך לאחזר כדי לפתוח אותה.
-1. בחר בכרטיסיה **הודעה** ולאחר מכן בחר **בפעולות**  >  **אחזור הודעה זו**.
-1. בחר באפשרות **מחק עותקים שלא נקראו של הודעה זו** או **מחק עותקים שלא נקראו והחלף בהודעה חדשה**ולאחר מכן בחר **באפשרות אישור**.
-1. אם אתה שולח הודעה חלופית, חבר את ההודעה ולאחר מכן בחר **בשלח**.
-1. ההצלחה או הכישלון של אחזור הודעה תלויים בהגדרות הנמען ב-Outlook. לקבלת שלבים לבדיקת האחזור, עיין [במאמר זה](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. בחר בכרטיסיה **הודעה** ולאחר מכן בחר באפשרות **פעולות**  >  **אחזור הודעה זו**.
+1. בחר **באפשרות** **מחק עותקים שלא נקראו של הודעה זו** או **מחק עותקים שלא נקראו והחלף אותם בהודעה חדשה**ולאחר מכן בחר אישור.
+1. אם אתה שולח הודעה חלופית, חבר את ההודעה ולאחר מכן בחר **שלח**.
+1. ההצלחה או הכישלון של הודעת האחזור תלויים בהגדרות הנמען ב-Outlook. לקבלת שלבים לבדיקת האחזור, עיין [במאמר זה](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
 חיפוש ומחיקה של הודעות דואר אלקטרוני בארגון שלך
 
-- אם אינך מנהל כללי, יש להוסיף את חשבונך לתפקיד ניהול התפקיד של מנהל eDiscovery או חיפוש תאימות כדי לחפש הודעות. כדי למחוק הודעות, יהיה עליך להצטרף לקבוצת התפקידים ' ניהול ארגון ' או לתפקיד הניהול ' חיפוש וניקוי '. הרשאות עבור תפקידים אלה מוקצות [במרכז האבטחה והתאימות](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [יצור חיפוש תוכן](https://docs.microsoft.com/microsoft-365/compliance/content-search) כדי למצוא את ההודעה שיש למחוק.
-- [התחבר למרכז האבטחה והתאימות PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- אם אינך מנהל מערכת כללי, יש להוסיף את החשבון שלך לתפקיד ' ניהול חיפוש ' של גילוי אלקטרוני Manager או תאימות לחיפוש הודעות. כדי למחוק הודעות, יהיה עליך להצטרף לקבוצת התפקידים ' ניהול ארגון ' או לתפקיד הניהול ' חיפוש וניקוי '. הרשאות עבור תפקידים אלה מוקצות [במרכז האבטחה והתאימות](https://go.microsoft.com/fwlink/?linkid=2083731).
+- [צור חיפוש תוכן](https://docs.microsoft.com/microsoft-365/compliance/content-search) כדי לאתר את ההודעה שברצונך למחוק.
+- [התחבר אל מרכז האבטחה והתאימות של PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-אם אתה משתמש באימות מרובה גורמים, ראה [התחברות לאבטחה ולמרכז התאימות של Microsoft 365 באמצעות אימות מרובה גורמים](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+אם אתה משתמש באימות רב-גורמי, ראה [התחברות למרכז האבטחה והתאימות של Microsoft 365 באמצעות אימות רב-גורמי](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

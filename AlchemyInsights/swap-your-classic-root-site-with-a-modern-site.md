@@ -1,10 +1,11 @@
 ---
-title: החלף את אתר השורש הקלאסי שלך עם אתר מודרני
+title: החלפת אתר הבסיס הקלאסי באמצעות אתר מודרני
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 10e8e4bf5e0def9a8256066e1a3c39b9923d31b0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741545"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691180"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>החלף את אתר השורש הקלאסי שלך עם אתר מודרני
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>החלפת אתר הבסיס הקלאסי באמצעות אתר מודרני
 
-אם הסביבה שלך הוגדרה לפני אפריל 2019, באפשרותך לשנות את אתר השורש שלך לאתר מודרני באמצעות Microsoft PowerShell:
+אם הסביבה שלך הוגדרה לפני אפריל 2019, באפשרותך לשנות את אתר הבסיס לאתר מודרני באמצעות Microsoft PowerShell:
 
-- אם יש לך אתר שונה בו ברצונך להשתמש כאתר הבסיס שלך, באפשרותך להחליף [(להחליף) את אתר השורש](https://docs.microsoft.com/sharepoint/modern-root-site) בו. 
-    - השתמש באפשרות [הפעל-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) כדי להחליף את המיקום של אתר באתר אחר בעת אחסון האתר המקורי בארכיון. זמין עבור האתר הקבוצתי (לא מחובר לקבוצה) ולאתר תקשורת. 
+- אם יש לך אתר אחר שבו ברצונך להשתמש כאתר הבסיס שלך, באפשרותך להחליף [(להחליף) את אתר הבסיס](https://docs.microsoft.com/sharepoint/modern-root-site) שלו. 
+    - השתמש באפשרות [הפעל את SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) כדי להחליף את המיקום של אתר באתר אחר בזמן אחסון האתר המקורי. זמין עבור שני אתרי הצוות (שאינם מחוברים לקבוצה) ולאתר תקשורת. 
 
 - יכולות נוספות יוצגו בקרוב שיאפשרו לך להמשיך להשתמש בתוכן באתר, אך להמיר את האתר הקיים לאתר תקשורת. 
 >[!Important]
->יכולות אלה יוגלגלו בהדרגה. המשך לבדוק את מרכז ההודעות לקבלת עדכונים. 
+>יכולות אלה יסוכמו בהדרגה. המשך לבדוק אם קיימים עדכונים במרכז ההודעות. 
 
-## <a name="known-issues-with-swapping-sites"></a>בעיות ידועות עם החלפת אתרים
+## <a name="known-issues-with-swapping-sites"></a>בעיות ידועות בנושא החלפת אתרים
 
-- אתר היעד עשוי להחזיר שגיאה "לא נמצאה" (HTTP 404) למשך פרק זמן קצר.
-- התוכן צריך להיות מעודכן כדי לעדכן את אינדקס החיפוש. אין צורך בצעד ידני-זה ייעשה באופן אוטומטי.
-- כל דבר התלוי בקישורים "סטטיים" (כגון קבצי סינכרון קבצים ו-OneNote) יהיה צורך לתקן באופן ידני.
-- אם אתר המקור היה אתר חדשות ארגוני, עדכן את כתובת ה-URL.תשיגי רשימה של כל. אתרי החדשות האירגוניים
-- ייתכן שיהיה צורך באימות של אתרי Project Server כדי לוודא שהם עדיין משויכים כראוי.
+- אתר היעד עשוי להחזיר שגיאת "לא נמצא" (HTTP 404) לפרק זמן קצר.
+- יהיה צורך לסרוק משוב תוכן כדי לעדכן את אינדקס החיפוש. אין צורך בשלב ידני-פעולה זו תתבצע באופן אוטומטי.
+- כל דבר תלוי בקישורים סטטיים (כגון קבצי סינכרון וקבצי OneNote) יצטרכו לתקן אותו באופן ידני.
+- אם אתר המקור היה אתר חדשות ארגוני, עדכן את כתובת ה-URL.קבל רשימה של כל אתרי החדשות הארגוניים.
+- ייתכן שיהיה עליך לאמת את אתרי Project Server כדי לוודא שהם עדיין משויכים כראוי.

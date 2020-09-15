@@ -1,25 +1,26 @@
 ---
-title: פתרון בעיות באמצעות Microsoft Intune
+title: פתרון בעיות ב-Microsoft intune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 916ce1fa20f8f12483b76a53eac4234849d48ce3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 870bf718028832ee36ca1382eb1ac3a05c494f71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43733451"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665143"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>פתרון בעיות באמצעות Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>פתרון בעיות ב-Microsoft intune
 
-סקור את המשאבים המפורטים להלן כדי לפתור את הבעיה שלך כעת.
+סקור משאבים המפורטים להלן כדי לפתור את הבעיה כעת.
   
-1. השתמש [בפורטל לפתרון בעיות Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) כדי לאבחן ולפתור כמה תקלות נפוצות. לפרטים נוספים, עיין במסמך [זה](https://docs.microsoft.com/intune/help-desk-operators) .  
-2. סקירת [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)כדי למצוא תשובות ופתרונות לבעיות נפוצות.  
-3. בדוק את [תקינות השירות](https://portal.office.com/AdminPortal/Home#/servicehealth) כדי לראות את מצב השירות.   
-4. סקירת [תיעוד Intune](https://docs.microsoft.com/intune/) לתכנון, מאמרי ' כיצד לעשות ' ועוד. 
+1. השתמש [בפורטל לפתרון בעיות](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) ב-intune כדי לאבחן ולפתור כמה כשלים נפוצים. סקור מסמך [זה](https://docs.microsoft.com/intune/help-desk-operators) לקבלת פרטים נוספים.  
+2. סקור את [המנגינה TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)כדי למצוא תשובות ופתרונות לבעיות נפוצות.  
+3. עיין [בתקינות השירות](https://portal.office.com/AdminPortal/Home#/servicehealth) כדי לראות את מצב השירות.   
+4. סקור את [התיעוד של כוונון](https://docs.microsoft.com/intune/) התכנון, מאמרי ' כיצד לבצע ', פתרון בעיות ועוד. 

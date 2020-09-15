@@ -1,34 +1,35 @@
 ---
-title: פתרון בעיות של Office 365 להגנה על איומים מתקדמים
+title: פתרון בעיות בהגנת האיום המתקדמת של Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512591"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658915"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>פתרון בעיות של Office 365 להגנה על איומים מתקדמים
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>פתרון בעיות בהגנת האיום המתקדמת של Office 365
 
-- האם אתה מבחין בעיכובים? במסירת הודעות השתמש באפשרות ' [מסירה דינאמית](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) ' במדיניות ' קבצים מצורפים בטוחים של ATP '. פעולה זו תסייע למנוע עיכובים בהודעות בעת הגנה על נמענים מפני קבצים זדוניים.
+- האם אתה מבחין בעיכובים במסירת הודעות? השתמש באפשרות [המסירה הדינאמית](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) במדיניות הקבצים המצורפים הבטוחים של ATP. פעולה זו תעזור למנוע עיכובים של הודעות תוך הגנה על נמענים מקבצים זדוניים.
 
-- האם ברצונך לדווח ל-Microsoft על תוצאות חיוביות שגויות או על שליליות מזויפות? השתמש [בקישור](https://www.microsoft.com/wdsi/filesubmission/) זה כדי לשלוח קבצים לניתוח.
+- האם ברצונך לדווח על חיובים כוזבים או שליליות false ל-Microsoft? השתמש [בקישור](https://www.microsoft.com/wdsi/filesubmission/) זה כדי לשלוח קבצים לניתוח.
 
-- האם ידעת שבאפשרותך לאפשר הגנה מפני קישורים בטוחים עבור דואר אלקטרוני פנימי שנשלח בין הנמענים בארגון? בצע שלבים אלה:
+- האם ידעת שבאפשרותך להפעיל הגנה על קישורים בטוחים עבור דואר אלקטרוני פנימי שנשלח בין נמענים בארגון שלך? בצע שלבים אלה:
 
-  1. עבור אל https://protection.office.com והיכנס למערכת כללית או לחשבון מנהל האבטחה.
+  1. עבור אל [https://protection.office.com](https://protection.office.com) והיכנס באמצעות חשבון מנהל מערכת כללי או מנהל אבטחה.
 
-  2. בחלונית הניווט השמאלית תחת **ניהול איומים**, בחר באפשרות קישורים בטוחים **של מדיניות** \> **Safe Links**.
+  2. בחלונית הניווט הימנית תחת **ניהול האיום**, בחר באפשרות קישורים בטוחים **של מדיניות** \> **Safe Links**.
 
-  3. בפריטי **המדיניות החלים על המקטע הארגוני כולו** , בחר את המדיניות ולחץ על **Edit**.
+  3. בפריטי **המדיניות החלים על המקטע כולו של הארגון** , בחר את המדיניות ולחץ על **ערוך**.
 
-  4. תחת **הגדרות**, הפעל **את האפשרות החל קישורים בטוחים על הודעות הנשלחות בארגון**.
+  4. תחת **הגדרות**, הפעל את **האפשרות החל קישורים בטוחים על הודעות הנשלחות בתוך הארגון**.
