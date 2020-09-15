@@ -1,26 +1,27 @@
 ---
-title: "' חשבון OneDrive יימחק ' הודעה"
+title: ההודעה ' OneDrive חשבון ' נמחק '
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 954003081073312562941352b73afe5fa07bd4d1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b8e1a4617dc2560b5255b530c121324c5cfb4c1a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761205"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673318"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a><span data-ttu-id="4a8fa-102">"חשבון OneDrive יימחק" הודעה</span><span class="sxs-lookup"><span data-stu-id="4a8fa-102">"OneDrive account will be deleted" message</span></span>
+# <a name="onedrive-account-will-be-deleted-message"></a><span data-ttu-id="76d21-102">"ההודעה" חשבון OneDrive יימחק "</span><span class="sxs-lookup"><span data-stu-id="76d21-102">"OneDrive account will be deleted" message</span></span>
 
-<span data-ttu-id="4a8fa-103">אם קיבלת הודעת דוא ל מemail@mail.onedrive.com אזהרה כי "חשבון OneDrive שלך יימחק" אנא שימו לב כי זהו חשבון OneDrive.com האישי שלך, לא הכונן הפרטי שלך עבור חשבון עסקי.</span><span class="sxs-lookup"><span data-stu-id="4a8fa-103">If you received an email from email@mail.onedrive.com warning that "Your OneDrive account will be deleted" please note this is your personal OneDrive.com account, not your OneDrive for Business account.</span></span> 
+<span data-ttu-id="76d21-103">אם קיבלת הודעת דואר אלקטרוני מ-email@mail.onedrive.com אזהרה ש-"חשבון OneDrive שלך יימחק" שים לב שזהו חשבון OneDrive.com האישי שלך, ולא חשבון OneDrive for Business שלך.</span><span class="sxs-lookup"><span data-stu-id="76d21-103">If you received an email from email@mail.onedrive.com warning that "Your OneDrive account will be deleted" please note this is your personal OneDrive.com account, not your OneDrive for Business account.</span></span> 
   
-<span data-ttu-id="4a8fa-104">אם אינך בטוח אם אתה משתמש ב-OneDrive אישי, היכנס לonedrive.com כדי להפעיל מחדש ולסקור את חשבונך.</span><span class="sxs-lookup"><span data-stu-id="4a8fa-104">If you're not sure whether you use personal OneDrive, sign in to onedrive.com to reactivate and review your account.</span></span>
+<span data-ttu-id="76d21-104">אם אינך בטוח אם אתה משתמש ב-OneDrive אישי, היכנס ל-onedrive.com כדי להפעיל מחדש ולסקור את החשבון שלך.</span><span class="sxs-lookup"><span data-stu-id="76d21-104">If you're not sure whether you use personal OneDrive, sign in to onedrive.com to reactivate and review your account.</span></span>
   
-<span data-ttu-id="4a8fa-105">לקבלת מידע נוסף, ראה [מדוע קיבלתי דואר אלקטרוני שאומר שחשבונך יימחק?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="4a8fa-105">For more information, see [Why did I get an email saying your account will be deleted?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)</span></span>
+<span data-ttu-id="76d21-105">לקבלת מידע נוסף, ראה [מדוע קיבלתי הודעת דואר אלקטרוני המציינת כי החשבון שלך יימחק?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="76d21-105">For more information, see [Why did I get an email saying your account will be deleted?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)</span></span>
   
 
