@@ -1,21 +1,22 @@
 ---
-title: 400 לוח שנה-פריטרואני
+title: לוח שנה של 400-FreeBusy
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 400
 ms.assetid: 2a4ceadc-242a-492f-b794-682d40781e9f
-ms.openlocfilehash: b708df774bbcb71a5ba8051fb857bcdd4ca99a0c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3faffd09202bc45b4ba8ad59831882d2e7c8c133
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711848"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684051"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>בעיות בצפייה במידע מועדים פנויים/לא פנויים בלוח השנה
+# <a name="issues-seeing-calendar-freebusy-information"></a>בעיות במידע מועדים פנויים/לא פנויים בלוח השנה
 
-אם אין באפשרותך לראות מידע מועדים פנויים/לא פנויים של לוח שנה בלוחות שנה אחרים של Outlook, או אם אנשים אחרים אינם יכולים לראות מידע מועדים פנויים/לא פנויים בלוח השנה שלך, השתמש [במסייע התמיכה והשחזור של microsoft עבור microsoft 365](https://diagnostics.office.com/).
+אם אין באפשרותך לראות מידע מועדים פנויים/לא פנויים בלוח השנה של Outlook, או אם אנשים אחרים אינם רואים מידע מועדים פנויים/לא פנויים בלוח השנה שלך, השתמש [במסייע התמיכה והשחזור של microsoft עבור microsoft 365](https://diagnostics.office.com/).
