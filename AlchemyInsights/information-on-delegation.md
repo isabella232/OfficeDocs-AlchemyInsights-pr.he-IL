@@ -1,10 +1,11 @@
 ---
-title: 606 מידע על המשלחת
+title: מידע של 606 על הקצאה
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,24 +13,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7fca7eb6af2abdaefe03e1ae5aa5976575183f79
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661729"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755708"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>פתרון בעיות הקצאה ב-Outlook ו-Outlook באינטרנט
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>הקצאת פתרון בעיות ב-Outlook וב-Outlook באינטרנט
 
-**פתרון בעיות באמצעות הכלי שרה:**
+**פתרון בעיות באמצעות הכלי ' שרה ':**
 
 1. הורד והתקן את הכלי שרה [כאן](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-1. בחר **ב-Outlook**, ולאחר מכן **יש לי בעיות עם לוח השנה שלי**.
-1. . תגיד **כן** למכונה המושפעת
+1. בחר **Outlook**ולאחר מכן **אני נתקל בבעיות בלוח השנה שלי**.
+1. אמור **כן** עבור מחשב מושפע.
 1. הוסף את כתובת הדואר האלקטרוני של המשתמש המושפע.
-1. בחר **בבעיות של הרשאות נציג**.
-1. בשורת הפקודה הבאה, אם אתה נותן הרשאות, הזן את כתובת הדואר האלקטרוני של הנציג שלך. אם קיבלת הרשאות ואתה הנציג, הזן את כתובת הדואר האלקטרוני של האדם שנתן לך הרשאות.
+1. בחר **אני נתקל בבעיות בהרשאות נציג**.
+1. בהנחיה הבאה, אם אתה האדם הנותן הרשאות, הזן את כתובת הדואר האלקטרוני של הנציג שלך. אם קיבלת הרשאות ואתה הנציג, הזן את כתובת הדואר האלקטרוני של האדם שהעניק לך הרשאות.
 1. בתפריט הבא, בחר את האפשרות המתאימה לתרחיש שלך.
-1. בתפריט הבא, בחר ברמת ההרשאה.
-1. בשלב זה, הכלי שרה יבצע בדיקות אוטומטיות וזה יספק לך ברזולוציה אפשרית או לחילופין יספק יומן אבחון שניתן להשתמש בהם לפתרון בעיות נוספות.
-1. באפשרותך למצוא את יומני הרישום בתיקיה ' תוצאות של SaRA ' הממוקמת ב-C:\username\at\o\toes.
+1. בתפריט הבא, בחר את רמת ההרשאה.
+1. בשלב זה, כלי שרה יבצע בדיקות אוטומטיות ויספק לך רזולוציה אפשרית או לחלופין תספק יומן אבחון שניתן להשתמש בו לצורך פתרון בעיות נוסף.
+1. באפשרותך למצוא את יומני הרישום בתיקיה ' תוצאות שרה ' הממוקמת ב-C:\Users\Username\AppData\Local\SaraResults.

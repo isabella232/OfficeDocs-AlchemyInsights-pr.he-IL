@@ -1,25 +1,26 @@
 ---
-title: זקוק לעזרה עם מיקרוסופט 365 עסקים פרימיום קול?
+title: זקוק לעזרה בנושא הקול הפרמי של Microsoft 365 Business?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: c9bcc02a31fc9afccee46839af3665d2bdaac0cf
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8ebede67f5414234553968b0a275d984f87800b8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761959"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754592"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>זקוק לעזרה עם מיקרוסופט 365 עסקים פרימיום קול?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>זקוק לעזרה בנושא הקול הפרמי של Microsoft 365 Business?
 
-מיקרוסופט 365 Business Premium קול מקלה על ארגונים קטנים ובינוניים כדי להפוך את צוותי Microsoft למערכת טלפון רבת עוצמה וגמישה. לקבלת מידע נוסף על עסקים Voice, ראה [מה מיקרוסופט 365 עסקים פרימיום קול?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+הקול של microsoft 365 Business Premium מקל על ארגונים קטנים ובינוניים להפוך את Microsoft Teams למערכת טלפון רבת-עוצמה וגמישה. לקבלת מידע נוסף אודות הקול העסקי, ראה [מהו הקול של Microsoft 365 Business Premium?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-אם כבר רכשת את מיקרוסופט 365 עסקים פרימיום Voice, [אשף תחילת](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) העבודה יכול לעזור לך לקבל דברים הולך. 
+אם כבר רכשת את הקול של Microsoft 365 Business Premium, [האשף](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) ' תחילת העבודה ' יכול לעזור לך להתחיל לעבוד. 
