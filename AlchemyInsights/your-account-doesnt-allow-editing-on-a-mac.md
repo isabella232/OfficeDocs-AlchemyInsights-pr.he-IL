@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 4f1c457f4f8f83da0b5146fd7189654428aa5ec4
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: b4304f73ccad60f84c5cc6111de1e425695898e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576957"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748830"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>תיקון האפליקציות של Microsoft 365 "החשבון שלך אינו מאפשר עריכה בהודעת Mac"
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>תיקון יישומי Microsoft 365 "החשבון שלך אינו מאפשר עריכה בהודעת Mac"
 
-אם תקבל הודעה זו, נסה את הפעולות הבאות:
+אם אתה מקבל הודעה זו, נסה את הפעולות הבאות:
 
 - ודא שיש לך מנוי שמאפשר רישיונות לקוח, וכן [ודא שללקוח הוקצה רישיון](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - הורד והפעל את [כלי הסרת רישיון](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).
