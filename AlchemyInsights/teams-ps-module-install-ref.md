@@ -1,28 +1,29 @@
 ---
-title: צוותי התקנה והפניה למודול PS
+title: התקנה והפניה של teams PS Module
 ms.author: heidip
 author: heidip
 manager: serdards
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: ac3017975caeec2b9d9c309ce9bc9be152a8c21b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "37340566"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735884"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>מה ניתן להשיג עם מודול הצוותים של מיקרוסופט PowerShell
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>מה ניתן לבצע במודול Microsoft Teams PowerShell
 
-אם אתה צריך לדעת כיצד להתקין את מודול הצוותים PowerShell, אתה יכול לבדוק [את זה בלוג](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
+אם עליך לדעת כיצד להתקין את המודול Teams PowerShell, באפשרותך לעיין [בבלוג זה](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
 
 לקבלת מידע נוסף:
 
-- סקור את [הקבוצות הסקירה של PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) כדי להבין את [יכולות התפקיד של admin](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles), [ליצור ולנהל צוותים דרך PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell), ולנהל [מדיניות](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) או [תצורות](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell). 
-- סקור את [הפניית הפקודה של צוותי Microsoft](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) לקבלת רשימה של פקודות הזמינות באמצעות powershell. 
+- סקור את [הסקירה של teams PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) כדי להבין את [יכולות תפקיד הניהול](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles), [ליצור ולנהל צוותים באמצעות PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell) [ולנהל מדיניות](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) או [תצורות](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell). 
+- סקור את [מדריך הפקודות של Microsoft teams PowerShell](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) עבור רשימה של פקודות הזמינות באמצעות powershell. 

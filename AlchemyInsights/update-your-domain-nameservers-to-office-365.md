@@ -1,28 +1,29 @@
 ---
 title: עדכן את שרתי השמות כל שיצביעו על Microsoft
-ms.author: v-crytho
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 9dd52c60b2d15d66c1c3f2a96c9db08ea2a010c6
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7322fa640f6d043f057c8b7a5e06a18dcd10eec5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510285"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734912"
 ---
 # <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>עדכן את שרתי השמות כל שיצביעו על Microsoft
 
 הערה: הפצת השינויים בשרתי השמות עשויה להימשך עד 48 שעות.
   
-כדי להגדיר את התחום שלך עם Microsoft, יש לעדכן את שרתי הרישום במחשב הרשם. צור או ערוך את רשומות שרת השמות אצל רשם התחומים שלך.
+כדי להגדיר את התחום שלך ב-Microsoft, יש לעדכן את nameservers אצל הרשם. צור או ערוך את רשומות שרת השמות אצל רשם התחומים שלך.
   
 1. עבור לאתר האינטרנט של רשם התחומים שלך וחפש את האזור שבו ניתן לערוך את שרתי השמות.
 
@@ -34,5 +35,5 @@ ms.locfileid: "44510285"
 
 3. שמור את השינויים.
 
-כמו כן, באפשרותך למצוא הוראות מפורטות במאמר זה: [שינוי שרתי הnamםכדי להגדיר את Microsoft 365 עם כל רשם תחום](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+באפשרותך גם למצוא הוראות מפורטות במאמר זה: [שינוי nameservers כדי להגדיר את Microsoft 365 עם רשם תחומים כלשהו](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

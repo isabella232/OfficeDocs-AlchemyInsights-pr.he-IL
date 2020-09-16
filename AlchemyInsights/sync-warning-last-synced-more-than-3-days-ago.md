@@ -1,26 +1,27 @@
 ---
-title: 'אזהרת סינכרון: הסינכרון האחרון לפני יותר מ-3 ימים'
+title: 'אזהרת סינכרון: סינכרון אחרון לפני יותר מ-3 ימים'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001505"
 - "3562"
-ms.openlocfilehash: b515b75d1694488d034e773f3d2ad4d4ab58af96
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0263dd1e7490e5fecb461fecaff875194acb9e60
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766926"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737090"
 ---
-# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>אזהרת סינכרון: הסינכרון האחרון לפני יותר מ-3 ימים
+# <a name="sync-warning-last-synced-more-than-3-days-ago"></a>אזהרת סינכרון: סינכרון אחרון לפני יותר מ-3 ימים
 
-לקבלת פתרון בעיות נוסף, ראה [תיקון בעיות בסינכרון ספריות](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).
+לקבלת פתרון בעיות נוסף, ראה [פתרון בעיות בסינכרון מדריכי כתובות](https://docs.microsoft.com/office365/enterprise/fix-problems-with-directory-synchronization).
 
-באפשרותך לבדוק את מצב הסינכרון בפורטל הניהול של Office על-ידי ביצוע ההוראות [במצב סינכרון מדריך כתיקיות](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).
+באפשרותך לבדוק את מצב הסינכרון בפורטל ניהול Office על-ידי ביצוע ההוראות במאמר [הצגת מצב סינכרון מדריכי כתובות](https://docs.microsoft.com/office365/enterprise/view-directory-synchronization-status).
 
