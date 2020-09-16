@@ -1,27 +1,28 @@
 ---
-title: תפקיד משתמש במסחר מודרני
+title: תפקיד משתמש מסחרי מודרני
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 2830dcd063da833ff1f87a5693550dd692764f98
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748845"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667015"
 ---
-# <a name="modern-commerce-user-role"></a>תפקיד משתמש במסחר מודרני
+# <a name="modern-commerce-user-role"></a>תפקיד משתמש מסחרי מודרני
 
-תפקיד המשתמש של מסחר מודרני מעניק למשתמשים מסוימים הרשאת גישה למרכז הניהול של Microsoft 365 ועיין בערכי הניווט השמאליים עבור **בית**, **חיוב** **ותמיכה**. התוכן הזמין באזורים אלה נשלט על-ידי תפקידים ספציפיים למסחר המוקצים למשתמשים לניהול מוצרים שהם קנו עבור עצמם או עבור הארגון שלך. הדבר עשוי לכלול משימות כגון תשלום חשבונות, או עבור גישה לחשבונות חיוב ולפרופילי חיוב.
+תפקיד משתמש המסחר המודרני מספק הרשאת משתמשים מסוימים כדי לגשת למרכז הניהול של Microsoft 365 ולראות את ערכי הניווט הימניים עבור **בית**, **חיוב** **ותמיכה**. התוכן הזמין באזורים אלה נשלט על-ידי תפקידים ספציפיים למסחר שהוקצו למשתמשים כדי לנהל מוצרים שהם קנו לעצמם או לארגון שלך. הדבר עשוי לכלול פעילויות כגון תשלום חשבונות, או עבור גישה לחשבונות חיוב ופרופילי חיוב.
 
-למשתמשים בעלי תפקיד המשתמש במסחר מודרני יש בדרך כלל הרשאות ניהוליות במערכות רכישה אחרות של Microsoft, אך אין באפשרותם של מנהל מערכת כללי או הרשאות מנהל חיוב.
+משתמשים בעלי תפקיד משתמש מסחרי מודרני כוללים בדרך כלל הרשאות ניהול במערכות רכישה אחרות של Microsoft, אך אין לך הרשאות מנהל מערכת כללי או מנהל חיוב.
 
-כדי ללמוד עוד אודות תפקידים ניהוליים אלה ואחרים, ראה [הרשאות תפקיד של מנהל מערכת בספריה ' פעיל](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator)'.
+לקבלת מידע נוסף על תפקידים ניהוליים ומנהליים אחרים, ראה [הרשאות תפקיד מנהל מערכת ב-תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).

@@ -1,26 +1,27 @@
 ---
-title: משתמש אחד מקבל שגיאה של Access נדחתה בעת הוספת תוספות ב-Outlook
+title: משתמש אחד מקבל שגיאת גישה שנדחתה בעת הוספת תוספות ב-Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5892"
 - "6700008"
-ms.openlocfilehash: 1f4672e306a282b3e1d20c75f4e361c02cdddaed
-ms.sourcegitcommit: 07e56267dedfc4cec1143072c791670cbf81186b
+ms.openlocfilehash: 355f37386e0a498185e195c1d715386785d0b54b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45423721"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673282"
 ---
-# <a name="one-user-gets-access-denied-error-while-adding-add-ins-in-outlook"></a>משתמש אחד מקבל שגיאה של Access נדחתה בעת הוספת תוספות ב-Outlook
+# <a name="one-user-gets-access-denied-error-while-adding-add-ins-in-outlook"></a>משתמש אחד מקבל שגיאת גישה שנדחתה בעת הוספת תוספות ב-Outlook
 
-PowerShell משתמש כדי לחפש הרשאות:
+משתמש PowerShell לאיתור הרשאות:
 
-מuser@domain.com-האצלת סמכויות הקצאת משימות- [user@domain.com](mailto:user@domain.com "mailto:user@domain.com") הקצאת $false | תבנית-תפקיד אוטומטי של הטבלה, הבעת מבנה השולחן, סוג התור
+Get-ManagementRoleAssignment-RoleAssignee [user@domain.com](mailto:user@domain.com "mailto:user@domain.com") -הקצאת $false | עיצוב-טבלה-תפקיד אוטומטי, RoleAssigneeName, RoleAssigneeType

@@ -6,22 +6,23 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6142"
 - "9003098"
-ms.openlocfilehash: 3674ecfca87525cf062a1e4d7397205ec6bd050a
-ms.sourcegitcommit: 9d1d2f0aa59256bec426f4fccea75df30261f6d0
+ms.openlocfilehash: 75e755bf35f4ee969159d3488d4daf04d524c464
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46555714"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669861"
 ---
 # <a name="teams-assignments"></a>הקצאות צוותים
 
-הקצאות הן פעילויות או יחידות עבודה המוקצות לתלמיד או לחבר צוות במחלקה כחלק מהמחקר שלהם. באפשרותך ליצור הקצאות בתוך מחלקת הצוותים שלך.
+מטלות הן משימות או יחידות עבודה שהוקצו לתלמיד או חבר צוות בכיתה כחלק מהמחקר שלהם. באפשרותך ליצור מטלות בתוך הכיתה Teams.
 
-- כדי ללמוד עוד אודות הקצאות, ראה [הקצאות של קבוצות מיקרוסופט](https://support.microsoft.com/en-us/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments).
-- כדי ללמוד עוד אודות ניהול תכונות הקצאות במרכז הניהול של צוותי Microsoft, ראה [הקצאות בצוותים עבור השכלה](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams).
+- לקבלת מידע נוסף אודות הקצאות, ראה [הקצאות של Microsoft teams](https://support.microsoft.com/en-us/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments).
+- לקבלת מידע נוסף אודות ניהול תכונות הקצאות במרכז הניהול של Microsoft Teams, ראה [מטלות ב-teams למגזר החינוך](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams).

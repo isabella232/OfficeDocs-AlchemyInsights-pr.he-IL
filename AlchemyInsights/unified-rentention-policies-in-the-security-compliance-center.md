@@ -1,35 +1,36 @@
 ---
-title: מדיניות שמירה אחידה במרכז התאימות של אבטחה _ Amp_e
+title: מדיניות שמירה מאוחדת במרכז התאימות של אבטחה &
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: d9d92e9284f34c7c1edba6af56f02ac88d3cd956
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088341"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669212"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>מדיניות שמירה אחידה במרכז התאימות של אבטחה _ Amp_e
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>מדיניות שמירה מאוחדת במרכז התאימות של אבטחה &
 
-פריטי מדיניות שמירה מאפשרים לך לנהל את תוכן הארגון באמצעות הגדרות שמירה ומחיקה. באפשרותך ליצור מדיניות שמירה אחידה ב-Office 365 Security _ מרכז התאימות או במרכז התאימות של Microsoft 365. 
+מדיניות שמירה מאפשרת לך לנהל את תוכן הארגון שלך באמצעות הגדרות שמירה ומחיקה. באפשרותך ליצור מדיניות שמירה מאוחדת במרכז התאימות של Office 365 Security & או במרכז התאימות של Microsoft 365. 
 
-1. במרכז [התאימות לאבטחה _ amp_](https://go.microsoft.com/fwlink/p/?linkid=2077143), בחר שמירה על **ממשל מידע**  >  **Retention**  >  **+ צור**. <br/>
-    במרכז [התאימות של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149), בחר באפשרות **מדיניות**  >  **נתונים _ gt_e שמירה/מדיניות שמירה חדשה.**
+1. במרכז [התאימות של אבטחה &](https://go.microsoft.com/fwlink/p/?linkid=2077143), בחר באפשרות **Information governance**  >  **שמירה**על מידע  >  **+ צור**. <br/>
+    במרכז [התאימות של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149), בחר **פריטי מדיניות**  >  **Data > שמירה > + מדיניות שמירה חדשה.**
 2. הוסף **שם**, **הגדרות** **ובחר מיקומים**.
-3. סקור את ההגדרות שלך ולאחר מכן בחר באפשרות **צור מדיניות זו** או **שמור למועד מאוחר יותר**.  
+3. סקור את ההגדרות שלך ולאחר מכן בחר **צור מדיניות זו** או **שמור למועד מאוחר יותר**.  
       
-לקבלת פרטים נוספים על מדיניות שמירה עבור תוכן כגון Exchange e-mail, OneDrive, SharePoint ותוכן צוותים, ראה [מבט כולל על מדיניות שמירה](https://go.microsoft.com/fwlink/?linkid=2127785).  
+לקבלת פרטים נוספים אודות מדיניות שמירה עבור תוכן כגון דואר אלקטרוני של Exchange, OneDrive, SharePoint ו-Teams, ראה [מבט כולל על מדיניות שמירה](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-אם אתה משתמש במדיניות שמירה זה לצד זה במרכז הניהול של Exchange ובמרכז התאימות Security _ Amp_, עיין בהמלצה זו כדי [להשתמש במדיניות שמירה במקום בתכונות ישנות](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features)יותר.  
+אם אתה משתמש במדיניות שמירה זה לצד זה במרכז הניהול של Exchange ובמרכז התאימות של אבטחה &, עיין בהמלצה זו כדי [להשתמש במדיניות שמירה במקום בתכונות ישנות יותר](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
     
-לקבלת מידע ספציפי אודות שמירה על צוותים, ראה [מדיניות שמירה בצוותים](https://docs.microsoft.com/microsoftteams/retention-policies).
+לקבלת מידע ספציפי אודות שמירת Teams, ראה [מדיניות שמירה ב-teams](https://docs.microsoft.com/microsoftteams/retention-policies).
