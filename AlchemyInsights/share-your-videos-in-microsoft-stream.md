@@ -1,27 +1,28 @@
 ---
-title: שתף את סרטי הווידאו שלך ב-Microsoft Stream
+title: שיתוף סרטוני הווידאו שלך ב-Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 622431bc1a06a4f0f919df840320890f99f3eb01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44015762"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727316"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a><span data-ttu-id="81ef9-102">שתף את סרטי הווידאו שלך ב-Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="81ef9-102">Share your videos in Microsoft Stream</span></span>
+# <a name="share-your-videos-in-microsoft-stream"></a><span data-ttu-id="f27c1-102">שיתוף סרטוני הווידאו שלך ב-Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="f27c1-102">Share your videos in Microsoft Stream</span></span>
 
-<span data-ttu-id="81ef9-103">ייתכן שתרצה לשתף קטעי וידאו ב-Microsoft Stream עם אנשים שאין להם גישה אחרת.</span><span class="sxs-lookup"><span data-stu-id="81ef9-103">You may want to share videos in Microsoft Stream with people who don't otherwise have access.</span></span> <span data-ttu-id="81ef9-104">קיימות דרכים שונות לשיתוף סרטוני הווידאו שלך:</span><span class="sxs-lookup"><span data-stu-id="81ef9-104">There are various ways to share your videos:</span></span>
+<span data-ttu-id="f27c1-103">ייתכן שתרצה לשתף סרטוני וידאו ב-Microsoft Stream עם אנשים שאחרת אין להם גישה אליהם.</span><span class="sxs-lookup"><span data-stu-id="f27c1-103">You may want to share videos in Microsoft Stream with people who don't otherwise have access.</span></span> <span data-ttu-id="f27c1-104">קיימות דרכים שונות לשיתוף סרטוני הווידאו שלך:</span><span class="sxs-lookup"><span data-stu-id="f27c1-104">There are various ways to share your videos:</span></span>
 
-- [<span data-ttu-id="81ef9-105">שתף את סרטי הווידאו שלך ב-Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="81ef9-105">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
+- [<span data-ttu-id="f27c1-105">שיתוף סרטוני הווידאו שלך ב-Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="f27c1-105">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
 
-- [<span data-ttu-id="81ef9-106">הרשאות בסרטון</span><span class="sxs-lookup"><span data-stu-id="81ef9-106">Permissions on your video</span></span>](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
+- [<span data-ttu-id="f27c1-106">הרשאות בסרטון הווידאו</span><span class="sxs-lookup"><span data-stu-id="f27c1-106">Permissions on your video</span></span>](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
