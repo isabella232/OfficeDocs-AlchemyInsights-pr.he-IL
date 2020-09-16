@@ -1,24 +1,25 @@
 ---
-title: סנכרון מאפייני פרופיל
-ms.author: arnek
-author: arnek
+title: סינכרון מאפיין פרופיל
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 17e9882a-2341-459f-86d8-6ad8df3bef7e
-ms.openlocfilehash: fa9da0665ece868db6b0ac1c85d2ebacc0d65d14
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 55d2b25747fe0f6239c1bf9feb4ca79ada49c54a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768150"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768392"
 ---
-# <a name="profile-property-synchronization"></a>סנכרון מאפייני פרופיל
+# <a name="profile-property-synchronization"></a>סינכרון מאפיין פרופיל
 
-לא ניתן למפות מאפיינים נוספים ל-AD Import כדי להסתנכרן מתוך היישום ' מדריך הפרופיל של המשתמש '. ייבוא AD מוגבל לקבוצה מוגדרת מראש של מאפיינים כדי להבטיח ביצועים עקביים של משימת שעון העצר.
+לא ניתן למפות מאפיינים נוספים עבור ייבוא AD כדי לסנכרן מ-תכלת Active Directory ליישום פרופילי משתמשים. ייבוא AD מוגבל לקבוצת מאפיינים מוגדרת מראש כדי להבטיח ביצועים עקביים של משימת שעון העצר.
   
-[למד עוד אודות מאפייני הפרופיל המסונכרנים](https://go.microsoft.com/fwlink/?linkid=875671)
+[קבלת מידע נוסף אודות מאפייני הפרופיל המסונכרנים](https://go.microsoft.com/fwlink/?linkid=875671)
   
 
