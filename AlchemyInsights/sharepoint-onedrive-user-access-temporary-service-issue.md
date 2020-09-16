@@ -5,34 +5,35 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2dc0cd5f1641298853443d364eb9434ec1d9cd5a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 39ec9b746c47414f1cfaad1342491b8f33a47d6f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511149"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771245"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint או OneDrive איטי, לא נגיש או לא זמין עבור משתמשים מרובים
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint או OneDrive איטיים, לא נגישים או שאינם זמינים עבור משתמשים מרובים
 
-אם אתר OneDrive או SharePoint אינו זמין למשתמשים מרובים שהיו בעבר גישה, ייתכן שקיימת בעיית שירות זמנית. [בדוק את לוח המחוונים של תקינות השירות](https://portal.office.com/adminportal/home#/servicehealth).
+אם אתר OneDrive או SharePoint אינו זמין למשתמשים מרובים שהיו ברשותם גישה בעבר, ייתכן שקיימת בעיה של שירות זמני. [בדוק את לוח המחוונים של תקינות השירות](https://portal.office.com/adminportal/home#/servicehealth).
 
-**הוסף רישיון למשתמש**
+**הוספה ורשיון של המשתמש**
 
-ודא שאתה [מקצה רשיונות למשתמשים ב-Microsoft 365 עבור עסקים](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+ודא [שתקצה רשיונות למשתמשים ב-Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 
 **הקצאת הרשאות**
 
-אם המשתמש הוקצה לרשיון של Sharepoint ועדיין מקבל הודעה שנדחתה על-ידי הגישה, ודא שהוקצתה להם [רמת ההרשאה המתאימה](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .
+אם למשתמש הוקצה רשיון של Sharepoint והוא עדיין מקבל הודעת גישה שנדחתה, ודא שהוקצה לה [רמת הרשאה מתאימה](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .
 
-**שקול להשתמש בתכונת בקשת הגישה**
+**שקול להשתמש בתכונה ' בקשת גישה '**
 
-[תכונת בקשת הגישה](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) מאפשרת לאנשים לבקש גישה לתוכן שאין להם כרגע הרשאה לראותם.
+[התכונה ' בקשת גישה](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) ' מאפשרת לאנשים לבקש גישה לתוכן שאינו כולל כעת הרשאה לראות.
 
-**אפשר קובץ script מותאם אישית עלול לגרום לבעיות שנדחו על-ידי גישה**
+**אפשר סקריפט מותאם אישית עלול לגרום לבעיות של access שנדחו**
 
-קיימים תרחישים מסוימים בהם ייתכן שתכונת *הסקריפט המותאם אישית* מציגה גישה שנדחתה. לקבלת רשימה של תכונות מושפעות, שיקולי אבטחה והיכולת להשבית את התכונה. בקר [באפשרות אפשר או מנע script מותאם אישית](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+קיימים תרחישים מסוימים שבהם ייתכן שהתכונה ' *אפשר סקריפט מותאם אישית* ' מציגה גישה שנדחתה. לקבלת רשימה של תכונות מושפעות, שיקולי אבטחה ויכולת להפוך את התכונה ללא זמינה. בקר [באפשרות אפשר או מנע סקריפט מותאם אישית](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 

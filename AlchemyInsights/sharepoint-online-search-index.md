@@ -1,34 +1,35 @@
 ---
-title: חפש ב-SharePoint Online
+title: חיפוש ב-SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 85f29fabe3189fe248696155208b56d4901ab6de
-ms.sourcegitcommit: b5370f0fc8da1e7e5ac960cb622a21612a9c86be
+ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/29/2020
-ms.locfileid: "42341133"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770768"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>תוכן סריקה ויצירת אינדקס ב-SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>סריקת תוכן ויצירת אינדקס ב-SharePoint Online
 
-יש לסרוק את התוכן ולהוסיף אותו לאינדקס החיפוש כדי שהמשתמשים ימצאו את מה שהם מחפשים ב-SharePoint Online.
+יש לסרוק תוכן ולהוסיף אותו לאינדקס החיפוש כדי שהמשתמשים יוכלו למצוא את מה שהם מחפשים ב-SharePoint Online.
 
-- ודא שניתן למצוא תוכן על-ידי [הפיכת תוכן האתר לחיפוש](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- ודא שניתן למצוא את התוכן על-ידי [הפיכת תוכן אתר לניתן לחיפוש](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- לאחר ששינית מאפיין מנוהל, או כאשר שינית את המיפוי של מאפיינים סרוקים ומנוהלים, יש לסרוק מחדש את האתר לפני שהשינויים ישתקפו באינדקס החיפוש.
+- לאחר ששינית מאפיין מנוהל, או כאשר שינית את המיפוי של מאפיינים סרוקים ומנוהלים, יש לסרוק מחדש את האתר לפני שהשינויים יבואו באינדקס החיפוש.
 
-- לקבלת מידע נוסף, ראה [בקשה ידנית לסריקה וליצירת אינדקס מחדש של אתר, ספריה או רשימה](https://docs.microsoft.com/sharepoint/crawl-site-content).
+- לקבלת מידע נוסף, ראה [בקשה ידנית סריקה ויצירת אינדקס מחדש של אתר, ספריה או רשימה](https://docs.microsoft.com/sharepoint/crawl-site-content).
 
-- המתן 24 שעות לפחות לאחר בקשה ידנית לסריקה ולאינדקס מחדש מלא כדי לראות אם אתה עדיין נתקל בבעיה.
+- המתן 24 שעות לפחות לאחר בקשת סריקה מחדש של סריקה ומחזור מלא כדי לראות אם אתה עדיין נתקל בבעיה.
 
-- אם חלפו יותר מ -24 שעות מאז התחלת הסריקה והאינדקס החדש המלא, נא לרשום מקרה תמיכה. במקרים רבים, אנחנו כבר עובדים על פתרון. בבקשה תן לנו לפחות 24. שעות כדי להשלים פיתרון
+- אם חלפו יותר מ-24 שעות מאז שהפעלת את האינדקס החדש של הסריקה והחידוש המלא, הקלד תיק תמיכה. במקרים רבים, אנו כבר עובדים על פתרון. אנא תן לנו לפחות 24 שעות כדי להשלים פתרון.
 
-**חשוב**: אם אתר, מסמך (ספריה) או רשימה נמחקו ועדיין מוצגים בתוצאות החיפוש, על המשתמשים לקבל **שגיאה 404 קובץ לא נמצא** בעת ניסיון לגשת אליו. בעיה זו צריכה להירשם כמקרה תמיכה עבור חקירה נוספת.
+**חשוב**: אם אתר, מסמך (ספריה) או רשימה נמחקו והוא עדיין מוצג בתוצאות החיפוש, משתמשים אמורים לקבל **קובץ שגיאה 404 לא נמצא** בעת ניסיון לגשת אליו. יש לרשום בעיה זו כתיק תמיכה להמשך חקירה.
 
 
 

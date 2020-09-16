@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -12,22 +13,22 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: aecbf4043c6456ece73f7deed6b068040f0691a2
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 28867b71df5353dcee5cc3361742f10357a0efe1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068404"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771902"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint או OneDrive איטי, לא נגיש או לא זמין עבור משתמשים מרובים
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint או OneDrive איטיים, לא נגישים או שאינם זמינים עבור משתמשים מרובים
 
-SharePoint או OneDrive עשויים להיות איטיים, לא נגישים או לא זמינים, או שהשירות יציג שירות שאינו זמין או 503 שגיאות, ממספר סיבות:
+SharePoint או OneDrive עשויים להיות איטיים, בלתי נגישים או שאינם זמינים, או עשויים להציג שגיאות שאינן זמינות או 503, מכמה סיבות:
   
-- אם אתר SharePoint או OneDrive שלך איטי או מתעכב עבור משתמשים מרובים, ייתכן שקיימת בעיית שירות זמנית שבה משתמשים חווים עיכובים לסירוגין או שגיאות ניווט בעת גישה לאתרי SharePoint או לתוכן OneDrive. בדוק את [לוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.
+- אם האתר שלך ב-SharePoint או ב-OneDrive מתעכב או מעוכב עבור משתמשים מרובים, ייתכן שקיימת בעיה זמנית בשירות שבו משתמשים חווים עיכובים רציפים או שגיאות ניווט בעת גישה לאתרי SharePoint או לתוכן OneDrive. בדוק את [לוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.
   
-- משתמשים עלולים לקבל *שרת 503 הוא* שגיאה עמוסה בעת ניסיון לנווט אל אתרי SharePoint או onedrive. שגיאה זו עשויה להיגרם על-ידי ויסות בתוך שירות SharePoint. SharePoint Online משתמש בוויסות כדי לשמור על ביצועים ואמינות אופטימליים של שירות SharePoint Online. האפשרות ' ויסות ' מגבילה את מספר פעולות המשתמש או שיחות בו (לפי סקריפט או קוד) כדי למנוע שימוש יתר במשאבים. לקבלת מידע נוסף על ויסות לראות, [הימנע מקבלת נחנקו או חסום ב-SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+- משתמשים עשויים לקבל שגיאה של *503 server עמוסה* בעת ניסיון לנווט לאתרי SharePoint או OneDrive. שגיאה זו עשויה להיגרם כתוצאה מוויסות בשירות SharePoint. SharePoint Online משתמש בוויסות כדי לשמור על ביצועים ומהימנות אופטימליים של שירות SharePoint Online. ויסות מגביל את מספר פעולות המשתמש או מספר השיחות בו-זמנית (לפי script או קוד) כדי למנוע שימוש מופרז במשאבים. לקבלת מידע נוסף אודות ויסות, ראה [הימנעות מקבלת מצערת או חסומה ב-SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-- אם אתה נתקל בביצועים איטיים עם אתר או דף SharePoint **קלאסי** או **מודרני** , נצל את [כלי אבחון העמוד](https://aka.ms/perftool) כדי לנתח את הדפים.
+- אם אתה נתקל בביצועים איטיים באמצעות אתר או אתר SharePoint **קלאסי** או **מודרני** , השתמש [בכלי אבחון העמוד](https://aka.ms/perftool) כדי לנתח את העמודים.
   
-- אם אתה עדיין נתקל בביצועים איטיים כלליים, עיין במשאבים בחלק התחתון של מאמר זה: [מבוא לכיוונון ביצועים עבור SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- אם אתה עדיין נתקל בביצועים איטיים כלליים, עיין במשאבים בחלק התחתון של מאמר זה: [מבוא לכוונון ביצועים עבור SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

@@ -1,26 +1,27 @@
 ---
-title: SharePoint Online או OneDrive ' הגדרת '
+title: SharePoint Online או OneDrive ' הגדרה '
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 8798987db5e39e5f49aceac458ae985e2c3d6b21
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43787371"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770993"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online או OneDrive "הגדרת"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online או OneDrive "הגדרה"
 
-כאשר משתמש נוסף לדייר קיים, הם עשויים לראות את ה-SharePoint Online או OneDrive עבור הסמלים העסקיים המפורטים ברשימה "הגדרת" או "אנחנו עדיין עובדים על התקנת קבצים" עד שתהליך הקצאת ההקצאה הושלם. בצע את [מדריך פתרון התקלות](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) לקבלת עזרה.
+כאשר משתמש מתווסף לדייר קיים, הם עשויים לראות את הסמלים של SharePoint Online או OneDrive for Business המופיעים כ-"הגדרה" או "אנו עדיין עובדים על קבלת התקנת קבצים" עד להשלמת תהליך ההקצאה. בצע [מדריך לפתרון בעיות](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) זה לקבלת עזרה.
 
-אם חלפו יותר מ -24 שעות מאז שראית בעיה זו בפעם הראשונה, נא לרשום מקרה תמיכה.
+אם חלפו יותר מ-24 שעות מאז שראית בעיה זו לראשונה, התחבר למקרה התמיכה.
 
-אנחנו מבינים ש -24 שעות. נראה כמו זמן רב במקרים רבים, אנחנו כבר עובדים על פתרון. בבקשה תן לנו לפחות 24. שעות כדי להשלים פיתרון
+אנו מבינים ש-24 שעות עשויות להיראות כזמן רב. במקרים רבים, אנו כבר עובדים על פתרון. אנא תן לנו לפחות 24 שעות כדי להשלים פתרון.
