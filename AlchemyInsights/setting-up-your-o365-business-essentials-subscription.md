@@ -1,37 +1,38 @@
 ---
-title: הגדרת המנוי שלך ליסודות עסקיים O365
-ms.author: v-crytho
+title: הגדרת מנוי של O365 Business Essentials
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: fc17d73ccdddab7e1c9e7693f6715b38efef7f56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509349"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740116"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>הגדרת המנוי שלך ליסודות עסקיים O365
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>הגדרת מנוי של O365 Business Essentials
 
-צור חשבונות Microsoft 365 והוסף את התחום שלך
+יצירת חשבונות Microsoft 365 והוספת התחום שלך
   
-- בשלב זה, אתה משתמש באשף ההתקנה כדי ליצור חשבונות של Microsoft 365 עבור המשתמשים שלך ולהוסיף תחום משלך. האשף מאפשר לך להתאים אישית את מזהה המשתמש של כולם ודוא ל עבור העסק שלך, כמו [rob@contoso.com](mailto:rob@contoso.com).
+- בשלב זה, עליך להשתמש באשף ההגדרה כדי ליצור חשבונות Microsoft 365 עבור המשתמשים שלך ולהוסיף תחום משלך. האשף מאפשר לך להתאים אישית את מזהה המשתמש והדואר האלקטרוני של כולם עבור העסק שלך, כגון [rob@contoso.com](mailto:rob@contoso.com).
     
 - עבור אל [מרכז הניהול של Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- כדי להפעיל את האשף, בחר **עבור להגדרה**. כדי ללמוד עוד, ראה [הוספת תחום ל-Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
+- כדי להפעיל את האשף, בחר **עבור להגדרה**. לקבלת מידע נוסף, ראה [הוספת תחום ל-Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 ייבוא דואר אלקטרוני
   
-- העבר את הדואר האלקטרוני ואנשי הקשר הקיימים ממערכות דואר אלקטרוני אחרות לתיבת הדואר של Microsoft 365 כדי שתוכל לראות הכל במקום אחד. עבור אפשרויות הגירה, העבר [דואר אלקטרוני ואנשי קשר ל-Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
+- העבר את הדואר האלקטרוני ואנשי הקשר הקיימים שלך ממערכות דואר אלקטרוני אחרות לתיבת הדואר שלך ב-Microsoft 365 כדי שתוכל לראות את הכל במקום אחד. לקבלת אפשרויות העברה, [העברת דואר אלקטרוני ואנשי קשר אל Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
-- חבר חשבונות דואר אלקטרוני
+- חיבור חשבונות דואר אלקטרוני
     
-  - בנוסף לניהול הדוא ל שלך ב-Outlook, אתה יכול לחבר חשבונות דואר אלקטרוני אחרים ל-Outlook, גם, כמו שלך Gmail ו יאהו חשבונות. כך תוכל לנהל את כל הדואר האלקטרוני במקום אחד. באפשרותך לחבר עד חמישה חשבונות דואר אלקטרוני ל- Outlook. ראה [חיבור חשבונות דואר אלקטרוני ב-Outlook באינטרנט (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) לקבלת פרטים נוספים. 
+  - בנוסף לניהול הדואר האלקטרוני שלך ב-Outlook, באפשרותך גם לחבר חשבונות דואר אלקטרוני אחרים ל-Outlook, כגון חשבונות Gmail ו-Yahoo שלך. כך תוכל לנהל את כל הדואר האלקטרוני במקום אחד. באפשרותך לחבר עד חמישה חשבונות דואר אלקטרוני ל- Outlook. ראה [חיבור חשבונות דואר אלקטרוני ב-Outlook באינטרנט (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) לקבלת פרטים נוספים. 
     
 התקנת Skype for Business
   
@@ -39,8 +40,8 @@ ms.locfileid: "44509349"
     
 אחסון קבצים באופן מקוון
   
-- כדי ללמוד אילו מיקומי אחסון הם הטובים ביותר עבור העסק שלך, ראה [היכן באפשרותך לאחסן קבצים ב-Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). כולם מקבלים מיקום אחסון של ענן **כונן onedrive** באופן אוטומטי בעת יצירת חשבונות Microsoft 365 עבורם. עם OneDrive, תוכל לגשת לקבצים בכל המחשבים, מכשירי הטלפון ומחשבי ה- Tablet שלך. 
+- לקבלת מידע על מיקומי האחסון הטובים ביותר עבור העסק שלך, ראה [היכן ניתן לאחסן קבצים ב-Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). כל אחד מקבל מיקום אחסון בענן של **OneDrive** באופן אוטומטי בעת יצירת חשבונות Microsoft 365 עבורם. עם OneDrive, תוכל לגשת לקבצים בכל המחשבים, מכשירי הטלפון ומחשבי ה- Tablet שלך. 
     
-ניתן למצוא שלבים מפורטים עבור ההתקנה [במאמר זה](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
+ניתן למצוא שלבים מפורטים עבור ההגדרה [במאמר זה](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 
