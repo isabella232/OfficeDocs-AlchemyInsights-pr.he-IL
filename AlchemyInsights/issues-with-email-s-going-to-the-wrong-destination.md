@@ -1,22 +1,23 @@
 ---
-title: 324 בעיות עם דוא ל (עם) הולך ליעד הלא נכון
+title: בעיות של 324 עם דואר אלקטרוני מגיעות ליעד שגוי
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 324
 ms.assetid: 5f6ae28e-cd87-4265-9ad4-d13c201c12da
-ms.openlocfilehash: f7ab266b363c9e7df7de9208720558fea1ed6e37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 719d6f0c8d33056d93dbfad6f2f32b3949ab1011
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716281"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769796"
 ---
-# <a name="email-messages-are-going-to-the-wrong-destination"></a>הודעות דואר אלקטרוני הולכים ליעד שגוי
+# <a name="email-messages-are-going-to-the-wrong-destination"></a>הודעות דואר אלקטרוני עוברות ליעד שגוי
 
-זה נראה כאילו יש לך. בעיית זרימת דואר יש לנו אבחון שיסייע לזהות בעיות נפוצות בזרימת הדואר. לחץ על **הפעל אבחון** להלן.
+נראה שאתה מעוניין בבעיית זרימת דואר. יש לנו אבחון שיעזור לזהות בעיות נפוצות רבות בזרימת הדואר. לחץ על **הרצת אבחון** להלן.
