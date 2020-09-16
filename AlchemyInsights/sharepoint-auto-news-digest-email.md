@@ -1,30 +1,31 @@
 ---
-title: דוא ל לתקציר אוטומטי של SharePoint
+title: דואר אלקטרוני של תקציר אוטומטי של SharePoint
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: fbca2ef975b46451c833bcc2691e008a9d82c28f
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44847054"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751172"
 ---
-# <a name="sharepoint-auto-digest-email"></a>דוא ל לתקציר אוטומטי של SharePoint
+# <a name="sharepoint-auto-digest-email"></a>דואר אלקטרוני של תקציר אוטומטי של SharePoint
 
-' תקציר החדשות של SharePoint אוטומטי ' שולח דואר אלקטרוני אוטומטי למשתמשים בחברה שלך אודות הודעות החדשות העדכניות ביותר שהן עדיין לא נקראו שרלוונטיות להן.
+תקציר של החדשות האוטומטיות של SharePoint שולח הודעת דואר אלקטרוני אוטומטית למשתמשים בחברה שלך לגבי רשומות החדשות האחרונות שעדיין לא קראו להן רלוונטיות.
 
-למידע נוסף נא לבקר[https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+לקבלת מידע נוסף, בקר באתר [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- 365 מזהה מפת הדרכים של Microsoft: [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- עיתוי: לקוחות שחרור ממוקד **באמצע יולי (בעבר יוני** והושלם עבור כל הלקוחות עד **אמצע אוגוסט (בעבר בתחילת אוגוסט)**.
-- מתגלגל: רמת המשתמש מתגלגל
-- סוג פקד: שליטה במשתמש, * * בקרת מנהל דרך PowerShell (בקרוב)
+- מזהה מפת דרכים של Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- עיתוי: לקוחות ההפצה הייעודיים  **באמצע יולי (בעבר ביוני**  והושלמו עבור כל הלקוחות עד  **אמצע אוגוסט (בעבר בתחילת אוגוסט)**.
+- סיכום: שחזור רמת המשתמש
+- סוג פקד: בקרת משתמשים, * * ניהול שליטה באמצעות PowerShell (בקרוב)
