@@ -1,26 +1,27 @@
 ---
-title: עדכון רשומות DNS בבלומארסט
+title: עדכון רשומות DNS ב-Bluehost
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5820"
-ms.openlocfilehash: ceaa1901b2ab3cabd3df055815270d1c1471542f
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: a3468ea65de7c1a8b7469ef4859d1c832e16c821
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707864"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657718"
 ---
-# <a name="update-dns-records-at-bluehost"></a>עדכון רשומות DNS בבלומארסט
+# <a name="update-dns-records-at-bluehost"></a>עדכון רשומות DNS ב-Bluehost
 
-השתמש בקישורים שלהלן כדי לסייע בעדכון רשומות ה-DNS.
+השתמש בקישורים הבאים כדי לסייע בעדכון רשומות ה-DNS שלך.
 
-- [יצירת רשומות DNS בבלומארסט](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
+- [יצירת רשומות DNS ב-Bluehost](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-bluehost?view=o365-worldwide)
 - [הוספה או עריכה של רשומות DNS מותאמות אישית ב- Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

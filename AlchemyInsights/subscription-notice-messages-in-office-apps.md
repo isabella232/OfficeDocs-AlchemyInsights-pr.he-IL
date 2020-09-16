@@ -1,24 +1,25 @@
 ---
-title: הודעות התראה בנוגע למנוי באפליקציות Office
+title: הודעות הודעת מנוי ביישומי Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 964059ea464ac9d796731e943cb1d814743524a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789195"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47659239"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>הודעות התראה בנוגע למנוי באפליקציות Office
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>הודעות הודעת מנוי ביישומי Microsoft 365
 
 - אם Office הותקן מראש במכשיר החדש שלך, ראה [הפעל את Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) לקבלת עזרה בהפעלת Office במכשיר החדש שלך.
 
@@ -32,7 +33,7 @@ ms.locfileid: "43789195"
 
 - הפעל את [פותר בעיות ההפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy) והפעל מחדש את המחשב.
 
-- במחשב המושפע, [אפס את מצב ההפעלה של Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- במחשב המושפע, [אפס את מצב ההפעלה של Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 לקבלת הוראות מפורטות, ראה: 
 

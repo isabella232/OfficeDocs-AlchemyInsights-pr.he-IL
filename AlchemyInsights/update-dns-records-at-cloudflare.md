@@ -1,26 +1,27 @@
 ---
-title: עדכון רשומות DNS בענן העראור
+title: עדכון רשומות DNS ב-Cloudflare
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5807"
-ms.openlocfilehash: 73e143cbb62937ade55fe9f7fa260e0f897f8bb3
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 2faa5c37b57e4c49da2cdd212e1bebba76276eb1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650389"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657682"
 ---
-# <a name="update-dns-records-at-cloudflare"></a>עדכון רשומות DNS בענן העראור
+# <a name="update-dns-records-at-cloudflare"></a>עדכון רשומות DNS ב-Cloudflare
 
-השתמש בקישורים שלהלן כדי לסייע בעדכון רשומות ה-DNS.
+השתמש בקישורים הבאים כדי לסייע בעדכון רשומות ה-DNS שלך.
 
-- [יצירת רשומות DNS בענן העראור](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare?view=o365-worldwide)
+- [יצירת רשומות DNS ב-Cloudflare](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare?view=o365-worldwide)
 - [הוספה או עריכה של רשומות DNS מותאמות אישית ב- Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

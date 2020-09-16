@@ -1,54 +1,55 @@
 ---
-title: פתרון בעיות בפריסת אישור של אימות לקוח
+title: פתרון בעיות בפריסה של אישורי אימות לקוח
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: 698329d7705af320c9f679b92532b58ac84e6624
-ms.sourcegitcommit: e90b918f02102cd9764881c2d8c914567c6b070e
+ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46555309"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658987"
 ---
-# <a name="troubleshooting-client-authentication-certificate-deployment"></a>פתרון בעיות בפריסת אישור של אימות לקוח
+# <a name="troubleshooting-client-authentication-certificate-deployment"></a>פתרון בעיות בפריסה של אישורי אימות לקוח
 
-פרופילי אישורי לקוח Intune NDES/SCEP ו-PKCS/PFX משמשים בדרך כלל בשילוב עם סוגי פרופילים אחרים כגון Wifi, VPN ודוא ל כדי לאפשר למשתמשים לבצע אימות למשאבי החברה. כאשר סוגי פרופילים אלה מקושרים לפרופיל של אישור לקוח תלויים בפריסה המוצלחת של פרופיל זה.
+פרופילי אישורי לקוח של NDES/SCEP ו-PKCS/PFX משמשים בדרך כלל בשילוב עם סוגי פרופילים אחרים כגון Wifi, VPN ודואר אלקטרוני כדי לאפשר למשתמשים לבצע אימות למשאבי חברה. כאשר סוגי פרופילים אלה מקושרים לפרופיל אישור לקוח, תלויים הפריסה המוצלחת של פרופיל זה.
 
-הגדרת תשתית ראשונית ותצורה משויכת של הפרופיל של אישור הלקוח דורשות לעתים קרובות פתרון בעיות. לקבלת מדריך שלב אחר שלב לכיוונון מוצלח של מחבר NDES ולפתרון בעיות הדרכה לבידוד בעיות בפריסת האישורים, ראה: 
+הגדרת התשתית הראשונית והתצורה המשויכת של פרופיל אישורי לקוח דורשים לעתים קרובות פתרון בעיות. לקבלת מדריך שלב-אחר-שלב להגדרה מוצלחת של מחבר NDES והדרכה לפתרון בעיות כדי לבודד בעיות בפריסת אישורים, ראה: 
 
-- [קביעת תצורה של תשתית לתמיכה ב-SCEP עם Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
-- [סקירה כללית של פתרון בעיות בפרופילי אישורים של SCEP עם Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+- [קביעת תצורה של תשתית לתמיכה ב-SCEP באמצעות ' כוונון '](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
+- [מבט כולל לפתרון בעיות של פרופילי אישורים SCEP עם Microsoft intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-השתמש בסקריפטים שאליהם מפנה powershell כדי לסייע באימות התצורה. לקבלת מידע נוסף, ראה [Intune סקריפטים לאימות מחבר אישור](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
+השתמש בקבצי ה-script של powershell שאליהם הפניה כדי לסייע באימות התצורה שלך. לקבלת מידע נוסף, ראה [שלחן סקריפטים של אימות מחבר אישור](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
 
   
-**סוגיות נפוצות אחרות**
+**בעיות נפוצות אחרות**
 
-**כאשר אני מנסה להתקין את מחבר האישור Intune בשרת המחבר NDES, אני מקבל את ההודעה "אין אפשרות לאמת את הסיסמה בבקשת האישור. . ייתכן שכבר השתמשו בו השג סיסמה חדשה לשליחה באמצעות בקשה זו. "**  
+**כאשר אני מנסה להתקין את מחבר אישור ה-intune בשרת מחבר NDES, אני מקבל את ההודעה "אין אפשרות לאמת את הסיסמה בבקשת האישור. ייתכן שכבר נעשה בה שימוש. קבל סיסמה חדשה לשליחה באמצעות בקשה זו.**  
 
-הודעה זו פירושה שעליך להפעיל את התקנת מחבר האישורים כמנהל.
+הודעה זו משמעותה שעליך להפעיל את התקנת מחבר האישורים כמנהל מערכת.
 
-בסביבות מסוימות, השרתים שבהם האישור Intune פועל חייבים להשתמש בשרת proxy כדי להתחבר ל-Intune ולכן מחבר האישורים חייב להשתמש ב-proxy. בנסיבות מסוימות, מחבר NDES מתעלם מהגדרות ה-proxy שהוגדרו וייתכן שיהיה צורך לקבוע את תצורת הגדרות ה-proxy בעת הפעלה בהקשר האבטחה של LocalSystem. 
+בסביבות מסוימות, השרתים שבהם מופעל אישור ה-intune חייב להשתמש בשרת proxy כדי להתחבר למנגינה, ולכן מחבר האישור חייב להשתמש ב-proxy. בנסיבות מסוימות, מחבר NDES מתעלם מהגדרות ה-proxy שהוגדרו, וייתכן שיהיה צורך לקבוע את התצורה של הגדרות ה-proxy בעת הפעלת ההקשר הביטחוני של LocalSystem. 
  
-הפתרון הוא להפעיל את Internet Explorer כמערכת ולהגדיר proxy ב-IE. לאחר הפעלה מחדש של שירות מחבר Intune, מחבר NDES מתחבר לIntune.
+הפתרון הוא להפעלת Internet Explorer כמערכת ולקביעת התצורה של proxy ב-IE. לאחר הפעלה מחדש של שירות מחבר המנגינה, מחבר NDES מתחבר לכיוון המנגינה.
 
-**התקני משתמש אינם מקבלים עוד אישורי SCEP מ-NDES.**
+**התקני משתמשים אינם מקבלים עוד אישורי SCEP מ-NDES.**
 
-ייתכן שאישור אימות הלקוח הונפק לשרת NDES ושצוין במהלך התקנת מחבר NDES, פג תוקפו או שחסר. כדי לפתור: 
+ייתכן שאישור אימות הלקוח הונפק לשרת NDES, ושצוין במהלך התקנת מחבר NDES, פג תוקפו או חסר. כדי לפתור: 
  
-1. הסר את ההתקנה של מחבר NDES.  
-2. השתמש בפרטים אלה כדי לבקש אימות חדש של לקוח או אישור אימות שרת: 
+1. הסר את התקנת מחבר NDES.  
+2. השתמש בפרטים אלה כדי לבקש אישור חדש לגבי אימות לקוח או אימות שרת: 
  
-    - שם הנושא: CN = fqdn חיצוני  
-    - שם חלופי של נושא (שניהם נדרשים): DNS = fqdn חיצוני, DNS = fqdn פנימי 
+    - שם הנושא: CN = fqdn החיצוני  
+    - שם חלופי של נושא (שניהם נדרשים): DNS = fqdn החיצוני, DNS = fqdn הפנימי 
  
-3. התקן מחדש את מחבר NDES באישור החדש.
+3. התקן מחדש את מחבר NDES באמצעות האישור החדש.
