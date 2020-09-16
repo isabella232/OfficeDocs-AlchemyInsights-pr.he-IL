@@ -1,36 +1,37 @@
 ---
-title: פתרונות לבעיות בסביבת התקנת משרד בשרת מסופים
+title: פתרונות לבעיות סביב התקנת office בשרת מסופים
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: cc2d2b1a5c73e729a67b1e6f36fdcff2125541ca
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: df1a50031196fbd79662cee620fc41c7be14e179
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010903"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738458"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>פתרונות לבעיות בסביבת התקנת משרד בשרת מסופים
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>פתרונות לבעיות סביב התקנת office בשרת מסופים
 
-כדי להשתמש בהפעלה משותפת של המחשב, עליך להיות בעל מנוי הכולל את Microsoft 365 Apps עבור הארגון.
+כדי להשתמש בהפעלת מחשב משותף, דרוש לך מנוי הכולל את יישומי Microsoft 365 for enterprise.
   
-- ודא שהפעלה משותפת של המחשב מופעלת
+- בדיקה שהפעלת מחשב משותף זמינה
 - ודא שההפעלה הצליחה
-- סקור הודעות שגיאה עבור הפעלת מחשב משותף:
-- "אין אפשרות להשתמש במוצרים שמצאנו בחשבון שלך כדי להפעיל את Office בתרחישי מחשב משותפים"
+- סקירת הודעות שגיאה עבור הפעלת מחשב משותפת:
+- "אין אפשרות להשתמש במוצרים שמצאנו בחשבון שלך כדי להפעיל את Office בתרחישים משותפים של מחשב"
   
-שגיאה זו משמעותה שאין ברשותך מנוי הכולל את Microsoft 365 Apps עבור הארגון.
+שגיאה זו משמעה שאין לך מנוי הכולל יישומי Microsoft 365 for enterprise.
 
-"מוצר לא מורשה"
+"מוצר ללא רשיון"
 
-- בדוק כי המשתמש מוקצה רישיון עבור Microsoft 365 Apps עבור הארגון.
-- בדוק שהמשתמש מסמן את חשבון המשתמש שלהם.
-- ודא שקיימת קישוריות בין המחשב המשותף לבין האינטרנט.
+- ודא שלמשתמש הוקצה רשיון עבור יישומי Microsoft 365 עבור enterprise.
+- ודא שהמשתמש נכנס באמצעות חשבון המשתמש שלו.
+- ודא שיש קישוריות בין המחשב המשותף לבין האינטרנט.
 
-לקבלת עצות נוספות לפתרון בעיות, ראה: [פתרון בעיות בהפעלה משותפת של מחשב](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
+לקבלת עצות נוספות לפתרון בעיות, ראה: [פתרון בעיות בהפעלת מחשב משותף](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)

@@ -5,35 +5,36 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: bd2e8cb204edd7135fc34ef0d42ac8259434d37d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582740"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737954"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>הצעות לפתרון שגיאות "מוצר לא מורשה"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>הצעות לפתרון שגיאות "מוצר ללא רשיון"
 
-כדי לפתור שגיאות אודות "מוצר לא מורשה", נסה את הפעולות הבאות:
+כדי לפתור שגיאות אודות "מוצר ללא רשיון", נסה את הפעולות הבאות:
 
-- בדוק אם מצב המנוי שלך פג.
-- ודא שיש לך מנוי המאפשר רשיונות לקוח, כגון Microsoft 365 Apps לעסקים או לפרמיה עסקית, [וודא שהוקצה למשתמש רשיון](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
-- ודא שהמשתמש מבצע כניסה ל-Office עם אותו חשבון שהוקצה לו הרשיון.
-- בדוק את [דף התקינות של השירות](https://docs.microsoft.com/office365/enterprise/view-service-health) כדי לראות אם יש בעיות ידועות בשירות.
-- בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות ה-proxy כדי לוודא שהן אינן חוסמות את הגישה של Microsoft 365 ליישומים לאינטרנט. ראה [כתובות url וטווחי כתובות IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- בדוק אם תוקפו של מצב המנוי פג.
+- ודא שיש לך מנוי המאפשר רשיונות לקוח, כגון יישומי Microsoft 365 for business או Business Premium, [וודא שהמשתמש הוקצה לו רשיון](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
+- ודא שהמשתמש כניסה ל-Office באמצעות אותו חשבון שהוקצה לו הרשיון.
+- בדוק את [דף תקינות השירות](https://docs.microsoft.com/office365/enterprise/view-service-health) כדי לבדוק אם קיימות בעיות ידועות בשירות.
+- בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות ה-proxy כדי לוודא שהם אינם חוסמים את הגישה לאינטרנט באפליקציות של Microsoft 365. ראה [כתובות url וטווחי כתובות IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-ניתן גם לנסות את הפעולות הבאות לפתרון בעיות: 
+ייתכן שתנסה גם את הפעולות הבאות לפתרון בעיות: 
 
-- פתח יישום Office [והיכנס](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) מחשבונות משתמשים קיימים. [הסר](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) [והקצה מחדש](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) את רשיון Office ולאחר מכן [היכנס ל-Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) באמצעות חשבון המשתמש המושפע.
-- הפעל את [פותר בעיות ההפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy).
+- פתח יישום של Office [וצא](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) מחשבונות משתמשים קיימים. [הסר](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) [והקצה מחדש](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) את רשיון Office ולאחר מכן [היכנס ל-office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) באמצעות חשבון המשתמש המושפע.
+- הפעלת [פותר בעיות ההפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy).
 - [איפוס מצב ההפעלה של Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
-- [בצע תיקון מקוון של Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
+- [ביצוע תיקון מקוון של Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
 לפתרונות נוספים, ראה: 
 
