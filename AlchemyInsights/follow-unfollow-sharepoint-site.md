@@ -1,25 +1,26 @@
 ---
-title: הפעל או בטל את המעקב אחר אתר SharePoint
+title: מעקב או ביטול מעקב אחר אתר SharePoint
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5b2a44422cc49b0f0e20a7ddd802a661d4fadc5e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720927"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744423"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>הפעל או בטל את המעקב אחר אתר SharePoint
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>מעקב או ביטול מעקב אחר אתר SharePoint
 
-אם משתמשים חווים בעיות הבאות או שאינן מבאות לאחר משאבי SharePoint, השלם את הצעדים הבאים:
+אם המשתמשים נתקלים בבעיות במעקב או במעקב אחר משאבי SharePoint, בצע שלבים אלה:
 
-* בקש מהמשתמש להירשם ולהיכנס לתוך SharePoint ולנסות את אותם השלבים שבהם יש לבצע/לבטל את הטיפול במשאב SharePoint.
-* קבע אם הבעיה היא באתר מסוים או בכל האתרים. אם הבעיה מתרחשת באתרים מסוימים, ודא כי התכונה "התוכן הבא" פעילה עבור האתר על-ידי מעקב אחר **הגדרות האתר _ שניהול תכונות אתר _ Gt_ התוכן הבא**. אם התכונה מוגדרת כ-Active, נסה לנתק ולהפעיל שוב את התכונה עבור האתר.
-* בקש מהמשתמש לנסות דפדפן אינטרנט אחר כדי לראות אם הבעיה היא ספציפית לדפדפן של המשתמש.
-* אם כל המשתמשים וכל האתרים נתקלים באותה בעיה, בדוק את [לוח הבקרה של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.
+* בקש מהמשתמש להיכנס ולהיכנס שוב ל-SharePoint ונסה את אותם שלבים למעקב/ביצוע של משאב SharePoint.
+* קבע אם הבעיה היא באתר ספציפי או בכל האתרים. אם הבעיה מתעוררת עם אתרים ספציפיים, ודא שהתכונה "התוכן העוקב" פעילה עבור האתר על-ידי מעבר אל **הגדרות האתר _GT_ ניהול תכונות האתר > התוכן הבא**. אם התכונה מוגדרת כפעילה, נסה להפעיל ולהפעיל שוב את התכונה עבור האתר.
+* בקש מהמשתמש לנסות דפדפן אינטרנט אחר כדי לראות אם הבעיה ספציפית לדפדפן של המשתמש.
+* אם כל המשתמשים וכל האתרים חווים את אותה בעיה, סמן את [לוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק אם הארגון שלך מושפע.

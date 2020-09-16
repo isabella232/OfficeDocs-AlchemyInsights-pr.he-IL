@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001715"
 - "3799"
-ms.openlocfilehash: ae9d45741f5bdd8ab6df1bc35c51663f7b937a47
-ms.sourcegitcommit: 6df4460313ca033d18b59669506de1dbb7482ef9
+ms.openlocfilehash: 4b25ae4adb7411d721c4749e9e696b2f0dbcca1f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573516"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745275"
 ---
 # <a name="find-the-page-that-shows-my-contacts"></a>חיפוש הדף המציג את אנשי הקשר שלי
 
-אתה יכול לחפש את אנשי הקשר שלך באותו אופן שבו אתה מחפש את האימיילים שלך.
+באפשרותך לחפש את אנשי הקשר שלך באותו אופן שבו אתה מחפש את הודעות הדואר האלקטרוני שלך.
  
-הקש על סמל החיפוש מזכוכית מגדלת, ולאחר מכן הקלד את בקשת החיפוש של אנשי הקשר שלך בתיבה שבראש המסך. (**Protip**: ניתן להקיש פעמיים על זכוכית מגדלת כדי להביא מיקוד לתיבת החיפוש.) התוצאות יופיעו במקטע ' אנשי קשר '.
+הקש על סמל חיפוש זכוכית מגדלת ולאחר מכן הקלד את בקשת החיפוש של איש הקשר בתיבה בחלק העליון של המסך. (**Protip**: באפשרותך להקיש פעמיים על הזכוכית המגדלת כדי להעביר את המוקד לתיבת החיפוש.) התוצאות יופיעו במקטע אנשי קשר.
