@@ -6,18 +6,19 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000046"
 - "2507"
-ms.openlocfilehash: 9fe1902043a42f7e0ce6aa5214501f9d52e7af19
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ca4d0bb958c26a602a0e044e9b97a05d59c14537
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760773"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752972"
 ---
-# <a name="unable-to-print"></a><span data-ttu-id="62780-102">לא ניתן להדפיס</span><span class="sxs-lookup"><span data-stu-id="62780-102">Unable to print</span></span>
+# <a name="unable-to-print"></a><span data-ttu-id="ec8e8-102">לא ניתן להדפיס</span><span class="sxs-lookup"><span data-stu-id="ec8e8-102">Unable to print</span></span>
 
-<span data-ttu-id="62780-103">אנו מודעים לבעיה שבה משתמשים מסוימים אינם יכולים להדפיס בעת שימוש בדפדפני Safari או Edge.</span><span class="sxs-lookup"><span data-stu-id="62780-103">We're aware of an issue where some users can't print when using Safari or Edge browsers.</span></span> <span data-ttu-id="62780-104">בזמן שאנחנו עובדים על תיקון עבור זה, בבקשה להשתמש בדפדפן אחר.</span><span class="sxs-lookup"><span data-stu-id="62780-104">While we work on a fix for this, please use another browser.</span></span> <span data-ttu-id="62780-105">אנו מתנצלים על אי-הנוחות.</span><span class="sxs-lookup"><span data-stu-id="62780-105">We apologize for the inconvenience.</span></span>
+<span data-ttu-id="ec8e8-103">אנו מודעים לבעיה שבה חלק מהמשתמשים אינם יכולים להדפיס בעת שימוש בדפדפני Safari או בדפדפני קצה.</span><span class="sxs-lookup"><span data-stu-id="ec8e8-103">We're aware of an issue where some users can't print when using Safari or Edge browsers.</span></span> <span data-ttu-id="ec8e8-104">בזמן שאנו עובדים על תיקון עבור פעולה זו, השתמש בדפדפן אחר.</span><span class="sxs-lookup"><span data-stu-id="ec8e8-104">While we work on a fix for this, please use another browser.</span></span> <span data-ttu-id="ec8e8-105">אנו מתנצלים על אי-הנוחות.</span><span class="sxs-lookup"><span data-stu-id="ec8e8-105">We apologize for the inconvenience.</span></span>
