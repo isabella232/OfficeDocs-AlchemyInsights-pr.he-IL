@@ -1,30 +1,31 @@
 ---
-title: פתרון בעיות עם הגנת האיום המתקדם של Office 365 (ATP)
+title: פתרון בעיות בנושא הגנת האיום המתקדמת של Office 365 (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511113"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758066"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>פתרון בעיות באמצעות Office 365 ATP
 
-- **הודעה על עיכובים במסירת הודעת דואר אלקטרוני**? נסה להשתמש באפשרות ' מסירה דינאמית ' עבור מדיניות הקבצים המצורפים של ATP. פעולה זו תמנע עיכובים בהעברת הודעות דואר אלקטרוני תוך הגנה על נמענים מפני קבצים זדוניים.
-- **האם ברצונך לדווח על תוצאות חיוביות שגויות או על שליליות שווא**? השתמש בקישור זה כדי לשלוח את הקובץ לניתוח:https://microsoft.com/wdsi/filesubmission
-- **האם ידעת שבאפשרותך לאפשר הגנה מפני קישורים בטוחים של ATP עבור דואר אלקטרוני שנשלח בין אנשים בארגון שלך**? בצע שלבים אלה:
-    1. . קדימה https://protection.office.com , ותחתמי
-    2. עבור אל מדיניות **ניהול האיום**  >  **Policy**  >  **קישורים בטוחים**.
+- **העברת הודעות באמצעות העברת הודעות דואר אלקטרוני**? נסה להשתמש באפשרות המסירה הדינאמית עבור מדיניות הקבצים המצורפים הבטוחים של ATP. פעולה זו תמנע עיכובים במסירת הודעות דואר אלקטרוני תוך הגנה על נמענים מקבצים זדוניים.
+- **האם ברצונך לדווח על חיובים שקריים או על נגטיב שווא**? השתמש בקישור זה כדי לשלוח את הקובץ לניתוח: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **האם ידעת שניתן להפעיל הגנה על קישורים בטוחים של ATP עבור דואר אלקטרוני שנשלח בין אנשים בארגון שלך**? בצע שלבים אלה:
+    1. עבור אל https://protection.office.com והיכנס.
+    2. עבור אל **Threat management**  >  קישורים בטוחים**של מדיניות**ניהול איום  >  **Safe Links**.
     3. תחת **פריטי מדיניות החלים על נמענים ספציפיים**, ערוך (או הוסף) מדיניות.
     4. בחר באפשרות **החל קישורים בטוחים על הודעות הנשלחות בתוך הארגון**.
-    5. שמור את המדיניות שלך והמתן 30 דקות לשינויים שביצעת כדי לעבוד דרך מרכז הנתונים.
-- כדי לקבל עזרה נוספת ב-ATP, ראה [הגנת האיום המתקדמת של Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+    5. שמור את המדיניות, והמתן כ-30 דקות כדי שהשינויים יתבצעו דרך מרכז הנתונים שלך.
+- כדי לקבל עזרה נוספת עם ATP, ראה [הגנת האיום המתקדמת של Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).

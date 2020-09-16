@@ -1,10 +1,11 @@
 ---
-title: האם לבטל את המנוי?
+title: מבטל את המנוי שלך?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: bf86d0f3f01221211b7759a0f874ef9c6758a276
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 429dfe3d66fb37a62e2355084cd30c5e4fe16e71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508161"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757337"
 ---
-# <a name="canceling-your-subscription"></a>האם לבטל את המנוי?
+# <a name="canceling-your-subscription"></a>מבטל את המנוי שלך?
 
-אנחנו מצטערים לראות אותך הולך, אבל אם אתה רוצה לבטל את המנוי שלך, הנה האפשרויות שלך:
+אנו נצטער לראות אותך, אך אם ברצונך לבטל את המנוי שלך, להלן האפשרויות הבאות:
   
-- אם אתה לקוח ניסיון, אין מה לבטל. תוקפם של מנויי ניסיון יפוג באופן אוטומטי אלא אם תספק שיטת תשלום.
+- אם אתה לקוח ניסיון, אין מה לבטל. תוקף מנויי ניסיון יפוג באופן אוטומטי, אלא אם כן אתה מספק שיטת תשלום.
 
-- אם ברשותך פחות מ-25 רשיונות מוקצים, באפשרותך לבטל את המנוי שלך באופן מקוון. עבור אל דף **החיוב** של \> [**המוצרים שלך**](https://go.microsoft.com/fwlink/p/?linkid=842054) . במקטע **הגדרות _ Amp_ Actions** , בחר **בביטול מנוי**.
+- אם יש לך פחות מ-25 רשיונות מוקצים, באפשרותך לבטל את המנוי שלך באופן מקוון. עבור לדף ' **חיוב** \> **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** '. במקטע **Settings _AMP_ actions** , בחר **ביטול מנוי**.
 
-- אם יש לך יותר מ -25 רשיונות שהוקצו, באפשרותך להסיר משתמשים עד לקבלת פחות מ -25.
+- אם יש לך יותר מ-25 רשיונות מוקצים, באפשרותך להסיר משתמשים עד לפחות מ-25.
   
-**החזר: כל זיכוי היחסי שיוחזר אליך בתוך מחזור החיוב הבא.** 
+**החזר כספי: כל האשראי היחסי שלך יוחזר אליך במהלך מחזור החיוב הבא.** 
 
-**הערה**: אם אינך רואה את האפשרות לביטול, לחץ על המנוי כדי להציג את הפרטים ועליך לראות את אפשרות **ביטול המנוי** **בהגדרות _ amp_ Actions**. 
+**הערה**: אם אינך רואה את האפשרות לביטול, לחץ על המנוי כדי להציג את הפרטים, ואתה אמור לראות את האפשרות **ביטול מנוי** **בפעולות & של הגדרות**. 
 
-כדי ללמוד עוד, ראה [ביטול המנוי](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+לקבלת מידע נוסף, ראה [ביטול המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

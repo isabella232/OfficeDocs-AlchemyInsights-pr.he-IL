@@ -1,10 +1,11 @@
 ---
-title: שינוי שם משתמש וכתובת דוא ל
+title: שינוי שם משתמש וכתובת דואר אלקטרוני
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,17 +13,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: c918567be57fa16317f3a0f516510ecea772bb67
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508125"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756932"
 ---
-# <a name="change-a-users-name-and-email-address"></a>שינוי שם משתמש וכתובת דוא ל
+# <a name="change-a-users-name-and-email-address"></a>שינוי שם משתמש וכתובת דואר אלקטרוני
 
-שינוי שם המשתמש וכתובת הדואר האלקטרוני ב-Microsoft 365 הוא קל. עבור אל דף **המשתמשים** \> [הפעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) של המשתמשים ובחר את המשתמש לעריכת המידע שלהם. באפשרותך גם להשתמש במאמר זה לקבלת הוראות צעד-אחר-צעד:
+שינוי שם וכתובת דואר אלקטרוני של משתמש ב-Microsoft 365 הוא קל. עבור אל הדף **Users** \> [משתמשים פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) ובחר את המשתמש כדי לערוך את המידע שלו. באפשרותך גם להשתמש במאמר זה לקבלת הוראות מפורטות:
   
 [שינוי שם משתמש וכתובת דואר אלקטרוני ב-Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
- **הערה**: אם תשנה את כתובת הדואר האלקטרוני הראשית של המשתמש, כתובת הדואר האלקטרוני הישנה שלהם עדיין תהיה חוקית לקבלת דואר אלקטרוני (פעולה זו מתרחשת באופן אוטומטי). כמו כן, אם הארגון שלך נמצא במצב היברידי, כל השינויים בדואר האלקטרוני ובשם המשתמש צריכים להתבצע ב-Active Directory המקומי ולאחר מכן לבצע סינכרון אל ענן הצמתים.
+ **הערה**: אם אתה משנה את כתובת הדואר האלקטרוני הראשית של המשתמש, כתובת הדואר האלקטרוני הישנה שלהם עדיין תהיה חוקית לקבלת דואר אלקטרוני (פעולה זו מתבצעת באופן אוטומטי). כמו כן, אם הארגון שלך נמצא במצב היברידי, כל שינויי הדואר האלקטרוני ושמות המשתמשים צריכים להתבצע ב-Active Directory המקומי ולאחר מכן לסנכרן לענן.
