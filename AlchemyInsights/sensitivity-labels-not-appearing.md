@@ -1,40 +1,40 @@
 ---
-title: תוויות רגישות שאינן מופיעות
+title: תוויות רגישות לא מופיעות
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581016"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801185"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>תוויות רגישות שאינן מופיעות
+# <a name="sensitivity-labels-not-appearing"></a>תוויות רגישות לא מופיעות
 
-תוויות רגישות מאפשרות לך לסווג ולסייע בהגנה על התוכן הרגיש שלך. ניתן ליצור אותם במרכז התאימות של Microsoft 365, במרכז האבטחה של Microsoft 365, או ב-Microsoft 365 אבטחה _ Amp_ מרכז התאימות תחת מדבקות סיווג _ שמות _. כדי ללמוד עוד אודות תכונה זו, ראה [מבט כולל על תוויות רגישות](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+תוויות רגישות מאפשרות לך לסווג ולסייע בהגנה על התוכן הרגיש. ניתן ליצור אותם במרכז התאימות של Microsoft 365, מרכז האבטחה של Microsoft 365 או מרכז התאימות של Microsoft 365 & תחת סיווג > תוויות רגישות. לקבלת מידע נוסף אודות תכונה זו, ראה [מבט כולל על תוויות רגישות](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-אם קבעת את התצורה של תוויות הרגישות שלך אך הן אינן מופיעות ביישומים של Microsoft 365, בדוק את הפרטים הבאים:
+אם הגדרת את תוויות הרגישות שלך אך לא מופיעות באפליקציות Microsoft 365, בדוק את הפרטים הבאים:
 
-- ודא שתווית הרגישות [פורסמה](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) בפני המשתמשים והקבוצות הרצויים.
+- ודא שתווית הרגישות [פורסמה](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) למשתמשים ולקבוצות הרצויים.
 
-- ודא שהמשתמש משתמש ביישום התומך בתוויות רגישות-ראה [תוויות רגישות במסמך](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
+- ודא שהמשתמש משתמש ביישום התומך בתוויות רגישות-ראה [תוויות רגישות במסמך שלך](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
-- אם אתה [מעביר את התוויות להגנת מידע תכלת](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), שים לב לשיקולים המפורטים [כאן](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- אם אתה [מעביר את התוויות של הגנה על מידע תכלת](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), שים לב לשיקולים המפורטים [כאן](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
-- תמיכה במניעת אובדן נתונים (DLP): כרגע, רק תוויות שמירה יכולות לשמש כתנאי במדיניות DLP.  תמיכה בתוויות רגישות במדיניות DLP® אינה זמינה עדיין, אך אנו עובדים עליו.
+- תמיכה במניעת אובדן נתונים (DLP): כעת, ניתן להשתמש רק בתוויות שמירה כתנאי במדיניות DLP.  תמיכה עבור תוויות רגישות במדיניות DLP אינה זמינה עדיין, אך אנו עובדים עליו.
 
-- כאשר ההצפנה מופעלת בתווית רגישות, באפשרותך לבחור באפשרות:
-    - הקצאת הרשאות כעת
+- כאשר הצפנה מופעלת בתווית רגישות, באפשרותך לבחור לבצע את הפעולות הבאות:
+    - הקצה הרשאות כעת
     - אפשר למשתמשים להקצות הרשאות
 
 
