@@ -1,11 +1,12 @@
 ---
-title: 1491-חיפוש-לא-חוזר-צפוי-תוצאות
+title: 1491-חיפוש-לא-חוזר-התוצאות הצפויות
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 57421d459ef03049d6f931db659a5f9b253f5002
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5c4452726c1dbe2232ee63e8a9ee4d089f5c76db
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510573"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740475"
 ---
-# <a name="content-search-not-returning-expected-results"></a>חיפוש תוכן לא מחזיר תוצאות צפויות
+# <a name="content-search-not-returning-expected-results"></a>חיפוש תוכן אינו מחזיר תוצאות צפויות
 
-בעת הפעלת חיפושי תוכן מתוך מרכז התאימות של Microsoft 365 _ אמפר _, ייתכן שתקבל תוצאות חיפוש בלתי צפויות. שקול את הדברים הבאים שיכולים להשפיע על תוצאות החיפוש שלך:
+בעת הפעלת חיפושי תוכן ממרכז התאימות של Microsoft 365 security &, ייתכן שתקבל תוצאות חיפוש בלתי צפויות. שקול את הדברים הבאים העשויים להשפיע על תוצאות החיפוש:
 
-- **מיקומי תוכן ותנאי חיפוש**: ודא שבחרת את מיקומי התוכן ותנאי החיפוש המתאימים. אם הרצת חיפוש גדול (עם מיקומים רבים), שקול לפצל אותו לחיפושים מרובים.
+- **מיקומים ותנאי חיפוש של תוכן**: ודא שבחרת את מיקומי התוכן המתאימים ותנאי חיפוש. אם הפעלת חיפוש גדול (עם מיקומים רבים), שקול לפצל אותו לחיפושים מרובים.
 
-- **פריטים בעלי אינדקס חלקי**: פריטים בעלי [אינדקס חלקי](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) מתיבות דואר נכללים בתוצאות החיפוש המשוערות. עם זאת, פריטים הכלולים באינדקס חלקי מאתרים ב-SharePoint ו-OneDrive אינם נכללים בהערכת החיפוש.
+- **פריטים הכלולים באינדקס באופן חלקי**: פריטים הכלולים  [באינדקס באופן חלקי](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) מתיבות דואר כלולים בתוצאות החיפוש המוערכות. עם זאת, פריטים הכלולים באינדקס באופן חלקי מאתרים ב-SharePoint ו-OneDrive אינם כלולים בהערכת החיפוש.
 
-- **כשלים בחיפוש**: בעת חיפוש במספר רב של תיבות דואר (מעל 100,000 תיבות דואר), ייתכן שתקבל שגיאות חיפוש, עם קודי שגיאה כגון CS008-009 ו-CS012-002). במקרה זה, נסה שנית לבצע את החיפוש רק עבור מיקומי התוכן שנכשלו. לקבלת מידע נוסף, עיין [במאמר זה](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .
+- **כשלים בחיפוש**: בעת חיפוש מספר גדול של תיבות דואר (מעל לתיבות דואר של 100,000), אתה עשוי לקבל שגיאות חיפוש, עם קודי שגיאה כגון CS008-900 ו-CS012-002). במקרה זה, נסה שוב לבצע את החיפוש עבור מיקומי התוכן שכשלו. עיין  [במאמר זה](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) לקבלת מידע נוסף.
