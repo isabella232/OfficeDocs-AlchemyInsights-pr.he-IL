@@ -6,23 +6,24 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: e3ddebc8b73688d65c32e15383c7d654a3f1fff1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5ea4e9b9c25aa6c8136c7b8f9de682d6d741688a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43745756"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802310"
 ---
-# <a name="account-locked"></a>תיק לקוח נעול
+# <a name="account-locked"></a>החשבון נעול
 
-אם אתה רואה את ההודעה "החשבון שלך ננעל" כאשר מנסה להיכנס לOutlook.com, זה בגלל שאנחנו שמים לב פעילות חריגה על חשבונך. כדי לסייע להגן עליך מפני הונאה או התעללות פוטנציאלית, נעלנו באופן זמני את חשבונך. אנחנו יודעים שזה מתסכל, אבל אנחנו יכולים לעזור לך לחזור לחשבון שלך עם רק כמה צעדים.
+אם אתה רואה את ההודעה "החשבון שלך ננעל" בעת ניסיון להיכנס ל-Outlook.com, משום שהבחנת בפעילות חריגה בחשבון שלך. כדי לעזור לך להגן עליך מפני הונאה או התעללות פוטנציאליים, נעלנו את החשבון שלך באופן זמני. אנו יודעים שזה מתסכל, אך אנו יכולים לעזור לך לחזור לחשבון שלך בכמה שלבים בלבד.
 
-1. . לך [לaccount.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) והיכנס לחשבון הנעול שלךכדי לבטל את נעילת החשבון, עליך להזין את קוד האבטחה שסופק בהודעת הטקסט מ-Microsoft. כדי לקבל את הודעת הטקסט, עליך להיות בעל טלפון התומך בהעברת הודעות טקסט. אם הטלפון שלך אינו תומך בהעברת הודעות טקסט, באפשרותך לבקש מחבר או ממשפחה להשתמש בטלפון. Microsoft אינה שומר מספר טלפון זה, כך שמספר הטלפון המשמש לקבלת הודעת טקסט זו אינו צריך להיות משויך לחשבונך.
-2. אם אתה רואה את ההודעה "מגבלת שימוש חורגת", עבור [לחשבון השבה](https://go.microsoft.com/fwlink/?linkid=2090483) ואחד הסוכנים שלנו יבדוק את החשבון שלך.
+1. עבור אל [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) והיכנס לחשבון הנעול שלך.כדי לבטל את הנעילה של החשבון שלך, עליך להזין את קוד האבטחה המופיע בהודעת הטקסט מ-Microsoft. כדי לקבל את הודעת הטקסט, דרוש לך טלפון התומך בהעברת הודעות טקסט. אם הטלפון שלך אינו תומך בהעברת הודעות טקסט, באפשרותך לבקש מחבר או חבר משפחה להשתמש בטלפון שלו. Microsoft אינה שומרת מספר טלפון זה, ולכן מספר הטלפון שבו אתה משתמש כדי לקבל הודעת טקסט זו אינו צריך להיות משויך לחשבון שלך.
+2. אם אתה רואה את ההודעה "אירעה חריגה ממגבלת השימוש", עבור אל החזרת [חשבון](https://go.microsoft.com/fwlink/?linkid=2090483)   ואחד מהסוכנים שלנו יבחן את החשבון שלך.
 
-כדי ללמוד עוד, קרא ביטול [חסימה של חשבון Outlook.com שלי](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) 
+לקבלת מידע נוסף, קרא [ביטול חסימת החשבון שלי](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy) ב-Outlook.com 

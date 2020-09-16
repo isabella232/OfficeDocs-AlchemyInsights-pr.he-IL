@@ -1,23 +1,24 @@
 ---
-title: 8000049 אייקון של סקייפ חסר בOutlook.com
+title: סמל Skype של 8000049 חסר ב-Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: cc5ca216f3e27a424f26bf5faa95b4df9c26b653
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767862"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802238"
 ---
-# <a name="skype-icon-missing"></a>סמל סקייפ חסר
+# <a name="skype-icon-missing"></a>סמל Skype חסר
 
-הסרנו באופן זמני את הסמל של Skype מ-Outlook.com כחלק מרענון העיצוב ועדכון התכונה שאנו מתרגשים להיות מתגלגל. אנו מעריכים את סבלנותך בזמן שאנו מכינים חוויה חדשה ומשופרת עבורך.
+הסרנו באופן זמני את סמל Skype מ-Outlook.com כחלק מרענון עיצוב ועדכון תכונות שאנו מתלהבים ממנו. אנו מעריכים את סבלנותך בזמן שאנו מכינים חוויה חדשה ומשופרת עבורך.
 
-אתה עדיין יכול להשתמש סקייפ דרך הדפדפן שלך ב [web.skype.com](https://web.skype.com).
+ניתן עדיין להשתמש ב-Skype באמצעות הדפדפן שלך ב- [web.skype.com](https://web.skype.com).
