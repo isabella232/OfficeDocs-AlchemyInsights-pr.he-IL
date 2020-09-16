@@ -1,27 +1,28 @@
 ---
-title: צוותים עבור תשתית שולחן עבודה וירטואליזציה
+title: Teams עבור תשתית שולחן עבודה וירטואלית
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 0a8b48cda4109b387e6c2d81104585b194684524
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599449"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736433"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a><span data-ttu-id="a11f4-102">צוותים עבור תשתית שולחן עבודה וירטואליזציה</span><span class="sxs-lookup"><span data-stu-id="a11f4-102">Teams for Virtualized Desktop Infrastructure</span></span>
+# <a name="teams-for-virtualized-desktop-infrastructure"></a><span data-ttu-id="2d6c4-102">Teams עבור תשתית שולחן עבודה וירטואלית</span><span class="sxs-lookup"><span data-stu-id="2d6c4-102">Teams for Virtualized Desktop Infrastructure</span></span>
 
-<span data-ttu-id="a11f4-103">לקבלת מידע מפורט אודות צוותים עבור סביבות תשתית שולחן עבודה וירטואליזציה, ראה [צוותים עבור תשתית שולחן עבודה וירטואליזציה](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span><span class="sxs-lookup"><span data-stu-id="a11f4-103">For detailed information on Teams for Virtualized Desktop Infrastructure environments, see [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span></span>
+<span data-ttu-id="2d6c4-103">לקבלת מידע מפורט על Teams עבור סביבות תשתית שולחן עבודה וירטואליזציה, ראה [teams עבור תשתית שולחן עבודה וירטואלי](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span><span class="sxs-lookup"><span data-stu-id="2d6c4-103">For detailed information on Teams for Virtualized Desktop Infrastructure environments, see [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).</span></span>
 
-<span data-ttu-id="a11f4-104">בעיות ומגבלות ידועות בסביבות VDI מפורטות בסעיף [בעיות ומגבלות ידועות](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) באותו מאמר, הכולל את הנושאים הבאים:</span><span class="sxs-lookup"><span data-stu-id="a11f4-104">Known issues and limitations in VDI environments are detailed in the [Known issues and limitations ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) section of the same article, which includes the following topics:</span></span>
- - <span data-ttu-id="a11f4-105">פריסת לקוח, התקנה והתקנה</span><span class="sxs-lookup"><span data-stu-id="a11f4-105">Client deployment, installation, and setup</span></span>
- - <span data-ttu-id="a11f4-106">שיחות ופגישות</span><span class="sxs-lookup"><span data-stu-id="a11f4-106">Calling and meetings</span></span>
+<span data-ttu-id="2d6c4-104">בעיות ידועות ומגבלות בסביבות VDI מפורטות בסעיף ' [בעיות ידועות ומגבלות ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) ' באותו מאמר, הכולל את הנושאים הבאים:</span><span class="sxs-lookup"><span data-stu-id="2d6c4-104">Known issues and limitations in VDI environments are detailed in the [Known issues and limitations ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) section of the same article, which includes the following topics:</span></span>
+ - <span data-ttu-id="2d6c4-105">פריסת לקוח, התקנה והגדרה</span><span class="sxs-lookup"><span data-stu-id="2d6c4-105">Client deployment, installation, and setup</span></span>
+ - <span data-ttu-id="2d6c4-106">שיחות ופגישות</span><span class="sxs-lookup"><span data-stu-id="2d6c4-106">Calling and meetings</span></span>

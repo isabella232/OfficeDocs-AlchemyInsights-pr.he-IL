@@ -1,29 +1,30 @@
 ---
-title: שים אפליקציות על שולחן העבודה
+title: הצבת יישומים בשולחן העבודה
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 6c94c840ce9460bdf72aba23ef6444d18a44977d
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278946"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47768248"
 ---
-# <a name="put-apps-on-the-desktop"></a><span data-ttu-id="bce23-102">שים אפליקציות על שולחן העבודה</span><span class="sxs-lookup"><span data-stu-id="bce23-102">Put apps on the desktop</span></span>
+# <a name="put-apps-on-the-desktop"></a><span data-ttu-id="cdf16-102">הצבת יישומים בשולחן העבודה</span><span class="sxs-lookup"><span data-stu-id="cdf16-102">Put apps on the desktop</span></span>
 
-<span data-ttu-id="bce23-103">חפש את האפליקציה בתפריט **התחל** , ותפוס את סמל app על ידי החזקת לחצן העכבר השמאלי והזזת הסמל לשולחן העבודה.</span><span class="sxs-lookup"><span data-stu-id="bce23-103">Search for the app in the **Start** menu, and grab the app icon by holding down the left mouse button and moving the icon to the desktop.</span></span>
+<span data-ttu-id="cdf16-103">חפש את האפליקציה בתפריט **התחל** , ותפוס את סמל האפליקציה על-ידי החזקת לחצן העכבר השמאלי והזזת הסמל לשולחן העבודה.</span><span class="sxs-lookup"><span data-stu-id="cdf16-103">Search for the app in the **Start** menu, and grab the app icon by holding down the left mouse button and moving the icon to the desktop.</span></span>
 
-<span data-ttu-id="bce23-104">בנוסף, באפשרותך להקיש על **מקש Windows + R** ולאחר מכן להקליד בפקודה זו:</span><span class="sxs-lookup"><span data-stu-id="bce23-104">You may also press the **Windows key + R** and then type in this command:</span></span>
+<span data-ttu-id="cdf16-104">באפשרותך גם להקיש על **מקש Windows + R** ולאחר מכן להקליד בפקודה זו:</span><span class="sxs-lookup"><span data-stu-id="cdf16-104">You may also press the **Windows key + R** and then type in this command:</span></span>
 
 `shell:appsfolder`
 
-<span data-ttu-id="bce23-105">פעולה זו תפתח את תיקיית **היישומים** **בסייר הקבצים**.</span><span class="sxs-lookup"><span data-stu-id="bce23-105">This will open the **Applications** folder in **File Explorer**.</span></span> <span data-ttu-id="bce23-106">עכשיו אתה יכול לגרור ולשחרר את סמל app לשולחן העבודה.</span><span class="sxs-lookup"><span data-stu-id="bce23-106">You may now drag and drop the app icon to the desktop.</span></span>
+<span data-ttu-id="cdf16-105">פעולה זו תפתח את התיקיה **applications** **בסייר הקבצים**.</span><span class="sxs-lookup"><span data-stu-id="cdf16-105">This will open the **Applications** folder in **File Explorer**.</span></span> <span data-ttu-id="cdf16-106">כעת באפשרותך לגרור ולשחרר את סמל היישום לשולחן העבודה.</span><span class="sxs-lookup"><span data-stu-id="cdf16-106">You may now drag and drop the app icon to the desktop.</span></span>
