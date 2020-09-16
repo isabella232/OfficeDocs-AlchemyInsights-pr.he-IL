@@ -1,39 +1,40 @@
 ---
-title: סוגיית ההפעלה-אין באפשרותנו להתחבר כרגע
+title: בעיית הפעלה-אין באפשרותנו להתחבר כרגע
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 24fe9910d1715b4f5f7d8d06b1d1344d4b8675bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581876"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725984"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>תיקון האפליקציות של מיקרוסופט 365 "אנחנו לא יכולים להתחבר כרגע" הודעה
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>תיקון יישומי Microsoft 365 "אין באפשרותנו להתחבר כעת"
 
-אם תקבל הודעה זו, נסה את הפעולות הבאות:
+אם אתה מקבל הודעה זו, נסה את הפעולות הבאות:
 
-1. בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות ה-proxy כדי לוודא שהן אינן חוסמות גישה לאינטרנט ל-Microsoft 365 apps. ראה [כתובות url וטווחי כתובות IP של Microsoft](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות ה-proxy כדי לוודא שהם אינם חוסמים את הגישה לאינטרנט ליישומי Microsoft 365. ראה [כתובות url וטווחי כתובות IP של Microsoft](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. עבור **להתחלת**  >  **הפעלה**ולאחר מכן הקלד **services. msc**. ודא שהשירותים הבאים פועלים:
-    - התקנה אוטומטית של התקני רשת מחוברים
+2. עבור אל **התחל**  >  **להפעיל**ולאחר מכן הקלד **services. msc**. ודא שהשירותים הבאים פועלים כולם:
+    - התקנה אוטומטית של התקנים מחוברים לרשת
     - שירות רשימת הרשתות
-    - מיקום רשת מודעות
+    - מודעות למיקום ברשת
     - יומן האירועים של Windows
 
-אם אחד מהשירותים הללו אינו פועל, נסה להפעיל אותו. אם יש לך בעיה בהפעלת השירות, הפעל את הפקודה הבאה על-ידי פתיחת שורת פקודה עם הרשאות מוגברות:
+אם אחד מהשירותים האלה אינו פועל, נסה להפעיל אותו. אם אתה נתקל בבעיה בהפעלת השירות, הפעלת הפקודה הבאה על-ידי פתיחת שורת פקודה עם הרשאות מלאות:
 
 **sfc/scannow**
 
-לאחר סיום פקודה זו, הפעל מחדש את המחשב.
+לאחר שפקודה זו מסתיימת, הפעל מחדש את המחשב.
 
-למידע מפורט, ראה [מצטערים, איננו יכולים להתחבר לחשבונך. נא נסה שוב מאוחר יותר את השגיאה בעת הפעלת Office מ-Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+לקבלת מידע מפורט, ראה ["מצטערים, אין לנו אפשרות להתחבר לחשבון שלך. נסה שוב מאוחר יותר את השגיאה כאשר אתה מפעיל את Office מ-Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
