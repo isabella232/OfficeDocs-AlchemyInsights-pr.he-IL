@@ -1,36 +1,36 @@
 ---
-title: צוותי מיקרוסופט-גישה לאורחים
+title: Microsoft Teams-גישת אורח
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: 6fe5b4e1d1ef844292ccb92ff9dd792f22e47c60
-ms.sourcegitcommit: 3f825fedaf220d6c3883cdac4c56279fbaa95eec
+ms.openlocfilehash: da9ecca062bd5f1dcc169657483ba53eb201def0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019099"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798377"
 ---
-# <a name="microsoft-teams---guest-access"></a>צוותי מיקרוסופט-גישה לאורחים
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams-גישת אורח
 
-אם אתה זקוק לעזרה בתקשורת עם משתמשים מחוץ לארגון שלך בצוותים, עליך להחליט אם להשתמש [בגישה לאורחים או בגישה חיצונית (פדרציה)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), או להשתמש בשניהם.
+אם אתה זקוק לעזרה בתקשורת עם משתמשים מחוץ לארגון שלך ב-Teams, עליך להחליט אם להשתמש [בגישת אורח או בגישה חיצונית (איחוד)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), או להשתמש בשניהם.
 
-הקפד [לסקור את ההבדלים](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) כדי להבין את התכונות הזמינות עבור כל אחד.  לדוגמה, גישה חיצונית (פדרציה) מאפשרת 1:1 תקשורת, כגון צ'אט ונוכחות.  עם זאת, למשתמשים מאוחדים אין אפשרות להשתתף בשיתוף פעולה עם צוותים.  אם ברצונך שמשתמש חיצוני יצטרף וישתתף בשיחות ערוץ שיחות או שיתוף קבצים, יהיה עליך להפעיל את ' גישה לאורחים '.
+[הקפד לסקור את ההבדלים](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) כדי להבין את התכונות הזמינות עבור כל אחת מהן.  לדוגמה, גישה חיצונית (איחוד) מאפשרת תקשורת של 1:1, כגון צ'אט ונוכחות.  עם זאת, משתמשים מאוחדים אינם יכולים להשתתף בשיתוף פעולה של Teams.  אם ברצונך להצטרף למשתמש חיצוני ולהשתתף בשיחות ערוץ של Teams או לשתף קבצים, יהיה עליך להפעיל את גישת אורח.
 
-**אפשרות 1: הפעל גישה לאורחים**   
-במרכז הניהול של הצוותים, עבור אל ' [הגדרות הארגון הרחב _ גישה לאורחים](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) ' והפעל את "אפשר גישה לאורחים בצוותים".  עבור דייר עם כל הגדרות ברירת המחדל האחרות, זה צריך להיות כל מה שאתה צריך לעשות.  כדי להתאים אישית את תצורת הגישה שלך לאורחים, הקפד לעקוב אחר כל השלבים [ברשימת הפעולות לביצוע של גישה לאורחים](https://docs.microsoft.com/microsoftteams/guest-access-checklist). לאחר שתסיים לגמרי, יהיה עליך [להמתין עד 24 שעות](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) כדי שההגדרות ייכנסו לתוקף.
+**אפשרות 1: הפעלת גישת אורח**   
+במרכז הניהול של Teams, עבור אל [הגדרות של ארגון רחב _GT_ Guest access](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) והפעל את האפשרות "אפשר גישת אורח ב-teams".  עבור דייר עם כל הגדרות ברירת המחדל האחרות, זה אמור להיות כל מה שעליך לעשות.  כדי להתאים אישית את תצורת Access Guest, הקפד לבצע את כל השלבים [ברשימת הפעולות לביצוע של גישת אורח](https://docs.microsoft.com/microsoftteams/guest-access-checklist). לאחר שתסיים לגמרי, יהיה עליך [להמתין עד 24 שעות](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) כדי שההגדרות ייכנסו לתוקף.
 
-אם אתה בטוח שהשלמת את כל השלבים ברשימת הפעולות לביצוע, ועברו יותר מ -24 שעות, המשך לנסות [להוסיף אורח לצוות שלך](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+אם אתה בטוח שהשלמת את כל השלבים ברשימת הפעולות לביצוע, ועברו יותר מ-24 שעות, המשך ונסה [להוסיף אורח לצוות שלך](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-לקבלת מידע נוסף, כולל סרטוני כיצד [לבצע, ראה גישה לאורחים בצוותי Microsoft](https://docs.microsoft.com/microsoftteams/guest-access).
+לקבלת מידע נוסף, כולל סרטוני וידאו של ' כיצד לבצע ', ראה [גישת אורח ב-Microsoft teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**אפשרות 2: הפעלת גישה חיצונית (פדרציה)** אם ברצונך גם להפעיל את הגישה החיצונית (הפדרציה), במרכז הניהול של הצוותים עבור אל [הגדרות הארגון, הגישה החיצונית](https://admin.teams.microsoft.com/company-wide-settings/external-communications) והפעל את האפשרות "משתמשים יכולים לקיים תקשורת עם Skype עבור משתמשים עסקיים וצוותים", ולאחר מכן בצע את כל השלבים כדי [לאפשר למשתמשים שלך לשוחח ולתקשר עם משתמשים](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)
+**אפשרות 2: הפעלת גישה חיצונית (איחוד)** אם ברצונך גם להפעיל את הגישה החיצונית (איחוד), במרכז הניהול של Teams, עבור אל [הגדרות כלל-ארגוניות _GT_ גישה חיצונית](https://admin.teams.microsoft.com/company-wide-settings/external-communications) והפעל את האפשרות ' משתמשים יכולים לקיים תקשורת עם Skype for Business ו-teams ', ולאחר מכן בצע את כל השלבים הבאים כדי [לאפשר למשתמשים שלך לשוחח בצ ול](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)
 
 
