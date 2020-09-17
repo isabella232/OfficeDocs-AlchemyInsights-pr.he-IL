@@ -1,31 +1,32 @@
 ---
-title: ביטול מנוי של Microsoft 365
+title: ביטול מנוי Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b53dc3017cb2a47b25e5c603dcbc5e76fb8dc675
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508305"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811849"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a>מבטל את המנוי שלך ב-Microsoft 365?
+# <a name="cancelling-your-microsoft-365-subscription"></a>מבטל את מנוי Microsoft 365 שלך?
 
-אנחנו מצטערים לראות אותך הולך, אבל הנה האפשרויות שלך כדי לבטל את המנוי שלך:
+אנו מצטערים לראות אותך, אך הנה האפשרויות שלך לביטול המנוי שלך:
   
-- אם אתה לקוח ניסיון, אין מה לבטל. תוקפם של מנויי ניסיון יפוג באופן אוטומטי אלא אם תספק שיטת תשלום.
+- אם אתה לקוח ניסיון, אין מה לבטל. תוקף מנויי ניסיון יפוג באופן אוטומטי, אלא אם כן אתה מספק שיטת תשלום.
 
-- אם ברשותך פחות מ-25 רשיונות מוקצים, באפשרותך לבטל את המנוי שלך באופן מקוון. עבור **לחיוב** \> [**המוצרים שלך**](https://go.microsoft.com/fwlink/p/?linkid=842054). במקטע **הגדרות _ Amp_ Actions** , בחר **בביטול מנוי**.
+- אם יש לך פחות מ-25 רשיונות מוקצים, באפשרותך לבטל את המנוי שלך באופן מקוון. עבור אל **חיוב** \> **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)**. במקטע **Settings _AMP_ actions** , בחר **ביטול מנוי**.
 
-- אם יש לך יותר מ -25 רשיונות שהוקצו, באפשרותך להסיר משתמשים עד לפחות מ -25 או להשתמש באפשרות "תן לנו לקרוא לך" כדי לדבר עם מהנדס תמיכה.
+- אם יש לך יותר מ-25 רשיונות מוקצים, באפשרותך להסיר משתמשים עד שתקבל פחות מ-25, או להשתמש באפשרות ' תן לנו להתקשר אליך ' כדי לשוחח עם מהנדס תמיכה.
 
-כדי ללמוד עוד, ראה [ביטול המנוי](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+לקבלת מידע נוסף, ראה [ביטול המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
