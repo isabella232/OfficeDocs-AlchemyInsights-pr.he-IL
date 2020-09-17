@@ -1,24 +1,25 @@
 ---
-title: תכונות חדשות של SharePoint הודיעה
+title: תכונות חדשות של SharePoint הוכרזו
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 4bebb7c88308772fe93d1b8ecd16954871d03f8c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c54f2dd93d129db21a279de65096dfe9b3f17646
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505416"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800537"
 ---
-# <a name="sharepoint-new-features-announced"></a><span data-ttu-id="868e9-102">תכונות חדשות של SharePoint הודיעה</span><span class="sxs-lookup"><span data-stu-id="868e9-102">SharePoint new features announced</span></span>
+# <a name="sharepoint-new-features-announced"></a><span data-ttu-id="a6813-102">תכונות חדשות של SharePoint הוכרזו</span><span class="sxs-lookup"><span data-stu-id="a6813-102">SharePoint new features announced</span></span>
 
-<span data-ttu-id="868e9-103">בכנס להצית 2018, מיקרוסופט הודיעה חידושים חדשים עבור SharePoint, כולל תכונות חדשות עבור פורטלים מודרניים, חלקי אינטרנט חדשים, שיפורים רבים לאתרי hub, קישור חדשות, הקהל היעד, הזמינות של יישומים ניידים חדשים, קשר עם צוותי, ועוד...</span><span class="sxs-lookup"><span data-stu-id="868e9-103">At the Ignite 2018 conference, Microsoft announced new innovations for SharePoint, including new features for modern portals, new web parts, numerous enhancements to hub sites, news link, audience targeting, availability of new mobile apps, connection with Teams, and more...</span></span>
+<span data-ttu-id="a6813-103">בוועידת ההצתה של 2018, Microsoft הכריזה על חידושים חדשים עבור SharePoint, כולל תכונות חדשות עבור פורטלים מודרניים, רכיבי web part חדשים, שיפורים רבים באתרי hub, קישור חדשות, פילוח קהל, זמינות של אפליקציות למכשירים ניידים חדשים, חיבור עם צוותים ועוד...</span><span class="sxs-lookup"><span data-stu-id="a6813-103">At the Ignite 2018 conference, Microsoft announced new innovations for SharePoint, including new features for modern portals, new web parts, numerous enhancements to hub sites, news link, audience targeting, availability of new mobile apps, connection with Teams, and more...</span></span>
   
-<span data-ttu-id="868e9-104">לקבלת מידע נוסף אודות תכונות אלה, עיין בפוסט &amp;</span><span class="sxs-lookup"><span data-stu-id="868e9-104">For more information about these features, see the blog post [New innovations in SharePoint &amp; Microsoft 365 deliver power and simplicity for content collaboration.](https://go.microsoft.com/fwlink/?linkid=2026502)</span></span>
+<span data-ttu-id="a6813-104">לקבלת מידע נוסף אודות תכונות אלה, עיין בפרסום בבלוג [חידושים חדשים ב-SharePoint &amp; Microsoft 365 ספק את העוצמה והפשטות עבור שיתוף פעולה בתוכן.](https://go.microsoft.com/fwlink/?linkid=2026502)</span><span class="sxs-lookup"><span data-stu-id="a6813-104">For more information about these features, see the blog post [New innovations in SharePoint &amp; Microsoft 365 deliver power and simplicity for content collaboration.](https://go.microsoft.com/fwlink/?linkid=2026502)</span></span>
   
-<span data-ttu-id="868e9-105">הארגון שלך יכול להצטרף לתוכנית ' שחרור ממוקד ' כדי לקבל גישה מוקדמת לתכונות חדשות.</span><span class="sxs-lookup"><span data-stu-id="868e9-105">Your organization can join the Targeted Release program to have early access to new features.</span></span> <span data-ttu-id="868e9-106">ראה [הגדרת אפשרויות שחרור רגיל או ממוקד ב-Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).</span><span class="sxs-lookup"><span data-stu-id="868e9-106">See [Set up the Standard or Targeted release options in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).</span></span>
+<span data-ttu-id="a6813-105">הארגון שלך יכול להצטרף לתוכנית ההפצה הייעודית כדי לקבל גישה מוקדמת לתכונות חדשות.</span><span class="sxs-lookup"><span data-stu-id="a6813-105">Your organization can join the Targeted Release program to have early access to new features.</span></span> <span data-ttu-id="a6813-106">ראה [הגדרת אפשרויות ההפצה הרגילה או המוקדות ב-Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).</span><span class="sxs-lookup"><span data-stu-id="a6813-106">See [Set up the Standard or Targeted release options in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/release-options-in-office-365).</span></span>
