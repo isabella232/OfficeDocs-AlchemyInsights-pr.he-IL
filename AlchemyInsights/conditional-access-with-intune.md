@@ -1,37 +1,38 @@
 ---
-title: גישה מותנית עם Intune
+title: גישה מותנית עם כוונון
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
-ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
+ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/30/2020
-ms.locfileid: "44931432"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807660"
 ---
-# <a name="conditional-access-with-intune"></a><span data-ttu-id="3c05f-102">גישה מותנית עם Intune</span><span class="sxs-lookup"><span data-stu-id="3c05f-102">Conditional Access with Intune</span></span>
+# <a name="conditional-access-with-intune"></a><span data-ttu-id="e39ba-102">גישה מותנית עם כוונון</span><span class="sxs-lookup"><span data-stu-id="e39ba-102">Conditional Access with Intune</span></span>
 
-<span data-ttu-id="3c05f-103">שימוש **בגישה מותנית** עם Intune דורש 3 שלבים:</span><span class="sxs-lookup"><span data-stu-id="3c05f-103">Using  **Conditional Access**  with Intune requires 3 steps:</span></span>
+<span data-ttu-id="e39ba-103">שימוש  **בגישה מותנית**  עם האפשרות ' כוונון ' דורש שלושה שלבים:</span><span class="sxs-lookup"><span data-stu-id="e39ba-103">Using  **Conditional Access**  with Intune requires 3 steps:</span></span>
 
-- <span data-ttu-id="3c05f-104">צור **מדיניות תאימות** ([דמוי אדם](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) כדי להגדיר הגדרות שחייבות להיות מולאו לפני שההתקן נחשב לתואם.</span><span class="sxs-lookup"><span data-stu-id="3c05f-104">Create a  **Compliance Policy**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="3c05f-105">לדוגמה, על התקן להיות בעל pin של 6 ספרות לפחות לפני שהוא נחשב לתואם.</span><span class="sxs-lookup"><span data-stu-id="3c05f-105">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span>
-- <span data-ttu-id="3c05f-106">צור **מדיניות גישה מותנית** המגדירה אילו משאבים מוגנים ואילו תנאים יש להכיר כדי לגשת למשאבים אלה.</span><span class="sxs-lookup"><span data-stu-id="3c05f-106">Create a **Conditional Access Policy**  that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span>  <span data-ttu-id="3c05f-107">[לדוגמה,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) על התקן להיות תואם לפני הגישה לדואר אלקטרוני של חברה.</span><span class="sxs-lookup"><span data-stu-id="3c05f-107">[For example,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  a device must be compliant before accessing corporate email.</span></span>
-- <span data-ttu-id="3c05f-108">ודא **שמדיניות התאימות** **ופריטי מדיניות הגישה המותנים** מיועדים לקבוצות המשתמשים הרצויות.</span><span class="sxs-lookup"><span data-stu-id="3c05f-108">Ensure both **Compliance Policies**  and  **Conditional Access Policies**  are targeted to the desired groups of users.</span></span> <span data-ttu-id="3c05f-109">הדבר עשוי לדרוש יצירת קבוצות מסוימות של משתמשים בספריית הפעילות התכלת.</span><span class="sxs-lookup"><span data-stu-id="3c05f-109">This may require creating specific groups of users in Azure Active Directory.</span></span>
+- <span data-ttu-id="e39ba-104">צור  **מדיניות תאימות**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) כדי להגדיר הגדרות שיש לעמוד בהן לפני שההתקן ייחשב כתואם.</span><span class="sxs-lookup"><span data-stu-id="e39ba-104">Create a  **Compliance Policy**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) to define settings that must be met before the device is considered compliant.</span></span> <span data-ttu-id="e39ba-105">לדוגמה, התקן חייב לכלול pin של 6 ספרות לפחות לפני שהוא נחשב לתואם.</span><span class="sxs-lookup"><span data-stu-id="e39ba-105">For example, a device must have a pin of at least 6 digits before it is considered compliant.</span></span>
+- <span data-ttu-id="e39ba-106">צור **מדיניות גישה מותנית**  המגדירה אילו משאבים מוגנים, ואילו תנאים דרושים לפגישה כדי לגשת למשאבים אלה.</span><span class="sxs-lookup"><span data-stu-id="e39ba-106">Create a **Conditional Access Policy**  that defines what resources are being protected, and what conditions need to be met to access those resources.</span></span>  <span data-ttu-id="e39ba-107">[לדוגמה,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  התקן חייב להיות תואם לפני הגישה לדואר אלקטרוני של החברה.</span><span class="sxs-lookup"><span data-stu-id="e39ba-107">[For example,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  a device must be compliant before accessing corporate email.</span></span>
+- <span data-ttu-id="e39ba-108">ודא **שפריטי מדיניות התאימות**  **ומדיניות גישה מותנית**  מיועדים לקבוצות המשתמשים הרצויות.</span><span class="sxs-lookup"><span data-stu-id="e39ba-108">Ensure both **Compliance Policies**  and  **Conditional Access Policies**  are targeted to the desired groups of users.</span></span> <span data-ttu-id="e39ba-109">פעולה זו עשויה לדרוש יצירת קבוצות ספציפיות של משתמשים ב-תכלת Active Directory.</span><span class="sxs-lookup"><span data-stu-id="e39ba-109">This may require creating specific groups of users in Azure Active Directory.</span></span>
 
-<span data-ttu-id="3c05f-110">**קישורים מועילים:**</span><span class="sxs-lookup"><span data-stu-id="3c05f-110">**Helpful links:**</span></span>
+<span data-ttu-id="e39ba-110">**קישורים שימושיים:**</span><span class="sxs-lookup"><span data-stu-id="e39ba-110">**Helpful links:**</span></span>
 
-[<span data-ttu-id="3c05f-111">סקירת תאימות התקנים</span><span class="sxs-lookup"><span data-stu-id="3c05f-111">Device compliance overview</span></span>](https://docs.microsoft.com/intune/device-compliance-get-started)
+[<span data-ttu-id="e39ba-111">מבט כולל על תאימות מכשירים</span><span class="sxs-lookup"><span data-stu-id="e39ba-111">Device compliance overview</span></span>](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[<span data-ttu-id="3c05f-112">פתרון בעיות של CA</span><span class="sxs-lookup"><span data-stu-id="3c05f-112">Troubleshooting CA</span></span>](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[<span data-ttu-id="e39ba-112">פתרון בעיות ב-CA</span><span class="sxs-lookup"><span data-stu-id="e39ba-112">Troubleshooting CA</span></span>](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[<span data-ttu-id="3c05f-113">מדיניות פתרון בעיות</span><span class="sxs-lookup"><span data-stu-id="3c05f-113">Troubleshooting policy</span></span>](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[<span data-ttu-id="e39ba-113">מדיניות פתרון בעיות</span><span class="sxs-lookup"><span data-stu-id="e39ba-113">Troubleshooting policy</span></span>](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-<span data-ttu-id="3c05f-114">כדי להגן על דואר אלקטרוני (Exchange online) מפני גישה על-ידי התקנים שאינם תואמים, יש לעקוב אחר שני המסמכים:</span><span class="sxs-lookup"><span data-stu-id="3c05f-114">To protect Email (Exchange online) from access by noncompliant devices, both documents must be followed:</span></span>
+<span data-ttu-id="e39ba-114">כדי להגן על דואר אלקטרוני (Exchange online) מ-access על-ידי מכשירים שאינם תואמים, יש לעקוב אחר שני המסמכים:</span><span class="sxs-lookup"><span data-stu-id="e39ba-114">To protect Email (Exchange online) from access by noncompliant devices, both documents must be followed:</span></span>
 
-1. [<span data-ttu-id="3c05f-115">הגן על גישה לדואר אלקטרוני ממכשירים באמצעות המלווים</span><span class="sxs-lookup"><span data-stu-id="3c05f-115">Protect email access from devices using EAS</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [<span data-ttu-id="3c05f-116">הגן על גישה לדואר אלקטרוני ממכשירים באמצעות לקוחות אימות מודרניים כמו Outlook</span><span class="sxs-lookup"><span data-stu-id="3c05f-116">Protect email access from devices using modern authentication clients like Outlook</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+1. [<span data-ttu-id="e39ba-115">הגנה על גישה לדואר אלקטרוני ממכשירים המשתמשים במלווים</span><span class="sxs-lookup"><span data-stu-id="e39ba-115">Protect email access from devices using EAS</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
+2. [<span data-ttu-id="e39ba-116">הגנה על גישה לדואר אלקטרוני ממכשירים באמצעות לקוחות אימות מודרניים כגון Outlook</span><span class="sxs-lookup"><span data-stu-id="e39ba-116">Protect email access from devices using modern authentication clients like Outlook</span></span>](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
