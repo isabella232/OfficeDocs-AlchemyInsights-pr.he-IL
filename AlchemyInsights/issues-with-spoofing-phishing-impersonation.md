@@ -1,24 +1,25 @@
 ---
-title: בעיות עם זיופים, דיוג או התחזות?
+title: בעיות בזיוף, דיוג או התחזות?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: fb10c486833cfb0a1726dce69bc2176b39565e9d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510033"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47773020"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>בעיות עם זיופים, דיוג או התחזות?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>בעיות בזיוף, דיוג או התחזות?
 
-למד כיצד Microsoft מגנה עליך מפני:
+למד כיצד Microsoft מגינה עליך:
 
 - [זיוף](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
@@ -26,12 +27,12 @@ ms.locfileid: "44510033"
 
 המלצות נוספות:
 
-- עבור שולחים מזויפים שנראים כשהם מגיעים מהתחום שלך, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) ו- [dkim](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) יכולים לעזור.
+- עבור שולחים מתחזים שנראים מגיעים מהתחום שלך, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) ו- [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) יכולים לעזור.
 
-- אימות שולחים בתחום שלך אינם מוגדרים לעקיפת סינון נגד דואר זבל באמצעות כללי זרימת דואר (המכונים גם כללי תעבורה) או התרת ערכי רשימה. לקבלת מידע נוסף, ראה [התראות נגד עקיפת מסנני דואר זבל של Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- אימות שולחים בתחום משלך אינם מוגדרים לעקיפת סינון למניעת הודעות זבל באמצעות כללי זרימת דואר (המכונים גם כללי תעבורה) או מאפשרים ערכי רשימה. לקבלת מידע נוסף, ראה [התראות מפני עקיפת מסנני דואר זבל של Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- ודא שהמשתמשים לא הוגדרו [בתצורה של ערכי רשימת שולחים בטוחים](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) שעלולים לאפשר התקפות דיוג.
+- ודא שמשתמשים לא הגדירו ערכי [רשימה של שולחים בטוחים](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) שעלולים לאפשר התקפות דיוג.
 
-- שקול לספק דואר זבל והודעות דיוג ביטחון גבוה להסגר במקום לתיקיה ' דואר זבל '. לקבלת מידע נוסף, ראה [הודעות דואר אלקטרוני בהסגר](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
+- שקול להעביר הודעות דואר זבל ודיוג בביטחון גבוה להסגר במקום לתיקיית דואר הזבל. לקבלת מידע נוסף, ראה [הסגר הודעות דואר אלקטרוני](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
 
-[**דיווח על הודעות ל-Microsoft** היא הדרך הטובה ביותר ליידע אותנו כיצד המסננים מופיעים.](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)
+**[דיווח על הודעות ל-Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) היא הדרך הטובה ביותר להודיע לנו כיצד המסננים מתבצעים.**
