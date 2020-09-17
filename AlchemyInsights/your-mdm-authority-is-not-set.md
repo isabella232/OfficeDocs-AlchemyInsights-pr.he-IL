@@ -5,23 +5,24 @@ author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 1cb463e0300e432c2a06fa392b3d2b6e45b2d18e
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638215"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796289"
 ---
-# <a name="your-mdm-authority-is-not-set"></a><span data-ttu-id="9a8f4-102">הרשות של MDM אינה מוגדרת</span><span class="sxs-lookup"><span data-stu-id="9a8f4-102">Your MDM authority is not set</span></span>
+# <a name="your-mdm-authority-is-not-set"></a><span data-ttu-id="e9358-102">הרשות של MDM אינה מוגדרת</span><span class="sxs-lookup"><span data-stu-id="e9358-102">Your MDM authority is not set</span></span>
 
-<span data-ttu-id="9a8f4-103">רשות ניהול ההתקנים הניידים (MDM) של דייר זה אינה מוגדרת.</span><span class="sxs-lookup"><span data-stu-id="9a8f4-103">The mobile device management (MDM) authority of this tenant is not set.</span></span> <span data-ttu-id="9a8f4-104">עליך להגדיר רשות MDM לפני רישום וניהול התקנים באמצעות Intune MDM.</span><span class="sxs-lookup"><span data-stu-id="9a8f4-104">You must set an MDM authority before enrolling and managing devices through Intune MDM.</span></span> <span data-ttu-id="9a8f4-105">מבלי להגדיר את הרשות MDM לא תוכל להשתמש בתכונות MDM של Intune.</span><span class="sxs-lookup"><span data-stu-id="9a8f4-105">Without setting the MDM authority you won't be able to use Intune's MDM features.</span></span> <span data-ttu-id="9a8f4-106">ההגדרה של רשות MDM קובעת כיצד אתה מנהל את ההתקנים שלך.</span><span class="sxs-lookup"><span data-stu-id="9a8f4-106">The MDM authority setting determines how you manage your devices.</span></span>
+<span data-ttu-id="e9358-103">הרשות לניהול מכשירים ניידים (MDM) של דייר זה אינה מוגדרת.</span><span class="sxs-lookup"><span data-stu-id="e9358-103">The mobile device management (MDM) authority of this tenant is not set.</span></span> <span data-ttu-id="e9358-104">עליך להגדיר רשות MDM לפני הרישום והניהול של מכשירים במהלך המנגינה MDM.</span><span class="sxs-lookup"><span data-stu-id="e9358-104">You must set an MDM authority before enrolling and managing devices through Intune MDM.</span></span> <span data-ttu-id="e9358-105">ללא הגדרת הרשות של MDM, לא תוכל להשתמש בתכונות MDM של MDM.</span><span class="sxs-lookup"><span data-stu-id="e9358-105">Without setting the MDM authority you won't be able to use Intune's MDM features.</span></span> <span data-ttu-id="e9358-106">הגדרת הרשות של MDM קובעת כיצד לנהל את המכשירים שלך.</span><span class="sxs-lookup"><span data-stu-id="e9358-106">The MDM authority setting determines how you manage your devices.</span></span>
 
-<span data-ttu-id="9a8f4-107">שלבים מומלצים:</span><span class="sxs-lookup"><span data-stu-id="9a8f4-107">Recommended Steps:</span></span>
-1. <span data-ttu-id="9a8f4-108">נווט ללהב הסקירה של ההרשמה Intune כדי להגדיר את הרשות MDM.</span><span class="sxs-lookup"><span data-stu-id="9a8f4-108">Navigate to the Intune Enrollment Overview blade to set the MDM authority.</span></span>
-2. <span data-ttu-id="9a8f4-109">בחר את הסמכות המתאימה בהתאם לצרכיך הניהוליים.</span><span class="sxs-lookup"><span data-stu-id="9a8f4-109">Choose the appropriate authority based on your administrative needs.</span></span> <span data-ttu-id="9a8f4-110">לקבלת מידע נוסף, ראה [הגדרת המאמר של רשות ניהול המכשירים הניידים](https://docs.microsoft.com/intune/mdm-authority-set).</span><span class="sxs-lookup"><span data-stu-id="9a8f4-110">For more information, see [Set the mobile device management authority article](https://docs.microsoft.com/intune/mdm-authority-set).</span></span>
+<span data-ttu-id="e9358-107">שלבים מומלצים:</span><span class="sxs-lookup"><span data-stu-id="e9358-107">Recommended Steps:</span></span>
+1. <span data-ttu-id="e9358-108">נווט ללהב מבט כולל על ' כוונון הרשמה ' כדי להגדיר את הרשות MDM.</span><span class="sxs-lookup"><span data-stu-id="e9358-108">Navigate to the Intune Enrollment Overview blade to set the MDM authority.</span></span>
+2. <span data-ttu-id="e9358-109">בחר את הסמכות המתאימה בהתבסס על הצרכים הניהוליים שלך.</span><span class="sxs-lookup"><span data-stu-id="e9358-109">Choose the appropriate authority based on your administrative needs.</span></span> <span data-ttu-id="e9358-110">לקבלת מידע נוסף, ראה [הגדרת מאמר הרשות לניהול מכשירים ניידים](https://docs.microsoft.com/intune/mdm-authority-set).</span><span class="sxs-lookup"><span data-stu-id="e9358-110">For more information, see [Set the mobile device management authority article](https://docs.microsoft.com/intune/mdm-authority-set).</span></span>
