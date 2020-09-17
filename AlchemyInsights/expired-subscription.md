@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,20 +14,20 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56bd5c85be4316f2c0cdc21f1f49ae5895ca4b97
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505580"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782940"
 ---
 # <a name="expired-subscription"></a>מנוי שפג תוקפו
 
-נראה שיש לך מנוי אחד או יותר שפג תוקפם. אם ברצונך להמשיך בשירות, עליך להפעיל מחדש את המנוי או לבצע רכישה חדשה.
+נראה שיש לך מנוי שפג תוקפו אחד או יותר. אם ברצונך להמשיך בשירות, עליך להפעיל מחדש את המנוי או לבצע רכישה חדשה.
   
 **הפעלה מחדש**
   
-1. במרכז הניהול, עבור אל דף **החיוב** של \> [**המוצרים שלך**](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. במרכז הניהול, עבור לדף ' **חיוב** \> **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** '.
 
 2. מצא את המנוי שברצונך להפעיל מחדש. במקטע **חיוב**, בחר **הפעל מחדש**.
 
@@ -36,14 +37,14 @@ ms.locfileid: "44505580"
 
 לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-**בצע רכישה חדשה**
+**יצירת רכישה חדשה**
   
-1. במרכז הניהול, עבור אל דף **Billing** \> [**שירותי הרכישה**](https://go.microsoft.com/fwlink/p/?linkid=868433) של חיוב.
+1. במרכז הניהול, עבור אל הדף **Billing** ' \> **[שירותי רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433)** בנושא חיובים '.
 
-2. בחר את המנוי שברצונך לקנות ולאחר מכן בחר באפשרות ' **קנה**'.
+2. בחר את המנוי שברצונך לקנות ולאחר מכן בחר **קנה**.
 
-3. הזן את מספר הרשיונות הדרושים ובחר אם לשלם מדי חודש או עבור שנה שלמה. בחר אם ברצונך להקצות רשיונות באופן אוטומטי לכל המשתמשים שאין להם כעת רשיון. . אז תבחר **לבדוק עכשיו**
+3. הזן את מספר הרשיונות הדרושים ובחר אם לשלם מדי חודש או עבור שנה שלמה. בחר אם ברצונך להקצות רשיונות באופן אוטומטי לכל המשתמשים שאין להם כעת רשיון. לאחר מכן בחר הוצא **כעת**.
 
-4. בצע את הפעולות הנותרות כדי להשלים את הוצאת החשבון.
+4. בצע את השלבים הנותרים כדי להשלים את ההוצאה.
 
-לקבלת מידע נוסף, ראה [רכישת מנוי אחר](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
+לקבלת מידע נוסף, ראה [קניית מנוי אחר](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
