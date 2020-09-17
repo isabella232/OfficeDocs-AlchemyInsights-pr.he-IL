@@ -1,28 +1,29 @@
 ---
-title: כיצד להשתמש במאגר ' טווח מקוון ' של SharePoint
+title: כיצד להשתמש במאגר המונחים של SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: dda6d6f286b373177e36d7da4a46747f6b9b9f16
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2425611d18b9751fd68c5cabb7c1bfe5af709bca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717377"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779088"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>כיצד להשתמש במאגר ' טווח מקוון ' של SharePoint
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>כיצד להשתמש במאגר המונחים של SharePoint Online
 
-המונח Store זמין לניהול גלובלי, SharePoint Admin, ו-מנהל חנות מנהלים ניתן למצוא במרכז החדש של SharePoint Online Admin.
+מאגר המונחים זמין למנהלי מערכת כלליים, ניהול SharePoint ומנהלי מאגר מונחים, וניתן למצוא אותו במרכז הניהול החדש של SharePoint Online.
   
-לקבלת מידע נוסף אודות אופן השימוש במאגר המונח ובטקסונומיה של SharePoint online בתוך SharePoint Online, ראה [מבוא למטא-נתונים מנוהלים](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+לקבלת מידע נוסף אודות אופן השימוש בחנות המונחים של SharePoint Online ובטקסונומיה בתוך SharePoint Online, ראה [מבוא למטה-נתונים מנוהלים](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-אם אתה נתקל בבעיה עם מונחים שאינם מופיעים או מופיעים לסירוגין, מומלץ להמתין 24 שעות ולאחר מכן לבצע רישום של בקשת תמיכה אם הבעיה נמשכת. למרות 24 שעות יכול להיות הרבה זמן, יכול להיות בעיה במטמון או שאנחנו כבר עובד על פתרון לבעיה זו.
+אם אתה נתקל בבעיה שאינה מופיעה או מופיעה לסירוגין, מומלץ להמתין 24 שעות ולאחר מכן לרשום בקשה לתמיכה אם הבעיה נמשכת. למרות ש-24 שעות עשוי להימשך זמן רב, ייתכן שקיימת בעיה במטמון או שאנו כבר עובדים על פתרון לבעיה זו.
   
