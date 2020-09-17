@@ -5,19 +5,20 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: b0a8f86c8ec419fb5b63e47b7d7528b5c83a96e4
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7db5e4c84f16e58b69be88f93e01aa57c75c52e3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767610"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795389"
 ---
 # <a name="user-permissions-in-sharepoint"></a>הרשאות משתמש ב-SharePoint
 
-לאחר שיצרת אתר SharePoint, ייתכן שתרצה לספק או להגביל את גישת המשתמש לאתר או לתוכנו. הדרך הקלה ביותר לעבוד עם הרשאות היא להשתמש [בקבוצות ברירת המחדל](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) וברמות ההרשאות המסופקות, המכסות את רוב התרחישים הנפוצים. אולם, אם עליך לעשות זאת, באפשרותך להגדיר הרשאות פרטניות יותר מעבר לרמות ברירת המחדל. לקבלת מידע נוסף, נא ראה [הכרת רמות הרשאה ב-SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+לאחר שיצרת אתר SharePoint, ייתכן שתרצה לספק או להגביל את גישת המשתמש לאתר או לתוכנו. הדרך הקלה ביותר לעבודה עם הרשאות היא להשתמש [בקבוצות ברירת המחדל](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) וברמות ההרשאות המופיעות, הכוללות את רוב התרחישים הנפוצים. עם זאת, אם אתה מעוניין בכך, באפשרותך להגדיר הרשאות מיותרות משובחות מעבר לרמות ברירת המחדל. לקבלת מידע נוסף, ראה [הכרת רמות הרשאה ב-SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
 לקבלת מידע נוסף אודות ניהול רמות הרשאה ספציפיות, בקר בקישורים הבאים:
 
@@ -27,7 +28,7 @@ ms.locfileid: "43767610"
 
 - [כיצד ליצור ולערוך רמות הרשאה](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
 
-- [הגדרת בקשות גישה וניהולם](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
+- [הגדרה וניהול של בקשות גישה](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3)
 
 - [שינוי ההרשאות בתיקיית משנה](https://support.office.com/article/change-the-permissions-on-a-subfolder-5427bd7c-f20a-4f75-8cf2-5359dd45a1a6)
 
