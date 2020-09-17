@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 25b5bace169fd2de0d3e2d59e9ae2aaa987eacd0
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
-ms.translationtype: HT
+ms.openlocfilehash: 0a240bb0acea178a58fa5bc9a2d95808676ad272
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154301"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800033"
 ---
 # <a name="unable-to-access-my-account"></a>לא ניתן לגשת לחשבון שלי
 
@@ -24,12 +25,14 @@ ms.locfileid: "43154301"
 
 **הפעלה מחדש של מינוי**
 
-1. במרכז הניהול, עבור אל הדף **חיוב > [מוצרים ושירותים](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. במרכז הניהול, עבור לדף ' **חיוב**  >  **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** '.
 
-2. בדף 'מוצרים ושירותים', חפש את המינוי שברצונך להפעיל מחדש.
+2. מצא את המנוי שברצונך להפעיל מחדש.
 
-3. במקטע 'חיוב', לחץ על **הפעל מחדש כעת**.  אם אתה בתצוגת 'כרטיסים', לחץ על שלוש הנקודות בין 'שם' לבין 'כמות זמינה', ובחר הפעלה מחדש מהתפריט. **הערה**: אם אינך רואה את המנוי שאותו אתה מחפש, ייתכן שתצטרך להתאים את המסנן מצב המנוי שבסמוך לחלק העליון של הדף למצב **הכל**.
+3. במקטע **חיוב**, לחץ על **הפעל מחדש כעת**. אם אתה נמצא בתצוגת **הכרטיסים** , לחץ על שלוש הנקודות בין **השם** **והכמות הזמינה** ובחר **הפעל** מחדש מהתפריט.
+
+**הערה**: אם אינך רואה את המנוי שאותו אתה מחפש, ייתכן שתצטרך להתאים את המסנן **מצב המנוי** שבסמוך לחלק העליון של הדף למצב **הכל**.
 
 4. אשר את פרטי התשלום שלך כדי לעדכן את פרטי התשלום הקיימים. לאחר שסיימת להזין את אמצעי התשלום שלך, לחץ על **הפעלה מחדש**.
 
-לקבלת מידע נוסף, ראה [הפעלה מחדש של המינוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+לקבלת מידע נוסף, ראה [הפעלה מחדש של המינוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

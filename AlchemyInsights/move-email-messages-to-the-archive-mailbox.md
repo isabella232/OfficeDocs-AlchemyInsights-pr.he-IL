@@ -1,39 +1,40 @@
 ---
-title: העברת הודעות דואר אלקטרוני לתיבת הדואר ' ארכיון '
+title: העברת הודעות דואר אלקטרוני לתיבת הדואר של הארכיון
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: 61d0b1a58fff6655b745bb9d39e8384f0a543336
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46522772"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799781"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>העברת דואר אלקטרוני לתיבת הדואר של הארכיון
 
-אם ברצונך שנריץ בדיקות אוטומטיות עבור ההגדרות שהוזכרו להלן, בחר את לחצן החזרה _ Lt_--בראש דף זה ולאחר מכן הזן את כתובת הדואר האלקטרוני של המשתמש שיש לו בעיות בהעברת הדואר האלקטרוני לתיבת הדואר שלהם בארכיון.
+אם ברצונך לבצע בדיקות אוטומטיות עבור ההגדרות המוזכרות להלן, בחר את לחצן ' הקודם ' < '-בחלק העליון של דף זה ולאחר מכן הזן את כתובת הדואר האלקטרוני של המשתמש שנתקל בבעיות בהעברת דואר אלקטרוני לתיבת הדואר של הארכיון.
 
-1. ודא **שתיבת דואר של ארכיון** הופעלה. אם לא, השתמש בשלבים [שבמאמר זה](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) כדי להפוך את תיבת הדואר של הארכיון לזמינה.
+1. ודא **שתיבת דואר של ארכיון** הופעלה. אם לא, השתמש בשלבים המפורטים [במאמר זה](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) כדי להפוך את תיבת הדואר של הארכיון לזמינה.
 
-2. כדי לאחסן בארכיון הודעות באופן אוטומטי לתיבת הדואר של הארכיון, יש להגדיר תג שמירה עם **העברת לפעולה בארכיון** כך **שיוחל באופן אוטומטי על תג תיבת הדואר המלא (ברירת המחדל)**. השתמש בשלבים כאן כדי ליצור את התג: [התגית ' ברירת מחדל של ארכיון](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag)'.
+2. כדי לאחסן בארכיון הודעות באופן אוטומטי בתיבת הדואר של הארכיון, יש להגדיר תגית שמירה עם הפעולה ' **העבר לארכיון** ' כדי **להחיל אותה באופן אוטומטי על התגית תיבת דואר מלאה (ברירת מחדל)**. השתמש בשלבים הבאים כדי ליצור את התגית: [תג ברירת המחדל של הארכיון](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. לאחר מכן, הוסף את תג **הארכיון** למדיניות השמירה. במרכז הניהול של Exchange, בחר באפשרות **מדיניות שמירה** _ gtie הוסף את **המעבר לתגית ארכיון** למדיניות _ **שמירה**.
+3. לאחר מכן, הוסף את תג **הארכיון** למדיניות השמירה. במרכז הניהול של Exchange, בחר **מדיניות שמירה** > הוסף את **התגית ' העבר לארכיון** ' למדיניות > **Save**.
 
-4. כעת [הקצה את מדיניות השמירה](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) לתיבת הדואר של המשתמש הספציפי. אותה מדיניות תוחל הן על תיבת הדואר **הראשית** והן של **הארכיון** .
+4. כעת [הקצה את מדיניות השמירה](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) לתיבת הדואר של המשתמש הספציפי. מדיניות זו תחול על תיבת הדואר **הראשית** והן עבור תיבת הדואר של **הארכיון** .
 
-ייתכן שיהיה צורך לכפות על מסייע התיקיות המנוהלות (משרד המשנה) להפעיל ולהחיל את ההגדרות החדשות על תיבת הדואר של המשתמש. הפעל את הפקודה הבאה בעת [ההתחברות ל-EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) כדי להפעיל את מסייע התיקיות המנוהלות עבור תיבת דואר ספציפית:
+ייתכן שיהיה צורך לאלץ את מסייע התיקיות המנוהלות (מנהל המשרד) לפעול ולהחיל את ההגדרות החדשות על תיבת הדואר של המשתמש. הפעל את הפקודה הבאה כאשר אתה [מחובר ל-קליפת PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) כדי להפעיל את מסייע התיקיות המנוהלות עבור תיבת דואר ספציפית:
   
-מסייע מניהול התחל-זהות<name of the mailbox>
+Start-ManagedFolderAssistant-זהות <name of the mailbox>
 
 לקבלת מידע נוסף אודות הגדרת מדיניות ארכיון, ראה [הגדרת מדיניות ארכיון ומחיקה עבור תיבות דואר](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   
