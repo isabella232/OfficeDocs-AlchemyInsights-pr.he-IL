@@ -1,24 +1,25 @@
 ---
-title: הודעת יישומי Office - אין אפשרות להשתמש מוצר שמצאנו בחשבון שלך להפעלה
+title: הודעת האפליקציות של Microsoft 365-המוצרים שמצאנו בחשבון שלך אינם משמשים להפעלה
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 6345f3acabb73f283c918cf7f3ca0c5c055f6186
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010732"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802742"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>הודעת יישומי Office - אין אפשרות להשתמש מוצר שמצאנו בחשבון שלך להפעלה
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>הודעת האפליקציות של Microsoft 365-המוצרים שמצאנו בחשבון שלך אינם משמשים להפעלה
 
 - בדוק כי [מצב המנוי](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) שלך חוקי ושהמשתמש המושפע קיבל [הקצאת רישיון חוקי](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) ושהוא מחובר לאינטרנט. 
 
@@ -26,7 +27,7 @@ ms.locfileid: "44010732"
 
 - הפעל את [פותר בעיות ההפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy) והפעל מחדש את המחשב.
 
-- במחשב המושפע, [אפס את מצב ההפעלה של Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- במחשב המושפע, [אפס את מצב ההפעלה של Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 עבור תרחישים למחשבים משותפים, ראה [פתרון בעיות בהפעלת מחשב משותף עבור יישומי Microsoft 365](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 

@@ -1,25 +1,26 @@
 ---
-title: צריך לסמן תחום או שולח דוא ל בטוח?
+title: צריך לסמן תחום או שולח דואר אלקטרוני בטוח?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002921"
 - "5673"
-ms.openlocfilehash: 7dc1576fd61e87b319c7486c59ed125943b4d959
-ms.sourcegitcommit: 43acdecef129bfffc8bbe8ebb08fdd581b238a03
+ms.openlocfilehash: 0ea089b95ad7de25e77017196fb2db895d4d0178
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44281149"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803246"
 ---
-# <a name="need-to-mark-a-domain-or-email-sender-safe"></a>צריך לסמן תחום או שולח דוא ל בטוח?
+# <a name="need-to-mark-a-domain-or-email-sender-safe"></a>צריך לסמן תחום או שולח דואר אלקטרוני בטוח?
 
-- **שימוש ברשימות שולח בטוחות אינו מומלץ מאחר** שהוא פותח את הארגון שלך לדואר זבל, phish והתקפות זיופים.
-- עם זאת, אם קיימת דרישה עסקית, אנו **ממליצים** להשתמש **[בכללי זרימת דואר](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** עבור פעולה זו. ההנחיה שלנו מבטיחה אימות שולח (מוודא ששליחת קבוצת מחשבים אינה מתחזה). **הערה**: אנו לא ממליצים על ניהול תוצאות חיוביות כוזבות באמצעות רשימות שולח בטוחות, מכיוון שחריגים לסינון דואר זבל יכולים לפתוח את הארגון שלך להתקפות אבטחה. אם המשתמש שלך מקבל הודעות המסומנות באופן שגוי כדואר זבל או כדואר זבל, **[דווח למיקרוסופט על הודעות וקבצים](https://protection.office.com/reportsubmission)**.
-- **יש להימנע** משולחים בטוחים ב-Outlook, רשימת שולחים מותרים, או רשימת תחומים המותרים במדיניות נגד דואר זבל, מכיוון ששולחים עוקפים את כל הודעות הזבל, הפרודיה וההגנה של פיש ואימות השולח (SPF, dkim, dkim). שיטה זו משמשת באופן הטוב ביותר לבדיקה זמנית בלבד.
+- שימוש **ברשימות שולחים בטוחים אינו מומלץ מאחר** שהוא פותח את הארגון שלך להודעות זבל, פיש וזיופים.
+- עם זאת, אם קיימת דרישה עסקית, אנו **ממליצים** להשתמש **[בכללי זרימת דואר](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** עבור פעולה זו. ההדרכה שלנו מבטיחה אימות שולח (אימות התחום השולח אינו מזויף). **הערה**: אנו לא ממליצים על ניהול חיובים שקריים באמצעות רשימות שולחים בטוחים, מאחר שחריגים לסינון הודעות זבל יכולים לפתוח את הארגון שלך להתקפות אבטחה. אם המשתמש שלך מקבל הודעות המסומנות באופן שגוי כדואר זבל או דואר זבל, **[דווח על הודעות וקבצים ל-Microsoft](https://protection.office.com/reportsubmission)**.
+- שולחים בטוחים ב-Outlook, ברשימת השולחים המותרים או ברשימת התחומים המותרים במדיניות למניעת הודעות זבל **יש להימנע** מכיוון ששולחים עוקפים את כל הודעות הדואר האלקטרוני, הזיופים והפיש ואימות השולח (SPF, DKIM, DMARC). מומלץ להשתמש בשיטה זו לבדיקה זמנית בלבד.
