@@ -2,7 +2,7 @@
 title: מצב מנוי
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: 1dd3268044d1859b2648486717b41f7941d135b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773488"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286959"
 ---
-# <a name="subscription-status"></a><span data-ttu-id="624ba-102">מצב מנוי</span><span class="sxs-lookup"><span data-stu-id="624ba-102">Subscription status</span></span>
+# <a name="subscription-status"></a><span data-ttu-id="88f5a-102">מצב מנוי</span><span class="sxs-lookup"><span data-stu-id="88f5a-102">Subscription status</span></span>
 
-<span data-ttu-id="624ba-103">ניתן למצוא את מצב המנוי בדף **המוצרים שלך** במרכז הניהול של Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="624ba-103">Subscription status can be found on the **Your products** page of the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="88f5a-103">מצב מנוי, תאריך תפוגה ומספר רשיונות ניתן למצוא בדף **המוצרים שלך** במרכז הניהול של Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="88f5a-103">Subscription status, expiration date, and number of licenses can be found on the **Your products** page of the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="624ba-104">עבור אל **חיוב**  >  **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="624ba-104">Go to **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-
-2. <span data-ttu-id="624ba-105">אם קיימת בעיה עם המצב של כל אחד מהמנויים, תראה סמל אזהרה אדום לצד המנוי, או מצב "פג" או "לא זמין" במקטע החיוב של פרטי המנוי.</span><span class="sxs-lookup"><span data-stu-id="624ba-105">If there is an issue with the status of any of the subscriptions, you will see either a red warning icon next to the subscription, or an "expired" or "disabled" status in the Billing section of the subscription details.</span></span>
-
-3. <span data-ttu-id="624ba-106">אם ברצונך להפעיל מחדש מנוי שפג תוקפו או שאינו זמין, לחץ על **הפעל**מחדש כעת.</span><span class="sxs-lookup"><span data-stu-id="624ba-106">If you'd like to reactivate an expired or disabled subscription, click **Reactivate now**.</span></span>
-
-<span data-ttu-id="624ba-107">**תאריך תפוגה**</span><span class="sxs-lookup"><span data-stu-id="624ba-107">**Expiration date**</span></span>
-
-1. <span data-ttu-id="624ba-108">עבור אל **חיוב**  >  **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="624ba-108">Go to **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-
-2. <span data-ttu-id="624ba-109">בהתאם לתצוגה, תאריך התפוגה יופיע בעמודה השמאלית המרוחקת שנקראת תאריך או במקטע **חיוב** של פרטי המנוי לצד **סיום** התוקף **.**</span><span class="sxs-lookup"><span data-stu-id="624ba-109">Depending on the view, the expiration date will appear on the far right column labeled **Date** or in the **Billing** section of the subscription details next to **Expiring on**.</span></span>
-
-<span data-ttu-id="624ba-110">**רשיונות**</span><span class="sxs-lookup"><span data-stu-id="624ba-110">**Licenses**</span></span>
-
-<span data-ttu-id="624ba-111">מספר הרשיונות הנרכשים והנמצאים בשימוש מפורט על-ידי המנוי בדף ' **המוצרים שלך** '.</span><span class="sxs-lookup"><span data-stu-id="624ba-111">The number of licenses purchased and in use is listed by subscription on the **Your products** page.</span></span>
-
+1. <span data-ttu-id="88f5a-104">במרכז הניהול, עבור לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.</span><span class="sxs-lookup"><span data-stu-id="88f5a-104">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="88f5a-105">בכרטיסיה **products** , כברירת מחדל, אתה רואה את כל המנויים ואת מצבם (פעיל, שפג תוקפו, לא זמין או נמחק).</span><span class="sxs-lookup"><span data-stu-id="88f5a-105">On the **Products** tab, by default, you see all subscriptions and their status (Active, Expired, Disabled, or Deleted).</span></span> <span data-ttu-id="88f5a-106">כדי לראות קבוצת משנה של כל המנויים, בחר את סמל המסנן ולאחר מכן בחר את **מצב המנוי** שברצונך לראות.</span><span class="sxs-lookup"><span data-stu-id="88f5a-106">To see a subset of all subscriptions, select the filter icon, then select the **Subscription status** that you want to see.</span></span>
+3. <span data-ttu-id="88f5a-107">כדי להפעיל מחדש מנוי שפג תוקפו או לא זמין, בחר **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **הפעל מחדש מנוי זה**.</span><span class="sxs-lookup"><span data-stu-id="88f5a-107">To reactivate an expired or disabled subscription, select **More actions** (three dots), then select **Reactivate this subscription**.</span></span>
+4. <span data-ttu-id="88f5a-108">הדף ' **המוצרים שלך** ' מציג גם את המידע הבא:</span><span class="sxs-lookup"><span data-stu-id="88f5a-108">The **Your products** page also displays the following information:</span></span>
+    - <span data-ttu-id="88f5a-109">מספר הרשיונות שהוקצו למשתמשים מוצג בעמודה **רשיונות שהוקצו** .</span><span class="sxs-lookup"><span data-stu-id="88f5a-109">The number of licenses assigned to users is displayed in the **Assigned licenses** column.</span></span>
+    - <span data-ttu-id="88f5a-110">מספר הרשיונות הכולל הכלול במנוי מוצג בעמודה **כמות שנרכשה** .</span><span class="sxs-lookup"><span data-stu-id="88f5a-110">The total number of licenses included in the subscription is displayed in the **Purchased quantity** column.</span></span>
+    - <span data-ttu-id="88f5a-111">תאריך התפוגה או החידוש בעמודה **מצב מנוי** .</span><span class="sxs-lookup"><span data-stu-id="88f5a-111">The expiration or renewal date in the **Subscription status** column.</span></span>
+    - <span data-ttu-id="88f5a-112">שיטת התשלום המשמשת לתשלום עבור כל מנוי מוצגת בעמודה ' **ששולם עם** '.</span><span class="sxs-lookup"><span data-stu-id="88f5a-112">The payment method used to pay for each subscription is displayed in the **Paid with** column.</span></span>
+    - <span data-ttu-id="88f5a-113">חשבון החיוב המשויך לכל מנוי מוצג בעמודה **חשבון חיוב** .</span><span class="sxs-lookup"><span data-stu-id="88f5a-113">The billing account associated with each subscription is displayed in the **Billing account** column.</span></span>
+5. <span data-ttu-id="88f5a-114">כדי להוסיף או להסיר עמודות, בחר **באפשרות בחר עמודות**.</span><span class="sxs-lookup"><span data-stu-id="88f5a-114">To add or remove columns, select **Choose columns**.</span></span>
