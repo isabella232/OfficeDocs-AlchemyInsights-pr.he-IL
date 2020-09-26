@@ -2,7 +2,7 @@
 title: שאלה לגבי רשיונות
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,18 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ff02e0beb7a15053961e860bfa1bf5a66d9eeaaf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812620"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287067"
 ---
 # <a name="questions-about-your-microsoft-365-license"></a>שאלות בנוגע לרשיון Microsoft 365 שלך
 
-אם ברצונך לדעת כמה רשיונות רכשת, או כמה רשיונות מוקצים ממנוי:
+השתמש בשלבים אלה כדי לגלות כמה רשיונות קנית, או כמה רשיונות מוקצים ממנוי.
   
-1. במרכז הניהול, עבור לדף ' **חיוב** \> **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** '.
+1. במרכז הניהול, עבור לדף ' **חיוב** \> [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
+2. בכרטיסיה **products** , אתר את המנוי שברצונך לקבל מידע נוסף אודותיו. באפשרותך לראות את מספר הרשיונות שאתה משלם עבורם ומספר הרשיונות המוקצים כעת.
 
-2. חפש את המנוי שברצונך לקבל מידע נוסף אודותיו. באפשרותך לראות את מספר הרשיונות שאתה משלם עבורם וכמה זמינים להקצאה.
-
-אם ברצונך להוסיף רשיונות נוספים, או אם יש לך יותר מדי, בחר **הוספה/הסרה של רשיונות** כדי לכוונן את הסכום שנרכש.
+אם ברצונך להוסיף רשיונות נוספים, או אם יש לך רבים מדי, בחר את המנוי. בדף ' נתוני מנוי ', בחר **קנה רשיונות** או **הסר רשיונות** כדי לכוונן את מספר הרשיונות הכולל עבור המנוי.
