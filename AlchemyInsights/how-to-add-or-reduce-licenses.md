@@ -2,7 +2,7 @@
 title: הוספה או הסרה של רשיונות עבור המנוי שלך
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,35 +13,27 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: d07403226345a4e90aa4f7a5aa7a4ef5e0e9ea19
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781212"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307271"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>הוספה או הסרה של רשיונות עבור המנוי שלך
 
-כך ניתן להוסיף/להסיר רשיונות.
+כך ניתן להוסיף או להסיר רשיונות.
   
-1. במרכז הניהול, עבור לדף ' **חיוב** \> **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** '.
-
-2. בחר את המנוי שעבורו ברצונך להוסיף/להסיר רשיונות.
-
-3. לחץ על **הוספה/הסרה של רשיונות**.
-
-4. הזן את המספר הכולל של המשתמשים הדרושים. לדוגמה, אם יש לך כעת 25 רשיונות וברצונך להסיר 5, הזן 20 בשדה זה.
-
-5. לחץ על **שלח שינוי**.
-
-**הערה**: כל חיוב חדש (הגדלת רשיונות) או זיכוי (הפחתת רשיונות) יופיע בחשבון הבא שלך.
+1. במרכז הניהול, עבור לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
+2. בכרטיסיה **products** , אתר את המנוי שעבורו ברצונך לרכוש או להסיר רשיונות. בחר באפשרות **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **קנה רשיונות**.
+3. אם ברצונך להקטין את מספר הרשיונות, בחלק העליון של החלונית **קניי רשיונות** , בחר **הסר רשיונות**.
+4. כדי לרכוש או להסיר רשיונות, תחת **כמות חדשה** בתיבה **Total רשיונות** , הזן את מספר הרשיונות הרצוי עבור מנוי זה. לדוגמה, אם יש לך רשיונות של 100 וברצונך להוסיף עוד 25, הזן 125. אם ברצונך להסיר 25 רשיונות, הזן 75.
+5. לחץ **שמור**.
 
 לקבלת מידע אודות אופן הקצאת רשיונות, ראה [הקצאת רשיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 **משאבים**
   
-- [ניהול רשיונות מנויים-רכישה או הסרה של רשיונות](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-
-- [ביטול Microsoft 365 for business](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
-
-- [קניית מנוי אחר של Microsoft 365 for business](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [רכישה או הסרה של רשיונות מנויים](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [ביטול Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [נסה או קנה מנוי של Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

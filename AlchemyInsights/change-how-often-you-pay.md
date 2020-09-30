@@ -15,22 +15,23 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bfad1d1eb6ceeb70ce6f0da6b5ee5e985548b937
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ecf4987e5590708cb2c8246ca0e3a9343035811
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733627"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307343"
 ---
 # <a name="change-how-often-you-pay"></a>שינוי תדירות התשלום
 
 כדי לשנות את תדירות החיוב שלך ולשלם עבור מנוי, בצע את השלבים הבאים במרכז הניהול של Microsoft 365.
 
 1. עבור לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
-2. בכרטיסיה **products** , בחר את המנוי שברצונך לשנות. 
+2. בכרטיסיה **products** , בחר את המנוי שברצונך לשנות.
 3. בדף פרטי מנוי, במקטע **מנוי והגדרות תשלום** , בחר **ערוך תדירות חיוב**.
-4. בחלונית **עריכת תדירות חיוב** , shoose את האפשרות לגבי התדירות שבה ברצונך לחייב את החיוב ולאחר מכן בחר **שנה**.
+4. בחלונית **עריכת תדירות חיוב** , בחר את האפשרות לגבי התדירות שבה ברצונך לחייב את החיוב ולאחר מכן בחר **שנה**.
 
-**הערה**: חיוב חודשי או שנתי הם האפשרויות היחידות.
+> [!NOTE]
+> חיוב חודשי או שנתי הם האפשרויות היחידות.
 
 לקבל מידע נוסף, ראה [שינוי תדירות החיוב שלך](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

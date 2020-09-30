@@ -2,7 +2,7 @@
 title: הפעלת מנוי של רשיון רב משתמשים של Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,23 +14,20 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: aa46285e2439ef6c645c0ae83db6bbd3a2350bda
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b98f8c2da22e07c6e99e04c7e7e06f4d9b1fbcc7
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698098"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307126"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>הפעלת מנוי של רשיון רב משתמשים של Microsoft
 
 1. היכנס [לפורטל מרכז השירות של רישוי רב משתמשים (VLSC)](https://go.microsoft.com/fwlink/p/?LinkId=329762).
-
 2. נווט אל המנוי שלך ובחר **הפעל**.
-
-3. דואר אלקטרוני יישלח לאיש הקשר שלך ב-Online Services (OLS).
-
-4. הודעת הדואר האלקטרוני של ההפעלה תספק לך שתי אפשרויות: **הירשם**או **היכנס**. אם יצרת בעבר גירסת ניסיון, בחר **באפשרות היכנס**. אם עדיין אין לך דייר Microsoft 365, בחר **הירשם**.
-
-5. היכנס למרכז הניהול של Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) באמצעות אישורי מנהל מערכת קיימים. לאחר שתיכנס בהצלחה, תקבל הודעת דואר אלקטרוני נוספת אשר תאשר את הרכישה.
-
-6. לאחר שתיכנס, תוכל לעבור לדף **חיוב** \> [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך כדי לוודא שהמנויים שנרכשו מופעלים בתוך הדייר שלך. (באפשרותך גם לבחור את הכרטיסיה **מנוי** ב-VLSC כדי להציג פרטים המאמתים שהמנוי שלך הופקד.)
+3. דואר אלקטרוני נשלח לאיש הקשר שלך ב-Online Services (OLS).
+4. הדואר האלקטרוני של ההפעלה מספק לך שתי אפשרויות: **הירשם**או **היכנס**. אם יצרת בעבר גירסת ניסיון, בחר **באפשרות היכנס**. אם עדיין אין לך דייר Microsoft 365, בחר **הירשם**.
+5. היכנס למרכז הניהול של Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) באמצעות אישורי מנהל מערכת קיימים. לאחר שתיכנס בהצלחה, תקבל הודעת דואר אלקטרוני נוספת המאשרת את הרכישה.
+6. לאחר שתיכנס, עבור אל דף **חיוב** \> [המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) כדי לוודא שהמנויים שנרכשו פעילים כעת. 
+    > [!NOTE]
+    > באפשרותך גם לבחור את הכרטיסיה ' **מנוי** ' ב-VLSC כדי להציג פרטים המאמתים שהמנוי שלך הופעל.)
