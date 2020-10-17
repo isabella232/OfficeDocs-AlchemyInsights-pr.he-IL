@@ -2,8 +2,8 @@
 title: כיצד לקנות רשיונות עבור מנוי Microsoft 365 Apps לעסקים
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,20 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 4339c735097ea1f4b277572b65baa112cc35a087
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b9f659c97cea3c2eaa01b5a6b8facd5b255f8f
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781104"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488882"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>כיצד לקנות רשיונות עבור מנוי Microsoft 365 Apps לעסקים
 
-בעת הקצאת רשיונות למשתמשים שלך, ייתכן שתגלה שעליך לקנות רשיונות נוספים. לשם כך:
+בעת הקצאת רשיונות למשתמשים שלך, ייתכן שתגלה שעליך לקנות רשיונות נוספים. השתמש בשלבים הבאים:
   
-1. במרכז הניהול, עבור לדף ' **חיוב** \> **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** '.
+1. במרכז הניהול, עבור לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
+2. בכרטיסיה **products** , אתר את המנוי שברצונך לעדכן. בחר באפשרות **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **קנה רשיונות**.
+3. בחלונית **קניית רשיונות** , תחת **כמות חדשה** בתיבה **Total רשיונות** , הזן את מספר הרשיונות הרצוי עבור מנוי זה. לדוגמה, אם יש לך רשיונות של 100 וברצונך להוסיף עוד 25, הזן 125.
+4. לחץ **שמור**.
 
-2. אתר את המנוי שאליו ברצונך להוסיף רשיונות ולאחר מכן בחר **הוסף/הסר רשיונות**.
-
-3. בתיבה **total רשיונות** , הזן את מספר הרשיונות הכולל הדרוש לך עבור מנוי זה ולאחר מכן בחר **שלח שינוי**. לדוגמה, אם יש לך 100 רשיונות וברצונך להוסיף 5 רשיונות נוספים, הזן 105.
-
-לקבלת מידע נוסף, ראה [קניית רשיונות עבור מנוי Microsoft 365 Apps for business](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+לקבלת מידע נוסף, ראה [קניית רשיונות עבור מנוי Microsoft 365 for business שלך](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

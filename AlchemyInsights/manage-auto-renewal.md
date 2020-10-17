@@ -2,8 +2,8 @@
 title: ניהול החידוש האוטומטי
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,23 +14,21 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: 67c52866f683c6d14171ac8e96b82f75d821017a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d26d9976fa4ebcd98ee4a8a0547f706293e78f9a
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778188"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488810"
 ---
 # <a name="manage-recurring-billing"></a>ניהול חיובים חוזרים
 
 באפשרותך להפעיל או לבטל את החיוב החוזר במרכז הניהול של Microsoft 365.
   
-1. במרכז הניהול, עבור לדף ' **חיוב** \> **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** '.
-
-2. תחת **חיוב**, לצד **חידושים מופעלים** או **שתוקפם מופעל**, בחר **ערוך**.
-
-3. בחלונית **הגדרות חיוב חוזרות** , בחר **ביטול** כדי לבטל אותה. אם החיוב החוזר כבר כבוי, בחר באפשרות **חודשי** או **פעם אחת** כדי להפעיל אותו.
-
-4. בחר **שלח שינוי**.
+1. במרכז הניהול, עבור לדף ' **חיוב** \> [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
+2. בכרטיסיה **products** , בחר את המנוי שברצונך לשנות.
+3. בדף פרטי מנוי, תחת **הגדרות מנוי ותשלום**, בחר **ערוך חיובים חוזרים**.
+4. בחלונית **עריכת הגדרות חיוב חוזרות** , בחר **מופעל**, **מופעל, אך חדש פעם אחת**או **בטל**.
+5. לחץ **שמור**.
 
 לקבלת מידע נוסף, ראה [הפעלה או כיבוי של חיוב חוזר](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

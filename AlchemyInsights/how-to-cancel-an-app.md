@@ -2,8 +2,8 @@
 title: כיצד לבטל יישום
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: 03723bbdac07e46539d41fc771ffeccff03f59bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780996"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488846"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>כיצד לבטל יישומי תוכנה בשירות 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>כיצד לבטל יישומי תוכנה בשירות
 
-1. במרכז הניהול של Microsoft 365, בדף ' **חיוב**  >  **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** ', ולאחר מכן בחר את הכרטיסיה ' **יישומים** '.
-
-2. אתר ובחר את היישום שברצונך לנהל.
-
-3. תחת **הגדרות & פעולות**, בחר **ביטול מנוי**.
+1. במרכז הניהול, לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
+2. בדף **products** , גלול מטה אל המקטע **יישומים** ואתר את המנוי שברצונך לבטל. 
+3. בחר **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **בטל מנוי**.
+4. בחלונית **ביטול מנוי** , בחר סיבה לכך שאתה מבטל. באופן אופציונלי, ספק משוב.
+5. לחץ **שמור**.
