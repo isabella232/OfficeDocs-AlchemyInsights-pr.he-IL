@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 2f3528375d251542fd82761d00c776706de2e23c
-ms.sourcegitcommit: f7b82f75a5400e992ecbd48a666783354e2e2871
+ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
+ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
 ms.translationtype: MT
 ms.contentlocale: he-IL
 ms.lasthandoff: 10/15/2020
-ms.locfileid: "48473102"
+ms.locfileid: "48478340"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>חסימה או ביטול חסימה של העברת דואר אלקטרוני
 
 כדי להפוך העברת דואר אלקטרוני לזמינה או ללא זמינה עבור תיבת דואר ספציפית, ראה [קביעת תצורה של העברת דואר אלקטרוני](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-ברמת הדייר, השליטה על העברה חיצונית מתבצעת באמצעות מדיניות הדואר האלקטרוני היוצא. באפשרותך לבדוק את מדיניות המסנן של דואר זבל יוצא ממרכז האבטחה והתאימות [כאן] ( https://protection.office.com/antispam) או באמצעות [הפקודה Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+ברמת הדייר, השליטה על העברה חיצונית מתבצעת באמצעות מדיניות הדואר האלקטרוני היוצא. באפשרותך לבדוק את מדיניות המסנן של דואר זבל יוצא ממרכז האבטחה והתאימות [כאן](https://protection.office.com/antispam) או באמצעות [הפקודה Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
 אם אתה מקבל את השגיאה הבאה: **"550 5.7.520 Access נדחה, הארגון שלך אינו מאפשר העברה חיצונית"**, ודא שהמדיניות מוגדרת להפיכת העברה אוטומטית אוטומטית לזמינה.
 
