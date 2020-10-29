@@ -1,5 +1,5 @@
 ---
-title: רכישת הגנת האיום המתקדמת של Office 365
+title: רכישת Microsoft Defender עבור Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693556"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801148"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>רכישת הגנת האיום המתקדמת של Office 365
+# <a name="purchase-microsoft-defender-for-office-365"></a>רכישת Microsoft Defender עבור Office 365
 
-הגנת האיום המתקדמת של Office 365 (ATP) כלולה במנויים מסוימים, כגון Microsoft 365 E5, Office 365 E5, Office 365 A5 ו-Microsoft 365 Business Premium. אם המנוי שלך אינו כולל את Office 365 ATP, באפשרותך לרכוש את [תוכנית atp 1OR ATP תוכנית 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) כתוספת למנוי מסוים. לרכישה במרכז הניהול של Microsoft 365:
+Microsoft Defender עבור Office 365 (ATP) כלול במנויים מסוימים, כגון Microsoft 365 E5, Office 365 E5, Office 365 A5 ו-Microsoft 365 Business Premium. אם המנוי שלך אינו כולל את Office 365 ATP, באפשרותך לרכוש את [תוכנית atp 1OR ATP תוכנית 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) כתוספת למנוי מסוים. לרכישה במרכז הניהול של Microsoft 365:
 
 1. עבור אל **Billing**   >   [שירותי רכישת](https://go.microsoft.com/fwlink/p/?linkid=868433)חיוב.
 2. בחר דף **הרחבות מקטגוריות אחרות שעשויות לעניין אותך.** **Add-ons**

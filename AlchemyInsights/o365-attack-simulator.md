@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759220"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801552"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>סימולטור התקפה ב-Microsoft 365
 
-- האם חסר לך סימולטור התקפה? סימולטור **התקפה דורש office 365 הגנה מתקדמת תוכנית הגנה 2 (ATP תוכנית 2)** או **Office 365 Enterprise E5**. סימולטור התקפה **אינו** כלול ב-Office 365 הגנה מתקדמת של תוכנית 1 (ATP plan 1), Office 365 Enterprise E3 או כל אפליקציות של Microsoft 365 למנויים עסקיים.
+- האם חסר לך סימולטור התקפה? סימולטור **התקפה דורש Microsoft Defender עבור office 365 תוכנית 2 (ATP תוכנית 2)** או **Office 365 Enterprise E5** . סימולטור התקפה **אינו** כלול ב-Microsoft Defender עבור Office 365 תוכנית 1 (ATP Plan 1), Office 365 Enterprise E3, או כל אפליקציות Microsoft 365 למנויים עסקיים.
 
 - החשבון שבו אתה משתמש להפעלת התקפות מדומה דורש הרשאות מנהל מערכת כללי או מנהל אבטחה ואימות רב-גורמי. לקבלת מידע נוסף אודות דרישות סימולטור התקפה, עיין [בנושא זה](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759220"
 
 - דברים חשובים שעליך לדעת לגבי הדמיית **החנית** מצרף סימולציות:
 
-  - לפי עיצוב, אין באפשרותך לספק ערך מותאם אישית עבור **כתובת URL של שרת הכניסה לדיוג**.
+  - לפי עיצוב, אין באפשרותך לספק ערך מותאם אישית עבור **כתובת URL של שרת הכניסה לדיוג** .
 
   - אם נמען משתמש [בתוספת הפיכת הודעת הדוח לזמינה](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) כדי לדווח על ההודעה כדיוג, ייתכן שלא תקבל התראות עבור ההודעה (מכיוון שזוהי התקפה מדומה).
 

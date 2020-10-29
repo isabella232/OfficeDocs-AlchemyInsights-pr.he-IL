@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות בהגנת האיום המתקדמת של Office 365
+title: פתרון בעיות של Microsoft Defender עבור Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658915"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801444"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>פתרון בעיות בהגנת האיום המתקדמת של Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>פתרון בעיות של Microsoft Defender עבור Office 365
 
 - האם אתה מבחין בעיכובים במסירת הודעות? השתמש באפשרות [המסירה הדינאמית](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) במדיניות הקבצים המצורפים הבטוחים של ATP. פעולה זו תעזור למנוע עיכובים של הודעות תוך הגנה על נמענים מקבצים זדוניים.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658915"
 
   1. עבור אל [https://protection.office.com](https://protection.office.com) והיכנס באמצעות חשבון מנהל מערכת כללי או מנהל אבטחה.
 
-  2. בחלונית הניווט הימנית תחת **ניהול האיום**, בחר באפשרות קישורים בטוחים **של מדיניות** \> **Safe Links**.
+  2. בחלונית הניווט הימנית תחת **ניהול האיום** , בחר באפשרות קישורים בטוחים **של מדיניות** \> **Safe Links** .
 
-  3. בפריטי **המדיניות החלים על המקטע כולו של הארגון** , בחר את המדיניות ולחץ על **ערוך**.
+  3. בפריטי **המדיניות החלים על המקטע כולו של הארגון** , בחר את המדיניות ולחץ על **ערוך** .
 
-  4. תחת **הגדרות**, הפעל את **האפשרות החל קישורים בטוחים על הודעות הנשלחות בתוך הארגון**.
+  4. תחת **הגדרות** , הפעל את **האפשרות החל קישורים בטוחים על הודעות הנשלחות בתוך הארגון** .

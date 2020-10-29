@@ -1,5 +1,5 @@
 ---
-title: הגנת איום מתקדמת של Office 365
+title: Microsoft Defender עבור Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696622"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801228"
 ---
-# <a name="office-365-advanced-threat-protection"></a>הגנת איום מתקדמת של Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender עבור Office 365
 
-- קבצים מצורפים בטוחים, קישורים בטוחים ואנטי-דיוג הם חלק מהגנת האיום המתקדמת של Office 365 (ATP). Enterprise E5, השכלה A5 ו-Microsoft 365 Business Premium כוללים ATP. כל התוכניות האחרות דורשות מנוי ATP של הרחבה.
+- קבצים מצורפים בטוחים, קישורים בטוחים ומניעת דיוג הם חלק מ-Microsoft Defender עבור Office 365 (ATP). Enterprise E5, השכלה A5 ו-Microsoft 365 Business Premium כוללים ATP. כל התוכניות האחרות דורשות מנוי ATP של הרחבה.
 
 - עליך להקצות את הרשיונות המתאימים כדי להגן על המשתמשים שלך על-ידי Office 365 ATP. עיין [בנושא זה](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) לקבלת הוראות להחלת רשיונות בצובר על המשתמשים שלך.
 
-- מנהלי מערכת כלליים או מנהלי אבטחה יכולים לגשת לתכונות של מרכז התאימות של Office 365 במרכז התאימות של & בנושא **האיום של Managmeent** \> **Policy**.
+- מנהלי מערכת כלליים או מנהלי אבטחה יכולים לגשת לתכונות ה& של Office 365 במרכז התאימות של אבטחה במדיניות **האיום Managmeent** \> **Policy** .
 
 - מסמכים מצורפים בטוחים ומדיניות קישור בטוח יכולים להיות מורכבים עבורך בארגון כולו, בתחומים ספציפיים או בקבוצות קטנות יותר של משתמשים.
 
