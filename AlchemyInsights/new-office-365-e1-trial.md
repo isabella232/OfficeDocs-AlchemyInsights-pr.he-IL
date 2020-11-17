@@ -12,25 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: 76c7c64bce8149a4a4a981ec97776b897e51b862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dfde60184374c3031a645f1193ea164f246bed92
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769508"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49086085"
 ---
 # <a name="new-office-365-e1-trial"></a>גירסת ניסיון חדשה של Office 365 E1
 
-חדש במרץ 2020, גירסת ניסיון של 6 חודשים ללא תשלום של [Office 365 E1](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), כולל Microsoft teams, זמינה כעת. כדי ללמוד מה זמין ברשיון E1, קרא את [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software).
-
-**מי זכאי?**
-
-הצעה זו מיועדת ללקוחות המנוהלים על-ידי נציג חשבון Microsoft. מדובר בארגונים שלא הפעילו ניסויים אחרים של Office 365 E1 בעבר. לאחר השימוש בקוד הניסיון של משפט E1, לא תוכל להשתמש בו שוב, וגם לא תוכל להפעיל קוד ניסיון נוסף של E1. במקרים אלה, תוכל לאפשר לעובדים שלך להפעיל [רשיון גישוש של teams](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
-
-**מי אינו זכאי?**
-
-- הצעה זו אינה זמינה עבור לקוחות של משרד התיירות, משרד החוץ, משרד ההגנה או האדו. אנו עובדים על גירסה של משתתף במשפט E1 – היא תהיה זמינה בקרוב.
-
- - לקוחות EDU צריכים להשתמש ברשיון Office 365 בחינם A1.
-
-אל תחמיצו את כל ההדרכה שלנו [לתמיכה בעובדים מרוחקים עם teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+נכון ל-1 ביולי 2020, רשיון הניסיון של Office 365 E1 אינו זמין עוד. אם עליך להעניק רשיון למשתמשים עבור Microsoft Teams, קרא את [תיאור השירות של Microsoft teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) לקבלת רשימה של מנויים בתשלום הכוללים צוותים. לחלופין, ארגונים זכאים יוכלו להשתמש [בגירסה ללא תשלום של teams](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c), או שהעובדים יוכלו להפעיל את חוויית [הבדיקה של teams](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) .
