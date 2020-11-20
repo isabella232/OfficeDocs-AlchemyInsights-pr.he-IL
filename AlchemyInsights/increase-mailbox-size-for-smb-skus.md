@@ -2,7 +2,7 @@
 title: הגדלת גודל תיבת הדואר עבור פריטי Sku של SMB
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: e4f4791358977133e2c94c70fb955304ebe80d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfb05ac9cafd0bafc0baf1afa39bb8374d725f18
+ms.sourcegitcommit: eb7cf60a8fef79b00675eb645b0d0d8d5f9744df
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778296"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49363684"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>שדרוג תוכניות כדי להגדיל את גודל תיבת הדואר
 
-אם גודל תיבת הדואר הוא 50 GB, באפשרותך להגדיל את גודל תיבת הדואר ל-100 GB על-ידי מעבר ל- [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) או [Office 365 enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). להלן השלבים למעבר למנוי אחר:
+אם גודל תיבת הדואר הוא 50 GB, באפשרותך להגדיל את גודל תיבת הדואר ל-100 GB על-ידי שדרוג ל- [office 365 e3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), [microsoft 365 E3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), [Office 365 e5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab)או [Microsoft 365 e5](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab). להלן השלבים לשדרוג למנוי אחר:
   
-1. במרכז הניהול של Microsoft 365, עבור לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
+1. במרכז הניהול, עבור לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
+2. בכרטיסיה **products** , בחר את המנוי שברצונך לשדרג.
+3. בדף פרטי מנוי, במקטע **פרטי מוצר ושדרוגים** , בחר **הצג שדרוגים מומלצים עבור הארגון שלך**.
+4. בדף **שדרוגים זמינים** , אתר את התוכנית החדשה הרצויה ולאחר מכן בחר **שדרג**.
+5. בעמוד **הקופה** , בחר או הוסף שיטת תשלום ולאחר מכן בחר באפשרות **בצע הזמנה**.
+6. בכרטיסיה **הכל מוכן!** , בחר **מצב של השדרוג**, או **המשך להגדיר את המנוי שלך**.
 
-2. בחר את המנוי לשדרוג ולאחר מכן בחר את הכרטיסיה **שדרוג** כדי להציג את רשימת התוכניות החדשות הזמינות.
+לאחר שתסיים את ההוצאה, Microsoft 365 ייקח כמה דקות כדי לסיים את הבורר. באפשרותך להתחיל להשתמש במנוי החדש שלך באופן מיידי.
 
-3. בחר תוכנית כדי לראות את העלות הכוללת החדשה לכל חודש. הקפד לקרוא את **המידע הראשי**ולאחר מכן בחר **הבא** כדי להוציא.
-
-4. לאחר שתסיים את ההוצאה, Microsoft 365 ייקח כמה דקות כדי לסיים את הבורר. באפשרותך להתחיל להשתמש במנוי החדש שלך באופן מיידי.
-
-לקבלת פרטים נוספים, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+לקבלת מידע נוסף, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
