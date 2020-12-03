@@ -5,24 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932074"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529019"
 ---
 # <a name="contact-the-sales-team"></a>צור קשר עם צוות המכירות
 
-באמצעות מחברים של Microsoft Graph, הארגון שלך יכול ליצור אינדקס של נתונים של צד שלישי כך שיופיעו בתוצאות החיפוש של Microsoft.
+קיימות כמה דרכים ליצירת קשר עם צוות המכירות של Microsoft 365.
 
-- [מחברים לפי מיקרוסופט](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [מחברים על ידי השותפים שלנו](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-לקבלת מידע נוסף, ראה [מבט כולל על מחברים של Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- השתמש בטופס  [יצירת קשר](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  כדי שמומחה מכירות של Microsoft 365 ייצור איתך קשר.
+- כדי ליצור קשר עם מומחה לרישוי רב משתמשים בהסכם ארגוני, התחל בפורטל של [מרכז שירות לרישוי רב משתמשים](https://go.microsoft.com/fwlink/p/?LinkId=329762).
