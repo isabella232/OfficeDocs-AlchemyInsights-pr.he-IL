@@ -1,9 +1,9 @@
 ---
 title: עריכת פרופיל חיוב עבור יישומים
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 12/02/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: c2059808987efd668f8bd8d31095907b8e318f76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711024"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571738"
 ---
 # <a name="edit-billing-profile-for-apps"></a>עריכת פרופיל חיוב עבור יישומים
 
-## <a name="to-change-the-billing-profile-on-apps"></a>כדי לשנות את פרופיל החיוב ביישומים
+**עריכת פרופילי חיוב**
 
-1. עבור אל הדף **חיוב**  >  **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** ולאחר מכן בחר את הכרטיסיה **יישומים** .
+1. עבור אל הדף **Billing**  >  **[חשבונות חיוב & תשלומים](https://go.microsoft.com/fwlink/p/?linkid=848039)** ולאחר מכן לחץ על **פרופילי חיוב**.
+
+2. מתוך רשימת פרופילי החיוב, בחר את פרופיל החיוב שברצונך לערוך.
+
+**כדי לשנות את פרופיל החיוב ביישומים**
+
+1. עבור לדף ' **חיוב**  >  **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** ' ולאחר מכן לחץ על הכרטיסיה ' **יישומים** '.
 
 2. אתר ובחר את היישום שברצונך לנהל.  
 
-3. לצד **פרופיל חיוב**, בחר **ערוך** ובחר את פרופיל החיוב שברצונך לשייך לאפליקציה.
-
-## <a name="edit-billing-profiles"></a>עריכת פרופילי חיוב
-
-1. עבור אל הדף ' חשבונות **חיוב**'  >  **[& תשלומים](https://go.microsoft.com/fwlink/p/?linkid=848039)** ' ולאחר מכן בחר באפשרות **פרופילי חיוב**.
-
-2. בחר את פרופיל החיוב מהרשימה לעריכה.
+3. לצד **פרופיל חיוב**, לחץ על **ערוך** ובחר את פרופיל החיוב שברצונך לשייך לאפליקציה.
