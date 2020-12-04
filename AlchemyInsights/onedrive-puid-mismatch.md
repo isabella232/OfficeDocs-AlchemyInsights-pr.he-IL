@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754340"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569168"
 ---
 # <a name="onedrive-puid-mismatch"></a>אי-התאמה של OneDrive PUID
-נראה שאתה נתקל בחוסר [התאמה של PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) ב-OneDrive for Business. בצע את השלבים שלהלן כדי שניתן יהיה לסייע לך בהקדם האפשרי:
 
-1. לחץ על **פנה לתמיכה**ולאחר מכן על **בקשת שירות חדשה**.
-2. השאר את כותרת ותיאור **כאי-התאמה של PUID באתר OneDrive**.
+נראה שאתה נתקל [באי-התאמה של מזהה](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) ב-OneDrive for Business. בצע את השלבים שלהלן כדי שניתן יהיה לסייע לך בהקדם האפשרי:
+
+1. לחץ על  **פנה לתמיכה** ולאחר מכן על  **בקשת שירות חדשה**.
+2. השאר את האפשרות כותרת ותיאור  **כOneDrive אתר של מזהה משתמש**.
 3. לאחר שליחת הכרטיס, עדכן אותו במידע הבא:
     - כתובת ה-URL של אתר OneDrive המושפעת.
     - שם ראשי של המשתמש (UPN) של המשתמש המושפע.
-
-
-
