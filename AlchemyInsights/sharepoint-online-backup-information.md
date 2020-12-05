@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: 677d13c4522e11778e0eb35ffd16d9d4ce3b7515
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fd1307c3c967f92a60d2c38dfe727f1341ee86f
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665467"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576180"
 ---
 # <a name="sharepoint-online-backup-information"></a>מידע על הגיבוי של SharePoint Online
 
 בעת מחיקת פריט או אתר מ- SharePoint, הוא אינו מוסר באופן מיידי. פריטים שנמחקו עוברים לסל המיחזור למשך פרק זמן מסוים. במהלך זמן זה, באפשרותך לשחזר את הפריטים שמחקת למיקומם המקורי.
 
-SharePoint Online שומר על גיבויים של כל התוכן למשך 14 ימים נוספים מעבר למחיקה בפועל. אם לא ניתן לשחזר תוכן באמצעות סל המיחזור או שחזור הקבצים, מנהל מערכת יכול ליצור קשר עם התמיכה של Microsoft כדי לבקש שחזור בכל עת בתוך חלון 14 הימים. ניתן להשלים שחזורים מגיבויים רק עבור אוספי אתרים או אתרי משנה, לא עבור קבצים, רשימות או ספריות ספציפיות.
+SharePoint Online שומר על גיבויים של כל התוכן למשך 14 ימים נוספים מעבר למחיקה בפועל. אם לא ניתן לשחזר תוכן באמצעות [סל המיחזור](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) או [שחזור הקבצים](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15), מנהל מערכת יכול לפנות לתמיכה של Microsoft כדי לבקש שחזור בכל עת בתוך חלון 14 הימים. ניתן להשלים שחזורים מגיבויים רק עבור אוספי אתרים או אתרי משנה, לא עבור קבצים, רשימות או ספריות ספציפיות.
