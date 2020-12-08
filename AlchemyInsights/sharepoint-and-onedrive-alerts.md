@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 27cc744bc57f1c18649e05c5b0df3b315c9c0201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e5476f4e8462f233ff2a46832742d5a1f6e14e73
+ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727244"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49599853"
 ---
 # <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>עיכובים בקבלת התראות של SharePoint ו-OneDrive
 
-- תחילה, בדוק את התיקיה ' זבל ' או ' דואר זבל ' בדואר האלקטרוני שלך.
-- אם **כל ההתראות מקבצים או ספריות מרובות מעוכבות**, בקר [בלוח המחוונים של תקינות השירות](https://portal.office.com/adminportal/home?ref=/servicehealth) כדי לבדוק את כל התקריות/האירועים שעשויים להתרחש באמצעות SharePoint או Exchange. הבעיה עשויה להיות עם יכולת ההתראה של SharePoint או עיכובים בהודעות דואר אלקטרוני באמצעות Exchange. כמו כן, שים לב אם דואר אלקטרוני אחר מועבר-אם לא, סביר להניח שהבעיה היא עיכובים של Exchange.
+- אם **כל ההתראות מקבצים או ספריות מרובות מעוכבות**, בקר [בלוח המחוונים של תקינות השירות](https://portal.office.com/adminportal/home?ref=/servicehealth) כדי לבדוק את כל התקריות/האירועים שעשויים להתרחש באמצעות SharePoint או Exchange.
 - אם **התראה בודדת מקובץ או ספריה ספציפית אינו מועבר**, נסה למחוק אותה וליצור אותה מחדש. ראה [ניהול, הצגה או מחיקה של התראות](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) ב-SharePoint כדי ליצור מחדש את ההתראה.
+- בדוק את התיקיה ' דואר זבל ' או ' דואר זבל ' בדואר האלקטרוני שלך.
 
 > [!NOTE]
 > - לא ניתן לשלוח התראות לקבוצת תפוצה. רק קבוצות אבטחה וO365 נתמכות.
