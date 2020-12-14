@@ -14,25 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5ed9e19f590029267368f8d4dcce7e1a85283a26
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
+ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721447"
+ms.lasthandoff: 12/14/2020
+ms.locfileid: "49668515"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>כיצד לבצע חיפושי תוכן וחיפושי גילוי אלקטרוני
 
-השתמש בכלי חיפוש התוכן במרכז התאימות של אבטחה & כדי למצוא במהירות דואר אלקטרוני בתיבות דואר של Exchange, מסמכים באתרי SharePoint וחשבון OneDrive ושיחות העברת הודעות מיידיות ב-Skype for Business. באפשרותך גם להשתמש בכלי חיפוש תוכן כדי לחפש דואר אלקטרוני, מסמכים ושיחות העברת הודעות מיידיות בכלי שיתוף פעולה של Microsoft 365, כגון Microsoft Teams ו-Microsoft 365 Groups.
-
-**כדי לבצע חיפוש תוכן**
+**כדי לבצע חיפוש תוכן**:
 
 1. עבור אל [מרכז התאימות של אבטחה &](https://protection.office.com) והיכנס.
-2. לחץ על חיפוש **תוכן של >**.
+2. לחץ על **חיפוש > תוכן חיפוש**.
 3. לחץ על **חיפוש חדש** כדי ליצור חיפוש חדש.
-4. הזן את תנאי החיפוש הדרושים, כולל מילות מפתח ומיקומי תוכן.  
-5. לחץ על **שמור & הפעל** כדי לתת שם לחיפוש, להפעיל אותו ולאחר מכן להציג את התוצאות בתצוגה מקדימה.
+4. הזן את תנאי החיפוש הדרושים, כולל מילות מפתח ומיקומי תוכן.
+5. לחץ על **שמור & הפעיל** כדי לתת שם לחיפוש, להפעיל אותו ולאחר מכן להציג את התוצאות בתצוגה מקדימה.
+
+> [!NOTE]
+> במרכז **התאימות של M365**, תחת **פתרונות**, בחר הרחב את **גילוי אלקטרוני** ובחר את הכלי הרצוי של גילוי אלקטרוני.
 
 לקבלת הוראות מפורטות אודות חיפושי תוכן, ייצוא תוצאות ויצירת גילוי אלקטרוני תיקים לצורך החזקת נתונים, ראה [חיפוש תוכן](https://docs.microsoft.com/microsoft-365/compliance/content-search) [ותיקי גילוי אלקטרוני](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-הכרת מידע נוסף אודות חיפוש תוכן על-ידי בדיקת [הדרישות והמגבלות](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)  [וחקירת פריטים הכלולים באינדקס באופן חלקי](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) ותוצאות אחרות להיות מודע להם.
+**מידע נוסף**:
+
+- לקבלת מידע נוסף אודות כלי גילוי אלקטרוני ב-Microsoft 365, ראה [גילוי אלקטרוני](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- למד אודות ההרשאות, הדרישות והמגבלות הדרושות לביצוע חיפושי גילוי אלקטרוני מתוך [הרשאות הנדרשות עבור חיפושים](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) [ודרישות ומגבלות](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)של גילוי אלקטרוני.
+- אם אתה פותר בעיות ב-גילוי אלקטרוני, ראה [גילוי אלקטרוני פתרון בעיות נפוצות](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) [וחקירת פריטים הכלולים באינדקס באופן חלקי](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
