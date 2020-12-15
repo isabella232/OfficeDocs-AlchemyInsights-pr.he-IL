@@ -1,5 +1,5 @@
 ---
-title: שינוי שם משתמש וכתובת דואר אלקטרוני
+title: שינוי שם וכתובת דואר אלקטרוני
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756932"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683903"
 ---
-# <a name="change-a-users-name-and-email-address"></a>שינוי שם משתמש וכתובת דואר אלקטרוני
+# <a name="change-a-name-and-email-address"></a>שינוי שם וכתובת דואר אלקטרוני
 
-שינוי שם וכתובת דואר אלקטרוני של משתמש ב-Microsoft 365 הוא קל. עבור אל הדף **Users** \> [משתמשים פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) ובחר את המשתמש כדי לערוך את המידע שלו. באפשרותך גם להשתמש במאמר זה לקבלת הוראות מפורטות:
+שינוי שם וכתובת דואר אלקטרוני של משתמש ב-Microsoft 365 הוא קל. עבור אל הדף  \> [משתמשים פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) ובחר את המשתמש כדי לערוך את המידע שלו. באפשרותך גם להשתמש במאמר זה לקבלת הוראות מפורטות:
   
 [שינוי שם משתמש וכתובת דואר אלקטרוני ב-Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
