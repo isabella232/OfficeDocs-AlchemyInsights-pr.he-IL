@@ -24,7 +24,7 @@ ms.locfileid: "49676343"
 - [תכנן פריסת איפוס סיסמה בשירות עצמי](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
     או
-- [רשום את פרטי הקשר שלך לצורך SSPR](https://go.microsoft.com/fwlink/?linkid=849451) (SSPR מופעל כברירת מחדל עבור מנהלי מערכת)
+- [רשום את פרטי הקשר שלך לצורך SSPR](https://go.microsoft.com/fwlink/?linkid=849451) ‏(SSPR זמין כברירת מחדל עבור מנהלי מערכת)
 
     לקבלת מידע נוסף, ראה:
 
