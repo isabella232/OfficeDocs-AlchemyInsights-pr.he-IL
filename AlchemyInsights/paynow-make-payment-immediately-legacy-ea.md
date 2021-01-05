@@ -1,5 +1,5 @@
 ---
-title: PayNow/ביצוע תשלום מיד-מדור קודם של EA
+title: PayNow/ביצוע תשלום באופן מיידי
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 90d9341333d586d62a3932d4b8e6c7eaf277386b
-ms.sourcegitcommit: ae05e598333c08c0a73de254d3d97207c0b382e6
+ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49692160"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755692"
 ---
-# <a name="paynowmake-payment-immediately---legacy-ea"></a>PayNow/ביצוע תשלום מיד-מדור קודם של EA
+# <a name="paynowmake-payment-immediately"></a>PayNow/ביצוע תשלום באופן מיידי
+
+בהתבסס על תיאור הבעיה שלך, מצאנו פתרון עבורך. רוב הלקוחות הצליחו לפתור את הבעיה שלהם בעצמם לאחר ביצוע התיעוד שלנו.
 
 עבור מנוי של הסכם של ' תכלת ארגוני ', האפשרות הוסף/עדכן/שינוי התשלום אינה נתמכת. אם ברצונך לשנות את הכתובת בחשבונית קיימת, פנה לנציג Microsoft שלך.
 

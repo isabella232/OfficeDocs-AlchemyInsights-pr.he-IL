@@ -1,5 +1,5 @@
 ---
-title: מעבר לתשלום חשבונית (העברת המחאות/בנקאית)-מדור קודם WD
+title: מעבר לתשלום באמצעות חשבונית (העברת המחאות/בנקאית)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726122"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755404"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>מעבר לתשלום חשבונית (העברת המחאות/בנקאית)-מדור קודם WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>מעבר לתשלום באמצעות חשבונית (העברת המחאות/בנקאית)
+
+בהתבסס על תיאור הבעיה שלך, מצאנו פתרון עבורך. רוב הלקוחות הצליחו לפתור את הבעיה שלהם בעצמם לאחר ביצוע התיעוד שלנו.
 
 אם תעבור לתשלום באמצעות חשבונית, משמעות הדבר היא שעליך לשלם את החשבון תוך 30 יום מתאריך החשבונית. כדי להיות זכאי לשלם עבור מנוי התכלת לפי חשבונית, שלח בקשה לתמיכה בתכלת. לאחר שהבקשה מאושרת, באפשרותך להחליף מנוי לתשלום בחשבונית [בפורטל תכלת](https://portal.azure.com/).
 

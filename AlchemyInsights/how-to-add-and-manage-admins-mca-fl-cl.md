@@ -1,5 +1,5 @@
 ---
-title: כיצד להוסיף ולנהל מנהלי מערכת-MCA FL/CL
+title: כיצד להוסיף ולנהל מנהלי מערכת
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692116"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755496"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>כיצד להוסיף ולנהל מנהלי מערכת-MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>כיצד להוסיף ולנהל מנהלי מערכת
+
+בהתבסס על תיאור הבעיה שלך, מצאנו פתרון עבורך. רוב הלקוחות הצליחו לפתור את הבעיה שלהם בעצמם לאחר ביצוע התיעוד שלנו.
 
 כדי לנהל את חשבון החיוב שלך עבור הסכם לקוח של Microsoft (MCA), באפשרותך להשתמש בתפקידים שונים עם רמת הגישה הרצויה. תפקידים אלה מתקיימים בנוסף לתפקידי שירות התכלת המוכללים שעוזרים לך לשלוט במשאבים שלך.
 

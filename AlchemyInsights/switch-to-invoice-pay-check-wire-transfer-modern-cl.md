@@ -1,5 +1,5 @@
 ---
-title: מעבר לחשבונית תשלום (בדוק/העברה בנקאית)-מכשיר מודרני לקלרנית
+title: מעבר לתשלום באמצעות חשבונית (בדיקה/העברה בנקאית)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706654"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755464"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>מעבר לחשבונית תשלום (בדוק/העברה בנקאית)-מכשיר מודרני לקלרנית
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>מעבר לתשלום באמצעות חשבונית (בדיקה/העברה בנקאית)
+
+בהתבסס על תיאור הבעיה שלך, מצאנו פתרון עבורך. רוב הלקוחות הצליחו לפתור את הבעיה שלהם בעצמם לאחר ביצוע התיעוד שלנו.
 
 אם תעבור לתשלום באמצעות חשבונית, משמעות הדבר היא שעליך לשלם את החשבון תוך 30 יום מתאריך החשבונית. כדי להיות זכאי לשלם עבור מנוי התכלת לפי חשבונית, שלח בקשה לתמיכה בתכלת. לאחר שהבקשה מאושרת, באפשרותך להחליף מנוי לתשלום בחשבונית בפורטל תכלת.
 
