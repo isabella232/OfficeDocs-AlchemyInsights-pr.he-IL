@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731240"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768818"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>הפעלת הצפנת Bitlocker באמצעות ' כוונון '
 
@@ -30,10 +30,12 @@ ms.locfileid: "47731240"
  
 **שאלות נפוצות**
 
- ש: אילו מהדורות של הצפנת מכשירים של Windows תומכת באמצעות מדיניות הגנה על נקודות קצה?<br>
- ת: ההגדרות במדיניות הגנה על נקודות הקצה מתבצעות באמצעות [CSP של Bitlocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). לא כל המהדורות או גירסאות build של Windows תומכות ב-CSP של Bitlocker. <br><br>
-      בשלב זה, המהדורות הבאות של Windows נתמכות: Enterprise, השכלה, Mobile, Mobile Enterprise ו-Professional (גירסת build מס ' 1809 ואילך).
- 
+ש: אילו מהדורות של הצפנת מכשירים של Windows תומכת באמצעות מדיניות הגנה על נקודות קצה?<br>
+ת: ההגדרות במדיניות הגנה על נקודות הקצה מתבצעות באמצעות [CSP של Bitlocker](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). לא כל המהדורות או גירסאות build של Windows תומכות ב-CSP של Bitlocker. <br><br>
+
+ש: כיצד ניתן להפוך את Bitlocker לזמין במכשירים מבלי לדרוש אינטראקציה של משתמשי קצה?<br>
+ת: כל עוד הדרישות הנדרשות מראש מתקיימות, ניתן להפוך את Bitlocker "למצב הצפנה שקט" באמצעות המנגינה. עיין בפרטים של דרישות ההתקן והגדרות מדיניות לדוגמה כדי לאפשר הצפנה שקטה במסמך הבא: [הפיכת הצפנת Bitlocker לזמינה בצורה שקטה](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 ש: אם התקן כבר מוצפן באמצעות Bitlocker באמצעות הגדרות ברירת המחדל של מערכת ההפעלה עבור שיטת ההצפנה ועוצמת הצופן (XTS-AES-128), החלת מדיניות עם הגדרות שונות באופן אוטומטי הפעלת הצפנה מחדש של הכונן עם ההגדרות החדשות?<br>
 תשובה: לא. כדי להחיל את הגדרות הצופן החדשות, תחילה יש לפענח את הכונן.<br><br>
 **הערה:** עבור מכשירים שנרשמו באמצעות טייס אוטומטי, ההצפנה האוטומטית שתתרחש במהלך OOBE אינה מופעלת עד להערכת מדיניות ההגדרה, המאפשרת שימוש בהגדרות המבוססות על מדיניות במקום ברירות המחדל של מערכת ההפעלה.
