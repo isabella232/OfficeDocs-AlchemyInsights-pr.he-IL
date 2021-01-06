@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736879"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755548"
 ---
 # <a name="transfer-azure-billing-ownership"></a>העברת בעלות חיובים של Azure
 
 היכנס אל [פורטל Azure](https://portal.azure.com/) כמנהל של חשבון החיוב שכולל את המנוי שברצונך להעביר. אם אינך בטוח אם אתה מנהל, או אם אתה צריך לקבוע מי כן מנהל, ראה [קביעת מנהל חיובים של חשבון](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. חפש ב _ניהול עלויות + חיוב_.
+1. חפש _ניהול עלויות + חיוב_.
 1. בחר **מנויים** מהחלונית הימנית. בהתאם לגישה, ייתכן שתצטרך לבחור טווח חיובים ולאחר מכן לבחור **מנויים** או **מנויי Azure**.
 1. בחר **העברת בעלות של חיובים** עבור המנוי שברצונך להעביר.
 1. הזן את כתובת הדואר האלקטרוני של משתמש שהוא מנהל החיובים של החשבון שישמש כבעלים החדש של המנוי ולאחר מכן בחר **שלח בקשת העברה**.
