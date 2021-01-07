@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768818"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778194"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>הפעלת הצפנת Bitlocker באמצעות ' כוונון '
 
- ניתן להשתמש במדיניות הגנה מפני נקודות קצה כדי לקבוע את תצורת הגדרות ההצפנה של Bitlocker עבור מכשירי Windows. לקבלת מידע נוסף, ראה [הגדרות Windows 10 (ואילך) כדי להגן על מכשירים באמצעות ' כוונון](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)'.
- 
+ניתן להשתמש במדיניות הגנה מפני נקודות קצה כדי לקבוע את תצורת הגדרות ההצפנה של Bitlocker עבור מכשירי Windows. לקבלת מידע נוסף, ראה [הגדרות Windows 10 (ואילך) כדי להגן על מכשירים באמצעות ' כוונון](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)'.
+
+בנוסף למדיניות הגנה על נקודות קצה, יש גם דוח הצפנה המספק תצוגה מפורטת יותר של מצב ההצפנה עבור המכשירים. ניתן לגשת לדוח זה מתוך פורטל הזיכרון תחת **מכשירים > צג** ולאחר מכן, תחת **קביעת תצורה** , בחר [דוח הצפנה](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+אם אתה מגלה ש-Bitlocker אינו זמין כצפוי או שהפרופיל המשמש להפיכת Bitlocker לזמין נמצא במצב שגיאה, עיין בדוח ההצפנה כדי להבין טוב יותר את הסיבה לכך שההתנהגות מתרחשת.
+
+לקבלת פרטים אודות אופן הפענוח של הדוח, כולל ערכי מצב ההצפנה השונים, ראה [פיקוח על הצפנת מכשירים באמצעות ' כוונון](https://docs.microsoft.com/mem/intune/protect/encryption-monitor)'.
+
 עליך להיות מודע לכך שמכשירים חדשים רבים שבהם פועל Windows 10 תומכים בהצפנת Bitlocker אוטומטית, שמופעלת ללא היישום של מדיניות MDM. פעולה זו עשויה להשפיע על יישום המדיניות אם הגדרות שאינן ברירות מחדל נקבעו. עיין בשאלות הנפוצות הבאות לקבלת פרטים נוספים.
- 
+
 לקבלת מידע אודות פתרון בעיות ב-bitlocker, ראה [פתרון בעיות במדיניות bitlocker ב-Microsoft intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
