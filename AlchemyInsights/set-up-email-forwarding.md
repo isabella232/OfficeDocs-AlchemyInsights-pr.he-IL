@@ -13,16 +13,18 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801077"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847601"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>בדיקת הגדרות העברת הדואר האלקטרוני עבור תיבת דואר
 
-קל לאמת את הגדרות העברת הדואר האלקטרוני בתיבת דואר של Microsoft 365. פשוט בצע שלבים אלה.
+תחילה, העברת דואר אלקטרוני חייבת להיות זמינה ברמת הדייר. אם הגדרת העברת דואר אלקטרוני בתיבת דואר, אך היא אינה פועלת, ראה [שליטה בהעברת דואר אלקטרוני חיצונית אוטומטית ב-Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+
+קל לאמת את הגדרות העברת הדואר האלקטרוני בתיבת דואר! פשוט בצע שלבים אלה.
   
 > אם זוהי תיבת דואר של משתמש, עבור **אל משתמשים** \> **פעילים** ובחר את המשתמש שאת תיבת הדואר שלו אתה מעביר. בכרטיסיה **דואר** , בחר באפשרות **נהל העברת דואר אלקטרוני**.
 
