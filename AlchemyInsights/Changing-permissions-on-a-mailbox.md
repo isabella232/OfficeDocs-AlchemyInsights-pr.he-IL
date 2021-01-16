@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
+ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502572"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49880167"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>שינוי הרשאות בתיבת דואר
 
-אם משתמשים זקוקים לגישה לתיבות דואר שאינן שלהם, יש לקבל הרשאות לעבודה עם תיבות דואר אלה. אופן הקצאת הרשאות אלה תלוי בסוג תיבת הדואר. אם משתמשים זקוקים לגישה אל:
+אם המשתמשים זקוקים לגישה לתיבות דואר שאינן שלהם, יש להעניק להם הרשאות לעבודה עם תיבות דואר אלה. האופן שבו אתה מקצה הרשאות אלה תלוי בסוג תיבת הדואר. אם המשתמשים זקוקים לגישה ל:
   
-- תיבות דואר של משתמשים אחרים-נא ראה הצגת [הרשאות תיבת דואר למשתמש אחר](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
+- תיבות דואר של משתמשים אחרים-ראה [הענקת הרשאות לתיבת דואר למשתמש אחר](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- תיבת דואר משותפת-נא ראה [הוספה או הסרה של חברים מתיבת דואר משותפת](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- תיבת דואר משותפת-ראה [קביעת תצורה של הגדרות תיבת דואר משותפת](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members).
     
-אם הרשאות אינן פועלות כראוי לאחר בצעו את השלבים שלעיל, עבור אל מרכז הניהול של Exchange ונסה להגדיר את ההרשאות משם (ראה [ניהול הרשאות עבור נמענים](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+אם הרשאות אינן פועלות כראוי לאחר ביצוע השלבים לעיל, עבור אל מרכז הניהול של Exchange ונסה להגדיר את ההרשאות משם (ראה [ניהול הרשאות עבור הנמענים](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   
