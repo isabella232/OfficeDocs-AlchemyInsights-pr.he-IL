@@ -1,0 +1,41 @@
+---
+title: בעיות בקביעת תצורה של SSO
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 01/17/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "7760"
+- "9004346"
+ms.openlocfilehash: 5ab56ec1eda10ea059e600e8933ce85bb143b76e
+ms.sourcegitcommit: 6d02eb533fd74199af6b20f714b3720991da2c4a
+ms.translationtype: MT
+ms.contentlocale: he-IL
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "49901047"
+---
+# <a name="sso-configuration-issues"></a>בעיות בקביעת תצורה של SSO
+
+1. פעל בהתאם [לתחלה: קביעת תצורה של מאפיינים עבור מדריך יישומים](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) כדי לקבוע את תצורת היישום שלך.
+2. בהתאם לאפשרות היישום [והכניסה היחידה](https://docs.microsoft.com/azure/active-directory/manage-apps/sso-options) שבחרת, בצע את ההנחיות המתאימות להלן: a. כדי לקבוע תצורה של **יישום מקומי** עבור **כניסה יחידה מבוססת SAML (SSO)**, ראה [SAML הכניסה יחידה עבור יישומים מקומיים באמצעות Proxy של יישומים](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps).
+    b. כדי לקבוע תצורה של **יישום ענן** עבור **SSO מבוסס סיסמה**, ראה [קביעת תצורה של כניסה יחידה באמצעות](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-password-single-sign-on-non-gallery-applications)סיסמה.
+    c. כדי לקבוע את התצורה של **יישום מקומי** עבור **SSO באמצעות proxy של יישומים**, ראה [מקומר סיסמה עבור כניסה יחידה באמצעות proxy של יישומים](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
+3. **פתרון בעיות של proxy של יישומים**: מומלץ להתחיל לסקור את [בעיות מחבר ה-proxy של יישום בעיות בנושא איתור באגים](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) -כדי לקבוע אם מחברי proxy של יישום מוגדרים כראוי. אם אתה עדיין נתקל בבעיות בהתחברות ליישום, בצע את שלבי פתרון [הבעיות בנושא בעיות ביישום Proxy של יישומי Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). באפשרותך [לזהות בעיות CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) על-ידי ביצוע השלבים הבאים של איתור באגים בדפדפן: a. הפעל את הדפדפן ואתר את יישום האינטרנט.
+    b. הקש **F12** כדי להעלות את מסוף איתור הבאגים.
+    c. נסה לשחזר את הטרנזקציה ולסקור את הודעת המסוף. הפרה של CORS מפיקה שגיאת מסוף לגבי המקור.
+    תלת. לא ניתן לפתור בעיות מסוימות ב-CORS, כגון תפוגת אסימון הגישה כאשר האפליקציה מנתבת מחדש ל-login.microsoftonline.com לצורך אימות. כתוצאה מפקיעת התוקף של אסימון הגישה, השיחה ב-CORS נכשלת. פתרון עבור תרחיש זה הוא להאריך את משך החיים של אסימון הגישה, כדי למנוע ממנו לפוג במהלך הפעלת משתמש. לקבלת מידע נוסף אודות האופן שבו ניתן לעשות זאת, ראה [אורך חיים של אסימונים הניתנים להגדרה בפלטפורמת הזהות של Microsoft](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+4. פתרון בעיות ב **-SSO מבוסס-SAML**: מומלץ לבדוק [בעיות כניסה ליישומים המוגדרים כניסה יחידה של SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery) כדי למצוא את הפתרונות לבעיות שבהן אתה עשוי להיתקל.
+5. **פתרון בעיות ב-SSO מבוסס סיסמה**: מומלץ לבדוק [בעיות כניסה יחידה מבוססת סיסמה בתכלת לספירה](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) כדי למצוא את הפתרונות לבעיות שסביר להניח שתיתקל בהן.
+6. **קיבלתי שגיאת תצורה**: כדי לפתור בעיות של שגיאות תצורה, מומלץ לבדוק את המאמרים הבאים: a. [בעיות כניסה ל-SAML ביישומים מבוססי כניסה יחידה](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery) ב'. [אישורים מולאו, אך הסיומת אינה מסירה אותם](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso#credentials-are-filled-in-but-the-extension-does-not-submit-them) c. [האישורים מולאו ונשלחים, אך הדף מציין שהאישורים אינם נכונים](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) d. [דף יישום מציג הודעת שגיאה לאחר שהמשתמש חותם](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
+7. **אני נתקל בבעיות בשילוב של Sso חלק עם האפליקציות המקומיות שלי**: כדי לפתור בעיות לגבי שילוב של sso חלק באפליקציות מקומיות, מומלץ לבדוק את המאמרים הבאים: a. [כיצד להגדיר כניסה יחידה ליישום Proxy של יישום](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to) b. [SAML כניסה יחידה עבור יישומים מקומיים באמצעות Proxy של יישום](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps) c. [הכרת ופתרון של היישום ' שרת Active Directory ' ב-Proxy של אפליקציית CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues) d. [פתרון בעיות של תצורות הקצאה מוגבלת של Kerberos עבור Proxy של יישומים](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+8. **אני צריך לתקן את הטענות או להאריך את אורך החיים של אסימון. אני צריך לשנות את האורך של הפעלה**: כדי לעשות זאת, אנו ממליצים לבדוק את המאמרים הבאים: a. [התאמה אישית של טענות SAML שנשלחות ליישום](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping) b. [עבודה עם טענות-מודעות ליישומים](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-for-claims-aware-applications) c. [אורך חיים של אסימונים הניתנים להגדרה ב-Microsoft identity platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) d. [קבע את תצורת ניהול הפעלת האימות עם גישה מותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-conditional-access-session-lifetime) e. [הגדרות Cookie לגישה ליישומים מקומיים](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-cookie-settings)
+9. **אני זקוק לעזרה בניהול גישת המשתמש והאורח (B2B) של המשתמש והאורח שלי**: לקבלת מידע מפורט אודות ניהול הגישה של משתמשים ואורחים, מומלץ לבדוק את המאמרים הבאים: a. [ניהול גישה לאפליקציות](https://docs.microsoft.com/azure/active-directory/manage-apps/what-is-access-management) b. [ניהול הקצאת משתמשים עבור יישום ב-תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal) c. [קבע את תצורת היישומים של SaaS עבור שיתוף פעולה B2B](https://docs.microsoft.com/azure/active-directory/external-identities/configure-saas-apps) d. [הענק למשתמשי B2B הודעות מיידיות גישה ליישומים המקומיים שלך](https://docs.microsoft.com/azure/active-directory/external-identities/configure-saas-apps) e. [הענקת גישה למשאבי שותפים המנוהלים באופן מקומי למשאבי ענן באמצעות שיתוף פעולה של שיתוף B2B](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-on-premises-to-cloud)
+10. **ברצוני להתאים אישית את היישומים שלי**: לקבלת מידע מפורט אודות התאמה אישית של יישומים, אנו ממליצים לבדוק את המאמרים הבאים: a. [קבע את תצורת התחומים המותאמים אישית באמצעות Proxy של יישום מודעות של תכלת](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain) [הגדרת דף בית מותאם אישית עבור יישומים שפורסמו](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page) c. [יישומים כלליים](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-wildcard)
+11. **אני נתקל בבעיות בהעברת היישום שלי מ-AD fs לתכלת**: כדי לפתור בעיות שנתקלות בהן במהלך העברה של היישום שלך מ-AD FS לתכלת, אנו ממליצים לבדוק את המאמרים הבאים: a. [העברת אימות יישומים משירותי האיחוד של Active directory לתכלת Active directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure) b. [משאבים להעברת יישומים לתכלת Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/migration-resources)
+
