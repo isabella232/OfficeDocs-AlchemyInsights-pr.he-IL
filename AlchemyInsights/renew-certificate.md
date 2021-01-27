@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7750"
 - "9004340"
-ms.openlocfilehash: a1a931df944ed83d538215ad7527bec9ef370469
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: a383124fb4e2a5cd4373be0731a233215bed3725
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: he-IL
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974572"
+ms.locfileid: "49976814"
 ---
 # <a name="renew-certificate"></a>חידוש אישור
 
-כדי לחדש אישור שיפוג בקרוב, ראה [ניהול אישורים עבור כניסה יחידה מאוחדת ב-תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
+כדי לחדש אישור שתוקפו יפוג בקרוב, ראה [ניהול אישורים עבור כניסה יחידה מאוחדת ב- Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
 
-לקבלת מידע נוסף אודות האופן שבו ניתן לנהל את אישורי חתימת האסימונים ולשמור אותם בסינכרון עם תכלת לספירה, [חידוש אישורי איחוד עבור Microsoft 365 ו-תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).
+לקבלת מידע נוסף לגבי אופן הניהול של אישורי חתימה באמצעות אסימון ושמירה על סינכרונם עם Azure AD, ראה [חידוש אישורי איחוד עבור Microsoft 365 ו- Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).
 
