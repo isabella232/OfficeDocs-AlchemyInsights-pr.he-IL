@@ -13,16 +13,16 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
+ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49847601"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50037186"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>בדיקת הגדרות העברת הדואר האלקטרוני עבור תיבת דואר
 
-תחילה, העברת דואר אלקטרוני חייבת להיות זמינה ברמת הדייר. אם הגדרת העברת דואר אלקטרוני בתיבת דואר, אך היא אינה פועלת, ראה [שליטה בהעברת דואר אלקטרוני חיצונית אוטומטית ב-Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+תחילה, העברת דואר אלקטרוני חייבת להיות זמינה ברמת הדייר. אם הגדרת העברת דואר אלקטרוני בתיבת דואר, אך היא אינה פועלת (אתה מקבל שגיאה **"550 5.7.520 Access נדחתה, הארגון שלך אינו מאפשר העברה חיצונית"),** ראה [שליטה בהעברת דואר אלקטרוני חיצונית אוטומטית ב-Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
 
 קל לאמת את הגדרות העברת הדואר האלקטרוני בתיבת דואר! פשוט בצע שלבים אלה.
   
