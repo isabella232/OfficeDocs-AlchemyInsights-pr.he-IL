@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697882"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094038"
 ---
-# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="c7fa4-102">הפעלת Office באמצעות רישוי מבוסס-מכשיר</span><span class="sxs-lookup"><span data-stu-id="c7fa4-102">Activating Office using device-based licensing</span></span>
+# <a name="activating-office-using-device-based-licensing"></a><span data-ttu-id="79d3c-102">הפעלת Office באמצעות רישוי מבוסס-מכשיר</span><span class="sxs-lookup"><span data-stu-id="79d3c-102">Activating Office using device-based licensing</span></span>
+
+<span data-ttu-id="79d3c-103">רישוי מבוסס-התקן עבור יישומי Microsoft 365 עבור enterprise זמין כרשיון רק עבור לקוחות מסחריים מסוימים ולקוחות מסוימים במגזר החינוך.</span><span class="sxs-lookup"><span data-stu-id="79d3c-103">Device-based licensing for Microsoft 365 Apps for enterprise is available as a license only for some commercial customers and some education customers.</span></span> <span data-ttu-id="79d3c-104">לקבלת מידע מפורט, ראה: [רישוי מבוסס-התקן עבור יישומי Microsoft 365 for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)</span><span class="sxs-lookup"><span data-stu-id="79d3c-104">For detailed information, see: [Device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing)</span></span>
+
+<span data-ttu-id="79d3c-105">כדי להפעיל אפליקציות של Microsoft 365 עבור ארגונים באמצעות רישוי מבוסס-התקן, ראה:</span><span class="sxs-lookup"><span data-stu-id="79d3c-105">To activate Microsoft 365 Apps for enterprise using Device-based licensing, see:</span></span>
+
+- [<span data-ttu-id="79d3c-106">דרישות לשימוש ברישוי מבוסס-מכשיר עבור יישומי Microsoft 365 for enterprise</span><span class="sxs-lookup"><span data-stu-id="79d3c-106">Requirements for using device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [<span data-ttu-id="79d3c-107">השלבים לקביעת התצורה של רישוי מבוסס-התקן עבור יישומי Microsoft 365 for enterprise</span><span class="sxs-lookup"><span data-stu-id="79d3c-107">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+<span data-ttu-id="79d3c-108">לקבלת הדרכה לפתרון בעיות, ראה [פתרון בעיות רישוי מבוסס-התקן עבור יישומי Microsoft 365 for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)</span><span class="sxs-lookup"><span data-stu-id="79d3c-108">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="c7fa4-103">[ההפעלה המבוססת על מכשיר](https://aka.ms/officedba) Office עבור לקוחות U.S. למגזר החינוך אינה מאושרת כעת.</span><span class="sxs-lookup"><span data-stu-id="c7fa4-103">Office [Device Based Activation](https://aka.ms/officedba) for U.S. education customers is now deprecated.</span></span> <span data-ttu-id="c7fa4-104">אנו מעודדים ארגונים לתכנן את היישום החדש של Microsoft 365 Apps למגזר החינוך (התקן) ללקוחות החינוך.</span><span class="sxs-lookup"><span data-stu-id="c7fa4-104">We encourage organizations to plan for the new Microsoft 365 Apps for Education (device) license for education customers.</span></span>
-
-<span data-ttu-id="c7fa4-105">כדי להפעיל את Office באמצעות רישוי מבוסס-התקן, עליך להיות בעל רשיון ההרחבה של Microsoft 365 למגזר החינוך (התקן) הזמין רק ללקוחות החינוך והוא זמין רק באמצעות הרשמה לפתרונות השכלה (אייתה).</span><span class="sxs-lookup"><span data-stu-id="c7fa4-105">To activate Office using device-based licensing, you need to have the Microsoft 365 Apps for Education (device) add-on license that is available only for education customers and is available only through Enrollment for Education Solutions (EES).</span></span> <span data-ttu-id="c7fa4-106">עיין [בדרישות לשימוש ברישוי מבוסס-מכשיר עבור יישומי Microsoft 365 עבור enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span><span class="sxs-lookup"><span data-stu-id="c7fa4-106">Please see [Requirements for using device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
-
-
-<span data-ttu-id="c7fa4-107">לקבלת מידע מפורט אודות ההגדרה, ראה:</span><span class="sxs-lookup"><span data-stu-id="c7fa4-107">For detailed information on setup, see:</span></span>
-
-- [<span data-ttu-id="c7fa4-108">השלבים לקביעת התצורה של רישוי מבוסס-התקן עבור יישומי Microsoft 365 for enterprise</span><span class="sxs-lookup"><span data-stu-id="c7fa4-108">Steps to configure device-based licensing for Microsoft 365 Apps for enterprise</span></span>](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [<span data-ttu-id="c7fa4-109">ניהול רשיונות עבור מכשירים</span><span class="sxs-lookup"><span data-stu-id="c7fa4-109">Manage licenses for devices</span></span>](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-<span data-ttu-id="c7fa4-110">לקבלת הדרכה לפתרון בעיות, ראה [פתרון בעיות רישוי מבוסס-התקן עבור יישומי Microsoft 365 for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span><span class="sxs-lookup"><span data-stu-id="c7fa4-110">For troubleshooting guidance, see [Troubleshoot device-based licensing for Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).</span></span>
+> <span data-ttu-id="79d3c-109">אם היישומים של Microsoft 365 כבר מותקנים ומופעלים באמצעות רישוי מנוי מבוסס-משתמשים או הפעלת מחשב משותפת, יהיה עליך לאפס את מצב הרשיון במכשיר לפני שהוא יועבר לרישוי מבוסס-מכשיר.</span><span class="sxs-lookup"><span data-stu-id="79d3c-109">If Microsoft 365 Apps are already installed and activated with user-based subscription licensing or shared computer activation, you will need to reset the license state on the device before it will transition over to device-based licensing.</span></span> <span data-ttu-id="79d3c-110">כדי לאפס את מצב ההפעלה, ראה [איפוס יישומי Microsoft 365 עבור מצב הפעלה ארגוני](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)</span><span class="sxs-lookup"><span data-stu-id="79d3c-110">To reset the activation state, see [Reset Microsoft 365 Apps for enterprise activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)</span></span>
