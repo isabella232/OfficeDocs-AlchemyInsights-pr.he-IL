@@ -8,16 +8,16 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9001669"
 - "3736"
-ms.openlocfilehash: 49f90fd3a911abaebe158e442d97f9345548ee88
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 3281144fb921fecb428d918e4f2996824b71f706
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307019"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152425"
 ---
 # <a name="your-products"></a>המוצרים שלך
 
@@ -32,4 +32,4 @@ ms.locfileid: "48307019"
 5. [שינוי תדירות התשלום](change-how-often-you-pay.md).
 6. [ביטול המנוי](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-באפשרותך לקנות מנויים נוספים **Billing**  >  מהדף '[שירותי רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) בנושא חיובים '.
+באפשרותך לקנות מנויים נוספים   >  מהדף '[שירותי רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) בנושא חיובים '.
