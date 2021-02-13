@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: e5bbc2f7e447cfedeaee2be2bcfe1132e73b24e7
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488954"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231900"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>השעיה או השהיה של מנוי
 
 כדי להשעות או להשהות את המנוי שלך באופן זמני, באפשרותך לבטל את המנוי במרכז הניהול של Microsoft 365.
 
-1. במרכז הניהול, עבור לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
+1. במרכז הניהול, עבור לדף ' **חיוב**  >  **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** '.
 2. בכרטיסיה **products** , אתר את המנוי שברצונך לבטל. בחר **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **בטל מנוי**.
 3. מצב המנוי מוצג **כלא זמין** ומציג את התאריך שבו המנוי בוטל. המנוי נשאר במצב לא זמין עבור 90 ימים, והוא מכיל פונקציונליות מופחתת עד למחיקתו או [הפעלה](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)מחדש.
 
