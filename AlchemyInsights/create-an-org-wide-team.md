@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: 9476b3a4cd38879fa4c4000d3ba603fbb4cc6bff
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: b22990f11bd229f206aa67f8793df3b605a4ba43
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692547"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291757"
 ---
 # <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>צור צוות כלל ארגוני שכולל את כל האנשים בארגון שלך
 
 ייתכן שתוכל ליצור צוות שכולל את כל האנשים בחברה או בארגון שלך, אשר מוכר גם בשם [צוות כלל ארגוני](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).
 
-- האם לארגון שלך יש **פחות מ-5000 משתמשים**? נכון לעכשיו, צוותים כלל ארגוניים מוגבלים לארגונים בעלי 5000 משתמשים או פחות. אנו מעוניינים להגדיל את המגבלה בעתיד.
+- האם לארגון שלך יש **פחות מ- 10,000 משתמשים**? נכון לעכשיו, צוותים כלל ארגוניים מוגבלים לארגונים בעלי 10,000 משתמשים או פחות. אנו מעוניינים להגדיל את המגבלה בעתיד.
 
 - צוותים כלל ארגוניים **אינם זמינים נכון לעכשיו** עבור **Teams במגזר החינוך**.
 
