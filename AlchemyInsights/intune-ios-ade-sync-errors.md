@@ -3,7 +3,7 @@ title: שגיאות סינכרון של הרשמת מכשירים אוטומטי
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: d7a9398046a1073e30fdbe2950f750bb55d4fa2f
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714834"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448923"
 ---
 # <a name="apple-automatic-device-enrollment-sync-errors"></a>שגיאות סינכרון של הרשמת מכשירים אוטומטיות של Apple
 
-"זיהינו שיש לך אסימון ADE/DEP אחד או יותר הנמצאים במצב שגיאה. עד שמצב השגיאה ייפתר עבור כל אסימון מושפע, הפונקציונליות של ADE לא תפעל באופן זהה ".
+"זיהינו שיש לך אסימון ADE/DEP אחד או יותר הנמצאים במצב שגיאה. עד שמצב השגיאה ייפתר עבור כל אסימון מושפע, הפונקציונליות של ADE לא תפעל כמצופה.
 
 שגיאה זו עשויה להופיע במספר דרכים, כולל:
 
@@ -29,6 +29,22 @@ ms.locfileid: "49714834"
 2. הקצאות של פרופילי ההרשמה עשויות להיכשל
 3. המכשירים עשויים שלא להשלים את ההרשמה של ADE בהצלחה
 
-חפש את שגיאת הסינכרון המדווחת במסוף ה-intune תחת **מכשירים > התקני הרשמה > Apple הרשמה > אסימונים** וסקור את המסמכים הבאים כדי לראות את כל התיקונים הפוטנציאליים:
+חפש את שגיאת הסינכרון המדווחת במסוף ה-intune תחת **מכשירים > התקני הרשמה > Apple הרשמת > אסימונים של תוכנית ההרשמה**.
+
+אחת הסיבות הנפוצות ביותר לשגיאת סינכרון היא תפוגת האסימון הנוכחי. במקרים רבים, חידוש האסימון המושפע יפתור את הבעיה.
+
+אם פג תוקף אחד או יותר מהאסימונים שלך, עיין בתיעוד הבא כדי לעזור לך לחדש אותם באופן המתאים:
+
+[חידוש אסימון הרשמה אוטומטית של מכשירים](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
+
+בנוסף, באפשרותך לראות את המסמכים הבאים כדי לראות תיקונים פוטנציאליים עבור שגיאות אחרות הגורמות לכשלים בסינכרון אסימונים:
+
+[שגיאות סינכרון של ABM/ASM for iOS/iPadOS ו-macOS להרשמת מכשירים אוטומטיים](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
+
+
+
+
+
+
 
 [שגיאות סינכרון של ABM/ASM for iOS/iPadOS ו-macOS להרשמת מכשירים אוטומטיים](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
