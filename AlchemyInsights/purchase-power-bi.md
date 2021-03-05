@@ -2,36 +2,35 @@
 title: רכישה של Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "4961"
-ms.openlocfilehash: 10fde333750415d17f42d75475b16dc802fd024c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 203f9899c2c3126878abb73c24ebbc031d867a6a
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693340"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469647"
 ---
 # <a name="purchase-power-bi"></a>רכישה של Power BI
 
 ניתן לרכוש את Power BI **במרכז הניהול של Microsoft 365**.
 
-1. עבור אל הדף **חיוב _GT_ [רכישה של שירותים](https://go.microsoft.com/fwlink/p/?linkid=868433) ** .
+1. עבור אל דף **חיוב > [רכישה של שירותים](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
+2. השתמש בתיבת החיפוש כדי לחפש את "Power BI".
+3. בחר את תוכנית Power BI שברצונך לקנות, בחר **פרטים** ולאחר מכן בחר **קנה**.
+4. הזן את מספר הרשיונות הדרושים לך ובחר אם לשלם מדי חודש או עבור השנה כולה. בחר אם ברצונך להקצות רשיונות באופן אוטומטי לכל המשתמשים שאין להם כעת רשיון. לאחר מכן בחר **הוצא כעת**.
+5. סקור את מידע התמחור ובחר **הבא**.
+6. ספק את פרטי התשלום שלך ולאחר מכן בחר **בצע הזמנה**  >  **עבור אל Home Admin**.
 
-2. השתמש בתיבת החיפוש כדי לחפש ב-"Power BI".
+כדי להקצות רשיונות למשתמשים, ראה [הקצאת רשיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-3. בחר את תוכנית Power BI שברצונך לרכוש.
-
-4. בחר את מספר המשתמשים שישתמשו ב-Power BI.
-
-כדי להקצות רשיונות למשתמשים, ראה [הקצאת רשיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-
-כדי לרכוש עוד רישיונות או להסיר, ראה [הוספה/הסרה של רישיונות עבור מנוי](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+כדי לקנות יותר או להסיר רשיונות, ראה [רכישה או הסרה של רשיונות עבור המנוי העסקי שלך](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
