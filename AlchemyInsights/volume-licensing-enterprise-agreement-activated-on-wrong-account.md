@@ -2,8 +2,7 @@
 title: הסכם ארגוני של רישוי רב משתמשים הופעל בחשבון שגוי
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "463"
 - "1500021"
-ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: 4b432de983f1a4b0130c6f4daa4fb16a2e7307b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 4a53be17f77b0aac20140848d8fce0a510bda246
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726127"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468907"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="7fbe3-102">הסכם ארגוני של רישוי רב משתמשים מופעל בחשבון שגוי או בהעברת רשיונות מחשבון אחד לחשבון אחר</span><span class="sxs-lookup"><span data-stu-id="7fbe3-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="e05c6-102">הסכם ארגוני של רישוי רב משתמשים מופעל בחשבון שגוי או בהעברת רשיונות מחשבון אחד לחשבון אחר</span><span class="sxs-lookup"><span data-stu-id="e05c6-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="7fbe3-103">אם אתה מוצא את המנויים שנרכשו באמצעות **הסכם ארגוני של רישוי** רב משתמשים הופעלו **בדייר הלא נכון**, או אם ברצונך להעביר **רשיונות** מדייר אחד לאחר, פנה [למרכז השירות של רישוי](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)רב משתמשים של Microsoft.</span><span class="sxs-lookup"><span data-stu-id="7fbe3-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please contact the [Microsoft Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).</span></span>
+<span data-ttu-id="e05c6-103">אם אתה מוצא את המנויים שנרכשו באמצעות **הסכם ארגוני של רישוי** רב משתמשים הופעלו **בדייר הלא נכון**, או אם ברצונך להעביר **רשיונות** מדייר אחד לאחר, [פנה לתמיכה](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).</span><span class="sxs-lookup"><span data-stu-id="e05c6-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please [contact support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).</span></span>
