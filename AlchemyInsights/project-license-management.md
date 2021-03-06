@@ -1,32 +1,34 @@
 ---
 title: ניהול רשיון של Project
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
+- commerce
+ms.openlocfilehash: 161587eef62804fbba258a443e745b2176b576f8
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991046"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469013"
 ---
 # <a name="project-license-management"></a>ניהול רשיון של Project
 
 ניתן להשלים ניהול של רישיונות Project **במרכז הניהול של Microsoft 365**.
 
-- [השוואת אפשרויות Project](https://products.office.com/project/compare-microsoft-project-management-software?tab=1&OCID=AID2000748_SEM_5j2j5X4B&MarinID=5j2j5X4B%7C78821275986631%7C%2Bproject%20%2Bo365%7Cbb%7Cc%7C%7C1261139959949905%7Ckwd-78821311481635:loc-190&lnkd=Bing_O365SMB_App&msclkid=185eccc165db1d3da290924720afcaa4&ef_id=XoY8vgAAAUTu0Bj8:20200402200513:s) כדי ללמוד על ההבדלים בין ** תוכנית Project 1,3 ו-5**.
-- כדי **לרכוש** את Project, עבור אל **'חיוב' >['רכישת שירותים'](https://go.microsoft.com/fwlink/p/?linkid=868433)**. השתמש בתיבת החיפוש כדי לחפש Project, בחר את התוכנית ואת מספר המשתמשים. לקבלת מידע נוסף, ראה [רכישת מנוי](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- כדי **להחליף תוכניות**, ראה [החלפה ידנית בין תוכניות Microsoft 365 לעסקים](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- כדי **להקצות** רישיונות Project, עבור אל **'חיוב' > ['רישיונות'](https://go.microsoft.com/fwlink/p/?linkid=842264)**. לקבלת מידע נוסף, ראה ['הקצאת רישיונות'](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- כדי **להוסיף/להסיר** רישיונות של Project, עבור אל **'חיובים' > ['רכישת שירותים'](https://go.microsoft.com/fwlink/p/?linkid=868433)**. לקבלת מידע נוסף, ראה [הוספה/הסרת רישיונות](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- כדי **לבטל** רישיונות Project, עבור אל **'חיובים' > ['מוצרים ושירותים'](https://go.microsoft.com/fwlink/p/?linkid=842054)**, בחר **'הגדרות ופעולות'**, ולאחר מכן לחץ על **'ביטול מינוי'**. לקבלת מידע נוסף, ראה [ביטול המינוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- [השוואת אפשרויות Project](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software) כדי ללמוד על ההבדלים בין **תוכנית Project 1,3 ו-5**.
+- כדי **לרכוש** את Project, עבור אל **'חיוב' >['רכישת שירותים'](https://go.microsoft.com/fwlink/p/?linkid=868433)**. השתמש בתיבת החיפוש כדי לחפש Project, בחר את התוכנית ואת מספר המשתמשים. לקבלת מידע נוסף, ראה [קניית מנוי אחר](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- כדי **לשנות תוכניות**, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- כדי **להקצות** רישיונות Project למשתמשים, עבור אל **חיוב > [רישיונות](https://go.microsoft.com/fwlink/p/?linkid=842264)**. לקבלת מידע נוסף, ראה [הקצאת רישיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- כדי **לקנות או להסיר** רישיונות Project, עבור אל **חיובים > [המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)**. לקבלת מידע נוסף, ראה [קנייה או הסרה של רישיונות](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
+- כדי **לבטל** מנוי Project, עבור אל **חיובים > [המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)**, בחר את המנוי, ובמקטע **הגדרות מנוי ותשלום**, בחר **בטל מנוי**. לקבלת מידע נוסף, ראה [ביטול המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-לקבלת מידע נוסף, ראה [ניהול רישיונות מנויים](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+לקבלת מידע נוסף, ראה [קנייה או הסרה של רישיונות](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
