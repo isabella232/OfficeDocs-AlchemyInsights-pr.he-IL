@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-- commerce
-ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 03cee51b8f4c86e36004a91d25c8ad7798383ef5
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50470007"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50600987"
 ---
 # <a name="suspend-or-pause-licenses"></a>השעיה או השהיה של רשיונות
 
@@ -32,4 +31,4 @@ ms.locfileid: "50470007"
 4. בדף פרטי מנוי, בחר **הסר רשיונות**.
 5. בחלונית **הסרת רשיונות** , בתיבה **סך רשיונות** , הזן את מספר הרשיונות הרצוי עבור מנוי זה, ולאחר מכן בחר **שמור**. לדוגמה, אם יש לך רשיונות של 100 וברצונך להשעות או להשהות 25, ולאחר מכן הזן 75 כולל הרשיונות עבור המנוי שלך.
 
-לקבלת מידע נוסף, ראה [רכישה או הסרה של רשיונות](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+לקבלת מידע נוסף, ראה [קנייה או הסרה של רישיונות](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
