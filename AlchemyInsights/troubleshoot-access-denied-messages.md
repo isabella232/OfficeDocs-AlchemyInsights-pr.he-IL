@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 3550081a12379f73725253214a2c2d44974ab740
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c8ad84123fb58b73b9c378592ce970997893ea2
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690784"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704895"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>פתרון בעיות בהודעות של Access שנדחו
 
@@ -26,7 +26,7 @@ ms.locfileid: "47690784"
     
 3. לצד **מצב נעילה של הרשאות משתמש בגישה מוגבלת**, לחץ על **בטל הפעלה**.
     
-הודעת גישה שנדחתה יכולה להתרחש גם עבור תיקיות משותפות אם האתר הוא אתר פרסום. לקבלת מידע, ראה [Access נדחה בעת גישה לתיקיה משותפת](https://go.microsoft.com/fwlink/?linkid=2004317).
+הודעת גישה שנדחתה יכולה להתרחש גם עבור תיקיות משותפות אם האתר הוא אתר פרסום. לקבלת מידע, ראה [Access נדחה בעת גישה לתיקיה משותפת](https://answers.microsoft.com/windows/forum/windows_7-files/access-denied-to-share-folder/79fae49d-cddf-4845-8ac8-c141884d85fb).
   
 אם מישהו קיבל הודעת "הגישה נדחתה" בעת ניסיון להציג בקשות גישה, המשתמש צריך להתווסף כמנהל אוסף אתרים או כחבר בקבוצה ' בעלים ' עבור האתר. לקבלת מידע נוסף, ראה [הרשימה בקשות לגישה נדחתה](https://go.microsoft.com/fwlink/?linkid=2004220).
   
