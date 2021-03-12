@@ -14,12 +14,12 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667915"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708099"
 ---
 # <a name="importexport-in-outlook-for-mac"></a>ייבוא/ייצוא ב-Outlook עבור Mac 
 
@@ -37,4 +37,4 @@ ms.locfileid: "47667915"
 
 לקבלת קבוצה מלאה של הוראות ייבוא וייצוא עבור Outlook עבור Mac, ראה [ייבוא וייצוא של דואר אלקטרוני, אנשי קשר ולוח שנה של outlook](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-כדי לקבל בעיות תמיכה בתוך היישום עבור outlook for Mac, פתח את Outlook ובחר **עזרה**  >  **ליצירת קשר עם התמיכה**. הקלד את השאלה שלך וחבר בצוות התמיכה של Outlook עבור Mac יצור איתך קשר. [יצירת קשר עם התמיכה ב-Outlook עבור Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+כדי לקבל בעיות תמיכה בתוך היישום עבור outlook for Mac, פתח את Outlook ובחר **עזרה**  >  **ליצירת קשר עם התמיכה**. הקלד את השאלה שלך וחבר בצוות התמיכה של Outlook עבור Mac יצור איתך קשר. [יצירת קשר עם התמיכה ב-Outlook עבור Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

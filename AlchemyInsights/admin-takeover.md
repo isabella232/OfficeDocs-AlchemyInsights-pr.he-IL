@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 53aeac4c-00cb-4395-9d9b-b344cc5ada6f
-ms.openlocfilehash: 3d85ba64091c7e244cb00a274884a096aacefd9e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fc7c7c3388420fb0ed93b9fad087cb3b8c95a0d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696874"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707379"
 ---
 # <a name="become-an-admin"></a>הפוך למנהל מערכת
 
-כדי להניח את תפקיד מנהל המערכת עבור ארגון זה, עליך להשתלט עליו. בצע את ההוראות המופיעות במדריך זה לקבלת הוראות מפורטות: [כיצד לבצע השתלטות של מנהל IT באמצעות O365](https://powerbi.microsoft.com/blog/how-to-perform-an-it-admin-takeover-with-o365.aspx)
+כדי להניח את תפקיד מנהל המערכת עבור ארגון זה, עליך להשתלט עליו. בצע את ההוראות המופיעות במדריך זה לקבלת הוראות מפורטות: [כיצד לבצע השתלטות של מנהל IT באמצעות O365](https://powerbi.microsoft.com/pt-pt/blog/how-to-perform-an-it-admin-takeover-with-o365/)

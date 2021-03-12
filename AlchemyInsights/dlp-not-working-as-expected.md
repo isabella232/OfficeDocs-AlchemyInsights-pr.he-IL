@@ -13,22 +13,22 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0ed893420b5813d5d18639c2c226c12f0306a13f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679694"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707811"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP אינו פועל כמצופה
 
-**חשוב**: בתקופה חסרת תקדים זאת, אנחנו נוקטים בצעדים כדי להבטיח ששירותי SharePoint Online ו- OneDrive יישארו בזמינות גבוהה - לקבלת מידע נוסף, בקר בכתובת[התאמות של תכונה זמנית ב- SharePoint Online](https://aka.ms/ODSPAdjustments).
+**חשוב**: בתקופה חסרת תקדים זאת, אנחנו נוקטים בצעדים כדי להבטיח ששירותי SharePoint Online ו- OneDrive יישארו בזמינות גבוהה - לקבלת מידע נוסף, בקר בכתובת [התאמות של תכונה זמנית ב- SharePoint Online](https://aka.ms/ODSPAdjustments).
 
  **הגדרת DLP**
 
 האם אתה נתקל בבעיות **במניעת אובדן נתונים (DLP)** ב-Office 365 שאינו פועל כצפוי? אם כן, ודא **שמדיניות** ה-dlp שלך מוגדרת כהלכה, ושהנתונים שלך מכילים את מראה **המדיניות של dlp** כאשר היא מוערכת.
   
-מדיניות DLP מאפשרת לך לזהות ולהגן על מידע רגיש בארגון שלך. כדי להגדיר את מדיניות DLP, השתמש [במידע](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)שלהלן.
+מדיניות DLP מאפשרת לך לזהות ולהגן על מידע רגיש בארגון שלך. כדי להגדיר את מדיניות DLP, השתמש [במידע](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template)שלהלן.
   
  **מה מדיניות DLP מחפשת**
   

@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7808"
-ms.openlocfilehash: 7452b56e1291ef36256b09b9772179a1fdc8e2d8
-ms.sourcegitcommit: a44b6b34952bc84f834dfac7175ed2dcf025f147
+ms.openlocfilehash: 954b4490fd7d93767b4cc2b026ff4ac3d0edf80e
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49868688"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707703"
 ---
 # <a name="troubleshooting-seamless-single-sign-on-issues"></a>פתרון בעיות בSign-On בודדות ללא תפרים
 
 1. בקש או חפש תשובות לשאלות שיש לך ב- [Microsoft Q&A](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports).
 1. לקבלת בעיות נפוצות באמצעות כניסה יחידה (SSO) חלקה (SSO), עיין במדריכים הבאים כדי לפתור את הבעיה:
     - [פתרון בעיות בהוספת יישומים](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) 
-    - [פתרון בעיות כניסה יחידה מבוססת סיסמה בתכלת לספירה](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-ba) 
+    - [פתרון בעיות כניסה יחידה מבוססת סיסמה בתכלת לספירה](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) 
     - [פתרון בעיות בכניסה יחידה מבוססת SAML בתכלת Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
     - [איתור כניסה יחידה מבוססת SAML של Debug ליישומים ב-תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
     - וידאו: [שיטות עבודה מומלצות של כניסה יחידה עבור תכלת Active Directory וחשבונות Microsoft](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) 
