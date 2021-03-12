@@ -1,30 +1,33 @@
 ---
-title: אין אפשרות להפעיל את Office
+title: לא ניתן להפעיל את Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 875026fe11d3745b587131cf0dd40a28fa005dc5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: MT
+ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580154"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704931"
 ---
-# <a name="unable-to-activate-office"></a>אין אפשרות להפעיל את Office
+# <a name="unable-to-activate-office"></a>לא ניתן להפעיל את Office
 
 - בדוק אם מצב המינוי שלך פג.
-- ודא שיש לך מנוי המאפשר רשיונות לקוח, כגון Office 365 Business או Premium Business, [וודא שהוקצה למשתמש רשיון](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
-- ודא שהמשתמש נכנס ל- Office באמצעות החשבון שהוקצה לו רישיון.
+- ודא שיש לך מנוי המאפשר רשיונות לקוח, כגון Office 365 Business או Business Premium, ו[ודא שלמשתמש הוקצה רשיון](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- ודא שהמשתמש נכנס ל- Office באמצעות אותו החשבון שהוקצה לו רשיון.
 - בדוק את [דף תקינות השירות של Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) כדי לבדוק אם יש בעיות ידועות בשירות.
-- בדוק את חומת האש שלך, הגדרות תוכנת אנטי-וירוס ו-proxy כדי לוודא כי הם לא חוסמים את הגישה של Microsoft 365 ליישומים לאינטרנט. עיין ב[כתובות URL וטווחי כתובות IP של Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "כתובות URL וטווחי כתובות IP של Office 365").
+- בדוק את חומת האש, תוכנת האנטי-וירוס והגדרות שרת ה- proxy כדי לוודא שהוא אינו חוסם את הגישה של יישומי Microsoft 365 לאינטרנט. עיין ב[כתובות URL וטווחי כתובות IP של Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "כתובות URL וטווחי כתובות IP של Office 365").
+
+**עצה** במחשבי Windows, אנו יכולים לאבחן ולפתור עבורך באופן אוטומטי כמה בעיות כניסה נפוצות של Office. הורד והפעל את  **[מסייע התמיכה והשחזור של Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** כדי להשתמש בכלי האוטומטי שלנו.
 
 השתמש בפעולות פתרון הבעיות הבאות:
 
