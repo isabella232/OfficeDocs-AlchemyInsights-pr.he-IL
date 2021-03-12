@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c73ad2a3-39ed-4acb-9872-6a38eda11464
 ms.openlocfilehash: 34d7b9195ff7d8d8d43da173a4c77643080ef67e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801401"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "50713624"
 ---
 # <a name="restore-a-microsoft-365-group-using-the-exchange-admin-center"></a>שחזור קבוצת Microsoft 365 באמצעות מרכז הניהול של Exchange
 
-1. בניווט הימני של מרכז הניהול של Microsoft 365, הרחב את **מרכז הניהול**ולאחר מכן בחר **Exchange**.
+1. בניווט הימני של מרכז הניהול של Microsoft 365, הרחב את **מרכז הניהול** ולאחר מכן בחר **Exchange**.
     
 2. במרכז הניהול של Exchange, בחר **נמענים** ולאחר מכן בחר **קבוצות**. תוכל לראות אם הקבוצה פעילה או נמחקה זמנית. אם הקבוצה נמחקה לצמיתות, היא לא תופיע כלל ברשימה.
     

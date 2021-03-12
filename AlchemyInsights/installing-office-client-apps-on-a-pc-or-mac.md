@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667843"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708351"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>התקנת יישומי לקוח של Office במחשב PC או MAC 
 
 כדי להתקין את יישומי הלקוח של Office, ודא שיש לך מנוי Office 365 או Microsoft 365 אשר [כוללים את יישומי הלקוח של Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), לדוגמה, Microsoft 365 Business Standard, יישומי Microsoft 365 לעסקים או יישומי Microsoft 365 עבור ארגונים.
 
-**הערה**: [Office Home and Business](https://products.office.com/home-and-business) הוא מוצר [Office לבית](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) ולא חלק ממנוי עסקי. Project Online Essentials אינו כולל גירסת שולחן עבודה של Project, ולכן לא נדרשת התקנה. למשתמשי תוכנית Visio 1 יש גישה אל Visio עבור האינטרנט, מכיוון שהתוכנית לא כוללת את יישום שולחן העבודה של Visio. יישומי שולחן העבודה של Project ו- Visio אינם זמינים ב- Mac.
+**הערה**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) הוא מוצר [Office לבית](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) ולא חלק ממנוי עסקי. Project Online Essentials אינו כולל גירסת שולחן עבודה של Project, ולכן לא נדרשת התקנה. למשתמשי תוכנית Visio 1 יש גישה אל Visio עבור האינטרנט, מכיוון שהתוכנית לא כוללת את יישום שולחן העבודה של Visio. יישומי שולחן העבודה של Project ו- Visio אינם זמינים ב- Mac.
 
 אם יש לך מנוי הכולל יישומי Microsoft 365, לא תראה אפשרות להתקין אותו אלא אם יש לך [רשיון מוקצה](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). אם אתה מנהל מערכת של Office 365 האחראי על הקצאת רישיונות, ראה [הקצאת רישיונות למשתמשים](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). בנוסף, השתמש ב[הגדרות הורדת תוכנה של Office](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) כדי לבחור אם משתמשים יוכלו להתקין יישומי Office במכשירים הפרטיים שלהם.
 
