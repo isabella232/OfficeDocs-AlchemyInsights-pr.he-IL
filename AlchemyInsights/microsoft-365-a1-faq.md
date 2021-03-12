@@ -1,0 +1,36 @@
+---
+title: שאלות נפוצות אודות Microsoft 365 A1
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "4981"
+- "9002568"
+ms.openlocfilehash: b9c792c6a4e0fbfae46a553800504600045ef769
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.translationtype: MT
+ms.contentlocale: he-IL
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50714237"
+---
+# <a name="microsoft-365-a1-faq"></a><span data-ttu-id="d4a9e-102">שאלות נפוצות אודות Microsoft 365 A1</span><span class="sxs-lookup"><span data-stu-id="d4a9e-102">Microsoft 365 A1 FAQ</span></span>
+
+<span data-ttu-id="d4a9e-103">שאלות נפוצות אודות מנויים וניהול רשיונות של A1:</span><span class="sxs-lookup"><span data-stu-id="d4a9e-103">A1 Subscription and License Management FAQ:</span></span>
+
+- <span data-ttu-id="d4a9e-104">אם המוסד שלך עדיין אינו מגדיר את Microsoft 365 להשכלה, אך ברצונך להוסיף את **microsoft 365 ללא תשלום**, באפשרותך להתחיל בעבודה על-ידי מתן הדואר האלקטרוני שלך.</span><span class="sxs-lookup"><span data-stu-id="d4a9e-104">If your institution hasn't yet set up Microsoft 365 Education, but you want to add **Microsoft 365 for free**, you can get started by providing your email.</span></span> <span data-ttu-id="d4a9e-105">כדי לספק את הדואר האלקטרוני שלך, ראה תחילת העבודה [עם Office 365 ללא תשלום](https://www.microsoft.com/education/products/office).</span><span class="sxs-lookup"><span data-stu-id="d4a9e-105">To provide your email, see [Get started with Office 365 for free](https://www.microsoft.com/education/products/office).</span></span>  
+- <span data-ttu-id="d4a9e-106">אם המוסד שלך כבר מוסמך להשכלה של Microsoft 365, עבור אל **[שירותי הרכישה >](https://go.microsoft.com/fwlink/p/?linkid=868433)חיוב**.</span><span class="sxs-lookup"><span data-stu-id="d4a9e-106">If your institution already qualified for Microsoft 365 Education, go to **Billing > [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)**.</span></span> <span data-ttu-id="d4a9e-107">השתמש בתיבת החיפוש כדי לחפש את "A1" ולאחר מכן בחר את התוכנית ואת מספר המשתמשים.</span><span class="sxs-lookup"><span data-stu-id="d4a9e-107">Use the Search box to search for "A1", and select the plan and number of users.</span></span> <span data-ttu-id="d4a9e-108">לקבלת מידע נוסף, ראה [נסה מנוי ניסיון ללא תשלום](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#try-a-free-trial-subscription) או [קנה מנוי אחר](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).</span><span class="sxs-lookup"><span data-stu-id="d4a9e-108">For more info, see [Try a free trial subscription](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#try-a-free-trial-subscription) or [Buy a different subscription](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).</span></span>
+- <span data-ttu-id="d4a9e-109">כדי **לשנות תוכניות**, ראה [שדרוג לתוכנית אחרת](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="d4a9e-109">To **change plans**, see [Upgrade to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).</span></span>
+- <span data-ttu-id="d4a9e-110">כדי **להקצות** רשיונות A1 למשתמשים, עבור אל **[רשיונות](https://go.microsoft.com/fwlink/p/?linkid=842264)חיוב >**.</span><span class="sxs-lookup"><span data-stu-id="d4a9e-110">To **assign** A1 licenses to users, go to **Billing > [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264)**.</span></span> <span data-ttu-id="d4a9e-111">לקבלת מידע נוסף, ראה [הקצאת רישיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="d4a9e-111">For more info, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
+- <span data-ttu-id="d4a9e-112">כדי **לקנות או להסיר** רשיונות A1, עבור אל **חיוב > [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="d4a9e-112">To **buy or remove** A1 licenses, go to **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span> <span data-ttu-id="d4a9e-113">לקבלת מידע נוסף, ראה [קנייה או הסרה של רישיונות](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).</span><span class="sxs-lookup"><span data-stu-id="d4a9e-113">For more info, see [Buy or remove licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).</span></span>
+- <span data-ttu-id="d4a9e-114">כדי **לבטל** מנוי A1, עבור אל  **חיוב > [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)**, בחר את המנוי ובמקטע **הגדרות מנוי ותשלום** , בחר **בטל מנוי**.</span><span class="sxs-lookup"><span data-stu-id="d4a9e-114">To **cancel** an A1 subscription, go to  **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**, select the subscription, and in the **Subscription and payment settings** section, select **Cancel subscription**.</span></span> <span data-ttu-id="d4a9e-115">לקבלת מידע נוסף, ראה [ביטול המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="d4a9e-115">For more info, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+- <span data-ttu-id="d4a9e-116">כדי **להפעיל** מנוי A1, ראה [הפעלת המנוי שלך](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).</span><span class="sxs-lookup"><span data-stu-id="d4a9e-116">To **activate** an A1 subscription, see [Activate your subscription](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).</span></span>
+- <span data-ttu-id="d4a9e-117">כדי **להפעיל** מחדש מנוי A1, ראה הפעלה מחדש של [המנוי](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="d4a9e-117">To **reactivate** an A1 subscription, see [Reactivate your subscription](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).</span></span>
+- <span data-ttu-id="d4a9e-118">כדי **להרחיב** גירסת ניסיון של A1, ראה [הרחבת גירסת הניסיון](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).</span><span class="sxs-lookup"><span data-stu-id="d4a9e-118">To **extend** an A1 trial, see [Extend your trial](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).</span></span>
+
+<span data-ttu-id="d4a9e-119">לקבלת מידע נוסף, ראה [קנייה או הסרה של רישיונות](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="d4a9e-119">For more info, see [Buy or remove licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
