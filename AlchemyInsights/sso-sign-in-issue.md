@@ -1,10 +1,11 @@
 ---
-title: בעיות כניסה חלקה של SSO user
-ms.author: v-jmathew
-author: v-jmathew
-manager: scotv
-ms.audience: Admin
+title: פתרון בעיות כניסה של כניסה יחידה (SSO) חלקה
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+audience: Admin
 ms.topic: article
+ms.date: 03/16/2021
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
@@ -12,37 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7811"
-ms.openlocfilehash: 347ef8f8176583f2a7c15fa82435eeb118b58c39
-ms.sourcegitcommit: 67c873fa6e23ec39a826d60ac830969073bf79e1
+ms.openlocfilehash: 6b892cc9803c6b0ead40b8fdda2cf881614f976f
+ms.sourcegitcommit: 0acb849a211b3ae6378ae47c9574a73994981db6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935124"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50828692"
 ---
-# <a name="seamless-sso-user-sign-in-issues"></a><span data-ttu-id="78dc0-102">בעיות כניסה חלקה של SSO user</span><span class="sxs-lookup"><span data-stu-id="78dc0-102">Seamless SSO user sign-in issues</span></span>
+# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a><span data-ttu-id="a5b77-102">פתרון בעיות כניסה של כניסה יחידה (SSO) חלקה</span><span class="sxs-lookup"><span data-stu-id="a5b77-102">Troubleshoot Seamless Single Sign-on (SSO) user sign-in issues</span></span>
 
-<span data-ttu-id="78dc0-103">לאחר שהמשתמש מאומת, הדפדפן יאחסן במטמון את אישורי המשתמש, כך שאותו דפדפן, היישום ייכנס באופן אוטומטי באמצעות אותו חשבון.</span><span class="sxs-lookup"><span data-stu-id="78dc0-103">After the user is authenticated, the browser will cache the user's credentials, so that on the same browser, the application will automatically sign-in with the same account.</span></span> <span data-ttu-id="78dc0-104">פעולה זו עשויה להקשות על משתמש אחר או על משתמש בודד להיכנס לחשבונות מרובים במכשיר אחד.</span><span class="sxs-lookup"><span data-stu-id="78dc0-104">This may make it difficult for another user or a single user to log into multiple accounts on one device.</span></span> <span data-ttu-id="78dc0-105">כדי לפתור את הבעיה: 1.</span><span class="sxs-lookup"><span data-stu-id="78dc0-105">To solve this: 1.</span></span> <span data-ttu-id="78dc0-106">נסה להיכנס לדפדפן אחר.</span><span class="sxs-lookup"><span data-stu-id="78dc0-106">Try signing in on another browser.</span></span> <span data-ttu-id="78dc0-107">2.</span><span class="sxs-lookup"><span data-stu-id="78dc0-107">2.</span></span> <span data-ttu-id="78dc0-108">נקה את המטמון ו/או את קבצי ה-cookie של הדפדפן ונסה להיכנס שוב.</span><span class="sxs-lookup"><span data-stu-id="78dc0-108">Clear the browser's cache and/or cookies and try signing in again.</span></span>
+<span data-ttu-id="a5b77-103">כדי לפתור בעיות כניסה למשתמש כניסה יחידה (SSO) באופן חלק, השתמש במשאבים המומלצים הבאים:</span><span class="sxs-lookup"><span data-stu-id="a5b77-103">To resolve Seamless Single Sign-on (SSO) user sign-in issues, use the following recommended resources:</span></span>
 
-<span data-ttu-id="78dc0-109">אם אתה עדיין נתקל בבעיות כניסה, מומלץ לבצע את הפעולות הבאות כדי לאבחן ולהפוך את שלבי הפתרון:</span><span class="sxs-lookup"><span data-stu-id="78dc0-109">If you are still experiencing sign-in issues, we recommend the following to diagnose and automate the resolution steps:</span></span>
+- [<span data-ttu-id="a5b77-104">בקשה בלתי צפויה של הסכמה בעת כניסה ליישום</span><span class="sxs-lookup"><span data-stu-id="a5b77-104">Unexpected consent prompt when signing in to an application</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
+- [<span data-ttu-id="a5b77-105">שגיאה לא צפויה בעת ביצוע הסכמה ליישום</span><span class="sxs-lookup"><span data-stu-id="a5b77-105">Unexpected error when performing consent to an application</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
+- [<span data-ttu-id="a5b77-106">פתרון בעיות בכניסה ליישום מתוך תכלת AD היישומים שלי</span><span class="sxs-lookup"><span data-stu-id="a5b77-106">Troubleshoot problems signing in to an application from Azure AD My Apps</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
+- [<span data-ttu-id="a5b77-107">דף יישום מציג הודעת שגיאה לאחר שהמשתמש חותם</span><span class="sxs-lookup"><span data-stu-id="a5b77-107">An app page shows an error message after the user signs in</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
+- [<span data-ttu-id="a5b77-108">בעיות בכניסה ליישום Microsoft</span><span class="sxs-lookup"><span data-stu-id="a5b77-108">Problems signing in to a Microsoft application</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
+- [<span data-ttu-id="a5b77-109">בעיות כניסה ליישומים המוגדרים כניסה יחידה מבוססת SAML</span><span class="sxs-lookup"><span data-stu-id="a5b77-109">Problems signing in to SAML-based single sign-on configured apps</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
 
-1. <span data-ttu-id="78dc0-110">התקן את [ההרחבה ' היישומים שלי ' מאובטח בדפדפן](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-extension-problem-installing) כדי לעזור לתכלת Active Directory (תכלת לספירה) כדי לספק אבחנה ופתרונות טובים יותר בעת שימוש בחוויית הבדיקה בפורטל התכלת.</span><span class="sxs-lookup"><span data-stu-id="78dc0-110">Install the [My Apps Secure Browser Extension](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-extension-problem-installing) to help Azure Active Directory (Azure AD) to provide better diagnosis and resolutions when using the testing experience in the Azure portal.</span></span>
-2. <span data-ttu-id="78dc0-111">לשחזר את השגיאה באמצעות חוויית הבדיקה בדף קביעת התצורה של האפליקציה בפורטל תכלת.</span><span class="sxs-lookup"><span data-stu-id="78dc0-111">Reproduce the error using the testing experience in the app configuration page in the Azure portal.</span></span> <span data-ttu-id="78dc0-112">לקבלת מידע נוסף, ראה [יישומי כניסה יחידה המבוססים על SAML של Debug](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-v1-debug-saml-sso-issues).</span><span class="sxs-lookup"><span data-stu-id="78dc0-112">To learn more, see [Debug SAML-based single sign-on applications](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-v1-debug-saml-sso-issues).</span></span>
-3. <span data-ttu-id="78dc0-113">אם אתה משתמש בחוויית הבדיקה בפורטל ' תכלת ' עם הרחבת הדפדפן ' היישומים שלי ' מאובטחת, באפשרותך **לדלג על שלב 4**.</span><span class="sxs-lookup"><span data-stu-id="78dc0-113">If you use the testing experience in the Azure portal with the My Apps Secure Browser Extension, you can **skip step 4**.</span></span>
-4. <span data-ttu-id="78dc0-114">כדי לפתוח את הדף תצורת כניסה יחידה מבוססת SAML:</span><span class="sxs-lookup"><span data-stu-id="78dc0-114">To open the SAML-based single sign-on configuration page:</span></span>
-    - <span data-ttu-id="78dc0-115">פתח את [פורטל התכלת](https://portal.azure.com/) והיכנס **כמנהל מערכת כללי** או **כCoadmin**.</span><span class="sxs-lookup"><span data-stu-id="78dc0-115">Open the [Azure portal](https://portal.azure.com/) and sign in as a **Global Administrator** or **Coadmin**.</span></span>
-    - <span data-ttu-id="78dc0-116">פתח את **ההרחבה תכלת Active Directory** על-ידי בחירת **כל השירותים** בחלק העליון של תפריט הניווט הראשי בצד הימני.</span><span class="sxs-lookup"><span data-stu-id="78dc0-116">Open the **Azure Active Directory Extension** by selecting **All services** at the top of the main left-side navigation menu.</span></span>
-    - <span data-ttu-id="78dc0-117">הקלד "תכלת Active Directory" בתיבת החיפוש filter ובחר את הפריט **תכלת Active directory** .</span><span class="sxs-lookup"><span data-stu-id="78dc0-117">Type "Azure Active Directory" in the filter search box and select the **Azure Active Directory** item.</span></span>
-    - <span data-ttu-id="78dc0-118">בחר באפשרות **יישומים ארגוניים** מתפריט הניווט הימני של תכלת של active Directory.</span><span class="sxs-lookup"><span data-stu-id="78dc0-118">Select **Enterprise Applications** from the Azure Active Directory left-hand navigation menu.</span></span>
-    - <span data-ttu-id="78dc0-119">בחר **את כל היישומים** כדי להציג רשימה של כל היישומים שלך.</span><span class="sxs-lookup"><span data-stu-id="78dc0-119">Select **All Applications** to view a list of all your applications.</span></span> <span data-ttu-id="78dc0-120">אם אינך רואה את היישום שברצונך להציג כאן, השתמש בפקד **המסנן** בחלק העליון של **הרשימה כל היישומים** והגדר את האפשרות **הצג** לכל **היישומים**.</span><span class="sxs-lookup"><span data-stu-id="78dc0-120">If you do not see the application you want show up here, use the **Filter** control at the top of the **All Applications List** and set the **Show** option to **All Applications**.</span></span>
-    - <span data-ttu-id="78dc0-121">בחר את היישום שברצונך לקבוע את תצורתו עבור כניסה יחידה.</span><span class="sxs-lookup"><span data-stu-id="78dc0-121">Select the application you want to configure for single sign-on.</span></span>
-    - <span data-ttu-id="78dc0-122">לאחר הטעינה של היישום, בחר **כניסה יחידה** מתפריט הניווט הימני של היישום.</span><span class="sxs-lookup"><span data-stu-id="78dc0-122">After the application loads, select **Single sign-on** from the application’s left-hand navigation menu.</span></span>
-    - <span data-ttu-id="78dc0-123">בחר **SSO מבוסס SAML**.</span><span class="sxs-lookup"><span data-stu-id="78dc0-123">Select **SAML-based SSO**.</span></span>
-5. <span data-ttu-id="78dc0-124">בהתבסס על השגיאה, כדי לקבל מידע נוסף על השלבים המומלצים שעליך לעקוב אחריהם, ראה [בעיות בכניסה ליישומים המוגדרים כניסה יחידה מבוססת SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#application-not-found-in-directory).</span><span class="sxs-lookup"><span data-stu-id="78dc0-124">Based on the error, to learn more about the recommended steps to follow, see [Problems signing in to SAML-based single sign-on configured apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#application-not-found-in-directory).</span></span>
-6. <span data-ttu-id="78dc0-125">כדי לפתור בעיות אחרות בחתימת משתמשים, עיין בהנחיות הבאות:</span><span class="sxs-lookup"><span data-stu-id="78dc0-125">To troubleshoot other user sign-issues refer to the following guidance:</span></span>
-    - [<span data-ttu-id="78dc0-126">פרוטוקול SAML בודד Sign-On</span><span class="sxs-lookup"><span data-stu-id="78dc0-126">Single Sign-On SAML protocol</span></span>](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
-    - [<span data-ttu-id="78dc0-127">כיצד לבצע: פתרון שגיאות כניסה באמצעות הדוחות הפעילים של Active Directory</span><span class="sxs-lookup"><span data-stu-id="78dc0-127">How to: Troubleshoot sign-in errors using Azure Active Directory reports</span></span>](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-troubleshoot-sign-in-errors)
-    - [<span data-ttu-id="78dc0-128">בקשה להסכמה בלתי צפויה</span><span class="sxs-lookup"><span data-stu-id="78dc0-128">Unexpected consent prompt</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt)
-    - [<span data-ttu-id="78dc0-129">שגיאת הסכמה למשתמש</span><span class="sxs-lookup"><span data-stu-id="78dc0-129">User consent error</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
-    - [<span data-ttu-id="78dc0-130">בעיות בכניסה מהיישומים שלי</span><span class="sxs-lookup"><span data-stu-id="78dc0-130">Problems signing in from My Apps</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
-    - [<span data-ttu-id="78dc0-131">שגיאה בעמוד כניסה ליישום</span><span class="sxs-lookup"><span data-stu-id="78dc0-131">Error on application sign-in page</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
-    - [<span data-ttu-id="78dc0-132">בעיה בכניסה ליישום Microsoft</span><span class="sxs-lookup"><span data-stu-id="78dc0-132">Problem signing into a Microsoft App</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft)
+<span data-ttu-id="a5b77-110">כדי לבצע בקשות לתכונות או לשאול שאלות טכניות לגבי SSO חלק, ראה [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).</span><span class="sxs-lookup"><span data-stu-id="a5b77-110">To make feature requests or ask technical questions about Seamless SSO, see [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).</span></span>
+
