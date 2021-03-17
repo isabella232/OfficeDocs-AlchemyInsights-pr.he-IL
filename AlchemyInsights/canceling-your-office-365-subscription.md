@@ -3,7 +3,7 @@ title: מבטל את המנוי שלך?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+- commerce
+ms.openlocfilehash: e69a91cda5f5df07a7ee429dce7145af366be464
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348666"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837383"
 ---
 # <a name="canceling-your-subscription"></a>מבטל את המנוי שלך?
 
 אנו מצטערים שאנו רואים אותך, אך אם ברצונך לבטל את המנוי שלך, להלן האפשרויות הבאות:
   
-- אם אתה לקוח ניסיון, אין מה לבטל. תוקף מנויי ניסיון יפוג באופן אוטומטי, אלא אם כן אתה מספק שיטת תשלום.
-- אם יש לך פחות מ-25 רשיונות מוקצים, באפשרותך לבטל את המנוי שלך באופן מקוון. עבור אל הדף **חיוב** \> [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) ואתר את המנוי שברצונך לבטל. בחר **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **בטל מנוי**.
+- אם יש לך פחות מ-25 רשיונות מוקצים, באפשרותך לבטל את המנוי שלך באופן מקוון. עבור אל הדף **חיוב** \> **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** ואתר את המנוי שברצונך לבטל. בחר **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **בטל מנוי**.
 - אם יש לך יותר מ-25 רשיונות שהוקצו למשתמשים, [התקשר לתמיכה כדי לבטל את המנוי שלך](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
   
 **החזר כספי: כל האשראי היחסי שלך יוחזר אליך במהלך מחזור החיוב הבא.**
