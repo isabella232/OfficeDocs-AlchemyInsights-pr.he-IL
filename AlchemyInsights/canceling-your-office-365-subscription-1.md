@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 93c427346271d9c730f0e5f03aee4736d1d07f06
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: he-IL
 ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896904"
+ms.locfileid: "50931649"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>מבטל את מנוי Microsoft 365 שלך?
 
@@ -30,3 +30,5 @@ ms.locfileid: "50896904"
 4. לחץ **שמור**.
 
 לקבלת מידע נוסף על ביטול מנוי או אפשרויות, ראה [ביטול המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+
+אם ברצונך להמשיך להשתמש במנוי שלך למשך תקופת הניסיון, באפשרותך לבטל את החיוב החוזר עבור המנוי. כדי ללמוד כיצד [לעשות זאת, ראה חידוש Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
