@@ -1,29 +1,31 @@
 ---
-title: בעיות במכונות העלייה למטוס
+title: בעיות בצירוף מחשבים אל Microsoft Defender עבור נקודות קצה
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
-ms.translationtype: MT
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141468"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901568"
 ---
-# <a name="issues-with-onboarding-machines"></a><span data-ttu-id="c1d8a-102">בעיות במכונות העלייה למטוס</span><span class="sxs-lookup"><span data-stu-id="c1d8a-102">Issues with onboarding machines</span></span>
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a><span data-ttu-id="9aa62-102">בעיות בצירוף מחשבים אל Microsoft Defender עבור נקודות קצה</span><span class="sxs-lookup"><span data-stu-id="9aa62-102">Issues with onboarding machines to Microsoft Defender for Endpoints</span></span>
 
-<span data-ttu-id="c1d8a-103">ייתכן שיהיו לך בעיות עם מכונות העלייה למטוס לשירות MDATP.</span><span class="sxs-lookup"><span data-stu-id="c1d8a-103">You might have issues with onboarding machines to MDATP service.</span></span> <span data-ttu-id="c1d8a-104">אם באפשרותך לגשת למחשב משתמש הקצה, בצע את הפעולות הבאות:</span><span class="sxs-lookup"><span data-stu-id="c1d8a-104">If you can access the end-user machine, follow these steps:</span></span>
+<span data-ttu-id="9aa62-103">ייתכן שיש לך בעיות בצירוף מחשבים לשירות MDE.</span><span class="sxs-lookup"><span data-stu-id="9aa62-103">You might have issues with onboarding machines to MDE service.</span></span> <span data-ttu-id="9aa62-104">אם אתה יכול לגשת אל מחשב משתמש הקצה, בצע את הפעולות הבאות:</span><span class="sxs-lookup"><span data-stu-id="9aa62-104">If you can access the end-user machine, follow these steps:</span></span>
 
-1. <span data-ttu-id="c1d8a-105">הורד את כלי האבחון של [מנתח הקישוריות של הלקוח](https://aka.ms/mdatpanalyzer) .</span><span class="sxs-lookup"><span data-stu-id="c1d8a-105">Download the [Client Connectivity Analyzer](https://aka.ms/mdatpanalyzer) diagnostic tool.</span></span>
-2. <span data-ttu-id="c1d8a-106">חלץ והפעל את MDATPAnalyzer. cmd.</span><span class="sxs-lookup"><span data-stu-id="c1d8a-106">Extract and run MDATPAnalyzer.cmd.</span></span>
-3. <span data-ttu-id="c1d8a-107">אתר את יומן האבחון בתיקיה שנקראת Mdatpלקוחוהתוצאת המערכת, אותה תיקיה שבה מתבצעת הורדה של כלי המנתח.</span><span class="sxs-lookup"><span data-stu-id="c1d8a-107">Locate the diagnostic log in the folder called MDATPClientAnalyzerResult, the same folder where the Analyzer tool is downloaded.</span></span>
-4. <span data-ttu-id="c1d8a-108">סקור את קובץ יומן הרישום, MDATPClientAnalyzer.txt כדי למצוא בעיות קישוריות או הגדרות proxy באינטרנט.</span><span class="sxs-lookup"><span data-stu-id="c1d8a-108">Review the log file, MDATPClientAnalyzer.txt, to find connectivity or internet proxy settings issues.</span></span>
+1. <span data-ttu-id="9aa62-105">הורד את גירסת התצוגה המקדימה העדכנית ביותר של כלי האבחון של [MDE Client Analyzer](https://aka.ms/betamdeanalyzer).</span><span class="sxs-lookup"><span data-stu-id="9aa62-105">Download the latest preview version of the [MDE Client Analyzer](https://aka.ms/betamdeanalyzer) diagnostic tool.</span></span>
+2. <span data-ttu-id="9aa62-106">לחץ באמצעות לחצן העכבר הימני על **MDEClientAnalyzer.cmd** ובחר 'הפעל כמנהל מערכת'.</span><span class="sxs-lookup"><span data-stu-id="9aa62-106">Right click **MDEClientAnalyzer.cmd** and select ‘Run as administrator’.</span></span>
+3. <span data-ttu-id="9aa62-107">פעל בהתאם להדרכה המוצעת ב- **MDEClientAnalyzer.htm**.</span><span class="sxs-lookup"><span data-stu-id="9aa62-107">Follow any guidance suggested in **MDEClientAnalyzer.htm**.</span></span>
+4. <span data-ttu-id="9aa62-108">לקבלת יומני רישום מילוליים נוספים, סקור את תיקיית המשנה שנוצרה בשם **MDEClientAnalyzerResult**.</span><span class="sxs-lookup"><span data-stu-id="9aa62-108">For more verbose logs, review the created sub-folder named **MDEClientAnalyzerResult**.</span></span>
+5. <span data-ttu-id="9aa62-109">אם יש צורך בהדרכה נוספת, פנה אל [התמיכה של Microsoft Defender עבור נקודת קצה](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) וספק את הקובץ MDEClientAnalyzerResult.zip שנוצר לצורך ניתוח.</span><span class="sxs-lookup"><span data-stu-id="9aa62-109">If additional guidance is needed, contact [Microsoft Defender for Endpoint support](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) and provide the resulting MDEClientAnalyzerResult.zip file for analysis.</span></span>
