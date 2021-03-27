@@ -1,5 +1,5 @@
 ---
-title: שימוש ב-Microsoft Edge לאיתור באגים מרחוק במכשיר Android מתוך מחשב פיתוח
+title: שימוש ב- Microsoft Edge כדי לאתר מרחוק באגים במכשיר Android ממחשב פיתוח
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583541"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398694"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>שימוש ב-Microsoft Edge לאיתור באגים מרחוק במכשיר Android מתוך מחשב פיתוח
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>שימוש ב- Microsoft Edge כדי לאתר מרחוק באגים במכשיר Android ממחשב פיתוח
 
-כדי לאתר באגים מרחוק בתוכן חי במכשיר Android מהמחשב:
+כדי לאתר מרחוק באגים בתוכן חי במכשיר Android מהמחשב שלך:
 
-1. הגדר את התקן ה-Android לאיתור באגים מרחוק וגלה אותו מתוך מחשב הפיתוח.
-2. מתוך מחשב הפיתוח, בדוק את התוכן החי והאתר באגים במכשיר ה-Android.
-3. שידור מסך של תוכן חי ממכשיר Android למופע DevTools במחשב הפיתוח.
+1. הגדר את מכשיר Android לאיתור באגים מרחוק וגה אותו ממחשב הפיתוח.
+2. ממחשב הפיתוח, בדוק ואתר באגים בתוכן חי במכשיר Android.
+3. שידור מסך תוכן חי ממכשיר Android למופע DevTools במחשב הפיתוח.

@@ -1,5 +1,5 @@
 ---
-title: כניסה ל-Microsoft Edge באופן ידני
+title: כניסה ל- Microsoft Edge באופן ידני
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677789"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398658"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>כניסה ל-Microsoft Edge באופן ידני
+# <a name="sign-in-to-microsoft-edge-manually"></a>כניסה ל- Microsoft Edge באופן ידני
 
-אם משתמש אינו נכנס באופן אוטומטי במהלך חוויית ההפעלה הראשונה, המשתמש יכול להיכנס באופן ידני באמצעות הגדרות הדפדפן או נשלף של identity. כדי לנהל כניסה, השתמש בפריטי המדיניות הבאים:
+אם משתמש אינו מחובר באופן אוטומטי במהלך חוויית הפעלה ראשונה, המשתמש יכול להיכנס באופן ידני דרך הגדרות הדפדפן או את התדפיס נשלף הזהות. כדי לנהל את הכניסה, השתמש במדיניות הבאה:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) -כדי להבטיח שלמשתמש יש תמיד פרופיל עבודה ב-Microsoft Edge.
-2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) -כדי להגביל את הכניסה לקבוצת חשבונות מהימנים.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) -כדי להפוך את הכניסה לזמינה או כדי לאלץ משתמשים להיכנס.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - כדי להבטיח שלמשתמש יש תמיד פרופיל עבודה ב- Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - כדי להגביל את הכניסה לערכה של חשבונות מהימנים.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) - כדי להפוך את הכניסה ללא זמינה או לכפות על המשתמשים להיכנס.
 
