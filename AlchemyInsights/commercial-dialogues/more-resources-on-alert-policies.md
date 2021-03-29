@@ -1,9 +1,9 @@
 ---
-title: משאבים נוספים במדיניות התראה
+title: משאבים נוספים לגבי מדיניות התראה
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 30aa184d78a0375c3bd39115715eaf6e520f4e93
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 1fcddb1252e268471af19375f74547a19fafd210
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482562"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403204"
 ---
-# <a name="more-resources-on-alert-policies"></a>משאבים נוספים במדיניות התראה
+# <a name="more-resources-on-alert-policies"></a>משאבים נוספים לגבי מדיניות התראה
 
 לקבלת מידע נוסף, עיין במאמר הבא:
 
-[התראת מדיניות במרכז התאימות של & אבטחה](https://go.microsoft.com/fwlink/?linkid=2103211)
+[מדיניות התראה במרכז האבטחה & תאימות](https://go.microsoft.com/fwlink/?linkid=2103211)

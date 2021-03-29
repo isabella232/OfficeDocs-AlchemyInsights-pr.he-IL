@@ -1,9 +1,9 @@
 ---
-title: סקירת יומני רישום כניסה עבור משתמשים
+title: סקירת יומני כניסה עבור משתמשים
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: ef80ed75fd9074f290dc4658bdef339faed9505b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7e92c01b45fdad7871db734dcd35e4cf611e9e0f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482499"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401980"
 ---
-# <a name="review-sign-in-logs-for-users"></a>סקירת יומני רישום כניסה עבור משתמשים
+# <a name="review-sign-in-logs-for-users"></a>סקירת יומני כניסה עבור משתמשים
 
 כך ניתן לעשות זאת:
 
-1. עבור אל **מרכזי הניהול**  >  **[תכלת active Directory](https://go.microsoft.com/fwlink/p/?linkid=2067268)**.
-1. בחר באפשרות  >  **כניסה** לכתובות של active Directory.
-1. אם עדיין אין לך מנוי ל-תכלת AD P1 או ל-P2, תוצג לך בקשה להתחיל גירסת ניסיון של פרמיה ללא תשלום. אם אתה מעוניין בכך, לחץ על **התחל גירסת ניסיון של premium ללא תשלום** ולאחר מכן, בתיבה ' שימוש ב-תכלת לספירה ', בחר באפשרות הפעל **ניסיון ללא תשלום**  >  . גירסת הניסיון ללא תשלום היא 30 יום.
+1. עבור אל **מרכזי הניהול של** Azure Active  >  **[Directory](https://go.microsoft.com/fwlink/p/?linkid=2067268)**.
+1. בחר **הכניסה של Azure Active Directory**  >  .
+1. אם עדיין אין לך מנוי Azure AD P1 או P2, תתבקש להתחיל גירסת ניסיון ללא תשלום. אם תרצה, לחץ על **התחל גירסת ניסיון של Premium** ללא תשלום ולאחר מכן, בתיבה Azure AD Premium P2, בחר הפעל גירסת ניסיון **ללא**  >  **תשלום**. גירסת הניסיון ללא תשלום היא ל- 30 יום.

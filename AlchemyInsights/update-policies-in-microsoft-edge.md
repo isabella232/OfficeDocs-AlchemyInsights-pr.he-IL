@@ -1,5 +1,5 @@
 ---
-title: שימוש במדיניות קבוצתית הקשורה לעדכון הזמינה ב-Microsoft Edge
+title: שימוש במדיניות קבוצתית הקשורה לעדכון הזמינה ב- Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,14 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7092"
-ms.openlocfilehash: 506681be0666c8091b86c173635f6eaa9552432d
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8359"
+ms.openlocfilehash: 3477b5a1754815e22f34a866e285096af94d6d78
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573487"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403672"
 ---
-# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>שימוש במדיניות קבוצתית הקשורה לעדכון הזמינה ב-Microsoft Edge
+# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>שימוש במדיניות קבוצתית הקשורה לעדכון הזמינה ב- Microsoft Edge
 
-השתמש [במדיניות](https://go.microsoft.com/fwlink/?linkid=2134862) הזמינות ב-Microsoft Edge (גירסה 77 ואילך) כדי לקבוע כיצד ומתי Microsoft edge מתעדכן.
+השתמש במדיניות [הזמינה ב-](https://go.microsoft.com/fwlink/?linkid=2134862) Microsoft Edge (גירסה 77 ואילך) כדי לקבוע כיצד ומתי Microsoft Edge מתעדכן.

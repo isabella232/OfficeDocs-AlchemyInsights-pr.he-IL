@@ -3,7 +3,7 @@ title: הסרת כתובות העברה בתיבת הדואר
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3b44ae0a981ad851ea368b3aff194ec061ae6648
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 52c205714bcb82cb50d22211ecb0b77c22569a9d
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482152"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403168"
 ---
 # <a name="remove-forwarding-addresses-on-the-mailbox"></a>הסרת כתובות העברה בתיבת הדואר
 
-לפעמים האקרים מעבירים את הודעות הדואר האלקטרוני של המשתמשים לעצמם על-ידי הוספת כתובת העברה לתיבת הדואר כך ניתן לבדוק כתובות העברה ולהסיר אותן:
+לעתים פורצי מחשבים (האקרים) מעבירים הודעות דואר אלקטרוני של משתמשים לעצמם על-ידי הוספת כתובת העברה לתיבת הדואר. כך ניתן לבדוק אם יש כתובות העברה ולהסיר אותן:
 
-1. בחר **משתמשים**  >  **[פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822)**.
-1. בחר את המשתמש שהחשבון שלו נחשף. בנשלף של שמופיעה, הרחב את **הגדרות הדואר** ולחץ על **ערוך** **להעברת דואר אלקטרוני**.
-1. הסר כתובות העברה.
+1. בחר **משתמשים**  >  **[פעילים משתמשים](https://go.microsoft.com/fwlink/p/?linkid=834822)**.
+1. בחר את המשתמש שהחשבון שלו נחשף לסכנה. בתפריט נשלף שמופיע, הרחב את **הגדרות דואר ולחץ** על ערוך **עבור** העברת **דואר אלקטרוני**.
+1. הסר את כל כתובות הנמענים.

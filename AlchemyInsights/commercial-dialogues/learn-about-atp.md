@@ -1,9 +1,9 @@
 ---
-title: קבלת מידע אודות ATP
+title: למד אודות ATP
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 4837fb5ff53198b290333eabb2f94f6fd96dfe53
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482611"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403564"
 ---
-# <a name="learn-about-atp"></a>קבלת מידע אודות ATP
+# <a name="learn-about-atp"></a>למד אודות ATP
 
-להלן מידע אודות הגנת האיום המתקדמת של Office 365 (ATP):
+להלן מידע אודות Office 365 Advanced Threat Protection (ATP):
 
 **מהו ATP?**
 
-ATP הוא שירות סינון דואר אלקטרוני המבוסס על ענן שעוזר להגן על ארגונים מפני תוכנות זדוניות ווירוסים לא ידועים על-ידי מתן הגנה חזקה ביום האפס. היא כוללת תכונות להגנה על ארגונים מפני קישורים מזיקים בזמן אמת.
+ATP הוא שירות סינון דואר אלקטרוני מבוסס ענן שמסייע להגן על ארגונים מפני תוכנות זדוניות ווירוסים לא ידועים על-ידי מתן הגנה איתנות של אפס ימים. הוא כולל תכונות כדי להגן על ארגונים מקישורים מזיקים בזמן אמת.
 
-**כיצד ניתן להפעיל את ATP?**
+**כיצד ניתן להפעיל ATP?**
 
-קבצים מצורפים בטוחים, קישורים בטוחים ומניעת דיוג הם חלק מהתכונה ATP. Enterprise E5, השכלה A5 ו-Microsoft 365 Business כוללים תכונות ATP מוכללות. כל התוכניות האחרות דורשות מנוי ATP של הרחבה. עליך להקצות את הרשיונות המתאימים למשתמשים שלך כדי להתגונן על-ידי Office 365 ATP. עליך להיות בעל הרשאות מנהל מערכת כללי או מנהל אבטחה כדי לגשת לתכונה זו. לקבלת מידע נוסף אודות החלת רשיונות בצובר למשתמשי הקצה, ראה [הקצאת רשיונות למשתמשים ב-Office 365 לעסקים](https://go.microsoft.com/fwlink/?linkid=2093435).
+קבצים מצורפים בטוחים, קישורים בטוחים ואנטי-דיוג הם חלק מתכונת ATP. Enterprise E5 , Education A5 ו- Microsoft 365 Business כוללים תכונות ATP מוכללות. כל התוכניות האחרות דורשות מנוי ATP של הרחבה. עליך להקצות את הרשיונות המתאימים למשתמשים שלך כדי להיות מוגן על-ידי Office 365 ATP. כדי לגשת לתכונה זו, עליך להיות בעל הרשאות כלליות של מנהל מערכת או מנהל אבטחה. לקבלת מידע נוסף על אופן החלת רשיונות בצובר על משתמשי הקצה שלך, ראה הקצאת רשיונות למשתמשים [ב- Office 365 לעסקים](https://go.microsoft.com/fwlink/?linkid=2093435).
 
-**כיצד ניתן לנהל את ATP או לקבל מידע נוסף אודותיו?**
+**כיצד ניתן לנהל ATP או לקבל מידע נוסף על כך?**
 
-מ. עבור אל [תוכנית ההתקנה](https://go.microsoft.com/fwlink/p/?linkid=2075721).
-b. תחת **כניסה ואבטחה**, מצא את **הגדלת ההגנה מפני איומים מתקדמים** ולאחר מכן בחר [תצוגה](https://go.microsoft.com/fwlink/?linkid=2109302).
+a. עבור אל [הגדרה](https://go.microsoft.com/fwlink/p/?linkid=2075721).
+ב. תחת **כניסה ואבטחה, חפש** את **הגדלת ההגנה מפני איומים מתקדמים** ולאחר מכן בחר [הצג](https://go.microsoft.com/fwlink/?linkid=2109302).

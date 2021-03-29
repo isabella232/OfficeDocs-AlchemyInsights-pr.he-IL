@@ -1,9 +1,9 @@
 ---
-title: הגדרת הגנה למניעת הודעות זבל
+title: הגדרת הגנה מפני דואר זבל
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 3a9408f94b72770669e75272307c932303666d6b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482134"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401836"
 ---
-# <a name="set-up-an-anti-spam-protection"></a>הגדרת הגנה למניעת הודעות זבל
+# <a name="set-up-an-anti-spam-protection"></a>הגדרת הגנה מפני דואר זבל
 
 כך ניתן לעשות זאת:
 
-1. עבור אל [מרכז התאימות & אבטחה של Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. נווט אל   >  **מדיניות** ניהול האיום ולחץ על **[אנטי-הודעות זבל](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. בכרטיסיה **התאמה אישית** , הפעל הגדרות **מותאמות אישית** .
-1. הרחב את **מדיניות ברירת המחדל למסנן דואר הזבל**, לחץ על **ערוך מדיניות** ולאחר מכן ציין את ההגדרות הבאות:
-    1. במקטע **הודעות זבל ופעולות בצובר** , הגדר את הסף לערך של 5 או 6.
+1. עבור אל [מרכז התאימות של Office 365 & Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. נווט **אל מדיניות ניהול**  >  **איומים** ולחץ על **[Anti-spam](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
+1. בכרטיסיה **מותאם אישית,** הפעל הגדרות **מותאמות** אישית.
+1. הרחב את **מדיניות הסינון של דואר זבל המהווה ברירת** מחדל , **לחץ על** ערוך מדיניות ולאחר מכן ציין את ההגדרות הבאות:
+    1. במקטע דואר **זבל ופעולות בצובר,** הגדר את הסף לערך של 5 או 6.
 1. לחץ על **שמור**.
 
-לקבלת מידע נוסף אודות אפשרויות המדיניות למניעת הודעות זבל, ראה [קביעת תצורה של מדיניות למניעת הודעות](https://go.microsoft.com/fwlink/?linkid=2092051)זבל.
+כדי ללמוד עוד אודות אפשרויות מדיניות למניעת דואר זבל, ראה [קביעת תצורה של מדיניות למניעת דואר זבל.](https://go.microsoft.com/fwlink/?linkid=2092051)
