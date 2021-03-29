@@ -1,5 +1,5 @@
 ---
-title: שימוש ב-Jamf כדי לקבוע את תצורת הגדרות מדיניות הקצה של Microsoft
+title: השתמש ב- Jamf כדי לקבוע את התצורה של הגדרות מדיניות Microsoft Edge ב- macOS
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,16 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003852"
+- "9004632"
 - "6901"
-ms.openlocfilehash: 7874ce15417958cfe2e3b2ff068b3eb7241e6812
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8360"
+ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678364"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403456"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a><span data-ttu-id="14741-102">שימוש ב-Jamf כדי לקבוע את תצורת הגדרות מדיניות הקצה של Microsoft</span><span class="sxs-lookup"><span data-stu-id="14741-102">Use Jamf to configure Microsoft Edge policy settings on macOS</span></span>
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a><span data-ttu-id="61566-102">השתמש ב- Jamf כדי לקבוע את התצורה של הגדרות מדיניות Microsoft Edge ב- macOS</span><span class="sxs-lookup"><span data-stu-id="61566-102">Use Jamf to configure Microsoft Edge policy settings on macOS</span></span>
 
-<span data-ttu-id="14741-103">כדי לקבוע את התצורה של Microsoft Edge (ערוץ יציב 81 או גירסה מתקדמת יותר) ב-macOS, השתמש בקובץ מניפסט של מדיניות קצה של Microsoft ב-Jamf Pro 10.19.</span><span class="sxs-lookup"><span data-stu-id="14741-103">To configure Microsoft Edge (Stable channel 81 or later) on macOS, use a Microsoft Edge policy manifest file on Jamf Pro 10.19.</span></span>
+<span data-ttu-id="61566-103">כדי לקבוע את התצורה של Microsoft Edge (ערוץ יציב 81 ואילך) ב- macOS, השתמש בקובץ מניפסט מדיניות Microsoft Edge ב- Jamf Pro 10.19.</span><span class="sxs-lookup"><span data-stu-id="61566-103">To configure Microsoft Edge (Stable channel 81 or later) on macOS, use a Microsoft Edge policy manifest file on Jamf Pro 10.19.</span></span>
 
-<span data-ttu-id="14741-104">לקבלת מידע נוסף, ראה [קביעת תצורה של הגדרות מדיניות Edge של Microsoft ב-macOS עם Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).</span><span class="sxs-lookup"><span data-stu-id="14741-104">For more information, see [Configure Microsoft Edge policy settings on macOS with Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).</span></span>
+<span data-ttu-id="61566-104">לקבלת מידע נוסף, ראה [קביעת תצורה של הגדרות מדיניות Microsoft Edge ב- macOS באמצעות Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).</span><span class="sxs-lookup"><span data-stu-id="61566-104">For more information, see [Configure Microsoft Edge policy settings on macOS with Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).</span></span>
