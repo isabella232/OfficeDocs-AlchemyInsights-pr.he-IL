@@ -1,5 +1,5 @@
 ---
-title: כיצד לשתף קבצים או תיקיות של SharePoint
+title: כיצד לשתף קבצים או תיקיות של SharePoint או OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779016"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408115"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a><span data-ttu-id="fdccd-102">כיצד לשתף קבצים או תיקיות של SharePoint</span><span class="sxs-lookup"><span data-stu-id="fdccd-102">How to share SharePoint files or folders</span></span>
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a><span data-ttu-id="b0160-102">כיצד לשתף קבצים או תיקיות של SharePoint או OneDrive</span><span class="sxs-lookup"><span data-stu-id="b0160-102">How to share SharePoint or OneDrive files or folders</span></span>
 
-<span data-ttu-id="fdccd-103">הקבצים שאתה מאחסן באתר SharePoint זמינים בדרך כלל לכל המשתמשים בעלי הרשאות לאתר, אך ייתכן שתרצה לשתף קבצים או תיקיות ספציפיים עם אנשים שאחרת אין להם גישה לאתר.</span><span class="sxs-lookup"><span data-stu-id="fdccd-103">The files you store on a SharePoint site are usually available to everyone with permissions to the site, but you may want to share specific files or folders with people who don't otherwise have access to the site.</span></span> <span data-ttu-id="fdccd-104">בעת שיתוף קבצים ותיקיות, באפשרותך להחליט אם לאפשר לאנשים לערוך או פשוט להציג אותם.</span><span class="sxs-lookup"><span data-stu-id="fdccd-104">When you share files and folders, you can decide whether to let people edit or just view them.</span></span>
+<span data-ttu-id="b0160-103">הקבצים שאתה מאחסן באתר SharePoint זמינים בדרך כלל לכל האנשים שיש להם הרשאות לאתר, אך ייתכן שתרצה לשתף קבצים או תיקיות ספציפיים עם אנשים שאין להם גישה לאתר באופן אחר.</span><span class="sxs-lookup"><span data-stu-id="b0160-103">The files you store on a SharePoint site are usually available to everyone with permissions to the site, but you may want to share specific files or folders with people who don't otherwise have access to the site.</span></span> <span data-ttu-id="b0160-104">בעת שיתוף קבצים ותיקיות, באפשרותך להחליט אם לתת לאנשים לערוך או פשוט להציג אותם.</span><span class="sxs-lookup"><span data-stu-id="b0160-104">When you share files and folders, you can decide whether to let people edit or just view them.</span></span> <span data-ttu-id="b0160-105">לקבלת מידע נוסף, ראה:</span><span class="sxs-lookup"><span data-stu-id="b0160-105">For more information, see:</span></span>
 
-[<span data-ttu-id="fdccd-105">שיתוף קבצים או תיקיות של SharePoint</span><span class="sxs-lookup"><span data-stu-id="fdccd-105">Share SharePoint files or folders</span></span>](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[<span data-ttu-id="b0160-106">שיתוף קבצים או תיקיות של SharePoint</span><span class="sxs-lookup"><span data-stu-id="b0160-106">Share SharePoint files or folders</span></span>](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[<span data-ttu-id="b0160-107">שיתוף קבצים ותיקיות של OneDrive</span><span class="sxs-lookup"><span data-stu-id="b0160-107">Share OneDrive files and folders</span></span>](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
