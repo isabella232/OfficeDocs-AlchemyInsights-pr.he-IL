@@ -1,5 +1,5 @@
 ---
-title: כיצד להוריד ולהתקין את האפליקציה ‚ניהול משימות של Microsoft‘
+title: כיצד להוריד ולהתקין את האפליקציה ‘ניהול משימות של Microsoft’
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -19,9 +19,9 @@ ms.contentlocale: he-IL
 ms.lasthandoff: 03/29/2021
 ms.locfileid: "51401944"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a>כיצד להוריד ולהתקין את האפליקציה ‚ניהול משימות של Microsoft‘
+# <a name="how-to-download-and-install-microsoft-to-do"></a>כיצד להוריד ולהתקין את האפליקציה ‘ניהול משימות של Microsoft’
 
-ניתן להוריד את האפליקציה ‚ניהול משימות של Microsoft‘ עבור Win32,‏ iOS,‏ Android ו- Mac מהחנות המתאימה.
+ניתן להוריד את האפליקציה ‘ניהול משימות של Microsoft‘ עבור Win32,‏ iOS,‏ Android ו- Mac מהחנות המתאימה.
 
 אם יש לך גישה מוגבלת ל- Microsoft Store עבור הדייר שלך, עיין ב- [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) למתקין הלא מקוון
 

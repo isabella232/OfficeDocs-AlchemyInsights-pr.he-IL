@@ -1,5 +1,5 @@
 ---
-title: EndPoint Manager - תוכניות בסיסיות של אבטחה
+title: תכניות בסיסיות של EndPoint Manager - Security
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "10084"
 - "6700005"
-ms.openlocfilehash: d2a063fdc4929cbee5fef71bfb47ace8f2ba458f
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
-ms.translationtype: MT
+- "10064"
+- "9003771"
+ms.openlocfilehash: 36b480c7ed4715338fda056eafd69c511093e627
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420880"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440885"
 ---
-# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager - תוכניות בסיסיות של אבטחה
+# <a name="endpoint-manager---security-baselines"></a>תכניות בסיסיות של EndPoint Manager - Security
 
-תוכניות בסיסיות אבטחה הן קבוצות מוגדרות מראש של הגדרות Windows, שיעזור לך להחיל את הגדרות האבטחה המומלצות על-ידי צוותי האבטחה הרלוונטיים. ניתן להתאים אישית תוכניות בסיסיות אלה כדי לספק רק את ההגדרות והערכים הרצויים. לקבלת מידע נוסף אודות תוכניות בסיסיות של אבטחה, ראה [שימוש בתוכנית בסיסית של אבטחה כדי לקבוע את התצורה של מכשירי Windows 10 ב- Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines).
+תוכניות אבטחה בסיסיות הן קבוצות של הגדרות Windows מוגדרות מראש שעוזרות לך להחיל את הגדרות האבטחה שצוותי אבטחה רלוונטיים ממליצים להם. התוכניות הבסיסיות הללו פתוחות להתאמות שמאפשרות למסור רק את ההגדרות והערכים הרצויים. למידע נוסף על תוכניות אבטחה בסיסיות ראה [שימוש בתוכניות אבטחה בסיסיות לקביעת תצורה של מכשירי Windows 10 ב- Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines).
 
-כיום זמינים תוכניות בסיסיות עבור מוצרים אלה:
+נכון לעכשיו, יש תוכניות בסיסיות למוצרים הבאים:
 
 - הגדרות אבטחה של Windows MDM
-- Microsoft Defender עבור אבטחת EndPoint
-- מייקרוסופט אדג'
+- Microsoft Defender ל- EndPoint Security
+- Microsoft Edge
 
-כל אחת מ בסיסית מתעדכנת מעת לעת ומופץ בגירסאות מצטברות. כל גירסה מוסיפה או מסירה הגדרות מהגירסה הקודמת כדי להבטיח שה בסיסית תיפגש עם ההנחיות הנוכחיות. מסוף תוכניות בסיסיות של אבטחה באבטחת נקודות קצה מאפשר השוואה בין גירסאות שונות על-ידי הפיכת השינויים מגירסה לגירסה לגלויים.
+כל אחת מהתוכניות הבסיסיות מתעדכנת מעת לעת ומופצת בגרסאות מצטברות. בכל גרסה מתווספות או נגרעות הגדרות מהגרסה הקודמת כדי להבטיח שהתוכנית הבסיסית עומדת בדרישות הקו המנחה העדכני. מסוף תכניות האבטחה הבסיסיות ב- Endpoint Security מאפשר השוואה בין גרסאות שונות בכך שהוא מאפשר לראות את ההבדלים בין גרסה אחת לשנייה.
 
-לקבלת הדרכה כיצד לשנות בצורה היעילה ביותר את גירסת התוכנית הבסיסית שנפרסת, ראה [ניהול פרופילי תוכנית בסיסית של אבטחה ב- Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
+ראו הדרכה על השינויים היעילים ביותר לכל גרסה של תכנית בסיסית כאן [Manage security baseline profiles in Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
-לאחר פריסת תוכנית בסיסית של אבטחה, באפשרותך לנטר את מצב הפריסה וביקורות ההגדרות על בסיס מכשיר אחר מכשיר.
+לאחר התקנת תוכנית אבטחה בסיסית באפשרותך לנטר את מצב ההתקנה ולבחון מחדש הגדרות של מכשיר אחר מכשיר.
 
-**הערה:** נתוני הדיווח עבור תוכניות בסיסיות עשויים להתקדם עד 24 שעות מהפריסה הראשונית למכשיר ועד 6 שעות לעדכונים נוספים. 
+**שים לב:** ייתכן שיחלפו עד 24 שעות עד הופעתם של נתוני דיווח על תוכניות בסיסיות מהתקנה הראשונית במכשיר. בעדכונים נוספים, עד שש שעות. 
 
-הסיבה הנפוצה ביותר להגדרה בסיסית אינה חלה היא משום שהגדרה זו נמצאת בשימוש בפרופיל אחר. ניתן לחקור תרחיש זה עבור מכשיר ספציפי על-ידי בחירת מכשיר זה מתוך הצומת מצב התקן של פרופיל 'תוכנית בסיסית של אבטחה'. לקבלת פרטים, ראה [פתרון התנגשויות עבור תוכניות בסיסיות של אבטחה.](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines)
+הסיבה הנפוצה ביותר לאי החלה של הגדרת תוכנית בסיסית היא שאותה הגדרה נמצאת בשימוש בפרופיל אחר. אפשר לבדוק את התרחיש בכל מכשיר על-ידי בחירתו בצומת 'מצב מכשיר' בפרופיל ה- Security Baseline. ראה מידע מפורט כאן [Resolve conflicts for security baselines](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines).

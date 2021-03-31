@@ -1,5 +1,5 @@
 ---
-title: 126 אין אפשרות למצוא תיבת דואר ב-OWA?
+title: 126 לא ניתן למצוא שגיאת קבלת תיבת דואר ב- OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,17 +14,23 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6bab821aaa3b50c365ef5d25a61bca195c76d7ce
+ms.sourcegitcommit: e552d65aac79433a911723412bf1252d20d3f0da
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706751"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51426663"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>מקבל שגיאת תיבת דואר לא נמצא ב-Outlook באינטרנט?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>קבלת תיבת דואר לא נמצאה שגיאה ב- Outlook באינטרנט?
 
-אם אתה משתמש ב-Outlook באינטרנט ואתה מקבל את **תיבת הדואר לא היתה אפשרות למצוא** שגיאה, החשבון שבו השתמשת כדי להתחבר ל-Outlook באינטרנט אינו כולל רשיון של Exchange Online ולכן אף תיבת דואר אינה משויכת לחשבון. מנהל המערכת יכול להקצות רשיון לחשבון שלך על-ידי ביצוע השלבים הבאים:
+אם אתה משתמש ב- Outlook באינטרנט  ואתה מקבל תיבת דואר לא נמצאה לשגיאה, החשבון ששימש אותך להתחברות ל- Outlook באינטרנט אינו כולל רשיון Exchange Online ולכן, לא משויכת תיבת דואר לחשבון. מנהל המערכת יכול להקצות רשיון לחשבון שלך על-ידי ביצוע השלבים הבאים:
 
-1. פתח את [מרכז הניהול של Microsoft 365](https://portal.office.com/adminportal/home#/homepage) ועבור אל **משתמשים פעילים** תחת המקטע **משתמשים** ובחר את המשתמש הרואה את השגיאה.
+1. פתח את [מרכז הניהול של Microsoft 365,](https://portal.office.com/adminportal/home#/homepage) עבור אל משתמשים פעילים תחת המקטע משתמשים ובחר את המשתמש ש רואה את השגיאה.  
 
-2. בדף המשתמש שנפתח, עבור אל המקטע **רשיונות ויישומים** , בחר את ערך **המיקום** המתאים והקצה רשיון המכיל את Exchange Online (הרחב את הרשיון כדי לראות את הפרטים שלו). לאחר שתסיים, לחץ על **שמור שינויים**.
+2. בדף המשתמש שנפתח, עבור אל  המקטע רשיונות ואפליקציות,  בחר את ערך המיקום המתאים והקצה רשיון המכיל את Exchange Online (הרחב את הרשיון כדי לראות את הפרטים שלו). כשתסיים, לחץ על **שמור שינויים.**
+
+במקרים מסוימים, אם הרשיון כבר מוקצה לחשבון משתמש, הסרה והקצאה מחדש של הרשיון עוזרת לפתור את הבעיה ולהקצה אותה כראוי למערכת: 
+
+- בדוק אם מנויי M365 Exchange Online (ועוד, אם יש לך) מנויים עדכניים ולא פג תוקף לאחרונה.
+
+לאחר שנוודא שתוקף המנוי שלך לא פג ורשיון חוקי הוקצה לחשבון המשתמש, ייתכן שהרשיון ימתין עד 24 שעות, ולכן ייתכן שיהיה עליך להמתין עד שהבעיה תיפתר. לקבלת מידע נוסף, ראה [הקצאה וניהול של רשיונות](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses).
