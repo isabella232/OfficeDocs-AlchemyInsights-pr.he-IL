@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685887"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505069"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>גישה למפתחות שחזור של Bitlocker
 
-בעת קביעת התצורה של מדיניות הגנת נקודות הקצה של Bitlocker, ניתן להגדיר אם יש לאחסן את מידע השחזור של Bitlocker ב-תכלת Active Directory.
+בעת קביעת התצורה של הגדרות Bitlocker Intune Endpoint Protection Policy, ניתן להגדיר אם יש לאחסן מידע שחזור של Bitlocker ב- Azure Active Directory.
 
-אם הגדרה זו מוגדרת, נתוני השחזור המאוחסנים אמורים להיות גלויים לניהול מכוונן כחלק מנתוני רשומת ההתקן בלהב של התקנים מובילים בשתי דרכים:
+אם הגדרה זו מוגדרת, נתוני השחזור המאוחסנים אמורים להיות גלויים למנהל Intune כחלק מנתוני הרשומה של המכשיר בלהב Intune Devices בשתי דרכים:
 
-מכשירים-תכלת מכשירים-> "Device" או מכשירים-> כל המכשירים-> "התקן"-מפתחות שחזור >
+מכשירים - מכשירי Azure AD -> "Device" OR Devices -> כל המכשירים -> "Device" -> מפתחות שחזור
 
-לחלופין, אם קיימת גישה מנהלית למכשיר עצמו, ניתן לראות את מפתח השחזור (סיסמה) על-ידי הפעלת הפקודה הבאה מתוך שורת פקודה מוגבהת:
+לחלופין, אם ישנה גישה ניהולית למכשיר עצמו, ניתן לראות את מפתח השחזור (סיסמה) על-ידי הפעלת הפקודה הבאה משורת פקודה עם הרשאות מלאות:
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-אם המכשיר הוצפן לפני רישום בתוך המנגינה, ייתכן שמפתח השחזור השויך ל-"Microsoft Account" (ולכת למס א) המשמש לכניסה למכשיר במהלך תהליך ה-OOBE. אם זה היה המקרה, כניסה  https://onedrive.live.com/recoverykey וכניסה באמצעות ולכת למס א אמור להראות את המכשירים שעבורם אוחסנו מפתחות השחזור.
+אם המכשיר הוצפן לפני הרישום ב- Intune, ייתכן שמפתח השחזור משויך ל-"Microsoft Account" (MSA) ששימש כדי להיכנס למכשיר במהלך תהליך ה- OOBE. במקרה זה, הגישה וההכניסה באמצעות MSA זה אמורים  https://onedrive.live.com/recoverykey להציג את המכשירים שעבורם אוחסנו מפתחות שחזור.
  
-אם המכשיר הוצפן כתוצאה מקביעת תצורה באמצעות מדיניות קבוצתית מבוססת תחום, מידע השחזור עשוי להיות מאוחסן ב-Active Directory המקומי.
- 
+אם המכשיר היה מוצפן כתוצאה מתצורה באמצעות מדיניות קבוצתית מבוססת תחום, ייתכן שמידע השחזור יאוחסן ב- Active Directory המקומי.
+
+אם הגדרת מדיניות הגנה על נקודת קצה לאחסון מפתח השחזור ב- Azure Active Directory, אך המפתח עבור מכשיר ספציפי לא הועלה, באפשרותך להפעיל את ההעלאה על-ידי סיבוב מפתח השחזור עבור מכשיר זה ממסוף MEM. לקבלת פרטים, ראה [סיבוב מפתחות שחזור של BitLocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).
 
