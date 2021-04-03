@@ -1,5 +1,5 @@
 ---
-title: הפעלת NewsGuard ב-Microsoft Edge במכשיר Android או iOS
+title: הפעלת NewsGuard ב- Microsoft Edge במכשיר Android או iOS
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004028"
 - "7098"
-ms.openlocfilehash: 7c3cb0eecb2ce073637623062d6c15c7bac4c1c9
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8308"
+- "9004621"
+ms.openlocfilehash: 73e2cefe98185ff9f741e8d46b92ebcc8a5a499a
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677775"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505645"
 ---
-# <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a><span data-ttu-id="31232-102">הפעלת NewsGuard ב-Microsoft Edge במכשיר Android או iOS</span><span class="sxs-lookup"><span data-stu-id="31232-102">Turn on NewsGuard in Microsoft Edge on an Android or iOS device</span></span>
+# <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a><span data-ttu-id="10559-102">הפעלת NewsGuard ב- Microsoft Edge במכשיר Android או iOS</span><span class="sxs-lookup"><span data-stu-id="10559-102">Turn on NewsGuard in Microsoft Edge on an Android or iOS device</span></span>
 
-<span data-ttu-id="31232-103">NewsGuard היא הרחבה של ספק חיצוני המעריך ומדרג אתרי אינטרנט על סטנדרטים עיתונאיים של אמינות ושקיפות בארה.</span><span class="sxs-lookup"><span data-stu-id="31232-103">NewsGuard is a third-party extension that assesses and rates websites on journalistic standards of credibility and transparency in the US.</span></span> <span data-ttu-id="31232-104">סיומת זו זמינה ב-Microsoft Edge אך מבוטלת כברירת מחדל.</span><span class="sxs-lookup"><span data-stu-id="31232-104">This extension is available in Microsoft Edge but is turned off by default.</span></span> <span data-ttu-id="31232-105">כאשר היא מופעלת, ההרחבה לא תמנע גישה לאתרים ולא תפריע לגלישה.</span><span class="sxs-lookup"><span data-stu-id="31232-105">When turned on, the extension will not prevent access to sites and will not interrupt browsing.</span></span>
+<span data-ttu-id="10559-103">NewsGuard היא הרחבה של ספקים אחרים הלהעריך ותעריפים של אתרי אינטרנט בתקנים עיתונאיים של אמינות ושקיפות ב- US.</span><span class="sxs-lookup"><span data-stu-id="10559-103">NewsGuard is a third-party extension that assesses and rates websites on journalistic standards of credibility and transparency in the US.</span></span> <span data-ttu-id="10559-104">הרחבה זו זמינה ב- Microsoft Edge אך מבוטלת כברירת מחדל.</span><span class="sxs-lookup"><span data-stu-id="10559-104">This extension is available in Microsoft Edge but is turned off by default.</span></span> <span data-ttu-id="10559-105">כאשר היא מופעלת, ההרחבה לא תמנע גישה לאתרים ולא תפריע לגלישה.</span><span class="sxs-lookup"><span data-stu-id="10559-105">When turned on, the extension will not prevent access to sites and will not interrupt browsing.</span></span>
 
-<span data-ttu-id="31232-106">כדי להפעיל את NewsGuard, בצע את השלבים הבאים:</span><span class="sxs-lookup"><span data-stu-id="31232-106">To turn on NewsGuard, complete the below steps:</span></span>
-1. <span data-ttu-id="31232-107">בחר...</span><span class="sxs-lookup"><span data-stu-id="31232-107">Select …</span></span><span data-ttu-id="31232-108"> > **הגדרות**  >  **דירוג חדשות**.</span><span class="sxs-lookup"><span data-stu-id="31232-108"> > **Settings** > **News rating**.</span></span>
-2. <span data-ttu-id="31232-109">**הפעלת דירוג התצוגה בשורת הכתובת**.</span><span class="sxs-lookup"><span data-stu-id="31232-109">Turn on **Display rating on the address bar**.</span></span>
+<span data-ttu-id="10559-106">כדי להפעיל את NewsGuard, בצע את השלבים הבאים:</span><span class="sxs-lookup"><span data-stu-id="10559-106">To turn on NewsGuard, complete the below steps:</span></span>
+1. <span data-ttu-id="10559-107">בחר ...</span><span class="sxs-lookup"><span data-stu-id="10559-107">Select …</span></span><span data-ttu-id="10559-108"> > **הגדרות**  >  **דירוג חדשות**.</span><span class="sxs-lookup"><span data-stu-id="10559-108"> > **Settings** > **News rating**.</span></span>
+2. <span data-ttu-id="10559-109">הפעל **את דירוג התצוגה בשורת הכתובת**.</span><span class="sxs-lookup"><span data-stu-id="10559-109">Turn on **Display rating on the address bar**.</span></span>
