@@ -1,5 +1,5 @@
 ---
-title: בדיקת מצב האחריות עבור מכשיר משטח או מכשיר Xbox
+title: בדיקת מצב האחריות עבור מכשיר Surface או Xbox
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9756"
 - "9005679"
-ms.openlocfilehash: 495b79a9328028fd4bddb3875aab085938603ff6
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: add41d938619c5744fbd08a15cd497ff2a41a486
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035914"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505321"
 ---
-# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a><span data-ttu-id="3ca82-102">בדיקת מצב האחריות עבור מכשיר משטח או מכשיר Xbox</span><span class="sxs-lookup"><span data-stu-id="3ca82-102">Check the warranty status for a Surface or Xbox device</span></span>
+# <a name="check-the-warranty-status-for-a-surface-or-xbox-device"></a><span data-ttu-id="253d6-102">בדיקת מצב האחריות עבור מכשיר Surface או Xbox</span><span class="sxs-lookup"><span data-stu-id="253d6-102">Check the warranty status for a Surface or Xbox device</span></span>
 
-<span data-ttu-id="3ca82-103">אם יש לך מכשיר למשטח או להתקן Xbox, באפשרותך להשתמש בחשבון Microsoft שלך כדי לבדוק את האחריות שלך.</span><span class="sxs-lookup"><span data-stu-id="3ca82-103">If you have a Surface or Xbox device, you can use your Microsoft account to check your warranty.</span></span> <span data-ttu-id="3ca82-104">כך תוכל לעשות זאת:</span><span class="sxs-lookup"><span data-stu-id="3ca82-104">Here’s how:</span></span>
+<span data-ttu-id="253d6-103">אם יש לך מכשיר Surface או Xbox, באפשרותך להשתמש בחשבון Microsoft שלך כדי לבדוק את האחריות על המכשיר.</span><span class="sxs-lookup"><span data-stu-id="253d6-103">If you have a Surface or Xbox device, you can use your Microsoft account to check your warranty.</span></span> <span data-ttu-id="253d6-104">כך תעשה זאת:</span><span class="sxs-lookup"><span data-stu-id="253d6-104">Here’s how:</span></span>
 
-1. <span data-ttu-id="3ca82-105">היכנס לחשבון Microsoft שלך.</span><span class="sxs-lookup"><span data-stu-id="3ca82-105">Sign in to your Microsoft account.</span></span> 
+1. <span data-ttu-id="253d6-105">היכנס ל[חשבון Microsoft](https://account.microsoft.com/devices/) שלך.</span><span class="sxs-lookup"><span data-stu-id="253d6-105">Sign in to your [Microsoft account](https://account.microsoft.com/devices/).</span></span> 
 
-1. <span data-ttu-id="3ca82-106">בחר את ההתקן שעבורו ברצונך לבדוק את האחריות.</span><span class="sxs-lookup"><span data-stu-id="3ca82-106">Select the device that you want to check the warranty for.</span></span>
+1. <span data-ttu-id="253d6-106">בחר את המכשיר שברצונך לבדוק את האחריות עבורו.</span><span class="sxs-lookup"><span data-stu-id="253d6-106">Select the device that you want to check the warranty for.</span></span>
 
-1. <span data-ttu-id="3ca82-107">**בכיסוי המכשירים**, תראה איזה סוג של כיסוי אחריות יש למכשיר שלך וכמה זמן נשאר.</span><span class="sxs-lookup"><span data-stu-id="3ca82-107">In **Device coverage**, you'll see what kind of warranty coverage your device has and how much time is left.</span></span>
+1. <span data-ttu-id="253d6-107">ב **כיסוי האחריות של המכשיר** תוכל לראות איזה סוג כיסוי מעניקה האחריות ועד מתי היא בתוקף.</span><span class="sxs-lookup"><span data-stu-id="253d6-107">In **Device coverage**, you'll see what kind of warranty coverage your device has and how much time is left.</span></span>
 
-<span data-ttu-id="3ca82-108">**הערה** יש לרשום את המכשיר שלך לפני שתוכל לבדוק את האחריות שלך או לקבל שירות.</span><span class="sxs-lookup"><span data-stu-id="3ca82-108">**Note** Your device must be registered before you can check your warranty or get service.</span></span> <span data-ttu-id="3ca82-109">אם עליך לרשום את המכשיר שלך או לא לראות את המכשיר שלך מופיע לאחר שנכנסת לחשבון שלך, עבור אל [רישום המשטח או Xbox](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).</span><span class="sxs-lookup"><span data-stu-id="3ca82-109">If you need to register your device or didn’t see your device listed after you signed in to your account, go to [Register your Surface or Xbox](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).</span></span>
+<span data-ttu-id="253d6-108">**הערה** המכשיר חייב להיות רשום לפני שתוכל לבדוק את האחריות עליו או לקבל שירות עבורו.</span><span class="sxs-lookup"><span data-stu-id="253d6-108">**Note** Your device must be registered before you can check your warranty or get service.</span></span> <span data-ttu-id="253d6-109">אם עליך לרשום את המכשיר, או אם אינך רואה את המכשיר ברשימה לאחר כניסתך לחשבון, עבור אל [רישום Surface או Xbox](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).</span><span class="sxs-lookup"><span data-stu-id="253d6-109">If you need to register your device or didn’t see your device listed after you signed in to your account, go to [Register your Surface or Xbox](https://support.microsoft.com/surface/register-your-surface-or-xbox-fd7d73f8-b0e6-c9fa-e83b-0b64652e2376).</span></span>
