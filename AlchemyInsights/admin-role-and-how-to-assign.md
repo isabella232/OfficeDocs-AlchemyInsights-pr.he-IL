@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebc5d8fd2725103b7cfd242a7f5deacb183e45bb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 116b92824b4046766d9c8b869ef0cfc655ee2395
+ms.sourcegitcommit: ce1a381ca3b24b8b4e60c5b83fae3ec7609eaf9d
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708976"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51585976"
 ---
-# <a name="admin-roles"></a><span data-ttu-id="7da9a-102">תפקידי ניהול</span><span class="sxs-lookup"><span data-stu-id="7da9a-102">Admin roles</span></span>
+# <a name="admin-roles"></a><span data-ttu-id="5a023-102">תפקידי ניהול</span><span class="sxs-lookup"><span data-stu-id="5a023-102">Admin roles</span></span>
 
-- <span data-ttu-id="7da9a-103">בחר [תפקידים](https://admin.microsoft.com/Adminportal/Home#/roles) במרכז הניהול כדי להקצות או לקבל מידע נוסף אודות תפקידי מנהל מערכת.</span><span class="sxs-lookup"><span data-stu-id="7da9a-103">Select [Roles](https://admin.microsoft.com/Adminportal/Home#/roles) in the admin center to assign or learn more about admin roles.</span></span>
+- <span data-ttu-id="5a023-103">כדי להקצות תפקיד, בחר באפשרות **משתמשים פעילים** ב [מרכז הניהול](https://admin.microsoft.com/Adminportal/Home#/users), בחר שם משתמש ולאחר מכן בחר באפשרות **ניהול תפקידים**.</span><span class="sxs-lookup"><span data-stu-id="5a023-103">To assign a role, select **Active Users** in the [admin center](https://admin.microsoft.com/Adminportal/Home#/users), select a user name, and then select  **Manage Roles**.</span></span>
 
-- <span data-ttu-id="7da9a-104">לאחר מכן, בחר את שמות התפקידים ולחץ על **'הקצה תפקיד'** או לחץ על **'השוואה בין תפקידים'** כדי לקבל מידע נוסף.</span><span class="sxs-lookup"><span data-stu-id="7da9a-104">Then select the role name(s) and click **assign role**, or click **compare roles** to learn more.</span></span>
+- <span data-ttu-id="5a023-104">לקבלת מידע נוסף אודות תפקיד, לחץ על הסימן **i** שליד התפקיד או ראה [אודות תפקידי מנהל מערכת](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="5a023-104">For more information about a role, click the **i** next to the role, or see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
