@@ -1,5 +1,5 @@
 ---
-title: תיקון שגיאת 0x8004de40 ב-OneDrive
+title: תיקון 0x8004de40 ב- OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,25 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0edb3e19b5dea240c9f2846dc503e65d92113cb7
+ms.sourcegitcommit: 477cce131dc4a3c212ab18a8763a50b2f3bb20b1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745131"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51649749"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>תיקון שגיאת 0x8004de40 ב-OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>תיקון 0x8004de40 ב- OneDrive
 
-אם אתה מקבל שגיאת 0x8004de40 עם OneDrive:
+אם אתה משתמש ב- Windows 7 ומקבל שגיאה זו, עדכן כדי להפוך [את TLS 1.1 ו- TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)לזמינים כפרוטוקולים מאובטחים המהווים ברירת מחדל ב- WinHTTP ב- Windows.
 
-- הפעל מחדש את המחשב המושפע בעת חיבור לתחום מדריך הכתובות שלך ב-Acitve.
-- אם אתחול מחדש אינו פותר את הבעיה, הצטרף למכשיר והצטרף אליו מחדש מתכלת לספירה. 
+אם אתה משתמש ב- Windows 10, ואתה מקבל הודעת 0x8004de40 ב- OneDrive:
 
-**הערה**: עליך להיות ברשת החברה שלך בעת ביצוע שלבים אלה. אל תבצע שלבים אלה כאשר אינך מצליח להתחבר לתשתית הארגונית שלך (לדוגמה, בעת נסיעה). 
+- אתחל מחדש את המחשב המושפע בעת חיבור לתחום Acitve Directory שלך.
+- אם אתחול מחדש אינו מתקן את הבעיה, בטל את ההסתהוות ו להצטרף שוב למכשיר שלך מ- Azure AD. 
 
-- פתח שורת פקודה מוגבהת. 
-- כדי לפתוח שורת פקודה מוגבהת, לחץ על **התחל**, לחץ באמצעות לחצן העכבר הימני על **שורת הפקודה**ולאחר מכן לחץ על **הפעל כמנהל**.
-- הקלד *dsregcmd/leave* והקש **Enter**.
-- כאשר תסיים, הקלד *dsregcmd/join* והקש **Enter**.
-- כאשר תסיים, סגור את שורת הפקודה.
-- אתחל מחדש את המחשב והיכנס ל-OneDrive.
+**הערה:** עליך להיות ברשת הארגונית שלך בעת ביצוע שלבים אלה. אל תבצע שלבים אלה כאשר אינך מחובר לתשתית הארגונית שלך (לדוגמה, במהלך נסיעה). 
+
+1. פתח שורת פקודה עם הרשאות מלאות על-ידי בחירה **באפשרות** התחל , לחץ באמצעות לחצן העכבר **הימני** על שורת הפקודה ולאחר מכן בחר הפעל **כמנהל מערכת**.
+
+1. הקלד *dsregcmd /leave* והקש **Enter**.
+
+1. לאחר ההשלמה, *הקלד dsregcmd /join* והקש **Enter**.
+
+1. לאחר ההשלמה, סגור את שורת הפקודה.
+
+1. אתחל את המחשב והיכנס ל- OneDrive.
