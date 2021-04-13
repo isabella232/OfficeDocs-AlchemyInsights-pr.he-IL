@@ -1,5 +1,5 @@
 ---
-title: 'CSS: כלל קישור עמוק של PSTN עמוד'
+title: 'CSS: כלל קישור עמוק של עמוד PSTN'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2555"
 - "9000675"
-ms.openlocfilehash: 60f35221fdc915a2a6c349de398d765ee69ebfa7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e796094e8ca47b13a238a2523675530f92bbf7d1
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746220"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692431"
 ---
-# <a name="pstn-calling-with-microsoft-teams"></a><span data-ttu-id="14bc7-102">שיחות PSTN עם Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="14bc7-102">PSTN Calling with Microsoft Teams</span></span>
+# <a name="pstn-calling-with-microsoft-teams"></a><span data-ttu-id="f70b8-102">שיחות PSTN עם Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="f70b8-102">PSTN Calling with Microsoft Teams</span></span>
 
-<span data-ttu-id="14bc7-103">לקבלת מידע נוסף אודות מערכת טלפון ושיחות PSTN ב-Microsoft Teams, ראה [מהי מערכת הטלפון ב-microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="14bc7-103">To learn more about Phone System and PSTN calling in Microsoft Teams, see [What is Phone System in Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span></span>
+<span data-ttu-id="f70b8-103">כדי לקבל מידע נוסף על שיחות Phone Microsoft Teams ו- PSTN ב- Microsoft Teams, ראה [מהו Microsoft Teams Phone ב- Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span><span class="sxs-lookup"><span data-stu-id="f70b8-103">To learn more about Microsoft Teams Phone and PSTN calling in Microsoft Teams, see [What is Microsoft Teams Phone in Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)</span></span>

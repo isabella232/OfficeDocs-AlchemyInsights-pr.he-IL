@@ -1,0 +1,13 @@
+---
+<span data-ttu-id="58ec4-101">כותרת: "פתרון בעיות נוכחות ב- Outlook" ms.author: מחבר pebaum: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (</span><span class="sxs-lookup"><span data-stu-id="58ec4-101">title: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (</span></span>
+- <span data-ttu-id="58ec4-102">9257</span><span class="sxs-lookup"><span data-stu-id="58ec4-102">9257</span></span>
+- <span data-ttu-id="58ec4-103">9003349</span><span class="sxs-lookup"><span data-stu-id="58ec4-103">9003349</span></span>
+---
+
+# <a name="troubleshoot-presence-issues-in-outlook"></a><span data-ttu-id="58ec4-104">פתרון בעיות נוכחות ב- Outlook</span><span class="sxs-lookup"><span data-stu-id="58ec4-104">Troubleshoot presence issues in Outlook</span></span>
+
+<span data-ttu-id="58ec4-105">כדי לאבחן ולתקן בעיות במצב הנוכחות של משתמש ב- Outlook, הורד ולהפעיל את מסייע התמיכה ושחזור של Microsoft > [תרחיש נוכחות של Teams](https://aka.ms/SaRA-TeamsPresenceScenario).</span><span class="sxs-lookup"><span data-stu-id="58ec4-105">To diagnose and correct issues with the presence status for a user in Outlook, download and run Microsoft Support and Recovery Assistant > [Teams Presence Scenario](https://aka.ms/SaRA-TeamsPresenceScenario).</span></span>
+
+<span data-ttu-id="58ec4-106">כדי לפתור בעיה באופן ידני עם נוכחות ב- Outlook, בצע את השלבים בנושא בעיות [מצב נוכחות משתמש ב- Outlook.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)</span><span class="sxs-lookup"><span data-stu-id="58ec4-106">To manually troubleshoot an issue with presence in Outlook, follow the steps in [User presence status issues in Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook).</span></span>
+
+<span data-ttu-id="58ec4-107">אם מצב הנוכחות אינו מתעדכן ב- Teams, ראה מצב הנוכחות בפועל [שלך אינו משתקף ב- Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).</span><span class="sxs-lookup"><span data-stu-id="58ec4-107">If the presence status is not updating in Teams, see [Your actual presence status isn't reflected in Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).</span></span>
