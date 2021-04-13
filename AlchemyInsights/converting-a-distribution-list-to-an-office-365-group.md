@@ -14,13 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 457dd29bd940e192eb4962d44bebc652646566f2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d184db0a82e4f10108ddad80611fc9a47483cfe7
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732968"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692323"
 ---
 # <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>המרת קבוצת תפוצה לקבוצה של Microsoft 365
 
-באפשרותך להמיר קבוצות תפוצה לקבוצות Microsoft 365 אם הן מספקות קריטריונים מסוימים. כדי להמיר קבוצה או לפתור בעיות בהמרת, ראה [שדרוג רשימות תפוצה לקבוצות Microsoft 365 ב-Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).
+באפשרותך להמיר קבוצות תפוצה לקבוצות Microsoft 365 אם הן מביעות קריטריונים מסוימים. כדי להמיר קבוצה או לפתור בעיות המרה, ראה [שדרוג רשימות תפוצה לקבוצות Microsoft 365 ב- Outlook.](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists)
+
+We כולל גם קובץ Script שתוכל להפעיל כדי לסייע לך באות אימות זכאות לקבוצת תפוצה לשדרוג [לקבוצת Microsoft 365](https://aka.ms/DLToM365Group).
