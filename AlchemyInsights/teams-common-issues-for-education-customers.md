@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43739437"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692395"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>בעיות נפוצות ב- Teams עבור לקוחות המגזר החינוכי
 
@@ -38,14 +39,14 @@ ms.locfileid: "43739437"
 
 - **פגישות ב- Teams ושיחות נכנסות**: זקוק לעזרה בהפעלה, או הגדרה של ועידות שמע ב-Microsoft Teams? האם משתמש זה נוצר לאחרונה? אם כן, תצטרך להמתין בין שעתיים ל-24 שעות כדי שההגדרות ייכנסו לתוקף. כדי לוודא שלמשתמש יש רישיון לוועידות שמע ושיש לו מספר בתשלום המהווה ברירת מחדל:
     1. עבור אל 'משתמשים פעילים' ולאחר מכן בחר את המשתמש הרלוונטי.
-    2. בהתאם לגירסה של מרכז הניהול, בחר **רישיונות ויישומים** או לחץ על **ערוך** ב**רישיונות המוצר**.
+    2. בהתאם לגירסה של מרכז הניהול, בחר **רישיונות ויישומים** או לחץ על **ערוך** ב **רישיונות המוצר**.
     3. ודא שהמשתמש בחר רישיונות עבור 'ועדות שמע', Microsoft Teams ו- Skype for Business Online (תוכנית 2).
     4. משתמש של 'מרכזי ניהול' לחץ על **הצג הכל** ולאחר מכן על **Teams**.
     5. במרכז הניהול של Microsoft Teams, לחץ על **פורטל מדור קודם**.
     6. במרכז הניהול של Skype for Business, לחץ על **ועידות שמע** ולאחר מכן על **משתמשים**.
     7. בחר את המשתמש הרלוונטי ואמת שיש לו 'מספר בתשלום המהווה ברירת מחדל'.
 
-    לקבלת מידע נוסף, ראה [תוכניות שיחה](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) או התקשר לצוות Microsoft Commerce Billing כדי לקבל עזרה בשאלות הקשורות לרישוי.
+    לקבלת מידע נוסף, ראה [תוכניות התקשרות של Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) או התקשר לצוות Microsoft Commerce Billing כדי לקבל עזרה בשאלות הקשורות לרישוי.
 
     משאבים נוספים
 
@@ -70,7 +71,7 @@ ms.locfileid: "43739437"
 
         לאחר מכן **הקצה את המדיניות למשתמשים**:
 
-    1. בניווט הימני של מרכז הניהול של Microsoft Teams, עבור אל **משתמשים**ולחץ על המשתמש.
+    1. בניווט הימני של מרכז הניהול של Microsoft Teams, עבור אל **משתמשים** ולחץ על המשתמש.
     2. בחר את המשתמש על-ידי לחיצה מימין לשם המשתמש ולאחר מכן לחץ על **ערוך הגדרות**.
     3. תחת **מדיניות פגישה**, בחר את המדיניות שברצונך להקצות ולחץ **החל**.
 
