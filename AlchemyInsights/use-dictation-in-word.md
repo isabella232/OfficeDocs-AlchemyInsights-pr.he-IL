@@ -2,21 +2,22 @@
 title: שימוש בהכתבה ב- Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002888"
 - "5513"
-ms.openlocfilehash: 8bfffc23ce3efe81e0b2c5d4f000ed9dfc0ba1a5
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
+ms.openlocfilehash: 665437de66b0875492201074146c8ed4ef454f91
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44017077"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51781711"
 ---
 # <a name="use-dictation-in-word"></a>שימוש בהכתבה ב- Word
 
@@ -25,7 +26,7 @@ ms.locfileid: "44017077"
 **אם הכתבה אינה פועלת** ודא כי:
 
 - אתה מחובר לחשבון Microsoft שלך ומחובר לאינטרנט.
-- **חוויות מחוברות** ב**הגדרות הפרטיות** הן זמינות. 
+- **חוויות מחוברות** ב **הגדרות הפרטיות** הן זמינות. 
     - בשולחן העבודה של Windows, לחץ על **'קובץ' > 'אפשרויות' > 'הגדרות פרטיות' > 'חוויות מחוברות אופציונליות'**. ודא שהתיבה **'הפוך חוויות מחוברות לזמינות'** מסומנת.
 - כמנהל מערכת, באפשרותך לנהל [הגדרות מדיניות עבור חוויות מחוברות](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls#policy-settings-for-connected-experiences), שקובעות אם הכתבה תהיה זמינה.
 - ייתכן שהבעיה היא עם המיקרופון שלך. לקבלת מידע נוסף, ראה [אם הכתבה ב- Office אינה פועלת](https://support.office.com/article/If-dictation-in-Office-isn-t-working-3a740b4a-19d5-461c-b59a-d82172707fd4#OfficeVersion=Web).

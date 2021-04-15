@@ -1,8 +1,8 @@
 ---
-title: חשיפה לנתונים אחרונים
+title: חשיפת נתונים אחרונה
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693232"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789361"
 ---
-# <a name="recent-data-exposure"></a>חשיפה לנתונים אחרונים
+# <a name="recent-data-exposure"></a>חשיפת נתונים אחרונה
 
-Microsoft היתה מודעת לתחקיר של ספק חיצוני שמסד נתונים שמארח את נתוני התמיכה של Microsoft היה נגיש ללא אימות. ב-31 בדצמבר 2019, Microsoft אבטחת את מסד הנתונים.
+Microsoft הודעה על-ידי חוקר של ספקים חיצוניים שמסד נתונים המארח נתוני תמיכה של Microsoft היה נגיש ללא אימות. ב- 31 בדצמבר 2019, Microsoft אבטחה את מסד הנתונים.
 
-אנו מחויבים לפרטיות ולבטחון הלקוחות שלנו ונוקטים פעולה כדי למנוע מופעים עתידיים של בעיה זו. התחלנו הודעות ללקוחות שהנתונים שלהם הציגו במסד נתונים זה שהוכן. לקבלת מידע נוסף, עבור אל [פרטי מודעות הלקוח הקשורים לחשיפת מידע אחרונה](https://aka.ms/privacyinfo).
+אנו מחויבים לפרטיות ולאבטחה של הלקוחות שלנו ונענים פעולה כדי למנוע התרחשויות עתידיות של בעיה זו. התחלנו לקבל הודעות ללקוחות שהנתונים שלהם היו קיימים במסד נתונים זה שפורסם. לקבלת מידע נוסף, עבור אל [פרטי המודעות ללקוח הקשורים לחשיפה עדכנית למידע.](https://aka.ms/privacyinfo)

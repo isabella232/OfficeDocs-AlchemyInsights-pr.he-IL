@@ -2,7 +2,7 @@
 title: אימות התחום שלך באמצעות web.com
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b3f87de3657ee5060e91abc76ff64a7e5ba7f5ab
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: a6b20db14f752a3a27970af0318934907ff21083
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815750"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770632"
 ---
 # <a name="verify-your-domain-with-webcom"></a>אימות התחום שלך באמצעות web.com
 
-כדי לאמת את התחום שלך, יהיה עליך להוסיף רשומת TXT לרשם התחומים כדי לאמת שהתחום נמצא בבעלותך. 
+כדי לאמת את התחום שלך, יהיה עליך להוסיף רשומת TXT לרשם התחומים שלך כדי לוודא שהתחום שלך נמצא בבעלותך. 
 
-תחילה, בצע את [אשף הוספת התחום](https://admin.microsoft.com/Adminportal#/Domains) על-ידי בחירת תחומים של **הגדרות** \> **Domains**ולאחר מכן **הוסף תחום**.
+תחילה, בצע את [אשף הוספת תחום](https://admin.microsoft.com/Adminportal#/Domains) על-ידי **בחירת** \> **הגדרות תחומים** ולאחר מכן **הוסף תחום**.
   
-ראה [יצירת רשומות DNS ב-web.com עבור Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) לקבלת הוראות שלב-אחר-שלב.
+ראה [יצירת רשומות DNS web.com עבור Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) לקבלת הוראות מפורטות.
