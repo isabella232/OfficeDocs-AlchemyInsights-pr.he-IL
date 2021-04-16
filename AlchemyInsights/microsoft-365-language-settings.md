@@ -1,8 +1,8 @@
 ---
-title: הגדרות השפה של Microsoft 365
+title: הגדרות שפה של Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000298"
 - "5899"
-ms.openlocfilehash: a85acfa7d54592872b3618a01152b2f56e1fa7a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9898e76954fde8fb6988acdf11c656bbdaa8ce3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742780"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794509"
 ---
-# <a name="microsoft-365-language-settings"></a>הגדרות השפה של Microsoft 365
+# <a name="microsoft-365-language-settings"></a>הגדרות שפה של Microsoft 365
 
-קבע אם ברצונך לשנות את שפת התצוגה והגדרות אחרות עבור משתמשים או עבור הדייר כולו.
+קבע אם ברצונך לשנות את שפת התצוגה ואת הגדרות אחרות עבור משתמשים או עבור הדייר כולו.
 
-- עבור משתמשים, ראה [שינוי שפת התצוגה ואזור הזמן ב-Microsoft 365 For Business עבור כל היישומים](https://support.microsoft.com/office/6f238bff-5252-441e-b32b-655d5d85d15b).
+- עבור משתמשים, ראה [שינוי שפת התצוגה ואת אזור הזמן שלך ב- Microsoft 365 for Business עבור כל האפליקציות.](https://support.microsoft.com/office/6f238bff-5252-441e-b32b-655d5d85d15b)
 - עבור הדייר, ראה  [הגדרת השפה וההגדרות האזוריות עבור Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/access-management/set-language-and-region).

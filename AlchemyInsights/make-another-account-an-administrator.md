@@ -1,8 +1,8 @@
 ---
-title: הפיכת חשבון אחר למנהל מערכת
+title: הפוך חשבון אחר למנהל מערכת
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3451"
 - "9001449"
-ms.openlocfilehash: b6de4097a23e18ac84f6afd5c9d2b3c4ff7bb856
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f1ff8eb23a58fab0cbc3db557c92feab8c45a95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794695"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795013"
 ---
-# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>שינוי חשבון משתמש רגיל למנהל מערכת ב-Windows 10
+# <a name="change-a-standard-user-account-to-an-administrator-in-windows-10"></a>שינוי חשבון משתמש רגיל למנהל מערכת ב- Windows 10
 
-כך ניתן לשנות חשבון משתמש רגיל למנהל מערכת ב-Windows 10:
+כך ניתן לשנות חשבון משתמש רגיל למנהל מערכת ב- Windows 10:
 
-1. עבור אל **Start**  >  **Settings**  >  משפחת**החשבון**' הגדרות התחלה  >  '**& אנשים אחרים** ' (או **אנשים אחרים**, אם אתה משתמש ב-Windows 10 Enterprise).
-2. בחר את החשבון שברצונך להפוך למנהל מערכת ובחר **שינוי חשבון**.
-3. תחת **סוג חשבון**, בחר **מנהל מערכת**ולאחר מכן בחר **אישור**.
+1. עבור אל **התחל**  >  **הגדרות**  >  **חשבון**  >  **משפחה &** אחרים **(או** אנשים אחרים , אם אתה משתמש ב- Windows 10 Enterprise).
+2. בחר את החשבון שברצונך להפוך למנהל מערכת ובחר **שנה חשבון**.
+3. תחת **סוג חשבון**, בחר **מנהל** מערכת ולאחר מכן בחר **אישור.**
 
-**הערה:** באפשרותך לשנות חשבונות למנהל מערכת מחשבון מנהל קיים בלבד.
+**הערה:** באפשרותך לשנות חשבונות רק למנהל מערכת מחשבון מנהל מערכת קיים.

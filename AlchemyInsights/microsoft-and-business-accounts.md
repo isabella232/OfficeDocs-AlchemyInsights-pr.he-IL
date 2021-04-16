@@ -2,21 +2,22 @@
 title: חשבונות Microsoft וחשבונות עסקיים
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002448"
 - "4747"
-ms.openlocfilehash: 13a97dbba48794630248241284ebafe26428f162
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
+ms.openlocfilehash: 1501b66c12e06aaa2aa91e3dc1b78c959a42a144
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933350"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794293"
 ---
 # <a name="microsoft-and-business-accounts"></a>חשבונות Microsoft וחשבונות עסקיים
 
