@@ -1,8 +1,8 @@
 ---
-title: זקוק לעזרה בנוגע לחשבון Outlook.com שלי
+title: זקוק לעזרה עם חשבון Outlook.com שלי
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803282"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792385"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>זקוק לעזרה בנוגע לחשבון Outlook.com שלי
+# <a name="need-help-with-my-outlookcom-account"></a>זקוק לעזרה עם חשבון Outlook.com שלי
 
-אם אתה זקוק לעזרה עם שירות Outlook.com, יש לנו עזרה ייעודית כדי לסייע לך. כדי לקבל תמיכה ישירות ביישום האינטרנט: 
+אם אתה זקוק לעזרה בשירות Outlook.com, יש לנו עזרה ייעודית כדי לסייע לך. כדי לקבל תמיכה ישירות באפליקציית האינטרנט: 
 
-1. לחץ על? סמל בחלק השמאלי העליון של המסך. 
+1. לחץ על ? בפינה השמאלית העליונה של המסך. 
 
-2. הקלד את הפריטים שבהם אתה זקוק לעזרה בתיבת העזרה המוצגת בלוח המוקפץ ולחץ על **שלח**. 
+2. הקלד את העזרה שתצטרך לקבל בתיבת העזרה המוצגת בלוח המוקפץ ולחץ על **שלח**. 
 
-3. אם לא מוצג פתרון, גלול מטה בחלונית הצדדית ולחץ על **שלח לנו דואר אלקטרוני**.
+3. אם לא מוצג פתרון, גלול כלפי מטה בלוח הצד ולחץ על שלח **לנו דואר אלקטרוני.**

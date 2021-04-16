@@ -1,8 +1,8 @@
 ---
-title: פתרון בעיות של מובילים
+title: פתרון בעיות של Mover
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "8000"
-ms.openlocfilehash: f2d870154f49215fe64d4193d590ba24b4930c0e
-ms.sourcegitcommit: 55d8b56bb8ab0ed07985ef2b5c48ffeb3440b5fc
+ms.openlocfilehash: 97a08f74c85d48746c04bcaf31c1265384941487
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50040217"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793033"
 ---
-# <a name="mover-troubleshooting"></a>פתרון בעיות של מובילים
+# <a name="mover-troubleshooting"></a>פתרון בעיות Mover
 
-לקבלת מידע אודות פתרון בעיות של מובילים, בקר במאמר הבא:
+לקבלת מידע אודות פתרון בעיות ב- Mover, בקר בפעולות הבאות:
 
-- [פתרון בעיות בלאחר ההעברה](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
-- [פתרון בעיות בהעברת מובילים](https://docs.microsoft.com/sharepointmigration/mover-error-faq)  
-- [קודי מצב של העברת מובילים](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
-- [שאלות נפוצות אודות חשבון](https://docs.microsoft.com/sharepointmigration/mover-account-faq)
+- [פתרון בעיות לאחר העברה](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
+- [פתרון בעיות בשגיאות העברה של Mover](https://docs.microsoft.com/sharepointmigration/mover-error-faq)  
+- [קודי מצב העברה של Mover](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
+- [שאלות נפוצות בנושא חשבון](https://docs.microsoft.com/sharepointmigration/mover-account-faq)

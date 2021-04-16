@@ -1,8 +1,8 @@
 ---
-title: תכנון ניצול רשת עבור יישום הסינכרון של OneDrive
+title: תכנון ניצול הרשת עבור אפליקציית סינכרון Microsoft OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5838"
-ms.openlocfilehash: 2e70dfa85ce2647689f9057c8bf7ef4fd5c031f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a567339dcabc4df9428d36ef78fd151cd05ea7c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803210"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791989"
 ---
-# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>תכנון ניצול רשת עבור יישום הסינכרון של OneDrive
+# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>תכנון ניצול הרשת עבור אפליקציית סינכרון Microsoft OneDrive
 
-מאמר זה מיועד למנהלי IT לתכנן לפרוס את יישום הסינכרון של OneDrive ולרצות להעריך את משתמשי רוחב הפס של הרשת הדרושים לסינכרון.  
+מאמר זה מיועד עבור מנהלי IT המתכננים לפרוס את אפליקציית הסינכרון Microsoft OneDrive ומעוניינים להעריך את רוחב הפס ברשת שהמשתמשים יזדקקו לו עבור סינכרון.  
 
-- [תכנון ניצול רשת עבור יישום הסינכרון של OneDrive](https://docs.microsoft.com/onedrive/network-utilization-planning)
+- [תכנון ניצול הרשת עבור אפליקציית הסינכרון Microsoft OneDrive](https://docs.microsoft.com/onedrive/network-utilization-planning)

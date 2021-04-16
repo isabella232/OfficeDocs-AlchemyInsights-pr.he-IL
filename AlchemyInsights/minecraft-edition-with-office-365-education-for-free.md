@@ -1,8 +1,8 @@
 ---
-title: Minecraft מהדורה עם Office 365 השכלה ללא תשלום
+title: Minecraft Edition עם Office 365 Education בחינם
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,27 +13,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 385e50304405268da638a7422c215a95f3f11e3b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a0b529c1d9966d65604ade2fc812aa2926816e95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709431"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793573"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft מהדורה עם Office 365 השכלה ללא תשלום
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition עם Office 365 Education בחינם
 
-[Minecraft מהדורה עם Office 365 השכלה ללא תשלום](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraft Edition עם Office 365 Education בחינם](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: מהדורת החינוך** דורשת Windows 10
+- **Minecraft: Education Edition דורש** Windows 10
 
-- משפטים או מנויים של **Minecraft: מהדורת החינוך** מוצעים לדיירי השכלה שמנוהלים על-ידי תכלת-active Directory (תכלת לספירה)
+- גירסת ניסיון או מנויים של **Minecraft: Education Edition** מוצע לדיירי חינוך המנוהלים על-ידי Azure Active Directory (Azure AD)
 
-  - אם בית הספר שלך אינו כולל דייר מודעות של תכלת, [מנהל ה-IT יכול להגדיר אחד](https://docs.microsoft.com/education/windows/school-get-minecraft) כחלק מתהליך השגת **Minecraft: מהדורת החינוך**.
+  - אם לבית הספר שלך אין דייר Azure AD, מנהל ה- [IT](https://docs.microsoft.com/education/windows/school-get-minecraft) יכול להגדיר דייר כחלק מהתהליך של קבלת **Minecraft: Education Edition**.
 
-  - השכלה של Office 365, הכוללת גירסאות מקוונות של יישומי Microsoft 365 בנוסף לאחסון 1 TB online ללא תשלום עבור מורים ותלמידים. [הירשם לבית הספר שלך להשכלה של Office 365](https://www.microsoft.com/education/products/office).
+  - Office 365 Education, הכולל גירסאות מקוונות של יישומי Microsoft 365 וכן שטח אחסון מקוון של 1 TB ללא תשלום עבור מורים ותלמידים. [הירשם לבית הספר שלך עבור Office 365 Education](https://www.microsoft.com/education/products/office).
 
-  - אם לבית הספר שלך יש מנוי להשכלה של Office 365, הוא כולל מנוי לספירה ללא תשלום של תכלת. [רשום את מנוי ה-תכלת לספירה ללא תשלום](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - אם לבית הספר שלך יש מנוי ל- Office 365 Education, הוא כולל מנוי Azure AD ללא תשלום. [רשום את מנוי Azure AD ללא תשלום.](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
 
-[למד כיצד מורים יכולים לקבל ולהפיץ Minecraft: מהדורת החינוך](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[למד כיצד מורים יכולים לקבל ולהפיץ את Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[למד כיצד מנהלי it יכולים לקבל ולהפיץ Minecraft: מהדורת החינוך](https://docs.microsoft.com/education/windows/school-get-minecraft)וכיצד לנהל הרשאות עבור minecraft.
+[למד כיצד מנהלי IT יכולים לקבל ולהפיץ את Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)ואופן ניהול הרשאות עבור Minecraft.

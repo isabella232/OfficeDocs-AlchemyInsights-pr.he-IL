@@ -1,8 +1,8 @@
 ---
-title: ניסיונות מרובים לדרוש מכשירי תשלום מקוונים
+title: ניסיונות מרובים לחייב מכשירי תשלום מקוונים
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: c0e62b02dec50f3bb4e42c1775e9d04d4c3806d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c177c88b3df5846f824d69efa3eb8c112e430
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724652"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792709"
 ---
-# <a name="past-due-account"></a>החשבון הקודם למועד היעד?
+# <a name="past-due-account"></a>החשבון שתאריך היעד שלו עבר?
 
 ניתן לדחות תשלום מכמה סיבות, כולל אם פג תוקפו של כרטיס האשראי. באפשרותך להשתמש בתכונה **הסדרת יתרה** בכל עת כדי לשנות את פרטי כרטיס האשראי שלך ולשלוח את התשלום מחדש באופן מיידי.
 
-1. במרכז הניהול, עבור אל ** [מוצרי חיוב > & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-מצא את המנוי עם היתרה היוצאת מהכלל. במקטע ' **חיוב** ', לצד **המנוי, מותקן תשלום בעבר**, לחץ על ' **ייחוס שיווי משקל** ' כדי לשלם את היתרה המדהימה כולה.
-2. אם אתה הבעלים של כרטיס האשראי, באפשרותך לשנות את תאריך התפוגה, לבחור כרטיס אחר או [להוסיף כרטיס חדש](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-3. אם אין ברשותך את כרטיס האשראי, באפשרותך לבחור כרטיס אשראי אחר או [להוסיף כרטיס חדש](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
-4. לאחר שתסיים את העדכונים, לחץ על **שמור**.
+1. במרכז הניהול, עבור אל **שירותי > מוצרים & [.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+מצא את המנוי עם היתרה המצוינת. במקטע **חיוב, לצד** המנוי יש תשלום **שתאריך היעד שלו** עבר, לחץ על ייחוס **יתרה כדי לשלם** את יתרת החוב כולה.
+2. אם כרטיס האשראי נמצא בבעלותך, באפשרותך לשנות את תאריך התפוגה, לבחור כרטיס אחר או [להוסיף כרטיס חדש](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+3. אם כרטיס האשראי לא נמצא בבעלותך, באפשרותך לבחור כרטיס אשראי אחר או [להוסיף כרטיס חדש](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+4. לאחר השלמת העדכונים, לחץ על **שמור**.
 
-**הערה**: לאחר ביצוע תשלום, ייתכן שהודעת היעד האחרונה עדיין תהיה גלויה לפרק זמן קצר. המתן לפחות **48 שעות** לפני שתפנה לתמיכה.
+**הערה:** לאחר ביצוע תשלום, ייתכן שההודעה שתאריך היעד שלה עבר עדיין תהיה גלויה במשך פרק זמן קצר. המתן לפחות **48 שעות לפני יצירת** קשר עם התמיכה.
