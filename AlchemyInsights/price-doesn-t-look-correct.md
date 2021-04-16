@@ -2,7 +2,7 @@
 title: המחיר אינו נראה נכון?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: 3a3fb90af53f4c098fb4eb7673464cd373c40f99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 92290384e7995ccb44f41665b7166fd07196f947
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693664"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790441"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="41fd2-102">המחיר אינו נראה נכון?</span><span class="sxs-lookup"><span data-stu-id="41fd2-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="77e53-102">המחיר אינו נראה נכון?</span><span class="sxs-lookup"><span data-stu-id="77e53-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="41fd2-103">אם המחיר בחשבונית שלך אינו נראה נכון, ייתכן שהסיבה לכך היא שינוי מחיר בחידוש.</span><span class="sxs-lookup"><span data-stu-id="41fd2-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="41fd2-104">אם אינך מאמין שזה מסביר את הבעיה, השתמש באפשרות ' תן לנו להתקשר אליך ' כדי לשוחח עם מהנדס תמיכה.</span><span class="sxs-lookup"><span data-stu-id="41fd2-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="77e53-103">אם המחיר בחשבונית שלך אינו נראה נכון, ייתכן שהמחיר ישתנה בעת החידוש.</span><span class="sxs-lookup"><span data-stu-id="77e53-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="77e53-104">אם אינך סבור שדבר זה מסביר את הבעיה, השתמש באפשרות "תן לנו להתקשר אליך" כדי לדבר עם מהנדס תמיכה.</span><span class="sxs-lookup"><span data-stu-id="77e53-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
