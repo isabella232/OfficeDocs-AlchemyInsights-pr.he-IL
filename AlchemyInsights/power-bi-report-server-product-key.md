@@ -1,8 +1,8 @@
 ---
-title: מפתח מוצר של שרת הדוחות של Power BI
+title: מפתח מוצר של Power BI Report Server
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dbb7121638f56587e3e8fb065fce74da4005c94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801950"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800683"
 ---
-# <a name="power-bi-report-server-product-key"></a>מפתח מוצר של שרת הדוחות של Power BI
+# <a name="power-bi-report-server-product-key"></a>מפתח המוצר של Power BI Report Server
 
-אם רכשת את Power BI Premium, בכרטיסיה **הגדרות Premium** של פורטל הניהול של power bi, יש לך גישה למפתח המוצר של שרת הדוחות של power bi. אפשרות זו זמינה רק עבור מנהלי מערכת כלליים או משתמשים הקצו את תפקיד מנהל השירות של Power BI.
+אם רכשת את Power BI Premium, בכרטיסיה הגדרות **Premium** בפורטל הניהול של Power BI, יש לך גישה למפתח המוצר של Power BI Report Server. אפשרות זו זמינה רק עבור מנהלי מערכת כלליים או משתמשים שהוקצו לתפקיד מנהל השירות של Power BI.
 
-בחירת **מפתח שרת הדוחות של POWER BI** מציגה תיבת דו-שיח המכילה את מפתח המוצר שלך. באפשרותך להעתיק אותו ולהשתמש בו עם ההתקנה.
+בחירה **במפתח Power BI Report Server** מציגה תיבת דו-שיח המכילה את מפתח המוצר שלך. באפשרותך להעתיק אותו ולהשתמש בו עם ההתקנה.
 
-אם יש לך הסכם SA של SQL Server, באפשרותך לקבל את מפתח המוצר שלך [ממרכז השירות של רישוי](https://www.microsoft.com/Licensing/servicecenter/)רב משתמשים.
+אם יש לך הסכם SA ארגוני של SQL Server, באפשרותך לקבל את מפתח המוצר שלך ממרכז השירות [של רישוי רב משתמשים](https://www.microsoft.com/Licensing/servicecenter/).
 
 לקבלת מידע נוסף: https://docs.microsoft.com/power-bi/report-server/install-report-server

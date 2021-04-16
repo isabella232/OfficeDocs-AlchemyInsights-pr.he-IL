@@ -1,8 +1,8 @@
 ---
-title: Power BI לתפוס את כל
+title: Power BI תופס הכל
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2716"
 - "9000775"
-ms.openlocfilehash: 1ad31a87c1646f8c76b7da6fe32433ef0ff393b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ffa088c6e4c3a777b7eae35bbd17c25b70a865a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741628"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800899"
 ---
-# <a name="power-bi-troubleshooting"></a>פתרון בעיות ב-Power BI
+# <a name="power-bi-troubleshooting"></a>פתרון בעיות ב- Power BI
 
-עבור תוכן של פתרון בעיות ב-Power BI, בקר באתר https://powerbi.microsoft.com/support/ .
+עבור תוכן לפתרון בעיות ב- Power BI, בקר https://powerbi.microsoft.com/support/ ב- .

@@ -2,7 +2,7 @@
 title: דחיית שדרוג Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: abbf696b1554743bda188704272bfd85fe6f94e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741772"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801232"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>כיצד לדחות את שדרוג הצוותים המונעים על-ידי Microsoft
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>כיצד לדחות את השדרוג של Teams מונחה Microsoft
 
-**חשוב**: אנו יכולים לעזור לך לתקן זאת עבורך באמצעות אבחון תמיכה, אך נראה שאינך משתמש במרכז הניהול החדש. כדי להשתמש במרכז הניהול החדש, החלק את הלחצן הדו-מצבי בקצה השמאלי העליון המציין את **מרכז הניהול החדש** שמימין. באמצעות מרכז הניהול החדש, לחץ על הרכיב **הזקוק לעזרה?** רכיב widget, הקלד "דחה שדרוג teams" ולאחר מכן פעל לפי ההנחיות כדי להפעיל את האבחון.
+**חשוב**: אנו יכולים לעזור לך לתקן זאת באמצעות אבחון תמיכה, אך נראה שאתה לא משתמש במרכז הניהול החדש. כדי להשתמש במרכז הניהול החדש, החלק את הלחצן הדו-מצבי בחלק השמאלי העליון הרשום **במרכז הניהול** החדש ימין. באמצעות מרכז הניהול החדש, לחץ על הרכיב הגרפי **זקוק לעזרה?** הקלד "דחיית שדרוג Teams", ולאחר מכן בצע את ההנחיות כדי להפעיל את האבחון.
 
-אם קיבלת תקשורת על שדרוג אוטומטי מבוסס-Microsoft מ-Skype for Business אל Microsoft Teams, וברצונך לדחות את השדרוג האוטומטי לתאריך מאוחר יותר, מנהל המערכת הכללי שלך יכול להיכנס [לפורטל הניהול של teams](https://admin.teams.microsoft.com/dashboard) ולאחר בחירת לחצן **מצב רענון** תחת שדרוג microsoft teams, בחר בלחצן **דחה** . כדי לראות את התאריך החדש של השדרוג האוטומטי של הדייר שלך ל-Microsoft Teams, רענן את הדף של פורטל מנהלי קבוצות.
+אם קיבלת תקשורת לגבי שדרוג אוטומטי מונחה על-ידי Microsoft מ- Skype for Business ל- Microsoft Teams, וברצונך לדחות את השדרוג האוטומטי לתאריך  מאוחר יותר, מנהל המערכת הכללי שלך יכול להיכנס לפורטל [הניהול של Teams](https://admin.teams.microsoft.com/dashboard) ולאחר בחירת לחצן מצב רענון תחת שדרוג Microsoft Teams, בחר בלחצן **דחה.** כדי לראות את התאריך החדש עבור השדרוג האוטומטי של הדייר שלך ל- Microsoft Teams, רענן את דף פורטל הניהול של Teams.
 
-**הערה:** לחצן **דחה** יהיה זמין רק אם קיבלת את ההודעה מרכז ההודעות בנוגע לשדרוג האוטומטי. 
+**הערה:** לחצן **דחה** יהיה זמין רק אם קיבלת את ההודעה במרכז ההודעות לגבי השדרוג האוטומטי. 
 
-מנהלי מערכת כלליים יכולים גם לנהל [את Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) כדי לקבל מידע נוסף על מצב השדרוג הנוכחי שלהם.
+מנהלי מערכת כלליים יכולים גם [להפעיל את Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) כדי לקבל מידע נוסף על מצב השדרוג הנוכחי שלהם.
