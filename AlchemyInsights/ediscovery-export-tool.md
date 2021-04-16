@@ -1,8 +1,8 @@
 ---
-title: כלי הייצוא של גילוי אלקטרוני
+title: כלי ייצוא גילוי אלקטרוני
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,18 +15,18 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277933"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814589"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>לא ניתן להתקין או להפעיל את כלי הייצוא של גילוי אלקטרוני?
 
-אם אינך מצליח להתקין או להפעיל את כלי הייצוא של גילוי אלקטרוני כדי להוריד תוצאות חיפוש, בדוק את הדברים הבאים:
+אם אינך יכול להתקין או להפעיל את כלי הייצוא של גילוי אלקטרוני כדי להוריד תוצאות חיפוש, בדוק את הדברים הבאים:
   
-- המחשב שבו אתה משתמש עומד בדרישות הדרישות המוקדמות הבאות:
+- המחשב שבו אתה משתמש ייפגש עם דרישות מוקדמות אלה:
 
   - גירסאות 32 או 64 סיביות של Windows 7 וגירסאות מתקדמות יותר
 
@@ -40,12 +40,12 @@ ms.locfileid: "48277933"
 
   - Internet Explorer 10 וגירסאות מתקדמות יותר
 
-    דפדפנים אחרים, כגון Google Chrome ו-Mozilla Firefox אינם נתמכים.
+    דפדפנים אחרים, כגון Google Chrome ו- Mozilla Firefox אינם נתמכים.
 
-- הארגון שלך יכול להתחבר לנקודת הקצה בתכלת, שהיא ** \* . blob.core.windows.net** (התווים הכלליים מייצגים מזהה ייחודי עבור משימת הייצוא שלך).
+- הארגון שלך יכול להתחבר אל נקודת הקצה ב- Azure, **\* שהיא .blob.core.windows.net** (תו כללי מייצג מזהה ייחודי עבור עבודת הייצוא שלך).
 
-- מוקצית לך תפקיד הייצוא במרכז תאימות האבטחה של Microsoft 365 &amp; . כברירת מחדל, תפקיד זה מוקצה רק לקבוצת התפקידים של גילוי אלקטרוני Manager. ראה [הקצאת הרשאות גילוי אלקטרוני](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- מוקצה לך תפקיד ייצוא במרכז תאימות האבטחה של Microsoft 365. &amp; כברירת מחדל, תפקיד זה מוקצה רק לקבוצת התפקידים של מנהל גילוי אלקטרוני. ראה [הקצאת הרשאות גילוי אלקטרוני](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 לקבלת מידע נוסף, ראה [ייצוא תוצאות חיפוש תוכן](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 
-אם אתה מייצא יותר מ-100 תיבות דואר, יהיה עליך להשתמש ב-Powershell הבאים כדי להוריד את תוצאות הייצוא:  [ייצוא תוצאות של יותר מ-100 תיבות דואר](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+אם אתה מייצא יותר מ- 100,000 תיבות דואר, יהיה עליך להשתמש ב- Powershell הבא כדי להוריד את תוצאות הייצוא: ייצוא תוצאות ביותר מתיבות דואר של  [100K](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).

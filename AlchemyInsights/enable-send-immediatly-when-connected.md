@@ -1,8 +1,8 @@
 ---
-title: אפשר שליחה מיידית כאשר אתה מחובר
+title: הפוך את 'שלח' לזמין באופן מיידי כאשר הוא מחובר
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ebd318af82a4e57dc9e2f51a88301c1d9a6851c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709584"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813977"
 ---
-# <a name="enable-send-immediately-when-connected"></a>אפשר שליחה מיידית כאשר אתה מחובר
+# <a name="enable-send-immediately-when-connected"></a>הפוך את 'שלח' לזמין באופן מיידי כאשר הוא מחובר
  
 1. בכרטיסיה קובץ, לחץ על **אפשרויות**.
 
-2. בתיבת הדו אפשרויות Outlook, לחץ על **מתקדם**.
+2. בתיבת הדו-שיח אפשרויות Outlook, לחץ על **מתקדם**.
 
-3. במקטע שלח וקבל, לחץ כדי להפעיל את האפשרות שלח באופן **מיידי כאשר אתה מחובר**. לחץ על **אישור**.
+3. במקטע שליחה וקבלה, לחץ כדי להפוך את האפשרות שלח **לזמינה מיד בעת ההתחברות.** לחץ על **אישור**.
 
 לקבלת פרטים מלאים, ראה:
 - [וידאו: שליחה או מחיקה של דואר אלקטרוני תקוע](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [דואר אלקטרוני נשאר בתיקיית תיבת הדואר היוצא עד שתיזום באופן ידני פעולת שליחה/קבלה ב-Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+- [דואר אלקטרוני נשאר בתיקיה תיבת דואר יוצא עד לאתחול ידני של פעולת שליחה/קבלה ב- Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)

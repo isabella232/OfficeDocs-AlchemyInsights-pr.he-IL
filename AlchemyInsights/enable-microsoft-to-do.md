@@ -1,8 +1,8 @@
 ---
-title: הפיכת ניהול הניהול של Microsoft לזמין
+title: הפיכת Microsoft To-Do
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: ba45cd308114037a0090aa218c7764442b0d81d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516ad0ccadd74eee7e00353d7439eebc6d88718f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709872"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814103"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>כיצד להפוך את ניהול הניהול של Microsoft לזמין
+# <a name="how-to-enable-microsoft-to-do"></a>כיצד להפוך את Microsoft To-Do
 
-כדי להשתמש ב-Microsoft לביצוע, מנהל מערכת חייב לאפשר את האפליקציה בכל חשבון של משתמש. עבור אל [ &amp; הדף תוספות שירותים](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) של דף הגדרות הניהול של Microsoft 365 כדי להפוך את הביצוע עבור כל משתמש לזמין.
+כדי להשתמש ב- Microsoft To-Do, מנהל מערכת חייב להפוך את היישום לזמין בחשבון של כל משתמש. עבור אל הדף [ &amp; תוספות שירותים בדף הגדרות](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) מנהל מערכת של Microsoft 365 כדי להפוך את To-Do עבור כל משתמש.
   
-Microsoft לביצוע משתמש בתכונות ב-Exchange Online כדי לסנכרן ולאחסן פריטים לביצוע משתמשים. כדי להשתמש ב-Microsoft לביצוע, משתמש זקוק לתיבת דואר חוקית של Exchange Online.
+Microsoft To-Do בתכונות ב- Exchange Online כדי לסנכרן ולאחסן פריטים ל'לבצע' של משתמשים. כדי להשתמש ב- Microsoft To-Do, משתמש זקוק לתיבת דואר חוקית של Exchange Online.
   
-לקבלת מידע נוסף, ראה [ניהול תצוגה מקדימה של Microsoft לביצוע](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+לקבלת מידע נוסף, ראה [ניהול Microsoft To-Do Preview](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **הערה**: אם אתה מקבל שגיאת 501 בעת ניסיון להיכנס [https://todo.microsoft.com](https://todo.microsoft.com) , נסה [https://to-do.microsoft.com](https://to-do.microsoft.com) .
+ **הערה:** אם אתה מקבל שגיאת 501 בעת ניסיון להיכנס, [https://todo.microsoft.com](https://todo.microsoft.com) נסה [https://to-do.microsoft.com](https://to-do.microsoft.com) .
   
 

@@ -1,8 +1,8 @@
 ---
-title: תאריך התפוגה של הצוות והקבוצה הבסיסית אינם תואמים
+title: תאריך התפוגה של הצוות והקבוצה ההוותה לא תואמים
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 77a10d87cf725339058408ff82b3e58c0736edfd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364882"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813437"
 ---
-# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>תאריך התפוגה של הצוות והקבוצה הבסיסית אינם תואמים
+# <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>תאריך התפוגה של הצוות והקבוצה ההוותה לא תואמים
 
-לפני חידוש הצוות, הקבוצה המגבה את הצוות מתחדשת תחילה. כחלק מהחידוש, תאריך תפוגה חדש מוגדר בקבוצה לתאריך עתידי. ייתכן שתאריך חדש זה לא יהיה גלוי באופן מיידי ב-Teams. הסינכרון עשוי להימשך עד 24 שעות. אם אתה רואה פער בין תאריך התפוגה של צוות לקבוצה המשמשת כבסיס, המתן 24 שעות לפני שאתה מחפש תמיכה נוספת.  
+לפני חידוש צוות, הקבוצה שת גבה את הצוות מתחדשת תחילה. כחלק מהתחדשות, תאריך תפוגה חדש מוגדר בקבוצה עבור תאריך עתידי. ייתכן שתאריך חדש זה לא יהיה גלוי באופן מיידי ב- Teams. סינכרון יכול לאסוף עד 24 שעות. אם אתה רואה אי התאמה בין תאריך התפוגה של צוות לקבוצה שלו, המתן 24 שעות לפני שתחפש תמיכה נוספת.  
 
-ראה [תפוגת צוות וחידוש ב-Microsoft teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  לקבלת מידע נוסף.
+לקבלת [מידע נוסף, ראה תפוגת צוות וחידוש](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  ב- Microsoft Teams.

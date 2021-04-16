@@ -1,8 +1,8 @@
 ---
-title: אירעה שגיאה בעת אימות שגיאת אסימון גישה במהלך ניתוח שולחן עבודה על הסיפון
+title: אירעה שגיאה בעת אימות שגיאת אסימון גישה במהלך ניתוח שולחן העבודה בעת העלייה למטוס
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783552"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813689"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>השגיאה "אירעה שגיאה באימות אסימון גישה" במהלך ניתוח שולחן העבודה המשולב
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>שגיאת "אירעה שגיאה בעת אימות אסימון גישה" במהלך ההסתה ל- Desktop Analytics
 
-שגיאה זו נצפתה בדרך כלל כאשר אסימון האימות פג. בדרך כלל, רענון הדף מרענן את האסימון. עם זאת, בעיה זו עשויה להימשך אם מדיניות גישה מותנית מוחלת על החשבון המשמש לניתוח שולחן העבודה בלוח. באפשרותך לסקור את יומני הכניסה של תכלת לספירה בפורטל תכלת כדי לבדוק אם קיימות כשלונות כניסה עבור החשבון הנמצא בשימוש עבור ניתוח שולחן עבודה המשולב.
+שגיאה זו נצפתה בדרך כלל כאשר פג תוקפו של אסימון האימות. בדרך כלל, רענון הדף מרענן את האסימון. עם זאת, בעיה זו עשויה לפתור אם חלה מדיניות Access מותנית כלשהי שחלה על החשבון המשמש לניתוח שולחני על הלוח. באפשרותך לסקור את יומני הרישום של Azure AD Sign In בפורטל Azure כדי לראות אם זמינים כשלים בכניסה עבור החשבון המשמש עבור הכניסה ל- Desktop Analytics.
 
-לקבלת מידע נוסף אודות גישה מותנית, בקר [בתכנון פריסת הגישה המותנית](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
+לקבלת מידע נוסף אודות תות Access, בקר ב [תכנון פריסת Access מותן](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
