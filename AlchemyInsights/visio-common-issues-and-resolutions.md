@@ -2,21 +2,22 @@
 title: בעיות נפוצות ופתרונות ב- Visio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722568"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806587"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>בעיות נפוצות ופתרונות ב- Visio
 
@@ -24,13 +25,13 @@ ms.locfileid: "43722568"
 
 **אפשרויות Visio Online**
 
-- Visio נמכר כ[יישום עצמאי](https://products.office.com/visio/flowchart-software). מנהלי מערכת יכולים לרכוש את ה[מינוי של Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) מתוך מרכז הניהול של Microsoft 365.
+- Visio נמכר כ[יישום עצמאי](https://products.office.com/visio/flowchart-software). מנהלי מערכת יכולים לרכוש את [מנוי Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) מתוך מרכז הניהול של Microsoft 365.
 
 - Visio מציע [תוכניות מינוי שונות](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). אם חסרה לך תכונה ב- Visio, [השוות בין אפשרויות Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) כדי לקבל מידע נוסף על ההבדלים בין תוכנית 1 לתוכנית 2.  שים לב כי Visio Online תוכנית 1 לא כולל גירסת שולחן עבודה של Visio.
 
 **הורדה, התקנה והפעלה של Visio**
 
-- כדי להתקין ולהפעיל את יישום שולחן העבודה של Visio ב- Visio Online תוכנית 2, המשתמש צריך שיוקצה לו [רשיון Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) תחילה.
+- כדי להתקין ולהפעיל את יישום שולחן העבודה של Visio ב- Visio Online תוכנית 2, המשתמש צריך שיוקצה לו [רשיון Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) תחילה.
 
 - התקן את Visio מפורטל החשבון שלי אם הוא טרם הותקן. לקבלת עזרה, ראה [התקנת Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +41,7 @@ ms.locfileid: "43722568"
 
 **Visio ב- Mac**
 
-לא קיים יישום שולחן עבודה של Visio עבור Mac. עם זאת, משתמשים עם רשיון חוקי של [Visio Online](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users), יכולים [להציג, ליצור ולערוך דיאגרמות](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) ב- Visio Online בדפדפן אינטרנט.
+לא קיים יישום שולחן עבודה של Visio עבור Mac. עם זאת, משתמשים עם רשיון חוקי של [Visio Online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users), יכולים [להציג, ליצור ולערוך דיאגרמות](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) ב- Visio Online בדפדפן אינטרנט.
 
 **דיאגרמות, תבניות, צורות ומחברים**
 

@@ -2,7 +2,7 @@
 title: מדוע עדכוני תוכנה אינם נפרסים?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
-ms.translationtype: MT
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461849"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805687"
 ---
 # <a name="why-software-updates-are-not-being-deployed"></a>מדוע עדכוני תוכנה אינם נפרסים?
 
-סקור את הפרטים הבאים אם קבעת את התצורה של עדכוני תוכנה באמצעות הטבעת עדכון של Windows 10, אך העדכונים אינם נפרסים:  
+עיין בנושאים הבאים אם הגדרת עדכוני תוכנה באמצעות מסלול העדכונים של Windows 10 אבל העדכונים אינם נפרסים:  
 
-- שקול לשנות את שירות השירות של Windows מסוג ההפצה  **החצי שנתי**  לסוג הפצה מחמיר ותדיר יותר  
-- בדוק את התקופה הדחייה עבור עדכון  **איכות**  **ועדכון תכונות**. משך הזמן הנדחה עשוי לגרום לעיכוב בעדכונים עבור 180 ימים.
+- שקול לשנות את מתן השירות של Windows  מסוג ההפצה **ערוץ חצי-שנתי** לסוג הפצה נדיר מחמיר יותר במהדורות תדירות יותר  
+- בדוק את תקופת הדחייה עבור **עדכון איכות** ו **עדכון תכונות**. תקופת הדחייה עלולה להוביל לעיכוב בעדכונים במשך עד 180 יום.

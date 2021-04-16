@@ -2,7 +2,7 @@
 title: Excel קורס?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 6010d4a6e745f17f330e883521bc8d76efe68097
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359298"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804814"
 ---
-# <a name="frequent-excel-crashes"></a>מרבים לבקר בהם קורס Excel?
+# <a name="frequent-excel-crashes"></a>קריסות תכופות של Excel?
 
-לקריסות תכופות ב- Excel יכולה להיגרם הפגום תוספת. באפשרותך להשבית תוספת Excel על-ידי ביצוע הוראות אלה:
+קריסות תכופות ב- Excel יכולות להיגרם על-ידי תוספת לא כוללת. באפשרותך להפוך תוספת של Excel ללא זמינה על-ידי ביצוע ההוראות הבאות:
   
-1. בחרו ' **קובץ** ' \> **אפשרויות**, \> **תוספות**.
+1. בחר  \> **אפשרויות קובץ**, \> **תוספות**.
 
-2. בתיבה **נהל** , בחר **בתוספות COM**ולאחר מכן לחץ על **מעבר**.
+2. בתיבה **ניהול,** בחר **תוספות COM** ולאחר מכן לחץ על **עבור**.
 
-3. בתיבה תוספות זמינות, נקה את תיבת הסימון לצד התוספת שברצונך להפוך ללא זמין ולאחר מכן לחץ על **אישור**.
+3. בתיבה Add-Ins זמינה, נקה את תיבת הסימון לצד התוספת שברצונך להפוך ללא זמינה ולאחר מכן לחץ על **אישור**.
 
 > [!NOTE]
-> אם Excel קורס במהלך השיגור, נא הפעל אותו במצב בטוח על-ידי לחיצה והחזקה של מקש Ctrl בעת הפעלת התוכנית.
+> אם Excel קורס במהלך ההפעלה, הפעל אותו במצב בטוח על-ידי הקשה והחזקה של Ctrl בעת הפעלת התוכנית.
   
 אם אתה עדיין נתקל בבעיות, עיין במאמרים הבאים:
   
-- [מתקבלת הודעת שגיאה "נעצר עובד" בעת הפעלת Office 2016 או יישומים 2013 במחשב שלי](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [אני מקבל שגיאת "הפסיק לפעול" בעת הפעלת יישומי Office 2016 או 2013 במחשב שלי](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [כיצד לפתור בעיות קורסות שאינו מגיב עם Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [כיצד לפתור בעיות קריסה ולא מענה ב- Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel אינו מגיב, נתקע, קופא או מפסיק לפעול](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel אינו מגיב, נתלה, קופא או מפסיק לפעול](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
