@@ -2,7 +2,7 @@
 title: כיצד ניתן להגדיר שידור פגישת Skype
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781464"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811025"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>לא ניתן להפעיל או להצטרף לשידור פגישת Skype?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>לא ניתן להתחיל או להצטרף לשידור פגישת Skype?
 
-אם אתה נתקל בבעיות בעת התחלה או הצטרפות לשידור פגישת Skype כחבר צוות אירוע (מפיק פגישה), הקפד לבדוק את התצורה שלך באופן כפול. שידור פגישת Skype דורש כמה שלבי הגדרה ידנית. בצע את השלבים המפורטים במאמר זה כדי להבטיח את הגדרת הרשת והפורטל המקוון של Skype for Business באופן תקין, ושהמשתמש המושפע אינו נחסם על-ידי רשיון מתנגש:
+אם אתה נתקל בבעיות בהתחילות או בהצטרפות לשידור פגישת Skype כחבר צוות אירוע (מפיק פגישה), הקפד לבדוק שוב את התצורה שלך. שידור פגישת Skype דורש כמה שלבי הגדרה ידניים. בצע את השלבים המפורטים במאמר זה כדי להבטיח שהרשת ופורטל Skype for Business Online שלך מוגדרים כראוי, ושמשתמש המושפע אינו חסום על-ידי רשיון מתנגש:
 
 [הגדרת הרשת שלך עבור שידור פגישת Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

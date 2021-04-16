@@ -1,8 +1,8 @@
 ---
-title: עבור אצוות העברה של תיקיות ציבוריות באמצעות מצב CompletedWithErrors
+title: עבור אצוות העברה של תיקיה ציבורית עם מצב CompletedWithErrors
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ed21bfb9069b56a4fc59b201bb3ad94c6bb6712
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744114"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812465"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>עבור אצוות העברה של תיקיות ציבוריות באמצעות מצב CompletedWithErrors
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>עבור אצוות העברה של תיקיה ציבורית עם מצב CompletedWithErrors
 
-השתמש בשלבים הבאים כדי להשלים את האצווה, ולדלג על הפריטים הגדולים/הרעים: 
-1. אשר את הפריטים שדילגת עליהם באצוות ההעברה:
+בצע את השלבים הבאים כדי להשלים את האצווה, דילוג על הפריטים הגדולים/הרעים: 
+1. אשר את הפריטים המדלגים על אצוות העברה:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. השתמש בפקודה הבאה כדי לאשר את הפריטים שהמערכת דילגה עליהם בבקשות העברה שסונכרנו "אך לא הושלמו:
+2. השתמש בפקודה הבאה כדי לאשר את הפריטים המדלגים על בקשות העברה ש"מסונכרנים" אך לא הושלמו:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. אצוות ההעברה ובקשות אמורות לחדש ולהשלים תוך כמה דקות.
+3. אצוות ההעברה והבקשות אמורות לחדש ולהשלים בתוך כמה דקות.
 

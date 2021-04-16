@@ -2,21 +2,22 @@
 title: קבלת מספרי שירות חדשים עבור Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5140"
-ms.openlocfilehash: 8b2965f723b77740b2dc134612387ef045f0360a
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: 90cc994398de0b53d3501cb9d95c860ad6b397d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022474"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812249"
 ---
 # <a name="get-new-service-numbers-for-teams"></a>קבלת מספרי שירות חדשים עבור Teams
 

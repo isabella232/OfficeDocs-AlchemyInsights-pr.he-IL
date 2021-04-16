@@ -2,7 +2,7 @@
 title: תיקון שגיאות Windows Update
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: febef6e2def6d7b928ec8b21d07aa2e8d94d7d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744663"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812645"
 ---
 # <a name="fix-windows-update-errors"></a>תיקון שגיאות Windows Update
 
-אם אתה מקבל קוד שגיאה בעת הורדה והתקנה של Windows update, **פותר הבעיות של העדכון** יכול לסייע בפתרון הבעיה.
+אם אתה מקבל קוד שגיאה בעת הורדה והתקנה של עדכון Windows, **פותר הבעיות של העדכון** יכול לעזור בפתרון הבעיה.
 
-- [פתרון בעיות הורדה של עדכון עבור Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- הפעלת פותר הבעיות. לאחר שתסיים, מומלץ להפעיל מחדש את המכשיר. לאחר מכן, בדוק אם קיימים עדכונים חדשים על-ידי מעבר אל [Start _GT_ Settings _GT_ Update _AMP_ Security _GT_ Windows update](ms-settings:windowsupdate).
+- [הורד את פותר הבעיות בעדכון עבור Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- הפעל את פותר הבעיות. לאחר ההפעלה, מומלצת להפעיל מחדש את המכשיר. לאחר מכן, בדוק אם קיימים עדכונים חדשים על-ידי > הגדרות [> עדכון & אבטחה > Windows Update](ms-settings:windowsupdate).
 
-אם אלה עדיין אינם פועלים, הוצא את [Windows Update: שאלות נפוצות](https://support.microsoft.com/help/12373/windows-update-faq) לקבלת מידע נוסף.
+אם אלה עדיין לא פועלים, עיין ב- [Windows Update: שאלות נפוצות](https://support.microsoft.com/help/12373/windows-update-faq) לקבלת מידע נוסף.

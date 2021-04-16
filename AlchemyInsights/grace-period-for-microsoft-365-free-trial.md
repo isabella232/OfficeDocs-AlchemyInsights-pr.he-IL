@@ -2,21 +2,22 @@
 title: תקופת חסד עבור גירסת הניסיון ללא תשלום של Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5479"
-ms.openlocfilehash: d7c4e97371a4c9a8643573bebd114b18cb60c866
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
+ms.openlocfilehash: d4cfecf90fbc255bbd7ce396accdf8698f17b12f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44016977"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811817"
 ---
 # <a name="grace-period-for-microsoft-365-free-trial"></a>תקופת חסד עבור גירסת הניסיון ללא תשלום של Microsoft 365
 
@@ -24,4 +25,4 @@ ms.locfileid: "44016977"
 
 באפשרותך לבחור [להרחיב את תקופת הניסיון](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial) ל- 30 ימים נוספים אם עדיין לא הארכת אותה.
 
-אם אתה משתמש ב**רישיון רב משתמשים** ויש לך שאלות נוספות לגבי תקופת החסד בגירסת הניסיון, עבור אל [מרכז השירות של רישוי רב משתמשים של Microsoft.](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)
+אם אתה משתמש ב **רישיון רב משתמשים** ויש לך שאלות נוספות לגבי תקופת החסד בגירסת הניסיון, עבור אל [מרכז השירות של רישוי רב משתמשים של Microsoft.](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center)
