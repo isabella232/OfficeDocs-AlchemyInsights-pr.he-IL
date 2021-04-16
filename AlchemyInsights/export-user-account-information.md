@@ -1,8 +1,8 @@
 ---
-title: ייצוא מידע של חשבון משתמש
+title: ייצוא פרטי חשבון משתמש
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 0a1978610d1293cd1de3bae114594cb5ef7865e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c50f10adb47827428002db36371a7c2370b201f9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708864"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813365"
 ---
-# <a name="export-user-account-information"></a><span data-ttu-id="a6122-102">ייצוא מידע של חשבון משתמש</span><span class="sxs-lookup"><span data-stu-id="a6122-102">Export user account information</span></span>
+# <a name="export-user-account-information"></a><span data-ttu-id="87ff8-102">ייצוא פרטי חשבון משתמש</span><span class="sxs-lookup"><span data-stu-id="87ff8-102">Export user account information</span></span>
 
-<span data-ttu-id="a6122-103">כדי לייצא מידע של חשבון משתמש במרכז הניהול של Microsoft 365, כולל מידע אודות רשיונות, מדיניות סיסמה, חשבונות חסומים, מצב סינכרון של הרשאות ועוד, עבור אל הדף **משתמשים**  >  [פעילים](https://go.microsoft.com/fwlink/p/?linkid=834822) ולאחר מכן בחר **יצא משתמשים**.</span><span class="sxs-lookup"><span data-stu-id="a6122-103">To export user account information in the Microsoft 365 admin center, including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, and then select **Export Users**.</span></span>
+<span data-ttu-id="87ff8-103">כדי לייצא פרטי חשבון משתמש במרכז הניהול של Microsoft 365, כולל מידע על רשיונות, מדיניות סיסמאות, חשבונות חסומים, מצב סינכרון AAD ועוד, עבור אל הדף **משתמשים** פעילים של משתמשים  >  [](https://go.microsoft.com/fwlink/p/?linkid=834822) ולאחר מכן בחר **ייצוא משתמשים.**</span><span class="sxs-lookup"><span data-stu-id="87ff8-103">To export user account information in the Microsoft 365 admin center, including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, and then select **Export Users**.</span></span>
