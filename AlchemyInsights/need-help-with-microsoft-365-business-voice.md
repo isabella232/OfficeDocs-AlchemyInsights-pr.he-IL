@@ -1,8 +1,8 @@
 ---
-title: זקוק לעזרה בנושא הקול הפרמי של Microsoft 365 Business?
+title: זקוק לעזרה עם Microsoft 365 Business Premium Voice?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 8ebede67f5414234553968b0a275d984f87800b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 014752ac52038c2e49d7d440d17c6f24ce10102d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754592"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792601"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a><span data-ttu-id="bc8c2-102">זקוק לעזרה בנושא הקול הפרמי של Microsoft 365 Business?</span><span class="sxs-lookup"><span data-stu-id="bc8c2-102">Need help with Microsoft 365 Business Premium Voice?</span></span>
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a><span data-ttu-id="e0611-102">זקוק לעזרה עם Microsoft 365 Business Premium Voice?</span><span class="sxs-lookup"><span data-stu-id="e0611-102">Need help with Microsoft 365 Business Premium Voice?</span></span>
 
-<span data-ttu-id="bc8c2-103">הקול של microsoft 365 Business Premium מקל על ארגונים קטנים ובינוניים להפוך את Microsoft Teams למערכת טלפון רבת-עוצמה וגמישה.</span><span class="sxs-lookup"><span data-stu-id="bc8c2-103">Microsoft 365 Business Premium Voice makes it easy for small and medium organizations to turn Microsoft Teams into a powerful and flexible telephone system.</span></span> <span data-ttu-id="bc8c2-104">לקבלת מידע נוסף אודות הקול העסקי, ראה [מהו הקול של Microsoft 365 Business Premium?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)</span><span class="sxs-lookup"><span data-stu-id="bc8c2-104">For more information on Business Voice, see [What is Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)</span></span>
+<span data-ttu-id="e0611-103">Microsoft 365 Business Premium Voice מקל על ארגונים קטנים ובינוניים להפוך את Microsoft Teams למערכת טלפון רבת עוצמה וגמישה.</span><span class="sxs-lookup"><span data-stu-id="e0611-103">Microsoft 365 Business Premium Voice makes it easy for small and medium organizations to turn Microsoft Teams into a powerful and flexible telephone system.</span></span> <span data-ttu-id="e0611-104">לקבלת מידע נוסף אודות Business Voice, [ראה מהו Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)</span><span class="sxs-lookup"><span data-stu-id="e0611-104">For more information on Business Voice, see [What is Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)</span></span>
 
-<span data-ttu-id="bc8c2-105">אם כבר רכשת את הקול של Microsoft 365 Business Premium, [האשף](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) ' תחילת העבודה ' יכול לעזור לך להתחיל לעבוד.</span><span class="sxs-lookup"><span data-stu-id="bc8c2-105">If you have already acquired Microsoft 365 Business Premium Voice, the [Getting Started wizard](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) can help you get things going.</span></span> 
+<span data-ttu-id="e0611-105">אם כבר רכשת את Microsoft 365 Business Premium Voice, [אשף תחילת העבודה](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) יכול לעזור לך להתחיל בעבודה.</span><span class="sxs-lookup"><span data-stu-id="e0611-105">If you have already acquired Microsoft 365 Business Premium Voice, the [Getting Started wizard](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) can help you get things going.</span></span> 
