@@ -1,8 +1,8 @@
 ---
-title: רשיון A1 עבור Office 365
+title: A1 רשיון עבור Office 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: e8f384c753652edbb02c3178cb9fe45082328aae
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7cc451fce065754146d09073b218ecc79d49612b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663739"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804085"
 ---
-# <a name="a1-license-for-office-365"></a><span data-ttu-id="d14de-102">רשיון A1 עבור Office 365</span><span class="sxs-lookup"><span data-stu-id="d14de-102">A1 license for Office 365</span></span>
+# <a name="a1-license-for-office-365"></a><span data-ttu-id="9a5ad-102">A1 רשיון עבור Office 365</span><span class="sxs-lookup"><span data-stu-id="9a5ad-102">A1 license for Office 365</span></span>
 
-- <span data-ttu-id="d14de-103">אם המכון שלך כבר מוסמך להשכלה של Office 365, באפשרותך להוסיף את **התוכנית A1** לחשבון שלך [משירותי רכישה](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription).</span><span class="sxs-lookup"><span data-stu-id="d14de-103">If your institute already qualified for Office 365 Education, you can add the **A1 plan** to your account from [Purchase services](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription).</span></span>
+- <span data-ttu-id="9a5ad-103">אם המוסד שלך כבר מוסמך ל- Office 365 Education, באפשרותך להוסיף את **תוכנית A1** לחשבון שלך דרך ['רכוש שירותים'.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription)</span><span class="sxs-lookup"><span data-stu-id="9a5ad-103">If your institute already qualified for Office 365 Education, you can add the **A1 plan** to your account from [Purchase services](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription).</span></span>
 
-- <span data-ttu-id="d14de-104">אם המכון שלך עדיין אינו מגדיר את Office 365, אך אתה מעוניין להוסיף אותו ללא תשלום, באפשרותך [להתחיל](https://www.microsoft.com/education/products/office) בעבודה על-ידי מתן הדואר האלקטרוני שלך.</span><span class="sxs-lookup"><span data-stu-id="d14de-104">If your institute hasn't yet set up Office 365 Education, but you you're looking to add it for free, you can [get started](https://www.microsoft.com/education/products/office) by providing your email.</span></span>
+- <span data-ttu-id="9a5ad-104">אם המכון שלך עדיין לא הגדיר את Office 365 Education, אך אתה מחפש להוסיף אותו בחינם, תוכל להתחיל בעבודה [על-ידי](https://www.microsoft.com/education/products/office) אספקת הדואר האלקטרוני שלך.</span><span class="sxs-lookup"><span data-stu-id="9a5ad-104">If your institute hasn't yet set up Office 365 Education, but you you're looking to add it for free, you can [get started](https://www.microsoft.com/education/products/office) by providing your email.</span></span>
 
-- <span data-ttu-id="d14de-105">אם אתה מעוניין **לעבור** מתוכנית אקדמית שונה לתוכנית A1, ראה [מעבר לתוכנית אחרת](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually).</span><span class="sxs-lookup"><span data-stu-id="d14de-105">If you're looking to **switch** from a different academic plan to the A1 plan, see [Switch to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually).</span></span>
+- <span data-ttu-id="9a5ad-105">אם אתה מחפש לעבור **מתוכנית** אקדמית אחרת לתוכנית A1, ראה [מעבר לתוכנית אחרת](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually).</span><span class="sxs-lookup"><span data-stu-id="9a5ad-105">If you're looking to **switch** from a different academic plan to the A1 plan, see [Switch to a different plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually).</span></span>
 
-- <span data-ttu-id="d14de-106">כדי להקצות משתמשים לתוכנית A1, ראה [הקצה רישיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users). </span><span class="sxs-lookup"><span data-stu-id="d14de-106">To assign users to the A1 plan, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
+- <span data-ttu-id="9a5ad-106">כדי להקצות משתמשים לתוכנית A1, ראה [הקצה רישיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users). </span><span class="sxs-lookup"><span data-stu-id="9a5ad-106">To assign users to the A1 plan, see [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
 
-<span data-ttu-id="d14de-107">**חשוב**: ייתכן שתצטרך להמתין עד 24 שעות עד שהשינויים שלך ייכנסו לתוקף.</span><span class="sxs-lookup"><span data-stu-id="d14de-107">**Important**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
+<span data-ttu-id="9a5ad-107">**חשוב**: ייתכן שתצטרך להמתין עד 24 שעות עד שהשינויים שלך ייכנסו לתוקף.</span><span class="sxs-lookup"><span data-stu-id="9a5ad-107">**Important**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
 
-<span data-ttu-id="d14de-108">לקבלת מידע נוסף, ראה [השכלה של Office 365, הוראה מרחוק ולמידה](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) [וביצוע המעבר ללמידה מרוחקת](https://www.microsoft.com/education/remote-learning).</span><span class="sxs-lookup"><span data-stu-id="d14de-108">For more info, see [Office 365 Education, Remote teaching and learning](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) and [Making the transition to remote learning](https://www.microsoft.com/education/remote-learning).</span></span>
+<span data-ttu-id="9a5ad-108">לקבלת מידע נוסף, ראה [Office 365 Education, הוראה ולמידה מרחוק](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) [ועשיית המעבר ללמידה מרחוק.](https://www.microsoft.com/education/remote-learning)</span><span class="sxs-lookup"><span data-stu-id="9a5ad-108">For more info, see [Office 365 Education, Remote teaching and learning](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) and [Making the transition to remote learning](https://www.microsoft.com/education/remote-learning).</span></span>
