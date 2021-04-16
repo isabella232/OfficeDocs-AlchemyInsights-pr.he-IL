@@ -1,8 +1,8 @@
 ---
-title: לא ניתן להוסיף קובץ מצורף לטופס הפונה מבחוץ
+title: לא ניתן להוסיף קובץ מצורף לטופס הפונה כלפי חוץ
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749407"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797326"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="1119b-102">לא ניתן להוסיף קובץ מצורף לטופס הפונה מבחוץ</span><span class="sxs-lookup"><span data-stu-id="1119b-102">Unable to add an attachment to an externally-facing form</span></span>
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="a5aea-102">לא ניתן להוסיף קובץ מצורף לטופס הפונה כלפי חוץ</span><span class="sxs-lookup"><span data-stu-id="a5aea-102">Unable to add an attachment to an externally-facing form</span></span>
 
-<span data-ttu-id="1119b-103">אם אתה מנסה להוסיף קובץ מצורף לסקר חיצוני של Microsoft Forms, תכונה זו אינה זמינה עדיין.</span><span class="sxs-lookup"><span data-stu-id="1119b-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="1119b-104">כדי לעקוב אחר המצב של בקשת תכונה זו, עבור אל [ערך UserVoice זה](https://go.microsoft.com/fwlink/?linkid=2133069)והוסף את ההצבעה.</span><span class="sxs-lookup"><span data-stu-id="1119b-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
+<span data-ttu-id="a5aea-103">אם אתה מנסה להוסיף קובץ מצורף לסקר חיצוני של Microsoft Forms, תכונה זו עדיין אינה זמינה.</span><span class="sxs-lookup"><span data-stu-id="a5aea-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="a5aea-104">כדי לעקוב אחר המצב של בקשת תכונה זו, עבור אל ערך [UserVoice זה](https://go.microsoft.com/fwlink/?linkid=2133069)והוסף את ההצבעה שלך.</span><span class="sxs-lookup"><span data-stu-id="a5aea-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>

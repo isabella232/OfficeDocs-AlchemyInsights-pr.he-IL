@@ -1,8 +1,8 @@
 ---
-title: קטרת-בעיית שירות אפשרית
+title: Yammer - בעיית שירות אפשרית
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1338"
 - "2800001"
-ms.openlocfilehash: 51ccf2517a8f4bddcfc63d38011bb9dd2f0f9fc5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf01341a34719326824847bb44d55ab995a9faba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748866"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796237"
 ---
-# <a name="yammer---possible-service-issue"></a><span data-ttu-id="19eb1-102">קטרת-בעיית שירות אפשרית</span><span class="sxs-lookup"><span data-stu-id="19eb1-102">Yammer - possible service issue</span></span>
+# <a name="yammer---possible-service-issue"></a><span data-ttu-id="4d519-102">Yammer - בעיית שירות אפשרית</span><span class="sxs-lookup"><span data-stu-id="4d519-102">Yammer - possible service issue</span></span>
 
-<span data-ttu-id="19eb1-103">ייתכן שקיימת בעיה זמנית שבה משתמשים עשויים להיתקל בשגיאות בעת גישה ל-קטרת.</span><span class="sxs-lookup"><span data-stu-id="19eb1-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="19eb1-104">בדוק את [לוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לראות אם פעולה זו משפיעה על הרשת שלך.</span><span class="sxs-lookup"><span data-stu-id="19eb1-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>
+<span data-ttu-id="4d519-103">ייתכן שיש בעיה זמנית שבה משתמשים עלולים להיתקל בשגיאות בעת גישה ל- Yammer.</span><span class="sxs-lookup"><span data-stu-id="4d519-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="4d519-104">בדוק את [לוח המחוונים של תקינות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) השירות כדי לראות אם הדבר משפיע על הרשת שלך.</span><span class="sxs-lookup"><span data-stu-id="4d519-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>
