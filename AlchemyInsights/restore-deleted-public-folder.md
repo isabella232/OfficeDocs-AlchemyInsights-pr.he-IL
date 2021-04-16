@@ -2,7 +2,7 @@
 title: שחזור תיקיה ציבורית שנמחקה
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: bb7fe248714e9a7e7f4c48913b159b5c23132192
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5480389c3bf50cee9fe30f7ec8d8ff28ef694ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774532"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809440"
 ---
 # <a name="restore-a-deleted-public-folder"></a>שחזור תיקיה ציבורית שנמחקה
 
 **כדי לשחזר פריטים שנמחקו מתיקיה ציבורית**:
 
-- ראה [אין באפשרותך לשחזר פריטים שנמחקו מתיקיה ציבורית שאינה של mail ב-Outlook 2016](https://aka.ms/pfrec).
+- ראה אין באפשרותך לשחזר פריטים שנמחקו מתיקיה ציבורית שאינו דואר [אלקטרוני ב- Outlook 2016](https://aka.ms/pfrec).
  
 **כדי לשחזר תיקיה ציבורית שנמחקה (מכל סוג)**: 
 
-- השתמש בפקודה הבאה ב-קליפת PowerShell:
+- השתמש בפקודה הבאה של EXO PowerShell:
 
-    תחביר
+    תחביר:
 
      `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse  | ?{$_.Name -eq "\<name_of_deleted_public_Folder"};Set-PublicFolder $pf.identity -Path \<path where the folder will be restored>`
 
-    דוגמה: הפקודה הבאה תשחזר את Subfolder1 ותמקם אותה תחת \Parent1:
+    דוגמה: הפקודה הבאה תשחזר את תיקיית המשנה1 ות למקם אותה תחת \Parent1:
 
     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 

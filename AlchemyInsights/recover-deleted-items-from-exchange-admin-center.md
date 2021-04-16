@@ -1,29 +1,30 @@
 ---
-title: שחזור פריטים שנמחקו ממרכז הניהול של Exchange
+title: שחזר פריטים שנמחקו ממרכז הניהול של Exchange
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: 88e55056456014fdac218b317bf4f4d60308478a
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493141"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809728"
 ---
-# <a name="recover-deleted-items-from-exchange-admin-center"></a>שחזור פריטים שנמחקו ממרכז הניהול של Exchange
+# <a name="recover-deleted-items-from-exchange-admin-center"></a>שחזר פריטים שנמחקו ממרכז הניהול של Exchange
 
-בתוך [חוויית ניהול תיבת הדואר](https://admin.exchange.microsoft.com/#/mailboxes)הפשוטה והמעודכנת, בתוך מרכז הניהול של Exchange (eac), באפשרותך לבחור את תיבת הדואר הספציפית של המשתמשים ולשחזר פריטים.
+במסגרת חווית שירות תיבת הדואר המפושטת וה[עדכנית](https://admin.exchange.microsoft.com/#/mailboxes), כחלק ממרכז הניהול של Exchange (‏EAC), באפשרותך לבחור את תיבת הדואר הספציפית של המשתמשים ולשחזר פריטים.
 
 1. בחר **תיבות דואר** תחת **נמענים**.
-2. בחר את המשתמש שברצונך לשחזר מיילים.
-3. בחר **בשחזור פריטים שנמחקו**.
-    - אולי תצטרך להסתכל. **.. יותר** להוריד למטה כדי לראות את **שחזור פריטים שנמחקו**.
+2. בחר את המשתמש שממנו ברצונך לשחזר הודעות דואר אלקטרוני.
+3. בחר **שחזר פריטים שנמחקו**. 
+    - ייתכן שתצטרך לחפש תחת התפריט הנפתח **... עוד** כדי לראות את **שחזר פריטים שנמחקו**.
 4. השתמש באפשרויות הסינון כדי למצוא את הפריטים שעליך לשחזר.

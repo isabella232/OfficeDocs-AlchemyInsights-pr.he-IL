@@ -1,8 +1,8 @@
 ---
-title: מעבר וידאו של Office 365 ל-Microsoft Stream
+title: מעבר וידאו Office 365 ל- Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "3568"
-ms.openlocfilehash: b975c5eb6f0fc1e04984912ba323d673ac231279
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0937a7664b0cff3fa98ba86fadeb7f360df474d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666583"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810161"
 ---
-# <a name="office-365-video-transition-to-microsoft-stream"></a>מעבר וידאו של Office 365 ל-Microsoft Stream
+# <a name="office-365-video-transition-to-microsoft-stream"></a>מעבר וידאו Office 365 ל- Microsoft Stream
 
-לקבלת מידע מפורט אודות העברה מ-Office 365 וידאו ל-Microsoft Stream, ראה:
+לקבלת מידע מפורט אודות העברה מ'וידאו Office 365' ל- Microsoft Stream, ראה:
 
 - [מבט כולל על העברה](https://docs.microsoft.com/stream/migrate-from-office-365)
 - [פרטי העברה](https://docs.microsoft.com/stream/migration-experience)
 - [הגדרת תזמון העברה](https://docs.microsoft.com/stream/migration-o365video-timing-setting)
-- [קובץ script של הכנה להעברה](https://docs.microsoft.com/stream/migration-o365video-prep)
+- [קובץ Script של הכנה להעברה](https://docs.microsoft.com/stream/migration-o365video-prep)

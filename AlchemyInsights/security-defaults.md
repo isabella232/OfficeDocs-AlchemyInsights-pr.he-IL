@@ -2,7 +2,7 @@
 title: ברירות מחדל של אבטחה
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740331"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809188"
 ---
 # <a name="security-defaults"></a>ברירות מחדל של אבטחה
 
-לקבלת מידע אודות ברירות מחדל של אבטחה, עיין במאמר [מה הם ברירות מחדל של אבטחה?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+לקבלת מידע אודות ברירות מחדל של אבטחה, [ראה אילו ברירות מחדל של אבטחה?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-ברירות מחדל של אבטחה ב-תכלת Active Directory (תכלת לספירה) מאפשרות לך להיות מאובטח יותר ולסייע בהגנה על הארגון שלך. ברירות מחדל של אבטחה מכילות הגדרות אבטחה מוגדרות מוגדרות להתקפות נפוצות.
+ברירות מחדל של אבטחה ב- Azure Active Directory (Azure AD) מקלות עליך להיות מאובטח ולעזור להגן על הארגון שלך. ברירות מחדל של אבטחה מכילות הגדרות אבטחה מוגדרות מראש עבור התקפות נפוצות.
 
-Microsoft מבצע ברירות מחדל של אבטחה הזמינות עבור כולם. המטרה היא להבטיח שכל הארגונים בעלי רמת אבטחה בסיסית זמינה ללא תשלום נוסף. הפעלת ברירות מחדל של אבטחה בפורטל התכלת.
+Microsoft גורמת לברירת המחדל של האבטחה להיות זמינות לכולם. המטרה היא להבטיח שכל הארגונים כוללים רמת אבטחה בסיסית זמינה ללא עלות נוספת. הפעלת ברירות מחדל של אבטחה בפורטל Azure.

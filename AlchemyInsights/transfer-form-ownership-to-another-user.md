@@ -2,7 +2,7 @@
 title: העברת בעלות על טופס למשתמש אחר
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2548"
 - "9000672"
-ms.openlocfilehash: 8b38b200c9ddd95245e2ded947a1eeee4262c88c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db71635a5f925df85e6613c6cb4760406b4be3e8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700132"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809044"
 ---
-# <a name="transfer-ownership-of-a-microsoft-form"></a>העברת הבעלות על טופס Microsoft
+# <a name="transfer-ownership-of-a-microsoft-form"></a>העברת בעלות על טופס Microsoft
 
-באפשרותך להעביר סקר, בוחן או תשאול ב-Microsoft Forms לקבוצה כדי שכל האנשים בקבוצה יהפכו לבעלים של טופס זה. באפשרותך גם להעביר בעלות על טופס למשתמש אחר אם הבעלים הקודם עזב את הארגון.
+באפשרותך להעביר סקר, בוחן או תשאול ב- Microsoft Forms לקבוצה כדי שכולם בקבוצה שלך יהפכו לבעלים של טופס זה. באפשרותך גם להעביר בעלות על טופס למשתמש אחר אם הבעלים הקודם עזב את הארגון.
 
-לקבלת מידע נוסף, ראה [העברת בעלות על טופס](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).
+לקבלת מידע נוסף, [ראה העברת בעלות על טופס](https://support.office.com/article/Transfer-ownership-of-a-form-921a6361-a4e5-44ea-bce9-c4ed63aa54b4).
