@@ -1,27 +1,26 @@
 ---
-title: חדש ב- Microsoft Teams
+title: הגדרת איחוד של Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509146"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786202"
 ---
-# <a name="new-to-microsoft-teams"></a><span data-ttu-id="53ab0-102">חדש ב- Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="53ab0-102">New to Microsoft Teams</span></span>
+# <a name="set-up-microsoft-teams"></a><span data-ttu-id="44747-102">הגדרת איחוד של Teams</span><span class="sxs-lookup"><span data-stu-id="44747-102">Set up Microsoft Teams</span></span>
 
-<span data-ttu-id="53ab0-103">נסה את  [התחל לעבוד עם Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span><span class="sxs-lookup"><span data-stu-id="53ab0-103">Check out [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span> <span data-ttu-id="53ab0-104">צפה בסרטוני הדרכה של Microsoft Teams IT Admin, שקופיות ומידע נוסף.</span><span class="sxs-lookup"><span data-stu-id="53ab0-104">Be sure to check out Microsoft Teams IT Admin Training Videos, Decks, and more information.</span></span>
+<span data-ttu-id="44747-103">[מדריך ההתקנה של Microsoft Teams](https://aka.ms/teamsguidance)  מספר לארגון שלך הדרכה להתקנת סביבות עבודה של צוותים שמארחות שיחות בזמן אמת באמצעות שליחת הודעות, שיחות ופגישות שמע ווידאו, עבור תקשורת של צוותים ותקשורת פרטית.</span><span class="sxs-lookup"><span data-stu-id="44747-103">The  [Microsoft Teams setup guide](https://aka.ms/teamsguidance)  provides your organization with guidance to set up team workspaces that host real-time conversations through messaging, calls, and audio or video meetings for both team and private communication.</span></span> <span data-ttu-id="44747-104">תקבל הוראות עבור קביעת דרישות הרשת של הארגון שלך על-ידי שימוש בכלי 'מתכנן הרשת' והיועץ של Teams במסגרת מרכז הניהול של Teams.</span><span class="sxs-lookup"><span data-stu-id="44747-104">You'll receive instructions for determining your organization's network requirements by using the Network Planner tool and the Teams advisor within the Teams admin center.</span></span> <span data-ttu-id="44747-105">לאחר השלמת הפריסה שלך, המדריך כולל משאבים שימושיים להתחיל להשתמש ב- Teams.</span><span class="sxs-lookup"><span data-stu-id="44747-105">Once your deployment is complete, the guide includes helpful resources to get started using Teams.</span></span>
 
-<span data-ttu-id="53ab0-105">אם אתה זקוק לעזרה בפריסת Teams כדי לתמוך בעובדים מרוחקים (WFH) עקב COVID-19, עיין [תמיכה בעובדים מרוחקים באמצעות Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span><span class="sxs-lookup"><span data-stu-id="53ab0-105">If you need help deploying Teams to support Remote Workers (WFH) due to COVID-19, please review  [Support remote workers using Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams).</span></span> <span data-ttu-id="53ab0-106">בנוסף, ייתכן שאתה זכאי לסיוע בפריסה מתוכנית Microsoft 365 FastTrack - בקר בכתובת [FastTrack Center](https://www.microsoft.com/fasttrack) כדי להגיש בקשה.</span><span class="sxs-lookup"><span data-stu-id="53ab0-106">Also, you may be eligible for deployment assistance from the Microsoft 365 FastTrack Program - please visit the [FastTrack Center](https://www.microsoft.com/fasttrack) to submit a request.</span></span>
-
-<span data-ttu-id="53ab0-107">**חשוב**: עקב שימוש מוגבר ב- Teams לאחרונה, כאשר אתה מקצה למשתמש רישיון Teams, ייתכן שיחלפו 24 שעות לפני שהוא יוגדר במלואו.</span><span class="sxs-lookup"><span data-stu-id="53ab0-107">**Important**: Due to a recent increase in Teams usage, when you assign a Teams license to a user, it may take around 24 hours before they'll be fully set up.</span></span> <span data-ttu-id="53ab0-108">עד אז, לא תוכל להקצות להם פריטי מדיניות של Teams, וייתכן שלא תהיה להם גישה לתכונות מסוימות של Teams, כגון ועידות שמע.</span><span class="sxs-lookup"><span data-stu-id="53ab0-108">Until then, you won't be able to assign Teams policies to them, and they might not have access to some Teams features like calling and audio conferencing.</span></span>
+<span data-ttu-id="44747-106">לקבלת מידע נוסף, ראה [התחל לעבוד עם Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span><span class="sxs-lookup"><span data-stu-id="44747-106">For additional information, please see [Get Started with Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).</span></span>
