@@ -2,9 +2,10 @@
 title: הבנת החשבון שלך
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: a8b1c378856adaa13bcd33d8bc185a093f990e2f
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
+ms.openlocfilehash: 72f6ba61c8b898643aa967bb7c6ddaebf6c977de
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158401"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796858"
 ---
 # <a name="understand-your-bill"></a>הבנת החשבון שלך
 
@@ -27,7 +28,7 @@ ms.locfileid: "43158401"
 
 2. בחר טווח תאריכים מתוך הרשימה הנפתחת, ולאחר מכן בחר את הסדר שבו אתה רוצה לסקור או לחץ על הקישור **הורד חשבונית pdf** כדי להציג עותק של החשבון.
 
-לקבל מידע נוסף, ראה [הצג את החיוב או החשבונית שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+לקבל מידע נוסף, ראה [הצג את החיוב או החשבונית שלך](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 
 **הבנת החיוב/חשבונית שלך**
 
