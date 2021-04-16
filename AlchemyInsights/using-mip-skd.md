@@ -1,40 +1,41 @@
 ---
-title: שימוש ב-MIP SKD
+title: שימוש ב- SKD של MIP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: cbd35b48bc7d9f0c7b254ae5b16aa118d29fe34c
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358240"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770956"
 ---
-# <a name="using-mip-skd"></a>שימוש ב-MIP SKD
+# <a name="using-mip-skd"></a>שימוש ב- SKD של MIP
 
-כדי להשתמש ב-MIP SDK, קיימים מספר שלבים הדרושים להתקנה ולקביעת התצורה של מנוי Office 365 ותחנת עבודה של לקוח. שלבים אלה כוללים:
+כדי להשתמש ב- SDK של MIP, נדרשים מספר שלבים להתקנה וקביעת תצורה של מנוי Office 365 שלך ושל תחנת העבודה של הלקוח. שלבים אלו כוללים:
 
-- הירשם למנוי של Office 365.
+- הרשמה לקבלת מנוי ניסיון של Office 365.
 - קביעת תצורה של תוויות רגישות.
-- קבע את תצורת תחנת העבודה של הלקוח.
-- רשום בקשת לקוח באמצעות הספריה הפעילה.
-- מבקש הסכם אינטגרציה להגנת מידע (IPIA).
-- ודא שליישום שלך יש את זמן הריצה הדרוש.
+- קביעת תצורה של תחנת העבודה של הלקוח שלך.
+- רישום של יישום לקוח בעזרת Azure Active Directory.
+- בקשת הסכם אינטגרציה של Information Protection (‏IPIA).
+- וידוא כי היישום שלך כולל את זמן הריצה הנדרש.
 
-לקבלת מידע נוסף אודות שלבי התזות, ראה [הגדרה וקביעת תצורה של MIP SDK](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
+לקבלת מידע נוסף אודות שלבים אלה, ראה [התקנה וקביעת תצורה של SDK של MIP](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
 
 לקבלת משאבים נוספים, ראה:
 
-- [תיעוד SDK של הגנת מידע של Microsoft](https://docs.microsoft.com/information-protection/develop/)
-- [מדריך מפתח להגנת מידע תכלת](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
-- [הורד ערכת פיתוח תוכנה להגנת מידע של Microsoft](https://www.microsoft.com/download/details.aspx?id=57392)
-- [התקנה וקביעת תצורה של SDK להגנת מידע של Microsoft (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
-- [דוגמאות לקוד תכלת לקבלת מספר SDK של MIP](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
+- [תיעוד SDK של Microsoft Information Protection](https://docs.microsoft.com/information-protection/develop/)
+- [מדריך של מפתח Azure Information Protection](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
+- [הורד את ערכת פיתוח התוכנה של Microsoft להגנה על מידע](https://www.microsoft.com/download/details.aspx?id=57392)
+- [התקנה וקביעת תצורה של SDK של Microsoft Information Protection‏ (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [Azure Code Samples for MIP SDK](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
