@@ -1,31 +1,32 @@
 ---
-title: לחצן שמירת תבנית של אתר/רשימה אינו זמין או חסר
+title: לחצן תבנית שמירה של אתר/רשימה אינו זמין או חסר
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 90ff4b0d84f9d27ea9662014545fb7045a720aea
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358061"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789289"
 ---
-# <a name="save-sitelist-template-button-not-available-or-missing"></a>לחצן שמירת תבנית של אתר/רשימה אינו זמין או חסר
+# <a name="save-sitelist-template-button-not-available-or-missing"></a>לחצן תבנית שמירה של אתר/רשימה אינו זמין או חסר
 
-היכולת לשמור אתר כתבנית אינה נתמכת עם תקשורת מודרנית או אתרי צוות. לקבלת מידע נוסף אודות השימוש בתבניות [, ראה שמירה, הורדה וטעינה של אתר SharePoint כתבנית](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
+היכולת לשמור אתר כתבנית אינה נתמכת עם אתרי תקשורת מודרניים או אתרי צוות. לקבלת מידע נוסף אודות השימוש בתבניות, ראה [שמירה, הורדה והעלאה של אתר SharePoint כתבנית](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-מנהלי מערכת יצטרכו לאפשר Script מותאם אישית כדי להפוך את תכונות התבנית לזמינות. לקבלת שלבים מפורטים, דוגמאות ושיקולים, ראה:
+מנהלי מערכת יצטרכו לאפשר קובץ Script מותאם אישית כדי להפוך את תכונות התבנית לזמינות. לקבלת שלבים מפורטים, דוגמאות ושיקולים, ראה:
 
-- [התרה או מניעה של קובץ script מותאם אישית](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [התרה או מניעה של קובץ Script מותאם אישית](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- הפקודה ' שמור אתר כתבנית ' אינה נתמכת ועלולה לגרום לבעיות באתרים המשתמשים בתשתית הפרסום של SharePoint Server.
+- הפקודה 'שמור אתר כתבנית' אינה נתמכת והיא יכולה לגרום לבעיות באתרים שמשתמשים בתשתית הפרסום של SharePoint Server.
 
 
