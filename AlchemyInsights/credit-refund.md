@@ -1,8 +1,8 @@
 ---
-title: זיכוי/החזר כספי
+title: זיכוי/החזר
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,25 +13,25 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 27f1b43c7e00114d51bb3f1c5769936b72635a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1e40dcf238ce4bc05c55c78e29c54fc260523bc2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746580"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815868"
 ---
-# <a name="creditrefund"></a><span data-ttu-id="216f0-102">זיכוי/החזר כספי</span><span class="sxs-lookup"><span data-stu-id="216f0-102">Credit/refund</span></span>
+# <a name="creditrefund"></a><span data-ttu-id="9b1ff-102">זיכוי/החזר</span><span class="sxs-lookup"><span data-stu-id="9b1ff-102">Credit/refund</span></span>
 
-<span data-ttu-id="216f0-103">**ביטול**</span><span class="sxs-lookup"><span data-stu-id="216f0-103">**Cancellation**</span></span>
+<span data-ttu-id="9b1ff-103">**ביטול**</span><span class="sxs-lookup"><span data-stu-id="9b1ff-103">**Cancellation**</span></span>
   
-<span data-ttu-id="216f0-104">בעת ביטול מנוי, תקבל חשבונית סופית עם זיכוי כתוצאה ממועד החיוב הבא.</span><span class="sxs-lookup"><span data-stu-id="216f0-104">When cancelling a subscription, you will receive a final invoice with a credit due on the next billing date.</span></span> <span data-ttu-id="216f0-105">פעולה זו עשויה להימשך עד 30 יום כדי לקבל מהתאריך שבו המנוי בוטל.</span><span class="sxs-lookup"><span data-stu-id="216f0-105">This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
+<span data-ttu-id="9b1ff-104">בעת ביטול מנוי, תקבל חשבונית סופית עם זיכוי בתאריך החיוב הבא.</span><span class="sxs-lookup"><span data-stu-id="9b1ff-104">When cancelling a subscription, you will receive a final invoice with a credit due on the next billing date.</span></span> <span data-ttu-id="9b1ff-105">פעולה זו יכולה לאסוף עד 30 יום מתאריך הביטולים של המנוי.</span><span class="sxs-lookup"><span data-stu-id="9b1ff-105">This can take up to 30 days to receive from the date the subscription was cancelled.</span></span>
   
-<span data-ttu-id="216f0-106">**שינוי מושבים**</span><span class="sxs-lookup"><span data-stu-id="216f0-106">**Seat Change**</span></span>
+<span data-ttu-id="9b1ff-106">**שינוי מושב**</span><span class="sxs-lookup"><span data-stu-id="9b1ff-106">**Seat Change**</span></span>
   
-<span data-ttu-id="216f0-107">כאשר רשיונות יוסרו ממנוי, הזמן שאינו בשימוש ברשיונות אלה יוחל כאשראי בחשבון הבא.</span><span class="sxs-lookup"><span data-stu-id="216f0-107">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill.</span></span> <span data-ttu-id="216f0-108">פעולה זו עשויה להימשך עד 30 יום כדי לקבל מתאריך הסרת הרשיונות.</span><span class="sxs-lookup"><span data-stu-id="216f0-108">This can take up to 30 days to receive from the date the licenses are removed.</span></span>
+<span data-ttu-id="9b1ff-107">כאשר רשיונות מוסרים ממנוי, הזמן שלא היה שימוש ברשיונות אלה יוחל כקרדיט על החשבון הבא.</span><span class="sxs-lookup"><span data-stu-id="9b1ff-107">When licenses are removed from a subscription, the unused time on these licenses will be applied as a credit on the next bill.</span></span> <span data-ttu-id="9b1ff-108">פעולה זו יכולה לאסוף עד 30 יום מתאריך הסרת הרשיונות.</span><span class="sxs-lookup"><span data-stu-id="9b1ff-108">This can take up to 30 days to receive from the date the licenses are removed.</span></span>
 
-<span data-ttu-id="216f0-109">**חזר**</span><span class="sxs-lookup"><span data-stu-id="216f0-109">**Refund**</span></span>
+<span data-ttu-id="9b1ff-109">**החזר כספי**</span><span class="sxs-lookup"><span data-stu-id="9b1ff-109">**Refund**</span></span>
 
-<span data-ttu-id="216f0-110">**הזיכוי היחסי יוחזר לך במחזור החיוב הבא.**</span><span class="sxs-lookup"><span data-stu-id="216f0-110">**Any prorated credit will be returned to you within the next billing cycle.**</span></span>
+<span data-ttu-id="9b1ff-110">**הזיכוי היחסי יוחזר לך במחזור החיוב הבא.**</span><span class="sxs-lookup"><span data-stu-id="9b1ff-110">**Any prorated credit will be returned to you within the next billing cycle.**</span></span>
 
-<span data-ttu-id="216f0-111">לקבלת מידע נוסף, ראה [תהליך ביטול והחזר](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="216f0-111">For more information, see [cancellation and refund process](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).</span></span> 
+<span data-ttu-id="9b1ff-111">לקבלת מידע נוסף, ראה [תהליך הביטול וההחזר.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="9b1ff-111">For more information, see [cancellation and refund process](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).</span></span> 
