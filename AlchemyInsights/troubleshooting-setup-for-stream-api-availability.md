@@ -1,8 +1,8 @@
 ---
-title: פתרון בעיות בהגדרה עבור זרימה-זמינות של API
+title: פתרון בעיות בהגדרה עבור זרימה - זמינות API
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2800001"
 - "1338"
-ms.openlocfilehash: d25849c36eda0f286e7758955104e8df2ed46d76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6648aec3d027a0768af3c39b3176b0be68b017cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658591"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834804"
 ---
 # <a name="api-availability"></a>זמינות API
 
-APIs עבור הזרם אינם זמינים כיום.
-לקבלת מידע נוסף:https://stream.microsoft.com/support/
+ממשקי API עבור Stream אינם זמינים היום.
+לקבלת מידע נוסף: https://stream.microsoft.com/support/

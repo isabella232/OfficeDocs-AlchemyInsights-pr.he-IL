@@ -1,8 +1,8 @@
 ---
-title: שטח אחסון של Microsoft Stream
+title: Microsoft Stream Storage
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ee4c331cf706574df5a52ed66c72b775e2eed1d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675299"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833940"
 ---
-# <a name="microsoft-stream-storage"></a>שטח אחסון של Microsoft Stream
+# <a name="microsoft-stream-storage"></a>Microsoft Stream Storage
 
-דיירים של Microsoft Stream מקבלים הקצאה קבועה של 500 ג'יגה-בתים של אחסון ו-0.5 GB נוסף של אחסון לכל משתמש מורשה.
-לקבלת פרטים נוספים על אחסון, ראה:
+דיירי Microsoft Stream מקבלים הקצאה קבועה של שטח אחסון של 500 GB ונפח אחסון נוסף של 0.5 GB לכל משתמש מורשה.
+לקבלת פרטים נוספים אודות אחסון, ראה:
 
-- [מבט כולל על שטח האחסון של Microsoft Stream](https://docs.microsoft.com/stream/license-overview#storage)
-- [הוספת שטח אחסון ל-Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
-- [מיכסות ומגבלות ב-Microsoft Stream](https://docs.microsoft.com/stream/quotas-and-limitations)
+- [מבט כולל על Microsoft Stream Storage](https://docs.microsoft.com/stream/license-overview#storage)
+- [הוספת שטח אחסון ל- Microsoft Stream](https://docs.microsoft.com/stream/storage-add-on)
+- [מיכסות ומגבלות ב- Microsoft Stream](https://docs.microsoft.com/stream/quotas-and-limitations)

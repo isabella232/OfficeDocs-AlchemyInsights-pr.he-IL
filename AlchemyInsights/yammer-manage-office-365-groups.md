@@ -1,8 +1,8 @@
 ---
-title: 'קטרת-ניהול קבוצות Microsoft 365 '
+title: 'Yammer - ניהול קבוצות Microsoft 365 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 543972a81a8958951e31d63a632283d07c06de4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb5959f74793ce146d326d2ddc32c359daecc3ba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668888"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834084"
 ---
-# <a name="manage-microsoft-365-groups-in-yammer"></a>ניהול קבוצות Microsoft 365 ב-קטרת
+# <a name="manage-microsoft-365-groups-in-yammer"></a>ניהול קבוצות Microsoft 365 ב- Yammer
 
-להלן כמה תשובות לרוב הבעיות הנפוצות ביותר באמצעות קבוצות Microsoft 365 ב-קטרת.
+להלן כמה תשובות לרוב הבעיות הנפוצות בקבוצות Microsoft 365 ב- Yammer.
 
-* **קבוצות Microsoft 365** הן סביבת עבודה משותפת עבור דואר אלקטרוני, שיחות, קבצים ואירועים שבהם חברי הקבוצה יכולים לשתף פעולה. באמצעות קטרת, קבוצות Microsoft 365 כוללות יתרונות רבים בקבוצות קטרת שאינן מחוברות. לדוגמה, באפשרותך ליצור ולארח אירועים חיים, לשחזר קבוצות שנמחקו, להשתמש בחברות בקבוצה דינאמית, בארכיון אוטומטי ולגשת למשאבים משותפים כגון Sharepoint, OneNote ומתכנן.
+* **קבוצות Microsoft 365 הן** סביבת עבודה משותפת עבור דואר אלקטרוני, שיחות, קבצים ואירועים כוללים שיתוף פעולה של חברי קבוצה. עם Yammer, לקבוצות Microsoft 365 יש יתרונות רבים מעל קבוצות Yammer שאינן מחוברות. לדוגמה, באפשרותך ליצור ול לארח אירועים חיים, לשחזר קבוצות שנמחקו, להשתמש בחברות דינאמית בקבוצה, בארכיון אוטומטי ולגשת למשאבים משותפים כגון Sharepoint, OneNote ו- Planner.
 
-* באפשרותך לדעת אם קבוצת קטרת מחוברת לקבוצות Microsoft 365 כאשר אתה רואה את המקטע **Office 365 resources** (Sharepoint, OneNote, designer) בניווט הנכון של הקבוצה. אם המשאבים אינם זמינים, בדוק את הפרטים הבאים.
+* באפשרותך לדעת אם קבוצת Yammer מחוברת לקבוצות Microsoft 365 כאשר אתה רואה את המקטע משאבים של **Office 365** (Sharepoint, OneNote, Planner) בניווט הנכון של הקבוצה. אם המשאבים אינם זמינים, בדוק את האפשרויות הבאות.
 
-  1. הרשת של קטרת חייבת להיות ב-1 דייר: תצורת רשת אחת. כדי לוודא שאתה נמצא בתצורת 1:1, השתמש **בכלי העברת הרשת** כמתואר [בהעברת הרשת-איחוד רשתות קטרת מרובות](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. רשת Yammer חייבת להיות בתצורת רשת של דייר אחד:1. כדי לוודא שאתה נמצא בתצורה של 1:1, השתמש בכלי **'העברת** רשת' כמתואר בהעברת רשת [- איחוד רשתות Yammer מרובות.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
-  2. אתר את **מנהל הרשת, הגדרת אבטחה**וודא **שהזהות של Office 365** נאכפת עבור משתמשי קטרת.
+  2. עבור אל **מנהל רשת, הגדרת אבטחה** וודא שזהות Office **365** נאכפת עבור משתמשי Yammer.
 
-לקבלת מידע נוסף אודות קבוצות Microsoft 365 ו-קטרת, ראה [קטרת ו-microsoft 365 groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). לקבלת מידע אודות ניהול קבוצה, ראה [ניהול קבוצה ב-קטרת](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+לקבלת מידע נוסף אודות קבוצות Microsoft 365 ו- Yammer, ראה [קבוצות Yammer ו- Microsoft 365.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) לקבלת מידע אודות ניהול קבוצה, ראה [ניהול קבוצה ב- Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

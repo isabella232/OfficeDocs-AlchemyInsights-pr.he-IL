@@ -1,8 +1,8 @@
 ---
-title: שימוש באפליקציית המאמת של Microsoft
+title: שימוש באפליקציית Microsoft Authenticator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 69ff8e3e0d9eeec2d39d1d5ddb4e4e540895d017
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62c981d616cc612b77922a8cbc4cedf4b3b87cf0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770084"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834336"
 ---
-# <a name="using-the-microsoft-authenticator-app"></a>שימוש באפליקציית המאמת של Microsoft
+# <a name="using-the-microsoft-authenticator-app"></a>שימוש באפליקציית Microsoft Authenticator
 
 היכנס לחשבון Microsoft האישי שלך באמצעות טביעת אצבע, זיהוי פנים או מספר זיהוי אישי.
 
-- [כיצד להשתמש באפליקציית המאמת של Microsoft](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
+- [כיצד להשתמש באפליקציית Microsoft Authenticator](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
 
-- [הגדר את יישום המאמת](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) על-ידי סריקת קוד ה-QR או על-ידי [הוספת חשבון באופן ידני](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual).  
+- [הגדרת אפליקציית Authenticator על-ידי](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) סריקת קוד ה- QR או [על-ידי הוספת חשבון באופן ידני.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual)  
 
-לקבלת מידע נוסף, עיין [במבט כולל על האפליקציה ' מאמת](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)'.
+לקבלת מידע נוסף, ראה מבט כולל [על יישום Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
