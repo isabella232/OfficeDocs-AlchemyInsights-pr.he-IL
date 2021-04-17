@@ -1,8 +1,8 @@
 ---
-title: 'הגדרות לוח המקשים ב-Windows 10 '
+title: 'הגדרות לוח מקשים ב- Windows 10 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772804"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832968"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>הגדרות לוח המקשים ב-Windows 10
+# <a name="keyboard-settings-in-windows-10"></a>הגדרות לוח מקשים ב- Windows 10
 
-**הגדרות הקלדה**
+**הגדרות סוג**
 
-כדי לשנות את הגדרות Windows הקשורות לבדיקת איות, תיקון אוטומטי, הצעות והיבטים אחרים של החומרה ומקלדת המגע, עבור אל **הגדרות > מכשירים > הקלדה**. 
+כדי לשנות את הגדרות Windows הקשורות ל בדיקת איות, תיקון אוטומטי, הצעות והיבטים אחרים של מקלדת החומרה וה במגע, עבור אל **הגדרות > מכשירים > הקלדה.** 
 
 **הגדרות שפה ולוח מקשים**
 
-כדי לשנות הגדרות הקשורות ללוח המקשים או לשיטת הקלט לשימוש עבור שפה של Windows, עבור אל **הגדרות _GT_ Time _AMP_ Language _GT_ language**. בחר שפות ברשימת **השפות המועדפות** ולחץ על **אפשרויות** להוספה/הסרה של לוחות מקשים או שיטות קלט (ime).
+כדי לשנות הגדרות הקשורות למקלדת או לפעולת הקלט שבה יש להשתמש עבור שפת Windows, **עבור אל הגדרות > זמן & שפה > שפה.** בחר שפות ברשימה שפות **מועדפת ולחץ על** אפשרויות כדי **להוסיף/להסיר** מקלדות או שיטות קלט (IMEs).
