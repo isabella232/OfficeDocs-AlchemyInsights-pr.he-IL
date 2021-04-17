@@ -1,8 +1,8 @@
 ---
-title: 'AIP: מעקב אחר וביטול הפורטל'
+title: 'AIP: מעקב אחר פורטל ותבטל אותו'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663154"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821592"
 ---
-# <a name="aip-track-and-revoke-portal"></a>AIP: מעקב אחר וביטול הפורטל
+# <a name="aip-track-and-revoke-portal"></a>AIP: מעקב אחר פורטל ותבטל אותו
 
-השתמש **באתר מעקב אחר מסמכים** בפורטל תכלת כדי לעקוב אחר מסמכים ולבטל אותם בעת שימוש בהגנה על מידע של תכלת. ניתן גם להשתמש ביישומי Office (Word, Excel ו-PowerPoint) ובסייר הקבצים כדי לעקוב אחר מסמכים ולבטל אותם.
+השתמש באתר **המעקב אחר מסמכים בפורטל** Azure כדי לעקוב אחר מסמכים ולבטל אותם בעת שימוש ב- Azure Information Protection. ניתן להשתמש גם ביישומים של Office (Word , Excel ו- PowerPoint) ובסייר הקבצים כדי לעקוב אחר מסמכים ולבטל אותם.
 
-1. באתר מעקב אחר מסמכים, לחץ על **ביטול גישה**. ביטול מסמך מסיר גישה ממשתמשים מורשים; המסמך לא נמחק.
+1. באתר המעקב אחר מסמכים, לחץ על **בטל גישה.** הסרת מסמך מסירה גישה ממשתמשים מורשים; המסמך אינו נמחק.
 2. ביישום Office:
-    - פתח את המסמך המוגן שברצונך לעקוב אחריו או לבטל.
-    - בכרטיסיה **בית** , בקבוצה **הגנה** , לחץ על **הגנה על _GT_ מעקב וביטול**.
+    - פתח את המסמך המוגן שברצונך לעקוב אחריו או לבטל אותו.
+    - בכרטיסיה **בית,** בקבוצה הגנה, **לחץ** על הגן **על > עקוב אחר ביטול**.
 
-- לקבלת מידע נוסף אודות מעקב אחר וביטול מסמך, ראה [מעקב וביטול](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
+- לקבלת מידע נוסף אודות מעקב אחר מסמך ובטל אותו, ראה [מעקב ו ביטול](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
 
-לקבלת מידע אודות שימוש ב-PowerShell לניהול אתר מעקב אחר מסמכים, רישום מידע, ראה הפרטים הבאים:
-- [מדריך המשתמש: מעקב אחר וביטול המסמכים שלך בעת שימוש בהגנה על מידע תכלת](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [מדריך ניהול: קביעת תצורה ושימוש במעקב אחר מסמכים עבור הגנה על מידע תכלת](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [רשיון לשימוש בניהול זכויות](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [סקירת מנויים ותכונות של הגנה על מידע תכלת](https://azure.microsoft.com/pricing/details/information-protection)
-- [דרישות עבור הגנה על מידע של תכלת](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [ערכת לימוד של התחלה מהירה עבור הגנה על מידע תכלת](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+לקבלת מידע אודות השימוש ב- PowerShell כדי לנהל את אתר המעקב אחר מסמכים, פרטי רישום, עיין בנושאים הבאים:
+- [מדריך למשתמש: מעקב אחר מסמכים ובטל אותם בעת שימוש ב- Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [מדריך הניהול: קביעת תצורה של מעקב אחר מסמכים והשימוש בו עבור Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [רשיון שימוש בניהול זכויות](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [סקירת מנויים ותכונות של Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)
+- [דרישות עבור Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [ערכת לימוד להתחלה מהירה עבור Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

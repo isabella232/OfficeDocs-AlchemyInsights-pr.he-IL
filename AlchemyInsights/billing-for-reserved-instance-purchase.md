@@ -1,8 +1,8 @@
 ---
-title: רכישת מופע של חיוב עבור מופע שמור
+title: חיוב עבור רכישה של מופע שמור
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,104 +12,104 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 6cdcb5af27a475cc838eb434ff025eb18356360c
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823076"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820323"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>רכישת מופע של חיוב עבור מופע שמור
+# <a name="billing-for-reserved-instance-purchase"></a>חיוב עבור רכישה של מופע שמור
 
-רכישת המופע השמור מחויבת לשיטת התשלום הקשורה למנוי שבחרת בזמן הרכישה. סוג המנוי חייב להיות הסכם ארגוני (מספר הצעה: MS-AZR-0017P), תשלום לפי-לך-Go (הצעה מספר: MS-AZR-0003P), הסכם לקוח של Microsoft או CSP.
+הרכישה של המופע השמור מחויבת בשיטת התשלום הקשורה למנוי שתבחר בעת הרכישה. סוג המנוי חייב להיות הסכם ארגוני (מספר הצעה: MS-AZR-0017P), Pay-As-You-Go (מספר הצעה: MS-AZR-0003P), הסכם הלקוח של Microsoft או CSP.
 
-- עבור מנוי ארגוני, החיובים מנוכה מיתרת המחויבות המוניטרית של ההרשמה או מחויבת להיטען
-- עבור מנוי בתשלום כפי שתרצה, החיובים מחויבים לשיטת התשלום של כרטיס האשראי או החשבונית במנוי
+- עבור מנוי ארגוני, החיובים מנוקטים מהיתרה של ההתחייבות המוניוטרית של ההרשמה או מחויבים כתשלום יתר
+- עבור מנוי Pay-As-You-Go, החיובים חויבו בכרטיס האשראי או בשיטת התשלום בחשבונית במנוי
 
-**ביטול הזמנה**
+**ביטול ההזמנה**
 
-- **שירות עצמי:** באפשרותך לבטל או להחליף מופע שמור בעצמך באמצעות [הפורטל התכלת](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). בחר את ההזמנה ולחץ על החזר או על exchange. שים לב שעליך להיות בעל גישה לבעלים בהזמנת ההזמנה כדי לבצע החלפה או החזר. גישה רק להזמנה לא תאפשר לך להמשיך בהחזר או ב-exchange. בקש מהבעלים של הזמנת ההזמנות להעניק לך גישה לבעלים להזמנת ההזמנה
-- **מדיניות Exchange:** באפשרותך להחליף הזמנה להזמנה אחרת מאותו סוג – אין **קנסות** על חילופי הזמנות. המחויבות הכוללת של ההזמנה החדשה צריכה להיות גדולה יותר מהסכום של סכום ההחזר של ההזמנה שחלפה והתשלומים החודשיים העתידיים (אם ישים)
-- **מדיניות החזר:** סכום ההחזר הכספי והתשלומים העתידיים שבוטלו אינם יכולים לחרוג מ-$50,000 USD בחלון מתגלגל של 12 חודשים. אנחנו **לא גובים כל עונש** על החזרים, אך הם יכולים לחייב אותו על החזרים עתידיים
+- **שירות עצמי:** באפשרותך לבטל או להחליף מופע שמור בעצמך באמצעות [פורטל Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). בחר את ההזמנה ולחץ על החזר או על החלפה. שים לב כי עליך לקבל גישה לבעלים בהזמנה כדי להחליף או להחזיר. Access רק ההזמנה לא תיתן לך להמשיך עם החזר או החלפה. בקש מהבעלים של הזמנת ההזמנה להעניק לך גישה לבעלים להזמנה
+- **מדיניות Exchange:** ניתן להחליף הזמנה עבור הזמנה אחרת מאותו סוג – אין קנסות **בחילופי** הזמנות. ההתחייבות הכוללת עם הזמנה חדשה צריכה להיות גדולה מסכום ההחזר של ההזמנה ההחלפה והתשלום החודשי העתידי (אם ישים)
+- **מדיניות החזר:** סכום ההחזר והתשלום העתידי שבוטלו אינם יכולים לעלות על 50,000 דולר בחלון גלגול של 12 חודשים. בשלב **זה, איננו מחייבים קנס על** החזרים, אך אנו יכולים לחייב אותו על החזרים עתידיים
 
-**חריגים:** יכולת exchange וביטול של שירות עצמי אינה זמינה עבור לקוחות הסכם ארגוני של ממשלת ארה"ב
+**חריגות:** יכולת החלפה וביטול בשירות עצמי אינה זמינה עבור לקוחות הסכם ארגוני ממשלתי של ארה"ב
 
-- התמיכה ב- **API/PS/CLI** אינה זמינה לביטול ולזיכוי [של חילופים והחזרים בשירות עצמי עבור הזמנות של שירותים בתכלת](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- יכולת exchange וביטול של שירות עצמי אינה זמינה עבור לקוחות הסכם ארגוני של ממשלת ארה"ב. סוגי מנויים אחרים של ממשלת ארצות הברית, כולל התמיכה בתשלום-לפי-לך ובCSP
+- **תמיכה ב- API / PS / CLI** אינה זמינה עבור ביטולים והחזרים של החליפין בשירות עצמי [והחזרים כספיים עבור Azure Reservations](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- יכולת החלפה וביטול בשירות עצמי אינה זמינה עבור לקוחות הסכם ארגוני ממשלתי של ארה"ב. סוגי מנויים אחרים של ממשלת ארה"ב, כולל Pay-As-You-Go ו- CSP, נתמכים
 
-[מידע נוסף: אופן העיבוד של טרנזקציות return ו-exchange מידע](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) נוסף: [exchange והחזר מדיניות](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) שאלות נוספות: [בקר במסמכי מופע שמורים](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+קבל מידע נוסף : [כיצד מתבצע עיבוד של עסקאות](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) החזרה וחילופי מידע נוסף : מדיניות [Exchange](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) והחזר שאלות נוספות: בקר במסמך [מופעים שמורים](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **החלפת מופע שמור קיים (שירות עצמי)**
 
-באפשרותך להחליף הזמנה להזמנה אחרת מאותו סוג. באפשרותך גם להחזיר הזמנה, עד $50,000 USD בשנה, אם אינך זקוק לה עוד. יכולת exchange וביטול של שירות עצמי אינה זמינה עבור לקוחות הסכם ארגוני של ממשלת ארה"ב. סוגי מנויים אחרים של ארצות הברית, כולל התמיכה בתשלום לפי-הנסיעה ו-CSP. עליך להיות בעל גישה לבעלים בהזמנת ההזמנה כדי להחליף או להחזיר הזמנה קיימת.
+באפשרותך להחליף הזמנה עבור הזמנה אחרת מאותו סוג. באפשרותך גם להחזיר הזמנה, עד 50,000 דולר לשנה, אם אינך זקוק לה עוד. יכולת החלפה וביטול בשירות עצמי אינה זמינה עבור לקוחות הסכם ארגוני ממשלתי של ארה"ב. סוגי מנויים אחרים של ממשלת ארה"ב, כולל Pay-As-You-Go ו- CSP, נתמכים. כדי להחליף או להחזיר הזמנה קיימת, עליך לקבל גישה לבעלים בהזמנה.
 
-השלבים הבאים ינחו לגבי ההליך להשלמת הטרנזקציה
+השלבים הבאים מדריכים את ההליך להשלמת העסקה
 
-1. היכנס [לפורטל התכלת](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). בחר את ההזמנות שברצונך להחזיר ולחץ על **Exchange** 2. בחר את מוצר ה-VM שברצונך לרכוש והקלד כמות. ודא שסכום הרכישה החדש הוא יותר מסכום ההחזרה [הקובע את הגודל הנכון לפני הרכישה](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
-3. סקור והשלם את הטרנזקציה
+1.היכנס לפורטל [Azure שלך.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) בחר את ההזמנות שברצונך להחזיר ולחץ על **Exchange** 2.בחר את מוצר ה- VM שברצונך לרכוש והקלד כמות. ודא שסכום הרכישה החדש גדול מסכום ההחזרה [קבע את הגודל הנכון לפני הרכישה.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+3.סקור והשלם את העסקה
 
-**החזר כספי עבור מופע שמור**
+**החזר עבור מופע שמור**
 
-כדי להחזיר הזמנה, עבור אל **פרטי ההזמנה** ולחץ על **החזר כספי**
+כדי להחזיר הזמנה, עבור אל פרטי **ההזמנה ולחץ** על **החזר**
 
-**החזר Pro-מדורג:**
+**החזר פרו-דירוג:**
 
-**דוגמאות לדרישת מינימום ודרישות מינימום להחזר ולהחלפה** דוגמה להזמנה מראש:
+**דוגמאות לדרישות Pro-ration ודרישות מינימליות עבור החזר והחלפה** דוגמה להזמנה מראש:
 
-- באפשרותך לרכוש RI של שנה אחת עבור $120 ב-1 בינואר
-- ב-7 באפריל ברצונך לקבל החזר או להחליף הזמנה זו
-- מאחר שההזמנה חיה במשך 97 ימים, תקבל (1-97/365) * $120 בחזרה. (i.e. $88.1). אין כרגע עונש על החזרים
-- אם החלפת הרכוש, הרכישה החדשה צריכה להיות גדולה מ-$88.1
-- אין כל עונש על החזרים כרגע
+- אתה רוכש RI לשנה אחת עבור $120 ב- 1 בינואר
+- ב- 7 באפריל ברצונך להחזיר או להחליף הזמנה זו
+- מאחר שה ההזמנה חיה במשך 97 ימים, אתה מקבל (1-97/365) * $120 בחזרה. (כלומר$ 88.1). בשלב זה אין קנס על החזרים
+- אם אתה מחליף, הרכישה החדשה צריכה להיות גדולה מ- $88.1
+- אין קנס על החזרים בשלב זה
 
-**דוגמה להזמנה לתוכנית חיוב:**
+**דוגמה להזמנה של תוכנית חיוב:**
 
-- באפשרותך לרכוש רי מונח של שנה אחת עבור $10 לכל חודש
-- ב-7 באפריל ברצונך לקבל החזר או להחליף הזמנה זו
-- מאחר שהתשלום האחרון אירע 7 ימים, תקבל (1-7/31) * $10 בחזרה. (לדוגמה, $7.74)
-- התשלומים העתידיים שבוטלו הם $80. אין כרגע עונש על החזרים
-- ביטול זה יפחית את הנכות של $87.74 שאתה מגבלת $50,000 ההחזר
-- אם החלפת, הערך הכולל של רכישה חדשה אמור להיות גדול מ-$87.74
+- אתה רוכש RI לשנה אחת עבור $10 לחודש
+- ב- 7 באפריל ברצונך להחזיר או להחליף הזמנה זו
+- מאחר שהתשלום האחרון התרחש 7 ימים, אתה מקבל (1-7/31) * $10 בחזרה. (כלומר$ 7.74)
+- התשלומים העתידיים שבוטלו הם 80 $. בשלב זה אין קנס על החזרים
+- ביטול זה יכוך $87.74 ממגבלת ההחזר בסך $50,000
+- אם אתה מחליף, הערך הכולל של רכישה חדשה אמור להיות גדול מ- $87.74
 
 **לא ניתן לראות חשבונית עבור תקופת החיוב האחרונה**
 
-כמה סיבות אפשריות לכך שייתכן שלא תראה חשבונית:
+כמה סיבות אפשריות לכך שלא תראה חשבונית:
 
-- יש לך כמות אשראי חודשית עם המנוי שלך שלא חרגת ממנו או אם יש לך גירסת ניסיון ללא תשלום. חשבונית נוצרת רק כאשר אתה חייב כסף
-- זה פחות מ-30 יום מהיום שבו נרשמת כמנוי לתכלת
-- החשבונית אינה מופקת עדיין. המתן עד לסיום תקופת החיוב
-- אם אינך מנהל החשבון, ייתכן שהחשבוניות הקודמות לא יהיו זמינות עבורך
+- יש לך סכום אשראי חודשי עם המנוי שלך שלא לחרוג או שיש לך גירסת ניסיון ללא תשלום. חשבונית נוצרת רק כאשר אתה חייב כסף
+- עברו פחות מ- 30 יום מהיום שבו נרשמת כמנוי ל- Azure
+- החשבונית עדיין לא נוצרה. המתן עד סוף תקופת החיוב
+- אם אינך מנהל החשבון, ייתכן שחשבוניות ישנות יותר לא יהיו זמינות לך
 
-**הורדת החשבונית שלך מפורטל התכלת (. pdf)**
+**הורד את החשבונית שלך מפורטל Azure ( .pdf)**
 
-- בחר את המנוי שלך מהדף ' [מנויים](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ' בפורטל התכלת [כמשתמש עם גישה לחשבוניות](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- בחירת **חשבוניות**
-- לחץ על **הורד חשבונית** כדי להציג עותק של חשבונית ה-PDF שלך. אם ההודעה **אינה זמינה** , ראה [מדוע איני רואה חשבונית עבור תקופת החיוב האחרונה?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- בחר את המנוי שלך [מהדף מנויים](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) בפורטל Azure [כמשתמש בעל גישה לחשבוניות](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- בחר **חשבוניות**
+- לחץ **על הורד חשבונית** כדי להציג עותק של חשבונית ה- PDF שלך. אם כתוב **"לא זמין",** ראה מדוע איני רואה [חשבונית עבור תקופת החיוב האחרונה?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
-**קבלת החשבונית שלך בדואר אלקטרוני (. pdf)**
+**קבלת החשבונית בדואר אלקטרוני ( .pdf)**
 
-- בחר את המנוי שלך מהדף ' [מנויים](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) '. לחץ על **חשבוניות** ולאחר מכן שלח בדואר אלקטרוני את החשבונית שלי
-- לחץ על **הצטרפות** וקבל את התנאים. יהיה עליך להצטרף עבור כל מנוי שבבעלותך
+- בחר את המנוי שלך [מהדף מנויים.](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) לחץ **על חשבוניות ולאחר מכן** שלח את החשבונית שלי בדואר אלקטרוני
+- לחץ **על ההצטרפות** וקבל את התנאים. יהיה עליך להצטרף לכל מנוי בבעלותך
 
 הערה: אם אינך מקבל הודעת דואר אלקטרוני לאחר ביצוע השלבים, ודא שכתובת הדואר האלקטרוני שלך נכונה [בהעדפות התקשורת בפרופיל שלך](https://account.windowsazure.com/profile)
 
-**הורדת נתוני השימוש שלך מפורטל התכלת**
+**הורד את נתוני השימוש שלך בפורטל Azure**
 
-- כניסה [למרכז החשבון](https://account.windowsazure.com/Subscriptions) של תכלת [כמנהל החשבון](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- היכנס למרכז [החשבון של Azure כמנהל](https://account.windowsazure.com/Subscriptions) [החשבון](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
 - בחר את המנוי שעבורו ברצונך לקבל את פרטי החשבונית והשימוש
-- בחר **היסטוריית חיוב**
-- בחר באפשרות **הצג משפט נוכחי** כדי לראות הערכה של החיובים שלך בזמן שההערכה נוצרה
+- בחר **היסטוריית חיובים**
+- בחר **הצג משפט נוכחי** כדי לראות הערכה של החיובים שלך בעת יצירת ההערכה
 - בחר **הורד שימוש** כדי להוריד את נתוני השימוש היומיים כקובץ CSV. אם אתה רואה שתי גירסאות זמינות, הורד את גירסה 2
 
-שאלות נוספות: [בקר במסמכי מופע שמורים](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+שאלות אחרות: [בקר במסמך מופעים שמורים](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **מסמכים מומלצים**
 
 - [יסודות החיוב](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [הכרת אופן ההחלה של הנחת המופע השמור](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [הורדה או הצגה של חשבונית החיוב של התכלת ונתוני השימוש היומיומיים](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [הכרת אופן ההחלה של הנחת המופע השמור](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [הכרת השימוש במופעים השמורים עבור מנוי התשלום כפי שאתה עושה](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [הכרת השימוש במופע השמור עבור הרשמת הארגון שלך](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [עלויות תוכנה של Windows שאינן כלולות במופעים שמורים](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [המופעים השמורים בתוכנית ספק פתרונות הענן המרכזי של השותפים (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [הבנת אופן ההחלה של הנחת מופע שמור](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [הורדה או הצגה של חשבונית החיוב של Azure וניתוני שימוש יומיים](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [הבנת אופן ההחלה של הנחת מופע שמור](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [הבנת השימוש במופע שמור עבור מנוי Pay-As-You-Go שלך](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [הבנת השימוש במופע שמור עבור ההרשמה שלך לארגון](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [עלויות התוכנה של Windows אינן כלולות במופעים שמורים](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [מופעים שמורים בתוכנית ספק פתרונות ענן מרכזי שותף (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)

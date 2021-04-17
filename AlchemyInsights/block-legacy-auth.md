@@ -2,7 +2,7 @@
 title: BlockLegacyAuth
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685599"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820179"
 ---
 # <a name="blocking-legacy-authentication"></a>חסימת אימות מדור קודם
 
-אימות מדור קודם הוא מונח המפנה לבקשת אימות שבוצעה על-ידי:
+אימות מדור קודם הוא מונח המפנה לבקשת אימות שהתבקשה על-ידי:
 
-- לקוחות Office ישנים יותר שאינם משתמשים באימות מודרני (לדוגמה, לקוח Office 2010).
+- לקוחות Office ישנים יותר שלא משתמשים באימות מודרני (לדוגמה, לקוח Office 2010).
 
-- כל לקוח המשתמש בפרוטוקולי דואר מדור קודם כגון IMAP/SMTP/POP3.
+- כל לקוח שמשתמש בפרוטוקולי דואר מדור קודם כגון IMAP/SMTP/POP3.
 
-לקבלת מידע נוסף אודות חסימת אימות מדור קודם והפיכת אימות מודרני לזמינה, ראה [חסימת אימות מדור קודם](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+לקבלת מידע נוסף אודות חסימת אימות מדור קודם והפעלת אימות מודרני, עיין [בחסימת אימות מדור קודם](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
 
-ברירות מחדל של אבטחה ב-תכלת Active Directory (תכלת לספירה) מאפשרות לך להיות מאובטח יותר ולסייע בהגנה על הארגון שלך. ברירות מחדל של אבטחה מכילות הגדרות אבטחה מוגדרות מוגדרות להתקפות נפוצות.
-לקבלת מידע נוסף אודות ברירות מחדל של אבטחה, עיין במאמר [מה הם ברירות מחדל של אבטחה?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+ברירות מחדל של אבטחה ב- Azure Active Directory (Azure AD) מקלות עליך להיות מאובטח ולעזור להגן על הארגון שלך. ברירות מחדל של אבטחה מכילות הגדרות אבטחה מוגדרות מראש עבור התקפות נפוצות.
+לקבלת מידע נוסף אודות ברירות מחדל של אבטחה, ראה [אילו ברירות מחדל של אבטחה?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
 
-**הערה**: אם הדייר שלך נוצר ב-22 באוקטובר או אחרי ה-22 באוקטובר, 2019, ייתכן שאתה נתקל בהתנהגות המאובטחת החדשה המאובטחת כברירת מחדל ושכבר קיימות ברירות מחדל של אבטחה הזמינות בדייר שלך.  בניסיון להגן על כל המשתמשים שלנו, ברירות המחדל של האבטחה מסוכמות לכל הדיירים החדשים שנוצרו.
+**הערה:** אם הדייר שלך נוצר ב- 22 באוקטובר 2019 או לאחר מכן, ייתכן שאתה חווה את אופן הפעולה החדש של secure-by-default וכבר יש לך ברירות מחדל של אבטחה זמינות בדייר שלך.  במאמץ להגן על כל המשתמשים שלנו, ברירות המחדל של האבטחה מוגלות לכל הדיירים החדשים שנוצרו.

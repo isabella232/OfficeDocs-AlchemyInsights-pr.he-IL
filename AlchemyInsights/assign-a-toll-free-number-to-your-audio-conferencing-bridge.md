@@ -2,21 +2,22 @@
 title: הקצה מספר טלפון לחיוג חינם עבור גשר ועידות השמע שלך.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: f911e341ce1d370107c551dff719a06dbafb9c93
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911402"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821115"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>הקצה מספר טלפון לחיוג חינם עבור גשר ועידות השמע שלך.
 
