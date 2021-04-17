@@ -2,7 +2,7 @@
 title: הפעלת מכשיר חדש
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668383"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823284"
 ---
 # <a name="activating-a-new-device-running-windows-10"></a>הפעלת מכשיר חדש שבו פועל Windows 10
 
-אם קנית מכשיר חדש שפועל בו Windows 10, הוא יופעל באופן אוטומטי בעת חיבור המכשיר לאינטרנט. אם שרתי ההפעלה עסוקים, ייתכן שיהיה עליך להמתין זמן מה להפעלת Windows.
+אם קנית מכשיר חדש שבו פועל Windows 10, הוא יופעל באופן אוטומטי בעת חיבור המכשיר לאינטרנט. אם שרתי ההפעלה עמוסים, ייתכן שתצטרך להמתין זמן מה עד ש- Windows יופעל.
 
-כדי לבדוק את מצב ההפעלה **, בחר** **Settings**  >  **Update & security**  >  **הפעלת**עדכון הגדרות אבטחה של &.
+כדי לבדוק את מצב ההפעלה, בחר **התחל** **הגדרות** עדכון  >  **& הפעלת**  >  **אבטחה**.
 
-**הערה:** במקרים מסוימים, ייתכן שיהיה עליך להזין את מפתח המוצר של Windows 10 המצורף לאריזת ההתקן, או ככרטיס או בתעודת המקוריות (COA) המצורפת למכשיר.
+**הערה:** במקרים מסוימים, ייתכן שיהיה עליך להזין את מפתח המוצר של Windows 10 שהגיע עם אריזת המכשיר, או כלול ככרטיס או באישור המקוריות (COA) המחובר למכשיר.
 
-[קבל מידע נוסף על הפעלה ב-Windows 10](https://support.microsoft.com/help/12440)
+[קבל מידע נוסף על הפעלה ב- Windows 10](https://support.microsoft.com/help/12440)

@@ -1,8 +1,8 @@
 ---
-title: הצטרפות לפגישות של Teams
+title: הצטרפות לפגישות Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: a27c6ac118608a6f4ce85b38c2ddaa2bd8f80b4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa0cb4aa9a76cf1e18eafb73273c2fe5cc6a6df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772912"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824004"
 ---
-# <a name="join-a-meeting-in-teams"></a>הצטרפות לפגישה ב-Teams
+# <a name="join-a-meeting-in-teams"></a>הצטרפות לפגישה ב- Teams
 
-כדי להצטרף לפגישת Teams, הגדר תחילה את מדיניות הפגישה ולאחר מכן ישירות משתמשים להצטרף מהמכשירים המועדפים שלהם:
+כדי להצטרף לפגישה של Teams, הגדר תחילה מדיניות פגישה ולאחר מכן כוון משתמשים להצטרף מהמכשירים המועדפים שלהם:
 
-- הגדר פריטי מדיניות פגישה השולטים על מי יוכלו להצטרף לפגישה [כמשתתפים או כאורחים](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
+- הגדר מדיניות פגישה שקבעה מי יוכל להצטרף לפגישה [כמשתתפים או כאורחים.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests) 
 
-- השתמש [ברכיבי](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) ה-Cmdlet של Microsoft teams PowerShell כדי לבצע שינויי מדיניות.    
+- השתמש [ברכיבי ה- cmdlet של](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft Teams PowerShell כדי לבצע שינויי מדיניות.    
 
-**הערה:** אפשרות זו יכולה להימשך עד 24 שעות כדי ששינויי מדיניות ייכנסו לתוקף.
+**הערה:** 24 שעות עד ששינויי מדיניות ייכנסו לתוקף.

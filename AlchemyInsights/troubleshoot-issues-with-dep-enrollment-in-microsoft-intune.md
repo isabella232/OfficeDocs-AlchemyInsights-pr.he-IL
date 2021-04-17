@@ -1,8 +1,8 @@
 ---
-title: פתרון בעיות בהרשמת DEP ב-Microsoft intune
+title: פתרון בעיות בהרשמה ל- DEP ב- Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,21 +13,21 @@ ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.custom:
 - "783"
 - "6200002"
-ms.openlocfilehash: f76e47c2a3007175ae1bfbd9d20cb59513eb713b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 27abeafba5588ca74569ba6bebc5d940b767ea3f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708711"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824508"
 ---
-# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>פתרון בעיות בהרשמת DEP ב-Microsoft intune
+# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>פתרון בעיות בהרשמה ל- DEP ב- Microsoft Intune
 
 סקור את המשאבים המפורטים להלן כדי לפתור את הבעיה כעת.
   
-1. אם להתקן DEP אין אפשרות להירשם ולתואר שאינו מקומי (אימות רב-גורמי) זמין, בטל את התכונה ' ביטול תואר שולי '. בשלב זה, משרד החוץ אינו נתמך עבור הרשמת DEP
+1. אם התקן DEP אינו מצליח להירשם ו- MFA (אימות רב-גורמי) זמין, הפוך את MFA ללא זמין. כעת MFA אינו נתמך עבור הרשמה ל- DEP
 
-2. השתמש [בפורטל לפתרון בעיות](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) ב-intune כדי לאבחן ולפתור כשלונות הרשמה נפוצים. סקור [מסמך זה](https://docs.microsoft.com/intune/help-desk-operators) לקבלת פרטים נוספים.
+2. השתמש [בפורטל פתרון הבעיות של Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) כדי לאבחן ולפתור כשלי הרשמה נפוצים. סקור [מסמך זה](https://docs.microsoft.com/intune/help-desk-operators) לקבלת פרטים נוספים.
 
-3. סקור מסמכים אלה לקבלת רשימה של שגיאות נפוצות המונעות הרשמה ורזולוציות לכל אחת מהן: [מדריך לפתרון בעיות ומדריך](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) [לפתרון בעיות](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
+3. סקור מסמכים אלה לקבלת רשימה של שגיאות נפוצות שמונעות הרשמה ופתרונות לכל אחד מהם: [מדריך פתרון בעיות](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) [ומסמך פתרון בעיות](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-4. [למד אודות התוכנית להרשמת מכשירים](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).
+4. [למד אודות תוכנית ההרשמה למכשירים](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).

@@ -2,7 +2,7 @@
 title: הגדרות מדיניות פגישה
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39151d3a56cc09a8ae2dd77fb7bf1e99066cc77a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704607"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825444"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>ניהול מדיניות פגישה ב-Microsoft Teams
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>ניהול מדיניות פגישה ב- Microsoft Teams
 
-**הערה: אפשרות זו יכולה להימשך עד 24 שעות כדי ששינויי מדיניות ייכנסו לתוקף עבור משתמשים.** ייתכן שלא תוכל לבצע שינויים בפריטי מדיניות חדשים שנוצרו באופן מיידי; המתן 4 שעות ונסה לשנות מדיניות חדשה שנוצרה שוב.
+**הערה: שינויים במדיניות ייכנסו לתוקף עבור המשתמשים עד 24 שעות.** ייתכן שלא תוכל לבצע שינויים במדיניות חדשה שנוצרה באופן מיידי; המתן 4 שעות ותנסי שוב לשנות מדיניות חדשה שנוצרה.
 
-פריטי מדיניות של פגישה משמשים לשליטה בתכונות הזמינות למשתתפים בפגישה לפגישות המתוזמנות על-ידי משתמשים בארגון שלך. ייתכן שתכונות מסוימות של פריטי מדיניות פגישה לא יושמו במרכז הניהול של Teams עדיין (אלה מסומנות "בקרוב" בתיעוד). במקרה זה, או אם אתה מקבל שגיאה כגון "לא ניתן לעדכן את המדיניות כעת, אך נסה שוב מאוחר יותר" במרכז הניהול של Microsoft Teams, מומלץ להשתמש ב-PowerShell כדי ליצור או לשנות מדיניות של פגישות של Teams. 
+מדיניות פגישה משמשת לשליטה בתכונות הזמינות למשתתפי הפגישה עבור פגישות המתוזמנות על-ידי משתמשים בארגון שלך. ייתכן שתכונות מסוימות של מדיניות פגישה עדיין לא יושמו במרכז הניהול של Teams (אלה מסומנות כ"בקרוב" בתיעוד). במקרה זה, או אם אתה מקבל שגיאה כמו "אין לנו אפשרות לעדכן את המדיניות כעת, אך נסה אותה שוב מאוחר יותר" במרכז הניהול של Microsoft Teams, מומלץ להשתמש ב- PowerShell כדי ליצור או לשנות את מדיניות הפגישה של Teams. 
 
 לקבלת מידע נוסף אודות מדיניות פגישה, עיין במשאבים הבאים:
 
-- כדי ללמוד אודות יצירת מדיניות, ביצוע שינויים והקצאת משתמשים למדיניות, ראה [ניהול מדיניות פגישה ב-teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- כדי ללמוד אודות יצירת פריטי מדיניות, ביצוע שינויים והקצאת משתמשים למדיניות, ראה [ניהול מדיניות פגישה ב- Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
-- כדי לבצע שינויים במדיניות באמצעות רכיבי cmdlet של PowerShell, ראה [מבט כולל על teams powershell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - עליך להשתמש במודול מדיניות הפגישה של [Skype For Business PowerShell](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) עבור teams. 
-    - סקור את [התיעוד של ' רכיבי cmdlet של CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) לקבלת מידע נוסף.
+- כדי לבצע שינויי מדיניות באמצעות כלי cmdlet של PowerShell, ראה [מבט כולל על Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - עליך להשתמש במודול [Skype for Business PowerShell עבור](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) פריטי מדיניות פגישה של Teams. 
+    - עיין [בתיעוד ה- cmdlets של *-CsTeamsMeetingPolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) לקבלת מידע נוסף.
 

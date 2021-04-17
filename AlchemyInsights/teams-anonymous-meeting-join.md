@@ -1,8 +1,8 @@
 ---
-title: אפשר או מנע ממשתמשים אנונימיים להצטרף לפגישות של Teams
+title: אפשר או מנע ממשתמשים אנונימיים להצטרף לפגישות Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669897"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824760"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>אפשר או מנע ממשתמשים אנונימיים להצטרף לפגישות של Teams
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>אפשר או מנע ממשתמשים אנונימיים להצטרף לפגישות Teams
 
-באפשרותך לקבוע הגדרות הצטרפות לפגישה אנונימית במרכז הניהול של Teams.
+באפשרותך לשלוט בהגדרות ההצטרפות לפגישה אנונימית במרכז הניהול של Teams.
 
-**ייתכן שיחלפו עד 24 שעות כדי שהשינוי ייכנס לתוקף.**
+**ייתכן ששינוי זה יתוקף עד 24 שעות.**
 
-1.  עבור אל [מרכז הניהול של teams](https://admin.teams.microsoft.com)
-2.  בניווט הימני, עבור אל **Meetings**   >   **הגדרות פגישה**של פגישות.
-3.  תחת  **משתתפים**, הפעל  **משתמשים אנונימיים יכולים להצטרף לפגישה**.
+1.  עבור אל [מרכז הניהול של Teams](https://admin.teams.microsoft.com)
+2.  בניווט הימני, עבור אל **הגדרות**   >   **פגישת פגישות**.
+3.  תחת **משתתפים**, הפעל משתמשים **אנונימיים יכולים להצטרף לפגישה.**
