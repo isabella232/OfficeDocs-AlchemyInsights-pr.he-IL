@@ -2,7 +2,7 @@
 title: ProxyAddress שגוי
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: e0552b9d4ba1beeda14f6a46773060aede43e928
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cb2b9f1980a121c21285e54e52f8403a48e4906
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801509"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828937"
 ---
 # <a name="proxyaddress-incorrect"></a>ProxyAddress שגוי
 
-כאשר אובייקט מסתנכרן עם תכלת לספירה, הערכים המצוינים בתכונה proxyAddresses ב-Active Directory מושווים לכללי הפרסום של התכלת ולאחר מכן התכונה proxyAddresses מאוכלסת ב-תכלת AD. לכן, ייתכן שהערכים של התכונה proxyAddresses עבור האובייקט ב-Active Directory אינם זהים לערכים של התכונה proxyAddresses בתכלת לספירה.
+כאשר אובייקט מסונכרן עם Azure AD, הערכים שצוינו בתכונה proxyAddresses ב- Active Directory מושווים לכללי Azure AD ולאחר מכן התכונה proxyAddresses מאוכלסת ב- Azure AD. לכן, ייתכן שהערכים של התכונה proxyAddresses עבור האובייקט ב- Active Directory לא יהיו זהים לערכים של התכונה proxyAddresses ב- Azure AD.
   
-לקבלת מידע נוסף על אופן האכלוס של proxyaddress, ראה [כיצד התכונה proxyaddress מאוכלסת בתכלת לספירה](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
+כדי ללמוד עוד אודות האופן בו ה- proxyaddress מאוכלס, ראה [כיצד התכונה proxyAddress מאוכלסת ב- Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
   
 

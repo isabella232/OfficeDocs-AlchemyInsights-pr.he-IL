@@ -1,8 +1,8 @@
 ---
-title: Teams עבור תשתית שולחן עבודה וירטואלית
+title: Teams for Virtualized Desktop Infrastructure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736433"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829413"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams עבור תשתית שולחן עבודה וירטואלית
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams for Virtualized Desktop Infrastructure
 
-לקבלת מידע מפורט על Teams עבור סביבות תשתית שולחן עבודה וירטואליזציה, ראה [teams עבור תשתית שולחן עבודה וירטואלי](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
+לקבלת מידע מפורט אודות סביבות תשתית שולחן עבודה וירטואלית של Teams, ראה [Teams for Virtualized Desktop Infrastructure](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
 
-בעיות ידועות ומגבלות בסביבות VDI מפורטות בסעיף ' [בעיות ידועות ומגבלות ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) ' באותו מאמר, הכולל את הנושאים הבאים:
- - פריסת לקוח, התקנה והגדרה
+בעיות ידועות ומגבלות בסביבות VDI מפורטות בסעיף בעיות [ומגבלות ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) ידועות של אותו מאמר, הכולל את הנושאים הבאים:
+ - פריסה, התקנה והגדרה של לקוח
  - שיחות ופגישות

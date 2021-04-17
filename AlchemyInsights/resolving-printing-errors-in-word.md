@@ -1,8 +1,8 @@
 ---
-title: פתרון שגיאות הדפסה ב-Word
+title: פתרון שגיאות הדפסה ב- Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720863"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828693"
 ---
-# <a name="resolving-print-failures-in-word"></a>פתרון כשלים בהדפסה ב-Word
+# <a name="resolving-print-failures-in-word"></a>פתרון כשלי הדפסה ב- Word
 
-אם אתה מקבל שגיאות בעת הדפסה ב-Word, נסה להדפיס ממסמך בדיקה חדש כדי לקבוע אם הבעיה קשורה למסמך ספציפי.
+אם אתה מקבל שגיאות בעת הדפסה ב- Word, נסה להדפיס ממסמך מחשב חדש כדי לקבוע אם הבעיה שלך קשורה למסמך ספציפי.
 
-- אם באפשרותך להדפיס ממסמך הבדיקה אך עדיין אינך מצליח להדפיס את המסמך המקורי, ייתכן שהמסמך המקורי ניזוק. בצע את ההוראות המפורטות [בפתרון בעיות במסמכים פגומים ב-Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
-- אם עדיין אינך מצליח להדפיס, בצע את ההוראות המופיעות [בפתרון בעיות הדפסה של כשלים ב-Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) כדי לאבחן ולפתור את הבעיה.
+- אם באפשרותך להדפיס ממסמך מחשב אך עדיין אינך יכול להדפיס את המסמך המקורי, ייתכן שהמסמך המקורי פגום. בצע את ההוראות [המפורטות בפתרון בעיות במסמכים פגומים ב- Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).
+- אם עדיין אינך יכול להדפיס, בצע את ההוראות המופיעות בפתרון [בעיות של כשלי](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) הדפסה ב- Word כדי לאבחן ולפתור את הבעיה.

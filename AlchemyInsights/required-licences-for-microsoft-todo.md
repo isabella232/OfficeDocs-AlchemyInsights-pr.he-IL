@@ -1,8 +1,8 @@
 ---
-title: רשיונות דרושים עבור Microsoft ToDo
+title: רשיונות נדרשים עבור Microsoft ToDo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,18 +14,18 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 490f1b2284c99d5f6b90b1cd3ac9ad526bda97d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692296"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828765"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>רשיונות דרושים עבור Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>רשיונות נדרשים עבור Microsoft ToDo
 
-[רשיונות דרושים עבור Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[רשיונות נדרשים עבור Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-משתמש חייב להיות אחד מהרשיונות הבאים כדי להשתמש ב-Microsoft ToDo:
+למשתמש חייב להיות אחד מהרשונות הבאים כדי להשתמש ב- Microsoft ToDo:
   
 - Business Essentials
 
@@ -35,27 +35,27 @@ ms.locfileid: "47692296"
 
 - כל תוכנית Office 365 Enterprise
 
-- מאובטח עסק פורה
+- Secure Productive Business
 
-- מאובטחת ארגונית E3
+- Secure Productive Enterprise E3
 
-- מאובטח הארגון הפרודוקטיבי E5
+- Secure Productive Enterprise E5
 
-- תוכנית לימודית של Office 365
+- כל תוכנית Office 365 Education
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-בנוסף לרשיון מוצר חוקי, נדרשת אחת מהגירסאות הבאות של Exchange Online כדי שתוכל לסנכרן נתוני משתמשים:
+בנוסף לרשיון מוצר חוקי, אחת מהגרסאות הבאות של Exchange Online נדרשת כדי ש- ToDo יוכל לסנכרן נתוני משתמש:
   
-- Exchange Online תוכנית 1
+- Exchange Online Plan 1
 
-- Exchange Online תוכנית 2
+- תוכנית Exchange Online 2
 
-- החלפת יסודות
+- Exchange Essentials
 
-- קיוסק של Exchange Online
+- קיוסק Exchange Online
 
 - Exchange Online POP
 
