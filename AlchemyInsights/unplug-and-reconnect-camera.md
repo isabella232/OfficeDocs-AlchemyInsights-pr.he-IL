@@ -1,8 +1,8 @@
 ---
-title: נתק מצלמה וחבר אותו מחדש
+title: ניתוק וחיבור מחדש של המצלמה
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 8cd57e5df85717cb7814f7652f3a8cecaed2e031
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364901"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827721"
 ---
-# <a name="unplug-and-reconnect-camera"></a>נתק מצלמה וחבר אותו מחדש
+# <a name="unplug-and-reconnect-camera"></a>ניתוק וחיבור מחדש של המצלמה
 
-מצטער שזה לא הצליח. אם המצלמה היא מצלמה חיצונית, נתק את ההתקן והתחבר שוב עשוי לעזור.
+מצטערים שזה לא עבד. אם המצלמה היא מצלמה חיצונית, ניתוק המכשיר ותחבר מחדש עשוי לעזור.
 
 אם זוהי מצלמה מוכללת, הפעלה מחדש של המחשב עשויה לעזור.

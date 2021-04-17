@@ -1,8 +1,8 @@
 ---
-title: עדכון רשומות DNS ב-123-reg
+title: עדכון רשומות DNS ב- 123-reg
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5812"
-ms.openlocfilehash: 4afb11bb77436c1a3e39972b63573995f3d88e01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b984fccf6c8e0ccba75666dde728a80a1a5e0df0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657790"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827685"
 ---
-# <a name="update-dns-records-at-123-reg"></a>עדכון רשומות DNS ב-123-reg
+# <a name="update-dns-records-at-123-reg"></a>עדכון רשומות DNS ב- 123-reg
 
-השתמש בקישורים שלהלן כדי לסייע בעדכון רשומות ה-DNS שלך
+השתמש בקישורים שלהלן כדי לסייע בעדכון רשומות ה- DNS שלך
 
-- [יצירת רשומות DNS ב-123-reg.co.uk](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk?view=o365-worldwide)
+- [יצירת רשומות DNS 123-reg.co.uk](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk?view=o365-worldwide)
 - [הוספה או עריכה של רשומות DNS מותאמות אישית ב- Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

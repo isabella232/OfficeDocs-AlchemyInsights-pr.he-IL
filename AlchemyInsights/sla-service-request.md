@@ -1,8 +1,8 @@
 ---
-title: בקשת אשראי עקב הפסקת שירות
+title: בקשת אשראי עקב תם שירות
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726848"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826452"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>בקשת אשראי עקב הפסקת שירות
+# <a name="credit-request-due-to-a-service-outage"></a>בקשת אשראי עקב תם שירות
 
-כדי להגיש בקשה לזיכוי עקב הפסקת שירות, פתח בקשת שירות.
+כדי להגיש בקשה לקבלת אשראי עקב תם שירות, פתח בקשת שירות.
 
-הקפד לקבל את מזהה האירוע, נמצא [בדף תקינות השירות](https://docs.microsoft.com/office365/enterprise/view-service-health) במרכז הניהול של Microsoft 365.
+הקפד להציג את מזהה האירוע, שנמצא בדף [תקינות השירות](https://docs.microsoft.com/office365/enterprise/view-service-health) במרכז הניהול של Microsoft 365.
 
-לידיעתך, מאחר שהבקשה שלך מעובדת, היא תעבור בתוקף כדי לבחון את ההשפעה של הפסקת החשמל.
+שים לב, כאשר הבקשה שלך מעובדת, היא תעבור אימותים כדי לבחון את השפעת ההנתקה.

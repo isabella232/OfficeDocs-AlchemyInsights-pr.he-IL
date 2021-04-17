@@ -2,7 +2,7 @@
 title: מרכז הניהול של Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670365"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826380"
 ---
 # <a name="teams-admin-center"></a>מרכז הניהול של Teams
 
@@ -32,5 +32,5 @@ ms.locfileid: "47670365"
 
 - האם יצרת משתמשים או רשיונות שהוקצו ב- 24 השעות האחרונות? המתן לפחות 24 שעות לפני פתיחת כרטיס תמיכה.
 - ודא שהקצית רשיונות מתאימים?
-- אם יש לך מדריך Active Directory מקומי, ודא [שהערך של msRTCSIP-PrimaryUserAddress או כתובת SIP בשדה ProxyAddresses ב-Active Directory המקומי שלך הוא ייחודי והתבנית תואמת](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) Sip:**Username** של המשתמש [ממרכז הניהול של Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- אם בכוונתך לשמור על הפריסה של Skype for Business Server ולהגדיר משתמשים באופן מקומי ומקוון: עקוב אחר **ההגדרה ' הכלאה משולבת עם teams ו-Skype For Business online** ' בלוח הבקרה של Skype For business Server והעברת משתמשים באופן מקוון.
+- אם יש לך Active Directory מקומי, ודא שהערך [של msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) או כתובת SIP בשדה ProxyAddresses ב- Active Directory המקומי שלך הוא ייחודי והתבנית תואמת ללגימה:**שם** המשתמש של המשתמש ממרכז הניהול של [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- אם בכוונתך לשמור פריסה של Skype for Business Server ולהגדיר משתמשים ביתיים באופן מקומי ומקוון: פעל בהתאם ל"הגדרת היברידיות עם **Teams ו- Skype for Business Online"** בלוח הבקרה של Skype for Business Server והעביר משתמשים למצב מקוון.

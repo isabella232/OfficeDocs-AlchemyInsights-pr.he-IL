@@ -1,8 +1,8 @@
 ---
-title: הכרת סכום החיוב
+title: הבנת סכום החיוב
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,73 +12,73 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808317"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827865"
 ---
-# <a name="understand-billing-amount"></a>הכרת סכום החיוב
+# <a name="understand-billing-amount"></a>הבנת סכום החיוב
 
-**Led לקוח (WD):**
+**לקוח Led (WD):**
 
-- כדי לעזור לסקור ולהבין את החשבון שלך, עיין במאמר: [ערכת לימוד: סקירת החשבון האישי שלך ב-תכלת](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- הסבר את המונחים בחשבונית שלך: [מונחי חשבונית של תכלת](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- הכרת מונחים על חיובי שימוש בתכלת: [מונחי שימוש מוסברים](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- כדי לקבל מסמך PDF של החשבונית ועותק של קובץ השימוש היומי המפורט שלך (. CSV): [קבלת חשבונית ונתוני שימוש](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- כדי לעזור לך לסקור ולהבין את החשבון שלך, עיין ב: [ערכת לימוד: סקירת חשבון Azure הבודד שלך](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- הבנת התנאים בחשבונית שלך: מונחי [חשבונית Azure מוסברים](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- הבנת תנאי השימוש ב- Azure: [מונחי שימוש מוסברים](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- כדי להשיג PDF של החשבונית שלך עותק של קובץ השימוש היומי המפורט שלך (. CSV): [קבל נתוני חשבונית ושימוש](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**הערה** : אם תבטל את המנוי/המשאב באמצע מחזור החיוב שלך, ייתכן שתראה עדיין חיוב שעשוי להיות עבור כל שימוש בחודש הקודם. דוגמה, אם מחזור החיוב שלך היה מתוך ה-26 של כל חודש עד ה-25 בחודש הבא, & הושעית את המנוי ב-23, שהוא 28 ימים למחזור החיוב של יוני, ייתכן שתראה חיוב עבור 28 ימי השימוש. אם אתה רואה חיוב למרות ביטול מנוי, ודא שאין לך תוכניות תמיכה אחרות שגורמות לחיוב. אם כן, המשך ובטל את התוכנית.
+**הערה:** אם תבטל את המנוי/המשאב שלך באמצע מחזור החיוב, ייתכן שעדיין תראה חיוב שיהיה עבור כל שימוש בחודש הקודם. דוגמה, אם מחזור החיוב שלך היה מה- 26 בכל חודש ועד ל- 25 בחודש הבא & השעית את המנוי ב- 23, שהוא 28 ימים במחזור החיוב עבור יוני, ייתכן שתשתמש בתשלום עבור 28 ימי השימוש. אם אתה רואה חיוב למרות ביטול מנוי, ודא שאין לך תוכניות תמיכה אחרות שגרמו לתשלום. אם תעשה זאת, בטל את התוכנית.
 
-**הסכם לקוח של Microsoft (MCA):**
+**הסכם הלקוחות של Microsoft (MCA):**
 
 [כיצד לבדוק גישה להסכם לקוח של Microsoft?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
-- כדי לעזור לסקור ולהבין את החשבון שלך, עיין במאמר: [ערכת לימוד: סקירת החשבונית להסכם הלקוח של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- הכרת מונחים בחשבונית שלך: [מונחי חשבונית לגבי הסכם הלקוח של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- הבנת המונחים על חיובים לשימוש בתכלת: [מונחי השימוש בהסכם הלקוח של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- אם יש לך [הסכם לקוח של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), באפשרותך להוריד את השימוש [בפורטל התכלת](https://portal.azure.com/).
+- כדי לעזור לסקור ולהבין את החשבון שלך, עיין ב: [ערכת לימוד: סקירת חשבונית הסכם הלקוחות של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- הבנת התנאים בחשבונית שלך: [הסבר על תנאי חשבונית הסכם הלקוח של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- הבנת תנאי השימוש ב- Azure: הסבר על תנאי [השימוש בהסכם הלקוחות של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- אם יש לך הסכם [לקוח של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), באפשרותך להוריד את השימוש בפורטל [Azure](https://portal.azure.com/).
 
 **הסכם השותפים של Microsoft (MPA):**
 
-- כדי לעזור לסקור ולהבין את החשבון שלך, עיין במאמר: [ערכת לימוד: סקירת החשבונית להסכם השותפים של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- הכרת מונחים בחשבונית שלך: [מונחים בחשבונית להסכם השותפים של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
+- כדי לעזור לך לסקור ולהבין את החשבון שלך, עיין ב: [ערכת לימוד: סקירת החשבונית של הסכם השותפים של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- הבנת התנאים בחשבונית שלך: הסבר [על התנאים בחשבונית הסכם השותפים של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **הסכם ארגוני (EA)**
 
-- כדי לעזור לסקור ולהבין את החשבון שלך, עיין במאמר: [הבנת החשבון של הסכם הארגון תכלת](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- אם אתה לקוח של תכלת עם הסכם ארגוני (לקוח EA), אין באפשרותך להוריד את החשבוניות של הארגון שלך. החשבוניות נשלחות לכל מי שהוגדר לקבלת חשבוניות עבור ההרשמה, באפשרותך להוריד את השימוש [בפורטל התכלת](https://portal.azure.com/).
+- כדי לעזור לך לסקור ולהבין את החשבון שלך, עיין בנושא: הבנת החשבון [שלך בהסכם ארגוני של Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- אם אתה לקוח Azure עם הסכם ארגוני (לקוח EA), לא ניתן להוריד את החשבוניות של הארגון שלך. חשבוניות נשלחות לכל מי שמגדיר לקבל חשבוניות עבור ההרשמה, באפשרותך להוריד את השימוש בפורטל [Azure](https://portal.azure.com/).
 
-סקירת חשבונית לגבי שירותים:
+סקירת חשבונית יתר בשירות:
 
-- היכנס **לפורטל הארגוני** . בחר **דוחות**
-- בפינה השמאלית העליונה של הכרטיסיה, החלף את התצוגה מ- **מ** עד **C** והתאם את הנקודה בחשבונית
-- סכום השימוש הכולל אמור להתאים לסכום **המורחב** הכולל בחשבונית **לשימוש** בשירות
-- עבור אל הורדת **שימוש בדוחות מתקדמים >** לקבלת מידע נוסף אודות **הערת** החיובים שלך: דוח זה אינו כולל מיסים, חיובים עבור הזמנות או חיובים בשוק
+- היכנס **לפורטל Enterprise**. בחר **דוחות**
+- בפינה השמאלית העליונה של הכרטיסיה, העבר את התצוגה מ- **M** ל- **C** והתאם את התקופה בחשבונית
+- סכום **השימוש הכולל** אמור להתאים לסכום הכולל **המורחב** בחשבונית יתר של השירות שלך
+- עבור אל **הורדת > מתקדם של** דוח הורדה כדי לקבל מידע נוסף על החיובים שלך הערה: הדוח אינה כוללת מסים, חיובים עבור הזמנות או חיובים ב- marketplace 
 
-**השוק התכלת**
+**Azure Marketplace**
 
-- קבל מידע נוסף על חיוב של צד שלישי: מבוא [לחיוב בשוק תכלת](https://docs.microsoft.com/azure/billing/billing-understand-your-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+- קבל מידע נוסף על אופן החיוב של ספקים שלישיים: [חיוב Azure Marketplace](https://docs.microsoft.com/azure/billing/billing-understand-your-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-לסקור את חשבונית Marketplace:
+סקירת חשבונית Marketplace:
 
-השווה את הסכום הכולל של השוק של תכלת בדוחות > סיכום השימוש בפורטל הארגוני עם החשבונית שלך בשוק. החשבונית ' שוק ' מיקנית רק לרכישות ושימוש בשוק תכלת. הסכומים בסיכום השימוש אינם כוללים מס.
+השווה את הסכום הכולל שלך ב- Azure Marketplace > 'סיכום שימוש' בפורטל Enterprise עם חשבונית marketplace שלך. חשבונית Marketplace היא רק עבור רכישות ושימוש ב- Azure Marketplace. הסכומים בסיכום השימוש לא כוללים מס.
 
-- היכנס **לפורטל הארגוני** . בחר **דוחות**
-- בפינה השמאלית העליונה של הכרטיסיה, החלף את התצוגה מ- **מ** עד **C** והתאם את הנקודה בחשבונית
-- הסכום הכולל של **השוק התכלת** אמור להתאים **למכירה הכוללת** בחשבונית בשוק
-- עבור אל **הורדת שימוש** כדי לקבל מידע נוסף אודות החיובים המבוססים על השימוש שלך. תחת ' **חיובים בשוק** ', בחר **הורד** **הערה** : דוח זה אינו כולל מיסים או מציג רכישות חד פעמי
+- היכנס **לפורטל Enterprise**. בחר **דוחות**
+- בפינה השמאלית העליונה של הכרטיסיה, העבר את התצוגה מ- **M** ל- **C** והתאם את התקופה בחשבונית
+- הסכום **הכולל של Azure Marketplace** אמור להתאים **לסכום המכירה** הכולל בחשבונית השוק שלך
+- עבור אל **הורד שימוש** כדי לקבל מידע נוסף אודות החיובים מבוססי השימוש שלך. תחת **חיובים של Marketplace**, בחר **הורד** הערה **:** הדוח אינו כולל מיסים או מציג רכישות פעם אחת
 
 **ספק פתרונות ענן (CSP)**
 
-- קבל מידע נוסף על האופן שבו פועל חיוב בתוכנית של ספק פתרונות ענן של הענן (תכלת CSP): [תכלת CSP חיוב](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
-- למד כיצד לקרוא ולהבין את החשבון שלך ב-CSP: [החשבונית התכלת csp](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- קבל מידע נוסף על אופן העבודות של חיוב בתוכנית Azure Cloud Solution Provider (Azure CSP) : [Azure CSP Billing](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- למד אודות קריאה והבנה של חשבון CSP: חשבונית [CSP של Azure](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **מסמכים מומלצים**
 
-- למד כיצד למנוע חיובים בלתי צפויים ולשלוט בעלויות: [מנע חיובים בלתי צפויים](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
+- למד כיצד למנוע חיובים בלתי צפויים ושליטה בעלויות שלך: מניעת [חיובים בלתי צפויים](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
 - הגדרת התראות חיוב או אשראי כדי לנטר ולנהל פעילות חיוב עבור החשבונות שלך: [הגדרת התראות חיוב](https://docs.microsoft.com/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [הכרת מגבלת הוצאות התכלת](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
-- הכרת חיוב התכלת שלך עבור חיובים של שירות חיצוני: [כיצד מחויבים שירותים חיצוניים](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [שאלות נפוצות על חשבון תכלת בחינם](https://azure.microsoft.com/free/free-account-faq/)
-- [הכרת תפקידים מנהליים של ' הסכם ארגוני ' בתכלת](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [הבנת מגבלת ההוצאה של Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- הבנת החיוב שלך ב- Azure עבור חיובים על שירות [חיצוני: כיצד השירותים החיצוניים מחויבים](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [שאלות נפוצות בנושא חשבון ללא תשלום של Azure](https://azure.microsoft.com/free/free-account-faq/)
+- [הבנת תפקידי הניהול של Azure Enterprise Agreement ב- Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
