@@ -2,7 +2,7 @@
 title: הפעלת Microsoft Forms
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2544"
 - "9000672"
-ms.openlocfilehash: a93ba91178ac35c7ff73ee6a820b4e5d22fc5d50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6b13382a6b33ffe5753f79fea93ad072a201262
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698558"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823176"
 ---
-# <a name="activate-microsoft-forms-for-an-organization"></a><span data-ttu-id="44e32-102">הפעלת טפסי Microsoft עבור ארגון</span><span class="sxs-lookup"><span data-stu-id="44e32-102">Activate Microsoft Forms for an organization</span></span>
+# <a name="activate-microsoft-forms-for-an-organization"></a><span data-ttu-id="ae69a-102">הפעלת Microsoft Forms עבור ארגון</span><span class="sxs-lookup"><span data-stu-id="ae69a-102">Activate Microsoft Forms for an organization</span></span>
 
-<span data-ttu-id="44e32-103">מנהל מערכת יכול להפעיל או לבטל את Microsoft Forms עבור הארגון שלהם.</span><span class="sxs-lookup"><span data-stu-id="44e32-103">An admin can turn Microsoft Forms on or off for their organization.</span></span> <span data-ttu-id="44e32-104">למד אודות [בדיקת הפעלת רשיונות ומצב ' תכלת CollabDBService](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) ' עבור הדייר שלך.</span><span class="sxs-lookup"><span data-stu-id="44e32-104">Learn about [checking license activation and the status of the Azure CollabDBService](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) for your tenant.</span></span>
+<span data-ttu-id="ae69a-103">מנהל מערכת יכול להפעיל או לבטל את Microsoft Forms עבור הארגון שלו.</span><span class="sxs-lookup"><span data-stu-id="ae69a-103">An admin can turn Microsoft Forms on or off for their organization.</span></span> <span data-ttu-id="ae69a-104">למד אודות [בדיקת הפעלת רשיון והמצב של Azure CollabDBService עבור](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) הדייר שלך.</span><span class="sxs-lookup"><span data-stu-id="ae69a-104">Learn about [checking license activation and the status of the Azure CollabDBService](https://support.office.com/article/Turn-off-or-turn-on-Microsoft-Forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) for your tenant.</span></span>
