@@ -1,8 +1,8 @@
 ---
-title: פתרון שגיאות הדפסה ב-Word
+title: פתרון שגיאות הדפסה ב- Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720863"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828693"
 ---
-# <a name="resolving-print-failures-in-word"></a><span data-ttu-id="39814-102">פתרון כשלים בהדפסה ב-Word</span><span class="sxs-lookup"><span data-stu-id="39814-102">Resolving print failures in Word</span></span>
+# <a name="resolving-print-failures-in-word"></a><span data-ttu-id="36cf9-102">פתרון כשלי הדפסה ב- Word</span><span class="sxs-lookup"><span data-stu-id="36cf9-102">Resolving print failures in Word</span></span>
 
-<span data-ttu-id="39814-103">אם אתה מקבל שגיאות בעת הדפסה ב-Word, נסה להדפיס ממסמך בדיקה חדש כדי לקבוע אם הבעיה קשורה למסמך ספציפי.</span><span class="sxs-lookup"><span data-stu-id="39814-103">If you are receiving errors when printing in Word, try printing from a new test document to determine if your problem is related to a specific document.</span></span>
+<span data-ttu-id="36cf9-103">אם אתה מקבל שגיאות בעת הדפסה ב- Word, נסה להדפיס ממסמך מחשב חדש כדי לקבוע אם הבעיה שלך קשורה למסמך ספציפי.</span><span class="sxs-lookup"><span data-stu-id="36cf9-103">If you are receiving errors when printing in Word, try printing from a new test document to determine if your problem is related to a specific document.</span></span>
 
-- <span data-ttu-id="39814-104">אם באפשרותך להדפיס ממסמך הבדיקה אך עדיין אינך מצליח להדפיס את המסמך המקורי, ייתכן שהמסמך המקורי ניזוק.</span><span class="sxs-lookup"><span data-stu-id="39814-104">If you can print from the test document but still can't print your original document, your original document may be damaged.</span></span> <span data-ttu-id="39814-105">בצע את ההוראות המפורטות [בפתרון בעיות במסמכים פגומים ב-Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span><span class="sxs-lookup"><span data-stu-id="39814-105">Follow the instructions in [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span></span>
-- <span data-ttu-id="39814-106">אם עדיין אינך מצליח להדפיס, בצע את ההוראות המופיעות [בפתרון בעיות הדפסה של כשלים ב-Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) כדי לאבחן ולפתור את הבעיה.</span><span class="sxs-lookup"><span data-stu-id="39814-106">If you still can't print, follow the instructions in [Troubleshoot print failures in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) to diagnose and fix the issue.</span></span>
+- <span data-ttu-id="36cf9-104">אם באפשרותך להדפיס ממסמך מחשב אך עדיין אינך יכול להדפיס את המסמך המקורי, ייתכן שהמסמך המקורי פגום.</span><span class="sxs-lookup"><span data-stu-id="36cf9-104">If you can print from the test document but still can't print your original document, your original document may be damaged.</span></span> <span data-ttu-id="36cf9-105">בצע את ההוראות [המפורטות בפתרון בעיות במסמכים פגומים ב- Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span><span class="sxs-lookup"><span data-stu-id="36cf9-105">Follow the instructions in [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span></span>
+- <span data-ttu-id="36cf9-106">אם עדיין אינך יכול להדפיס, בצע את ההוראות המופיעות בפתרון [בעיות של כשלי](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) הדפסה ב- Word כדי לאבחן ולפתור את הבעיה.</span><span class="sxs-lookup"><span data-stu-id="36cf9-106">If you still can't print, follow the instructions in [Troubleshoot print failures in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) to diagnose and fix the issue.</span></span>
