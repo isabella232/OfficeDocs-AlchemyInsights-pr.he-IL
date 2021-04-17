@@ -2,7 +2,7 @@
 title: דואר אלקטרוני של תקציר אוטומטי של SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751172"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831195"
 ---
 # <a name="sharepoint-auto-digest-email"></a>דואר אלקטרוני של תקציר אוטומטי של SharePoint
 
-תקציר של החדשות האוטומטיות של SharePoint שולח הודעת דואר אלקטרוני אוטומטית למשתמשים בחברה שלך לגבי רשומות החדשות האחרונות שעדיין לא קראו להן רלוונטיות.
+SharePoint Auto-News Digest שולח דואר אלקטרוני אוטומטי למשתמשים בחברה שלך לגבי הפרסומים האחרונים של חדשות שהם עדיין לא קראו שרלוונטיים להם.
 
-לקבלת מידע נוסף, בקר באתר [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+לקבלת מידע נוסף, בקר [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
 - מזהה מפת דרכים של Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- עיתוי: לקוחות ההפצה הייעודיים  **באמצע יולי (בעבר ביוני**  והושלמו עבור כל הלקוחות עד  **אמצע אוגוסט (בעבר בתחילת אוגוסט)**.
-- סיכום: שחזור רמת המשתמש
-- סוג פקד: בקרת משתמשים, * * ניהול שליטה באמצעות PowerShell (בקרוב)
+- תזמון: לקוחות הפצה  **ממוקדים באמצע יולי (בעבר יוני**  והשלימו עבור כל הלקוחות עד  **אמצע אוגוסט (בעבר בתחילת אוגוסט)**.
+- התהפך: גלגול ברמת המשתמש
+- סוג בקרה: בקרת משתמש, **בקרת מנהל מערכת באמצעות PowerShell (בקרוב)

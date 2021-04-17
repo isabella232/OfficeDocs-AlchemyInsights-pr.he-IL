@@ -2,21 +2,22 @@
 title: התאמות זמניות של OneNote
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002315"
 - "4508"
-ms.openlocfilehash: e83ff4a0b3db9aabb3b258c17a848ed2b041bb87
-ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
+ms.openlocfilehash: 5586a7b1f87c4cd747f6694641077b90c7ed956c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43556969"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831591"
 ---
 # <a name="onenote-temporary-adjustments"></a>התאמות זמניות של OneNote
 

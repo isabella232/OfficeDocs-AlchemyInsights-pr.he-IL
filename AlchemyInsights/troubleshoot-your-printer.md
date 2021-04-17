@@ -2,21 +2,22 @@
 title: פתרון בעיות במדפסת
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 42125b5103f429c1287400c3c1dc659cfa2067b7
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 37bc4c1a8f39084e06b6f291c1245fa163e7b638
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034300"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830475"
 ---
 # <a name="troubleshoot-your-printer"></a>פתרון בעיות במדפסת
 
