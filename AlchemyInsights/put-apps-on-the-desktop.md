@@ -1,8 +1,8 @@
 ---
-title: הצבת יישומים בשולחן העבודה
+title: שמים אפליקציות בשולחן העבודה
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768248"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835848"
 ---
-# <a name="put-apps-on-the-desktop"></a>הצבת יישומים בשולחן העבודה
+# <a name="put-apps-on-the-desktop"></a>שמים אפליקציות בשולחן העבודה
 
-חפש את האפליקציה בתפריט **התחל** , ותפוס את סמל האפליקציה על-ידי החזקת לחצן העכבר השמאלי והזזת הסמל לשולחן העבודה.
+חפש את היישום בתפריט **התחלה,** וחטוף את סמל האפליקציה על-ידי החזקת לחצן העכבר השמאלי שמאלה והזזת הסמל לשולחן העבודה.
 
 באפשרותך גם להקיש על **מקש Windows + R** ולאחר מכן להקליד בפקודה זו:
 
 `shell:appsfolder`
 
-פעולה זו תפתח את התיקיה **applications** **בסייר הקבצים**. כעת באפשרותך לגרור ולשחרר את סמל היישום לשולחן העבודה.
+פעולה זו תפתח את **התיקיה יישומים** **בסייר הקבצים.** כעת תוכל לגרור ולשחרר את סמל האפליקציה לשולחן העבודה.

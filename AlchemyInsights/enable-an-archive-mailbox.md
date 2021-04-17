@@ -2,7 +2,8 @@
 title: הפיכת תיבת דואר של ארכיון לזמינה
 ms.author: markjjo
 author: markjjo
-ms.audience: ITPro
+manager: laurawi
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,49 +12,28 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
+ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811706"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857881"
 ---
 # <a name="enable-an-archive-mailbox"></a>הפיכת תיבת דואר של ארכיון לזמינה
 
-אם אתה מעוניין שנריץ בדיקות אוטומטיות כדי להבטיח שניתן יהיה להגדיר תיבת דואר של ארכיון, בחר את לחצן ' הקודם ' < '-בחלק העליון של דף זה ולאחר מכן הזן את כתובת הדואר האלקטרוני של החשבון.
+כדי להפוך ארכיון לזמין במרכז התאימות של M365:
 
-אחסון תיבות דואר של ארכיון ב-Microsoft 365 (הנקראות גם *ארכיונים מקוונים* או *ארכיונים מקומיים*) ספק למשתמשים שטח אחסון נוסף בדואר אלקטרוני. המשתמשים יכולים להעביר או להעתיק פריטים לתיבת הדואר שלהם בארכיון, ומנהלי מערכת יכולים ליצור מדיניות ארכיון שמעבירה פריטים באופן אוטומטי לתיבות דואר של ארכיון.
-  
-כך ניתן ליצור תיבת דואר של ארכיון:
-  
-1. עבור אל [https://protection.office.com](https://protection.office.com).
+1. עבור אל [https://compliance.microsoft.com](https://compliance.microsoft.com).
+2. בחר **ניהול מידע**.
+3. לאחר מכן לחץ על **האפשרות אחסן בארכיון.**
 
-2. היכנס ל-Microsoft 365 באמצעות חשבון מנהל המערכת שלך.
+לחלופין, [פעל בהתאם לקישור זה](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive).  
 
-3. בחלונית הימנית של &amp; מרכז תאימות האבטחה, בחר ארכיון **ממשל מידע** \> **Archive**.
+עבור תיבות דואר משותפות:
 
-4. בחר את המשתמש שאת תיבת הדואר שלו בארכיון ברצונך להפוך לזמינה.
-
-5. בחלונית הפרטים בצד שמאל, לחץ על **הפוך לזמין** ולאחר מכן לחץ על **כן** בהודעת האזהרה כדי להפוך את תיבת הדואר של הארכיון לזמינה.
-
-באפשרותך גם להפוך תיבות דואר של ארכיון לזמינות בצובר על-ידי בחירת משתמשים מרובים (באמצעות המקשים **Shift** או **Ctrl** ) ולאחר מכן לחיצה על **הפוך לזמין** בחלונית הפרטים.
-  
-### <a name="shared-mailboxes"></a>תיבות דואר משותפות
-
-כדי להפוך את הארכיון לזמין עבור תיבת דואר משותפת, רשיון של Exchange Online תוכנית 2 או רשיון של Exchange online תוכנית 1 עם רשיון אחסון בארכיון של Exchange Online נדרש.  
-
-כדי להפוך את הארכיון לזמין עבור תיבת דואר משותפת:
-
-1. עבור אל [מרכז הניהול של Exchange](https://outlook.office365.com/ecp) והיכנס באמצעות חשבון מנהל המערכת שלך.
-
-2. עבור אל **נמענים**  >  **משותפים**.
-
+1. עבור אל [מרכז הניהול של Exchange](https://outlook.office365.com/ecp) והירשם באמצעות חשבון מנהל המערכת שלך.
+2. עבור אל **נמענים**  >  **משותפים.**
 3. בחר את תיבת הדואר המשותפת.
+4. בחלונית הפרטים בצד ימין, **תחת** ארכיון במקום , לחץ על **הפוך לזמין** ולאחר מכן לחץ על **כן** כדי להפוך את תיבת הדואר של הארכיון לזמינה.
 
-4. בחלונית הפרטים בצד שמאל, תחת **ארכיון מקומי**, לחץ על **הפוך לזמין**ולאחר מכן לחץ על **כן** כדי להפוך את תיבת הדואר של הארכיון לזמינה.
-
-לקבלת מידע נוסף, ראה:
-  
-- [הפיכת תיבות דואר של ארכיון לזמינות](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-
-- [הגדרת מדיניות ארכיון ומחיקה](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+לקבלת מידע נוסף אודות העברת הודעה לתיבת הדואר של ארכיון, [ראה הגדרת מדיניות ארכיון ומחיקה](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
