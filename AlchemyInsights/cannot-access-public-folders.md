@@ -2,7 +2,7 @@
 title: אין אפשרות לגשת לתיקיות ציבוריות
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812548"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819513"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>ל-Outlook אין אפשרות להתחבר לתיקיות ציבוריות
+# <a name="outlook-cannot-connect-to-public-folders"></a>ל- Outlook אין אפשרות להתחבר לתיקיות ציבוריות
 
-אם access public folder אינו עובד עבור חלק מהמשתמשים, נסה את הפעולות הבאות:
+אם הגישה לתיקיה ציבורית אינה פועלת עבור משתמשים מסוימים, נסה את הפעולות הבאות:
 
-התחבר ל-קליפת PowerShell וקבע את התצורה של הפרמטר DefaultPublicFolderMailbox בחשבון המשתמש של הבעיה כדי להתאים לפרמטר בחשבון משתמש עובד.
+התחבר ל- EXO PowerShell והגדר את הפרמטר DefaultPublicFolderMailbox בחשבון המשתמש הלבעיה כך שיתאים לפרמטר בחשבון משתמש פועל.
 
-דוגמה
+דוגמה:
 
-קבלת-תיבת דואר WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Get-Mailbox WorkingUser | ft DefaultציבוריFolderMailbox,EffectiveציבוריFolderMailbox
 
-הגדרת תיבת דואר ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
+Set-Mailbox בעיהUser -DefaultציבוריFolderMailbox \<value from previous command>
 
-המתן שעה אחת לפחות כדי שהשינוי ייכנס לתוקף.
+המתן לפחות שעה אחת עד שהשינוי יתוקף.
 
-אם הבעיה נשארת, בצע [הליך זה](https://aka.ms/pfcte) כדי לפתור בעיות בגישה לתיקיות ציבוריות באמצעות Outlook.
+אם הבעיה נשארת, בצע הליך זה [כדי לפתור](https://aka.ms/pfcte) בעיות גישה לתיקיה ציבורית באמצעות Outlook.
  
 **כדי לקבוע אילו משתמשים יוכלו לגשת לתיקיות ציבוריות באמצעות Outlook**:
 
-1.  שימוש ב-Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true או $false  
+1.  השתמש <mailboxname> Set-CASMailbox-PublicFolderClientAccess $true או $false  
       
-    $true: אפשר למשתמשים לגשת לתיקיות ציבוריות ב-Outlook  
+    $true: אפשר למשתמשים לגשת לתיקיות ציבוריות ב- Outlook  
       
-    $false: מנע גישת משתמשים לתיקיות ציבוריות ב-Outlook. (אפס) זהו ערך ברירת המחדל.  
+    $false: מניעת גישת משתמש לתיקיות ציבוריות ב- Outlook. (אפס) זהו ערך ברירת המחדל.  
         
-2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**הערה** הליך זה יכול לשלוט בחיבורים רק עם שולחן העבודה של Outlook עבור לקוחות Windows. משתמש יכול להמשיך לגשת לתיקיות ציבוריות באמצעות OWA או Outlook for Mac.
+**הערה** הליך זה יכול לשלוט בחיבורים רק עם שולחן העבודה של Outlook עבור לקוחות Windows. משתמש יכול להמשיך לגשת לתיקיות ציבוריות באמצעות OWA או Outlook עבור Mac.
  
-לקבלת מידע נוסף, ראה [הודעה על תמיכה בהתקשרויות מבוקרות לתיקיות ציבוריות ב-Outlook](https://aka.ms/controlpf).
+לקבלת מידע נוסף, ראה [הודעה על תמיכה עבור חיבורים מבוקרים לתיקיות ציבוריות ב- Outlook](https://aka.ms/controlpf).

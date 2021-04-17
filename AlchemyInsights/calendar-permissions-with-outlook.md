@@ -2,7 +2,7 @@
 title: הרשאות לוח שנה
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: cfee520e26587c0a649c08084853c31232d027f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748794"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819909"
 ---
 # <a name="calendar-permissions"></a>הרשאות לוח שנה
 
-משתמשים יכולים לשנות את הרשאות לוח השנה שלהם באמצעות Outlook באינטרנט או לקוחות אחרים, אך כמנהל מערכת, ייתכן שתצטרך גם לחקור אותו.  
-באמצעות ה-cmdlet של Exchange PowerShell, תראה את ההרשאה בלוח השנה של המשתמש:
+משתמשים יכולים לשנות הרשאות לוח שנה משלהם עם Outlook באינטרנט או לקוחות אחרים, אך כמנהל מערכת, ייתכן שתצטרך גם לחקור.  
+עם cmdlet של Exchange PowerShell יראה לך את ההרשאה בלוח השנה של משתמש:
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
-כדי לראות מידע נוסף, עיין במאמר הבא:
+כדי לראות מידע נוסף, ראה את הפעולות הבאות:
 
 - [Get-MailboxFolderPermission](https://docs.microsoft.com/powershell/module/exchange/get-mailboxfolderpermission?view=exchange-ps)
 
@@ -34,9 +34,9 @@ ms.locfileid: "47748794"
 
 - [Add-MailboxFolderPermission](https://office.visualstudio.com/DefaultCollection/MAX/_queries/query/Add-MailboxFolderPermission)
 
-הרשאות לוח שנה משמשות בשיתוף לוחות שנה, כדי לראות מידע נוסף אודות שיתוף לוח שנה של Outlook, עיין במאמרים הבאים:
+הרשאות לוח שנה משמשות לשיתוף לוחות שנה, כדי לראות מידע נוסף אודות שיתוף לוח שנה של Outlook, עיין במאמרים הבאים:
 
 - [שיתוף לוח שנה של Outlook עם אנשים אחרים](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [שיתוף לוח השנה שלך ב-Outlook באינטרנט לעסקים](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [שיתוף לוח השנה שלך ב- Outlook באינטרנט לעסקים](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-כדי לפתור בעיות של הרשאת לוח שנה, באפשרותך להשתמש בכלי [מסייע התמיכה והשחזור](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) .
+כדי לפתור בעיות של הרשאת לוח שנה, באפשרותך [להשתמש בכלי מסייע התמיכה ושחזור.](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f)

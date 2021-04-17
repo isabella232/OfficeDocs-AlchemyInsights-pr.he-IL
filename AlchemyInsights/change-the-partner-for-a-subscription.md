@@ -2,25 +2,26 @@
 title: שינוי השותף עבור מנוי
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5065"
-ms.openlocfilehash: e71d8de284ce687525d1876d258055f6992aec8c
-ms.sourcegitcommit: 37b142dfe0f09401577144d7f8727bd2c04af0f8
+ms.openlocfilehash: 26369a89b46cc9bb4e32b22b6e314575b69671c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43930589"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818289"
 ---
 # <a name="change-the-partner-for-a-subscription"></a>שינוי השותף עבור מנוי
 
-ניתן לשנות שותפים במנוי שלך ב**מרכז הניהול של Microsoft 365**.
+ניתן לשנות שותפים במנוי שלך ב **מרכז הניהול של Microsoft 365**.
 
 1. במרכז הניהול, עבור אל **'חיובים' > ['מוצרים ושירותים'](https://go.microsoft.com/fwlink/p/?linkid=842054)**. 
 2. אם יש לך מנויים מרובים, בחר את שם המנוי שברצונך לערוך. 

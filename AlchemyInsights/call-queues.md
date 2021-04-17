@@ -2,7 +2,7 @@
 title: תורי שיחה
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734336"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819837"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>תורים של שיחות ב-Microsoft Teams וב-Skype for Business 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>תורי שיחות ב- Microsoft Teams וב- Skype for Business 
 
-כדי להתחיל להשתמש בתורי שיחות, עיין בקישורים הבאים.
+כדי להתחיל להשתמש בתורי שיחה, עיין בקישורים הבאים.
 
-- [יצירת תור לשיחת ענן](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [השב לשיחות ושיחות בתור התקשר ישירות מ-Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [יצירת תור שיחה בענן](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
+- [מענה לשיחות של מערכת ניתוב שיחות ותור שיחות ישירות מ- Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
