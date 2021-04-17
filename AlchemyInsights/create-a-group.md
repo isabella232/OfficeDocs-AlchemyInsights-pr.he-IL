@@ -2,7 +2,7 @@
 title: יצירת קבוצה
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: b8cb3f1de991bfe7197607d5e8964a018e31c122
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088903"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816357"
 ---
 # <a name="create-a-group"></a>יצירת קבוצה
 
@@ -25,14 +25,14 @@ ms.locfileid: "49088903"
 
 **הרשאה ליצירת קבוצה**
 
-ודא שאתה מורשה ליצור קבוצה חדשה. מנהלי מערכת כלליים יכולים להפוך את יצירת הקבוצה ללא זמינה בלוח תכלת או בלוח הגישה. ייתכן שתזדקק למנהל מערכת כדי ליצור את הקבוצה החדשה עבורך, או כדי להעניק לך הרשאות מתאימות.
+ודא שאתה מורשה ליצור קבוצה חדשה. מנהלי מערכת כלליים יכולים להפוך יצירת קבוצה ללא זמינה בפורטל Azure או Access ה- Panel. ייתכן שתצטרך מנהל מערכת כדי ליצור את הקבוצה החדשה בשבילך, או כדי להעניק לך הרשאות מתאימות.
 
 **ניהול הרשאות יצירת קבוצה**
 
-1. מנהלי מערכת כלליים יכולים לנהל הרשאות יצירת קבוצה (למטרות הקשורות לאבטחה) או קבוצות של Office 365 שנוצרו בפורטל תכלת או ב-Access, על-ידי בחירה "משתמשים יכולים ליצור קבוצות אבטחה בפורטלים של תכלת" או "משתמשים יכולים ליצור קבוצות של office 365 בפורטלים של תכלת" בכל **הקבוצות**  >  **כללי (**
-2. באפשרותך גם להגביל את יצירת הקבוצה כדי לבחור קבוצת משתמשים אם יש לך רשיון תכלת של Active Directory P1 Premium.
+1. מנהלי מערכת כלליים יכולים לנהל הרשאות יצירת קבוצות (מסיבות הקשורות לאבטחה) או קבוצות Office 365 שנוצרו בפורטל Azure או בלוח Access, על-ידי בחירה באפשרות "משתמשים יכולים ליצור קבוצות אבטחה בפורטלים של Azure" או "משתמשים יכולים ליצור קבוצות Office 365 בפורטלים של Azure" בכל הקבוצות  >  **הכלליות (הגדרות).**
+2. באפשרותך גם להגביל יצירת קבוצה כדי לבחור קבוצת משתמשים אם יש לך רשיון Azure Active Directory P1 Premium.
 
-**הפיכת הודעת הפתיחה ללא זמינה עבור חברים בקבוצה חדשה של Office 365**
+**הפיכת הודעת ברוך הבא ללא זמין עבור חברי הקבוצה החדשים של Office 365**
 
-ניתן להפוך את הודעת הפתיחה למשתמשים שנוספו לקבוצות של Office 365 לבלתי זמינה על-ידי הגדרת **UnifiedGroupWelcomeMessageEnabled** ל-False ב-Powershell. קבל מידע על הגדרה זו [כאן](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
+ניתן לבטל את הודעת הפתיחה שנשלחת למשתמשים שנוספו לקבוצות Office 365 על-ידי הגדרת **UnifiedGroupWelcomeMessageEnabled** ל- False ב- Powershell. קבל מידע על הגדרה זו [כאן](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
 

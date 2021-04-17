@@ -2,7 +2,7 @@
 title: פרסום סוגי תוכן
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5793"
-ms.openlocfilehash: 11147d4cab68a4bf81bfd0ed9eb3b429c257a703
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d70e3deb0067552cf97137862a1139fc9873f2c5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680613"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816813"
 ---
 # <a name="content-type-publishing"></a>פרסום סוגי תוכן
 
-אם אתה מעוניין שסוגי תוכן יהיו זמינים ברחבי הארגון שלך עבור כל המשתמשים, מומלץ לפרסם את כל אוספי האתרים. כדי לפרסם סוג תוכן, ראה [פרסום סוג תוכן מרכזת פרסום תוכן](https://support.office.com/article/publish-a-content-type-from-a-content-publishing-hub-58081155-118d-4e7a-9cc5-d43b5dbb7d02).
+אם ברצונך ש סוגי תוכן יהיו זמינים ברחבי הארגון שלך עבור כל המשתמשים, כדאי לפרסם בכל אוספי האתרים. כדי לפרסם סוג תוכן, [ראה פרסום סוג תוכן ממרכז פרסום תוכן](https://support.office.com/article/publish-a-content-type-from-a-content-publishing-hub-58081155-118d-4e7a-9cc5-d43b5dbb7d02).

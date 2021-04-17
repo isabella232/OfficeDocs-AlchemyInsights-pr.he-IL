@@ -1,8 +1,8 @@
 ---
-title: המכשירים ממתינים למצב ההרשמה
+title: המכשירים נמצאים במצב ממתין להרשמה
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730736"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815355"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>המכשירים מתקיימים במצב ' ממתין להרשמה '
+# <a name="devices-are-in-awaiting-enrollment-state"></a>המכשירים נמצאים במצב "ממתין להרשמה"
 
-לניתוח שולחן העבודה אין נתוני אבחון עבור מכשיר זה. 
+ל- Desktop Analytics אין נתוני אבחון עבור מכשיר זה. 
 
-בעיה זו עלולה להתרחש מכיוון שהוספת לאחרונה את המכשיר לאוסף המטרות והוא עדיין לא שלח נתונים. ניתן גם לומר שההתקן אינו מקיים תקשורת כראוי עם השירות, ונתוני האבחון האחרונים הם יותר מ-28 ימים ישנים.
+בעיה זו עלולה להתרחש מכיוון שהוספת לאחרונה את המכשיר לאוסף היעד והוא עדיין לא שלח נתונים. בנוסף, משמעות הדבר היא שהמכשיר אינו מתקשר כראוי עם השירות, ותוני האבחון האחרונים ישנים יותר מ- 28 ימים.
 
-ודא שההתקן יכול לקיים תקשורת עם השירות. לקבלת מידע נוסף, ראה [נקודות קצה](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+ודא שהמכשיר יכול לקיים תקשורת עם השירות. לקבלת מידע נוסף, [ראה נקודות קצה](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-לקבלת מידע נוסף אודות מצב ההרשמה הממתינים, ראה [פיקוח על תקינות החיבור](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+לקבלת מידע נוסף אודות מצב ההרשמה הממתין, ראה ניטור [תקינות החיבור.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

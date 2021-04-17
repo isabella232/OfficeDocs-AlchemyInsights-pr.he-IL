@@ -1,8 +1,8 @@
 ---
-title: ניהול משותף
+title: ניהול שותף
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896796"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817713"
 ---
-# <a name="co-management"></a>ניהול משותף
+# <a name="co-management"></a>ניהול שותף
 
-**תנאים מוקדמים למעבר מ-Config Manager היברידי כדי לכוונן**
+**דרישות מוקדמות להעברה מ- Config Manager Hybrid ל- Intune**
 
 - עיין [במאמר זה](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
-- [הוסף רשיון למשתמשים](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
-- השתמש [בדפדפן Edge](https://www.microsoft.com/edge) בעת קביעת התצורה של ניהול משותף.
+- [הוסף רשיון Intune למשתמשים שלך.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- השתמש [בדפדפן Edge](https://www.microsoft.com/edge) בעת קביעת התצורה של ניהול עמיתים.
 
-ניתן למצוא [כאן](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)חוויית הגדרה מודרכת, שלב אחר שלב-ניהול משותף.
+כאן ניתן למצוא חוויית הגדרה מודרכת של ניהול [עמיתים.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-**כיצד ניתן להתקין את לקוח מנהל התצורה במכשירים שמנוהלים באמצעות כוונון**
+**כיצד להתקין את לקוח Config Manager במכשירים המנוהלים על-ידי Intune**
 
-ראה [כוונון מכשירי Windows המנוהלים](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)על-ידי MDM.
+ראה [מכשירי Windows המנוהלים על-ידי Intune MDM](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-**מה אם אני רק רוצה לשנות את הרשות של MDM?**
+**מה קורה אם אני רק רוצה לשנות את סמכות MDM?**
 
-ניתן לשנות את הרשות של MDM מבלי לפתוח מקרה תמיכה. עיין בתיעוד הבא כדי לסייע בשינוי הרשות של MDM:
+ניתן לשנות את MDM Authority מבלי לפתוח מקרה תמיכה. עיין בתיעוד הבא כדי לסייע בשינוי רשות MDM שלך:
 
-- [שינוי הרשות של MDM ממנהל התצורה כדי לכוונן את העצמאי](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
-- [שינוי הרשות של MDM מלהתכוונן עצמאי למנהל התצורה](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [שינוי רשות MDM ממנהל התצורה ל- Intune עצמאי](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [שינוי רשות MDM מ- Intune עצמאית למנהל התצורה](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
