@@ -2,7 +2,7 @@
 title: Active Directory אינו מסתנכרן
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697630"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822852"
 ---
 # <a name="active-directory-not-syncing"></a>Active Directory אינו מסתנכרן
 
-אם אתה מקבל שגיאות סינכרון, כגון "ללא סינכרון אחרון", או להבחין במצב סינכרון מדריכי כתובות בפורטל מנהל המערכת של Office, מופיעה ההודעה "סינכרון אחרון של יותר מ-3 ימים", ייתכן שAADConnect יש הגדרות שגויות או הרשאות לא מספיקות לביצוע סינכרון.  
+אם אתה מקבל שגיאות סינכרון, כגון "ללא סינכרון לאחרונה", או שים לב למצב סינכרון מדריכי הכתובות בפורטל הניהול של Office, "Last synced לפני יותר מ- 3 ימים", ייתכן של- AADConnect יש הגדרות שגויות או הרשאות לא מספיקות לביצוע סינכרון.  
 
-התקנה מחדש של AADConnect באמצעות הגדרות אקספרס עשויה לפתור את הבעיה במהירות:
+התקנה מחדש של AADConnect באמצעות הגדרות מהירות עשויה לפתור את הבעיה במהירות:
 
 1. [הורד את הגירסה העדכנית ביותר של AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
 
-2. [בצע את ההוראות להתקנה מהירה](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [בצע את ההוראות להתקנה מהירה.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-לקבלת מידע נוסף אודות חשבונות שירות של AADConnect, ראה [התחברות והרשאות בנושא תכלת לספירה: חשבונות והרשאות](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+לקבלת מידע נוסף אודות חשבונות שירות של AADConnect, ראה [Azure AD Connect: חשבונות והרשאות](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).

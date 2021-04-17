@@ -1,8 +1,8 @@
 ---
-title: מדוע לחצן ' הוסף תקציב ' אינו זמין עבורי?
+title: מדוע לחצן הוסף תקציב אינו זמין עבורי?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,85 +12,85 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 18edad73f617ba180cb08576ee6e5fa8faf07128
-ms.sourcegitcommit: 9a7b85eae0bb775bc2498a83d8f5fedb72a6451e
+ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807409"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822636"
 ---
-# <a name="why-is-the-add-budget-button-disabled-for-me"></a>מדוע לחצן ' הוסף תקציב ' אינו זמין עבורי?
+# <a name="why-is-the-add-budget-button-disabled-for-me"></a>מדוע לחצן הוסף תקציב אינו זמין עבורי?
 
-כדי ליצור תקציב, דרושות לך אחת מההרשאות הבאות:
+כדי ליצור תקציב, עליך לקבל אחת מההרשאות הבאות:
 
-- קבוצת ניהול, מנויים, טווחי קבוצות משאבים
-- משתתף ניהול עלויות
+- ניהול קבוצה, מנוי, טווחי קבוצת משאבים
+- משתתף בניהול עלויות
 - בעלים
-- שתתף '
+- משתתף
 - לקוח ארגוני בלבד: הרשמה, מחלקה, טווחי חשבון
-- מנהל ההרשמה (הגדרת תקציב בטווח ההרשמה)
-- מנהל מחלקה (הגדרת תקציב בטווח המחלקות)
+- מנהל הרשמה (הגדרת תקציב בטווח ההרשמה)
+- מנהל מחלקה (הגדרת תקציב בטווח המחלקה)
 - בעלים של חשבון (הגדרת תקציב בטווח חשבון)
 - הסכם לקוח מודרני בלבד: חשבון חיוב, פרופיל חיוב, טווחי מקטע חשבונית
-- יוצר מנויים של תכלת
+- יוצר המנוי של Azure
 
-**יצרתי תקציב כאשר עלותי עבור החודש הנוכחי כבר היתה חורגת מהתקציב. מדוע לא קיבלתי התראה?**  
-אם כבר חרגת מ-סף עלות נתון בעת יצירת תקציב שהתראה זו לא תתבצע באש. לאחר שמחזור חדש מתחיל, אם אתה מפר את הסף, ההתראה יורה.
+**יצרתי תקציב כאשר העלות שלי עבור החודש הנוכחי כבר היתה מעבר לתקציב. מדוע לא קיבלתי התראה?**  
+אם כבר חרגת מסף עלות נתון בעת יצירת תקציב שהתראה זו לא תידלק. לאחר תחילת מחזור חדש, אם תפרוץ את הסף, ההתראה תיתחיל.
 
-**מתי עליי לצפות לקבל התראה לאחר שחרגת מאחד מספי ההתראה המוגדרים בתקציב שלי?**  
-תקציבים מוערכים כל 4 שעות. לוקח לפחות 8 שעות לשימוש בנתוני שימוש כדי להגיע למערכת התקציבים. בהינתן זאת, התראות עשויות להימשך כל עוד 12 שעות לאחר שתחרוג מהסף.
+**מתי עליי לצפות לקבל התראה לאחר שאחרם על אחד מסספי התראת התקציב המוגדרים שלי?**  
+התקציבים מוערכים כל 4 שעות. נדרשות לפחות 8 שעות עד שנתונים של שימוש יגיעו למערכת התקציבים. בהתחשב בתאריך זה, ייתכן ש- 12 שעות עד ש- 12 שעות יעלו על סף.
 
-**מדוע לחצן ' תאריך התחלה ' אינו זמין כאשר אני בוחר את משך הזמן לאיפוס חודש או חיוב?**  
-התקציבים מיושרים לחודש לוח השנה הנוכחי או לתקופת החיוב הנוכחית (במקרה שבו נבחר חודש החיוב). לכן, אנו מאכלסים מראש ערך זה עבורך.
+**מדוע לחצן 'תאריך התחלה' אינו זמין כאשר אני בוחר תקופת איפוס לחודש או לחיוב?**  
+התקציבים מיושרים לחודש לוח השנה הנוכחי או לתקופת החיוב הנוכחית (במקרה שבו נבחר 'חודש חיוב'). לכן, אנו מאכלסים מראש ערך זה בשבילך.
 
-**מדוע איני רואה גרף של העלויות שלי בחוויית יצירת התקציב?**  
-אנו זקוקים למינימום של חודשיים של נתוני עלות לפני שנוכל לעבד גרף כדי לסייע לך ביצירת תקציב.
+**מדוע איני רואה גרף של העלויות שלי בחוויה ליצירת תקציב?**  
+אנו זקוקים למינימום של חודשיים של נתוני עלות כדי שנוכל לעבד גרף כדי לסייע לך ביצירת תקציב.
 
-**מדוע אין באפשרותי להגדיר תקציב כנגד מנוי שיצרתי זה עתה?**  
-לאחר יצירת מנוי, הנתונים לוקחים 24-48 שעות כדי לעבד לפני הגדרת תקציב נגדו.
+**מדוע איני יכול להגדיר תקציב מול מנוי שיצרתי זה עתה?**  
+לאחר יצירת מנוי, נדרשות 24-48 שעות לעבד את הנתונים לפני הגדרת תקציב כנגדו.
 
 **משאבי API של תקציב**
 
-- [תקציבים של API v1](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support): מספק פעולות ליצירה ועדכון של תקציבים. באמצעות ה-API של תקציבים, באפשרותך להגדיר סף תקציב ולקבוע את התצורה של התראות מרובות לירי בעת הגישה לסף זה. התראות יכולות לגרום לדואר אלקטרוני או לקבוצת פעולות של תכלת לבצע אוטומציה. הערה: סינון עבור API זה אינו מתיישר עם סינון/ממדים של שאילתות API.
-- [תקציבים של API v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): יצירת תקציבים בעלי יכולות סינון עלות גבוהה יותר מאשר v1. סינון מיושר לחוזה המשמש בממשקי Api של שאילתות וממדים. זהו ה-API המומלץ של תקציבים לשימוש במעבר קדימה.
-- [ממדים](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support): מספק פעולות לקבלת ממדים נתמכים עבור השימוש שלך תחת מגוון רחב של טווחים. באמצעות API של ממדים, באפשרותך לאחזר רשימת ממדים שניתן להשתמש בהם כקלט ליצירת שאילתות באמצעות ה-API של השאילתה.
-- [Query](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support): מספק פעולות כדי לקבל עלויות צבורות ונתוני שימוש בהתבסס על השאילתה שאתה מספק. באמצעות ה-API של השאילתה, באפשרותך לציין את הסינון, המיון והקיבוץ הרצויים בכל הממדים הזמינים (שאליהם יש גישה מממשק API של ממדים).
+- [Budgets API v1](https://docs.microsoft.com/rest/api/consumption/budgets?WT.mc_id=Portal-Microsoft_Azure_Support): מספק פעולות ליצירה ולעדכון של תקציבים. באמצעות ה- API של תקציבים, באפשרותך להגדיר סף תקציב ולקבוע תצורה של התראות מרובות כך שתשתמש בגישה לסף זה. התראות יכולות להפעיל הודעת דואר אלקטרוני או קבוצת פעולות של Azure כדי לבצע אוטומציה. הערה: סינון עבור API זה אינו תואם לסינון/ממדים של API של שאילתה.
+- [Budgets API v2](https://github.com/Azure/azure-rest-api-specs/blob/master/specification/cost-management/resource-manager/Microsoft.CostManagement/preview/2019-04-01-preview/examples/CreateOrUpdateBudget.json): צור תקציבים עם יכולות סינון עלויות גבוהות יותר מ- v1. סינון יישור לחוזה המשמש ב- API של השאילתות והממדים שלנו. זהו ה- API של התקציבים המומלצים לשימוש בתנועה קדימה.
+- [ממדים](https://docs.microsoft.com/rest/api/cost-management/dimensions?WT.mc_id=Portal-Microsoft_Azure_Support): מספק פעולות לקבלת ממדים נתמכים עבור השימוש שלך תחת מגוון טווחים. באמצעות ה- API של הממדים, באפשרותך לאחזר רשימה של ממדים ה יכולים לשמש כקלט ליצירת שאילתות באמצעות ה- API של השאילתה.
+- [שאילתה](https://docs.microsoft.com/rest/api/cost-management/query?WT.mc_id=Portal-Microsoft_Azure_Support): מספק פעולות כדי לקבל נתוני עלות ושימוש מצטברים בהתבסס על השאילתה שאתה מספק. באמצעות ה- API של השאילתה, באפשרותך לציין את הסינון, המיון והקיבוץ הרצויים בכל הממדים הזמינים (שה- API של הממדים ניגשים אליו).
 
-**עלויות חזויות**
+**עלויות תחזית**
 
 **מדוע איני רואה תחזיות עבור העלויות שלי בניתוח עלות?**  
-יש כמה סיבות אפשריות לכך שתחזית התחזית חסרה עבורך בניתוח עלות, חלק מהן הן כדלקמן:
+ישנן סיבות מרובות לכך שההתחזית עשויה להיות חסרה בהן בניתוח עלות, חלקן הן כדלקמן:
 
-1. אם נתוני העלות שלך בני פחות מ-10 ימים, התרשים החזוי לא ייטען. המודל מחייב לפחות 10 ימים של נתוני עלות אחרונים לתחזיות מדויקות
-2. אם בחרת תאריכים היסטוריים, התרשים החזוי לא יהיה גלוי. בחר טווח תאריכים עם תאריכים עתידיים להצגת התרשים החזוי
-3. אם החשבון שלך כולל מטבעות מרובים, התרשים החזוי יכלול רק את העלויות של ' כל העלויות ב-USD '
+1. אם נתוני העלות שלך ישנים פחות מ- 10 ימים, תרשים התחזית לא ייטען. המודל דורש לפחות 10 ימים של נתוני עלות אחרונים עבור תחזיות מדויקות
+2. אם בחרת תאריכים היסטוריים, תרשים התחזית לא יהיה גלוי. בחר טווח תאריכים עם תאריכים עתידיים להצגה של תרשים התחזית
+3. אם החשבון שלך כולל מטבעות מרובים, תרשים התחזית יפרוייקט רק עלויות עבור 'כל העלויות ב- USD'
 
-**מדוע התחזית אינה משתנה כאשר אני מבצע שינויים במשאבים שלי?**  
-מודל התחזית מחייב כמה ימים לחשבון שינויים בחשבון ואינו מבצע הקרנה מיידית בהתבסס על שינוי במשאבים  
-לקבלת שלבים גדולים יותר של הגדלה או הקטנה של משאבים, המודל ייקח מעט זמן רב יותר להסתגל לשינויים אלה כדי להתחשב בסטיות
+**מדוע התחזית אינה משתנה בעת ביצוע שינויים במשאבים שלי?**  
+מודל התחזית דורש כמה ימים כדי לתת חשבון לשינויים בחשבון ולא לבצע תחזיות מיידיות בהתבסס על שינוי במשאבים  
+לקבלת שלבים גדולים יותר של הגדלה או הקטנה במשאבים, ההסתגלות של המודל לשינויים אלה תתבצע בחשבון חריגות
 
-**מדוע התחזית שלי גדלה לאחר שאני מבצע רכישה של הזמנות או שוק?**  
-מודל התחזית מחשיב את ' העלות בפועל ' ואינו מסביר שימוש ורכישה בנפרד. לרכישה חד-פעמית, המודל יקטין את התחזיות לאחר 10 ימים לחשבון העלייה הפתאומית בעלויות
+**מדוע התחזית שלי גדלה לאחר ביצוע הזמנה או רכישת Marketplace?**  
+מודל התחזית מתייחס ל'עלות בפועל' שלך ולא מתייחס לשימוש ולרכישה בנפרד. עבור רכישה של פעם אחת, המודל יפחית את התחזיות לאחר 10 ימים כדי לתת חשבון לגידול הפתאומי בעלויות
 
-**אני רוצה לראות תחזיות עבור מימד אחד (למשל. מד ה**  
-התחזית תומכת כעת בתחזיות עלות כוללת ולא עבור מטרים בודדים. מכאן, כאשר ' מקובצות לפי ' ממד, התחזיות יהיו עבור סך כל הפריטים בממד
+**אני רוצה לראות תחזיות עבור ממד יחיד (לדוגמה. Meter)**  
+התחזית תומכת כעת בהתחזיות עלות כוללות ולא במטרים בודדים. מכאן, כאשר 'מקובצים לפי' ממד, התחזיות יהיו עבור סך כל הפריטים בממד
 
 **מסמכים מומלצים**
 
-- [מהו ניהול עלות של תכלת?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [שיטות עבודה מומלצות לניהול עלות של תכלת](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [ניתוח עלויות והוצאות](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [סיור וניתוח עלויות באמצעות ' ניתוח עלות '](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [ניהול עלות של תכלת: תמחור](https://azure.microsoft.com/services/cost-management/#pricing)
+- [מהו Azure Cost Management?](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [שיטות עבודה מומלצות לניהול עלויות של Azure](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [ניתוח העלויות וההוצאות שלך](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [חקור ונתח עלויות באמצעות ניתוח עלות](https://docs.microsoft.com/azure/cost-management/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [ניהול עלויות של Azure: תמחור](https://azure.microsoft.com/services/cost-management/#pricing)
 - [סקירת עלויות בניתוח עלות](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support#review-costs-in-cost-analysis)
-- [ערכת לימוד של וידאו: יצירת תקציב בפורטל תכלת](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
-- [דרישות מוקדמות לצורך הצגה והתאמה אישית של תקציבים](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#prerequisites)
+- [ערכת לימוד בנושא וידאו: יצירת תקציב בפורטל Azure](https://www.youtube.com/watch?v=ExIVG_Gr45A&t=4s)
+- [דרישות מוקדמות להצגה ולהתאמה אישית של תקציבים](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#prerequisites)
 - [יצירה וניהול של תקציבים](https://docs.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#create-a-budget-in-the-azure-portal)
-- [קביעת תצורה של אוטומציה באמצעות האפשרות ' קבוצות פעולה של תכלת ותקציבים '](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
+- [קביעת תצורה של אוטומציה עם Azure Action Groups ו- API של תקציבים](https://docs.microsoft.com/azure/cost-management/tutorial-acm-create-budgets?WT.mc_id=Portal-Microsoft_Azure_Support#trigger-an-action-group)
 - [שימוש בהתראות עלות כדי לנטר שימוש והוצאות](https://docs.microsoft.com/azure/cost-management/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [שיטות עבודה מומלצות לניהול עלויות](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**סרטוני וידאו של ערכת לימוד**
+**סרטוני הדרכה**
 
-- [יצירת תקציב בפורטל ' תכלת '](https://go.microsoft.com/fwlink/?linkid=2146761)
-- [ניהול עלויות באמצעות API של תקציבים וקבוצות פעולה](https://go.microsoft.com/fwlink/?linkid=2147038)
+- [יצירת תקציב בפורטל Azure](https://go.microsoft.com/fwlink/?linkid=2146761)
+- [ניהול עלויות באמצעות ה- API של תקציבים וקבוצות פעולה](https://go.microsoft.com/fwlink/?linkid=2147038)
