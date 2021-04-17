@@ -2,7 +2,7 @@
 title: כלל בסיס
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "848"
 - "6700001"
-ms.openlocfilehash: db5494ef3e41920ffac0f0f114ee37d2936e07b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e423e489d64bce211495b21e58cf74cbc7dc10df
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686355"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820503"
 ---
-# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a><span data-ttu-id="3f5ab-102">פתרון בעיות ברשות MDM ב-Microsoft intune</span><span class="sxs-lookup"><span data-stu-id="3f5ab-102">Troubleshoot issues with MDM authority in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-mdm-authority-in-microsoft-intune"></a><span data-ttu-id="05fd2-102">פתרון בעיות עם רשות MDM ב- Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="05fd2-102">Troubleshoot issues with MDM authority in Microsoft Intune</span></span>
 
-<span data-ttu-id="3f5ab-103">להלן כמה מאמרים שימושיים לגבי תחילת העבודה עם ' שלחן ':</span><span class="sxs-lookup"><span data-stu-id="3f5ab-103">Here are some helpful articles about getting started with Intune:</span></span>
+<span data-ttu-id="05fd2-103">להלן כמה מאמרים שימושיים לגבי תחילת העבודה עם Intune:</span><span class="sxs-lookup"><span data-stu-id="05fd2-103">Here are some helpful articles about getting started with Intune:</span></span>
 
-- [<span data-ttu-id="3f5ab-104">מהו ' כוונון '?</span><span class="sxs-lookup"><span data-stu-id="3f5ab-104">What is Intune?</span></span>](https://docs.microsoft.com/intune/what-is-intune)
-- [<span data-ttu-id="3f5ab-105">כיצד להגדיר את ' שלחן ' בפעם הראשונה</span><span class="sxs-lookup"><span data-stu-id="3f5ab-105">How to set up Intune for the first time</span></span>](https://docs.microsoft.com/intune/setup-steps)
-- [<span data-ttu-id="3f5ab-106">שימוש במנגינה וניווט בה</span><span class="sxs-lookup"><span data-stu-id="3f5ab-106">Using and navigating Intune</span></span>](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
+- [<span data-ttu-id="05fd2-104">מהו Intune?</span><span class="sxs-lookup"><span data-stu-id="05fd2-104">What is Intune?</span></span>](https://docs.microsoft.com/intune/what-is-intune)
+- [<span data-ttu-id="05fd2-105">כיצד להגדיר את Intune בפעם הראשונה</span><span class="sxs-lookup"><span data-stu-id="05fd2-105">How to set up Intune for the first time</span></span>](https://docs.microsoft.com/intune/setup-steps)
+- [<span data-ttu-id="05fd2-106">שימוש בניווט ובניווט ב- Intune</span><span class="sxs-lookup"><span data-stu-id="05fd2-106">Using and navigating Intune</span></span>](https://docs.microsoft.com/intune/tutorial-walkthrough-intune-portal)
 
-<span data-ttu-id="3f5ab-107">אם אתה נתקל בבעיות עם הרשות של MDM, ראה [שינוי הסמכות של mdm](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).</span><span class="sxs-lookup"><span data-stu-id="3f5ab-107">If you are having issues with your MDM authority, refer to to [Change Intune MDM authority](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).</span></span>
+<span data-ttu-id="05fd2-107">אם אתה נתקל בבעיות עם רשות MDM שלך, עיין ב- [Change Intune MDM authority](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).</span><span class="sxs-lookup"><span data-stu-id="05fd2-107">If you are having issues with your MDM authority, refer to to [Change Intune MDM authority](https://docs.microsoft.com/alchemyinsights/change-mdm-authority).</span></span>
