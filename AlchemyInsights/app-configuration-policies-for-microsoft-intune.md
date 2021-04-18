@@ -1,25 +1,36 @@
 ---
-title: מדיניות קביעת תצורה של יישומים עבור Microsoft Intune
+title: פריטי מדיניות תצורת יישום ל- Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
-ms.translationtype: MT
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423604"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821331"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>מדיניות קביעת תצורה של יישומים עבור Microsoft Intune
+# <a name="app-configuration-policies-for-microsoft-intune"></a>פריטי מדיניות תצורת יישום ל- Microsoft Intune
 
-מדיניות תצורת אפליקציות ב-Microsoft Intune מספקות הגדרות תצורה עבור יישומי iOS או אנדרואיד. הגדרות תצורה אלה מאפשרות להתאים אישית את היישום. תמיכת מדיניות התצורה מוגבלת על-ידי גירסאות ויישומים של מערכת ההפעלה.
+פריטי מדיניות תצורת היישום ב- Microsoft Intune משמשים לצורך סיפוק הגדרות תצורה ליישומי iOS ו- Android. הגדרות תצורה אלה מאפשרות לבצע ביישום התאמות. שים לב למגבלות שנגזרות מגרסאות מערכת ההפעלה ומיכולת היישומים לתמוך בשימוש במדיניות התצורה.
 
-לקבלת פרטים נוספים, ראה [מדיניות תצורה של יישום עבור Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).
+לפרטים, סקור את התיעוד הבא:
+
+[פריטי מדיניות תצורת יישום ל- Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[הוספת פריטי מדיניות תצורת יישום למכשירי iOS מנוהלים](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[הוספת פריטי מדיניות תצורת יישום למכשירי Android מנוהלים](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[הוספת פריטי מדיניות תצורת יישום ליישומים מנוהלים ללא רישום מכשיר](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
