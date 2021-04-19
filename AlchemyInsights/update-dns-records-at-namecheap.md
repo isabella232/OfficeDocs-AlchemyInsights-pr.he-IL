@@ -1,26 +1,27 @@
 ---
-title: עדכון רשומות DNS ב-NameCheap
+title: עדכון רשומות DNS ב- NameCheap
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5810"
-ms.openlocfilehash: 4c6c640741a04a02fda3df8e64e90b98ad84eac4
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 036a570db0dd4153be34eafabb2f8864041d3ee0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650362"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834516"
 ---
-# <a name="update-dns-records-at-namecheap"></a><span data-ttu-id="9bb77-102">עדכון רשומות DNS ב-NameCheap</span><span class="sxs-lookup"><span data-stu-id="9bb77-102">Update DNS records at NameCheap</span></span>
+# <a name="update-dns-records-at-namecheap"></a><span data-ttu-id="5b4de-102">עדכון רשומות DNS ב- NameCheap</span><span class="sxs-lookup"><span data-stu-id="5b4de-102">Update DNS records at NameCheap</span></span>
 
-<span data-ttu-id="9bb77-103">השתמש בקישורים שלהלן כדי לסייע בעדכון רשומות ה-DNS שלך</span><span class="sxs-lookup"><span data-stu-id="9bb77-103">Use the links below to help update your DNS records</span></span>
+<span data-ttu-id="5b4de-103">השתמש בקישורים שלהלן כדי לסייע בעדכון רשומות ה- DNS שלך</span><span class="sxs-lookup"><span data-stu-id="5b4de-103">Use the links below to help update your DNS records</span></span>
 
-- [<span data-ttu-id="9bb77-104">צור רשומות DNS ב-NameCheap</span><span class="sxs-lookup"><span data-stu-id="9bb77-104">Create DNS records at NameCheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap?view=o365-worldwide)
-- [<span data-ttu-id="9bb77-105">הוספה או עריכה של רשומות DNS מותאמות אישית ב- Office 365</span><span class="sxs-lookup"><span data-stu-id="9bb77-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [<span data-ttu-id="5b4de-104">יצירת רשומות DNS ב- NameCheap</span><span class="sxs-lookup"><span data-stu-id="5b4de-104">Create DNS records at NameCheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap?view=o365-worldwide)
+- [<span data-ttu-id="5b4de-105">הוספה או עריכה של רשומות DNS מותאמות אישית ב- Office 365</span><span class="sxs-lookup"><span data-stu-id="5b4de-105">Add or edit custom DNS records in Office 365</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
