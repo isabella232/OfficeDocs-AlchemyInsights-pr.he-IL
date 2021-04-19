@@ -1,27 +1,28 @@
 ---
-title: שחזור פריטים שנמחקו באמצעות יישומון cmdlet
+title: שחזור פריטים שנמחקו באמצעות cmdlet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: 86744d92a44096991079d1da3bdf4e95e58c55b7
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
+ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493172"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835812"
 ---
-# <a name="recover-deleted-items-with-cmdlet"></a>שחזור פריטים שנמחקו באמצעות יישומון cmdlet
+# <a name="recover-deleted-items-with-cmdlet"></a>שחזור פריטים שנמחקו באמצעות cmdlet
 
-- השתמש ביישומון ה-cmdlet ' [השגת ההתאוששות](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) ' כדי להציג פריטים שנמחקו בתיבות דואר. לאחר שתמצא את הפריטים שנמחקו, השתמש ביישומון ה [-cmdlet שחזור-החזרת השחזור](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) כדי לשחזרו.
+- השתמש [ב- cmdlet Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) כדי להציג פריטים שנמחקו בתיבות דואר. לאחר שתמצא את הפריטים שנמחקו, השתמש ב- [cmdlet Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) כדי לשחזר אותם.
 
-- עיין בפרטים המלאים [בפריטים לקבלת ההתאוששות](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
+- עיין בפרטים [המלאים ב- Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
 
-- אתה צריך להיות מוקצה תפקיד ייבוא תיבת הדואר לפני שתוכל להפעיל יישומון זה. לקבלת מידע נוסף, עיין [בפריטי ההתאוששות](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) מכאן.
+- יש להקצות לך את התפקיד 'ייצוא ייבוא תיבת דואר' כדי שתוכל להפעיל cmdlet זה. לקבלת מידע [נוסף, ראה Get-RecoverableItems.](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps)

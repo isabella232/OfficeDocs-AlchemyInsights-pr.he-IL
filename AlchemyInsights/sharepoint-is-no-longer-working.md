@@ -2,7 +2,7 @@
 title: SharePoint אינו פועל עוד
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003047"
 - "5801"
-ms.openlocfilehash: 8477e59e72ce7874ae805c21a971f431389574e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 42e8cab99f21b55ce463ac431df1e17b22f9460c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800753"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826632"
 ---
 # <a name="sharepoint-is-no-longer-working"></a>SharePoint אינו פועל עוד
 
-קיימות כמה סיבות לכך שייתכן ש-SharePoint אינו פועל עוד.
+עשויות להיות כמה סיבות לכך ש- SharePoint אינו פועל עוד.
 
-1. אתר הבסיס של SharePoint נמחק וצריך לשחזר אותו. לקבלת מידע נוסף, ראה [מחיקת אתר הבסיס של SharePoint](https://docs.microsoft.com/sharepoint/troubleshoot/sites/url-that-resides-under-root-site-collection-is-broken).
-2. ייתכן שההרשאות השתנו או הוסרו. לקבלת מידע נוסף, ראה [אין אפשרות לגשת אל SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible).
-3. ייתכנו בעיות תקינות של שירות המתרחשות ב-SharePoint. לקבלת מידע נוסף, עיין [בלוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).
-4. בעיות בדפדפן עשויות למנוע ממשתמשים לפתוח את SharePoint. בקש מהמשתמשים לנסות את המצב הפרטי של הדפדפן שלו והיכנס שוב ל-SharePoint.
+1. ייתכן שמתרחשת בעיית תקינות שירות ב- SharePoint. לקבלת מידע נוסף, ראה לוח [מחוונים של תקינות שירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).
+2. ייתכן שהרשאות השתנו או הוסרו. לקבלת מידע נוסף, ראה [אין אפשרות לגשת ל- SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible).
+3. ייתכן שבעיות דפדפן מונעות ממשתמשים לפתוח את SharePoint. בקש מהמשתמשים לנסות מצב פרטי של הדפדפן שלהם ולהירשם שוב ל- SharePoint.

@@ -1,26 +1,27 @@
 ---
-title: עדכון רשומות DNS ב-Web.com
+title: עדכון רשומות DNS Web.com
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5808"
-ms.openlocfilehash: bbfbdf26a884c2daba819a0e5cb4152f5764e5d6
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 7cf4e49b35efb29076abb2bb02ca83156ec41cef
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650375"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827519"
 ---
-# <a name="update-dns-records-at-webcom"></a>עדכון רשומות DNS ב-Web.com
+# <a name="update-dns-records-at-webcom"></a>עדכון רשומות DNS Web.com
 
-השתמש בקישורים שלהלן כדי לסייע בעדכון רשומות ה-DNS.
+השתמש בקישורים שלהלן כדי לעזור לעדכן את רשומות ה- DNS שלך.
 
-- [צור רשומות DNS ב-Web.com](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com?view=o365-worldwide)
+- [יצירת רשומות DNS Web.com](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com?view=o365-worldwide)
 - [הוספה או עריכה של רשומות DNS מותאמות אישית ב- Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
