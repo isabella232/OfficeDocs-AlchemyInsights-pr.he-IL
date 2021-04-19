@@ -2,21 +2,22 @@
 title: הגדרת מנוי למגזר החינוך של Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 778a44b5da04db56304e866e502801e382e84363
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44841000"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787462"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>הגדרת מנוי למגזר החינוך של Microsoft 365
 
@@ -24,5 +25,5 @@ ms.locfileid: "44841000"
 
 **משאבים מעולים נוספים**
 
-- ראה [יצירת חשבון הדייר 365 של Office](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) לקבלת סקירה.
-- ראה [תחילת הפעולה עם Microsoft 365 השכלה](https://docs.microsoft.com/education/) עבור מנהלי IT, מפתחים ושותפים.
+- ראה [יצירת חשבון דייר Office 365 לקבלת](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) מבט כולל.
+- ראה [תחילת העבודה עם Microsoft 365 Education עבור](https://docs.microsoft.com/education/) מנהלי IT, מפתחים ושותפים.
