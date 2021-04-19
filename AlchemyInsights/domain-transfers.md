@@ -2,34 +2,32 @@
 title: העברות תחום
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: ffc549e81dff85ab3e91ddccd50e54603ee24ff0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43783972"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814878"
 ---
 # <a name="domain-transfers"></a>העברות תחום
 
-- [כיצד להעביר לספק אחר תחום שנרכש על-ידי Microsoft, לאחר 60 ימים](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+[כיצד להעביר לספק אחר תחום שנרכש על-ידי Microsoft, לאחר 60 ימים](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
-    - למרות שתחומים שנרכשו על-ידי Microsoft אינם תומכים בשינוי רשומות NS, שקול [לעדכן את רשומות ה-DNS עבור אתר האינטרנט שלך](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) במקום להעביר את רישום התחום שלך למארח האינטרנט.  
+- שים לב שלא ניתן להעביר תחום שנרכש ב- Microsoft בין דיירי Microsoft 365.
+- למרות ש התחומים שנרכשו של Microsoft לא תומכים בשינוי רשומות NS, שקול לעדכן רשומות [DNS](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) עבור אתר האינטרנט שלך במקום להעביר את רישום התחום שלך למארח האינטרנט.
 
-- לא ניתן להעביר תחום שנרכש על-ידי Microsoft בין דיירי Microsoft 365.  
+ניתן לאמת תחומים מותאמים [אישית והשתמשו בהם עם Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)
 
-    - עם זאת, באפשרותך להעביר תחום של ספק חיצוני בין דיירי Microsoft 365, על-ידי [הסרת התחום מדייר אחד](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) ולאחר מכן אימות התחום עבור דייר אחר.
+- לא ניתן להעביר רישום או חיוב של תחומים מותאמים אישית של ספקים אחרים ל- Microsoft.
 
-- לא ניתן להעביר ל-Microsoft רישום או חיוב תחומים של ספק חיצוני.
-
-    - עם זאת, [ניתן לאמת תחומים מותאמים אישית ולהשתמש בהם באמצעות Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-
-- לא ניתן להעביר או לשנות את שם התחומים ההתחלתיים בברירת המחדל – Onmicrosoft.com.
+Onmicrosoft.com לא ניתן להעביר או לשנות את שמם של תחומים המהווים ברירת מחדל.

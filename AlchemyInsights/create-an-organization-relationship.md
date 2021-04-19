@@ -1,50 +1,51 @@
 ---
-title: יצירת קשרי גומלין של ארגון כדי לאפשר למשתמשים שלך לשתף פעולה עם ארגון אחר
+title: יצירת קשר גומלין של ארגון כדי לאפשר למשתמשים שלך לשתף פעולה עם ארגון אחר
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 2c6cd6a178c6e012bfe1c8d769b037168ffa3254
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862107"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816129"
 ---
-# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>יצירת קשרי גומלין של ארגון כדי לאפשר למשתמשים שלך לשתף פעולה עם ארגון אחר
+# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>יצירת קשר גומלין של ארגון כדי לאפשר למשתמשים שלך לשתף פעולה עם ארגון אחר
 
-1. מלוח המחוונים של מרכז הניהול של Microsoft 365, עבור ל- **admin**  >  **Exchange**.
-2. עבור אל **organization**  >  **שיתוף**ארגון.
-3. תחת **שיתוף ארגון**, לחץ על **חדש** .
-4. **בקשר ארגון חדש**, בתיבה **שם קשר גומלין** , הקלד שם ידידותי עבור קשר הגומלין בין הארגון.
-5. בתיבה **תחומים שיש לשתף עם** , הקלד את התחום עבור הארגון החיצוני של Office 365 או Exchange המקומי שברצונך לאפשר לך לראות את לוחות השנה שלך. אם עליך להזין יותר מתחום אחד, הפרד בין שמות התחומים באמצעות פסיק. לדוגמה, contoso.com, service.contoso.com.
-6. בחר בתיבת הסימון **הפעל שיתוף מידע פנוי/לא פנוי בלוח השנה** כדי להפעיל את שיתוף לוח השנה עם קבוצות המחשבים שרשמת. הגדר את רמת השיתוף עבור מידע מועדים פנויים/לא פנויים בלוח השנה וקבע אילו משתמשים יכולים לשתף מידע פנוי/לא פנוי בלוח השנה.  
+1. מתוך לוח המחוונים של מרכז הניהול של Microsoft 365, עבור אל **Exchange**  >  **ניהול**.
+2. עבור אל **שיתוף**  >  **ארגוני**.
+3. תחת **שיתוף ארגוני**, לחץ על **חדש** .
+4. בקשר **גומלין ארגוני** חדש , בתיבה **שם קשר גומלין,** הקלד שם ידידותי עבור קשר הגומלין של הארגון.
+5. בתיבה **תחומים לשיתוף עם,** הקלד את התחום עבור הארגון החיצוני של Office 365 או Exchange המקומי שברצונך לתת לו לראות את לוחות השנה שלך. אם עליך להזין יותר מתחום אחד, הפרד את שמות התחומים באמצעות פסיק. לדוגמה, contoso.com, service.contoso.com.
+6. בחר **בתיבת הסימון הפוך שיתוף מידע לגבי לוח שנה לזמין/לא** פנוי כדי להפעיל שיתוף לוח שנה עם התחומים שאתה רשום. הגדר את רמת השיתוף עבור מידע לגבי מקומות פנויים/לא פנויים בלוח השנה וקבע אילו משתמשים יכולים לשתף מידע לגבי פנוי/לא פנוי בלוח השנה.  
 
-כדי להגדיר את רמת הגישה למועדים פנויים/לא פנויים, בחר באחת מהפעולות הבאות:
+כדי להגדיר את רמת הגישה פנויים/לא פנויים, בחר אחת מהאפשרויות הבאות:
 
 - **מידע לגבי מועדים פנויים/לא פנויים בלוח השנה עם שעה בלבד**
-- **מועדים פנויים/לא פנויים בלוח השנה עם זמן, נושא ומיקום**  
+- **לוח שנה פנוי/לא פנוי עם זמן, נושא ומיקום**  
 
- כדי לקבוע אילו משתמשים ישתפו מידע פנוי/לא פנוי בלוח השנה, בחר באחת מהפעולות הבאות:
+ כדי להגדיר אילו משתמשים ישתפו מידע לגבי לוח השנה לגבי פריטים פנויים/לא פנויים, בחר אחת מהאפשרויות הבאות:
 
 - **כל האנשים בארגון שלך**
 - **קבוצת אבטחה שצוינה**  
 
-לחץ על **עיון** כדי לבחור את קבוצת האבטחה מתוך רשימה ולאחר מכן לחץ על **אישור**.
+לחץ **על עיון** כדי לבחור את קבוצת האבטחה מתוך רשימה ולאחר מכן לחץ על **אישור.**
 
-לחץ על **שמור** כדי ליצור את קשר הגומלין בין הארגון.  
+לחץ **על שמור** כדי ליצור את קשר הגומלין של הארגון.  
 
-**הערה:** תצורות של הדיירים הצולבים אינן תומכות באנשי קשר אישיים לחיפוש מועדים פנויים/לא פנויים. יש לכלול את אנשי הקשר ברשימת הכתובות הכללית לעבודה בחיפוש מועדים פנויים/לא פנויים.
+**הערה:** תצורות של דיירים צולבות אינה תומכת אנשי קשר אישיים עבור בדיקת מידע בנושאים פנויים/לא פנויים. יש לכלול אנשי קשר ברשימת הכתובות הכללית כדי שבדיקת מידע של פנויים/לא פנויים תעבד.
 
-**לקבלת הבנה מלאה של נושא זה נא לקרוא:**
+**כדי להבין את הנושא הזה במלואו, קרא את הבאים:**
 
-- [יצירת קשר גומלין בין הארגון ב-Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [שינוי קשר גומלין בין הארגון ב-Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [הסרת קשר גומלין בין הארגון ב-Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [יצירת קשר גומלין של ארגון ב- Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [שינוי קשר גומלין של ארגון ב- Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [הסרת קשר גומלין של ארגון ב- Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)

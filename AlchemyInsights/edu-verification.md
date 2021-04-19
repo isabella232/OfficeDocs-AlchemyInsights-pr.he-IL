@@ -2,28 +2,29 @@
 title: אימות EDU
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205268"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814373"
 ---
 # <a name="edu-verification"></a>אימות EDU
 
-ברוב המקרים, בקשות לזכאות אקדמית מעובדות בתוך 24-48 שעות. בקשות מסוימות עשויות לדרוש סקירה יסודית יותר ויכולה להימשך עד 10 ימי עסקים כדי לעבד. ברגע שיושלם, אנו נשלח דוא ל עם מעמד הזכאות של בית הספר שלך.
+ברוב המקרים, בקשות הזכאות האקדמיות מעובדות תוך 24-48 שעות. בקשות מסוימות עשויות לדרוש סקירה מעמיקה יותר, ותהליך התהליך עשוי לאסוף עד 10 ימי עסקים. לאחר ההשלמה, נשלח הודעת דואר אלקטרוני עם מצב הזכאות של בית הספר שלך.
 
-**חשוב** אם יצאת מאשף האימות לפני הכניסה לתחום, באפשרותך [לחדש את אשף האימות האקדמי](https://go.microsoft.com/fwlink/p/?linkid=2135255) בכל עת במהלך הניסיון ללא תשלום.
+**חשוב** אם אתה יוצא מאשף האימות לפני הזנת תחום, באפשרותך לחדש את אשף האימות [האקדמי](https://go.microsoft.com/fwlink/p/?linkid=2135255) בכל עת במהלך גירסת הניסיון ללא תשלום.
 
-אם ברצונך לבדוק את מצב התחום שלך, עבור אל [מרכז הניהול של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). בדף הבית, גלול למטה וחפש את כרטיס **החיוב** . כרטיס **החיוב** מציין את המצב של תהליך האימות (מאושר, ממתין, נדחה או מוסיף את התחום שלך).
+אם תרצה לבדוק את מצב התחום שלך, עבור אל מרכז הניהול [של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). בדף הבית, גלול אל החלק התחתון ומצא את **כרטיס החיוב.** כרטיס **החיוב** מציין את מצב תהליך האימות (מאושר, ממתין, נדחה או הוסף את התחום שלך).
 
-, אם הבקשה שלך נדחית. תראה [שבית הספר שלי לא זכאי ? מה אני עושה עכשיו](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
+אם הבקשה שלך נדחתה, ראה [בית הספר שלי אינו זכאי. מה אני עושה עכשיו?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)

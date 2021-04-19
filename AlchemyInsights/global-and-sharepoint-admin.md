@@ -1,32 +1,33 @@
 ---
-title: ניהול גלובלי ו-SharePoint
+title: כללי ומנהל מערכת של SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5674"
-ms.openlocfilehash: 231f302bd3f3655b1fe72518d71b14d464914ce0
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 91abc97be5d616392f8d04b3641af3c9dd8bfd74
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44716420"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811889"
 ---
-# <a name="global-and-sharepoint-admin"></a>ניהול גלובלי ו-SharePoint
+# <a name="global-and-sharepoint-admin"></a>כללי ומנהל מערכת של SharePoint
 
-מנהלים גלובליים ו-SharePoint צריך להיות מוקצה רישיון SharePoint. חשבונות שנוצרו לאחרונה שהוקצו באמצעות רשיון או תפקיד מנהל של SharePoint עשויים להיתקל בבעיות בגישה ל-SharePoint, כגון "הגישה נדחתה" או "המשתמש לא נמצא". בבקשה תן לפחות 24 שעות לסנכרון כדי להשלים את המערכות שלנו. אנחנו מבינים ש -24 שעות. נראה כמו זמן רב במקרים רבים, אנחנו כבר עובדים על פתרון.
+יש להקצות רשיון SharePoint למנהלי מערכת כלליים ול- SharePoint. חשבונות חדשים שנוצרו שהוקצו זה עתה עם רשיון SharePoint או תפקיד מנהל מערכת עשויים להיתקל בבעיות בגישה ל- SharePoint, כמו "access denied" או "user not found". תן לפחות 24 שעות להשלמת הסינכרון בכל המערכות שלנו. אנו מבינים ש- 24 שעות עשויות להיראות כמו זמן רב. במקרים רבים, אנחנו כבר עובדים על פתרון.
 
-משתמשים שהוקצו לתפקיד הניהול הגלובלי או SharePoint יש גישה למרכז הניהול של SharePoint ויכולים ליצור ולנהל אתרים (שנקראו קודם לכן "אוספי אתרים"), לייעד מנהלי אתרים, לנהל הגדרות שיתוף ועוד. אין להם גישה אוטומטית לכל האתרים ולכל OneDrive של כל משתמש, אבל הם יכולים להעניק לעצמם גישה לכל אתר או OneDrive. הם יכולים גם להשתמש ב-Microsoft PowerShell כדי לנהל SharePoint ו-OneDrive.
+למשתמשים שהוקצו תפקיד הניהול הכללי או ל- SharePoint יש גישה למרכז הניהול של SharePoint, והם יכולים ליצור ולנהל אתרים (שנקראו בעבר "אוספי אתרים"), להקצות מנהלי אתרים, לנהל הגדרות שיתוף ועוד. אין להם גישה אוטומטית לכל האתרים ול- OneDrive של כל משתמש, אך הם יכולים להעניק לעצמם גישה לכל אתר או OneDrive. הם יכולים גם להשתמש ב- Microsoft PowerShell כדי לנהל את SharePoint ו- OneDrive.
 
-כדי ללמוד עוד, ראה [אודות תפקיד מנהל SharePoint ב-Microsoft 365](https://docs.microsoft.com/sharepoint/sharepoint-admin-role).
+כדי ללמוד עוד, [ראה אודות תפקיד מנהל המערכת של SharePoint ב- Microsoft 365](https://docs.microsoft.com/sharepoint/sharepoint-admin-role).
 קיימות מספר סיבות אפשריות לכך ש- Microsoft SharePoint או Microsoft OneDrive עלולות להפוך לבלתי נגישות. אם אינך יכול לגשת אל SharePoint Online, השתמש במדריך הבא כדי לפתור את הבעיה הזאת.
 
 - [לא ניתן לגשת אל SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
 
-- [הגישה נדחתה עבור חשבונות משתמשים מנוהלים של PIM במרכז ניהול SharePoint או OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)
+- [Access עבור חשבונות משתמשים המנוהלים באמצעות PIM במרכז הניהול של SharePoint או OneDrive](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)
