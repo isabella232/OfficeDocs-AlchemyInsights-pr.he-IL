@@ -1,23 +1,24 @@
 ---
-title: צוותי גילוי
+title: גילוי אלקטרוני של Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002981"
 - "5702"
-ms.openlocfilehash: 1648a9287a8ce5464ea8396f2499592bf10d9089
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 79157cf0c5b2c1424fadb37be5883f95590b5ad7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358079"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823500"
 ---
-# <a name="teams-ediscovery"></a><span data-ttu-id="de20a-102">צוותי גילוי</span><span class="sxs-lookup"><span data-stu-id="de20a-102">Teams eDiscovery</span></span>
+# <a name="teams-ediscovery"></a><span data-ttu-id="ca77f-102">גילוי אלקטרוני של Teams</span><span class="sxs-lookup"><span data-stu-id="ca77f-102">Teams eDiscovery</span></span>
 
-<span data-ttu-id="de20a-103">אתה יכול ללמוד עוד על צוותי דיסקברי [כאן](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span><span class="sxs-lookup"><span data-stu-id="de20a-103">You can learn more about Teams eDiscovery [here](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span></span>
+<span data-ttu-id="ca77f-103">באפשרותך לקבל מידע נוסף על גילוי אלקטרוני של Teams [כאן](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span><span class="sxs-lookup"><span data-stu-id="ca77f-103">You can learn more about Teams eDiscovery [here](https://docs.microsoft.com/microsoftteams/ediscovery-investigation).</span></span>

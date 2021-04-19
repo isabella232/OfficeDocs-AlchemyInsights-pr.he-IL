@@ -1,31 +1,32 @@
 ---
-title: מחברות גיבוי ב-OneNote
+title: גיבוי מחברות ב- OneNote
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000567"
 - "4500"
-ms.openlocfilehash: c6426ecf66089043fedb76baed4358b12b340388
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.openlocfilehash: fa45fbaca4727d3e14cc28b62bcd4c3b20824283
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44282993"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820539"
 ---
-# <a name="backup-notebooks-in-onenote"></a><span data-ttu-id="2608c-102">מחברות גיבוי ב-OneNote</span><span class="sxs-lookup"><span data-stu-id="2608c-102">Backup notebooks in OneNote</span></span>
+# <a name="backup-notebooks-in-onenote"></a><span data-ttu-id="866ea-102">גיבוי מחברות ב- OneNote</span><span class="sxs-lookup"><span data-stu-id="866ea-102">Backup notebooks in OneNote</span></span>
 
-<span data-ttu-id="2608c-103">OneNote יכול לשמור גיבויים של כל העבודה שלך, אך הדבר אינו אפשרי כעת ב-OneNote עבור האינטרנט.</span><span class="sxs-lookup"><span data-stu-id="2608c-103">OneNote can keep backups of all of your work, but that's not currently possible in OneNote for the web.</span></span> <span data-ttu-id="2608c-104">לקבלת מספר שלבים מפורטים בנוגע לביצוע פעולה זו ביישום שולחן העבודה של OneNote 2016, ראה גיבוי [הערות](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) [ושחזור הערות מגיבוי](https://support.microsoft.com/office/restore-notes-from-a-backup-5daf9cb0-6769-4998-a5de-f044fdd0d831).</span><span class="sxs-lookup"><span data-stu-id="2608c-104">For detailed steps on how to do this in the OneNote 2016 desktop app, see [Back up notes](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) and [Restore notes from a backup](https://support.microsoft.com/office/restore-notes-from-a-backup-5daf9cb0-6769-4998-a5de-f044fdd0d831).</span></span>
+<span data-ttu-id="866ea-103">OneNote יכול לשמור גיבויים של כל עבודתך, אך הדבר אינו אפשרי כעת ב- OneNote עבור האינטרנט.</span><span class="sxs-lookup"><span data-stu-id="866ea-103">OneNote can keep backups of all of your work, but that's not currently possible in OneNote for the web.</span></span> <span data-ttu-id="866ea-104">לקבלת שלבים מפורטים כיצד לעשות זאת באפליקציית שולחן העבודה של OneNote 2016, ראה גיבוי [הערות](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) [ושחזור הערות מתוך גיבוי](https://support.microsoft.com/office/5daf9cb0-6769-4998-a5de-f044fdd0d831).</span><span class="sxs-lookup"><span data-stu-id="866ea-104">For detailed steps on how to do this in the OneNote 2016 desktop app, see [Back up notes](https://support.office.com/article/back-up-notes-f58b34b0-611d-435e-87fa-7942a1767af4#id0eaabaaa=2016,_2013,_2010) and [Restore notes from a backup](https://support.microsoft.com/office/5daf9cb0-6769-4998-a5de-f044fdd0d831).</span></span>
 
-1. <span data-ttu-id="2608c-105">ביישום שולחן העבודה של OneNote 2016, לחץ על הלחצן **אפשרויות**.</span><span class="sxs-lookup"><span data-stu-id="2608c-105">In OneNote 2016 desktop app, click **File > Options**.</span></span>
-2. <span data-ttu-id="2608c-106">בתיבת הדו אפשרויות OneNote, לחץ על \* \* שמור _ אמפר _ גיבוי \* \*.</span><span class="sxs-lookup"><span data-stu-id="2608c-106">In the OneNote Options dialog box, click\*\* Save & Backup\*\*.</span></span>
-3. <span data-ttu-id="2608c-107">מימין, תחת **שמור**, לחץ על **תיקיית הגיבוי _ שינוי**.</span><span class="sxs-lookup"><span data-stu-id="2608c-107">On the right, under **Save**, click **Backup Folder > Modify**.</span></span>
-4. <span data-ttu-id="2608c-108">בתיבת הדו **בחירת תיקיה** , עבור אל תיקיית הגיבוי.</span><span class="sxs-lookup"><span data-stu-id="2608c-108">In the **Select Folder** dialog box, go to your backup folder.</span></span>
-5. <span data-ttu-id="2608c-109">לחץ על **בחירה** כדי לקבל את המיקום החדש ולאחר מכן לחץ על **אישור**.</span><span class="sxs-lookup"><span data-stu-id="2608c-109">Click **Select** to accept the new location, and then click **OK**.</span></span>
+1. <span data-ttu-id="866ea-105">באפליקציית שולחן העבודה של OneNote 2016, **לחץ על קובץ > אפשרויות**.</span><span class="sxs-lookup"><span data-stu-id="866ea-105">In OneNote 2016 desktop app, click **File > Options**.</span></span>
+2. <span data-ttu-id="866ea-106">בתיבת הדו-שיח אפשרויות OneNote, לחץ על\*\* שמור & גיבוי\*\*.</span><span class="sxs-lookup"><span data-stu-id="866ea-106">In the OneNote Options dialog box, click\*\* Save & Backup\*\*.</span></span>
+3. <span data-ttu-id="866ea-107">בצד ימין, תחת **שמור**, לחץ **על תיקיית גיבוי > שנה**.</span><span class="sxs-lookup"><span data-stu-id="866ea-107">On the right, under **Save**, click **Backup Folder > Modify**.</span></span>
+4. <span data-ttu-id="866ea-108">בתיבת **הדו-שיח** בחירת תיקיה, עבור אל תיקיית הגיבוי.</span><span class="sxs-lookup"><span data-stu-id="866ea-108">In the **Select Folder** dialog box, go to your backup folder.</span></span>
+5. <span data-ttu-id="866ea-109">לחץ **על בחר** כדי לקבל את המיקום החדש ולאחר מכן לחץ על **אישור.**</span><span class="sxs-lookup"><span data-stu-id="866ea-109">Click **Select** to accept the new location, and then click **OK**.</span></span>
 
-<span data-ttu-id="2608c-110">באמצעות OneNote עבור Windows 10, המחברות שלך נשמרות ב-OneDrive או ב-SharePoint.</span><span class="sxs-lookup"><span data-stu-id="2608c-110">With OneNote for Windows 10, your notebooks are stored either on OneDrive or on SharePoint.</span></span> <span data-ttu-id="2608c-111">כל הגירסאות של OneNote שומרים עותק מאוחסן במטמון של המחברות שלך במכשיר, כך שבאפשרותך לגשת אליהם גם כאשר אינך מחובר, וכל השינויים יסונכרנו כאשר תהיה מחובר.</span><span class="sxs-lookup"><span data-stu-id="2608c-111">All versions of OneNote keep a cached copy of your notebooks on your device, so you can access them even while you’re offline, and all the changes will sync when you are connected.</span></span>
+<span data-ttu-id="866ea-110">עם OneNote עבור Windows 10, המחברות שלך מאוחסנות ב- OneDrive או ב- SharePoint.</span><span class="sxs-lookup"><span data-stu-id="866ea-110">With OneNote for Windows 10, your notebooks are stored either on OneDrive or on SharePoint.</span></span> <span data-ttu-id="866ea-111">כל הגירסאות של OneNote שומרות עותק מאוחסן במטמון של המחברות שלך במכשיר שלך, כך שתוכל לגשת אליהן גם כשאתה במצב לא מקוון, וכל השינויים יסונכרנו כאשר תהיה מחובר.</span><span class="sxs-lookup"><span data-stu-id="866ea-111">All versions of OneNote keep a cached copy of your notebooks on your device, so you can access them even while you’re offline, and all the changes will sync when you are connected.</span></span>
