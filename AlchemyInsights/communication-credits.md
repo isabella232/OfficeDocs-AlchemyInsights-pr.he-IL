@@ -1,37 +1,30 @@
 ---
-title: נקודות זכות לתקשורת
+title: נקודות זכות של תקשורת
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: c22500656e8a1ffa20728699744a69c28b3b5159
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: a8e2fe0502f21286ebe3b272ed33e0eafb10632c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158616"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817461"
 ---
-# <a name="communication-credits"></a>נקודות זכות לתקשורת
+# <a name="communication-credits"></a>נקודות זכות של תקשורת
 
-נקודות זכות של תקשורת הן דרך נוחה לתשלום עבור דקות של שיחות ועידה קוליות ותוכנית שיחות.  תצטרך להגדיר נקודות זכות לתקשורת אם תרצה להשתמש במספרים ללא תשלום בעזרת Skype for Business ו- Microsoft Teams.  בנוסף, אנחנו ממליצים להגדיר נקודות זכות לתקשורת עבור משתמשי תוכניות השיחות (מקומיות או בינלאומיות) ומשתמשי שיחות ועידה בשמע שזקוקים ליכולת לחייג לכל יעד.
+נקודות זכות לתקשורת הן דרך נוחה לשלם עבור דקות של שיחות ועידה ושיחות. תצטרך להגדיר נקודות זכות לתקשורת אם תרצה להשתמש במספרים ללא תשלום בעזרת Skype for Business ו- Microsoft Teams.
 
-כמנהל מערכת, באפשרותך להוסיף כספים או להגדיר טעינה אוטומטית, שזו האפשרות המומלצת.  טעינה אוטומטית מעלה ליתרה המרבית שלך כאשר היא יורדת אל מתחת לסכום ההפעלה שהגדרת.  באפשרותך לעדכן את אפשרויות התשלום שלך בכל עת. בדף **חיוב > [מוצרים ושירותים](https://go.microsoft.com/fwlink/p/?linkid=842054)** בחר במנוי ‘נקודות זכות לתקשורת‘ וערוך את העדכונים שלך.
+- כדי להגדיר נקודות זכות לתקשורת, [ראה הגדרת נקודות זכות של תקשורת עבור הארגון שלך.](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) 
 
-1. אם תרצה להוסיף כספים נוספים מבלי להגדיר טעינה אוטומטית, לחץ על **הוסף כספים נוספים** באזור ה‘צריכה‘ והזן את הסכום שברצונך להוסיף.
+- כדי להוסיף ולנהל קרנות אשראי של תקשורת, [ראה הוספת כספים וניהול נקודות זכות של תקשורת.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits) 
 
-2. כדי להגדיר סכומי טעינה אוטומטית או לשנות סכומי טעינה אוטומטית והפעלה, לחץ על **שנה הגדרות טעינה** במקטע ‘חיוב‘ או **הגדרות טעינה אוטומטית** לצד החלק התחתון של הדף.  
-
-3. הזן את סכום הטעינה.  זה הסכום שתרצה להוסיף בכל טעינה.  
-
-4. הזן את הערך בשדה **כאשר היתרה יורדת מתחת**.  זאת היתרה שתפעיל את הטעינה.
-
-5. לחץ על **שמור שינויים**.
-
-לקבלת מידע נוסף אודות הוספה וניהול של כספי נקודות זכות לתקשורת, ראה [הוספת כספים וניהול נקודות זכות לתקשורת](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). בנוסף, ראה [הגדרת נקודות זכות לתקשורת עבור הארגון שלך](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).
+לקבלת מידע נוסף, [ראה אילו נקודות זכות של תקשורת?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

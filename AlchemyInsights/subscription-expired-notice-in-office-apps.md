@@ -1,24 +1,25 @@
 ---
-title: הודעת פג תוקף המנוי באפליקציות Office
+title: הודעה שפג תוקפה של המנוי באפליקציות Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789267"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823572"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>הודעת "פג תוקף המנוי" באפליקציות Office
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>הודעת "פג תוקפו של המנוי" באפליקציות Microsoft 365
 
 - בדוק את [דף תקינות השירות](https://docs.microsoft.com/office365/enterprise/view-service-health) כדי לבדוק אם יש בעיות ידועות בשירות.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43789267"
 
 - הפעל את [פותר בעיות ההפעלה](https://aka.ms/SARA-OfficeActivation-Alchemy) והפעל מחדש את המחשב.
 
-- במחשב המושפע, [אפס את מצב ההפעלה של Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- במחשב המושפע, [אפס את מצב ההפעלה של Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 לקבלת הוראות מפורטות, ראה: 
 

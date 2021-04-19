@@ -1,25 +1,26 @@
 ---
-title: קביעת תצורה של מדיניות IRM בספריות מסמכים של SharePoint כדי להגביל את הורדת התוכן
+title: קביעת תצורה של פריטי מדיניות IRM בספריות מסמכים של SharePoint כדי להגביל את הורדת התוכן
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5712"
-ms.openlocfilehash: 5260448fb16a015bf76e4467d732855015c84113
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: d54125d735db7c169b2e5b0394675dd65b62f8f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507839"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817209"
 ---
-# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>קביעת תצורה של מדיניות IRM בספריות מסמכים של SharePoint כדי להגביל את הורדת התוכן
+# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>קביעת תצורה של פריטי מדיניות IRM בספריות מסמכים של SharePoint כדי להגביל את הורדת התוכן
 
-בתוך SharePoint Online, הגנת IRM מוחלת על קבצים ברמת הרשימה והספריה. לפני שהארגון שלך יכול להשתמש בהגנת IRM, עליך להגדיר תחילה את ניהול זכויות. IRM מסתמך על שירות ניהול זכויות תכלת מתוך הגנת מידע תכלת כדי להצפין ולהקצות מגבלות שימוש.
+בתוך SharePoint Online, הגנת IRM מוחלת על קבצים ברמת הרשימה והספריה. כדי שהארגון שלך יוכל להשתמש בהגנת IRM, תחילה עליך להגדיר ניהול זכויות. IRM מסתמך על שירות Azure Rights Management מתוך Azure Information Protection כדי להצפין ולהקצות הגבלות שימוש.
 
-- [קביעת תצורה של מדיניות IRM בספריות מסמכים של SharePoint כדי להגביל את הורדת התוכן](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).
+- [קביעת תצורה של פריטי מדיניות IRM בספריות מסמכים של SharePoint כדי להגביל את הורדת התוכן.](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)

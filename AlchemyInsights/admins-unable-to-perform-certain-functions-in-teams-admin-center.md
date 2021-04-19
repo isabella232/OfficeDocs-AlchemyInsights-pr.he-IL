@@ -2,9 +2,10 @@
 title: מנהלי מערכת אינם יכולים לבצע פונקציות מסוימות במרכז הניהול של Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -15,12 +16,12 @@ ms.custom:
 - "5057"
 - "9000701"
 - "5067"
-ms.openlocfilehash: 676f6a2a93d1cff67729b94e7ecddcbdb04dacfc
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: aa290469a2711ae55d9eeec8635f219fd8e96b85
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43914908"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821808"
 ---
 # <a name="admins-unable-to-perform-certain-functions-in-the-teams-admin-center"></a>מנהלי מערכת אינם יכולים לבצע פונקציות מסוימות במרכז הניהול של Teams
 

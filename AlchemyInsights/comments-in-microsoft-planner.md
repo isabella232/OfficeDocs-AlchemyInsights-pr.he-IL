@@ -2,21 +2,22 @@
 title: הערות ב- Microsoft Planner
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: 09385fd0235939d01e0baf141362cb8b76910682
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911221"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817641"
 ---
 # <a name="comments-in-microsoft-planner"></a>הערות ב- Microsoft Planner
 
@@ -32,4 +33,4 @@ ms.locfileid: "43911221"
 
 - **משתמשים שהוסרו מקבלים הודעות דואר אלקטרוני** - אם משתמש מעיר הערה לגבי משימה לפני הסרתו מהתוכנית, הליך המשנה של הדואר האלקטרוני כולל את המשתמש עבור כל הערה שבוצעה במשימה.
 
-לקבלת מידע מפורט על הערות באמצעות Microsoft Planner, ראה ['כיצד פועל Microsoft Planner'](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) ו['הערה לגבי משימות ב- Microsoft Planner'](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+לקבלת מידע מפורט על הערות באמצעות Microsoft Planner, ראה ['כיצד פועל Microsoft Planner'](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) ו['הערה לגבי משימות ב- Microsoft Planner'](https://support.microsoft.com/office/fd4aedde-7785-4cd0-96ee-122fbc9140e1).

@@ -2,21 +2,22 @@
 title: בעיות תאימות נפוצות ופתרונות
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
-ms.translationtype: HT
+ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231585"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817353"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>בעיות תאימות נפוצות ופתרונות
 
@@ -31,5 +32,7 @@ ms.locfileid: "43231585"
 - ביקורת ב- O365: [חיפוש ביומן ביקורת ב- O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
 
 - מניעת אובדן נתונים (DLP): ראה [סקירה של מניעת אובדן נתונים (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide) לקבלת מידע נוסף.
+ 
+- תוויות רגישות : כדי ללמוד עוד, ראה יצירה [והגדרה של תוויות רגישות ומדיניות שלהן.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
 
 **הערה**: לקבלת תשובה מפורטת יותר על בעיית תאימות, נסה לנסח בקצרה שוב את השאלה שלך ולכלול את השגיאות שאתה רואה או את התכונות שבהן אתה משתמש.

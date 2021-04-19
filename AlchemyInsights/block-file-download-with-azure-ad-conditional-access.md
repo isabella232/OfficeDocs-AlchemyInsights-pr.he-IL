@@ -1,25 +1,26 @@
 ---
-title: בלוק הורדת קובץ באמצעות גישה מותנית תכלת
+title: חסימת הורדת קבצים באמצעות גישה מותית של Azure AD
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5710"
-ms.openlocfilehash: 284c82d3f7e3e75ad1ac2f502df11cd682781566
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: 9c18d711616e8ae7f1ba469b95524818f0f2a5b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44357989"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820215"
 ---
-# <a name="block-file-download-with-azure-ad-conditional-access"></a>בלוק הורדת קובץ באמצעות גישה מותנית תכלת
+# <a name="block-file-download-with-azure-ad-conditional-access"></a>חסימת הורדת קבצים באמצעות גישה מותית של Azure AD
 
-מדיניות הפעלת האבטחה של Cloud App מאפשרת לך להגביל הפעלה המבוססת על מצב ההתקן. כדי להשיג שליטה בהפעלה באמצעות ההתקן שלה כתנאי, צור הן מדיניות גישה מותנית והן מדיניות הפעלה.
+מדיניות הפעלה של אבטחת יישום ענן מאפשרת לך להגביל הפעלה בהתבסס על מצב המכשיר. כדי להשיג שליטה בהפעלה באמצעות המכשיר שלה כת תנאי, צור מדיניות גישה מותנות ומדיניות הפעלה.
 
-- [לחסום קובץ הורדה עם גישה מותנית תכלת AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [חסימת הורדת קובץ עם גישה מותית של Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
