@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740511"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952229"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>מדיניות שמירה במרכז הניהול של Exchange
 
-אם ברצונך לבצע בדיקות אוטומטיות עבור ההגדרות המוזכרות להלן, בחר את לחצן ' הקודם ' < '-בחלק העליון של דף זה, ולאחר מכן הזן את כתובת הדואר האלקטרוני של המשתמש שנתקל בבעיות עם מדיניות שמירה.
+אם ברצונך שנריץ בדיקות אוטומטיות עבור ההגדרות שהוזכרו להלן, בחר את לחצן הקודם <- בחלק העליון של דף זה ולאחר מכן הזן את כתובת הדואר האלקטרוני של המשתמש שיש לו בעיות במדיניות שמירה.
 
- **בעיה:** מדיניות שמירה חדשה שנוצרה או עודכנה במרכז הניהול של Exchange אינה חלה על תיבות דואר או פריטים אינם מועברים לתיבת הדואר של הארכיון או נמחקים. 
-  
- **גורמים בסיסיים:**
-  
-- ייתכן שהסיבה לכך היא **שמסייע התיקיות המנוהלות** לא עיבד את תיבת הדואר של המשתמש. מסייע התיקיות המנוהלות מנסה לעבד כל תיבת דואר בארגון מבוסס הענן שלך פעם בכל שבעה ימים. אם אתה משנה תגית שמירה או מחיל מדיניות שמירה שונה על תיבת דואר, באפשרותך להמתין עד לקבלת סיוע בתיקיה המנוהלת לעיבוד תיבת הדואר, או להפעיל את ה-cmdlet Start-ManagedFolderAssistant כדי להפעיל את מסייע התיקיות המנוהלות כדי לעבד תיבת דואר ספציפית. הפעלת cmdlet זה שימושית לבדיקה או לפתרון בעיות של מדיניות שמירה או הגדרות של תגית שמירה. לקבלת מידע נוסף, בקר [בהפעלת מסייע התיקיות המנוהלות](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
-    
-  - **הפתרון:** הפעל את הפקודה הבאה כדי להפעיל את מסייע התיקיות המנוהלות עבור תיבת דואר ספציפית:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+אם אתה נתקל בבעיות במדיניות שמירה במרכז הניהול של Exchange שלא חלות על תיבות דואר או על פריטים שלא עוברים לתיבת הדואר של הארכיון, בדוק את הפעולות הבאות:
 
-- הדבר עשוי להתרחש גם אם **RetentionHold** הפך **לזמין** בתיבת הדואר. אם תיבת הדואר ממוקמת ב-RetentionHold, מדיניות השמירה בתיבת הדואר לא תעובד במהלך זמן זה. לקבלת מידע נוסף על informaton בהגדרה RetentionHold ראה: [החזקת שמירה של תיבת דואר](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
-    
-    **פתרון**
-    
-  - בדוק את מצב ההגדרה RetentionHold בתיבת הדואר הספציפית ב- [קליפת powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+**סיבות בסיס:**
 
-  - הפעל את הפקודה הבאה כדי **להפוך את RetentionHold ללא זמין** בתיבת דואר ספציפית:
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- **מסייע התיקיות** המנוהלים לא עיבד את תיבת הדואר של המשתמש. מסייע התיקיות המנוהלים מנסה לעבד כל תיבת דואר בארגון המבוסס על ענן צמתים פעם בשבעה ימים.
 
-  - כעת, הפעל מחדש את מסייע התיקיות המנוהלות:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  **הפתרון:** הפעל את מסייע התיקיות המנוהלים.
 
- **הערה:** אם תיבת דואר קטנה מ-10 MB, מסייע התיקיות המנוהלות לא יעבד באופן אוטומטי את תיבת הדואר.
+- **RetentionHold** הופעל **בתיבת** הדואר. אם תיבת הדואר ממוקמת ב- RetentionHold, מדיניות השמירה בתיבת הדואר לא תעובד במהלך זמן זה.
+
+  **הפתרון:** בדוק את המצב של הגדרת החזקת שמירה ועדכן אותו כצורך. לקבלת פרטים, ראה [החזקת שמירת תיבת דואר](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
  
-לקבלת מידע נוסף אודות מדיניות שמירה במרכז הניהול של Exchange, ראה:
-- [תגי שמירה ומדיניות שמירה](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [החלת מדיניות שמירה על תיבות דואר](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [הוספה או הסרה של תגי שמירה](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [כיצד לזהות את סוג החסימה שתמוקם בתיבת דואר](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+**הערה:** אם תיבת דואר קטנה מ- 10 MB, מסייע התיקיות המנוהלים לא יעבד באופן אוטומטי את תיבת הדואר.
+ 
+לקבלת מידע נוסף על מדיניות שמירה במרכז הניהול של Exchange, ראה:
+
+- [תגיות שמירה ומדיניות שמירה](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+
+- [החלת מדיניות שמירה על תיבות דואר או](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) [הוספה או הסרה של תגיות שמירה](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
+- [כיצד לזהות את סוג הה להחזיק בתיבת דואר](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
