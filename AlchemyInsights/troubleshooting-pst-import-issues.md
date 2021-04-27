@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 07609b39149c003b029f3ea5669f4044af43c25d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
+ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826164"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52059816"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>פתרון בעיות ייבוא PST
 
-- אם אתה מייבא בתוך לקוח Outlook עצמו, ראה [פתרון בעיות בייבוא קובץ. pst של Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- אם אתה מייבא בתוך לקוח Outlook עצמו, ראה [פתרון בעיות בייבוא קובץ .pst של Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
 
-- אם אתה משתמש בשירות הייבוא והוא נתקע, שים לב שכל קובץ PST שאתה מעלה למיקום באחסון Azure צריך להיות גדול מ- 20 GB. קבצי PST גדולים מ- 20 GB עלולים להשפיע על הביצועים של תהליך ייבוא PST.
+- אם אתה משתמש בשירות ייבוא והוא תקוע, שים לב שכל קובץ PST שאתה מעלה למיקום Azure Storage לא אמור להיות גדול מ- 20GB. קבצי PST הגדולים מ- 20GB עשויים להשפיע על הביצועים של תהליך הייבוא של PST. לקבלת מידע נוסף פתרון בעיות של משימות תקועות, ראה בעיות [המשפיעות על משימות ייבוא PST](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 
-- אם ברצונך לאמת את המצב של משימת ייבוא מסוימת, באפשרותך להשתמש ב[Get-MailboxImportRequest](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
+- אם ברצונך לאמת את המצב של משימת ייבוא ספציפית, השתמש [ב- Get-MailboxImportRequest -batchname](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-mailboximportrequest).
 
-- לקבל פרטים מלאים אודות שירות הייבוא, ראה [סקירה של יבוא קבצי PST של הארגון שלך](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide).
+- לקבלת פרטים מלאים על שירות הייבוא, ראה [מבט כולל על ייבוא קבצי ה- PST של הארגון שלך.](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365?view=o365-worldwide)
