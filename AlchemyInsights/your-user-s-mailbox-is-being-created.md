@@ -11,15 +11,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 5e4903019f4ab1ec478ec8fb13bcfc6f4ed9f884
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ac93b93639a518a66d45f644bbd80a61c23c62
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796253"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261809"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a><span data-ttu-id="7b137-102">יצירת תיבת הדואר של המשתמש נמשכת זמן רב</span><span class="sxs-lookup"><span data-stu-id="7b137-102">User mailbox creation is taking a long time</span></span>
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a><span data-ttu-id="ad83b-102">יצירת תיבות דואר של משתמש תם זמן רב</span><span class="sxs-lookup"><span data-stu-id="ad83b-102">User mailbox creation is taking a long time</span></span>
 
-<span data-ttu-id="7b137-103">באפשרותך להימשך עד 24 שעות לפני שתיבת דואר חדשה תהיה מוכנה לשימוש.</span><span class="sxs-lookup"><span data-stu-id="7b137-103">It can take up to 24 hours before a new mailbox is ready to use.</span></span>
+<span data-ttu-id="ad83b-103">24 שעות לפני שתיבת דואר חדשה מוכנה לשימוש.</span><span class="sxs-lookup"><span data-stu-id="ad83b-103">It can take up to 24 hours before a new mailbox is ready to use.</span></span>
   
-<span data-ttu-id="7b137-104">אם תיבת הדואר של המשתמש "הכנה" במשך יותר משעה, נסה להסיר את רשיון Exchange מהמשתמש ולהוסיף אותו שוב, או [פנה לתמיכה](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).</span><span class="sxs-lookup"><span data-stu-id="7b137-104">If the user's mailbox has been "Preparing" for more than an hour, try removing the Exchange license from the user and re-adding it back, or [contact support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).</span></span>
+<span data-ttu-id="ad83b-104">אם תיבת הדואר של המשתמש "מתכונן" כבר יותר משעה, נסה להסיר את Exchange מהמשתמש ולהוסיף אותו מחדש, או פנה [לתמיכה](/microsoft-365/admin/contact-support-for-business-products?tabs=online).</span><span class="sxs-lookup"><span data-stu-id="ad83b-104">If the user's mailbox has been "Preparing" for more than an hour, try removing the Exchange license from the user and re-adding it back, or [contact support](/microsoft-365/admin/contact-support-for-business-products?tabs=online).</span></span>
