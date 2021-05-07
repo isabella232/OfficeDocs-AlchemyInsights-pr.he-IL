@@ -1,5 +1,5 @@
 ---
-title: אודות עדכוני אבטחה של Exchange Server
+title: אודות Exchange Server עדכונים
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726528"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233463"
 ---
-# <a name="about-exchange-server-security-updates"></a>אודות עדכוני אבטחה של Exchange Server
+# <a name="about-exchange-server-updates"></a>אודות Exchange Server עדכונים
 
-Microsoft הפיצה סידרה של עדכוני אבטחה קריטיים עבור Exchange Server מקומי. גירסאות השרת המושפעות הן כל רמות העדכון של Exchange Server 2010, 2013, 2016 ו-2019. Exchange Online אינו מושפע, אך אם יש לך כמה שרתי Exchange מקומיים בשל התצורה ההיברידית, הם עלולים להיות פגיעים.
+Microsoft בדרך כלל מפצה Exchange Server עדכונים בעדכון יום שלישי (עדכוני אבטחה) או רבעוני (עדכונים מצטברים). כדי לראות את ההודעות של העדכונים האחרונים שהופצה, [עיין בבלוג Exchange צוות](https://aka.ms/ehlo).
 
-עיין בהודעה הבאה לגבי מיקום התיקונים: הודעה [: עדכוני אבטחה של שרת Exchange ב-2021](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- כדי למלא את Exchange שלך, השתמש [בקובץ ה- Script Exchange Server Health Checker , (GitHub, השתמש במהדורה העדכנית ביותר)](https://aka.ms/ExchangeHealthChecker). הפעלת קובץ Script זה מציינת אם אחד מהשרתים Exchange שלך נמצא מאחורי עדכונים (יחידות CUs ו- SUs).
 
-**הערות חשובות:**
+- כדי לעדכן לעדכון המצטבר האחרון, עבור [אל אשף Exchange](https://aka.ms/ExchangeUpdateWizard) ובחר את CU הפועל כעת ואת CU היעד שלך. בחר **ספר לי את השלבים** לקבלת הוראות הגעה עבור הסביבה שלך.
 
-אם אתה מתקין עדכונים באופן ידני, קרא את הסעיף "בעיות ידועות" של מאמרים של update KB לקבלת מידע חשוב. עדכוני אבטחה חייבים לפעול מתוך ההנחיה המוגברת של CMD/PowerShell!
-
-עדכון מידע פתרון בעיות ניתן [למצוא כאן](https://aka.ms/exupdatefaq).
+- אם אתה נתקל בשגיאות במהלך או לאחר התקנת עדכוני Exchange Server, ראה [תיקון התקנות שנכשלו של Exchange מצטברים ועדכוני אבטחה](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues).

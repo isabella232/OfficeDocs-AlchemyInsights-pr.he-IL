@@ -1,5 +1,5 @@
 ---
-title: תיקון קובץ. pst לפני הייבוא
+title: תיקון קבצי .pst או .ost
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,25 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b6f3d55d69ce0664fa6316c6879ade9849d5950
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799097"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233715"
 ---
-# <a name="repair-pst-file-before-importing"></a>תיקון קובץ. pst לפני הייבוא
+# <a name="repair-pst-or-ost-files"></a>תיקון קבצי .pst או .ost
 
-לפני שתייבא קובץ. pst ב-Outlook, ודא שהקובץ אינו פגום על-ידי תיקון הקובץ:
+ודא שהקובץ אינו פגום על-ידי תיקון הקובץ:
 
 1. צא מ-Outlook.
 
-2. חפש והפעיל `Scanpst.exe` את תיקיית תוכנית Office שלך (C:\Program Files (x86) \Microsoft Office\root\Office \<Version\> או C:\Program Files\Microsoft Office\root\Office \<Version\> ).
+2. חפש ולהפעיל בתיקיית `Scanpst.exe` תוכנית Office (C:\Program Files (x86)\Microsoft Office\root\Office \<Version\> או C:\Program Files\Microsoft Office\root\Office). \<Version\>
 
-3. בכלי **התיקון של תיבת הדואר הנכנס של Microsoft Outlook**, לחץ על **עיון** כדי למצוא את קובץ ה-. pst (לדוגמה, ב-C:\Users \\ <username \> \AppData\Local\Microsoft\Outlook). בחר את קובץ ה-. pst ולאחר מכן לחץ על **פתח**.
+3. בכלי **התיקון של תיבת הדואר הנכנס**  של Microsoft Outlook , לחץ על עיון כדי למצוא את הקובץ .pst או .ost (לדוגמה, ב- C:\Users<\\ username \> \AppData\Local\Microsoft\Outlook). בחר את הקובץ ולאחר מכן לחץ על **פתח**.
 
-4. לחץ על **התחל** כדי להתחיל בסריקה.
+4. לחץ **על התחל** כדי להתחיל את הסריקה.
 
-5. אם נמצאו שגיאות בקובץ, לחץ על **תיקון**ולאחר מכן לחץ על **אישור** בעת השלמת התיקון.
+5. אם נמצאו שגיאות בקובץ, לחץ על **תקן** ולאחר מכן לחץ **על אישור** לאחר השלמת התיקון.
 
-6. נסה שוב לייבא את קובץ ה-. pst ב-Outlook.
-
-לקבלת מידע נוסף, ראה [תיקון קבצי נתונים של Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) [ופתרון בעיות בייבוא קובץ. pst של outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+לקבלת מידע נוסף, [ראה תיקון Outlook נתונים ותיקון](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) [בעיות בייבוא Outlook .pst.](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)

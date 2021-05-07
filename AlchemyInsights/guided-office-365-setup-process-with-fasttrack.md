@@ -1,5 +1,5 @@
 ---
-title: תהליך ההגדרה של Office 365 מודרך באמצעות FastTrack
+title: תהליך ההגדרה Office 365 עם FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6939"
-ms.openlocfilehash: 563d6c252740f577d9093febf2985f3cb65662e1
-ms.sourcegitcommit: c0b8e17c8696632e321e69b617aaff2958201e9b
+- "9419"
+ms.openlocfilehash: 4b8006959728192ba97fd1770f0caa71aaf7ca53
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194541"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233751"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>תהליך ההגדרה של Office 365 מודרך באמצעות FastTrack
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>תהליך ההגדרה Office 365 עם FastTrack
 
-אם אתה זכאי לסיוע של Office 365 FastTrack, באפשרותך לבקש עזרה דרך הפורטל. אם אתה מחפש עזרה מבוססת-עצמית או הדרכה משותף, אשפי ההתקנה של Office 365 או שותף מוסמך יכולים לסייע לך בתהליך.
+אם אתה זכאי לסיוע Office 365 FastTrack, באפשרותך לבקש עזרה דרך הפורטל. אם אתה מחפש עזרה או הדרכה מונחה עצמית משותף, אשפי ההגדרה Office 365 שלנו או שותף מוסמך יכולים לסייע לך בתהליך.
 
-1. כדי לקבל עזרה דרך פורטל FastTrack, היכנס [לפורטל FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) ובצע את השלבים כדי להשלים את הבקשה לסיוע באמצעות הטופס של Microsoft 365.
+- כדי לקבל עזרה בפורטל FastTrack, היכנס לפורטל [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) ובצע את השלבים כדי להשלים את הבקשה לסיוע באמצעות Microsoft 365 הטופס.
 
     > [!NOTE]
-    > אם אתה נתקל בבעיות בכניסה או זקוק לסיוע נוסף, שלח הודעת דואר אלקטרוני ל- [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+    > אם אתה נתקל בבעיות בכניסה או אם אתה זקוק לעזרה נוספת, שלח הודעת דואר אלקטרוני [אל ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
-2. לקבלת עזרה מבוססת-עצמית עבור Office 365, ראה [הדרכה בנושא הגדרה](https://go.microsoft.com/fwlink/?linkid=2125827).
-3. כדי למצוא ספק פתרונות, ראה [אני מחפש ספק פתרונות](https://go.microsoft.com/fwlink/?linkid=2125918).
+- לקבלת עזרה מונחה עצמית עבור Office 365, ראה [הדרכה בנושא הגדרה](https://go.microsoft.com/fwlink/?linkid=2125827).
+- כדי למצוא ספק פתרונות, [ראה אני מחפש ספק פתרונות](https://go.microsoft.com/fwlink/?linkid=2125918).

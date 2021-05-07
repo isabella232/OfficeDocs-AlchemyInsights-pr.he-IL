@@ -1,5 +1,5 @@
 ---
-title: ביטול מנוי Microsoft 365
+title: ביטול Microsoft 365 מנוי
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 0dc2436fa0e52b1b13348d0f79247fcb75423d95
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348630"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261629"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>מבטל את מנוי Microsoft 365 שלך?
+# <a name="canceling-your-microsoft-365-subscription"></a>ביטול המנוי Microsoft 365 שלך?
 
-אנו מצטערים שאנו רואים אותך, אך אם ברצונך לבטל את המנוי שלך, להלן האפשרויות הבאות:
+אנו מצטערים לראות אותך הולך, אך אם ברצונך לבטל את המנוי שלך, להלן האפשרויות שלך:
   
-- אם אתה לקוח ניסיון, אין מה לבטל. תוקף מנויי ניסיון יפוג באופן אוטומטי, אלא אם כן אתה מספק שיטת תשלום.
-- אם יש לך פחות מ-25 רשיונות מוקצים, באפשרותך לבטל את המנוי שלך באופן מקוון. עבור אל הדף **חיוב** \> [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) ואתר את המנוי שברצונך לבטל. בחר **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **בטל מנוי**.
-- אם יש לך יותר מ-25 רשיונות שהוקצו למשתמשים, [התקשר לתמיכה כדי לבטל את המנוי שלך](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- אם אתה לקוח ניסיון, אין מה לבטל. פג תוקפם של מנויי ניסיון באופן אוטומטי, אלא אם תספק שיטת תשלום.
+- אם יש לך פחות מ- 25 רשיונות מוקצים, באפשרותך לבטל את המנוי שלך באופן מקוון. עבור אל **הדף חיוב** \> [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך ומצא את המנוי שברצונך לבטל. בחר **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר ביטול **מנוי**.
+- אם הוקצו למשתמשים יותר מ- 25 רשיונות, [התקשר לתמיכה כדי לבטל את המנוי שלך.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
 
-**החזר כספי: כל האשראי היחסי שלך יוחזר אליך במהלך מחזור החיוב הבא.**
+**החזר: כל נקודות זכות מדורגות יוחזרו לך במחזור החיוב הבא.**
 
 > [!NOTE]
-> אם אינך רואה את האפשרות לביטול, בחר את המנוי כדי להציג את דף הפרטים. במקטע **מנוי והגדרות תשלום** , בחר **בטל מנוי**.
+> אם אינך רואה את האפשרות לבטל, בחר את המנוי כדי להציג את דף הפרטים. במקטע הגדרות **מנוי ותשלום,** בחר **ביטול מנוי.**
 
-לקבלת מידע נוסף, ראה [ביטול המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+כדי ללמוד עוד, ראה [ביטול המנוי שלך.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
