@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002921"
 - "5673"
-ms.openlocfilehash: a1c4c4d2fadaf75eda9b5b322aca35c32dfee8ea
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 57d1e2d696a8be42b5f868f021d829bf019349bf
+ms.sourcegitcommit: 3994cece80410371330b39f7b79b1b1c1bfcf648
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792133"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52286681"
 ---
 # <a name="need-to-mark-a-domain-or-email-sender-safe"></a>האם עליך לסמן תחום או שולח דואר אלקטרוני בטוחים?
 
 - השימוש **ברשימות שולחים בטוחים אינו מומלץ** מאחר שהוא פותח את הארגון שלך כדי לשלוח הודעות זבל, דיוג ותקפות תוקף.
-- עם זאת, אם יש דרישה עסקית, מומלץ **להשתמש** **[בכללי זרימת דואר](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** עבור פעולה זו. ההנחיות שלנו מבטיחות אימות שולח (מוודאת שלא תפורסם שליחה של תחום). **הערה:** איננו ממליצים לנהל תוצאות חיוביות שגויות באמצעות רשימות שולחים בטוחים, מכיוון שחסכון חריג לסינון דואר זבל יכול לפתוח את הארגון שלך להתקפות אבטחה. אם המשתמשים שלך מקבלים הודעות המסומנות באופן שגוי כדואר זבל או כדואר זבל, **[דווח על הודעות וקבצים ל- Microsoft.](https://protection.office.com/reportsubmission)**
-- יש להימנע משולחים בטוחים ב- Outlook, ברשימת שולחים מותרים או ברשימת תחומים מותרים במדיניות למניעת דואר זבל מכיוון ששולחים עוקפים את כל הודעות הזבל, התחנפות וההגנה מפני דיוג ואימות שולח (SPF, DKIM, DMARC).  שיטה זו משמשת באופן הטוב ביותר לבדיקות זמניות בלבד.
+- עם זאת, אם יש דרישה עסקית, מומלץ **להשתמש** **[ב'דואר' Flow כללי](https://docs.microsoft.com/microsoft-365/security/office-365-security/create-safe-sender-lists-in-office-365?view=o365-worldwide#recommended-use-mail-flow-rules)** פעולה זו. ההנחיות שלנו מבטיחות אימות שולח (מוודאת שלא תפורסם שליחה של תחום). **הערה:** איננו ממליצים לנהל תוצאות חיוביות שגויות באמצעות רשימות שולחים בטוחים, מכיוון שחסכון חריג לסינון דואר זבל יכול לפתוח את הארגון שלך להתקפות אבטחה. אם המשתמשים שלך מקבלים הודעות המסומנות באופן שגוי כדואר זבל או כדואר זבל, **[דווח על הודעות וקבצים ל- Microsoft.](https://protection.office.com/reportsubmission)**
+- יש להימנע משולחים בטוחים ב- Outlook, ברשימת השולחים המותרים  או ברשימת התחומים המותרים במדיניות למניעת דואר זבל מכיוון ששולחים עוקפים את כל הודעות הדואר זבל, התחנפות וההגנה מפני דיוג ואימות שולח (SPF, DKIM, DMARC). שיטה זו משמשת באופן הטוב ביותר לבדיקות זמניות בלבד.
+- האימות שערכת דואר אלקטרוני מסוימת עקוף ניתן לבצע על-ידי בדיקת כותרת ההודעה "X-Forefront-Antispam-Report" (SFV:SFE, SFV:SKA, SFV:SKN), ראה כותרות הודעות למניעת דואר **[זבל.](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-message-headers)**
+- מאחר ש- Microsoft רוצה לשמור על אבטחת [הלקוחות שלנו כברירת](https://docs.microsoft.com/microsoft-365/security/office-365-security/secure-by-default#exceptions)מחדל, חלק מהדיירים עוקפים לא מוחלים על תוכנות זדוניות ודיוג בביטחון גבוה. עקיפות אלה כוללות: o רשימות שולחים מותרים או רשימות תחומים מותרות (מדיניות למניעת דואר זבל) o Outlook שולחים בטוחים או רשימת אפשרי IP (סינון חיבורים) 
+- העקיפה היחידה המאפשרת לה הודעת דיוג בביטחון גבוה לעקוף את הסינון היא Exchange זרימת דואר (המכונה גם כללי תעבורה). כדי להשתמש בכללי זרימת דואר כדי לעקוף סינון, ראה שימוש בכללי זרימת דואר כדי להגדיר את רמת הביטחון של **[דואר זבל (SCL) בהודעות](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-mail-flow-rules-to-set-the-spam-confidence-level-scl-in-messages)**.
