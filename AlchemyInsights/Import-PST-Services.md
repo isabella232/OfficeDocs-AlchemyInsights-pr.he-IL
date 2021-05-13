@@ -1,5 +1,5 @@
 ---
-title: 1245-ייבוא-PST-שירותים
+title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664063"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470254"
 ---
-# <a name="microsoft-365-import-service"></a><span data-ttu-id="29bab-102">שירות ייבוא של Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="29bab-102">Microsoft 365 Import service</span></span>
+# <a name="microsoft-365-import-service"></a><span data-ttu-id="3a2b3-102">Microsoft 365 ייבוא שירות</span><span class="sxs-lookup"><span data-stu-id="3a2b3-102">Microsoft 365 Import service</span></span>
 
-<span data-ttu-id="29bab-103">שירות הייבוא של Microsoft 365 מאפשר לך לייבא בצובר קבצי PST מרובים לתיבות דואר של Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="29bab-103">The Microsoft 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span>
+<span data-ttu-id="3a2b3-103">שירות Microsoft 365 ייבוא מאפשר לך לייבא בצובר קבצי PST מרובים לתיבות Exchange Online תיבות דואר.</span><span class="sxs-lookup"><span data-stu-id="3a2b3-103">The Microsoft 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span>
 
-<span data-ttu-id="29bab-104">כדי לגשת לשירות הייבוא ולהתחיל את תהליך הייבוא:</span><span class="sxs-lookup"><span data-stu-id="29bab-104">To access the Import service and start the import process:</span></span>
+<span data-ttu-id="3a2b3-104">כדי לגשת לשירות הייבוא ולהתחיל את תהליך הייבוא:</span><span class="sxs-lookup"><span data-stu-id="3a2b3-104">To access the Import service and start the import process:</span></span>
 
-1. <span data-ttu-id="29bab-105">עבור אל [מרכז התאימות של אבטחה &](https://protection.office.com) והיכנס באמצעות האישורים עבור חשבון מנהל מערכת בארגון שלך.</span><span class="sxs-lookup"><span data-stu-id="29bab-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your organization.</span></span>
+1. <span data-ttu-id="3a2b3-105">עבור אל [מרכז & תאימות והירשם](https://protection.office.com) באמצעות האישורים עבור חשבון מנהל מערכת בארגון שלך.</span><span class="sxs-lookup"><span data-stu-id="3a2b3-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your organization.</span></span>
 
-2. <span data-ttu-id="29bab-106">בחלונית הימנית של **מרכז התאימות של _AMP_ Security**, לחץ על **ממשל נתונים > Import**.</span><span class="sxs-lookup"><span data-stu-id="29bab-106">In the left pane of the **Security & Compliance Center**, click **Data governance > Import**.</span></span>
+2. <span data-ttu-id="3a2b3-106">בחלונית הימנית של מרכז **האבטחה &** תאימות , לחץ על ניהול מידע **> ייבוא**.</span><span class="sxs-lookup"><span data-stu-id="3a2b3-106">In the left pane of the **Security & Compliance Center**, click **Information governance > Import**.</span></span>
 
-3. <span data-ttu-id="29bab-107">בדף **ייבוא** , לחץ על **משימת ייבוא חדשה**.</span><span class="sxs-lookup"><span data-stu-id="29bab-107">On the **Import** page, click **New import job**.</span></span>
+3. <span data-ttu-id="3a2b3-107">בדף **ייבוא,** לחץ על **עבודת ייבוא חדשה**.</span><span class="sxs-lookup"><span data-stu-id="3a2b3-107">On the **Import** page, click **New import job**.</span></span>
 
-4. <span data-ttu-id="29bab-108">כדי להשלים את השלבים באשף, בצע [הוראות צעד-אחר-צעד](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)אלה.</span><span class="sxs-lookup"><span data-stu-id="29bab-108">To complete the steps in the wizard, please follow these [step-by-step instructions](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).</span></span>
+4. <span data-ttu-id="3a2b3-108">כדי להשלים את השלבים באשף, בצע [הוראות מפורטות אלה.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)</span><span class="sxs-lookup"><span data-stu-id="3a2b3-108">To complete the steps in the wizard, follow these [step-by-step instructions](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md).</span></span>
 
-<span data-ttu-id="29bab-109">**חשוב**: כדי לגשת לדף **הייבוא** במרכז התאימות של אבטחה &, תוקצה  [ההרשאות המתאימות](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).</span><span class="sxs-lookup"><span data-stu-id="29bab-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).</span></span>
+<span data-ttu-id="3a2b3-109">**חשוב**: כדי **לגשת לדף** ייבוא במרכז האבטחה & תאימות, הוקצתו [לך ההרשאות המתאימות.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)</span><span class="sxs-lookup"><span data-stu-id="3a2b3-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md).</span></span>
 
-<span data-ttu-id="29bab-110">אם ברצונך רק לייבא PST לתיבת הדואר שלך, עיין [במאמר זה](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span><span class="sxs-lookup"><span data-stu-id="29bab-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
+<span data-ttu-id="3a2b3-110">אם ברצונך לייבא PST לתיבת הדואר שלך, עיין [במאמר זה](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span><span class="sxs-lookup"><span data-stu-id="3a2b3-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
