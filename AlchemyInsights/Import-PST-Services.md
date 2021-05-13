@@ -1,5 +1,5 @@
 ---
-title: 1245-ייבוא-PST-שירותים
+title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664063"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470254"
 ---
-# <a name="microsoft-365-import-service"></a>שירות ייבוא של Microsoft 365
+# <a name="microsoft-365-import-service"></a>Microsoft 365 ייבוא שירות
 
-שירות הייבוא של Microsoft 365 מאפשר לך לייבא בצובר קבצי PST מרובים לתיבות דואר של Exchange Online.
+שירות Microsoft 365 ייבוא מאפשר לך לייבא בצובר קבצי PST מרובים לתיבות Exchange Online תיבות דואר.
 
 כדי לגשת לשירות הייבוא ולהתחיל את תהליך הייבוא:
 
-1. עבור אל [מרכז התאימות של אבטחה &](https://protection.office.com) והיכנס באמצעות האישורים עבור חשבון מנהל מערכת בארגון שלך.
+1. עבור אל [מרכז & תאימות והירשם](https://protection.office.com) באמצעות האישורים עבור חשבון מנהל מערכת בארגון שלך.
 
-2. בחלונית הימנית של **מרכז התאימות של _AMP_ Security**, לחץ על **ממשל נתונים > Import**.
+2. בחלונית הימנית של מרכז **האבטחה &** תאימות , לחץ על ניהול מידע **> ייבוא**.
 
-3. בדף **ייבוא** , לחץ על **משימת ייבוא חדשה**.
+3. בדף **ייבוא,** לחץ על **עבודת ייבוא חדשה**.
 
-4. כדי להשלים את השלבים באשף, בצע [הוראות צעד-אחר-צעד](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)אלה.
+4. כדי להשלים את השלבים באשף, בצע [הוראות מפורטות אלה.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
 
-**חשוב**: כדי לגשת לדף **הייבוא** במרכז התאימות של אבטחה &, תוקצה  [ההרשאות המתאימות](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+**חשוב**: כדי **לגשת לדף** ייבוא במרכז האבטחה & תאימות, הוקצתו [לך ההרשאות המתאימות.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
 
-אם ברצונך רק לייבא PST לתיבת הדואר שלך, עיין [במאמר זה](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+אם ברצונך לייבא PST לתיבת הדואר שלך, עיין [במאמר זה](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
