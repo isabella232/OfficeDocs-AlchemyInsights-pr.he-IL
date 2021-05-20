@@ -1,5 +1,5 @@
 ---
-title: תוספת Teams Outlook
+title: Teams Outlook (שיתוף ל- Teams , פגישה כעת, פגישת Teams חדשה, הצטרפות Teams פגישה)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835020"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542750"
 ---
-# <a name="teams-outlook-add-in"></a>תוספת Teams Outlook
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook (שתף עם Teams , פגוש כעת, פגישה חדשה Teams, הצטרף לפגישה Teams)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>כדי לפתור בעיות של תוספת חסרה של Teams Outlook
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>כדי לפתור בעיות Teams Outlook תוספת חסרה
 
-1. הפעל את אבחון השירות בפורטל הניהול. 
-2. אם אבחון השירות מציין שאין בעיות, אבחן ותקן בעיות לקוח במחשבי המשתמשים המושפעים על-ידי הורדה וריצה של [תרחיש](https://aka.ms/SaRA-TeamsAddInScenario)התוספת של מסייע התמיכה ושחזור של Microsoft  >  **Teams Outlook**.
+1. הפעל את האבחון "תוספת צוות חסרה ב- Outlook", אשר מאמתת שלמשתמש יש את פריטי המדיניות הנכונים כדי להפוך את התוספת Teams Outlook לזמינה. כדי לגשת **לאבחון, הקלד Diag: Teams התוספת חסרה ב- Outlook** בתיבת החיפוש.
 
-כדי לפתור בעיות ידניות של תוספת חסרה של Teams Outlook, סקור את רשימת הגורמים הפוטנציאליים שעשויים לגרום לתוספת Teams לא להופיע ברשימה. לקבלת מידע נוסף, ראה [תוספת פגישת Teams ב- Outlook עבור Windows אינה מופיעה](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. אם אבחון השירות מציין שאין בעיות, אבחן ותקן בעיות לקוח במחשבי המשתמשים המושפעים על-ידי [הורדה וריצה של תרחיש התוספת מסייע התמיכה והשחזור](https://aka.ms/SaRA-TeamsAddInScenario)Teams Outlook Microsoft  >  .
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>כדי לפתור בעיות בתזמון פגישת Teams בשם מישהו אחר (נציג)
+כדי לפתור באופן ידני Teams Outlook תוספת חסרה, סקור את רשימת הגורמים הפוטנציאליים שעשויים לגרום לתוספת Teams שלך לא להופיע ברשימה. לקבלת מידע נוסף, ראה Teams התוספת פגישה Outlook [עבור Windows אינה מופיעה](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
 
-כדי לתזמן פגישת Teams בשמו של מישהו אחר, ראה פתרון בעיות אינטראקציה של [Microsoft Teams ו- Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>כדי לפתור בעיות Teams פגישה בשם מישהו אחר (נציג)
+
+כדי לתזמן Teams פגישה בשם מישהו אחר, ראה פתרון [בעיות Microsoft Teams ופתרון Exchange Server אינטראקציה](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).

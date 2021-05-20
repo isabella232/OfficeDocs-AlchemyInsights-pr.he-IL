@@ -1,5 +1,5 @@
 ---
-title: מבטל את מנוי Microsoft 365 שלך?
+title: ביטול המנוי Microsoft 365 שלך?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232008"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543218"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>מבטל את מנוי Microsoft 365 שלך?
+# <a name="canceling-your-microsoft-365-subscription"></a>ביטול המנוי Microsoft 365 שלך?
 
-אנו מצטערים לראות אותך ממשיך!
+מצטערים לראות אותך הולך!
   
-בהתבסס על נתוני הארגון שלך, אנו מאמינים שכל המנויים הנוכחיים שלך מכילים יותר מ-25 רשיונות מוקצים. לפני שתוכל לבטל:
+בהתבסס על נתוני הארגון שלך, אנו סבורים של כל המנויים הנוכחיים שלך יש יותר מ- 25 רשיונות מוקצים. כדי שתוכל לבטל:
 
-1. הסרת רשיונות ממשתמשים עד שיהיו לך פחות מ-25 משתמשים מורשים.
-2. עבור לדף ' **חיוב** \> **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** '.
-3. בכרטיסיה **products** , אתר את המנוי שברצונך לבטל, בחר **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **ביטול מנוי**.
+1. הסר רשיונות ממשתמשים עד שיש לך פחות מ- 25 משתמשים מורשים.
+2. עבור אל הדף **חיוב** \> **[המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054)** שלך.
+3. בכרטיסיה **מוצרים,** אתר את המנוי שברצונך לבטל, בחר את שלוש הנקודות (פעולות נוספות) ולאחר מכן בחר **בטל מנוי**.
 
-**החזר כספי:** כל האשראי היחסי שלך יוחזר אליך בתוך מחזור החיוב הבא.
+**החזר:** כל נקודות זכות מדורגות יוחזרו לך במחזור החיוב הבא.
 
-לקבלת מידע נוסף, ראה [ביטול המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+כדי ללמוד עוד, ראה [ביטול המנוי שלך.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

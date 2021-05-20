@@ -1,5 +1,5 @@
 ---
-title: מבטל את מנוי Microsoft 365 שלך?
+title: ביטול המנוי Microsoft 365 שלך?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
-ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
+ms.openlocfilehash: 485bfab1afac5f025cb28204638b987440dfaab2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50931649"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543254"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>מבטל את מנוי Microsoft 365 שלך?
+# <a name="canceling-your-microsoft-365-subscription"></a>ביטול המנוי Microsoft 365 שלך?
 
-אנו מצטערים לראות אותך, להלן השלבים לביטול המנוי שלך:
+אנחנו מצטערים לראות אותך הולך, הנה השלבים לביטול המנוי שלך:
 
-1. במרכז הניהול, עבור אל הדף **חיוב**  >  **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** ולאחר מכן בחר את הכרטיסיה **מוצרים** .
-2. אתר את המנוי שברצונך לבטל. בחר **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **בטל מנוי**.
-3. בחלונית **ביטול מנוי** , בחר סיבה לכך שאתה מבטל. באופן אופציונלי, ספק משוב.
-4. לחץ **שמור**.
+1. במרכז הניהול, עבור אל הדף **חיוב**  >  **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** ולאחר מכן בחר את **הכרטיסיה** מוצרים.
+2. אתר את המנוי שברצונך לבטל. בחר את שלוש הנקודות (פעולות נוספות), ולאחר מכן בחר **ביטול מנוי**.
+3. בחלונית **ביטול** מנוי, בחר סיבה לביטול. לחלופין, ספק משוב כלשהו.
+4. בחר **שמור**.
 
-לקבלת מידע נוסף על ביטול מנוי או אפשרויות, ראה [ביטול המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+כדי ללמוד עוד אודות ביטול מנוי או אפשרויות, ראה [ביטול המנוי שלך.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-אם ברצונך להמשיך להשתמש במנוי שלך למשך תקופת הניסיון, באפשרותך לבטל את החיוב החוזר עבור המנוי. כדי ללמוד כיצד [לעשות זאת, ראה חידוש Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+אם אתה רוצה להמשיך להשתמש במנוי שלך למשך תקופת הניסיון, באפשרותך לבטל חיוב חוזר עבור המנוי. כדי ללמוד כיצד לעשות זאת, [ראה חידוש Microsoft 365 לעסקים](/microsoft-365/commerce/subscriptions/renew-your-subscription).

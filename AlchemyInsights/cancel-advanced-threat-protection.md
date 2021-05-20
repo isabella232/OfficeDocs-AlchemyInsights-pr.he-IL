@@ -1,5 +1,5 @@
 ---
-title: ביטול הגנה מתקדמת של איום
+title: ביטול הגנה מתקדמת מפני איומים
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: 610adfdce1f5cda6bd10cb635527b032ebdd7e56
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 0919862f1954058d2d891abb35d91a19ee948933
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416271"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543506"
 ---
-# <a name="cancel-advanced-threat-protection"></a>ביטול הגנה מתקדמת של איום
+# <a name="cancel-advanced-threat-protection"></a>ביטול הגנה מתקדמת מפני איומים
 
-מנהלי מערכת יכולים לבטל את מנוי ההגנה על איום מתקדם עבור הארגון שלהם במרכז הניהול של Microsoft 365.
+מנהלי מערכת יכולים לבטל את המנוי Advanced Threat Protection עבור הארגון שלהם במרכז Microsoft 365 הניהול.
 
-1. עבור לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
-2. בכרטיסיה **מוצרים** , אתר את תוכנית ההגנה על איום מתקדם שברצונך לבטל. בחר **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **בטל מנוי**.
-3. בחלונית **ביטול מנוי** , בחר סיבה לכך שאתה מבטל. באופן אופציונלי, ספק משוב.
-4. לחץ **שמור**.
+1. עבור אל הדף **חיוב**  >  [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
+2. בכרטיסיה **מוצרים,** אתר את התוכנית Advanced Threat Protection שברצונך לבטל. בחר את שלוש הנקודות (פעולות נוספות), ולאחר מכן בחר **ביטול מנוי**.
+3. בחלונית **ביטול** מנוי, בחר סיבה לביטול. לחלופין, ספק משוב כלשהו.
+4. בחר **שמור**.
 
-**החזר כספי:** כל האשראי היחסי שלך יוחזר אליך בתוך מחזור החיוב הבא.
+**החזר:** כל נקודות זכות מדורגות יוחזרו לך במחזור החיוב הבא.
 
-לקבלת מידע נוסף, ראה [ביטול המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+כדי ללמוד עוד, ראה [ביטול המנוי שלך.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
