@@ -1,5 +1,5 @@
 ---
-title: מומחי האיום של Microsoft-הודעת התקפה ממוקדת
+title: מומחי איומים של Microsoft - הודעת התקפה ממוקדת
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 2f93020fc3b350e1d85064e9c57de80a65814687
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714750"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545377"
 ---
-# <a name="microsoft-threat-experts---targeted-attack-notification"></a>מומחי האיום של Microsoft-הודעת התקפה ממוקדת
+# <a name="microsoft-threat-experts---targeted-attack-notification"></a>מומחי איומים של Microsoft - הודעת התקפה ממוקדת
 
-הודעת התקפה ממוקדת היא אחת משתי היכולות של מומחי האיום של Microsoft. זהו שירות לציד איום יזום המספק תובנות מיוחדות וניתוחים שעוזרים להבטיח שהאיומים הקריטיים ביותר מזוהים ומגיבים במהירות ובאופן מדויק.
+הודעת התקפה ממוקדת היא אחת משני מומחי איומים של Microsoft היכולות. זהו שירות ציד איומים יזום המספק תובנות וניתוח מיוחדים שמסייעים להבטיח שהאיומים הקריטיים ביותר מזוהים ומגיבים במהירות ובמדויק.
 
-אם אתה משתמש ב-Microsoft Defender עבור לקוח נקודת קצה, עליך להחיל על מומחי האיום של Microsoft-הודעות התקפה ממוקדות כדי לקבל תובנות וניתוחים מיוחדים שיעזרו לזהות את האיומים הקריטיים ביותר כדי שתוכל להגיב להם במהירות.
+אם אתה לקוח של Microsoft Defender עבור נקודת קצה, עליך להגיש בקשה ל- מומחי איומים של Microsoft - התראות התקפה ממוקדות כדי לקבל תובנות וניתוח מיוחדים שמסייעים לזהות את האיומים הקריטיים ביותר כדי שתוכל להגיב להם במהירות.
 
-כדי להירשם למומחים לאיום של Microsoft-הטבות להתקפות ממוקדות, עבור אל **הגדרות**  >    >  **תכונות מתקדמות** כלליות  >  **של microsoft המומחים-הודעות להתקפה ממוקדות** להחלה. לאחר שתתקבל, תקבל את היתרונות של הודעות ממוקדות להתקפה.
+כדי להירשם ל- מומחי איומים של Microsoft - יתרונות ממוקדים של הודעות התקפה, **עבור אל הגדרות** כלליות מתקדמות מומחי איומים של Microsoft - התראות התקפה  >    >    >  **ממוקדות** להחלה. לאחר ההסתה, תקבלו את היתרונות של הודעות התקפה ממוקדות.
 
-באפשרותך לקבל הודעת התקפה ממוקדת ממומחי האיום של Microsoft באמצעות המדיום הבא:
+באפשרותך לקבל הודעת התקפה ממוקדת מומחי איומים של Microsoft דרך המדיום הבא:
 
-- דף האירועים של ' מגן עבור פורטל נקודות קצה '
-- בלוח המחוונים של ' התראות ' של פורטל נקודת קצה
-- Api של התראת OData ומשענת API
-- טבלת DeviceAlertEvents בחיפוש מתקדם
-- הדואר האלקטרוני שלך, אם תבחר לקבוע את תצורתה
+- הדף Defender for Endpoint portal's Incidents
+- לוח המחוונים של ההתראות של Defender for Endpoint
+- OData מתריע על API ו- API של REST
+- DeviceAlertEvents table in Advanced hunting
+- הדואר האלקטרוני שלך, אם תבחר לקבוע את תצורתו
 
-כדי לקבל הודעות ממוקדות להתקפה באמצעות דואר אלקטרוני, צור כלל הודעת דואר אלקטרוני. 
+כדי לקבל הודעות התקפה ממוקדות באמצעות דואר אלקטרוני, צור כלל של הודעת דואר אלקטרוני. 
 
-ראה [קביעת תצורה וניהול של היכולות של מומחי האיום של Microsoft](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) לקבלת פרטים.
+ראה [קביעת תצורה וניהול מומחי איומים של Microsoft יכולות אלה](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) לקבלת פרטים.

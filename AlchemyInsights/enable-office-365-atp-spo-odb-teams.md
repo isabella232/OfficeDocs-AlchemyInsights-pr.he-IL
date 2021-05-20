@@ -1,5 +1,5 @@
 ---
-title: הפיכת Office 365 ATP לזמין עבור SharePoint, OneDrive ו-Microsoft Teams
+title: הפיכת Office 365 ATP לזמין עבור SharePoint, OneDrive ו- Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801049"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543929"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>הפיכת Microsoft Defender לזמין עבור Office 365 עבור SharePoint Online, OneDrive ו-Microsoft Teams
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>הפוך את Microsoft Defender לזמין Office 365 עבור SharePoint מקוון, OneDrive ו- Microsoft Teams
 
-1. עבור אל https://protection.office.com והיכנס.
-2. בחר **Threat management**  >  **Policy**  >  **קבצים מצורפים בטוחים במדיניות** ניהול האיום.
-3. בחר **הפעל את ATP עבור SharePoint, OneDrive ו-Microsoft teams** ולאחר מכן לחץ על **שמור** .
-4. מומלץ כמנהל מערכת כללי או כמנהל מערכת של SharePoint Online, הגדר את ה [-Cmdlet set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) כאשר הפרמטר **DisallowInfectedFileDownload** מוגדר ל- *true* .
-5. מומלץ [הגדרת התראות](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) עבור קבצים שזוהו.
+1. עבור https://protection.office.com אל והירשם.
+2. בחר **קבצים מצורפים בטוחים**  >  **של** מדיניות ניהול  >  **איומים**.
+3. בחר **הפעל את Defender עבור Office 365 עבור SharePoint, OneDrive ו- Microsoft Teams** ולאחר מכן לחץ על **שמור**.
+4. (מומלץ) כמנהל מערכת כללי או כמנהל מערכת SharePoint Online, הפעל [את cmdlet Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) עם **הפרמטר DisallowInfectedFileDownload** מוגדר ל- *true*.
+5. (מומלץ) [הגדר התראות עבור](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) קבצים שזוהו.
 
 > [!NOTE]
-> ATP יופיע כדי לסרוק כל קובץ בודד ב-SharePoint Online, ב-OneDrive או ב-Microsoft Teams. הקבצים נסרקים באופן אסינכרוני, באמצעות תהליך המשתמש באירועים של שיתוף ופעילויות אורח, יחד עם היישויות חכמות ואותות איום כדי לזהות קבצים זדוניים. ראה [ATP עבור SharePoint, OneDrive ו-Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+> Microsoft Defender עבור Office 365 לא יסרוק כל קובץ ב- SharePoint Online, OneDrive או Microsoft Teams. קבצים נסרקים באופן אסינכרוני, באמצעות תהליך המשתמש באירועי שיתוף ופעילות אורח, יחד עם הוריסטיקות חכמות ואותות איומים לזיהוי קבצים זדוניים. עיין [ב- Microsoft Defender לקבלת Office 365 עבור SharePoint, OneDrive ו- Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

@@ -1,5 +1,5 @@
 ---
-title: מלאי תוכנה חסר או לא מדויק
+title: מלאי התוכנה חסר או לא מדויק
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665287"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543965"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>מלאי תוכנה חסר או לא מדויק
+# <a name="software-inventory-is-missing-or-inaccurate"></a>מלאי התוכנה חסר או לא מדויק
 
-מלאי התוכנה ב-Microsoft Defender שירות ATP מספק את שם המוצר או הספק, את מספר הגירסה העדכני ביותר שלו, ואת נקודות התורפה והפגיעויות שזיהה. לקבלת מידע נוסף, ראה [מלאי תוכנה-איום וניהול פגיעות](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+מלאי התוכנה בשירות Microsoft Defender ATP מספק את שם המוצר או הספק, את מספר הגירסה העדכני ביותר שלו וזיהה חולשות ופגיעות. לקבלת מידע נוסף, [ראה מלאי תוכנה - Threat and Vulnerability Management](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-באפשרותך לדווח על מידע מעורפל או לא שלם, מספרי גירסאות לא מדויקים או remediated מידע אודות מלאי תוכנה על-ידי ביצוע השלבים הבאים.  
+באפשרותך הדוח מידע מעורפל או לא מלא, מספרי גירסאות לא מדויקים או מידע לגבי מלאי תוכנה מותך על-ידי ביצוע שלבים אלה.  
 
-1. פתח את נשלף של התוכנה ובחר את היישום בדף מלאי התוכנה.
-2. בחר באפשרות אי- **דיוק של דוח**ומהחלונית נשלף של, בחר קטגוריה מהתפריט הנפתח.
-3. מלא את כתובת הדואר האלקטרוני שלך ואת הפרטים של אי-הדיוק.
+1. פתח את קובץ נשלף התוכנה ובחר את היישום בדף מלאי התוכנה.
+2. בחר **דווח על דיוק**, ומהחלונית הנפתחת, בחר קטגוריה מהתפריט הנפתח.
+3. מלא את כתובת הדואר האלקטרוני שלך ואת פרטי אי הדיוק.
 4. בחר **שלח**.</br>
-    המשוב שלך נשלח באופן מיידי לאיום על מומחי ניהול פגיעות &.
+    המשוב שלך נשלח באופן מיידי למומחים לניהול & פגיעות.
