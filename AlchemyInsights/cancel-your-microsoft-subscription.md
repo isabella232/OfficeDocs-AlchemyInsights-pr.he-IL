@@ -1,29 +1,31 @@
 ---
 title: בטל את מנוי Microsoft שלך
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707672"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543326"
 ---
-# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="40e05-102">בטל את מנוי Microsoft שלך</span><span class="sxs-lookup"><span data-stu-id="40e05-102">Cancel your Microsoft subscription</span></span>
+# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="8f8a4-102">בטל את מנוי Microsoft שלך</span><span class="sxs-lookup"><span data-stu-id="8f8a4-102">Cancel your Microsoft subscription</span></span>
 
-1. <span data-ttu-id="40e05-103">עבור אל [Services & מנויים[ והיכנס באמצעות חשבון Microsoft שבו השתמשת בעת רכישת המנוי שלך.</span><span class="sxs-lookup"><span data-stu-id="40e05-103">Go to [Services & subscriptions](https://account.microsoft.com/services/), and sign in with the Microsoft account you used when purchasing your subscription.</span></span>
+<span data-ttu-id="8f8a4-103">מנהלי מערכת יכולים לבטל את המנוי עבור הארגון שלהם במרכז Microsoft 365 הניהול.</span><span class="sxs-lookup"><span data-stu-id="8f8a4-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-2. <span data-ttu-id="40e05-104">אתר את המנוי שלך ולחץ על **נהל**.</span><span class="sxs-lookup"><span data-stu-id="40e05-104">Find your subscription and click **Manage**.</span></span> <span data-ttu-id="40e05-105">אם אתה רואה **הפעל חיוב חוזר** במקום **נהל**, דלג למקטע פתרון בעיות;  אחרת, המשך לשלב 3.</span><span class="sxs-lookup"><span data-stu-id="40e05-105">If you see **Turn on recurring billing** instead of **Manage**, skip to the Troubleshooting section;  otherwise proceed to step 3.</span></span>
+1. <span data-ttu-id="8f8a4-104">עבור אל הדף **חיוב** \> [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.</span><span class="sxs-lookup"><span data-stu-id="8f8a4-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="8f8a4-105">בכרטיסיה **מוצרים,** אתר את המנוי שברצונך לבטל.</span><span class="sxs-lookup"><span data-stu-id="8f8a4-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="8f8a4-106">בחר את שלוש הנקודות (פעולות נוספות), ולאחר מכן בחר **ביטול מנוי**.</span><span class="sxs-lookup"><span data-stu-id="8f8a4-106">Select the three dots (more actions), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="8f8a4-107">בחלונית **ביטול** מנוי, בחר סיבה לביטול.</span><span class="sxs-lookup"><span data-stu-id="8f8a4-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="8f8a4-108">לחלופין, ספק משוב כלשהו.</span><span class="sxs-lookup"><span data-stu-id="8f8a4-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="8f8a4-109">בחר **שמור**.</span><span class="sxs-lookup"><span data-stu-id="8f8a4-109">Select **Save**.</span></span>
 
-3. <span data-ttu-id="40e05-106">בעמוד הבא, לחץ על **בטל** או **שדרג או בטל**, בהתאם לסוג המנוי שלך.</span><span class="sxs-lookup"><span data-stu-id="40e05-106">On the next page, click **Cancel** or **Upgrade or Cancel**, depending on your subscription type.</span></span>
-
-4. <span data-ttu-id="40e05-107">בצע את ההוראות במופיעות בעמוד כדי להמשיך עם הביטול.</span><span class="sxs-lookup"><span data-stu-id="40e05-107">Follow the instructions on the page to proceed with cancellation.</span></span>
+<span data-ttu-id="8f8a4-110">**החזר:** כל נקודות זכות מדורגות יוחזרו לך במחזור החיוב הבא.</span><span class="sxs-lookup"><span data-stu-id="8f8a4-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
