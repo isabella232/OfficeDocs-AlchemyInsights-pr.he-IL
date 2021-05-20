@@ -1,5 +1,5 @@
 ---
-title: הפיכת Office 365 ATP לזמין עבור SharePoint, OneDrive ו-Microsoft Teams
+title: הפיכת Office 365 ATP לזמין עבור SharePoint, OneDrive ו- Microsoft Teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: dd367176f8d6f38f1f94ae6627229234f15c81ff
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801049"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543929"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a><span data-ttu-id="26028-102">הפיכת Microsoft Defender לזמין עבור Office 365 עבור SharePoint Online, OneDrive ו-Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="26028-102">Enable Microsoft Defender for Office 365 for SharePoint Online, OneDrive, and Microsoft Teams</span></span>
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a><span data-ttu-id="67e0b-102">הפוך את Microsoft Defender לזמין Office 365 עבור SharePoint מקוון, OneDrive ו- Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="67e0b-102">Enable Microsoft Defender for Office 365 for SharePoint Online, OneDrive, and Microsoft Teams</span></span>
 
-1. <span data-ttu-id="26028-103">עבור אל https://protection.office.com והיכנס.</span><span class="sxs-lookup"><span data-stu-id="26028-103">Go to https://protection.office.com and sign in.</span></span>
-2. <span data-ttu-id="26028-104">בחר **Threat management**  >  **Policy**  >  **קבצים מצורפים בטוחים במדיניות** ניהול האיום.</span><span class="sxs-lookup"><span data-stu-id="26028-104">Choose **Threat management** > **Policy** > **Safe Attachments** .</span></span>
-3. <span data-ttu-id="26028-105">בחר **הפעל את ATP עבור SharePoint, OneDrive ו-Microsoft teams** ולאחר מכן לחץ על **שמור** .</span><span class="sxs-lookup"><span data-stu-id="26028-105">Select **Turn on ATP for SharePoint, OneDrive, and Microsoft Teams** , and then click **Save** .</span></span>
-4. <span data-ttu-id="26028-106">מומלץ כמנהל מערכת כללי או כמנהל מערכת של SharePoint Online, הגדר את ה [-Cmdlet set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) כאשר הפרמטר **DisallowInfectedFileDownload** מוגדר ל- *true* .</span><span class="sxs-lookup"><span data-stu-id="26028-106">(Recommended) As a global administrator or a SharePoint Online administrator, run the [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet with the **DisallowInfectedFileDownload** parameter set to *true* .</span></span>
-5. <span data-ttu-id="26028-107">מומלץ [הגדרת התראות](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) עבור קבצים שזוהו.</span><span class="sxs-lookup"><span data-stu-id="26028-107">(Recommended) [Set up alerts](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) for detected files.</span></span>
+1. <span data-ttu-id="67e0b-103">עבור https://protection.office.com אל והירשם.</span><span class="sxs-lookup"><span data-stu-id="67e0b-103">Go to https://protection.office.com and sign in.</span></span>
+2. <span data-ttu-id="67e0b-104">בחר **קבצים מצורפים בטוחים**  >  **של** מדיניות ניהול  >  **איומים**.</span><span class="sxs-lookup"><span data-stu-id="67e0b-104">Choose **Threat management** > **Policy** > **Safe Attachments**.</span></span>
+3. <span data-ttu-id="67e0b-105">בחר **הפעל את Defender עבור Office 365 עבור SharePoint, OneDrive ו- Microsoft Teams** ולאחר מכן לחץ על **שמור**.</span><span class="sxs-lookup"><span data-stu-id="67e0b-105">Select **Turn on Defender for Office 365 for SharePoint, OneDrive, and Microsoft Teams**, and then click **Save**.</span></span>
+4. <span data-ttu-id="67e0b-106">(מומלץ) כמנהל מערכת כללי או כמנהל מערכת SharePoint Online, הפעל [את cmdlet Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) עם **הפרמטר DisallowInfectedFileDownload** מוגדר ל- *true*.</span><span class="sxs-lookup"><span data-stu-id="67e0b-106">(Recommended) As a global administrator or a SharePoint Online administrator, run the [Set-SPOTenant](/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) cmdlet with the **DisallowInfectedFileDownload** parameter set to *true*.</span></span>
+5. <span data-ttu-id="67e0b-107">(מומלץ) [הגדר התראות עבור](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) קבצים שזוהו.</span><span class="sxs-lookup"><span data-stu-id="67e0b-107">(Recommended) [Set up alerts](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) for detected files.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="26028-108">ATP יופיע כדי לסרוק כל קובץ בודד ב-SharePoint Online, ב-OneDrive או ב-Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="26028-108">ATP will nto scan every single file in SharePoint Online, OneDrive, or Microsoft Teams.</span></span> <span data-ttu-id="26028-109">הקבצים נסרקים באופן אסינכרוני, באמצעות תהליך המשתמש באירועים של שיתוף ופעילויות אורח, יחד עם היישויות חכמות ואותות איום כדי לזהות קבצים זדוניים.</span><span class="sxs-lookup"><span data-stu-id="26028-109">Files are scanned asynchronously, through a process that uses sharing and guest activity events, along with smart heuristics and threat signals to identify malicious files.</span></span> <span data-ttu-id="26028-110">ראה [ATP עבור SharePoint, OneDrive ו-Microsoft teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span><span class="sxs-lookup"><span data-stu-id="26028-110">See [ATP for SharePoint, OneDrive, and Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span></span>
+> <span data-ttu-id="67e0b-108">Microsoft Defender עבור Office 365 לא יסרוק כל קובץ ב- SharePoint Online, OneDrive או Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="67e0b-108">Microsoft Defender for Office 365 will not scan every single file in SharePoint Online, OneDrive, or Microsoft Teams.</span></span> <span data-ttu-id="67e0b-109">קבצים נסרקים באופן אסינכרוני, באמצעות תהליך המשתמש באירועי שיתוף ופעילות אורח, יחד עם הוריסטיקות חכמות ואותות איומים לזיהוי קבצים זדוניים.</span><span class="sxs-lookup"><span data-stu-id="67e0b-109">Files are scanned asynchronously, through a process that uses sharing and guest activity events, along with smart heuristics and threat signals to identify malicious files.</span></span> <span data-ttu-id="67e0b-110">עיין [ב- Microsoft Defender לקבלת Office 365 עבור SharePoint, OneDrive ו- Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)</span><span class="sxs-lookup"><span data-stu-id="67e0b-110">See [Microsoft Defender for Office 365 for SharePoint, OneDrive, and Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).</span></span>
