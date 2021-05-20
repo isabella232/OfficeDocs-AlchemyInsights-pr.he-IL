@@ -1,5 +1,5 @@
 ---
-title: הבדלים בתוכנית Enterprise של Microsoft 365
+title: Microsoft 365 Enterprise הבדלים בתוכנית
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745665"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539753"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>הבדלים בתוכנית Enterprise של Microsoft 365
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise הבדלים בתוכנית
 
-Microsoft 365 Enterprise E5 כולל את כל התכונות של Microsoft 365 Enterprise E3, בנוסף לאמצעי אבטחה מתקדמים כגון:
+Microsoft 365 Enterprise E5 כולל את כל התכונות של Microsoft 365 Enterprise E3, וכן אמצעי אבטחה מתקדמים כגון:
 
-- הגנה מתקדמת של איום (ATP)
-- ממשל נתונים מתקדם
+- הגנה מפני איומים
+- פיקוח מתקדם על נתונים
 - קופסה נעולה של לקוח
-- אבטחת אפליקציית הענן של Microsoft 365
+- Microsoft 365 אבטחת יישומי ענן
 - גילוי אלקטרוני מתקדם
-- שירותי ניהול זכויות
-- קמרון מקש תכלת
+- Rights Management Services
+- Azure Key Vault
 
-Microsoft 365 Enterprise E5 מגיע גם עם ניתוחים רבי-עוצמה ויכולות קוליות, כגון:
+Microsoft 365 Enterprise E5 מגיע גם עם יכולות ניתוח וקול רבות עוצמה, כגון:
 
-- לוחות מחוונים חיים
-- דוחות ב-Power BI
-- קול מודרני
+- לוחות מחוונים בשידור חי
+- דוחות עם Power BI
+- Modern Voice
 - ועידות שמע
 - פגישות מקוונות
 
-לקבלת מידע נוסף אודות Microsoft 365 Enterprise E5 או כדי להירשם למנוי ניסיון, ראה [נסה או קנה מנוי של microsoft 365](https://go.microsoft.com/fwlink/?linkid=2099673).
+לקבלת מידע נוסף על Microsoft 365 Enterprise E5 או כדי להירשם למנוי ניסיון, ראה [ניסיון או קניית מנוי Microsoft 365 מנוי](https://go.microsoft.com/fwlink/?linkid=2099673).
 
-כדי להשוות בין תכונות בתוכניות Enterprise, ראה [השוואה בין תוכניות ארגוניות](https://go.microsoft.com/fwlink/?linkid=2097200).
+כדי להשוות תכונות בתוכניות ארגוניות, ראה [השוואת תוכניות ארגוניות](https://go.microsoft.com/fwlink/?linkid=2097200).
 
-אנו מעריכים את המשוב שלך, ולכן בחר כן/לא לשאלה שמופיעה ולאחר מכן דרג את החוויה שלך.
+נעריך את המשוב שלך, לכן בחר כן/לא לשאלה שמופיעה ולאחר מכן דרג את החוויה שלך.
