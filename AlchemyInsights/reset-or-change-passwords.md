@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810197"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569652"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="93301-102">איפוס או שינוי של סיסמאות</span><span class="sxs-lookup"><span data-stu-id="93301-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="e9cd1-102">איפוס או שינוי של סיסמאות</span><span class="sxs-lookup"><span data-stu-id="e9cd1-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="93301-103">משתמש יכול לשנות את הסיסמה שלו **מהחשבון שלי**  >  [אבטחה & פרטיות.](https://portal.office.com/account/#security)</span><span class="sxs-lookup"><span data-stu-id="93301-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="e9cd1-103">משתמש יכול לשנות את הסיסמה שלו על-ידי בחירת תמונת המשתמש או ראשי התיבות > **הצג חשבון**.</span><span class="sxs-lookup"><span data-stu-id="e9cd1-103">A user can change their own password by selecting their user photo or initials > **View account**.</span></span>
   
-<span data-ttu-id="93301-104">אם המשתמש שכח את הסיסמה שלו, מנהל מערכת יכול לאפס את הסיסמה על-ידי עבור אל **משתמשים** פעילים , בחר  >  [](https://portal.office.com/adminportal/home#/users)את המשתמשים ולאחר מכן לחץ על **איפוס סיסמה**.</span><span class="sxs-lookup"><span data-stu-id="93301-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="e9cd1-104">אם המשתמש שכח את הסיסמה שלו, מנהל מערכת יכול לאפס את הסיסמה על-ידי עבור אל **משתמשים** פעילים , בחר  >  [](https://portal.office.com/adminportal/home#/users)את המשתמשים ולאחר מכן לחץ על **איפוס סיסמה**.</span><span class="sxs-lookup"><span data-stu-id="e9cd1-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="93301-105">[לחץ כאן כדי לקבל מידע נוסף](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), או כדי לאפשר למשתמשים לאפס את הסיסמאות שנשכחו משלהם.</span><span class="sxs-lookup"><span data-stu-id="93301-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="e9cd1-105">כדי ללמוד עוד אודות סיסמאות ולאפשר למשתמשים לאפס את הסיסמאות שלהם, ראה [איפוס סיסמאות](/microsoft-365/admin/add-users/reset-passwords).</span><span class="sxs-lookup"><span data-stu-id="e9cd1-105">To learn more about passwords and allowing users to reset their own passwords, see [Reset passwords](/microsoft-365/admin/add-users/reset-passwords).</span></span>
