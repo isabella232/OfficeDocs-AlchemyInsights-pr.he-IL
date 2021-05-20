@@ -6,27 +6,28 @@ manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 3ac582f65d00753d78ed75dc2362ed9ae3ac87c0
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: d293eb49f2f8a299feb61b4dfcd9d48011f79c3c
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088352"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569796"
 ---
 # <a name="change-default-domain"></a>שינוי תחום ברירת המחדל
 
-לאחר הוספת תחום מותאם אישית באמצעות [אשף הוספת קבוצת מחשבים](https://portal.office.com/adminportal/home#/Domains/Wizard), התחום המותאם אישית הופך לתחום ברירת המחדל עבור משתמשים חדשים אך משתמשים קיימים אינם משתנים.
+לאחר הוספת תחום מותאם אישית באמצעות אשף [הוספת תחום, התחום](https://admin.microsoft.com/Adminportal#/Domains/Wizard)המותאם אישית הופך לתחום ברירת המחדל עבור משתמשים חדשים, אך משתמשים קיימים אינם משתנים.
 
-- כדי לשנות את תחום ברירת המחדל לתחום קיים, בחר את התחום [בדף התחומים](https://admin.microsoft.com/Adminportal/Home#/Domains)ולאחר מכן בחר באפשרות **קבע כברירת מחדל**.
+- כדי לשנות את תחום ברירת המחדל לתחום קיים, בחר את התחום בדף [תחומים](https://admin.microsoft.com/Adminportal/Home#/Domains)ולאחר מכן בחר **קבע כברירת מחדל.**
 
-- כדי לשנות את שם קבוצת המחשבים עבור משתמשים קיימים, [בדף ' משתמשים פעילים](https://admin.microsoft.com/Adminportal/Home#/users) ' בחר משתמשים מרובים, בחר... **,** ולאחר מכן בחר באפשרות ' **שנה תחומים**'.
+- כדי לשנות את שם התחום עבור משתמשים קיימים, בדף [משתמשים פעילים בחר](https://admin.microsoft.com/Adminportal/Home#/users) משתמשים מרובים ולאחר מכן בחר שנה **תחומים**.
 
-- כדי לשנות את התחום או להוסיף כינוי עבור משתמש בודד, [בדף ' משתמשים פעילים](https://admin.microsoft.com/Adminportal/Home#/users) ' בחר בשם המשתמש ולאחר מכן בחר באפשרות ' **נהל שם משתמש ודואר אלקטרוני**'.
+- כדי לשנות את התחום או להוסיף כינוי עבור משתמש יחיד, בדף [משתמשים פעילים](https://admin.microsoft.com/Adminportal/Home#/users) בחר את שם המשתמש ולאחר מכן בחר נהל שם  **משתמש ודעת דואר אלקטרוני**.
 
-אין אפשרות לשנות את השם של התחום ההתחלתי onmicrosoft.com או להסירה.
+לא ניתן לשנות onmicrosoft.com או להסיר את שם התחום ההתחלתי.

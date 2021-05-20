@@ -1,29 +1,31 @@
 ---
 title: בטל את מנוי Microsoft שלך
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707672"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543326"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>בטל את מנוי Microsoft שלך
 
-1. עבור אל [Services & מנויים[ והיכנס באמצעות חשבון Microsoft שבו השתמשת בעת רכישת המנוי שלך.
+מנהלי מערכת יכולים לבטל את המנוי עבור הארגון שלהם במרכז Microsoft 365 הניהול.
 
-2. אתר את המנוי שלך ולחץ על **נהל**. אם אתה רואה **הפעל חיוב חוזר** במקום **נהל**, דלג למקטע פתרון בעיות;  אחרת, המשך לשלב 3.
+1. עבור אל הדף **חיוב** \> [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
+2. בכרטיסיה **מוצרים,** אתר את המנוי שברצונך לבטל. בחר את שלוש הנקודות (פעולות נוספות), ולאחר מכן בחר **ביטול מנוי**.
+3. בחלונית **ביטול** מנוי, בחר סיבה לביטול. לחלופין, ספק משוב כלשהו.
+4. בחר **שמור**.
 
-3. בעמוד הבא, לחץ על **בטל** או **שדרג או בטל**, בהתאם לסוג המנוי שלך.
-
-4. בצע את ההוראות במופיעות בעמוד כדי להמשיך עם הביטול.
+**החזר:** כל נקודות זכות מדורגות יוחזרו לך במחזור החיוב הבא.

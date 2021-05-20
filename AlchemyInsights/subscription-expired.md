@@ -1,10 +1,11 @@
 ---
 title: פג תוקף המינוי
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 1d907be89da6339d35941672ef6a5b9bf5df44b7
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: d26c4e6738ed1d34a642436b09c67853a88586a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158619"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544291"
 ---
 # <a name="subscription-expired"></a>פג תוקף המינוי
 
@@ -25,28 +26,23 @@ ms.locfileid: "43158619"
 
 **הפעלה מחדש של מינוי**
 
-1. במרכז הניהול, עבור אל הדף **חיוב > [מוצרים ושירותים](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. במרכז הניהול, עבור אל הדף **חיוב**  >  [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
+2. בכרטיסיה **מוצרים,** אתר את המנוי שברצונך להפעיל מחדש, בחר את שלוש הנקודות (פעולות נוספות) ולאחר מכן **בחר הפעל מחדש מנוי זה**.
+    > [!NOTE]
+    > אם אינך רואה את הפעלת **מנוי זה מחדש, פנה** לתמיכה.
+3. בחלונית **הפעל מחדש מנוי זה,** בחר שיטת תשלום מהרשימה הנפתחת, או בחר הוסף שיטת **תשלום**.
+4. בחר **שמור**.
 
-2. בדף 'מוצרים ושירותים', חפש את המינוי שברצונך להפעיל מחדש.
-
-3. במקטע 'חיוב', לחץ על **הפעל מחדש כעת**.  אם אתה בתצוגת 'כרטיסים', לחץ על שלוש הנקודות בין 'שם' לבין 'כמות זמינה', ובחר הפעלה מחדש מהתפריט. **הערה**: אם אינך רואה את המנוי שאותו אתה מחפש, ייתכן שתצטרך להתאים את המסנן מצב המנוי שבסמוך לחלק העליון של הדף למצב **הכל**.
-
-4. אשר את פרטי התשלום שלך כדי לעדכן את פרטי התשלום הקיימים. לאחר שסיימת להזין את אמצעי התשלום שלך, לחץ על **הפעלה מחדש**.
-
-לקבלת מידע נוסף, ראה [הפעלה מחדש של המינוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+לקבלת מידע נוסף, ראה [הפעלה מחדש של המינוי שלך](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **ניהול של חידוש מינוי**
 
 כדי לנהל חיוב חודשי או שנתי באפשרותך להפעיל או לכבות את מצב 'חיוב חוזר'.
 
-1. במרכז הניהול, עבור אל הדף **חיוב > [מוצרים ושירותים](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. במרכז הניהול, עבור אל הדף **חיוב**  >  [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
+2. בכרטיסיה **מוצרים,** בחר את המנוי שברצונך לנהל.
+3. בדף פרטי המנוי, תחת הגדרות **מנוי ותשלום,** בחר **ערוך חיוב חוזר**.
+4. בחלונית **ערוך הגדרות חיוב חוזר,** בחר **On**, On , But renew **פעם אחת**, או **בטל**.
+5. בחר **שמור**.
 
-2. בחר את המינוי שעבורו ברצונך לנהל חיוב חוזר. 
-
-3. תחת 'חיוב', לצד 'מתחדש בתאריך‘ או 'התוקף יפוג ב-', לחץ על **ערוך**.
-
-4. בחלונית ההגדרות של 'חיוב חוזר', בחר ב**כבה** כדי לבטל את החיוב. אם החיוב החוזר כבר כבוי, לחץ על **חודשי** או **פעם אחת** כדי להפעיל אותו. 
-
-5. לחץ על **שלח שינוי**.
-
-לקבלת מידע נוסף, ראה [הפעלה או כיבוי של חיוב חוזר](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+לקבלת מידע נוסף, ראה [הפעלה או כיבוי של חיוב חוזר](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

@@ -1,35 +1,35 @@
 ---
 title: רשיון או חשבון לא פעיל
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: 57331da43579af705c7e9ba52211295c0e37ce34
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
-ms.translationtype: HT
+ms.openlocfilehash: 045726996da5b409da9afe0e7b19e3f6675ade8c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286573"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544867"
 ---
 # <a name="license-or-account-disabled"></a>רשיון או חשבון לא פעיל
 
 אם תוקף המנוי שלך פג או אם הוא הוגדר כלא זמין על-ידי Microsoft, או אם ביטלת אותו באמצע תקופת המנוי, באפשרותך להפעיל אותו מחדש במרכז הניהול.
 
-**הפעלה מחדש של מנוי**
+**הפעלה מחדש של מינוי**
 
-1. במרכז הניהול, עבור אל הדף **חיוב > [מוצרים ושירותים](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. במרכז הניהול, עבור אל הדף **חיוב**  >  [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
+2. בכרטיסיה **מוצרים,** אתר את המנוי שברצונך להפעיל מחדש. בחר את שלוש הנקודות (פעולות נוספות) ולאחר מכן **בחר הפעל מחדש מנוי זה**.
+    > [!NOTE]
+    > אם אינך רואה את הפעלת **מנוי זה מחדש, פנה** לתמיכה.
+3. בחלונית **הפעל מחדש מנוי זה,** בחר שיטת תשלום מהרשימה הנפתחת, או בחר הוסף שיטת **תשלום**.
+4. בחר **שמור**.
 
-2. בדף ‘מוצרים ושירותים‘, חפש את המנוי שברצונך להפעיל מחדש.
-
-3. במקטע ‘חיוב‘, לחץ על **הפעל מחדש כעת**.  אם אתה בתצוגת ‘כרטיסים‘, לחץ על שלוש הנקודות בין השם לבין כמות זמינה ובחר הפעלה מחדש מהתפריט. **הערה**: אם אינך רואה את המנוי שאותו אתה מחפש, ייתכן שתצטרך להתאים את המסנן מצב המנוי שבסמוך לחלק העליון של הדף למצב **הכל**.
-
-4. אשר את פרטי החיוב שלך כדי לעדכן את פרטי החיוב הקיימים. לאחר שסיימת להזין את שיטת התשלום שלך, לחץ על **הפעלה מחדש**.
-
-לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+לקבלת מידע נוסף, ראה [הפעלה מחדש של המינוי שלך](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

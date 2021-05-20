@@ -1,35 +1,33 @@
 ---
 title: המנוי כבר לא פעיל
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789231"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544255"
 ---
 # <a name="subscription-no-longer-active"></a>המנוי כבר לא פעיל
 
-אם [מופיעה הודעת מינוי כאשר יישום Microsoft](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB) נפתח, סביר להניח שתצטרך להפעיל מחדש את המינוי.
+אם [מופיעה הודעת](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) מנוי בעת פתיחת יישום של Microsoft, סביר שתצטרך להפעיל מחדש את המנוי שלך.
 
-**הפעלה מחדש של מנוי**
+**הפעלה מחדש של מינוי**
 
-1. במרכז הניהול, עבור אל הדף **חיוב > [מוצרים ושירותים](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. במרכז הניהול, עבור אל הדף **חיוב**  >  [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
+2. בכרטיסיה **מוצרים,** אתר את המנוי שברצונך להפעיל מחדש. בחר את שלוש הנקודות (פעולות נוספות) ולאחר מכן **בחר הפעל מחדש מנוי זה**.
+3. בחלונית **הפעל מחדש מנוי זה,** בחר שיטת תשלום מהרשימה הנפתחת, או בחר הוסף שיטת **תשלום**.
+4. בחר **שמור**.
 
-2. בדף ‘מוצרים ושירותים‘, חפש את המנוי שברצונך להפעיל מחדש.
-
-3. במקטע ‘חיוב‘, לחץ על **הפעל מחדש כעת**.  אם אתה בתצוגת ‘כרטיסים‘, לחץ על שלוש הנקודות בין השם לבין כמות זמינה ובחר הפעלה מחדש מהתפריט. **הערה**: אם אינך רואה את המנוי שאותו אתה מחפש, ייתכן שתצטרך להתאים את המסנן מצב המנוי שבסמוך לחלק העליון של הדף למצב **הכל**.
-
-4. אשר את פרטי החיוב שלך כדי לעדכן את פרטי החיוב הקיימים. לאחר שסיימת להזין את שיטת התשלום שלך, לחץ על **הפעלה מחדש**.
-
-לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

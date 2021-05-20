@@ -1,5 +1,5 @@
 ---
-title: קביעת התצורה של פריטים שאינם מוכללים עבור סריקת Microsoft Defender ATP
+title: קביעת התצורה של אי-הכללות עבור Microsoft Defender ATP סריקה
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 912e77b9b1a149fef373f2d0814fb2f0671a48c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713574"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543686"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>קביעת התצורה של פריטים שאינם מוכללים עבור סריקת Microsoft Defender ATP
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>קביעת התצורה של אי-הכללות עבור Microsoft Defender ATP סריקה
 
-באופן כללי, באפשרותך לכלול הרחבות קבצים ומיקומי תיקיות מסוימים מסריקות Microsoft Defender ATP. באפשרותך גם להגדיר פריטים שאינם מוכללים עבור קבצים שנפתחו על-ידי תהליכים מסוימים. לקבלת מידע נוסף, ראה [קביעת תצורה ואימות של פריטים מוכללים בהתבסס על סיומת הקובץ ומיקום התיקיה](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) [וקביעת תצורה של פריטים שאינם מוכללים עבור קבצים שנפתחו על-ידי תהליכים](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) .
+באופן כללי, באפשרותך לא לכלול סיומות קבצים ומיקום תיקיה מסוימים Microsoft Defender ATP סריקות. באפשרותך גם לקבוע תצורה של אי-הכללות עבור קבצים שנפתחו על-ידי תהליכים מסוימים. לקבלת מידע נוסף, ראה קביעת תצורה [ואמת של אי-הכללות בהתבסס](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) על סיומת קובץ ומיקום תיקיה והגדרה [של אי-הכללות עבור קבצים שנפתחו על-ידי תהליכים](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) .
 
-כדי לקבוע תצורה של פריטים שאינם מוכללים עבור  **Windows server 2016 ו-2019**, ראה קביעת תצורה של הוראות הוראות הפעלה [של Microsoft Defender ב-windows server](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
+כדי לקבוע תצורה של **אי-הכללות עבור Windows Server 2016 ו- 2019,** [ראה קביעת תצורה של אנטי-וירוס של Microsoft Defender אי-הכללות ב- Windows Server](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
 
 **Mac**
 
-לקבלת פרטים אודות סוגי אי-הכללה נתמכים וקביעת התצורה של רשימה של פריטים מובילים עבור Mac, ראה [סוגי](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) אי-הכללה נתמכים [וכיצד לקבוע את התצורה של רשימת הפריטים המפורטים](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions).
+לקבלת פרטים על סוגי אי-הכללה נתמכים וקביעת תצורה של רשימה של אי-הכללות עבור Mac, ראה סוגי [אי-הכללה](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) נתמכים ואופן קביעת התצורה [של רשימת אי-הכללות.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions)
 
-**הערה** באפשרותך גם לאמת רשימות שאינן מוכללות באמצעות קובץ הבדיקה של EICAR. לקבלת מידע נוסף, ראה [אימות רשימות אי-הכללה באמצעות קובץ הבדיקה של EICAR](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**הערה** באפשרותך גם לאמת רשימות אי-הכללה באמצעות קובץ מחשב EICAR. לקבלת מידע נוסף, ראה [אימות רשימות אי-הכללות עם קובץ מחשב של EICAR](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
 
 **Linux**
 
-לקבלת פרטים אודות סוגי אי-הכללה נתמכים וקביעת התצורה של רשימה של פריטים מובילים עבור Linux, ראה סוגי אי- [הכללה נתמכים](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) [וקביעת תצורה ואימות של פריטים מוכללים עבור Microsoft Defender ATP עבור Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions).
+לקבלת פרטים על סוגי אי-הכללה נתמכים וקביעת התצורה של רשימה של אי-הכללות עבור Linux, ראה סוגי [אי-הכללה](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) נתמכים והגדרה של אי-הכללות [עבור Microsoft Defender ATP עבור Linux.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
 
-**הערה** באפשרותך גם לאמת רשימות שאינן מוכללות באמצעות קובץ הבדיקה של EICAR. לקבלת מידע נוסף, ראה [אימות רשימות אי-הכללה באמצעות קובץ הבדיקה של EICAR](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**הערה** באפשרותך גם לאמת רשימות אי-הכללה באמצעות קובץ מחשב EICAR. לקבלת מידע נוסף, ראה [אימות רשימות אי-הכללות עם קובץ מחשב של EICAR](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 

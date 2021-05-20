@@ -13,22 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: b6041dd41d0d94b832b962518c73560737684ce1
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088885"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573747"
 ---
 # <a name="disable-chat"></a>הפיכת צ'אט ללא זמין
 
-כדי להפוך צ'אט ללא זמין עבור הארגון שלך, באפשרותך ליצור פריטי מדיניות שיאפשרו לך לשלוט בתכונות צ'אט והעברת הודעות ערוץ. קיימות כמה דרכים לביצוע פעולה זו, בהתאם לאופן שבו עליך לקבוע את התצורה של צ'אט.
+כדי להפוך צ'אט לזמין או ללא זמין עבור הארגון שלך, באפשרותך ליצור פריטי מדיניות שיאפשרו לך לקבוע אילו תכונות של העברת הודעות בצ'אט וערוץ יהיו זמינות. קיימות כמה דרכים לביצוע פעולה זו, בהתאם לאופן ההגדרה של הצ'אט.
 
-- **העברת הודעות**: במרכז הניהול של teams, עבור אל [פריטי מדיניות העברת הודעות](https://admin.teams.microsoft.com/)והפעלה או **ביטול** של **צ'אט** . לקבלת מידע נוסף אודות מדיניות העברת הודעות מותאמת אישית ואופן הקצאת מדיניות למשתמשים, ראה [ניהול מדיניות העברת הודעות ב-team](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams)
-- **פגישה**: במרכז הניהול של teams, עבור אל [פריטי מדיניות פגישה](https://admin.teams.microsoft.com/) -ההגדרה עבור צ'אט **מאפשרת צ'אט בפגישות**. לקבלת מידע נוסף אודות יצירת פריטי מדיניות מותאמים אישית של פגישה, ראה [ניהול מדיניות פגישה ב-teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) [והתרת צ'אט בפגישות](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
-- **משתמשים אורחים**: באפשרותך לקבוע את התצורה של מדיניות גישת אורח כדי לאפשר לאורחים גישה לצ, שיכולים להפעיל או **לבטל** את **הצ** . לקבלת מידע נוסף, עיין במאמר [קביעת תצורה של גישת אורח במרכז הניהול של teams](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
-- **תלמידים**: כדי להפוך את צ'אט ללא זמין עבור תלמיד, עיין באפשרויות להתרת צ'אט בפגישות ולמתן אפשרות לצ של 1:1 [במדיניות teams ובחבילות מדיניות למגזר החינוך](https://docs.microsoft.com/microsoftteams/policy-packages-edu).
+- **פגישה**: במרכז הניהול Teams, עבור אל מדיניות [פגישה](https://admin.teams.microsoft.com/) - ההגדרה עבור צ'אט היא אפשר **צ'אט בפגישות**. לקבלת מידע נוסף אודות יצירת מדיניות פגישה מותאמת אישית, ראה ניהול מדיניות פגישה [ב- Teams](/microsoftteams/meeting-policies-in-teams) [והאפשרות צ'אט בפגישות](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
 
+- **M*essaging**: במרכז הניהול של Teams, עבור אל מדיניות [העברת הודעות](https://admin.teams.microsoft.com/)והחלף מצב הפעלה או כיבוי של **צ'אט** .  לקבלת מידע נוסף אודות מדיניות העברת הודעות מותאמת אישית ואופן הקצאת פריטי מדיניות למשתמשים, ראה [ניהול מדיניות העברת הודעות ב- Teams](/microsoftteams/messaging-policies-in-teams).
+
+- **תלמידים**: כדי להפוך צ'אט ללא זמין עבור תלמיד, עיין באפשרויות המאפשרות צ'אט בפגישות ועל מתן אפשרות לצ'אט של 1:1 Teams מדיניות וחבילות [מדיניות עבור Education.](/microsoftteams/policy-packages-edu)
+
+- משתמשים אורחים: באפשרותך לקבוע את תצורת מדיניות הגישה לאורחים כדי לאפשר לאורחים לגשת לצ'אט, העשויים להחליף את הצ'אט **הפעלה או** **כבויה.** לקבלת מידע נוסף, ראה [קביעת תצורה של גישת אורח במרכז Teams הניהול](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
 
 
 
