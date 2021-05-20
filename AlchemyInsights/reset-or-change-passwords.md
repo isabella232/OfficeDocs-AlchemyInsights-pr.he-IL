@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810197"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569652"
 ---
 # <a name="reset-or-change-passwords"></a>איפוס או שינוי של סיסמאות
 
-משתמש יכול לשנות את הסיסמה שלו **מהחשבון שלי**  >  [אבטחה & פרטיות.](https://portal.office.com/account/#security)
+משתמש יכול לשנות את הסיסמה שלו על-ידי בחירת תמונת המשתמש או ראשי התיבות > **הצג חשבון**.
   
 אם המשתמש שכח את הסיסמה שלו, מנהל מערכת יכול לאפס את הסיסמה על-ידי עבור אל **משתמשים** פעילים , בחר  >  [](https://portal.office.com/adminportal/home#/users)את המשתמשים ולאחר מכן לחץ על **איפוס סיסמה**.
   
-[לחץ כאן כדי לקבל מידע נוסף](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), או כדי לאפשר למשתמשים לאפס את הסיסמאות שנשכחו משלהם.
+כדי ללמוד עוד אודות סיסמאות ולאפשר למשתמשים לאפס את הסיסמאות שלהם, ראה [איפוס סיסמאות](/microsoft-365/admin/add-users/reset-passwords).

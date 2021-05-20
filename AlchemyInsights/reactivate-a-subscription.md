@@ -13,20 +13,20 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 05ce5b6d8916db795919036aee1b3687a809bf93
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 27828325832f3a7313743327a95e6cee0ae26a15
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488991"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545485"
 ---
-# <a name="reactivate-a-microsoft-365-subscription"></a>הפעלה מחדש של מנוי של Microsoft 365
+# <a name="reactivate-a-microsoft-365-subscription"></a>הפעלה מחדש של Microsoft 365 חדש
 
-אם תוקף המנוי שלך פג, הוא הפך ללא זמין על-ידי Microsoft, או אם ביטלת אותו באמצע תקופת המנוי, באפשרותך להפעיל אותו מחדש במרכז הניהול.
+אם תוקפו של המנוי שלך פג, הפך ללא זמין על-ידי Microsoft, או ביטלת אותו באמצע תקופת מנוי, באפשרותך להפעיל אותו מחדש במרכז הניהול.
   
-1. במרכז הניהול, עבור לדף ' **חיוב**  >  [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
-2. בכרטיסיה **products** , אתר את המנוי שברצונך להפעיל מחדש. בחר **פעולות נוספות** (שלוש נקודות) ולאחר מכן בחר **הפעל מחדש מנוי זה**.
-3. בחלונית **הפעלה מחדש של מנוי זה** , בחר שיטת תשלום מהרשימה הנפתחת או בחר באפשרות **הוסף שיטת תשלום**.
-4. לחץ **שמור**.
+1. במרכז הניהול, עבור אל הדף **חיוב**  >  [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
+2. בכרטיסיה **מוצרים,** אתר את המנוי שברצונך להפעיל מחדש. בחר את שלוש הנקודות (פעולות נוספות) ולאחר מכן **בחר הפעל מחדש מנוי זה**.
+3. בחלונית **הפעל מחדש מנוי זה,** בחר שיטת תשלום מהרשימה הנפתחת, או בחר הוסף שיטת **תשלום**.
+4. בחר **שמור**.
 
-לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683867"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569616"
 ---
 # <a name="how-to-verify-your-domain"></a>כיצד לאמת את התחום שלך
 
-כדי לאמת תחום, פעל בהתאם [לאשף הוספת התחום](https://admin.microsoft.com/Adminportal#/Domains/Wizard), או עבור באופן ידני לתחומים של **הגדרת ההתקנה**  >    >  **הוסף תחום**.
+כדי לאמת תחום, בצע את [אשף הוספת תחום](https://admin.microsoft.com/Adminportal#/Domains/Wizard)או עבור באופן ידני **אל** הגדרת  >  **תחומים** הוסף  >  **תחום**.
 
-לקבלת מידע נוסף אודות שינויי DNS הדרושים כדי לאמת את התחום שלך, עיין בהוראות בנושא [הוספת רשומות dns כדי לחבר את התחום](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)שלך.
+לקבלת מידע נוסף אודות שינויי DNS הדרושים לאימות התחום שלך, עיין בהוראות בהוספת [רשומות DNS כדי לחבר את התחום שלך.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-לשאלות אחרות של תחומים, ראה שאלות [נפוצות אודות התחומים](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+לשאלות תחומים אחרות, עיין בשאלות [הנפוצות בנושא תחומים.](/microsoft-365/admin/setup/domains-faq)

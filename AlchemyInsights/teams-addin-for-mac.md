@@ -1,5 +1,5 @@
 ---
-title: התוספת teams עבור Mac
+title: Teams תוספת עבור Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670329"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582071"
 ---
-# <a name="teams-add-in-for-mac"></a>התוספת teams עבור Mac
+# <a name="teams-add-in-for-mac"></a>Teams תוספת עבור Mac
 
-כדי לפתור בעיות של תוספת של צוותים חסרים עבור משתמשי מערכת ההפעלה של Mac, בצע את הפעולות הבאות:
+כדי לפתור בעיות של Teams עבור משתמשי מערכת ההפעלה Mac, בצע את הפעולות הבאות:
 
-**שלב 1:** אם יש לך Exchange היברידי מקומי (2016 CU3 או מאוחר יותר נדרש), השתמש Test-HMA.ps1 בכלי כדי לאשר שאימות מודרני משולב מוגדר כהלכה. לקבלת מידע נוסף, ראה [אימות הגדרת אימות מודרנית היברידית עבור Outlook עבור iOS ו-Android](https://aka.ms/AA980zq).  
+**שלב 1:** אם יש לך Exchange היברידי מקומי (2016 CU3 ואילך נדרש), השתמש בכלי Test-HMA.ps1 כדי לוודא שתצורת האימות המודרנית ההיברידית נקבעה כראוי. לקבלת מידע נוסף, ראה [אימות הגדרת אימות מודרני היברידי עבור Outlook עבור iOS ו- Android](https://aka.ms/TestHMAEAS).  
 
-**הערה** השתמש בתבנית כתובת UPN (לדוגמה, [username@contoso.com](mailto:username@contoso.com)), לא domain\username. עשה זאת גם עבור משתמשים בעלי תיבות דואר של Exchange Online.
+**הערה** השתמש בתבנית כתובת UPN (לדוגמה, [username@contoso.com](mailto:username@contoso.com)), ולא domain\username. בצע פעולה זו גם עבור משתמשים בעלי Exchange Online דואר.
 
-**שלב 2:** העבר את המשתמש **Tools**  >  **לחשבונות**כלים... ב-Outlook עבור Mac, וחפש את החשבון ובחר אותו. אשר את שם המשתמש המופיע בתבנית UPN (לדוגמה, [username@contoso.com](mailto:username@contoso.com)).
+**שלב 2:** האם המשתמש י לעבור אל **'חשבונות**  >  **כלים'**... ב- Outlook עבור Mac, ומצא ובחר את החשבון. אשר את שם המשתמש המפורט בתבנית UPN (לדוגמה, [username@contoso.com](mailto:username@contoso.com)).
 
-**שלב 3:** אשר שהמשתמש הוא משתמש מורשה של Microsoft Teams. על המשתמש להשתמש במנוי Office 365 for Mac, בגירסה 16.24 ואילך.
+**שלב 3:** אשר שהמשתמש הוא משתמש מורשה Microsoft Teams משתמש. המשתמש חייב להשתמש במנוי Office 365 עבור Mac, במוצר גירסה 16.24 ואילך.

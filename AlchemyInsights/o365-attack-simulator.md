@@ -1,5 +1,5 @@
 ---
-title: סימולטור התקפה של 2681 ב-Microsoft 365
+title: 2681 Attack Simulator ב- Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801552"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545727"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>סימולטור התקפה ב-Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Attack Simulator ב- Microsoft 365
 
-- האם חסר לך סימולטור התקפה? סימולטור **התקפה דורש Microsoft Defender עבור office 365 תוכנית 2 (ATP תוכנית 2)** או **Office 365 Enterprise E5** . סימולטור התקפה **אינו** כלול ב-Microsoft Defender עבור Office 365 תוכנית 1 (ATP Plan 1), Office 365 Enterprise E3, או כל אפליקציות Microsoft 365 למנויים עסקיים.
+- האם חסר לך Attack Simulator? Attack Simulator דורש **ש- Microsoft Defender Office 365 תוכנית 2** **או Office 365 Enterprise E5.** Attack Simulator **אינו כלול** ב- Microsoft Defender עבור Office 365 1, Office 365 Enterprise E3 או כל יישומי Microsoft 365 לעסקים מנויים.
 
-- החשבון שבו אתה משתמש להפעלת התקפות מדומה דורש הרשאות מנהל מערכת כללי או מנהל אבטחה ואימות רב-גורמי. לקבלת מידע נוסף אודות דרישות סימולטור התקפה, עיין [בנושא זה](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- החשבון המשמש להפעלת התקפות מדומה דורש הרשאות כלליות של מנהל מערכת או מנהל אבטחה ואימות רב-גורמי (MFA). לקבלת מידע נוסף אודות דרישות Attack Simulator, עיין [בנושא זה](/microsoft-365/security/office-365-security/attack-simulator).
 
-- דברים חשובים שעליך לדעת על סימולציות התקפה **בסיסמאות של כוח פיזי** :
+- דברים חשובים שיש לדעת על **סימולציות התקפה של** סיסמה בכוח גס:
 
-  - אם חשבון היעד הזמין את משרד המשתמש והסיסמה התמלאה כראוי, החשבון לא יוצג כסכנה (מקדם האימות השני לא יהיה שלם).
+  - אם חשבון היעד כולל MFA זמין והסיסמה ניחשה כראוי, החשבון לא יופיע כחשוף לסכנה (גורם האימות השני לא יהיה שלם).
 
-  - קובץ הסיסמה אינו יכול להיות גדול מ-10 MB. השתמש בסיסמה אחת בכל שורה וכלול שורה ריקה (החזרת גררה) לאחר הסיסמה האחרונה ברשימה.
+  - קובץ הסיסמה לא יכול להיות גדול מ- 10 MB. השתמש בסיסמה אחת בכל שורה וכלול שורה ריקה (החזרת גררה) לאחר הסיסמה האחרונה ברשימה.
 
-- דברים חשובים שעליך לדעת לגבי הדמיית **החנית** מצרף סימולציות:
+- דברים חשובים שיש לדעת על **ספירת דיוג מצרפים** הדמיות:
 
-  - לפי עיצוב, אין באפשרותך לספק ערך מותאם אישית עבור **כתובת URL של שרת הכניסה לדיוג** .
+  - כברירת מחדל, לא ניתן לספק ערך מותאם אישית עבור כתובת URL **של שרת כניסה של דיוג**.
 
-  - אם נמען משתמש [בתוספת הפיכת הודעת הדוח לזמינה](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) כדי לדווח על ההודעה כדיוג, ייתכן שלא תקבל התראות עבור ההודעה (מכיוון שזוהי התקפה מדומה).
+  - אם נמען [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) משתמש התוספת הפוך את התוספת 'הודעת דוח' לזמינה הדוח ההודעה כדיווג, ייתכן שלא תקבל התראות עבור ההודעה (מאחר זוהי התקפה מדומה).
 
-- דוחות: לאחר השלמת ההתקפה המדומה, באפשרותך ללחוץ על **פרטי התקפה** כדי לראות את הדוח.
+- דוחות: לאחר השלמת התקיפה המדומה, באפשרותך ללחוץ על פרטי **התקפה** כדי לראות את הדוח.
 
-- לקבלת הוראות מפורטות ותכונות חדשות בסימולטור התקפה, ראה [סימולטור התקפה ב-Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- לקבלת הוראות מפורטות ותכונות חדשות בסימולטור התקפה, ראה [סימולטור התקפה Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).
