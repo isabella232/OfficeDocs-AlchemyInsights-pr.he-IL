@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: d6699e08a33a72b0c726c149829667cd57afb0a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: bf44c6f283a52fdcef2f231143177dc880b06d8a
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809728"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694741"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>שחזר פריטים שנמחקו ממרכז הניהול של Exchange
 
@@ -28,3 +28,5 @@ ms.locfileid: "51809728"
 3. בחר **שחזר פריטים שנמחקו**. 
     - ייתכן שתצטרך לחפש תחת התפריט הנפתח **... עוד** כדי לראות את **שחזר פריטים שנמחקו**.
 4. השתמש באפשרויות הסינון כדי למצוא את הפריטים שעליך לשחזר.
+
+לקבלת מידע נוסף, ראה [שימוש ב- EAC חדש לשחזור הודעות שנמחקו.](/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages)

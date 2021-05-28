@@ -1,5 +1,5 @@
 ---
-title: בעיות בעת העברת נתונים ל-SharePoint Online
+title: בעיות בעת העברת נתונים ל- SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700888"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694777"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>בעיות בעת העברת נתונים ל-SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>בעיות בעת העברת נתונים ל- SharePoint Online
 
-**העברה מעל 100TB של נתונים**
+**העברה של יותר מ- 100 TB של נתונים**
 
-נראה שאתה מעביר מעל 100TB של נתונים ל-SharePoint Online. בצע את השלבים שלהלן כדי שניתן יהיה לסייע לך בהקדם האפשרי. 
+נראה שאתה מעביר יותר מ- 100 TB של נתונים ל- SharePoint Online. בצע את השלבים הבאים כדי שנוכל לסייע לך בהקדם האפשרי. 
 
-1. בחר **בקשת שירות חדשה**ולאחר מכן **בקשת שירות חדשה**. 
-2. השאר את הכותרת והתיאור **כהעברת SharePoint דרך 100TB**.
-3. לאחר שליחת הכרטיס, עדכן אותו במידע הבא: 
+1. בחר **פנה לתמיכה** ולאחר מכן **בחר בקשת שירות חדשה**. 
+2. השאר את הכותרת והתיאור **כהעברה SharePoint מעל 100 TB**.
+3. לאחר הגשת הכרטיס, עדכן אותו במידע הבא: 
 
-    - גודל ההעברה המשוער.
-    - הערכה של כאשר ברצונך להתחיל ולהשלים את ההעברה.
-    - תאר היכן אתה מעביר את התוכן שלך, כגון SharePoint Server, Box, GDrive, מניות קבצים וכדומה.
+    - גודל משוער של ההעברה שלך.
+    - הערכה של מתי תרצה להתחיל ולהשלים את ההעברה.
+    - תאר את המקום שבו אתה מעביר את התוכן שלך, כגון SharePoint Server, Box, GDrive, מיקומים משותפים של קבצים וכן הלאה.
