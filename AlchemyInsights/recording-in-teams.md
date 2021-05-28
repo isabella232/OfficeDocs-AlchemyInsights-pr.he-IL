@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809764"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697031"
 ---
 # <a name="recording-in-teams"></a>הקלטה ב- Teams
 
-כעת ניתן לאחסן הקלטה של פגישות Microsoft Teams ב- OneDrive או ב- SharePoint, לקבלת מידע נוסף ובחירה בהצטרפות, עיין בפרסום הבא במרכז ההודעות: [(מעודכן) Microsoft Teams: הקלטות פגישות שנשמרו ב- OneDrive וב- SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+אם לחצן התחל  הקלטה של משתמש מופיע באפור או חסר בפגישה Teams, נסה להפעיל את אבחון הקלטת הפגישה על-ידי **הקלדת Diag: הקלטת** פגישה בתיבה לעיל. 
 
-העברת מיקום האחסון שלך ל- OneDrive או ל- SharePoint מבטלת את הדרישה הקודמת, ש- Stream יהיה זמין באזור שלך.
+Microsoft Teams כעת ניתן לאחסן הקלטות פגישה ב- OneDrive Sharepoint. העברת מיקום האחסון OneDrive ותיקון SharePoint הבעיה שבה הקלטות פגישה לא פועלים מכיוון ש' הזרם אינו זמין באזור שלך. לקבלת מידע נוסף, עיין בשאלות [הנפוצות של Microsoft Stream](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
-כדי ללמוד **להפעיל ולקבוע את תצורת תכונת ההקלטה** ב- Teams בארגון שלך, **לרבות פקדים להפיכת הקלטת פגישות לזמינה או ללא זמינה עבור משתמשים פרטניים ב-**, עיין ב- [Teams הקלטת פגישה בענן](https://docs.microsoft.com/microsoftteams/cloud-recording).
+לקבלת מידע נוסף אודות שמירת הקלטות פגישה, עיין בפרסום מרכז ההודעות: [(עדכון) Microsoft Teams: הקלטות פגישה שנשמרו ב- OneDrive וב- Sharepoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640).
 
-אם אינך מצליח **להקליט ב- Teams או ברצונך להבין איך להקליט** ב- Teams, נסה את אחד המאמרים הבאים:
+כדי ללמוד כיצד להפוך את תכונת ההקלטה לזמינה ולקבוע את תצורתה ב- Teams עבור הארגון שלך, כולל הפקדים להפיכת הקלטת פגישה לזמינה או ללא זמינה עבור משתמשים ספציפיים, [ראה Teams הקלטת פגישת ענן](/microsoftteams/cloud-recording). 
 
-- אם עדיין לא בחרת להצטרף לאחסון של OneDrive או SharePoint לצורך הקלטת פגישות Teams, היכולות האלה מסתמכות על זמינות אזורית ומדינתית של Stream. אם אינך מצליח להקליט בדיקת פגישה כדי להבטיח ש- [Stream זמין במדינתך או באזורך ](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). לקבלת מידע נוסף שים לב לפרסום הבא במרכז ההודעות בפורטל הניהול: [עדכון תכונה: בקרת אחסון אזורית של הקלטות ענן ב- Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+אם עדיין אינך מצליח להקליט ב- Teams או שאתה צריך להבין כיצד להקליט ב- Teams, ראה: 
 
-- הקלטת פגישות ב- Teams [מחייב להקצות רשיונות ומדיניות ספציפיים ל-](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), כולל רישיונות Stream להעלאה או הורדה של הקלטות פגישות ל- Microsoft Stream.
+[תכונה מעודכנת: Microsoft Stream cloud recordings regional storage control](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- לאחר שתאשר את כל הדרישות, כולל רישוי, מדיניות וזמינות אזורית של Stream, עיין ב- [הקלטת פגישות ב- Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+הקלטת פגישה ב- Teams דורשת רשיונות ומדיניות מוקצים ספציפיים, כולל הזרמת רשיונות להעלאה או הורדה של הקלטות פגישה ל- Microsoft Stream. לקבלת פרטים, ראה [דרישות מוקדמות עבור Teams בענן](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording).
+
+לאחר אישור כל הדרישות, כולל רישוי, מדיניות וזמינות אזורית של Stream, סקור [את הקלטת פגישה ב- Teams.](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24) 

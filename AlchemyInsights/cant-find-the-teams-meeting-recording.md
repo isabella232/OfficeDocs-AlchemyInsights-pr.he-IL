@@ -1,5 +1,5 @@
 ---
-title: לא מצליח למצוא את הקלטת הפגישה של Teams
+title: לא ניתן למצוא את Teams הפגישה
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294246"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696937"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a>לא מצליח למצוא את הקלטת הפגישה של Teams
+# <a name="cant-find-the-teams-meeting-recording"></a>לא ניתן למצוא את Teams הפגישה
 
-אם אין באפשרותך לאתר או למצוא הקלטת פגישה של Teams, עיין בתיעוד פתרון הבעיה הבא:
+אם אינך מצליח לאתר או למצוא הקלטת פגישה Teams, הפעל תחילה את אבחון הקלטת הפגישה החסרה על-ידי **הקלדת Diag: חסרה הקלטה** בתיבה לעיל. 
 
-[פתרון בעיות בהקלטת הפגישה של Teams-Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+הקלטות נמצאות בערוץ, OneDrive או SharePoint בהתאם לאופן קביעת התצורה של הדייר שלך ואם ההקלטה היתה עבור פגישת ערוץ. לקבלת הוראות לגבי חיפוש ידני של הקלטת הפגישה, ראה: 
 
-הקלטת הפגישה שלך תהיה ממוקמת ב-Stream, OneDrive או SharePoint בהתאם לאופן שבו מוגדרת הדייר שלך.
+[בעיה 2: קישור הקלטת הפגישה אינו גלוי בחלון צ'אט](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-לקבלת הוראות לאיתור הקלטת הפגישה, ראה:
-
-**[בעיה 2: הקישור להקלטת פגישה אינו גלוי בחלון צ'אט](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**
+לקבלת מידע נוסף, ראה [בעיות בהקלטות פגישה](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).

@@ -1,5 +1,5 @@
 ---
-title: הקלטת שיחה של 1:1
+title: הקלטת שיחה ב- 1:1
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733850"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696959"
 ---
-# <a name="11-call-recording"></a>הקלטת שיחה של 1:1
+# <a name="11-call-recording"></a>הקלטת שיחה ב- 1:1
 
-מנהלי מערכת צריכים לפעול כעת כדי להמשיך לאפשר למשתמשים להקליט שיחות 1:1.
- 
-החל מ-12 באפריל 2021, אנו נתחיל לאכוף את האפשרות החדשה של מדיניות השיחות של Teams *AllowCloudRecordingForCalls*. 
+אם **לחצן התחל הקלטה** מופיע באפור ב- 1:1 שיחה, עליך לשנות את הגדרות המדיניות עבור המשתמש המשפיע.   
 
-האפשרות ' הקלטת שיחה ' ב-1:1 כרגע נשלטת על-ידי האפשרות *AllowCloudRecording* במדיניות הפגישה של teams. אם המשתמשים שלך מורשים לתעד פגישות של Teams, הם יכולים גם לתעד שיחות 1:1.
+החל מ- 31 במאי 2021, נתחיל לאלץ מדיניות שיחות Teams *אפשרCloudRecordingForCalls*. לפני שינוי זה, הקלטת שיחה של 1:1 נשלטת על-ידי מדיניות Teams *AllowCloudRecording.* שינוי זה מתועד בפרסום מרכז ההודעות: [(עדכון) 1:1 מבוא](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)מדיניות הקלטת שיחות .  
 
-אם אתה מעדיף לחסום את כל המשתמשים מפני הקלטה של שיחות 1:1, אין צורך לבצע פעולה כלשהי. האפשרות ' מדיניות שיחות *AllowCloudRecordingForCalls* ' תכלול $False כברירת מחדל.
+*AllowCloudRecordingForCalls*   אפשרות מדיניות שיחות מוגדרת $False **כברירת** מחדל. אם אתה מעדיף לחסום את כל המשתמשים מהקלטה של שיחות 1:1, אין צורך לבצע פעולה כלשהי.  
 
-שינוי זה מתועד בפרסום מרכז ההודעות הבא: [(מעודכן) 1:1 שיחה מבוא למדיניות הקלטה](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) כדי להגדיר את האפשרות מדיניות שיחות של teams עליך להשתמש ב- [team PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install).
+כדי לאפשר הקלטת שיחות עבור כל המשתמשים ב- 1:1 שיחות, השתמש Teams PowerShell כדי להפעיל את ה- cmdlet הבא: 
 
-**כדי להפוך הקלטת שיחה לזמינה בשיחות 1:1: Set-CsTeamsCallingPolicy** -Global AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-**כדי להפוך הקלטת שיחות ללא זמינה בשיחות 1:1: Set-CsTeamsCallingPolicy** -$False AllowCloudRecordingForCalls
+לחלופין, באפשרותך ליצור מדיניות חדשה ולהגדיר **-AllowCloudRecordingForCalls** **$true ולהקצות** מדיניות זו למשתמשים שלך. 
 
+לקבלת מידע נוסף, ראה [1:1 פקדי מדיניות הקלטת שיחות הם (כמעט!) כאן .](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668)
