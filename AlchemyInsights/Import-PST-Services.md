@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470254"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721637"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 ייבוא שירות
 
-שירות Microsoft 365 ייבוא מאפשר לך לייבא בצובר קבצי PST מרובים לתיבות Exchange Online תיבות דואר.
-
 כדי לגשת לשירות הייבוא ולהתחיל את תהליך הייבוא:
 
-1. עבור אל [מרכז & תאימות והירשם](https://protection.office.com) באמצעות האישורים עבור חשבון מנהל מערכת בארגון שלך.
+1. עבור אל [מרכז התאימות של M365](https://compliance.microsoft.com/)והירשם באמצעות האישורים עבור חשבון מנהל מערכת בארגון שלך.
 
-2. בחלונית הימנית של מרכז **האבטחה &** תאימות , לחץ על ניהול מידע **> ייבוא**.
+1. בחלונית הימנית של מרכז התאימות של M365 תחת **פתרונות,** בחר **ייבוא פיקוח**  >  **על מידע**.
 
-3. בדף **ייבוא,** לחץ על **עבודת ייבוא חדשה**.
+1. בדף **ייבוא,** בחר משימה **חדשה לייבוא**.
 
-4. כדי להשלים את השלבים באשף, בצע [הוראות מפורטות אלה.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
+1. כדי להשלים את השלבים באשף, ראה [שימוש בהעלאה ברשת כדי](/compliance/use-network-upload-to-import-pst-files)לייבא קבצי PST של הארגון שלך Microsoft 365.
 
-**חשוב**: כדי **לגשת לדף** ייבוא במרכז האבטחה & תאימות, הוקצתו [לך ההרשאות המתאימות.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
+כדי לגשת **לדף** ייבוא, ודא שהוקצו לך ההרשאות המתאימות. לקבלת מידע נוסף, ראה [שימוש בהעלאת רשת לייבוא קבצי PST](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
 
-אם ברצונך לייבא PST לתיבת הדואר שלך, עיין [במאמר זה](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+אם ברצונך לייבא PST לתיבת הדואר שלך, ראה [ייבוא דואר אלקטרוני, אנשי קשר ולוח שנה מקובץ .pst של Outlook .](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+
+אם אתה נתקל בבעיה בייבוא, ראה בעיות [המשפיעות על משימות ייבוא PST](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
+
