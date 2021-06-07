@@ -13,21 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 839a70282b4dd619e9dbe8167ef0e409e468b1ad
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830583"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774360"
 ---
 # <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
 
 עובד עם PowerShell או עם קבצי Script בתוך Sharepoint Online? בקר בקישורים שלהלן לקבלת מידע נוסף.
-- [תחילת העבודה עם מעטפת הניהול של SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [התחבר ל- SPO PowerShell באמצעות אימות רב-תכליתי (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint Patterns and Practices (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) מכיל ספריה של פקודות PowerShell המאפשרת לך לבצע פעולות ניהול מורכבות כלפי SPO.
-
-> [!NOTE]
-> - אם אתה נתקל בבעיות בהתחברות עם מעטפת ניהול ה- SPO, ודא כי עדכנת את הגירסה העדכנית ביותר ונסה לייבא מחדש את [המודול](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1) באמצעות *"Import-Module Microsoft.Online.SharePoint.PowerShell".*
-> - אם אתה מנסה להפעיל קבצי Script של מודל אובייקט בצד הלקוח, יהיה עליך להתקין [את ה- SDK של רכיבי לקוח של Sharepoint Online](https://www.microsoft.com/download/details.aspx?id=42038) במחשב המקומי שלך.
-> - אם אתה נתקל בבעיות בהפעלת קבצי Script מ- PowerShell, ייתכן שתרצה לשקול להפעיל את PowerShell כמנהל מערכת ושינוי [מדיניות הביצוע](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+- [תחילת העבודה עם SharePoint ניהול מקוון](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [התחברות ל- SPO PowerShell עם אימות רב-תכליתי (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- [SharePoint תבניות ותרגולים (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) מכיל ספריה של פקודות PowerShell המאפשרת לך לבצע פעולות ניהול מורכבות כלפי SPO.
