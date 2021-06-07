@@ -13,21 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 839a70282b4dd619e9dbe8167ef0e409e468b1ad
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
+ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830583"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52774360"
 ---
-# <a name="sharepoint-online-powershell"></a><span data-ttu-id="26126-102">Sharepoint Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="26126-102">Sharepoint Online PowerShell</span></span>
+# <a name="sharepoint-online-powershell"></a><span data-ttu-id="256d0-102">Sharepoint Online PowerShell</span><span class="sxs-lookup"><span data-stu-id="256d0-102">Sharepoint Online PowerShell</span></span>
 
-<span data-ttu-id="26126-103">עובד עם PowerShell או עם קבצי Script בתוך Sharepoint Online?</span><span class="sxs-lookup"><span data-stu-id="26126-103">Working with PowerShell or Scripts within Sharepoint Online?</span></span> <span data-ttu-id="26126-104">בקר בקישורים שלהלן לקבלת מידע נוסף.</span><span class="sxs-lookup"><span data-stu-id="26126-104">Visit the links below for more information.</span></span>
-- [<span data-ttu-id="26126-105">תחילת העבודה עם מעטפת הניהול של SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="26126-105">Getting started with SharePoint Online Management Shell</span></span>](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [<span data-ttu-id="26126-106">התחבר ל- SPO PowerShell באמצעות אימות רב-תכליתי (MFA)</span><span class="sxs-lookup"><span data-stu-id="26126-106">Connect to SPO PowerShell with multifactor authentication (MFA)</span></span>](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- <span data-ttu-id="26126-107">[SharePoint Patterns and Practices (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) מכיל ספריה של פקודות PowerShell המאפשרת לך לבצע פעולות ניהול מורכבות כלפי SPO.</span><span class="sxs-lookup"><span data-stu-id="26126-107">[SharePoint Patterns and Practices (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) contains a library of PowerShell commands that allows you to perform complex management actions towards SPO.</span></span>
-
-> [!NOTE]
-> - <span data-ttu-id="26126-108">אם אתה נתקל בבעיות בהתחברות עם מעטפת ניהול ה- SPO, ודא כי עדכנת את הגירסה העדכנית ביותר ונסה לייבא מחדש את [המודול](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1) באמצעות *"Import-Module Microsoft.Online.SharePoint.PowerShell".*</span><span class="sxs-lookup"><span data-stu-id="26126-108">If you are having issues connecting with the SPO management shell, make sure that you have updated to the latest version and try to [re-import the module](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1) using *“Import-Module Microsoft.Online.SharePoint.PowerShell”.*</span></span>
-> - <span data-ttu-id="26126-109">אם אתה מנסה להפעיל קבצי Script של מודל אובייקט בצד הלקוח, יהיה עליך להתקין [את ה- SDK של רכיבי לקוח של Sharepoint Online](https://www.microsoft.com/download/details.aspx?id=42038) במחשב המקומי שלך.</span><span class="sxs-lookup"><span data-stu-id="26126-109">If you are attempting to run client-side object model scripts, you will need to have the [Sharepoint Online Client Components SDK](https://www.microsoft.com/download/details.aspx?id=42038) installed on your local machine.</span></span>
-> - <span data-ttu-id="26126-110">אם אתה נתקל בבעיות בהפעלת קבצי Script מ- PowerShell, ייתכן שתרצה לשקול להפעיל את PowerShell כמנהל מערכת ושינוי [מדיניות הביצוע](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).</span><span class="sxs-lookup"><span data-stu-id="26126-110">If you are having issues running scripts from PowerShell, you may want to consider running PowerShell as an Administrator and changing the [Execution Policy](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).</span></span>
+<span data-ttu-id="256d0-103">עובד עם PowerShell או עם קבצי Script בתוך Sharepoint Online?</span><span class="sxs-lookup"><span data-stu-id="256d0-103">Working with PowerShell or Scripts within Sharepoint Online?</span></span> <span data-ttu-id="256d0-104">בקר בקישורים שלהלן לקבלת מידע נוסף.</span><span class="sxs-lookup"><span data-stu-id="256d0-104">Visit the links below for more information.</span></span>
+- [<span data-ttu-id="256d0-105">תחילת העבודה עם SharePoint ניהול מקוון</span><span class="sxs-lookup"><span data-stu-id="256d0-105">Getting started with SharePoint Online Management Shell</span></span>](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [<span data-ttu-id="256d0-106">התחברות ל- SPO PowerShell עם אימות רב-תכליתי (MFA)</span><span class="sxs-lookup"><span data-stu-id="256d0-106">Connect to SPO PowerShell with multifactor authentication (MFA)</span></span>](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- <span data-ttu-id="256d0-107">[SharePoint תבניות ותרגולים (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) מכיל ספריה של פקודות PowerShell המאפשרת לך לבצע פעולות ניהול מורכבות כלפי SPO.</span><span class="sxs-lookup"><span data-stu-id="256d0-107">[SharePoint Patterns and Practices (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) contains a library of PowerShell commands that allows you to perform complex management actions towards SPO.</span></span>
