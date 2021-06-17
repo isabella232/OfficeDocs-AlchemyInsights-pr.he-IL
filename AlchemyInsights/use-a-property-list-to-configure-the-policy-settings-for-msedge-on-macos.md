@@ -12,17 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004632"
+- "9006494"
 - "8361"
-ms.openlocfilehash: 279a42acc12662c57463010a101ade35df97074f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+- "11114"
+ms.openlocfilehash: 583e3f4401901bec70b0cef3444066c220cbb554
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405094"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989710"
 ---
 # <a name="use-a-property-list-to-configure-the-policy-settings-for-microsoft-edge-on-macos"></a>שימוש ברשימת המאפיינים כדי לקבוע את תצורת הגדרות המדיניות עבור Microsoft Edge ב- macOS
 
-ב- macOS, ניתן לקבוע את תצורת Microsoft Edge גירסה 77 ואילך באמצעות קובץ רשימת המאפיינים ( .plist):
+ב- macOS, Microsoft Edge גירסה 77 ואילך ניתן לקבוע את תצורתה באמצעות קובץ רשימת המאפיינים ( .plist) :
 
 1. [יצירת רשימת המאפיינים](https://go.microsoft.com/fwlink/?linkid=2134726).
 1. [פריסת רשימת המאפיינים](https://go.microsoft.com/fwlink/?linkid=2134727).

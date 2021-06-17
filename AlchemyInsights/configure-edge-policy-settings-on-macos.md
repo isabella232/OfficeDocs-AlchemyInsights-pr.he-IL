@@ -1,5 +1,5 @@
 ---
-title: השתמש ב- Jamf כדי לקבוע את התצורה של הגדרות מדיניות Microsoft Edge ב- macOS
+title: השתמש ב- Jamf כדי לקבוע את Microsoft Edge המדיניות שלך ב- macOS
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003852"
 - "9004632"
+- "9006494"
 - "6901"
 - "8360"
-ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+- "11115"
+ms.openlocfilehash: 2a8f01ba2224ab118dce332edd863a8c6f1122e6
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403456"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989790"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>השתמש ב- Jamf כדי לקבוע את התצורה של הגדרות מדיניות Microsoft Edge ב- macOS
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>השתמש ב- Jamf כדי לקבוע את Microsoft Edge המדיניות שלך ב- macOS
 
-כדי לקבוע את התצורה של Microsoft Edge (ערוץ יציב 81 ואילך) ב- macOS, השתמש בקובץ מניפסט מדיניות Microsoft Edge ב- Jamf Pro 10.19.
+כדי לקבוע Microsoft Edge (ערוץ יציב 81 ואילך) ב- macOS, השתמש בקובץ מניפסט מדיניות Microsoft Edge ב- Jamf Pro 10.19.
 
-לקבלת מידע נוסף, ראה [קביעת תצורה של הגדרות מדיניות Microsoft Edge ב- macOS באמצעות Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).
+לקבלת מידע נוסף, ראה [קביעת תצורה Microsoft Edge מדיניות ב- macOS באמצעות Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).
