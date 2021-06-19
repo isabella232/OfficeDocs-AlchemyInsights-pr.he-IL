@@ -1,5 +1,5 @@
 ---
-title: הפעלת כלי הייצוא של Office 365 גילוי אלקטרוני ב-Microsoft Edge
+title: הפיכת Office 365 ייצוא גילוי אלקטרוני לזמין ב- Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583413"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023176"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>הפעלת כלי הייצוא של Office 365 גילוי אלקטרוני ב-Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>הפיכת Office 365 ייצוא גילוי אלקטרוני לזמין ב- Microsoft Edge
 
-התמיכה ב-ClickOnce אינה זמינה עוד ב-Microsoft Edge כברירת מחדל. כדי להמשיך להשתמש בכלי הייצוא של Microsoft Office 365 גילוי אלקטרוני, יהיה עליך להשתמש ב-Microsoft Internet Explorer או להפוך את אפשרות התמיכה של ClickOnce לזמינה ב-Microsoft Edge מבוססת כרום, באופן הבא:
+תמיכה ClickOnce אינה זמינה עוד ב- Microsoft Edge כברירת מחדל. כדי להמשיך להשתמש בכלי Microsoft Office 365 ייצוא גילוי אלקטרוני, יהיה עליך להשתמש ב- Microsoft Internet Explorer או להפוך את אפשרות התמיכה של ClickOnce לזמינה ב- Chromium מבוססי Microsoft Edge, באופן הבא:
 
-1. עבור אל edge://flags/#edge-לחץ פעם אחת.
-1. עבור האפשרות **תמיכה ב-ClickOnce** , שנה את הערך **מברירת מחדל** או לא **זמין** **לזמין**.
-1. בחלק התחתון של חלון הדפדפן, לחץ על **הפעל מחדש**. השינוי ייכנס לתוקף לאחר שתפעיל מחדש את Microsoft Edge.
+1. עבור אל edge://flags/#edge-click-once.
+1. עבור האפשרות **ClickOnce,** שנה את הערך מברירת מחדל **או** לא **זמין** **לזמין**.
+1. בחלק התחתון של חלון הדפדפן, לחץ על הפעל **מחדש**. השינוי יתוקף לאחר ההפעלה מחדש של Microsoft Edge.
 
-לקבלת מידע נוסף, ראה [שימוש בכלי הייצוא של Office 365 גילוי אלקטרוני ב-Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+כדי ללמוד עוד, ראה שימוש בכלי Office 365 ייצוא גילוי [אלקטרוני ב- Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).

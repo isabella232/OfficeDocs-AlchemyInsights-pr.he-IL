@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "53005056"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023140"
 ---
 # <a name="get-business-assist"></a>קבל סיוע עסקי
 
-1. בתיבת מרכז הניהול של Microsoft 365, עבור אל **סיוע עסקי**  >  **למנויים**.
-
-1. בחר **Business Assist**  >  **Buy** ופעל בהתאם לאשף כדי לרכוש סיוע עסקי.
+1. בתיבת מרכז הניהול של Microsoft 365, עבור אל [סיוע עסקי עבור Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2158423), בחר תדירות חיוב ולאחר מכן בחר **קנה**.
+2. בצע את השלבים כדי לבצע צ'ק-אאוט.
 
 כדי ללמוד עוד, [ראה סיוע עסקי עבור Microsoft 365](/microsoft-365/admin/misc/business-assist).

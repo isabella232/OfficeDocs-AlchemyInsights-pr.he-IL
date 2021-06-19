@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721637"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023104"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 ייבוא שירות
 
@@ -29,9 +29,9 @@ ms.locfileid: "52721637"
 
 1. בחלונית הימנית של מרכז התאימות של M365 תחת **פתרונות,** בחר **ייבוא פיקוח**  >  **על מידע**.
 
-1. בדף **ייבוא,** בחר משימה **חדשה לייבוא**.
+1. בדף **ייבוא,** בחר משימה **חדשה לייבוא**. הזן שם משימה ובחר **הבא**.
 
-1. כדי להשלים את השלבים באשף, ראה [שימוש בהעלאה ברשת כדי](/compliance/use-network-upload-to-import-pst-files)לייבא קבצי PST של הארגון שלך Microsoft 365.
+1. בחר **Upload הנתונים שלך כדי** להשתמש באפשרות העלאת הרשת עבור סוג המשימה **ייבוא**. לקבלת שלבים מפורטים, [ראה שימוש בהעלאה ברשת כדי לייבא קבצי PST של הארגון שלך Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
 
 כדי לגשת **לדף** ייבוא, ודא שהוקצו לך ההרשאות המתאימות. לקבלת מידע נוסף, ראה [שימוש בהעלאת רשת לייבוא קבצי PST](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
 
