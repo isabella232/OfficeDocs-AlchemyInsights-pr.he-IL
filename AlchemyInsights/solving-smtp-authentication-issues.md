@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות אימות SMTP
+title: הפיכת אימות SMTP לזמין ופתרון בעיות
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826416"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077652"
 ---
-# <a name="solving-smtp-authentication-issues"></a>פתרון בעיות אימות SMTP
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>הפיכת אימות SMTP לזמין ופתרון בעיות
 
-אם אתה מקבל שגיאות 5.7.57 או 5.7.3 בעת ניסיון לשלוח דואר אלקטרוני מסוג SMTP ולאמת עם לקוח או יישום, עליך לבדוק כמה דברים:
+אם ברצונך להפוך אימות SMTP לזמין עבור תיבת דואר או אם אתה מקבל שגיאת "לקוח לא מאומת", "Authentication unsuccessful", או "SmtpClientAuthentication" עם קוד 5.7.57 או 5.7.3 או 5.7.139 בעת ניסיון להעביר דואר אלקטרוני על-ידי אימות מכשיר או יישום עם Microsoft 365, בצע שלוש פעולות אלה כדי לפתור את הבעיה:
 
-- ייתכן שהגשת SMTP מאומתת אינה זמינה דייר, או בתיבת הדואר שאתה מנסה להשתמש בה (בדוק את שתי ההגדרות). כדי לקרוא עוד, ראה [הפיכת הגשת SMTP של לקוח מאומת לזמינה או ללא זמינה.](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)
+1. הפוך את [ברירות המחדל של אבטחה של Azure ללא](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) זמינות על-ידי הפעלת **ברירות מחדל של אבטחה** **ללא**.
 
-- בדוק אם [ברירות המחדל של Azure Security](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) זמינות עבור הדייר שלך; אם אפשרות זו זמינה, אימות SMTP באמצעות אימות בסיסי (המכונה גם מדור קודם; פעולה זו תשתמש בשם משתמש וסיסמה) תיכשל.
+    a. היכנס לפורטל Azure כמנהל מערכת של אבטחה, כמנהל מערכת Access כללי או כמנהל מערכת כללי.<BR/>
+    ב. עבור אל Azure Active Directory > **מאפיינים.**<BR/>
+    c. בחר **ניהול ברירות מחדל של אבטחה**.<BR/>
+    d. הגדר **את האפשרות הפוך ברירות מחדל של אבטחה לזמינות** **ללא**.<BR/>
+    e. לחץ **שמור**.
+
+2. [הפוך הגשת SMTP של לקוח](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) לזמינה בתיבת הדואר המרשית.
+
+    a. מתוך מרכז הניהול של Microsoft 365, עבור אל **משתמשים פעילים** ובחר את המשתמש.<BR/>
+    ב. עבור אל הכרטיסיה דואר ותחת יישומי **דואר אלקטרוני**, בחר ניהול יישומי **דואר אלקטרוני**.<BR/>
+    d. ודא **שה- SMTP מאומת** נבחר (זמין).<BR/>
+    e. בחר **שמור שינויים**.<BR/>
+
+3. [הפוך אימות רב-גורמי (MFA) ללא זמין](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) בתיבת הדואר המרשית.
+
+    a. עבור אל מרכז הניהול של Microsoft 365, ובתפריט הניווט הימני, בחר משתמשים   >  **פעילים משתמשים**.<BR/>
+    ב. בחר **אימות רב-גורמי**.<BR/>
+    c. בחר את המשתמש והפוך את **אימות Multi-Factor ללא זמין.**<BR/>

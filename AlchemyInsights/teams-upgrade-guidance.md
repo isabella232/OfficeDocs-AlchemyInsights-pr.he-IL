@@ -1,5 +1,5 @@
 ---
-title: הדרכה לשדרוג של teams
+title: Teams לשדרוג
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333929"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095401"
 ---
-# <a name="microsoft-teams-upgrade"></a>שדרוג Microsoft Teams
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams שדרוג
 
-**חשוב**: אם שדרגת מ-Skype For Business Online ל-Microsoft teams במצב teams בלבד, אך מגלה שאינך מוכן עדיין, אנו יכולים לעזור לך לתקן זאת עבורך באמצעות אבחון תמיכה. ודא שאתה משתמש במרכז הניהול החדש על-ידי הזזת הלחצן הדו-מצבי בחלק השמאלי העליון המציין **שמרכז הניהול החדש**משמאל. באמצעות מרכז הניהול החדש, לחץ על הרכיב **הזקוק לעזרה?** רכיב widget, הקלד "**team Upgrade**" ולאחר מכן פעל לפי ההנחיות כדי להפעיל את האבחון.
+בין אם אתה רק מתחיל בעבודה עם Teams, כבר משתמש ב- Teams לצד Skype for Business, או מוכן לשדרוג, אנו רוצים לוודא שיש לך את כל הדרוש כדי לנווט במסע מוצלח אל Teams. לקבלת מידע נוסף, בקר בקישורים שלהלן.
 
-בין אם אתה רק מתחיל בעבודה עם Teams, כבר משתמש ב-Teams לצד Skype for Business, או מוכן לשדרוג, אנחנו רוצים להבטיח שיש לך כל מה שאתה צריך כדי לנווט במסע מוצלח אל Teams. לקבלת מידע נוסף, עיין בקישורים הבאים.
+[תחילת העבודה עם השדרוג Microsoft Teams שלך](/MicrosoftTeams/upgrade-start-here)
 
-[תחילת העבודה עם שדרוג Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[תכנון השדרוג שלך](/MicrosoftTeams/upgrade-plan-journey)
 
-[תכנון השדרוג](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[הבנת Microsoft Teams דו Skype for Business דו-קיום](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[הכרת הדו של Microsoft Teams ו-Skype for Business](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[ביצוע השדרוג מ- Skype for Business Online Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[ביצוע השדרוג מ-Skype for Business Online ל-Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[ביצוע השדרוג מ-Skype for Business באופן מקומי ל-Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[ביצוע השדרוג Skype for Business מקומי ל- Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[בדיקת המצב של Skype for Business Online לשדרוג Teams עם PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[בדוק את המצב של Skype for Business Online כדי Teams באמצעות PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
