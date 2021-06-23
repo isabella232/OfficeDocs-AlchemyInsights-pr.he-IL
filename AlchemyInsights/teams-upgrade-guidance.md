@@ -1,5 +1,5 @@
 ---
-title: הדרכה לשדרוג של teams
+title: Teams לשדרוג
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333929"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095401"
 ---
-# <a name="microsoft-teams-upgrade"></a><span data-ttu-id="9cdc1-102">שדרוג Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="9cdc1-102">Microsoft Teams upgrade</span></span>
+# <a name="microsoft-teams-upgrade"></a><span data-ttu-id="93ae8-102">Microsoft Teams שדרוג</span><span class="sxs-lookup"><span data-stu-id="93ae8-102">Microsoft Teams upgrade</span></span>
 
-<span data-ttu-id="9cdc1-103">**חשוב**: אם שדרגת מ-Skype For Business Online ל-Microsoft teams במצב teams בלבד, אך מגלה שאינך מוכן עדיין, אנו יכולים לעזור לך לתקן זאת עבורך באמצעות אבחון תמיכה.</span><span class="sxs-lookup"><span data-stu-id="9cdc1-103">**Important**: If you have been upgraded from Skype for Business Online to Microsoft Teams in Teams Only mode, but find you aren’t ready yet, we can help fix this for you using a support diagnostic.</span></span> <span data-ttu-id="9cdc1-104">ודא שאתה משתמש במרכז הניהול החדש על-ידי הזזת הלחצן הדו-מצבי בחלק השמאלי העליון המציין **שמרכז הניהול החדש**משמאל.</span><span class="sxs-lookup"><span data-stu-id="9cdc1-104">Make sure you are using the new Admin Center by sliding the toggle in the top right that says **new Admin Center**to the right.</span></span> <span data-ttu-id="9cdc1-105">באמצעות מרכז הניהול החדש, לחץ על הרכיב **הזקוק לעזרה?** רכיב widget, הקלד "**team Upgrade**" ולאחר מכן פעל לפי ההנחיות כדי להפעיל את האבחון.</span><span class="sxs-lookup"><span data-stu-id="9cdc1-105">Using the new Admin Center, click the **Need Help?** widget, type "**Teams Upgrade**", then follow the prompts to run the diagnostic.</span></span>
+<span data-ttu-id="93ae8-103">בין אם אתה רק מתחיל בעבודה עם Teams, כבר משתמש ב- Teams לצד Skype for Business, או מוכן לשדרוג, אנו רוצים לוודא שיש לך את כל הדרוש כדי לנווט במסע מוצלח אל Teams.</span><span class="sxs-lookup"><span data-stu-id="93ae8-103">Whether you’re just getting started with Teams, already using Teams alongside Skype for Business, or ready to upgrade, we want to ensure you have everything you need to navigate a successful journey to Teams.</span></span> <span data-ttu-id="93ae8-104">לקבלת מידע נוסף, בקר בקישורים שלהלן.</span><span class="sxs-lookup"><span data-stu-id="93ae8-104">For more information please visit the links below.</span></span>
 
-<span data-ttu-id="9cdc1-106">בין אם אתה רק מתחיל בעבודה עם Teams, כבר משתמש ב-Teams לצד Skype for Business, או מוכן לשדרוג, אנחנו רוצים להבטיח שיש לך כל מה שאתה צריך כדי לנווט במסע מוצלח אל Teams.</span><span class="sxs-lookup"><span data-stu-id="9cdc1-106">Whether you’re just getting started with Teams, already using Teams alongside Skype for Business, or ready to upgrade, we want to ensure you have everything you need to navigate a successful journey to Teams.</span></span> <span data-ttu-id="9cdc1-107">לקבלת מידע נוסף, עיין בקישורים הבאים.</span><span class="sxs-lookup"><span data-stu-id="9cdc1-107">For more information please visit the links below.</span></span>
+[<span data-ttu-id="93ae8-105">תחילת העבודה עם השדרוג Microsoft Teams שלך</span><span class="sxs-lookup"><span data-stu-id="93ae8-105">Getting started with your Microsoft Teams upgrade</span></span>](/MicrosoftTeams/upgrade-start-here)
 
-[<span data-ttu-id="9cdc1-108">תחילת העבודה עם שדרוג Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="9cdc1-108">Getting started with your Microsoft Teams upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[<span data-ttu-id="93ae8-106">תכנון השדרוג שלך</span><span class="sxs-lookup"><span data-stu-id="93ae8-106">Plan for your upgrade</span></span>](/MicrosoftTeams/upgrade-plan-journey)
 
-[<span data-ttu-id="9cdc1-109">תכנון השדרוג</span><span class="sxs-lookup"><span data-stu-id="9cdc1-109">Plan for your upgrade</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[<span data-ttu-id="93ae8-107">הבנת Microsoft Teams דו Skype for Business דו-קיום</span><span class="sxs-lookup"><span data-stu-id="93ae8-107">Understand Microsoft Teams and Skype for Business coexistence</span></span>](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[<span data-ttu-id="9cdc1-110">הכרת הדו של Microsoft Teams ו-Skype for Business</span><span class="sxs-lookup"><span data-stu-id="9cdc1-110">Understand Microsoft Teams and Skype for Business coexistence</span></span>](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[<span data-ttu-id="93ae8-108">ביצוע השדרוג מ- Skype for Business Online Teams</span><span class="sxs-lookup"><span data-stu-id="93ae8-108">Performing the upgrade from Skype for Business Online to Teams</span></span>](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[<span data-ttu-id="9cdc1-111">ביצוע השדרוג מ-Skype for Business Online ל-Teams</span><span class="sxs-lookup"><span data-stu-id="9cdc1-111">Performing the upgrade from Skype for Business Online to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[<span data-ttu-id="9cdc1-112">ביצוע השדרוג מ-Skype for Business באופן מקומי ל-Teams</span><span class="sxs-lookup"><span data-stu-id="9cdc1-112">Performing the upgrade from Skype for Business on-premises to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[<span data-ttu-id="93ae8-109">ביצוע השדרוג Skype for Business מקומי ל- Teams</span><span class="sxs-lookup"><span data-stu-id="93ae8-109">Performing the upgrade from Skype for Business on-premises to Teams</span></span>](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[<span data-ttu-id="9cdc1-113">בדיקת המצב של Skype for Business Online לשדרוג Teams עם PowerShell</span><span class="sxs-lookup"><span data-stu-id="9cdc1-113">Check the status of Skype for Business Online to Teams upgrade with PowerShell</span></span>](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[<span data-ttu-id="93ae8-110">בדוק את המצב של Skype for Business Online כדי Teams באמצעות PowerShell</span><span class="sxs-lookup"><span data-stu-id="93ae8-110">Check the status of Skype for Business Online to Teams upgrade with PowerShell</span></span>](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
