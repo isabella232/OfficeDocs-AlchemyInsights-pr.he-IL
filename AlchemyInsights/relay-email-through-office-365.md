@@ -13,18 +13,24 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 3b07dd4ccc8570e77a9ce30df48f9ac987a1db71
+ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809656"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53117984"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>הגדרת התקן רב-תכליתי או יישום לשליחת דואר אלקטרוני
 
-לקבלת מידע על האפשרויות העומדות בפניך והשלבים הדרושים, ראה [כיצד להגדיר התקן רב-תכליתי או יישום לשליחת דואר אלקטרוני באמצעות Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
+לקבלת מידע על האפשרויות העומדות בפניך והשלבים הדרושים, ראה [כיצד להגדיר התקן רב-תכליתי או יישום לשליחת דואר אלקטרוני באמצעות Microsoft 365](/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
   
-**הערה:** אם יש לך התקן או יישום שהפסיק לפעול לאחרונה, שים לב שהתחלנו לאחרונה [להפוך את הצופן של 3DES ללא זמין](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption) בהתאם לתוכנית. כדי לראות את המכשירים המושפעים, עבור אל [דוח לקוחות אימות SMTP](https://protection.office.com/mailflow/dashboard). בין השגיאות הנפוצות: "כשל/שגיאה באימות", "כשל/שגיאה ב- TLS", "שגיאת אלגוריתם צופן", "חוסר התאמה באלגוריתם" או "החיבור התנתק". כדי לפתור את הבעיה:
+אם יש לך מכשיר או יישום שהפסקת לפעול לאחרונה, הבעיות הנפוצות ביותר הן:
 
- - **Windows Server 2003 עם IIS SMTP לא יפעל עוד – יש צורך בגירסה חדשה יותר של Windows.**  
- - פנה לספק של היישום או ההתקן כדי לבדוק אם יש תמיכה בצופן מודרני או אם קיים עדכון.
+- **אימות שגיאות קשורות בעת שימוש בהגשת לקוח SMTP Auth** לאחרונה ביצענו כמה שינויים הקשורים לאימות SMTP. לקבלת מידע נוסף אודות פתרון בעיות, עיין בסעיף האימות שלא נכשל בפתרון בעיות במדפסות, סורקים [ויישומים של LOB](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful)ששולחים דואר אלקטרוני באמצעות Microsoft 365 או Office 365.
+- **אנו מקבלים רק את גירסת TLS 1.2 בעת יצירת חיבור מאובטח Office 365** אם אתה משתמש בחיבור מאובטח (TLS), ודא שהתקן היישום שלך תומך ב- TLS 1.2. לקבלת מידע נוסף, ראה [הכנת TLS 1.2 ב- Office 365 ו- Office 365 GCC](/microsoft-365/compliance/prepare-tls-1.2-in-office-365).
+ 
+לקבלת בעיות ופתרונות אחרים, ראה [פתרון בעיות במדפסות, סורקים](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off)ויישומים של LOB ששולחים דואר אלקטרוני באמצעות Microsoft 365 או Office 365 .
+
+כדי לראות את המכשירים המושפעים, עבור אל [דוח לקוחות אימות SMTP](https://protection.office.com/mailflow/dashboard).
+
+**הערה:** Exchange Online אינו מתאים לתרחישי דיוור בצובר. כדי לשלוח דואר אלקטרוני מסחרי בצובר (לדוגמה, ידיעונים של לקוחות), עליך להשתמש בספקים של ספקים חיצוני המתמחים בשירותים אלה.
