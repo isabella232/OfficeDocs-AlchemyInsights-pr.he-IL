@@ -1,5 +1,5 @@
 ---
-title: התמיכה של microsoft Edge עבור המשמר היישומים של microsoft Defender
+title: Microsoft Edge התמיכה של Microsoft Defender Application Guard
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583583"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346063"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>התמיכה של microsoft Edge עבור המשמר היישומים של microsoft Defender
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge התמיכה של Microsoft Defender Application Guard
 
-מיועד ל-Windows 10 ו-Microsoft Edge, מאבטח היישומים משתמש בגישה בידוד חומרה המאפשרת למשתמש לנווט באתר לא מהימן מתוך גורם מכיל מבודד, Hyper-V-זמין, כשהוא מופרד ממערכת ההפעלה המארחת.
+Microsoft Defender for Identity מספק מיקום מרכזי שבו מנהלי מערכת יכולים לזהות, לזהות ולחקור איומי זהות מקומיים. 
 
-מנהל ארגוני מגדיר רשימה של אתרי אינטרנט מהימנים, משאבי ענן ורשתות פנימיות. כאשר משתמש מבקר באתר שאינו מכיל את הרשימה, Microsoft Edge יפתח את האתר בגורם המכיל. משמעות הדבר היא שאם האתר יהפוך למזיק, המחשב המארח יישאר מוגן והתוקף לא יגיע לנתונים הארגוניים.
+השתמש [במדריך להגדרת זהות של Microsoft Defender](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) כדי לוודא שאתה מרוצה מכל התנאים המוקדמים לסביבה; צור מופע, התחבר ל- Active Directory והתקן את החיישן שלך. 
 
-התקנת הרחבות בגורם המכיל נתמכת מכיוון Microsoft Edge גירסה 81, וניתן לשלוט בה באמצעות מדיניות. יש להוסיף את כתובת updateURL הנמצאת בשימוש במדיניות ExtensionInstallForcelist כמשאב נייטרלי במדיניות בידוד הרשת המשמשת את משמר היישומים.
-
-לקבלת מידע נוסף, ראה [תמיכה ב-Microsoft Edge עבור משמר היישומים של Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2134229).
+בסיום, זהויות המשתמשים מנוטרות, ופעולה מיידית יכולה להינקט כנגד כל פעילות זדונית שנוהגים בארגון שלך.
