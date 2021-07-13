@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52125198"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389182"
 ---
 # <a name="domain-status---no-services-selected"></a>מצב תחום - לא נבחרו שירותים
 
-מצב תקינות תחום זמין לאחר חיבור התחום ישירות לשירותים Microsoft 365 כגון Exchange. לשם כך, עבור אל מרכז הניהול Microsoft 365, ובחר רשומות **DNS ניהול**  >  **DNS**.
+**אין שירותים שנבחרו** פירושם שלא בחרת שירותי Microsoft 365 כגון Exchange Online, Skype for Business או Intune וניהול מכשירים ניידים כדי Microsoft 365 עם התחום המותאם אישית שלך. אם אתה משתמש ב- Exchange היברידי (Exchange מקומי עם Exchange Online) או בסינון דואר זבל חיצוני עם Exchange והודעות שירותי Microsoft אחרות, באפשרותך להתעלם מהודעה זו. מצב תקינות התחום זמין רק עבור תחומים המחוברים ישירות לשירות.
 
-אם אינך יכול לחבר את התחום ישירות לשירותים Microsoft 365, מצב תקינות התחום אינו זמין. לדוגמה, בעת שימוש בניתוב DNS מותאם אישית עבור דואר אלקטרוני, שירותי סינון דואר זבל חיצוניים, או שאתה משתמש הן ב- Exchange מקומי וב- Exchange Online (הנקראים גם פריסה היברידית).
+כדי לבחור שירותים עבור התחום שלך:
+
+1. מתוך **הגדרות**  >  [**תחומים**](https://admin.microsoft.com/Adminportal/Home), סמן את התיבה לצד התחום כאשר הודעת המצב **לא נבחרו שירותים.**
+1. בחר **ניהול DNS** כדי להפעיל את אשף הגדרת התחום.
+    - אם תבחר **באפשרות הוסף רשומות DNS משלך**, הקפד לבחור שירות כאשר תתבקש לעשות זאת. ייתכן שהשירותים נוספים יהיו זמינים תחת **אפשרויות מתקדמות.**
+    - אם תבחר באפשרות **תן ל- Microsoft להוסיף** את רשומות ה- DNS שלך או אפשרויות נוספות הגדר את השירותים המקוונים שלי עבורי, כל השירותים הזמינים   >   מוצעים ונבחרים באופן אוטומטי.
+1. המשך לאורך האשף כדי להשלים את הגדרת ה- DNS ואת אפשרויות השירות שלך.
+ 
+לקבלת עזרה נוספת בהגדרת התחום שלך, ראה [הוספת רשומות DNS כדי לחבר את התחום שלך.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
