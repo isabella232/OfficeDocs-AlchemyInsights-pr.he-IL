@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות בזרימות עבודה ב-SharePoint
+title: פתרון בעיות בזרימות עבודה SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800249"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586935"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>פתרון בעיות בזרימות עבודה ב-SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>פתרון בעיות בזרימות עבודה SharePoint
 
-**פתרון בעיות בזרימות עבודה ואיתור באגים ב-SharePoint**
+**פתרון בעיות ופתרון באגים בזרימות עבודה SharePoint**
 
-ראה [פתרון בעיות בשגיאות אימות של זרימת עבודה של sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) [ואיתור באגים בזרימות עבודה של sharepoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+לקבלת מידע נוסף, ראה:
 
-**Power אוטומציה**
+- [פתרון SharePoint שגיאות אימות זרימת עבודה](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [איתור באגים SharePoint זרימות עבודה](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- [איסוף SharePoint זרימת עבודה 2013 לפתרון בעיות בנתונים באמצעות ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
-אם אתה רק מתחיל בעבודה עם זרימות עבודה, שקול להשתמש ב- [Power אוטומטיות](https://docs.microsoft.com/power-automate/modern-approvals) במקום בפתרונות הקלאסיים של זרימת העבודה של SharePoint.
+**Power Automate**
 
-לקבלת מידע נוסף, ראה [זרימות עבודה של SharePoint שפורשות](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
+אם אתה רק מתחיל לעבוד עם זרימות עבודה, [שקול להשתמש ב- Power Automate במקום](/power-automate/modern-approvals) בפתרונות זרימת העבודה SharePoint קלאסיים.
+
+לקבלת מידע נוסף, ראה [SharePoint זרימות עבודה.](/alchemyinsights/sharepoint-workflows-retiring)

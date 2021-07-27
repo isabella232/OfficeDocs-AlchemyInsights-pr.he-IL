@@ -2,41 +2,40 @@
 title: סינכרון תמונת פרופיל של משתמש
 ms.author: pebaum
 author: pebaum
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 2bda15b7ebe4f3b71669b961a6e5bf36fd6260a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5b55402dc3c6eb4826451ee2b4076db26773318
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673787"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532148"
 ---
 # <a name="sync-a-users-profile-picture"></a>סינכרון תמונת פרופיל של משתמש
 
-באפשרותך להוסיף או לשנות את תמונת הפרופיל שלך ב-Microsoft 365 מ-Office.com, או בעת שימוש ביישומי Microsoft במחשב שלך או בדפדפן בטלפון שלך. התמונה שלך מופיעה בכל מקום שבו יש מעגל תמונות של פרופיל ב-Microsoft 365.
+באפשרותך להוסיף או לשנות את תמונת הפרופיל שלך ב- Microsoft 365 מ- Office.com, או בעת שימוש ביישום Microsoft במחשב או בדפדפן בטלפון שלך. התמונה שלך מופיעה בכל מקום שבו מופיע מעגל תמונות של פרופיל Microsoft 365.
 
-כדי להוסיף את תמונת הפרופיל שלך ל-Microsoft 365 for business:
+כדי להוסיף את תמונת הפרופיל שלך Microsoft 365 לעסקים:
 
-1. חפש תמונה שבה ברצונך להשתמש ואחסן אותה במחשב, ב-OneDrive או במיקום אחר שאליו באפשרותך להגיע.
+1. מצא תמונה שברצונך להשתמש בה ולאחסן אותה במחשב, OneDrive או במיקום אחר שברצונך להגיע אל.
 
-2. היכנס ל-Microsoft 365 באמצעות החשבון שלך בעבודה או בבית ספר ב- [office.com](https://www.office.com).
+2. היכנס Microsoft 365 באמצעות החשבון שלך בעבודה או בבית הספר [office.com](https://www.office.com).
 
-3. בחר את העיגול בפינה השמאלית העליונה של העמוד המציג את ראשי התיבות שלך או סמל של אדם.
+3. בחר את המעגל בפינה השמאלית העליונה של העמוד המציג את ראשי התיבות או סמל של אדם.
 
-4. בחלונית ' החשבונות שלי ', בחר את העיגול המציג את ראשי התיבות שלך או סמל של אדם. שנה את התמונה שלך במוקפץ שמופיעה.
+4. בחלונית החשבונות שלי, בחר את המעגל המציג את ראשי התיבות שלך או סמל של אדם. שנה את התמונה שלך בתיבת הדו-שיח המוקפץ שמופיעה.
 
-**הערה** אם כבר העלית תמונה, ייתכן שתרצה לנסות לבחור את האריח של SharePoint או OneDrive כדי לסנכרן מחדש את התמונה.
+**הערה:** אם תמונת פרופיל של משתמשים מופיעה שונה ב- SharePoint ליישומים אחרים של Microsoft, יש למשתמש לבצע שלבים אלה:
 
-אם מופיעה תמונה של פרופיל משתמשים שונה ב-SharePoint בהשוואה ליישומי Microsoft אחרים, השתמש בשלבים אלה לביצוע הפעולות הבאות:
+1. פתח הפעלת דפדפן פרטית (InPrivate/incognito).
+1. עבור אל [Microsoft Office 365](https://www.office.com).
+1. בחר את SharePoint שלך.
+1. אתר או דף שבו התמונה אינה מתעדכנת או דף שבו המשתמש כלול ב- Web Part של אנשים.
 
-1. פתח הפעלת דפדפן פרטית (Inprivate/בעילום שם).
-2. עבור אל [https://www.office.com](https://www.office.com/).
-3. בחר את סמל SharePoint.
-4. אתר אתר או עמוד שבו התמונה אינה מתעדכנת או עמוד שבו המשתמש כלול ב-Web Part של אנשים.
-
-לקבלת מידע נוסף, ראה [מידע אודות סינכרון תמונות פרופיל ב-Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+לקבלת מידע נוסף, ראה [מידע אודות סינכרון תמונות פרופיל ב- Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
 
