@@ -1,5 +1,5 @@
 ---
-title: זיהוי פעילות כלל של תיבת דואר נכנס ביומני ביקורת
+title: זיהוי פעילות כלל תיבת דואר נכנס ביומני ביקורת
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779052"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630178"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>זיהוי פעילות כלל של תיבת דואר נכנס ביומני ביקורת
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>זיהוי פעילות כלל תיבת דואר נכנס ביומני ביקורת
 
-באפשרותך להשתמש בחיפוש ביומן הביקורת במרכז התאימות של Microsoft 365 Security & כדי להציג אירועים של כללי תיבת דואר נכנס (יצירה, שינוי ומחיקה של כללי תיבת דואר נכנס).
+באפשרותך להשתמש בחיפוש יומן ביקורת במרכז Microsoft 365 אבטחה & תאימות כדי להציג אירועי כלל תיבת דואר נכנס (יצירה, שינוי ומחיקה של כללי תיבת דואר נכנס).
 
-1. היכנס [למרכז התאימות של Microsoft 365 Security &](https://protection.office.com/).
+1. היכנס למרכז [Microsoft 365 התאימות.](https://protection.office.com/)
 
-2. עבור אל דף **Search**  >  **החיפוש ביומן ביקורת** חיפוש.
+2. עבור אל דף **החיפוש של**  >  **יומן ביקורת** החיפוש.
 
-3. בחר את טווח התאריכים בשדות **תאריך התחלה** **ותאריך סיום** .
+3. בחר את טווח התאריכים בשדות **תאריך התחלה** **ותאריך** סיום.
 
-4. תחת **פעילויות של תיבת דואר של Exchange**, ודא שהשדה ' **פעילויות** ' מוגדר ל **-New-InboxRule יצירה/שינוי/הפעלה/ביטול של כלל תיבת דואר נכנס**.
+4. תחת **Exchange תיבת** דואר, ודא שהשדות **פעילויות** מוגדרים לכלל חדש-תיבת דואר נכנס **יצירה/שינוי/הפעלה/ביטול** של תיבת דואר נכנס .
 
-5. לחץ על **חיפוש**.
+5. לחץ **על חיפוש**.
 
-בתוצאות, בחר רשומת ביקורת. בנשלף של הפרטים, לחץ על **מידע נוסף**. מידע אודות הגדרות הכלל של תיבת הדואר הנכנס מוצג בשדה **פרמטרים** .
+בתוצאות, בחר רשומת ביקורת. בפרטים נשלף, לחץ **על מידע נוסף**. מידע אודות הגדרות הכלל של תיבת הדואר הנכנס מוצג בשדה **פרמטרים.**
 
-לקבלת מידע נוסף, ראה [קביעה אם משתמש יצר כלל תיבת דואר נכנס](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+לקבלת מידע נוסף, [ראה קביעה אם משתמש יצר כלל תיבת דואר נכנס](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
