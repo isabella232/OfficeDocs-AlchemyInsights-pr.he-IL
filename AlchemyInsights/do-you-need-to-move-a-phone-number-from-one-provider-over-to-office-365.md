@@ -1,5 +1,5 @@
 ---
-title: האם עליך להעביר מספר טלפון מספק אחד ל-Microsoft?
+title: האם עליך להעביר מספר טלפון מספק אחד אל Microsoft?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712149"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689407"
 ---
 # <a name="port-existing-numbers-to-teams"></a>מספרי יציאה קיימים אל Teams
 
-אם כרגע יש לך ספק שירות טלפון וכבר יש לך מספרי טלפון עבור משתמשים או שירותים, עליך ליצור “הזמנת יציאה“ כדי להעביר את אותם מספרי טלפון אל Microsoft Teams.
+אם כרגע יש לך ספק שירות טלפון וכבר יש לך מספרי טלפון עבור משתמשים או שירותים, עליך ליצור “הזמנת יציאה“ כדי להעביר את אותם מספרי טלפון אל Microsoft Teams.  
 
-- ראה [העברת מספרי טלפון אל Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) כדי ללמוד כיצד להשלים את היציאה. 
+כדי ליצור הזמנת יציאה חדשה או כדי לבדוק סדר קיים, בצע את הפעולות הבאות: 
 
-- ראה [ניהול מספרי אלפון עבור הארגון שלך](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) לקבלת הדרכה בנושא ניהול מספרי טלפון. 
+1. עבור אל [מרכז Teams כדי לפתוח](https://admin.teams.microsoft.com/phone-numbers) את דף טלפון המספרים. 
 
-לבל מידע נוסף, ראה [מבט כולל כל הזמנת יציאה](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
+1. בחר **קבל קישור תמיכה למספרי טלפון**. 
+
+כדי לעבור ישירות לתמיכה במספרי טלפון, [ראה טלפון מספר מרכז](https://pstnsd.powerappsportals.com/).  

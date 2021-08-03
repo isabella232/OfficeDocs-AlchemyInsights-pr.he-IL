@@ -1,8 +1,10 @@
 ---
-title: כיצד ליצור רכישה של Microsoft 365
+title: כיצד לבצע רכישה Microsoft 365 רכישה
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232368"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689083"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>כיצד ליצור רכישה של Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>כיצד לבצע רכישה Microsoft 365 רכישה
 
-באפשרותך לקנות מנוי של Microsoft 365 במרכז הניהול.
+באפשרותך לקנות מנוי Microsoft 365 במרכז הניהול.
   
-- כדי לרכוש תוכנית, עבור אל הדף  ' \> **[שירותי רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433)** בנושא חיובים '.
-- כדי לרכוש רשיונות נוספים, עבור לדף ' **חיוב** \> **[את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)** '. בחר את המנוי שברצונך לשנות ולאחר מכן בחר **קנה רשיונות**. \
+- כדי לרכוש תוכנית, עבור אל הדף **שירותי** \> **[רכישה לחיוב.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+- כדי לרכוש רשיונות נוספים,  עבור אל הדף \> **[חיוב המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054)** שלך. בחר את המנוי שברצונך לשנות ולאחר מכן בחר **קנה רשיונות**.\
 **צפה בסרטון וידאו** שמראה כיצד לעשות זאת: [קניית רשיונות חדשים](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-לקבלת מידע נוסף, ראה [רכישה או הסרה של רשיונות](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+כדי ללמוד עוד, ראה [קנייה או הסרה של רשיונות](/microsoft-365/commerce/licenses/buy-licenses).
 
 **פתרון בעיות**
 
@@ -35,5 +38,5 @@ ms.locfileid: "50232368"
 
 **משאבים נוספים**
   
-- [הקצאת רשיונות למשתמשים ב-Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [ביטול Microsoft 365 for Business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [הקצאת רשיונות למשתמשים Microsoft 365 לעסקים](/microsoft-365/admin/add-users/add-users)
+- [ביטול Microsoft 365 for Business](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

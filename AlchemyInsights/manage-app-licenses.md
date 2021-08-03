@@ -3,6 +3,8 @@ title: ניהול רשיונות אפליקציה
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, micurn
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: 8414b288dca9edae321fa0f6f7fcc5b5a394f8bb
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: cfed9a827219a20c6ff204134eb2b5a05a707ba7
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545648"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689371"
 ---
 # <a name="manage-app-licenses"></a>ניהול רשיונות אפליקציה
 
@@ -29,7 +31,7 @@ ms.locfileid: "52545648"
 2. בכרטיסיה **מוצרים,** במקטע **יישומים,** אתר את היישום שברצונך לנהל. בחר את שלוש הנקודות (פעולות נוספות) ולאחר מכן בחר **קנה רשיונות**.
 3. אם ברצונך להקטין את מספר הרשיונות, בחלק העליון של החלונית **קנה רשיונות,** בחר **הסר רשיונות**.
 4. כדי לקנות או להסיר רשיונות, תחת  כמות **חדשה** בתיבה סה"כ רשיונות, הזן את המספר הכולל של הרשיונות הרצוי עבור מנוי זה. לדוגמה, אם יש לך 100 רשיונות וברצונך להוסיף חמישה רשיונות נוספים, הזן 105. אם ברצונך להסיר חמישה מהם, הזן 95.
-5. בחר **שמור**.
+5. לחץ **שמור**.
 
 ## <a name="to-assign-app-licenses"></a>כדי להקצות רשיונות אפליקציה
 

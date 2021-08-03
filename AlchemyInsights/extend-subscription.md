@@ -3,20 +3,23 @@ title: מהן האפשרויות שלי להארכה
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "1400006"
 - "5832"
-ms.openlocfilehash: 20626d3759cddfbc818da687ce4eafe0c41c843f
-ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.openlocfilehash: 5a509837a48de8cce20da08722f24202be6f703d
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364732"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689443"
 ---
 # <a name="what-are-my-options-to-extend"></a>מהן האפשרויות שלי להארכה?
 

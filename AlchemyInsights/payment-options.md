@@ -3,20 +3,23 @@ title: אפשרויות תשלום
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: 7384200b7dadfb85e851f316b695ed65f242be59
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: ee2de4b53729bb4dccc16352f612f15ecba5aa2b
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601419"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687931"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>אפשרויות תשלום עבור מנויי Microsoft 365 לעסקים
   
@@ -24,16 +27,16 @@ ms.locfileid: "50601419"
   
 **שלם באמצעות כרטיס אשראי חיוב או חשבון בנק**
   
-באפשרותך לשלם עבור המנוי שלך באמצעות כרטיס אשראי או חיוב או חשבון בנק. כאשר אתה משלם באמצעות אחת משיטות תשלום אלה, אנחנו ממשיכים לחייב שיטת תשלום זו עד שהחשבון פג תוקף או מבוטל. תוכל [לנהל שיטות תשלום](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) מתי שיהיה לך צורך. ניתן גם לבחור [לקבל עותק של פירוט החיובים בהודעת דואר אלקטרוני](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
+באפשרותך לשלם עבור המנוי שלך באמצעות כרטיס אשראי או חיוב או חשבון בנק. כאשר אתה משלם באמצעות אחת משיטות תשלום אלה, אנחנו ממשיכים לחייב שיטת תשלום זו עד שהחשבון פג תוקף או מבוטל. תוכל [לנהל שיטות תשלום](/microsoft-365/commerce/billing-and-payments/manage-payment-methods) מתי שיהיה לך צורך. ניתן גם לבחור [לקבל עותק של פירוט החיובים בהודעת דואר אלקטרוני](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email).
 
-אם כרטיס האשראי שלך סורב או שיש בו יתרת חוב שתאריך היעד שלה חלף, והוספת באופן אישי את שיטת התשלום שכוללת סכום שתאריך היעד שלו חלף, באפשרותך להשתמש ב **הסדר יתרת חוב** כדי לבצע את התשלום. שיטת התשלום שבה תשתמש כדי לשלם את הסכום שפירעונו חלף, הופכת לשיטת התשלום החדשה עבור כל המנויים שהשתמשו בשיטת התשלום שסורבה. לקבלת מידע נוסף, ראה [מה עליי לעשות אם יש לי יתרה שלא שולמה?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+אם כרטיס האשראי שלך סורב או שיש בו יתרת חוב שתאריך היעד שלה חלף, והוספת באופן אישי את שיטת התשלום שכוללת סכום שתאריך היעד שלו חלף, באפשרותך להשתמש ב **הסדר יתרת חוב** כדי לבצע את התשלום. שיטת התשלום שבה תשתמש כדי לשלם את הסכום שפירעונו חלף, הופכת לשיטת התשלום החדשה עבור כל המנויים שהשתמשו בשיטת התשלום שסורבה. לקבלת מידע נוסף, ראה [מה עליי לעשות אם יש לי יתרה שלא שולמה?](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
 **תשלום באמצעות חשבונית (שיק או העברת כספים אלקטרונית)**
   
 אם העלות של המנוי שלך גבוהה מסכום כסף מסוים (סכום זה משתנה בהתאם למיקום השירות), תהיה לך אפשרות לשלם באמצעות חשבונית דרך שיק או העברת כספים אלקטרונית (EFT). ייתכן שיהיה צורך בבדיקת אשראי עבור תשלומים גדולים יותר באמצעות חשבונית. אם נדרשת בדיקת אשראי, תקבל הודעה בעת קניית המנוי שלך. אם תסכים שניצור אתך קשר, תקבל הודעת דואר אלקטרוני שכוללת מידע נוסף אודות הבקשה לאישור אשראי. בדיקות אשראי מסתיימות בדרך כלל לאחר שני ימי עסקים.
 
-אם אתה משלם באמצעות חשבונית עבור המנוי שלך, תקבל הודעת דואר אלקטרוני כאשר פירוט החיוב שלך מוכן להצגה. דואר אלקטרוני זה אינו מכיל עותק של פירוט החיוב שלך. עם זאת, ניתן לבחור [לקבל עותק של פירוט החיוב בהודעת דואר אלקטרוני](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). פירוט החיוב שלך כולל פרטים אודות האפשרויות שלך לביצוע תשלום ולאן לשלוח אותו. אם אתה מזין מספר הזמנת רכש (PO) בעת קניית מנוי, המספר מופיע בפירוט החיוב שלך. לקבלת מידע אודות הגישה לפירוטי חיובים, ראה [הצגת החיוב או החשבונית שלך](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
+אם אתה משלם באמצעות חשבונית עבור המנוי שלך, תקבל הודעת דואר אלקטרוני כאשר פירוט החיוב שלך מוכן להצגה. דואר אלקטרוני זה אינו מכיל עותק של פירוט החיוב שלך. עם זאת, ניתן לבחור [לקבל עותק של פירוט החיוב בהודעת דואר אלקטרוני](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice#receive-a-copy-of-your-billing-statement-in-email). פירוט החיוב שלך כולל פרטים אודות האפשרויות שלך לביצוע תשלום ולאן לשלוח אותו. אם אתה מזין מספר הזמנת רכש (PO) בעת קניית מנוי, המספר מופיע בפירוט החיוב שלך. לקבלת מידע אודות הגישה לפירוטי חיובים, ראה [הצגת החיוב או החשבונית שלך](/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
   
 **מידע נוסף**
   
-[כיצד לשלם עבור המנוי שלך ל- Microsoft 365 לעסקים](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+[כיצד לשלם עבור המנוי שלך ל- Microsoft 365 לעסקים](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
