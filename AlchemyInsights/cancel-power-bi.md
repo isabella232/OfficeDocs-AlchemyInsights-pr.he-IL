@@ -3,6 +3,7 @@ title: ביטול Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,23 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
+- commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: 321ce2fa2d40aafc040a1b3232474b108d0501f4
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: dae240765f1a0c5b0fa6391464fbfe0721dd6a09
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543434"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687319"
 ---
 # <a name="cancel-power-bi"></a>ביטול Power BI
 
-ניתן לבטל את Power BI במרכז Microsoft 365 הניהול.
+ניתן לבטל את Power BI מרכז הניהול של Microsoft 365.
 
 1. במרכז הניהול, עבור אל הדף **חיוב > [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054)** שלך.
 2. בכרטיסיה **מוצרים,** אתר את המנוי שברצונך לבטל. בחר את שלוש הנקודות (פעולות נוספות), ולאחר מכן בחר **ביטול מנוי**.
 3. בחלונית **ביטול** מנוי, בחר סיבה לביטול. לחלופין, ספק משוב כלשהו.
-4. בחר **שמור**.
+4. לחץ **שמור**.
 
 **החזר: כל נקודות זכות מדורגות יוחזרו לך במחזור החיוב הבא.**
 

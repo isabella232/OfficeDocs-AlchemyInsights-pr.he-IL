@@ -4,32 +4,34 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
+ms.reviewer: jmueller, tugu
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_billing
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 7f31038370b09fef179ac7d42e28e9d57b57d24d
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489062"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686311"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>כיצד להוסיף או לערוך VatID
 
 > [!NOTE]
-> אם אתה נמצא במדינה המשתמשת במס מוסף מוסף (מע), כגון בריטניה, הפקת החשבונית של Microsoft מחשבת את המע מ עבורך ומחילה את הסכום על החשבוניות שלך. לקבלת מידע נוסף, ראה [כתב ויתור של VIES](https://go.microsoft.com/fwlink/p/?LinkID=841741) שפורסם על-ידי הנציבות האירופית.
+> אם אתה נמצא במדינה המשתמשת במס מוסף (מע"מ), כגון בריטניה, Microsoft Invoicing מחשב את המע"מ בשבילך, ומחיל את הסכום על החשבוניות שלך. לקבלת מידע נוסף, ראה [כתב ויתור של VIES שפורסם](https://go.microsoft.com/fwlink/p/?LinkID=841741) על-ידי הנציבות האירופית.
 
 **הוספה או עריכה של VatID**
 
-1. במרכז הניהול, עבור לדף ' **חיוב** \> [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
-2. בכרטיסיה **products** , בחר את המנוי שברצונך לעדכן.
-3. בדף פרטי מנוי, במקטע **כתובת השימוש בשירות** , בחר **ערוך את כתובת השימוש בשירות**.
-4. בחלונית **ערוך את כתובת השימוש בשירות** , הקלד את מזהה המע מ שלך בתיבה **מספר מע** ולאחר מכן בחר **שמור**. לאחר שתעשה זאת, מע לא יחויב בחשבון הבא.
+1. במרכז הניהול, עבור אל הדף **חיוב** \> [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
+2. בכרטיסיה **מוצרים,** בחר את המנוי שברצונך לעדכן.
+3. בדף פרטי המנוי, במקטע כתובת שימוש **בשירות,** בחר ערוך **את כתובת השימוש בשירות**.
+4. בחלונית **עריכת כתובת השימוש בשירות,** הקלד את מזהה המע"מ בתיבה מספר **מע"מ** ולאחר מכן בחר **שמור**. לאחר ביצוע פעולה זו, המע"מ לא יחויב בחשבון הבא שלך.
 
-לקבלת מידע נוסף, ראה [באיזה מס תקבל תשלום עבור Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+לקבלת מידע נוסף, [ראה איזה מס תחויב עבור Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

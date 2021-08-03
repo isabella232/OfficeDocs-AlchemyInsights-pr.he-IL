@@ -1,9 +1,10 @@
 ---
-title: כיצד לרכוש הצעה למגזר החינוך
+title: כיצד לרכוש הצעה לחינוך
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
+ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,25 +12,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: a4841ee6d0ae782b310c6a6ef9233675144ff6bd
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489278"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686743"
 ---
-# <a name="how-to-purchase-an-education-offer"></a>כיצד לרכוש הצעה למגזר החינוך
+# <a name="how-to-purchase-an-education-offer"></a>כיצד לרכוש הצעה לחינוך
 
 קיבלת אישור עבור Office 365 Education. כדי לרכוש:
   
-1. במרכז הניהול, עבור לדף ' **חיוב** \> [את המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054) '.
-2. בכרטיסיה **products** , בחר את גירסת הניסיון **לתלמידים או לסגל**.
-3. בדף פרטי מנוי, במקטע **רשיון** , בחר באפשרות **קנה מנוי בתשלום כעת**.
-4. בצע את השלבים הנותרים כדי להוציא.
+1. במרכז הניהול, עבור אל הדף **חיוב** \> [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
+2. בכרטיסיה **מוצרים,** בחר את גירסת הניסיון עבור **תלמידים או סגל**.
+3. בדף פרטי המנוי, במקטע רשיון, **בחר** קנה **מנוי בתשלום כעת**.
+4. בצע את השלבים הנותרים כדי לבצע את הפעולות הבאות.
 
-אם ברצונך לקנות מנוי אחר ממנוי הניסיון שלך, עבור אל **Billing** \> הדף ' [שירותי רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433) בנושא חיובים '. תחת **תוכניות חינוך**, בחר את התוכנית הרצויה.
+אם ברצונך לקנות מנוי שונה מזה של מנוי הניסיון שלך, עבור אל הדף **'שירותי** \> [רכישה לחיוב'.](https://go.microsoft.com/fwlink/p/?linkid=868433) תחת **תוכניות חינוך**, בחר את התוכנית הרצויה.
 
-לקבלת מידע נוסף, ראה [קניית מנוי מגירסת הניסיון ללא תשלום](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
+כדי ללמוד עוד, ראה [קניית מנוי מ- גירסת הניסיון ללא תשלום.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
