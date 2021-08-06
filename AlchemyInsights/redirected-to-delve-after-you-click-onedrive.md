@@ -1,5 +1,5 @@
 ---
-title: OneDrive for Business Web OneDrive מנותב מחדש אל Delve
+title: OneDrive for Business ניתובים OneDrive האינטרנט אל Delve
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 295dea987cd14ea848d2bf802f57429642d554b9661dc4dbfc805a447b7d0ede
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922988"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>מנותב מחדש ל- Delve לאחר לחיצה על OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>מנותב מחדש Delve לאחר לחיצה על OneDrive
 
 עיין במדריך מפורט [לפתרון בעיות](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-כדי לפתור בעיה זו, מנהל המערכת חייב להעניק למשתמשים את הזכות ליצור את האתר 'האתרים שלי' שלו. זאת משום שהדף OneDrive for Business נוצר באתרים שלי.
+כדי לפתור בעיה זו, מנהל המערכת חייב להעניק למשתמשים את הזכות ליצור את האתר 'האתרים שלי' שלו. זאת משום שהדף OneDrive for Business נוצר ב'האתרים שלי'.
 
 כדי להעניק זכות זו, בצע את הפעולות הבאות:
 
-1. במרכז הניהול של SharePoint, לחץ על **פרופילי משתמשים**.
+1. במרכז SharePoint, לחץ על **פרופילי משתמשים**.
 
 2. במקטע **אנשים,** לחץ על **ניהול הרשאות משתמש**.
 

@@ -1,5 +1,5 @@
 ---
-title: שימוש במסייע התמיכה והשחזור של Microsoft כדי להסיר את ההתקנה של Microsoft Office
+title: שימוש במסייע התמיכה ושחזור של Microsoft כדי להסיר את התקנת Microsoft Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,21 @@ ms.custom:
 - "9004433"
 - "7212"
 - "8228"
-ms.openlocfilehash: 550cac9feea8ffe37784f731833d7522aef8ed96
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: b602018f17696a376697f240cf982bdb57eb70f99100b75c6b15867ee135bb5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726564"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908423"
 ---
-# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>שימוש במסייע התמיכה והשחזור של Microsoft כדי להסיר את ההתקנה של Microsoft Office
+# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>שימוש במסייע התמיכה ושחזור של Microsoft כדי להסיר את התקנת Microsoft Office
 
 כך ניתן לעשות זאת:
 
-1. הורד את [מסייע התמיכה והשחזור של Microsoft](https://go.microsoft.com/fwlink/?linkid=2139122).
-1. בחלק התחתון של חלון הדפדפן, לחץ על **הפעל** כדי להפעיל את קובץ **הSetupProd_OffScrub.exe** .
+1. הורד את [מסייע התמיכה ושחזור של Microsoft](https://go.microsoft.com/fwlink/?linkid=2139122).
+1. בחלק התחתון של חלון הדפדפן, לחץ על **הפעל כדי** להפעיל את **SetupProd_OffScrub.exe** הקובץ.
 1. בחר את הגירסה שברצונך להסיר את התקנתה ולאחר מכן לחץ על **הבא**.
-1. בצע את השלבים. כאשר תתבקש, הפעל מחדש את המחשב.
-1. לאחר ההפעלה מחדש של המחשב, הכלי ייפתח מחדש באופן אוטומטי וידריך אותך במהלך השלבים הנותרים.
+1. בצע את השלבים. כאשר תתבקש לעשות זאת, הפעל מחדש את המחשב.
+1. לאחר ההפעלה מחדש של המחשב, הכלי ייפתח מחדש באופן אוטומטי ומדריך אותך לאורך השלבים הנותרים.
 
-אם עליך להתקין מחדש את Microsoft Office, בצע את ההליך הספציפי לגירסה הדרושה: M[icrosoft 365](https://go.microsoft.com/fwlink/?linkid=2138843), [office 2019](https://go.microsoft.com/fwlink/?linkid=2138843), [office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [office 2013](https://go.microsoft.com/fwlink/?linkid=2138919), [office 2010](https://go.microsoft.com/fwlink/?linkid=2139237)או [office 2007](https://go.microsoft.com/fwlink/?linkid=2138644).
+אם עליך להתקין מחדש את Microsoft Office, בצע את ההליך הספציפי לגירסה שאתה זקוק לה: M[icrosoft 365](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2019](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2013](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237)או [Office 2007.](https://go.microsoft.com/fwlink/?linkid=2138644)

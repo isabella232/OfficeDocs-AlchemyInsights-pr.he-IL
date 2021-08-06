@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 902
 ms.assetid: 9d9277a5-c825-4512-8d54-7138b2ee0c40
-ms.openlocfilehash: 75b684c5c6b4a594af069d8ed668df95726e1b31
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a047afd63484423520ed80fbf223f0e50f3e02624bd9859d4dcbbd94cf23143f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998795"
 ---
 # <a name="sync-errors-due-to-duplicate-objects"></a>שגיאות סינכרון עקב אובייקטים כפולים
 
-ייתכן שתקבל אחת מהודעות השגיאה הבאות כאשר סינכרון מדריכי כתובות מסתיים ב-Microsoft 365:
+ייתכן שתקבל אחת מהודעות השגיאה הבאות כאשר סינכרון מדריכי כתובות יסיים Microsoft 365:
 
-- לא ניתן לעדכן אובייקט זה ב-Microsoft Online Services מאחר שהתכונות הבאות המשויכות לאובייקט זה מכילים ערכים שכבר משויכים לאובייקט אחר במדריך הכתובות המקומי שלך.
+- אין אפשרות לעדכן אובייקט זה ב- Microsoft Online Services מאחר שהתכונות הבאות המשויכות לאובייקט זה כוללות ערכים שעשויים להיות משויכים כבר לאובייקט אחר במדריך הכתובות המקומי שלך.
 
-- אובייקט מסונכרן עם אותה כתובת proxy קיים כבר במדריך הכתובות של Microsoft Online Services.
+- אובייקט מסונכרן עם אותה כתובת Proxy כבר קיים במדריך הכתובות של Microsoft Online Services.
 
-- לא ניתן לעדכן אובייקט זה מאחר שהתכונות הבאות המשויכות לאובייקט זה מכילים ערכים שכבר משויכים לאובייקט אחר בשירותי מדריך הכתובות המקומי: UserPrincipalName.
+- אין אפשרות לעדכן אובייקט זה מאחר שהתכונות הבאות המשויכות לאובייקט זה כוללות ערכים שעשויים להיות משויכים כבר לאובייקט אחר בשירותים המקומיים שלך: UserPrincipalName.
 
-כדי לזהות ולפתור את הבעיה, הורד והפעיל את [כלי התיקון של שגיאות IdFix DirSync](https://github.com/Microsoft/idfix).
+כדי לזהות ולפתור את הבעיה, הורד ולהפעיל את כלי תיקון השגיאות [IdFix DirSync](https://github.com/Microsoft/idfix).
 
-לקבלת מידע נוסף, ראה [KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).
+לקבלת מידע נוסף, [ראה KB2647098](https://support.microsoft.com/help/2647098/duplicate-or-invalid-attributes-prevent-directory-synchronization-in-o).

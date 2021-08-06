@@ -1,5 +1,5 @@
 ---
-title: הגדרת שולחן העבודה של Windows Virtual
+title: הגדרת שולחן Windows וירטואלי
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678271"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036637"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>הגדרת שולחן העבודה של Windows Virtual
+# <a name="set-up-windows-virtual-desktop"></a>הגדרת שולחן Windows וירטואלי
 
-שולחן העבודה של Windows Virtual הוא שירות מקיף של שירותים בשולחן העבודה ווירטואליזציה שפועל בענן. זוהי תשתית שולחן העבודה הווירטואלית היחידה (VDI) המספקת ניהול פשוט, חלונות 10 הפעלות מרובות, מיטוב עבור יישומי Microsoft 365 ותמיכה בסביבות שירותים של שולחן עבודה מרוחק (RDS). פרוס וקנה קנה מידה של שולחנות עבודה ואפליקציות של Windows לתכלת בדקות וקבל תכונות מוכללות של אבטחה ותאימות.
+Windows Virtual Desktop הוא שירות וירטואליזציה מקיף של שולחן עבודה ויישומים הפועל בענן. זהו תשתית שולחן העבודה הווירטואלית (VDI) היחידה המספקת ניהול פשוט יותר, ריבוי הפעלות Windows 10, מיטובים עבור יישומי Microsoft 365 ותמיכה עבור סביבות שירותי שולחן עבודה מרוחק (RDS). פרוס וקנה את Windows שולחן העבודה והיישומים שלך ל- Azure בתוך דקות והיכלל בתכונות אבטחה ותאימות מוכללות.
 
-[מדריך ההגדרה של שולחן העבודה של Windows וירטואלי](https://go.microsoft.com/fwlink/?linkid=2146236) מספק למנהלי מערכת הכוללים משאבי תכנון ודרישות מוקדמות לפריסה, הדרכה להתקנה ומשאבים נוספים.
+מדריך [Windows של שולחן](https://go.microsoft.com/fwlink/?linkid=2146236) עבודה וירטואלי מספק למנהלי מערכת משאבי תכנון ותנאים מוקדמים לפריסה, הדרכה להגדרה ומשאבים נוספים.

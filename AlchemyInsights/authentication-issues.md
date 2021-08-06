@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976850"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019509"
 ---
 # <a name="authentication-issues"></a>בעיות אימות
 
@@ -75,14 +75,14 @@ ms.locfileid: "49976850"
 - [טיפול באתגרי גישה מותנית באמצעות MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [הדרכה למפתחים בנושא גישה מותנית ב- Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_סיום התמיכה עבור ספריית האימות של Azure Active Directory ‏(ADAL) ועבור ה- API של Azure AD Graph ‏(AAD Graph)_* _
+***סיום התמיכה עבור Azure Active Directory Authentication Library (ADAL) ו- Azure AD Graph API (AAD Graph)***
 
 - החל מ- 30 ביוני 2020, לא נוסיף עוד תכונות חדשות לספריית האימות של Azure Active Directory ‏(ADAL) ול- API של Azure AD Graph ‏(AAD Graph). נמשיך לספק תמיכה טכנית ועדכוני אבטחה, אך לא נספק עוד עדכוני תכונות.
 - החל מ- 30 ביוני 2022 נפסיק את התמיכה עבור ADAL ו- AAD Graph ולא נספק עוד תמיכה טכנית או עדכוני אבטחה.
     - אפליקציות המשתמשות ב- ADAL בגירסאות OS קיימות ימשיכו לפעול לאחר זמן זה, אך לא יקבלו תמיכה טכנית או עדכוני אבטחה.
     - אפליקציות שישתמשו ב- AAD Graph לאחר מועד זה עלולות לא לקבל עוד תגובות מנקודת הקצה של AAD Graph.
 
-_ *העברת ADAL**
+**ADAL Migration**
 
 אנו ממליצים לעדכן ל[ספריית האימות של Microsoft ‏(MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), הכוללת את התכונות ועדכוני האבטחה האחרונים. המלצה זו ניתנת לאור העובדה ש- Microsoft תעביר את האפליקציות שלה ל- MSAL לפני תאריך היעד של סיום התמיכה. מטרת ההעברה של אפליקציות Microsoft ל- MSAL היא להבטיח שהאפליקציות יפיקו תועלת מהשיפורים המתמשכים באבטחה ובתכונות של MSAL.
 

@@ -1,5 +1,5 @@
 ---
-title: הסרת הרחבה מ- Microsoft Edge
+title: הסרת הרחבה Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,18 +14,18 @@ ms.custom:
 - "6936"
 - "8311"
 - "9004621"
-ms.openlocfilehash: 1c8cfa9e871957de647b19b3ef6746740886d2fb
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: efd515d472f0ab99213ffa88709861000bb6536e1d2c10beef8f6d534cc94a7b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51504961"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922412"
 ---
-# <a name="remove-an-extension-from-microsoft-edge"></a>הסרת הרחבה מ- Microsoft Edge
+# <a name="remove-an-extension-from-microsoft-edge"></a>הסרת הרחבה Microsoft Edge
 
-כדי להסיר הרחבה מ- Microsoft Edge:
+כדי להסיר הרחבה Microsoft Edge:
 
-1. פתח את Microsoft Edge.
+1. פתח Microsoft Edge.
 2. בחר **... > הרחבות**.
 3. בדף **הרחבות מותקנות,** אתר את ההרחבה שברצונך להסיר ולאחר מכן בחר **הסר** לצדה.
 4. בתיבת הדו-שיח לאישור, בחר **הסר**.
