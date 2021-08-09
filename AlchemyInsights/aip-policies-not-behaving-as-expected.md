@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 7baa010cc0b18b5d2a295623639fabf2bc5f88ec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 90448bf57297ce59ba222efd1927b5de588bfbfdb1206b6403764d7f43fed690
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821628"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934294"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: פריטי מדיניות אינם מתנהגים כצפוי
 
@@ -27,7 +27,7 @@ Azure Information Protection: פריטי מדיניות אינם מתנהגים 
 2. אם אתה נתקל בבעיות בתיוג אוטומטי, עיין באופן קביעת התצורה של תנאים עבור סיווג אוטומטי ומומלץ עבור [Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) ומה סוגי המידע [הרגישים מחפשים](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 3. אם אתה נתקל בבעיות בהגנה מקורית/Pfile, עיין בתצורת [ה- API של הקובץ](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
 4. בדוק אם אתה משתמש במדיניות טווח שלא נקבעה כראוי: כיצד לקבוע את התצורה של מדיניות Azure Information Protection עבור משתמשים ספציפיים באמצעות [פריטי מדיניות בטווח.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
-5. אם תיוג אוטומטי אינו פועל עבור Outlook בעת צירוף מסמך עם תוויות, ודא ש- DRMEncryptProperty אינו מוגדר כמתואר כאן: הגדרות [הרישום של IRM עבור אבטחה.](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)
+5. אם סימון אוטומטי אינו פועל עבור Outlook בעת צירוף מסמך עם תוויות, ודא ש- DRMEncryptProperty אינו מוגדר כמתואר כאן: הגדרות [הרישום של IRM עבור אבטחה.](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)
 
 אם אתה עדיין נתקל בבעיות, אסוף יומני לקוח של Azure Information Protection וצרף את יומני הרישום המיוצאים לכרטיס זה.
 
@@ -40,5 +40,5 @@ Azure Information Protection: פריטי מדיניות אינם מתנהגים 
 
 - [כיצד להגדיר תווית עבור סימונים חזותיים עבור Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
 - [סקירת התיעוד של Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [שימוש בתוויות רגישות באפליקציות Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- [שימוש בתוויות רגישות Microsoft 365 יישומים](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 

@@ -1,5 +1,5 @@
 ---
-title: Teams Analytics ודוחות במרכז הניהול של Teams
+title: Teams ניתוח ודוחות במרכז Teams הניהול של
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 9eed4a489b7308cbd1cb10d102a672831ae27b05
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cc421e64d02f58a0264db5467b9473abe2b398dcca39eebe2f072a0f283276f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909068"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams Analytics ודוחות במרכז הניהול של Teams
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>Teams ניתוח ודוחות במרכז Teams הניהול של
 
-במרכז הניהול של Teams זמינים **מספר דוחות** שימוש ופעילות, כולל פעילות משתמש, שימוש במכשיר ושימוש באירועים בשידור חי. לקבלת פרטים, ראה [ניתוח ודיווח של Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
+ישנם מספר דוחות **שימוש ופעילות** זמינים במרכז הניהול של Teams, כולל פעילות משתמש, שימוש במכשיר ושימוש באירועים חיים. לקבלת פרטים, [ראה Microsoft Teams ניתוח ודיווח.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
 
-**שים לב:** במרכז הניהול של Microsoft 365 זמינים דוחות שימוש ופעילות נוספים של Teams. ראה [כיצד להציג את דוחות Teams בלוח המחוונים דוחות](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
+**שים לב:** במרכז Teams זמינים דוחות שימוש ופעילות נוספים מנהל מערכת Microsoft 365. ראה [כיצד להציג את דוחות Teams בלוח המחוונים דוחות](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
 
-אם אתה מחפש דיווח או ניתוח  הקשורים לשיחות או לאיכות **שיחה,** ראה [יישום QoS וניטור](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) איכות שיחות ב- Microsoft Teams לקבלת תיעוד קשור.
+אם אתה מחפש דיווח או ניתוח  הקשורים לשיחות או לאיכות **שיחה,** ראה יישום איכות שיחות [של QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) וניטור ב- Microsoft Teams לקבלת תיעוד קשור.
 

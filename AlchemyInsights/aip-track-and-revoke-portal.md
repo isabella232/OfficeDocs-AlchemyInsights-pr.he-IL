@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a98b2dd7ae24674d7d346335e0729daec3a00db7bb0580dd0dd4ba08f58e7aca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934222"
 ---
 # <a name="aip-track-and-revoke-portal"></a>AIP: מעקב אחר פורטל ותבטל אותו
 
-השתמש באתר **המעקב אחר מסמכים בפורטל** Azure כדי לעקוב אחר מסמכים ולבטל אותם בעת שימוש ב- Azure Information Protection. ניתן להשתמש גם ביישומים של Office (Word , Excel ו- PowerPoint) ובסייר הקבצים כדי לעקוב אחר מסמכים ולבטל אותם.
+השתמש באתר **המעקב אחר מסמכים בפורטל** Azure כדי לעקוב אחר מסמכים ולבטל אותם בעת שימוש ב- Azure Information Protection. ניתן Office (Word, Excel וסייר PowerPoint) ולעקוב אחר מסמכים ולבטל אותם.
 
 1. באתר המעקב אחר מסמכים, לחץ על **בטל גישה.** הסרת מסמך מסירה גישה ממשתמשים מורשים; המסמך אינו נמחק.
 2. ביישום Office:

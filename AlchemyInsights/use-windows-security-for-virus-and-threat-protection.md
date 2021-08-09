@@ -1,5 +1,5 @@
 ---
-title: שימוש באבטחת Windows עבור הגנה מפני וירוסים ואיומים
+title: שימוש אבטחת Windows עבור הגנה מפני וירוסים ואיומים
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001517"
 - "5609"
-ms.openlocfilehash: 7fbbe5d5a7aa347541f6cedd3dc97daa2b9757d2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fce177091cd762defb549ec11bc2c9a86bea10c198b4fe5fad17c128379f2a8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825984"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006819"
 ---
-# <a name="use-windows-security-for-virus-and-threat-protection"></a>שימוש באבטחת Windows עבור הגנה מפני וירוסים ואיומים
+# <a name="use-windows-security-for-virus-and-threat-protection"></a>שימוש אבטחת Windows עבור הגנה מפני וירוסים ואיומים
 
-**הפעלה או ביטול של הגנה בזמן אמת של Windows Security**
+**הפעלה אבטחת Windows או ביטול של הגנה בזמן אמת**
 
-1. לחץ **על** התחל ולאחר מכן עבור **אל הגדרות > עדכון & אבטחה > אבטחה של Windows > וירוסים & הגנה מפני איומים.**
+1. לחץ **על** התחל ולאחר מכן **עבור אל הגדרות > עדכון & אבטחה > אבטחת Windows > וירוס & הגנה מפני איומים**.
 2. בצע אחת מהפעולות הבאות:
     - תחת "הגדרות & הגנה מפני איומים", לחץ על נהל הגדרות **ולאחר** מכן העבר את הגדרת **ההגנה בזמן אמת** למצב **הפעלה** או **כיבוי.**
-    - בגירסאות קודמות של Windows 10: לחץ **על הגדרות &** הגנה מפני איומים ולאחר מכן העבר את הגדרת **ההגנה** בזמן אמת למצב **פועל** או **כבוי.**
+    - בגירסאות קודמות של Windows 10: לחץ **על הגדרות &** הגנה מפני איומים ולאחר מכן העבר את הגדרת **ההגנה** בזמן אמת למצב **הפעלה** או **כיבוי**.
 
-Windows Update מוריד עדכונים עבור אבטחת Windows באופן אוטומטי כדי לסייע בהגנה על המחשב שלך ולהגן עליו מפני איומים. כדי לקבל מידע נוסף אודות אבטחת Windows, עיין לעזרה [בהגנה על המכשיר שלי באמצעות אבטחת Windows.](https://support.microsoft.com/help/17464/windows-10-help-protect-my-device-with-windows-security)
+Windows עדכון הורדות עדכונים עבור אבטחת Windows באופן אוטומטי כדי לסייע בהגנה על המחשב שלך ולהגן עליו מפני איומים. כדי לקבל מידע נוסף על אבטחת Windows, עיין לעזרה [בהגנה על המכשיר שלי באמצעות אבטחת Windows](https://support.microsoft.com/help/17464/windows-10-help-protect-my-device-with-windows-security).

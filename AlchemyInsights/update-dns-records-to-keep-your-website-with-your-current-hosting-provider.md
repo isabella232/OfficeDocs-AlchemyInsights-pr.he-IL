@@ -14,16 +14,16 @@ ms.custom:
 - "419"
 - "5200001"
 ms.assetid: 0838394d-324d-45c1-9736-6f72e7e9bdb2
-ms.openlocfilehash: f7871bb0f6ff289a4c20ef290b391579511233db
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7b9115f1a37de44eb5212f5bfc41b750d80200852b9982fe683b90af6a22a7df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060281"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>עדכון רשומות DNS כדי להשאיר את אתר האינטרנט שלך אצל ספק האירוח הנוכחי
 
-כחלק מהתהליך של העברת אתר האינטרנט הציבורי של Microsoft 365 לספק אירוח אחר, סביר שתצטרך לבצע שינויים ברשומות התחום שלך.
+כחלק מהתהליך של העברת אתר Microsoft 365 ציבורי לספק אירוח אחר, סביר שתצטרך לבצע שינויים ברשומות התחום שלך.
   
 1. במרכז הניהול, עבור אל **הגדרת** \> **תחומים** ובחר את שם התחום שברצונך לשנות.
 
@@ -31,4 +31,4 @@ ms.locfileid: "51834480"
 
 כדי ללמוד עוד, ראה [עדכון רשומות DNS כדי לשמור את אתר האינטרנט שלך עם ספק האירוח הנוכחי שלך.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide)
   
-כדי לקבל מידע נוסף על הפסקת האתר הציבורי, ראה אתרי אינטרנט ציבוריים של [SharePoint Online לסיום](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916).
+כדי לקבל מידע נוסף על הפסקת האתר הציבורי, [ראה SharePoint](https://support.office.com/article/sharepoint-online-public-websites-to-be-discontinued-e86bfd2f-5c7d-446f-a430-7cfcc0130916)האינטרנט הציבורי של Online.
