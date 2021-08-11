@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92d776675c2c70bfb651ce09e0f2d7b815366f22a87f2e468964fa4971d275f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934906"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>הפיכת תקשורת חיצונית לזמינה והוספת אנשי קשר
 
-ב- Skype for Business, באפשרותך להוסיף אנשים לרשימת אנשי הקשר שלך כדי שהם יהיו במרחק לחיצה בלבד. לכל איש קשר שאתה מוסיף ניתנת חברות באחת או יותר מקבוצות אנשי הקשר שלך. עיין [בהוספת איש קשר ב- Skype for Business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) לקבלת מידע נוסף. 
+ב Skype for Business, באפשרותך להוסיף אנשים לרשימת אנשי הקשר שלך כדי שהם יהיו במרחק לחיצה. לכל איש קשר שאתה מוסיף ניתנת חברות באחת או יותר מקבוצות אנשי הקשר שלך. סקור [את הוספת איש קשר Skype for Business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1) לקבלת מידע נוסף. 
 
 ודא כי מנהל הדייר שלך בצע את השלבים כדי [לאפשר תקשורת חיצונית](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-האם ברצונך לאפשר למשתמשים שלך ליצור קשר רק עם משתמשי סקייפ לצרכן? ראה [תן למשתמשי Skype for Business להוסיף אנשי קשר של Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+האם ברצונך לאפשר למשתמשים שלך ליצור קשר רק עם Skype המשתמשים לצרכן? ראה [תן Skype for Business המשתמשים להוסיף Skype אנשי קשר](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 

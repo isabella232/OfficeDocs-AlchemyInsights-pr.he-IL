@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות בגישה למשאבים
+title: פתרון בעיות גישה למשאבים
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 02208d52b478b382119bd6634709f52dfc0a27f4e0eb251bcfdb4d96d47dac82
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093023"
 ---
-# <a name="troubleshoot-resource-access-issues"></a>פתרון בעיות בגישה למשאבים
+# <a name="troubleshoot-resource-access-issues"></a>פתרון בעיות גישה למשאבים
 
-לקבלת מידע אודות סוגי הפרופילים שבהם תומך תומך כדי לאפשר גישה עבור משתמשים לתשתית ולמשאבים של הארגון, ראה:
+לקבלת מידע אודות סוגי הפרופילים ש- Intune תומך בו כדי לאפשר גישה עבור משתמשים לתשתית ומשאבים ארגוניים, ראה:
 
-- [הוספת הגדרות דואר אלקטרוני למכשירים באמצעות ' שימוש בעידון '](https://docs.microsoft.com/intune/email-settings-configure)
-- [יצירת פרופילי vpn כדי להתחבר לשרתי vpn בתוך המנגינה](https://docs.microsoft.com/intune/vpn-settings-configure))
-- [הוספה ושימוש בהגדרות Wi-Fi במכשירים שלך ב-Microsoft intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
-- [שימוש באישורים לצורך אימות ב-Microsoft intune](https://docs.microsoft.com/intune/certificates-configure)
+- [הוספת הגדרות דואר אלקטרוני למכשירים באמצעות Intune](https://docs.microsoft.com/intune/email-settings-configure)
+- [יצירת פרופילי VPN כדי להתחבר לשרתי VPN ב- Intune](https://docs.microsoft.com/intune/vpn-settings-configure))
+- [הוספה ושימוש בהגדרות Wi-Fi במכשירים שלך ב- Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
+- [שימוש באישורים לאימות Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
 
-לקבלת מידע נוסף אודות כוונון פרופילי מכשיר, ראה [שאלות נפוצות ותשובות עם מדיניות ופרופילים של מכשירים ב-Microsoft intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
+לקבלת מידע נוסף על פרופילי מכשיר Intune, ראה שאלות נפוצות ותשובות עם מדיניות [מכשירים ופרופילים ב- Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
 
-לקבלת מידע נוסף אודות פתרון בעיות בפרופילי גישה למשאבים, ראה [קודי שגיאה נפוצים ותיאורים ב-Microsoft intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
+לקבלת מידע נוסף לפתרון בעיות לגבי פרופילי גישה למשאבים, ראה [קודי שגיאה ותיאורים נפוצים ב- Microsoft Intune.](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems)

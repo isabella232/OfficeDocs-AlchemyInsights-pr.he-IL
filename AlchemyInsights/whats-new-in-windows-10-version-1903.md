@@ -1,5 +1,5 @@
 ---
-title: מה חדש ב-Windows 10, גירסה 1903
+title: מה חדש ב- Windows 10, גירסה 1903
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692049"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970656"
 ---
-# <a name="whats-new-in-windows-10-version-1903"></a>מה חדש ב-Windows 10, גירסה 1903
+# <a name="whats-new-in-windows-10-version-1903"></a>מה חדש ב- Windows 10, גירסה 1903
 
-להלן התכונות והתוכן החדשים והמעודכנים עבור Windows 10 גירסה 1903, הידוע גם כעדכון Windows 10 במאי 2019. עדכון זה מכיל גם את כל התכונות והתיקונים הכלולים בעדכונים המצטברים הקודמים ב-Windows 10, גירסה 1809:
+להלן התכונות החדשות והתוכן המעודכנים עבור Windows 10 1903, המכונה גם עדכון ממאי 2019 של Windows 10. עדכון זה מכיל גם את כל התכונות והתיקונים הכלולים בעדכונים המצטברים הקודמים Windows 10, גירסה 1809:
 
 1. [פריסה](https://go.microsoft.com/fwlink/?linkid=2114296)
 1. [מתן שירות](https://go.microsoft.com/fwlink/?linkid=2114493)

@@ -14,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd74173e62a5d2204641d0594e0e39587bbef869cb1ee7590a3db824a705bd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687579"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935554"
 ---
-# <a name="problems-setting-up-an-email-account-in-outlook"></a>בעיות בהגדרת חשבון דואר אלקטרוני ב-Outlook
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>בעיות בהגדרת חשבון דואר אלקטרוני Outlook
 
-אם אתה נתקל בבעיות בהגדרת חשבון Exchange ב-Outlook, באפשרותך להפעיל את [כלי ההגדרה של חשבון Outlook](https://aka.ms/SaRA-OutlookSetupProfile) במחשב המושפע. היא תבצע בדיקות שונות ותספק פתרונות אפשריים לבעיית הגדרת החשבון שלך.
+אם אתה נתקל בבעיות בהגדרת חשבון Exchange ב- Outlook, באפשרותך [להפעיל את כלי הגדרת חשבון Outlook](https://aka.ms/SaRA-OutlookSetupProfile) במחשב המושפע. היא תבצע בדיקות שונות ותספק פתרונות אפשריים לבעיה בהגדרת החשבון שלך.
   
-אם אתה עדיין נתקל בבעיות, ראה [Outlook אינו יכול להגדיר פרופיל חדש באמצעות גילוי אוטומטי של exchange עבור תיבת דואר של Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+אם אתה עדיין נתקל בבעיות, ראה Outlook אין אפשרות להגדיר פרופיל חדש באמצעות [Exchange אוטומטי עבור תיבת דואר Exchange Online .](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)
   
