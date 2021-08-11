@@ -1,5 +1,5 @@
 ---
-title: אלכימיה-שלבי פתרון בעיות ב-Outlook
+title: Alchemy - Outlook שלבי פתרון בעיות קריסה
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69c606e0987b5025a5c1e7340159ec06afe4b8e084c61615778a90114f9b4ecb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718658"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933682"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>שלבי פתרון בעיות לקריסה של Outlook
 
-אם אתה נתקל בבעיות קריסה של Outlook בשולחן העבודה, התחל על-ידי ביצוע שלושת השלבים שלהלן, המפורטים בפרוטרוט במאמר זה: [כיצד לפתור בעיות הגורמות ל-Outlook לקרוס או להפסיק להגיב.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+אם אתה נתקל Outlook בעיות קריסה בשולחן העבודה, התחל על-ידי ביצוע שלושת השלבים הבאים, אשר מפורטים בפירוט במאמר זה: כיצד לפתור בעיות [ה הגורםות Outlook לקרוס או להפסיק להגיב.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-שלב 1: חקירת בעיות אפשריות בתוספות.
+שלב 1: בדוק בעיות אפשריות עם תוספות.
   
-שלב 2: תקן את Outlook והפעל את [כלי מסייע התמיכה והשחזור](https://aka.ms/SaRA-OutlookWontStart) כדי לפתור שגיאות אתחול של Outlook במחשב המושפע.
+שלב 2: תיקון Outlook ולהפעיל [את כלי מסייע התמיכה והשחזור כדי](https://aka.ms/SaRA-OutlookWontStart) לפתור Outlook שגיאות אתחול במחשב המושפע.
   
-שלב 3: יצירת פרופיל Outlook חדש או הפעלה של [הכלי ' פרופיל outlook](https://aka.ms/SaRA-OutlookSetupProfile) ' במחשב המושפע.
+שלב 3: צור פרופיל Outlook חדש, או [הפעל את Outlook הפרופיל](https://aka.ms/SaRA-OutlookSetupProfile) החדש במחשב המושפע.
   
-אם הבעיה התרחשה לאחר עדכון והשלבים שלעיל אינם פועלים, ייתכן שעליך לחזור לגירסת Build קודמת. גלה [כיצד לחזור לגירסה קודמת של Office 2016 ' לחץ והרצה '](https://support.microsoft.com/help/2770432).
+אם הבעיה התרחשה לאחר עדכון והשלבים שלעיל אינם פועלים, ייתכן שעליך לחזור לגירסת Build קודמת. ראה כיצד לחזור לגירסה קודמת של Office לחץ ולהפעיל [2016](https://support.microsoft.com/help/2770432).
   
