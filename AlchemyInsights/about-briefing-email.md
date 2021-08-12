@@ -1,5 +1,5 @@
 ---
-title: אודות תדרוך על דואר אלקטרוני
+title: אודות תדריך דואר אלקטרוני
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 04fcc9930de844d221033e976adb04ef483a27ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1c7027eeba1d156ed2b7b68502504f9eb0b940519d43ac84df1c94435260101
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955859"
 ---
-# <a name="about-briefing-email"></a>אודות תדרוך על דואר אלקטרוני
+# <a name="about-briefing-email"></a>אודות תדריך דואר אלקטרוני
 
-לקבלת מידע נוסף אודות תדרוך, ראה [עדכון מבט כולל על דואר אלקטרוני](https://docs.microsoft.com/briefing/be-overview).  
+כדי ללמוד עוד אודות תדריך, ראה [מבט כולל על תדריך דואר אלקטרוני](https://docs.microsoft.com/briefing/be-overview).  
 
-תכונה זו מסתכמת כעת, כך שהארגון שלך עשוי לא לקבל את הדואר האלקטרוני המקצר גם אם אתה משתמש בתדרוך זמין. כמו כן, שים לב שמשתמשים אינם מובטחים לקבל דואר אלקטרוני קצר כל יום. הודעות הדואר האלקטרוני שנשלחות רק כאשר המשתמש מציע לפחות הצעה אחת לביצוע פעולה עבור אותו יום. לקבלת מידע נוסף, ראה [שאלות נפוצות עבור הדואר האלקטרוני לתדרוך](https://docs.microsoft.com/briefing/be-faqs).
+תכונה זו מגולגלת כעת, ולכן ייתכן שהארגון שלך לא יקבל את הודעת הדואר האלקטרוני לתדריך גם אם תדריך זמין. כמו כן, שים לב שהמשתמשים אינם מובטחים לקבל הודעת דואר אלקטרוני של תדריך מדי יום. הודעות הדואר האלקטרוני נשלחות רק כאשר למשתמש יש לפחות הצעה אחת הניתנת לפעולה עבור אותו יום מסוים. לקבלת מידע נוסף, [ראה שאלות נפוצות עבור הודעת הדואר האלקטרוני לתדריך](https://docs.microsoft.com/briefing/be-faqs).

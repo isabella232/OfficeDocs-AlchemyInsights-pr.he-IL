@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6676"
-ms.openlocfilehash: 6a350c6bca18306e64f647cfa3a7f14fa204109b
-ms.sourcegitcommit: 9626d39e5891f83774ba31574a00b0bae92ad442
+ms.openlocfilehash: 8918b0da0172e0421ade6f0cca936e14d1d609896bc4c75c5a8491c0dbe75aff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48758585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938444"
 ---
-# <a name="azure-subscription-disabled"></a>מנוי תכלת אינו זמין
+# <a name="azure-subscription-disabled"></a>Azure Subscription Disabled
 
-המנוי שלך ב-תכלת יכול להפוך ללא זמין מכיוון שתוקף האשראי שלך פג, הגעת למגבלת ההוצאות שלך, ואתה מקבל את הצעת התשלום, הגעת למגבלת כרטיס האשראי שלך, או מכיוון שהמנוי בוטל על-ידי מנהל החשבון. עיין במאמר הבא על האופן שבו באפשרותך להפוך מחדש את המנוי שלך לזמין. מידע נוסף: הפעל מחדש את [מנוי התכלת](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+המנוי שלך ב- Azure יכול להיות לא זמין מכיוון שתוקף האשראי שלך פג, הגעת למגבלת ההוצאה שלך, יש לך חשבון שתאריך ההוצאה שלו הסתיים, הגעת למגבלת כרטיס האשראי שלך או מכיוון שהמנוי בוטל על-ידי מנהל החשבון. עיין להלן באופן המאפשר לך להפוך מחדש את המנוי שלך לזמין. מידע נוסף: [הפעלה מחדש של מנוי Azure](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**הפעלה מחדש של מנוי התכלת (המנוי בוטל בטעות)** [מנהל החשבון](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) יכול להפעיל מחדש מנוי של תשלום לפי-המעבר שבוטל במרכז החשבון:
+**הפיכת מנוי Azure לזמין מחדש (המנוי בוטל בטעות)** מנהל [החשבון יכול](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) להפעיל מחדש מנוי Pay-As-You-Go שבוטלו במרכז חשבון:
 
-1. היכנס [למרכז החשבון](https://account.windowsazure.com/Subscriptions).
-2. בחר את המנוי שבוטל. לחץ על **הפעל** מחדש.
+1. היכנס למרכז [חשבון](https://account.windowsazure.com/Subscriptions).
+2. בחר את המנוי שבוטלו. לחץ **על הפעל מחדש**.
 
 עבור סוגי מנויים אחרים, [פנה לתמיכה](https://portal.azure.com/?#blade/Microsoft_Azure_Support/HelpAndSupportBlade) כדי להפעיל מחדש את המנוי שלך.
 
-**כרטיס אשראי שפג תוקפו**
+**כרטיס אשראי שתוקפו פג**
 
-כאשר אתה נרשם **לחשבון תכלת ללא** תשלום, אתה מקבל מנוי ניסיון ללא תשלום, אשר מספק לך $200 בקרדיטים של תכלת עבור 30 יום ו-12 חודשים של שירותים ללא תשלום. בסוף 30 יום, תכלת מבטל את המנוי שלך. המנוי שלך אינו זמין כדי להגן עליך מפני חיובים בטעות לשימוש מעבר לאשראי ולשירותים ללא תשלום הכלולים במנוי שלך. כדי להמשיך להשתמש בשירותי התכלת, עליך [לשדרג את המנוי שלך](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support). לאחר השדרוג, המנוי שלך עדיין מקבל גישה לשירותים ללא תשלום במשך 12 חודשים. אתה מקבל תשלום רק עבור השימוש מעבר לשירותים ולכמויות ללא תשלום.  
+בעת הכניסה לחשבון Azure ללא **תשלום,** אתה מקבל מנוי ניסיון ללא תשלום, המספק לך $200 נקודות זכות של Azure עבור 30 יום ו- 12 חודשים של שירותים ללא תשלום. בסוף 30 הימים, Azure הופך את המנוי שלך ללא זמין. המנוי שלך אינו זמין כדי להגן עליך מפני חיובים כרוכים בטעות בשימוש מעבר לקרדיט ולהשירותים ללא תשלום הכלולים במנוי שלך. כדי להמשיך להשתמש בשירותים של Azure, עליך [לשדרג את המנוי שלך.](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support) לאחר השדרוג, למנוי שלך עדיין יש גישה לשירותים ללא תשלום במשך 12 חודשים. תחויב רק עבור השימוש מעבר לשירותים ולכמויות ללא תשלום.  
 מידע נוסף: [כרטיס אשראי שפג תוקפו](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support#your-credit-is-expired)
 
-**הגעת למגבלת ההוצאות**
+**הגעת למגבלת ההוצאה**
 
-כאשר השימוש שלך מגיע למגבלת ההוצאות, התכלת מבטל את המנוי שלך לשארית תקופת חיוב זו. המנוי שלך אינו זמין כדי להגן עליך מפני חיובים בטעות לשימוש מעבר לזיכוי הכלול במנוי שלך. כדי להסיר את מגבלת ההוצאות, ראה [מגבלת הוצאות התכלת](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support).  
-מידע נוסף: [הגעת למגבלת ההוצאות שלך](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
+כאשר השימוש שלך מגיע למגבלת ההוצאה, Azure הופך את המנוי שלך ללא זמין עבור שארית תקופת החיוב. המנוי שלך אינו זמין כדי להגן עליך מפני חיובים כרוכים בטעות בשימוש מעבר לקרדיט הכלול במנוי שלך. כדי להסיר את מגבלת ההוצאה שלך, ראה [מגבלת הוצאה של Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support).  
+קבל מידע נוסף: [הגעת למגבלת ההוצאה שלך](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled?WT.mc_id=Portal-Microsoft_Azure_Support#you-reached-your-spending-limit)
 
-**תאריך היעד של Bill בעבר**
+**החיוב שתאריך היעד שלו עבר**
 
-כדי לפתור את היתרה לגבי התשלום הקודם, ראה [פתרון יתרת המועד הקודם עבור מנוי התכלת לאחר קבלת הודעת דואר אלקטרוני מתכלת](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support).
+כדי לפתור את יתרת היעד שתאריך היעד שלה עבר, ראה פתרון יתרה פיר ביצוע עבור המנוי שלך ב- [Azure לאחר קבלת הודעת דואר אלקטרוני מ- Azure](https://docs.microsoft.com/azure/billing/billing-azure-subscription-past-due-balance?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**החשבון חורג ממגבלת כרטיס האשראי שלך**
+**החיוב חורג ממגבלת כרטיס האשראי שלך**
 
-כדי לפתור בעיה זו, [עבור לכרטיס אשראי אחר](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). לחלופין, אם אתה מייצג עסק, באפשרותך [לעבור לתשלום באמצעות חשבונית](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
+כדי לפתור בעיה זו, [עבור לכרטיס אשראי אחר](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support). לחלופין, אם אתה מייצג עסק, באפשרותך לעבור [לתשלום באמצעות חשבונית](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**הערה** : תאריך יום השנה של מנוי חדש (SA) יוקצה למנויים שהיו זמינים מחדש. מספר הימים (מרווח זמן) שבו המנוי הושעה, יתווסף לתאריך שיוך האבטחה המקורי. תאריך יום השנה היורד ב-29, 30 או 31 יגרום לתאריך שיוך האבטחה להיות מוגדר ל-1 בחודש הבא.  
-דוגמה
+**הערה:** תאריך חדש של יום השנה למנויים (SA) יוקצה למנויים ש- re-enabled. מספר הימים (מרווח זמן) שבו המנוי הושעה, יתווסף לתאריך ה- SA המקורי. כל תאריך יום השנה שייפול בתאריך ה- 29, ה- 30 או ה- 31 יגרום לתאריך ה- SA שיוגדר ל- 1 בחודש הבא.  
+דוגמה:
 
-- יום השנה המקורי של המנוי הוא ה-25;
-- המנוי הושעה ב-10/3 והוא מופעל מחדש ב-10/9;
-- המנוי הפך ללא זמין עבור 6 ימים (מרווח זמן של 6);
-- לאחר מכן, המרווח נוסף ל-SA המקורי, והסכום הופך לתאריך שיוך האבטחה החדש (25 + 6 = 31). 
+- יום השנה המקורי שלך למנוי הוא ה- 25;
+- המנוי הושעה ב- 10/3 והפעיל מחדש ב- 9/10;
+- המנוי הפך ללא זמין במשך 6 ימים (מרווח זמן של 6);
+- לאחר מכן, המרווח יתווסף ל- SA המקורי, והסכום יהפוך לתאריך ה- SA החדש (25+6=31). 
 
-**הערה** : בדוגמה זו, מאחר שתאריך שיוך האבטחה גדול מ-28, תאריך ה-sa החדש יהיה הראשון בחודש הבא.
+**הערה:** בדוגמה זו, מאחר שתאריך ה- SA גדול כעת מ- 28, תאריך ה- SA החדש יהיה הראשון בחודש הבא.
 
 **מסמכים מומלצים**
 
 - [החלפת מנוי](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)  
 - [ביטול מנוי](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)  
-- [השוק התכלת](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
-- איתור [מנהל החשבון](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
-- [מה עליי לעשות אם מנוי התכלת שלי הופך ללא זמין?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [מגבלת הוצאות של תכלת](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/?source=datamarket)
+- אתר את [מנהל החשבון](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- [מה ניתן לעשות אם המנוי שלי ב- Azure הופך ללא זמין?](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [מגבלת הוצאה של Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)

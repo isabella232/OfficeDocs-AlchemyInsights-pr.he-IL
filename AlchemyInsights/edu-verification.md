@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24a9cd94272f4103fe404bf86e519582138e6b37734e11715b72ebcd2de9d5cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814373"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946730"
 ---
 # <a name="edu-verification"></a>אימות EDU
 
@@ -25,6 +25,6 @@ ms.locfileid: "51814373"
 
 **חשוב** אם אתה יוצא מאשף האימות לפני הזנת תחום, באפשרותך לחדש את אשף האימות [האקדמי](https://go.microsoft.com/fwlink/p/?linkid=2135255) בכל עת במהלך גירסת הניסיון ללא תשלום.
 
-אם תרצה לבדוק את מצב התחום שלך, עבור אל מרכז הניהול [של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). בדף הבית, גלול אל החלק התחתון ומצא את **כרטיס החיוב.** כרטיס **החיוב** מציין את מצב תהליך האימות (מאושר, ממתין, נדחה או הוסף את התחום שלך).
+אם תרצה לבדוק את מצב התחום שלך, עבור אל [מרכז הניהול של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). בדף הבית, גלול אל החלק התחתון ומצא את **כרטיס החיוב.** כרטיס **החיוב** מציין את מצב תהליך האימות (מאושר, ממתין, נדחה או הוסף את התחום שלך).
 
 אם הבקשה שלך נדחתה, ראה [בית הספר שלי אינו זכאי. מה אני עושה עכשיו?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)

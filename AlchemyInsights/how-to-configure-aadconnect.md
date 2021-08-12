@@ -1,5 +1,5 @@
 ---
-title: 646 כיצד להגדיר את AADConnect
+title: 646 כיצד לקבוע את התצורה של AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,25 +13,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 6327e42b74283d732247c9a847c68db72082c56a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5fa5fd7586f999698fe43554fb9a2b205be3e25740c20763254a38d41297e0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963644"
 ---
 # <a name="configure-sync-features"></a>קביעת תצורה של תכונות סינכרון
 
-חיבור תכלת לספירה כולל כמה תכונות הזמינות כברירת מחדל, או שניתן להפוך אותן לזמינות במועד מאוחר יותר. תכונות מסוימות דורשות תצורה נוספת בסביבות ספציפיות.
+Azure AD התחברות כוללת כמה תכונות זמינות כברירת מחדל, או שזמינה במועד מאוחר יותר. תכונות מסוימות דורשות קביעת תצורה נוספת בסביבות ספציפיות.
 
-- מגבלות [סינון](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) האובייקטים מסונכרנים עם התכלת לספירה. כברירת מחדל, כל המשתמשים, אנשי הקשר, הקבוצות ו-Windows 10 חשבונות מחשב מסונכרנים. באפשרותך לכלול או לא לכלול אובייקטים בהתבסס על תחומים, רכיבי Ou או תכונות אחרות.
+- [סינון מגביל](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) את האובייקטים מסונכרנים עם Azure AD. כברירת מחדל, כל המשתמשים, אנשי הקשר, הקבוצות וחשבונות Windows 10 מסונכרנים. באפשרותך לכלול או לא לכלול אובייקטים בהתבסס על תחומים, יחידות OUs או תכונות אחרות.
 
-- [סינכרון hash של סיסמאות](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) מסנכרן את קוד ה-hash של הסיסמה ממדריך הכתובות המקומי של Active Directory לכיוון תכלת לספירה. פעולה זו מאפשרת ניהול סיסמאות במיקום אחד, אך שימוש באותה סיסמה בסביבות מקומיות ובסביבת ענן. מכיוון ש-Active Directory הוא המקור הסמכותי, באפשרותך להשתמש במדיניות הסיסמה שלך.
+- [סינכרון Hash של](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) סיסמה מסנכרן את קוד ה- Hash של הסיסמה מ- Active Directory המקומי ל- Azure AD. פעולה זו מאפשרת ניהול סיסמאות במיקום אחד, אך שימוש באותה סיסמה הן בסביבות מקומיות ובענן. מאחר ש- Active Directory הוא המקור הסמכותי, באפשרותך להשתמש במדיניות הסיסמה שלך.
 
-- [איפוס סיסמה בשירות עצמי (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) מאפשר למשתמשים לאפס את הסיסמאות שלהם בענן בזמן שהם עדיין מיישמים את מדיניות הסיסמה המקומית שלך.
+- [איפוס סיסמה בשירות עצמי (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) מאפשר למשתמשים לאפס את הסיסמאות שלהם בענן תוך החלת מדיניות הסיסמה המקומית שלך.
 
-- [התקן writeback](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) מאפשר התקנים רשומים בתכלת AD להיכתב בחזרה אל active Directory המקומי כדי שניתן יהיה להשתמש בהם לקבלת גישה מותנית.
+- [כתיבה חוזרת](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) של מכשיר מאפשרת לכתוב מכשירים רשומים ב- Azure AD בחזרה ל- Active Directory המקומי, כדי שתוכל להשתמש בהם לגישה מותית.
 
-- [מניעת מחיקה בשוגג](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) מופעלת כברירת מחדל כדי לסייע במניעת מחיקות של אובייקטים בו רבים מדי (יותר מ-500 אובייקטים לכל סינכרון). באפשרותך לשנות הגדרה זו כדי לענות על הצרכים של הארגון שלך.
+- [מניעת מחיקות בשוגג](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) זמינה כברירת מחדל כדי לסייע במניעת מחיקות אובייקטים בו-זמניות רבות מדי (יותר מ- 500 אובייקטים לכל סינכרון). באפשרותך לשנות הגדרה זו כך שתתן את צרכי הארגון שלך.
 
-- [שדרוג אוטומטי](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) מופעל כברירת מחדל עבור התקנות מפורשות ומסייע להבטיח שגירסת החיבור של ' תכלת לספירה ' תהיה תמיד עדכנית.
+- [שדרוג אוטומטי](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) זמין כברירת מחדל עבור התקנות מפורשות ומבטיח שהגירסה של Azure AD התחברות תמיד עדכנית.

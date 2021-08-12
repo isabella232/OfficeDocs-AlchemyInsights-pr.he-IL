@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 85aa0ad68929eca77aa7adfb1031d91b0e9d46c77f6820ee52a7848cd4a19211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938480"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>הפעלת מכשיר חדש שבו פועל Windows 10
+# <a name="activating-a-new-device-running-windows-10"></a>הפעלת מכשיר חדש שפועל בו Windows 10
 
-אם קנית מכשיר חדש שבו פועל Windows 10, הוא יופעל באופן אוטומטי בעת חיבור המכשיר לאינטרנט. אם שרתי ההפעלה עמוסים, ייתכן שתצטרך להמתין זמן מה עד ש- Windows יופעל.
+אם קנית מכשיר חדש שבו פועל Windows 10, הוא יופעל באופן אוטומטי בעת חיבור המכשיר לאינטרנט. אם שרתי ההפעלה עמוסים, ייתכן שתצטרך להמתין זמן מה עד Windows להפעיל.
 
-כדי לבדוק את מצב ההפעלה, בחר **התחל** **הגדרות** עדכון  >  **& הפעלת**  >  **אבטחה**.
+כדי לבדוק את מצב ההפעלה, **בחר התחל** **הגדרות** עדכון  >  **& הפעלת**  >  **אבטחה**.
 
-**הערה:** במקרים מסוימים, ייתכן שיהיה עליך להזין את מפתח המוצר של Windows 10 שהגיע עם אריזת המכשיר, או כלול ככרטיס או באישור המקוריות (COA) המחובר למכשיר.
+**הערה:** במקרים מסוימים, ייתכן שתצטרך להזין את Windows 10 המוצר שהגיע עם אריזת המכשיר, או להיכלל ככרטיס או באישור המקוריות (COA) המחובר למכשיר.
 
-[קבל מידע נוסף על הפעלה ב- Windows 10](https://support.microsoft.com/help/12440)
+[קבל מידע נוסף על הפעלה Windows 10](https://support.microsoft.com/help/12440)
