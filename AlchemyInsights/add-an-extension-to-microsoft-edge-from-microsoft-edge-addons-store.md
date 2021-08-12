@@ -1,5 +1,5 @@
 ---
-title: הוספת הרחבה ל- Microsoft Edge מחנות ההרחבות של Microsoft Edge
+title: הוספת הרחבה Microsoft Edge מתוך Microsoft Edge הרחבות
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6919"
 - "8310"
 - "9004621"
-ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 0533c92d17fe39325f0067cebf96c3f63b0dcc9a7ed58557e2557ef75aad55e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51504999"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936418"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>הוספת הרחבה ל- Microsoft Edge מחנות ההרחבות של Microsoft Edge
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>הוספת הרחבה Microsoft Edge מתוך Microsoft Edge הרחבות
 
-כדי להוסיף הרחבה ל- Microsoft Edge מחנות ההרחבות של Microsoft Edge:
+כדי להוסיף הרחבה Microsoft Edge בחנות Microsoft Edge הרחבות:
 
-- פתח את Microsoft Edge.
-- בחר **... > הרחבות > קבל [הרחבות עבור Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
+- פתח Microsoft Edge.
+- בחר **... > הרחבות > [קבל הרחבות עבור Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
 - בחר את ההרחבה ש רוצה להוסיף ולאחר מכן בחר **קבל**.
 - בתיבת הדו-שיח לאישור, סקור בקפידה את השינויים שההרחבה עשויה לבצע ובחר הוסף **הרחבה**.
 
