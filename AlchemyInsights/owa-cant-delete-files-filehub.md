@@ -1,5 +1,5 @@
 ---
-title: לא ניתן למחוק קבצים או תמונות מקבצים ב-Outlook באינטרנט
+title: לא ניתן למחוק קבצים או תמונות מקבצים Outlook באינטרנט
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 10864e19efeee0e65845de8fff4e021813cde3d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d73662feb79496e8a0901588d35359ef6d878067d93adf2172504e4d96af1cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796001"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961449"
 ---
-# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>לא ניתן למחוק קבצים או תמונות מקבצים ב-Outlook באינטרנט
+# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>לא ניתן למחוק קבצים או תמונות מקבצים Outlook באינטרנט
 
-**קבצים** מציג את הקבצים והתמונות שמצורפים להודעות בתיבת הדואר שלך. כדי להסיר קבצים ותמונות מקבצים, עליך למחוק את הודעות הדואר האלקטרוני שאליהן הן מצורפות. לאחר מחיקת ההודעות, עליך גם למחוק אותן מהתיקיה ' פריטים שנמחקו '.
+**קבצים** מציגים את הקבצים והתמונות המצורפים להודעות בתיבת הדואר שלך. כדי להסיר קבצים ותמונות מקבצים, עליך למחוק את הודעות הדואר האלקטרוני שהן מצורפות אליהן. לאחר מחיקת ההודעות, עליך גם למחוק אותן מהתיקיה 'פריטים שנמחקו'.
