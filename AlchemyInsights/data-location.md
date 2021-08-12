@@ -11,15 +11,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: b42fd2380fc1a98d33443aa8cacdb23e55fa8832
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 848285b940c19e3d6bb2b42483f01d39bce3952f42aa723d51b1a6392f0f1dcc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914616"
 ---
 # <a name="data-location"></a>מיקום נתונים
 
-באפשרותך להציג את מיקום הדייר שלך במרכז הניהול על-ידי ניווט [לדף **פרופיל הארגון** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) ובחירת **מיקום הנתונים**.
+באפשרותך להציג את המיקום של הדייר שלך במרכז הניהול על-ידי ניווט לדף פרופיל [ **הארגון**](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) ובחירה **במיקום נתונים**.
 
-עבור יישומים שאינך מנוי אליהם כמנוי, ראה [היכן מאוחסן נתוני הלקוחות של Microsoft 365](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
+עבור יישומים שלא נרשמת כמנויים, ראה [היכן מאוחסנים נתוני Microsoft 365 הלקוח](https://docs.microsoft.com/office365/enterprise/o365-data-locations)שלך .

@@ -1,5 +1,5 @@
 ---
-title: פריסה ועדכון של יישומי Microsoft 365 עם יועץ מנהל התצורה
+title: פריסה ועדכון של Microsoft 365 עם יועץ מנהל התצורה
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004212"
 - "7416"
-ms.openlocfilehash: fdccf53de04b5a92c2bc4c526d7485ed5ba27704
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 03c4b88ad4d962681cb71f39bf793500585dc0ff24b38f47890547781fc25f80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51122880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914220"
 ---
-# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a>פריסה ועדכון של יישומי Microsoft 365 עם יועץ מנהל התצורה
+# <a name="deploy-and-update-microsoft-365-apps-with-configuration-manager-advisor"></a>פריסה ועדכון של Microsoft 365 עם יועץ מנהל התצורה
 
-עבור ארגונים באמצעות מנהל התצורה, באפשרותך להשתמש [ביישומי הפריסה והעדכון של microsoft 365 באמצעות יועץ מנהל התצורה](https://go.microsoft.com/fwlink/?linkid=2146549) כדי ליצור קובץ script שיגדיר באופן אוטומטי את הפריסה של יישומי microsoft 365 באמצעות שיטות עבודה מומלצות המומלצות על-ידי מהנדסי FastTrack.
+עבור ארגונים המשתמשים במנהל התצורה, באפשרותך להשתמש ב- [Deploy and update יישומי Microsoft 365 עם יועץ מנהל](https://go.microsoft.com/fwlink/?linkid=2146549) התצורה כדי ליצור קובץ Script שיגדיר באופן אוטומטי את פריסת יישומי Microsoft 365 באמצעות שיטות עבודה מומלצות על-ידי מהנדסי FastTrack.
 
-השתמש במדריך זה כדי לבנות את קבוצות הפריסה שלך, להתאים אישית את היישומים והתכונות של Office, לקבוע את התצורה של התקנות דינמיות או מתקנות של התקנים דינאמיים ולאחר מכן להפעיל את קובץ ה-script כדי ליצור את היישומים, כללי הפריסה האוטומטיים ואוספי המכשירים
+השתמש במדריך זה כדי לבנות את קבוצות הפריסה שלך, להתאים אישית את Office היישומים והתכונות שלך, לקבוע תצורה של התקנות דינאמיות או רזות ולאחר מכן להפעיל את קובץ ה- Script כדי ליצור את היישומים, כללי הפריסה האוטומטית ואוספים של המכשירים שתצטרך לייעד את הפריסה.

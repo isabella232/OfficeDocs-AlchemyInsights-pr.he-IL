@@ -1,5 +1,5 @@
 ---
-title: הקשת CTRL + H מציגה חיפוש, לא החלפה ב-Excel 2016
+title: CTRL+H מציג חיפוש, ולא החלפה Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 8f141fdebbba0789a406dd18c56c16c9b2522d58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69aa31b488e268507f0d091eaa6d06c966d38ca3a7a9d099b10886e1954b956b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914724"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H מציג חיפוש, לא החלפה ב-Excel
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL+H מציג חיפוש, ולא החלפה Excel
 
-ב-Excel 2016, הקשה על CTRL + H פותחת את תיבת הדו חיפוש והחלפה ומציגה את הכרטיסיה חיפוש, במקום את הכרטיסיה החלפה. לחיצה על החלף בכרטיסיה ' בית ' מבצעת את אותו הדבר. בעיה זו תוקנה בגירסה 1708 (8431.2094). כדי לתקן זאת, עדכן לגירסה העדכנית ביותר של Office. בחר **File** עדכון \> **Account** \> **אפשרויות עדכון** של חשבון קובץ \> **כעת**.
+בתיבת Excel 2016, הקשה על CTRL+H פותחת את תיבת הדו-שיח חיפוש והחלפה ומציגה את הכרטיסיה חיפוש, במקום הכרטיסיה החלפה. לחיצה על החלפה בכרטיסיה בית עושה את אותו הדבר. בעיה זו תוקנה בגירסה 1708 (8431.2094). כדי לפתור בעיה זו, עדכן לגירסה העדכנית ביותר של Office. בחר **אפשרויות עדכון** \> **של** חשבון קובץ \>  \> **עדכן כעת.**
   
