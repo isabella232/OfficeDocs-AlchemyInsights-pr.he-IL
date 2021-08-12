@@ -1,5 +1,5 @@
 ---
-title: תוצאות ביקורת ריקות
+title: תוצאות הביקורת ריקות
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917712"
 ---
-# <a name="auditing-results-are-blank"></a>תוצאות ביקורת ריקות
+# <a name="auditing-results-are-blank"></a>תוצאות הביקורת ריקות
 
- **דוחות ביקורת עבור אתרים קלאסיים**
+ **ביקורת דוחות עבור אתרים קלאסיים**
   
-כדי להציג דוח ביקורת עבור אוסף אתרים של SharePoint, עליך להיות מנהל מערכת עבור אוסף האתרים. כדי להוסיף את עצמך כמנהל מערכת, ראה [הוספת מנהלי אוסף אתרים כמנהל כללי או כמנהל SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). לקבלת מידע אודות עבודה עם יומן הביקורת, ראה [הצגת דוחות של יומן ביקורת](https://go.microsoft.com/fwlink/?linkid=395237). 
+כדי להציג הדוח ביקורת עבור SharePoint אתרים, עליך להיות מנהל מערכת עבור אוסף האתרים. כדי להוסיף את עצמך כמנהל מערכת, [ראה הוספת מנהלי אוסף אתרים כמנהל](https://go.microsoft.com/fwlink/?linkid=869390)מערכת כללי או SharePoint מערכת . לקבלת מידע אודות עבודה עם יומן הביקורת, ראה [הצגת דוחות יומן ביקורת](https://go.microsoft.com/fwlink/?linkid=395237). 
   
  **חיפוש ביומן הביקורת**
   
-עליך להיות מנהל מערכת כללי כדי לעבוד עם יומן הביקורת [ &amp; במרכז תאימות האבטחה](https://protection.office.com). לפני שתתחיל, הפעל את רישום הביקורת. לאחר מכן, באפשרותך לבצע חיפוש ביומן ביקורת. 
+עליך להיות מנהל מערכת כללי כדי לעבוד עם יומן הביקורת במרכז [תאימות &amp; האבטחה](https://protection.office.com). לפני שתתחיל, הפעל רישום ביקורת. לאחר מכן, באפשרותך להפעיל חיפוש ביומן ביקורת. 
   
 [למד כיצד לחפש ביומן הביקורת](https://go.microsoft.com/fwlink/?linkid=708432).
   

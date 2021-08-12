@@ -1,5 +1,5 @@
 ---
-title: הפוך את Microsoft Bing למנוע החיפוש המוגדר כברירת מחדל
+title: הפוך את Microsoft Bing מנוע החיפוש המוגדר כברירת מחדל
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9289"
-ms.openlocfilehash: 96cf8e223921ef175a31cf0a55e7390d313a5478
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: e8d4e46da4dfb6b742452371cfd1b0054eb2a9118092821bcd7b66ef4121d02f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404854"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925490"
 ---
-# <a name="make-microsoft-bing-your-default-search-engine"></a>הפוך את Microsoft Bing למנוע החיפוש המוגדר כברירת מחדל
+# <a name="make-microsoft-bing-your-default-search-engine"></a>הפוך את Microsoft Bing מנוע החיפוש המוגדר כברירת מחדל
 
-כדי להפוך את Bing למנוע החיפוש המוגדר כברירת מחדל עבור Microsoft Edge , Google Chrome או Internet Explorer, בצע את ההוראות המופיעות במנוע החיפוש המוגדר [כברירת מחדל ב- Bing](https://go.microsoft.com/fwlink/?linkid=2148834).
+כדי להפוך Bing החיפוש המוגדר כברירת מחדל עבור Microsoft Edge, Google Chrome או Internet Explorer, בצע את ההוראות [המופיעות בתיבת הדו-שיח Bing מנוע החיפוש המוגדר כברירת מחדל.](https://go.microsoft.com/fwlink/?linkid=2148834)

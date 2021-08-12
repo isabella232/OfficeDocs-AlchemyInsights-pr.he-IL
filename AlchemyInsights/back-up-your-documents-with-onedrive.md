@@ -1,5 +1,5 @@
 ---
-title: גיבוי התיקיות 'מסמכים', 'תמונות' ו'שולחן עבודה' באמצעות OneDrive
+title: גבה את התיקיות 'מסמכים', 'תמונות' ו'שולחן עבודה' OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003078"
 - "5853"
-ms.openlocfilehash: 059432ade8db04355261e4611fc59d450d625ef3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bb7d1d0f1e5251c1943251d97991d9be18e9da5ae6c1a65ca7aa5eb32ba7dece
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917568"
 ---
-# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>גיבוי התיקיות 'מסמכים', 'תמונות' ו'שולחן עבודה' באמצעות OneDrive
+# <a name="back-up-your-documents-pictures-and-desktop-folders-with-onedrive"></a>גבה את התיקיות 'מסמכים', 'תמונות' ו'שולחן עבודה' OneDrive
 
-באפשרותך לגבות [את התיקיות החשובות](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057)  שלך (תיקיות שולחן העבודה, המסמכים והתמונות) במחשב Windows באמצעות גיבוי תיקיות OneDrive PC, כך שהן מוגנות וזמינים במכשירים אחרים. תכונה זו אינה זמינה עדיין עבור Mac.  
+באפשרותך לגבות [את התיקיות החשובות](https://support.office.com/article/d61a7930-a6fb-4b95-b28a-6552e77c3057) שלך (תיקיות שולחן העבודה, המסמכים והתמונות) במחשב Windows עם גיבוי תיקיות OneDrive PC, כך שהם מוגנים וזמינים במכשירים אחרים. תכונה זו אינה זמינה עדיין עבור Mac.  
 
-אם אתה מנהל IT הרוצה לנהל גיבוי תיקיות חשובות עבור ארגון, קיימת הדרכה לפריסה של העברת תיקיות ידועות ב- [OneDrive](https://docs.microsoft.com/onedrive/redirect-known-folders).
+אם אתה מנהל IT הרוצה לנהל גיבוי תיקיות חשובות עבור ארגון, קיימת הדרכה לפריסה [של OneDrive 'העברת תיקיה ידועה'.](https://docs.microsoft.com/onedrive/redirect-known-folders)

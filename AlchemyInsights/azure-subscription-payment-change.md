@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e5a0719aecc34dd3cbf0368ba3df3eed312997a392a87b220fbafc8b21b19aa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917604"
 ---
 # <a name="change-payment-information-in-azure"></a>שינוי פרטי תשלום ב- Azure
 
@@ -33,7 +33,7 @@ ms.locfileid: "51820719"
 **עדכון/שינוי/הסרה של כרטיס אשראי או חיוב קיים**
 
 1.היכנס לפורטל [Azure](https://portal.azure.com/) כמנהל [החשבון](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). חפש בניהול **עלויות + חיוב.**
-2.בחר **שיטות תשלום**. לחץ על כרטיס האשראי או החיוב ש רוצה לערוך. טופס כרטיס אשראי יופיע ב- 3.עדכן את פרטי כרטיס האשראי או החיוב. בחר **שמור**.
+2.בחר **שיטות תשלום**. לחץ על כרטיס האשראי או החיוב ש רוצה לערוך. טופס כרטיס אשראי יופיע ב- 3.עדכן את פרטי כרטיס האשראי או החיוב. לחץ **שמור**.
 4.To **הסר**, בדוק את התיבה לצד הכרטיס שברצונך להסיר 5.לחץ על **מחק**
 
 _הערה:_ לא ניתן להסיר את כרטיס האשראי שלך אם הוא משויך למנויים פעילים אחרים של Microsoft. יהיה עליך להסיר את כרטיס האשראי מכל המנויים הפעילים שיש לך עם Microsoft ולנסות שוב.

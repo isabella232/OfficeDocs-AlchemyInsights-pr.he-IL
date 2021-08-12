@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 711d70def6281d67118c1fe5a1729174f4a6ff74
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9cd70f3be9ec2925e3796a74582ca8adc3d5142e657be38b95e694e43db670c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925526"
 ---
 # <a name="mailbox-quota-exceeded"></a>חריגה ממיכסת תיבת דואר
 
@@ -29,6 +29,6 @@ ms.locfileid: "51795589"
 
 3. ב- Android, באפשרותך לרוקן את תיקיות האשפה שלך בלחיצה אחת. עבור ישירות אל תיקיית האשפה והקש על **אשפה ריקה.** 
 
-4. שמור את הקבצים המצורפים שלך ב- OneDrive כדי שהם לא יאוחסנו בתיבת הדואר שלך. ראה [מגבלות אחסון Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) לקבלת מידע נוסף. 
+4. שמור את הקבצים המצורפים OneDrive כך שהם לא יאוחסנו בתיבת הדואר שלך. לקבלת מידע נוסף, ראה Outlook אחסון ב- [Outlook.com.](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) 
 
-אם אתה משתמש ב- Microsoft 365, ייתכן שתתבקש גם להגדיל את תיבת הדואר של מנהל ה- IT שלך.
+אם אתה משתמש Microsoft 365, ייתכן שתתבקש גם להגדיל את תיבת הדואר של מנהל ה- IT שלך.
