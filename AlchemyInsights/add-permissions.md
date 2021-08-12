@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7783"
-ms.openlocfilehash: b749278dc8e532ca723da5e6d8e4affc9a9266c7
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 02901b25ca9cd373d1e158cffdffb820b9ba7bb55c90a56aae57807a2e932192
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901154"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935734"
 ---
 # <a name="add-permissions"></a>הוספת הרשאות
 
-1. השתמש בנקודת הקצה של הסכמה למנהלי מערכת כדי [לקבוע את התצורה של רשימת ההרשאות המבוקשות סטטית עבור יישום](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#to-configure-the-list-of-statically-requested-permissions-for-an-application).
-1. קיימות שתי הרשאות זמינות להענקת היכולת ליצור רישומי יישומים, כל אחת מהן עם אופן פעולה שונה. לקבלת מידע נוסף, ראה [הרשאות לרישום יישומים עבור תפקידים מותאמים אישית ב-תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions).
-1. [הרשאות תפקיד](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference#role-permissions): טבלאות המתארות את ההרשאות הספציפיות ב-תכלת Active Directory הניתנות לכל תפקיד. חלק מהתפקידים עשויים לכלול הרשאות נוספות ב-Microsoft services מחוץ ל-תכלת Active Directory.
+1. השתמש בנקודות הקצה של הסכמת מנהל המערכת [כדי לקבוע את התצורה של רשימת ההרשאות המבוקשות באופן סטטי עבור יישום](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#to-configure-the-list-of-statically-requested-permissions-for-an-application).
+1. יש שתי הרשאות זמינות להענקת היכולת ליצור רישומי יישומים, כל אחת עם אופן פעולה שונה. לקבלת מידע נוסף, ראה [הרשאות רישום יישומים עבור תפקידים מותאמים אישית ב- Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions).
+1. [הרשאות תפקיד:](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference#role-permissions)טבלאות המתארות את ההרשאות הספציפיות ב- Azure Active Directory שניתן לכל תפקיד. ייתכן שלתפקידים מסוימים יש הרשאות נוספות שירותי Microsoft מחוץ ל- Azure Active Directory.

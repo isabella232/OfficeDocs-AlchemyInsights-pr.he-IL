@@ -1,5 +1,5 @@
 ---
-title: קריאה בלבד עבור הודעת תחזוקה בעת ניסיון להשתמש ב-SharePoint או ב-OneDrive
+title: Read-Only עבור הודעת תחזוקה בעת ניסיון להשתמש ב- SharePoint או OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910547"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>קריאה בלבד עבור הודעת תחזוקה בעת ניסיון להשתמש ב-SharePoint או ב-OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only עבור הודעת תחזוקה בעת ניסיון להשתמש ב- SharePoint או OneDrive
 
-המשתמשים יכולים לקבל הודעת **תחזוקה לקריאה בלבד** בעת ניסיון להשתמש ב-SharePoint או ב-OneDrive עבור אחד מהתרחישים הבאים. 
+המשתמשים עשויים לקבל הודעת קריאה בלבד עבור **תחזוקה** בעת ניסיון להשתמש ב- SharePoint או OneDrive עבור אחד מהתרחישים הבאים. 
 
--   פעילות תחזוקה מתוכננת או פעילה.  חפש אותם על-ידי ניווט [למרכז ההודעות](https://portal.office.com/adminportal/home#/messagecenter).
--   אירוע בעדיפות גבוהה, שירות פעיל שעשוי להתרחש. חפש את כל העלונים/האירועים המפורטים על-ידי ניווט [לתקינות השירות](https://portal.office.com/adminportal/home#/servicehealth).
--   תרחיש שחזור מקטין לריפוי אוטומטי שעשוי להתרחש עקב אירועים בלתי צפויים בשרתים שעשויים להימשך פחות מ-30 דקות. 
+-   פעילות תחזוקה מתוכננת או פעילה.  בדוק אותם על-ידי ניווט אל מרכז [ההודעות](https://portal.office.com/adminportal/home#/messagecenter).
+-   מקרה שירות פעיל בעדיפות גבוהה שעלול להתרחש. בדוק אם תשובות/אירועים על-ידי ניווט אל [תקינות השירות.](https://portal.office.com/adminportal/home#/servicehealth)
+-   תרחיש שחזור תיקון אוטומטי משני שעשוי להתרחש עקב אירועים בלתי צפויים בשרתים שעשויים ללדת פחות מ- 30 דקות. 
     
-    אין מרכז הודעות או הודעות תקינות של שירות עבור שחזורים משניים אלה, אך אתה אמור לחזור לשגרה בקרוב מאוד.
+    אין פרסומים של מרכז ההודעות או תקינות השירות עבור שחזורים משניים אלה, אך עליך לחזור למצב הרגיל בקרוב מאוד.
 
-במקרים מעטים מאוד שמנו לב שאחד משלושת התרחישים המפורטים לעיל היה הגורם לכך, והשירות שוחזר, אך מטמון הדפדפן של המשתמשים לא נוקה.
+בהזדמנויות מעטות מאוד הבחנו שאחד משלושת התרחישים המפורטים לעיל היה הגורם, והשירות שוחזר, אך מטמון הדפדפן של המשתמשים לא נוקה.
 
 נסה לנקות את מטמון הדפדפן לפני הניווט לאתר.
 
-1. בדפדפן Microsoft Edge, בחר **הגדרות**ולאחר מכן בחר באפשרות **פרטיות ואבטחה**.
-2. תחת **נקה גלישה**, בחר **באפשרות בחר מה לנקות**.
-3. בחר **קבצי cookie ונתוני אתר אינטרנט שנשמרו**ולאחר מכן בחר **נקה**.
+1. בדפדפן Microsoft Edge, בחר **הגדרות** ולאחר מכן בחר **פרטיות ואבטחה**.
+2. תחת **נקה גלישה**, בחר בחר מה **לנקות**.
+3. בחר **קבצי Cookie ותוני אתר אינטרנט שנשמרו** ובחר **נקה**.
 
 >[!Note] 
 > שלבים אלה עשויים להיות שונים בעת שימוש בדפדפנים אחרים כגון Mozilla Firefox או Google Chrome.
 
 >[!Note] 
-> אפשרות נוספת היא לפתוח את אתר SharePoint או את OneDrive בחלון Inprivate חדש.
+> אפשרות נוספת תהיה לפתוח את אתר SharePoint או OneDrive בחלון InPrivate חדש.

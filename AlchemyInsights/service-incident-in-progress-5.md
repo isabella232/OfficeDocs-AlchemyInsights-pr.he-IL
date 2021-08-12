@@ -19,19 +19,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: d2f3d1f75c61100b3b3892d286db7af91a618ba2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea17addde1b98b6f8b33909e126078266992a55e7eb6932443fc8f9d213c04a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061361"
 ---
 # <a name="service-incident-in-progress"></a>אירוע שירות מתבצע
 
-ייתכן שיושפעת מאירוע שירות או ממייעצת שנחקר כעת. באפשרותך לבדוק את המצב העדכני ביותר על-ידי מעבר לדף [תקינות השירות](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+ייתכן שתקרית שירות או עלון יידוע עשויים להיות מושפעים ממך כעת. באפשרותך לבדוק את המצב העדכני ביותר על-ידי מעבר לדף [תקינות](https://admin.microsoft.com/adminportal/home#/servicehealth) השירות.
   
 לנוחיותך, תוכל למצוא סיכום של אירוע זה להלן:
   
-> **מספר תקרית:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **מספר אירוע:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> תיאור ההשפעה: {ImpactDescription}
+> תיאור השפעה: {ImpactDescription}

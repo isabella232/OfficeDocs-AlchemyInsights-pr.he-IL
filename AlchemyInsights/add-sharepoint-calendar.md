@@ -1,5 +1,5 @@
 ---
-title: הוספת לוח שנה של SharePoint
+title: הוספת לוח שנה SharePoint לוח שנה
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0694d68be73eb7b3cf46b933a3fd263800b82f7657823703b2a6bf175eca6409
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822348"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935158"
 ---
-# <a name="add-a-sharepoint-calendar"></a>הוספת לוח שנה של SharePoint
+# <a name="add-a-sharepoint-calendar"></a>הוספת לוח שנה SharePoint לוח שנה
 
-לוחות שנה של SharePoint הם סוגי רשימה קלאסיים שלפעמים מבולבלים עם לוחות שנה קבוצתיים של Microsoft 365.
+SharePoint לוחות שנה הם סוגי רשימה קלאסיים שלפעמים מבולבלים Microsoft 365 לוחות שנה קבוצתיים.
  
-כדי ליצור לוח שנה של SharePoint, בצע את הפעולות הבאות:
+כדי ליצור לוח שנה SharePoint, בצע את הפעולות הבאות:
  
-1.  בחר את **סמל** גלגל השיניים הגדרות ולאחר מכן **בחר הוסף יישום**.
+1.  בחר את **הגדרות** גלגל השיניים ולאחר מכן בחר **הוסף יישום**.
 2.  בתיבת **החיפוש חפש יישום,** הקלד **לוח שנה** והקש Enter.
 3.  בחר את האפליקציה בשם **לוח** שנה ולאחר מכן הזן שם עבור לוח השנה שלך.
 
-לקבלת מידע נוסף אודות קבוצות Microsoft 365, ראה [מידע על קבוצות Microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+לקבלת מידע נוסף אודות Microsoft 365, ראה [מידע על Microsoft 365 קבוצות](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 
