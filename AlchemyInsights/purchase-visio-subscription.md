@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: e42352ff36b5cf5e8b514cef96f84ef6c19d0240
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a908e7887512e78fdd8fc51e4c973989a742265c07eac1731f4d658231cd29e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943484"
 ---
 # <a name="purchase-visio-subscription"></a>רכישת מנוי של Visio
 
-מנהלי מערכת יכולים לרכוש את מנוי Visio עבור הארגון שלהם ממרכז הניהול **של Microsoft 365**.
+מנהלי מערכת יכולים לרכוש את Visio עבור הארגון שלהם מתוך **מרכז הניהול של Microsoft 365.**
 
-1. עבור אל הדף **שירותי**  >  **[רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433)** לחיוב כדי להציג מנויים זמינים לרכישה עבור הארגון שלך.
+1. עבור אל דף **חיוב** > **[שירותי רכישה](https://go.microsoft.com/fwlink/p/?linkid=868433)** כדי להציג את המנויים הזמינים לרכישה עבור הארגון שלך.
 
 2. אתר את תוכניות Visio על-ידי חיפוש ב- "Visio".
 
