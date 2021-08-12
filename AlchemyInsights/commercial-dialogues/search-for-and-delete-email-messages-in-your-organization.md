@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: e935b10083459b81fc58e12bb59c9511defefa6d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bd25d9bb2af8114786503e129de105c9a0f602c98b206f01770605d1957e3a1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746434"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948884"
 ---
 # <a name="search-for-and-delete-email-messages-in-your-organization"></a>חיפוש ומחיקה של הודעות דואר אלקטרוני בארגון שלך
 
 בצע שלבים אלה:
 
-1. אם אינך מנהל מערכת כללי, כדי לחפש הודעות יש להוסיף את החשבון שלך **לקבוצת התפקידים ' מנהל גילוי אלקטרוני** ' או **לתפקיד ניהול חיפוש התאימות**. כדי למחוק הודעות, יהיה עליך להצטרף **לקבוצת התפקידים ' ניהול ארגון** ' או **לתפקיד הניהול ' חיפוש וניקוי**'. הרשאות לתפקידים אלה מוקצות [במרכז התאימות של אבטחה &.](https://protection.office.com)
-2. [צור חיפוש תוכן](https://docs.microsoft.com/office365/securitycompliance/content-search) כדי לאתר את ההודעה שברצונך למחוק.
-3. [התחבר אל מרכז התאימות של אבטחה & PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell). אם אתה משתמש במרכז המדינה, ראה הוראות אלה: [התחברות לאבטחה & מרכז התאימות של PowerShell באמצעות אימות רב-גורמי](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell)
-4. מחק את ההודעה: הפעיל את ה `New-ComplianceSearchAction` -cmdlet כדי למחוק את ההודעה. הודעות שנמחקו מועברות לתיקיה ' פריטים הניתנים לשחזור ' של משתמש. לקבלת פקודה לדוגמה, ראה [שלב 3: מחיקת ההודעה.](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messages-in-your-organization)
+1. אם אינך מנהל מערכת כללי, כדי לחפש הודעות יש להוסיף את החשבון שלך לקבוצת התפקידים **מנהל** גילוי אלקטרוני או לתפקיד **ניהול חיפוש תאימות**. כדי למחוק הודעות, יהיה עליך להצטרף לקבוצת **התפקידים 'ניהול ארגוני'** או לתפקיד ניהול **חיפוש ומחיקה.** הרשאות לתפקידים אלה מוקצות במרכז האבטחה [& תאימות.](https://protection.office.com)
+2. [צור חיפוש תוכן כדי](https://docs.microsoft.com/office365/securitycompliance/content-search) למצוא את ההודעה למחיקה.
+3. [התחברות ל- PowerShell & האבטחה של מרכז התאימות.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell) אם אתה משתמש ב- MFA, עיין בהוראות אלה: [התחברות אל מרכז & תאימות של PowerShell באמצעות אימות רב-גורמי](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell)
+4. מחק את ההודעה: הפעל את `New-ComplianceSearchAction` ה- cmdlet כדי למחוק את ההודעה. הודעות שנמחקו מועברות לתיקיה 'פריטים הניתנים לשחזור' של משתמש. לקבלת פקודה לדוגמה, ראה [שלב 3: מחיקת ההודעה.](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messages-in-your-organization)

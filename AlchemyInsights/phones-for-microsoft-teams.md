@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1786"
 - "9000170"
-ms.openlocfilehash: 3a8b6979d949bdb9ffe7228ebd289fe883104bf3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 40f6e8c6c8c271936bd33ae01d882bbcc2d40560e8fbe5b06bf9d12788f116d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836028"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911807"
 ---
 # <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>האם אתה מחפש טלפונים התואמים ל- Teams?
 
-כמנהל מערכת, אתה [מנהל את כל המכשירים](https://docs.microsoft.com/microsoftteams/device-management) המשמשים עם Teams בארגון שלך ממרכז הניהול של Microsoft 365. לקבלת מידע נוסף: 
+כמנהל מערכת, אתה [מנהל את כל המכשירים](https://docs.microsoft.com/microsoftteams/device-management) Teams בארגון שלך מתוך מרכז הניהול של Microsoft 365. לקבלת מידע נוסף: 
 
 - סקור את רשימת [הטלפונים עבור Microsoft Teams](https://docs.microsoft.com/microsoftteams/phones-for-teams). 
 - סקור את רשימת [מכשירי ה- IP המאושרים כעת.](https://docs.microsoft.com/microsoftteams/teams-ip-phones#currently-certified-ip-phones) 
