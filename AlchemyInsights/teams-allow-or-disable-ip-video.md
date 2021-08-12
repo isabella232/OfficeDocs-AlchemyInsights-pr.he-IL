@@ -1,5 +1,5 @@
 ---
-title: Teams מאפשר או הופך וידאו IP ללא זמין
+title: Teams לאפשר או להפוך וידאו IP ללא זמין
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ad60225e5deee4a37831a3145d37916c9ce849f9f4cf475dce4c9a6210f83af9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940640"
 ---
-# <a name="teams-allow-or-disable-ip-video"></a>Teams מאפשר או הופך וידאו IP ללא זמין
+# <a name="teams-allow-or-disable-ip-video"></a>Teams לאפשר או להפוך וידאו IP ללא זמין
 
 **שינוי או יצירה של מדיניות פגישה**
 
-כדי לשנות או ליצור מדיניות פגישה, עבור אל מרכז הניהול **של Microsoft Teams > פגישות > מדיניות פגישה**. בחר מדיניות מהרשימה או בחר **הוספה**. אם אתה יוצר מדיניות חדשה, הוסף שם ותיאור. השם אינו יכול להכיל תווים מיוחדים או להיות ארוך מ-64 תווים. בחר בהגדרות ולאחר מכן לחץ על **שמירה**.
+כדי לשנות או ליצור מדיניות פגישה, עבור **אל Microsoft Teams הניהול של > פגישות > מדיניות פגישה**. בחר מדיניות מהרשימה או בחר **הוספה**. אם אתה יוצר מדיניות חדשה, הוסף שם ותיאור. השם אינו יכול להכיל תווים מיוחדים או להיות ארוך מ-64 תווים. בחר בהגדרות ולאחר מכן לחץ על **שמירה**.
 
 לדוגמה, אמור שיש לך משתמשים רבים וברצונך להגביל את כמות רוחב הפס שדרושה לפגישה שלהם. תוכל ליצור מדיניות מותאמת אישית חדשה בשם "רוחב פס מוגבל", ולבטל את ההגדרות הבאות:
 
@@ -40,4 +40,4 @@ ms.locfileid: "51826344"
 2. בחר את המשתמש על-ידי לחיצה מימין לשם המשתמש ולאחר מכן לחץ על **ערוך הגדרות**.
 3. תחת **מדיניות פגישה**, בחר את המדיניות שברצונך להקצות ולאחר מכן לחץ על **החל**.
 
-לקבלת מידע נוסף, ראה [ניהול מדיניות פגישה ב- Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+לקבלת מידע נוסף, ראה [ניהול מדיניות פגישה ב- Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)

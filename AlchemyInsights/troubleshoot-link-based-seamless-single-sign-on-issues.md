@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות של כניסה יחידה (SSO) חלקה מבוססת קישור
+title: פתרון בעיות כניסה יחידה (SSO) מבוססות קישור
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50693761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972861"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>פתרון בעיות של כניסה יחידה (SSO) חלקה מבוססת קישור
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>פתרון בעיות כניסה יחידה (SSO) מבוססות קישור
 
-רוב המשתמשים יכולים לפתור את בעיית הכניסה היחידה (SSO) המבוססת על הקישור שלהם באמצעות השלבים הבאים:
+רוב המשתמשים יכולים לפתור את בעיית כניסה יחידה חלקה (SSO) המבוססת על קישור באמצעות השלבים הבאים:
 
-**למד אודות SSO מקושר**: [הכרת כניסה מקושרת](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) -האפשרות ' מקושר ' מאפשרת לך לקבוע את התצורה של מיקום היעד כאשר המשתמש בוחר את היישום ביישומים או בפורטל Office 365 של הארגון שלך. מאמר זה מוביל לפרטים נוספים אודות האפשרות ' מקושר '.
+**למד אודות SSO מקושר:** הבנת כניסה [מקושרת](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) - האפשרות מקושרת מאפשרת לך לקבוע את התצורה של מיקום היעד כאשר משתמש בוחר את היישום באפליקציות שלי של הארגון שלך או בפורטל Office 365 שלך. מאמר זה מפורט יותר לגבי האפשרות המקושרת.
 
 **קביעת תצורה של SSO מקושר**: [קביעת תצורה של קישור](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**קבל עזרה**: [Microsoft Q&שליחת בקשות לתכונות](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) ושאלות טכניות לגבי כניסה יחידה מבוססת קישור (SSO) בשלבי פיתוח של תכלת active Directory &.
+**קבלת עזרה**: [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) - שלח בקשות לתכונה ושאלות טכניות אודות כניסה יחידה מבוססת קישור (SSO) בפיתוח Azure Active Directory &.
