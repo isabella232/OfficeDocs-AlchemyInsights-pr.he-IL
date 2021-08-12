@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "9200"
-ms.openlocfilehash: 23fed786e7b33adf0b6c76fc71a7e69f2cfcceb7
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 078f5798533dfbbf97858f305729f103663644fee3590cdcc877233041adae81
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404870"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932062"
 ---
 # <a name="api-permissions-and-consent-process"></a>הרשאות API ותהליך הסכמה
 
-כדי שהאפליקציות שלך לגשת לנתונים ב- Microsoft Graph, המשתמש או מנהל המערכת חייבים להעניק להם את ההרשאות הנכונות באמצעות תהליך הסכמה. [הפניה להרשאות Microsoft Graph מפרטת](https://docs.microsoft.com/graph/permissions-reference) את ההרשאות המשויכות לכל קבוצה ראשית של ממשקי API של Microsoft Graph. הוא מספק גם הדרכה לגבי אופן השימוש בהרשאות.
+כדי שהאפליקציות שלך לגשת לנתונים ב- Microsoft Graph, המשתמש או מנהל המערכת חייבים להעניק לו את ההרשאות הנכונות באמצעות תהליך הסכמה. [חומר Graph של Microsoft מפרט](https://docs.microsoft.com/graph/permissions-reference) את ההרשאות המשויכות לכל קבוצה ראשית של ממשקי api Graph Microsoft. הוא מספק גם הדרכה לגבי אופן השימוש בהרשאות.
 
 **הגדרה או עדכון של מנהל שירות**
 
@@ -34,4 +34,4 @@ ms.locfileid: "51404870"
 - [יצירת רישום אפליקציה](https://docs.microsoft.com/graph/api/application-post-applications) - מאמר זה מראה לך כיצד ליצור אובייקט יישום חדש.
 - [עדכון רישום אפליקציה - הרשאות API](https://docs.microsoft.com/graph/api/application-update) - מאמר זה מראה לך כיצד לעדכן את המאפיינים של אובייקט יישום.
 - [ספק הסכמת מנהל מערכת](https://docs.microsoft.com/graph/security-authorization#grant-permissions-to-an-application) - לקבלת הסכמת מנהל מערכת והסכמה באופן כללי, אנו דורשים מנהל מערכת מעניק הסכמה באופן מפורש.
-- [RBAC (beta)](https://docs.microsoft.com/graph/api/resources/rbacapplicationmultiple) - גורם מכיל לניהול תפקידים עבור הגדרות תפקיד מאוחדות והקצאות תפקיד עבור ספקי RBAC של Microsoft 365 התומכים במספר מנהלים וטווחים מרובים בהקצאת תפקיד בודדת. פעולה זו שונה מסוג *המשאב rbacApplication.* Microsoft Intune הוא דוגמה של ספק RBAC כזה. הקצאת תפקיד ב- Intune יכולה לכוללים מערך של מנהלים ומערך של קבוצות טווח. **אפשרות זו נמצאת בגירסת ביתא, כלומר שהיא עדיין בפיתוח ולא מומלצת לשימוש בייצור.**
+- [RBAC (beta)](https://docs.microsoft.com/graph/api/resources/rbacapplicationmultiple) - גורם מכיל לניהול תפקידים עבור הגדרות תפקיד מאוחדות והקצאות תפקידים עבור ספקי Microsoft 365 RBAC התומכים במספר מנהלים ובטווחים מרובים בהקצאת תפקיד בודדת. פעולה זו שונה מסוג *המשאב rbacApplication.* Microsoft Intune היא דוגמה של ספק RBAC כזה. הקצאת תפקיד ב- Intune יכולה לכוללים מערך של מנהלים ומערך של קבוצות טווח. **אפשרות זו נמצאת בגירסת ביתא, כלומר שהיא עדיין בפיתוח ולא מומלצת לשימוש בייצור.**

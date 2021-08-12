@@ -1,5 +1,5 @@
 ---
-title: הגדרת תכלת Active Directory
+title: הגדרת Azure Active Directory
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958190"
 ---
-# <a name="set-up-azure-active-directory"></a>הגדרת תכלת Active Directory
+# <a name="set-up-azure-active-directory"></a>הגדרת Azure Active Directory
 
-[מדריך ההגדרה של תכלת AD](https://go.microsoft.com/fwlink/?linkid=2134390) מספק מידע כדי להבטיח שהארגון שלך כולל קרן אבטחה חזקה. במדריך זה תגדיר את התכונות הראשוניות, כגון תכלת בקרת גישה מבוססת תפקידים (תכלת RBAC) עבור מנהלי מערכת, מחבר תכלת לספירה עבור מדריך הכתובות המקומי שלך, והתכלת לספירה התחבר לתקינות, כדי שתוכל לנטר את תקינות הזהות ההיברידית במהלך סינכרון אוטומטי.
+מדריך [ההגדרה של Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) מספק מידע כדי להבטיח שלארגון שלך יש בסיס אבטחה חזק. במדריך זה תגדיר תכונות ראשוניות, כמו בקרת גישה מבוססת תפקידים של Azure (Azure RBAC) עבור מנהלי מערכת, Azure AD התחברות עבור מדריך הכתובות המקומי ו- Azure AD התחברות Health, כדי שתוכל לנטר את תקינות הזהות ההיברידית שלך במהלך סינכרונים אוטומטיים.
 
-הוא כולל גם מידע חיוני להפיכת סיסמאות בשירות עצמי לזמינה, גישה מותנית וכניסה משולבת של ספקים חיצוניים, כולל הגנה על זהויות מתקדמת אופציונלית ואוטומציה של הקצאת משתמשים.
+הוא כולל גם מידע חיוני על הפיכת איפוס סיסמאות בשירות עצמי לזמינים, גישה מותכת והכניסה משולבת של ספקים שלישיים, כולל הגנת זהות מתקדמת אופציונלית ואוטומציה של הקצאת משתמשים.

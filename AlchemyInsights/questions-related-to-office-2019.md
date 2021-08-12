@@ -1,5 +1,5 @@
 ---
-title: שאלות הקשורות ל-Office 2019
+title: שאלות הקשורות ל- Office 2019
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 9e14a18174d7bd5be5b64ecf1ee71befc3b96201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60136dd385320760595bd061b226f5649b2c6ca9953ea87aa743dcf4156759a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911087"
 ---
 # <a name="about-office-2019"></a>אודות Office 2019
 
-Office 2019 מיועד ללקוחות שאינם מוכנים עדיין לענן או שיש להם צורך ספציפי לפריסה מקומית או משולבת של Office. היא כוללת ערכת משנה בעלת משמעות של תכונות שכבר נוספו ל-Microsoft 365 במהלך שלוש השנים האחרונות, אך היא אינה מהווה חלק מ-Microsoft 365.
+Office 2019 הוא ללקוחות שאינם מוכנים עדיין לענן או שיש להם צורך ספציפי בפריסה מקומית או היברידית Office. הוא כולל קבוצת משנה משמעותית של תכונות שכבר נוספו לתכונות Microsoft 365 בשלוש השנים האחרונות, אך היא אינה חלק Microsoft 365.
   
-יישומי Microsoft 365 עבור enterprise, הגירסה המחוברת לענן של Office, מספקת את חוויית Office הפרודוקטיבית והמאובטחת ביותר. היא מספקת גישה לחבילת שירותים מעבר למה שלגירסאות המקומיות יש ומקבל עדכוני תכונות חדשים על בסיס קבוע.
+יישומי Microsoft 365 לארגונים, הגירסה המחוברת בענן של Office, מספקת את חוויית ה- Office והפרודוקטיבית ביותר. היא מספקת גישה לסוויטה של שירותים מעבר למה שיש לגירסאות המקומיות ומקבלת עדכוני תכונות חדשים באופן שוטף.
   
-לכן, אם יש לך את יישומי שולחן העבודה של Office כחלק ממנוי Microsoft 365 שלך, כבר יש לך את הגירסה העדכנית ביותר של Office.
+לכן, אם יש לך את Office שולחן העבודה שלך כחלק Microsoft 365 שלך, כבר יש לך את הגירסה העדכנית ביותר של Office.
   
 לקבלת מידע נוסף, ראה:
   
-[שאלות נפוצות אודות Windows ו-Mac עבור שאלות נפוצות בנושא Office 2019](https://support.microsoft.com/help/4133312)
+[Office 2019 Commercial for Windows ו- Mac שאלות נפוצות](https://support.microsoft.com/help/4133312)
   
-[מספר הגירסה הראשי של Office 2019 שוהה ב-16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[מספר הגירסה העיקרי של Office 2019 נשאר ב- 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[ייעוד השנה ב-Office 2016 ו-Microsoft 365 יישומי לקוח יוסרו מתוך ערכי תפריט התחלה](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[יינוי שנה Office 2016 ואפליקציות Microsoft 365 לקוח יוסרו מערכים תפריט התחלה אחרים](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

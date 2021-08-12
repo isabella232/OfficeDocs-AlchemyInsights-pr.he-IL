@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "9655"
-ms.openlocfilehash: 9dc3b1d54bb263d5e53e02a4e4dadc8cf3c1e400
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: cd7533f09ed8361e134b81979532cdebbf49971c54553a0172c7527f30e319bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51404774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951134"
 ---
 # <a name="app-registration-owner-issues"></a>בעיות של בעלים של רישום אפליקציה
 
@@ -40,4 +40,4 @@ ms.locfileid: "51404774"
 
 **לא ניתן להציג את היישום שלך בלהב 'רישומי אפליקציה' למרות שאתה הבעלים של יישום זה?**
 
-הבעלים של יישום אינו תפקיד ניהולי. אם ההגדרה [הגבל גישה לפורטל](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) הניהול של Azure AD זמינה, רק מנהל המערכת יוכל להציג את היישומים בפורטל רישום יישומים. כדי שהבעלים יוכל להציג את היישומים, הפוך הגדרה זו ללא זמינה (הגדר הגדרה זו ללא) או הקצה תפקיד מנהל מערכת לבעלים עבור היישום הספציפי בלבד. עם זאת, תדרוש רשיון Azure AD Premium P2 ותאפשר [ניהול זהויות מורשה.](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)
+הבעלים של יישום אינו תפקיד ניהולי. אם ההגדרה [הגבל גישה לפורטל](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions) הניהול של Azure AD זמינה, רק מנהל המערכת יוכל להציג את היישומים בפורטל רישום יישומים. כדי שהבעלים יוכל להציג את היישומים, הפוך הגדרה זו ללא זמינה (הגדר הגדרה זו ללא) או הקצה תפקיד מנהל מערכת לבעלים עבור היישום הספציפי בלבד. עם זאת, תדרוש רשיון Azure AD Premium P2 ותאפשר [Privileged Identity Management.](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)

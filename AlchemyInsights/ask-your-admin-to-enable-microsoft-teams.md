@@ -1,5 +1,5 @@
 ---
-title: בקש מ- מנהל המערכת שלך להפוך את Microsoft Teams לזמין
+title: בקש מ מנהל המערכת להפוך את Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8698136c5d5505bae0d38ca5d416ee0ca0e27461d92dc3b41ce029cb383abfb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950954"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>אתה מחמיץ! בקש מ- מנהל המערכת שלך להפוך את Microsoft Teams לזמין
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>אתה מחמיץ! בקש מ מנהל המערכת להפוך את Microsoft Teams
 
-אם יש לך דייר של EDU, עליך להפעיל את Microsoft Teams באופן ידני. לשם כך, עבור אל מרכז הניהול של Microsoft 365 >שירותים >  **Microsoft Teams**. אם אתה משתמש במרכז הניהול החדש של Teams, יהיה עליך לבטל את נסה את מרכז **הניהול החדש** כדי למצוא שירותים    **והרחבות**. 
+אם יש לך דייר של EDU, עליך להפעיל את Microsoft Teams באופן ידני. לשם כך, עבור אל מרכז הניהול של Microsoft 365 > **שירותים**> Microsoft Teams . אם אתה משתמש במרכז הניהול Teams החדש, יהיה עליך לבטל את נסה את מרכז **הניהול החדש** כדי למצוא שירותים    **והרחבות**. 
 
 **חשוב**: ייתכן שיהיה עליך להמתין עד 24 שעות כדי שהשינויים ייכנסו לתוקף.

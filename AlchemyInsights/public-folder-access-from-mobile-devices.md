@@ -13,16 +13,16 @@ ms.custom:
 - "634"
 - "3500007"
 ms.assetid: 3a0915f6-9f4e-4049-82e2-804a498e70ee
-ms.openlocfilehash: 8be6ae5faec7bf2703dcd4582c60e5d98d7f87af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31a18174c92716b1e94396fea9a772fc8f2d3e655142029247e6e99dae18b03a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911267"
 ---
 # <a name="public-folder-access-from-mobile-devices"></a>גישה לתיקיה ציבורית ממכשירים ניידים
 
-גישה לתיקיות ציבוריות אינה פועלת באמצעות מכשירים ניידים, השתמש ב-OWA (Outlook באינטרנט) או ב-Outlook עבור שולחן העבודה של Windows או ב-Outlook for Mac כדי לגשת לתיקיות ציבוריות.
+Access לתיקיות ציבוריות אינו פועל באמצעות מכשירים ניידים, השתמש ב- OWA (Outlook באינטרנט) או ב- Outlook עבור Windows או בלקוחות Outlook עבור Mac כדי לגשת לתיקיות ציבוריות.
 
-אם ברצונך ליצור פונקציונליות דומה לתיקיות ציבוריות ויש לך אפשרות לגשת לתוכן במכשירים ניידים, עיין [במידע אודות קבוצות Microsoft 365](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) לקבלת חלופה טובה יותר.
+אם אתה רוצה פונקציונליות דומה לתיקיות ציבוריות ויש לך תוכן נגיש במכשירים ניידים, עיין [ב'למד אודות Microsoft 365 קבוצות'](https://support.office.com/article/learn-about-office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2) לקבלת חלופה טובה יותר.
   
