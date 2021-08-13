@@ -1,5 +1,5 @@
 ---
-title: שימוש בפרופילי דואר אלקטרוני עם כוונון
+title: שימוש בפרופילי דואר אלקטרוני עם Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: b1653b73e7296e7eed411ae73c19342a1187b2eb7e287cff4339ea0ca32d75c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919424"
 ---
-# <a name="using-email-profiles-with-intune"></a>שימוש בפרופילי דואר אלקטרוני עם כוונון
+# <a name="using-email-profiles-with-intune"></a>שימוש בפרופילי דואר אלקטרוני עם Intune
 
-ניתן להשתמש ב-intune כדי ליצור ולפרוס פרופילי דואר אלקטרוני עבור לקוח הדואר האלקטרוני המוכלל (מוכלל) בפלטפורמות התקן מרובות.
+Intune יכול לשמש ליצירה ולפריסה של פרופילי דואר אלקטרוני עבור לקוח הדואר האלקטרוני המקורי (המוכלל) בפלטפורמות מכשירים מרובות.
 
-לקבלת מידע אודות חלק מההגבלות המשויכות לפרופילי דואר אלקטרוני, כולל אופן הטיפול בנוכחות פרופילים קיימים וכיצד להסיר פרופילי דואר אלקטרוני, ראה [הוספת הגדרות דואר אלקטרוני למכשירים באמצעות ' שימוש בעידון](https://docs.microsoft.com/intune/email-settings-configure)'.
+לקבלת מידע אודות חלק מההגבלות המשויכות לפרופילי דואר אלקטרוני, כולל האופן בו הנוכחות של פרופילים קיימים מטופלת ואופן הסרת פרופילי דואר אלקטרוני, ראה הוספת [הגדרות דואר אלקטרוני למכשירים באמצעות Intune](https://docs.microsoft.com/intune/email-settings-configure).
 
-לקבלת מידע נוסף אודות אופן היצירה של פרופילי דואר אלקטרוני עבור כל פלטפורמת מכשיר, ראה:
+לקבלת מידע נוסף אודות יצירת פרופילי דואר אלקטרוני עבור כל פלטפורמת מכשיר, ראה:
 
-[הגדרות התקן של Android לקביעת תצורה של דואר אלקטרוני, אימות וסינכרון בתוך המנגינה](https://docs.microsoft.com/intune/email-settings-android)  
-[הוספת הגדרות דואר אלקטרוני עבור מכשירי iOS ו-iPadOS ב-Microsoft intune](https://docs.microsoft.com/intune/email-settings-ios)  
-[הגדרות פרופיל דואר אלקטרוני ב-Microsoft intune עבור מכשירים שבהם פועל Windows Phone 8.1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
-[הגדרות פרופיל דואר אלקטרוני עבור מכשירים שבהם פועל Windows 10 ב-Microsoft intune](https://docs.microsoft.com/intune/email-settings-windows-10)
+[הגדרות מכשיר Android לקביעת התצורה של דואר אלקטרוני, אימות וסינכרון ב- Intune](https://docs.microsoft.com/intune/email-settings-android)  
+[הוספת הגדרות דואר אלקטרוני עבור מכשירי iOS ו- iPadOS ב- Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
+[הגדרות פרופיל דואר אלקטרוני ב- Microsoft Intune עבור מכשירים פועלים Windows Phone 8.1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
+[הגדרות פרופיל דואר אלקטרוני עבור מכשירים Windows 10 ב- Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
 
 **בעיית סינכרון נפוצה**
 
-**פרופיל הדואר האלקטרוני של נוקס ב-Android מונע מאנשי קשר, לוח שנה ומשימות של משתמשים, מלהיות מסתנכרן עם מכשירי משתמשים.**
+**פרופיל דואר אלקטרוני של KNOX ב- Android מונע סינכרון של אנשי קשר, לוח שנה ומשימות של משתמש למכשירי משתמש.**
 
-פרופיל הדואר האלקטרוני של נוקס ב-Android נוקס מציע למנהל את האפשרות להחליט אילו סוגי תוכן מסונכרנים למכשיר על-ידי הגדרת כל אחד מהם לזמין.
+פרופיל הדואר האלקטרוני של KNOX ב- Android KNOX מציע למנהל המערכת אפשרות להחליט אילו סוגי תוכן מסתנכרנים למכשיר על-ידי הגדרת כל אחד מהם לזמין.
 
-אם ההגדרה עבור כל אחד מסוגי התוכן מוגדרת ל- **לא נקבעה תצורה** (ברירת המחדל), סוג תוכן זה אינו מסתנכרן באופן אוטומטי. המשתמש עשוי להפוך את סוג התוכן לזמין ישירות במכשיר באופן ידני, אך תצורה זו מוחלפת על-ידי הגדרת המדיניות ' שינוי צורה ', והסינכרון מפסיק עבור סוג תוכן זה.
+אם ההגדרה עבור אחד מסוגי  התוכן מוגדרת כ'לא מוגדר' (ברירת המחדל), סוג תוכן זה אינו מסתנכרן באופן אוטומטי. משתמש עשוי להפוך את סוג התוכן הרצוי לזמין ישירות במכשיר באופן ידני, אך תצורה זו מוחלפת על-ידי הגדרת המדיניות Intune, והסינכרון מפסיק עבור סוג תוכן זה.
 
