@@ -1,5 +1,5 @@
 ---
-title: כיצד לשנות את השפה ב-Outlook.com
+title: כיצד לשנות שפה ב- Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 015912482c29766789bb23ae18a1a36353915746
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 662870da708a37d4e39fd0c783b580737a9d4c5cc5bb443322d517023bd938d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780852"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913284"
 ---
 # <a name="change-your-language"></a>שינוי השפה שלך
 
-1. כדי להציג את השפה ב-Outlook, עבור אל הגדרות [**שפה ושעה**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**הגדרות** \> **הצגת כל**  >  **General**  >  **ההגדרות של השפה והשעה הכלליים**של Outlook).
+1. כדי לשנות את השפה ב- Outlook, עבור אל הגדרות שפה [**וזמן**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**הגדרות** \> **הצג את כל Outlook כללי**  >    >  **שפה וזמן**).
 
 2. בחר את השפה שלך.
 
 3. לחץ **שמור**.
 
-לקבלת מידע נוסף, ראה [שינוי אזור הזמן והגדרות השפה ב-Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+כדי ללמוד עוד, ראה [שינוי הגדרות אזור הזמן והשפה ב- Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

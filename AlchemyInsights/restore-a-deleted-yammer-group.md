@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 96457eded837e68a79226c32632ea8632cde56c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a8730116b58bfa2eb8b6bdf118a9d316b01f74c18383652c3c58bda5be15a7b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798658"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958766"
 ---
 # <a name="restore-a-deleted-yammer-group"></a>שחזור קבוצת Yammer שנמחקה
 
-[ניתן לשחזר קבוצות מחוברות של Office 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) ב- Yammer תוך 30 יום מתאריך המחיקה על-ידי ביצוע השלבים לשחזור [קבוצה שנמחקה של Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
-במקרים מסוימים, ייתכן שקבוצה של Yammer לא תהיה מחוברת לקבוצה של Microsoft 365. במקרה זה, לא ניתן לשחזר את הקבוצה באופן אוטומטי, אך ייתכן שניתן לגשת לנתונים שנמחקו בייצוא הנתונים [של](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) Yammer אם מדיניות השמירה של נתוני הרשת מוגדרת למחיקה *רכה.* [](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) פנה למנהל [המערכת מאומת](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) עבור רשת Yammer שלך כדי לבדוק את מדיניות שמירת הנתונים או כדי לבצע ייצוא נתונים.
+[Office 365 קבוצות מחוברות ב- Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) ניתן לשחזר תוך 30 יום של מחיקה על-ידי ביצוע השלבים לשחזור [קבוצה Microsoft 365 שנמחקה.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
+במקרים מסוימים, Yammer לא מחוברת לקבוצה Microsoft 365. במקרה זה, לא [ניתן](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) לשחזר את הקבוצה באופן אוטומטי, אך ייתכן שניתן לגשת לנתונים שנמחקו בייצוא הנתונים של Yammer אם מדיניות השמירה [של נתוני](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) הרשת מוגדרת למחיקה *רכה*. פנה למנהל [המערכת מאומת](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) עבור Yammer כדי לבדוק את מדיניות שמירת הנתונים או כדי לבצע ייצוא נתונים.

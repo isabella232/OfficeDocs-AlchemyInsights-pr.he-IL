@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 7ae1291cce01d56db59dfd2ae21ba6a31ef1d5c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c61eac61c8cb516e61f5d0c71713bd48b2c943a8a6b4cbcfddafb81016b4780
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664207"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918866"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>בעיות בדואר זבל הדורשות להיות מ-LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>בעיות עם דואר זבל הטוען שהם מ- LinkedIn
 
-אם אתה מקבל דואר זבל שטוען שהוא מ-LinkedIn, באפשרותך ליצור כלל לסינון הודעות דואר אלקטרוני אלה.
-ראה [שימוש בכללי תיבת דואר נכנס ב-Outlook.com](https://aka.ms/OutlookComInboxRules) לקבלת מידע נוסף.
+אם אתה מקבל דואר זבל שטוען שהוא מ- LinkedIn, באפשרותך ליצור כלל כדי לסנן הודעות דואר אלקטרוני אלה.
+ראה [שימוש בכללי תיבת דואר נכנס ב- Outlook.com](https://aka.ms/OutlookComInboxRules) לקבלת מידע נוסף.
 
 
