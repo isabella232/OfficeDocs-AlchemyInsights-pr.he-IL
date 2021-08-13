@@ -1,5 +1,5 @@
 ---
-title: מחרוזת סוכן משתמשים של Microsoft Edge (שולחן העבודה)
+title: Microsoft Edge מחרוזת סוכן משתמש (שולחן עבודה)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678098"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976002"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>מחרוזת סוכן משתמשים של Microsoft Edge (שולחן העבודה)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge מחרוזת סוכן משתמש (שולחן עבודה)
 
-ניתן להשתמש במחרוזות של סוכן משתמשים (UA) כדי לזהות איזו גירסה של דפדפן ספציפי נמצאת בשימוש במערכת הפעלה מסוימת. בדומה לדפדפנים אחרים, Microsoft Edge כולל מידע זה בכותרת HTTP של ' משתמש-סוכן ' בכל פעם שהוא מבצע בקשה לאתר. ניתן גם לגשת למידע בגירסת הדפדפן באמצעות JavaScript על-ידי שאילתת הערך של "navigator. userAgent".
+ניתן להשתמש מחרוזות סוכן משתמש (UA) כדי לזהות איזו גירסה של דפדפן ספציפי נמצאת בשימוש במערכת הפעלה מסוימת. כמו דפדפנים אחרים, Microsoft Edge כולל מידע זה בכותרת HTTP "User-Agent" בכל פעם שהיא מגישה בקשה לאתר. ניתן לגשת למידע גירסת הדפדפן גם באמצעות JavaScript על-ידי ביצוע שאילתה על הערך של "navigator.userAgent".
 
-אנו ממליצים על מפתחי אינטרנט לבצע שימוש בזיהוי תכונות כאשר ניתן לשפר את הקוד maintainability, לצמצם את שברירות הקוד, ולמנוע את הסיכון לניתוק קוד במקרה של עדכוני מחרוזת בעתיד של UA.
+מומלץ שמפתחי אינטרנט ישתמשו בזיהוי תכונה בכל פעם שניתן לשפר את יכולת השמירה על הקוד, להפחית את שבריריות הקוד ולבטל את הסיכון של שבירה בקוד במקרה של עדכוני מחרוזות UA עתידיים.
 
-לקבלת מידע נוסף, ראה [מחרוזת סוכן משתמשים של Microsoft Edge (שולחן העבודה)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+לקבלת מידע נוסף, [ראה Microsoft Edge User Agent String (Desktop)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).

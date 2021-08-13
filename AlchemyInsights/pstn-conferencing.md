@@ -13,18 +13,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: e1461582b8aa88116c600559855d32e6115cdf03
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 028e4623b7db7c0ee7a8eaab2e8971587d8cf0318c7c918ba6621f0d57b116be
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828910"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943628"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>שיחות PSTN עם Skype for Business Online
 
-כדי לבצע שיחות PSTN ב- Microsoft 365, אתה זקוק לתוכנית שיחות [של Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) או לחיבור לתשתית הטלפוניה המקומית של PSTN. לקבלת פרטים נוספים, עיינו במקורות הבאים: 
+כדי לבצע שיחות PSTN Microsoft 365, עליך [לבצע Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) או חיבור לתשתית הטלפוניה המקומית של PSTN. לקבלת פרטים נוספים, עיינו במקורות הבאים: 
 
-- [זמינות המדינה והאזור עבור שיחות ועידה בשמע ותוכניות שיחות של Microsoft Teams](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [זמינות המדינה והאזור עבור שיחות ועידה בשמע Microsoft Teams שיחות](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
 - [שאלות נפוצות אודות שיחות ועידה בשמע](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [הוספת כספים וניהול נקודות זכות של תקשורת](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [מתקשרי PSTN לא יכולים להצטרף לשיחה של שיחת ועידה בחיוג ישיר של Skype for Business](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [מתקשרי PSTN לא יכולים להצטרף לשיחה Skype for Business שיחת ועידה בחיוג ישיר](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

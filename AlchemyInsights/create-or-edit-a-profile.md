@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba562c2a31fd39c86debc36c7520f1c3d27ac0c370894929b566147d965f3ad7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965390"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>יצירה או עריכה של פרופיל Outlook
+# <a name="create-or-edit-an-outlook-profile"></a>יצירה או עריכה של Outlook פרופיל
 
-כדי ליצור פרופיל Outlook חדש, לערוך פרופיל או לשנות שם של פרופיל, השתמש בשלבים הבאים.
+כדי ליצור פרופיל Outlook חדש, ערוך פרופיל או שנה שם של פרופיל, בצע את השלבים הבאים.
   
-1. ב-Outlook, **File** בחר \> **הגדרות חשבון** קובץ \> **ניהול פרופילים**.
+1. בתיבת Outlook, **בחר חשבון** קובץ \> **הגדרות** \> **ניהול פרופילים**.
     
-2. בתיבת הדו **הגדרת דואר** , בחר באפשרות **הציגו פרופילים**.
+2. מתוך תיבת **הדו-שיח** הגדרת דואר, **בחר הצג פרופילים**.
     
 3. בצע אחת מהפעולות הבאות:
     
   - כדי ליצור פרופיל חדש, בחר **הוסף**.
     
-  - כדי לערוך או לשנות שם של פרופיל, בחר **מאפיינים**.
+  - כדי לערוך או לשנות שם של פרופיל, **בחר מאפיינים**.
     
-אם אתה נתקל בבעיות ביצירה או בעריכה של פרופיל Outlook, באפשרותך להפעיל את [כלי הפרופיל של outlook](https://aka.ms/SaRA-OutlookSetupProfile) במחשב המושפע. הוא יבצע בדיקות מסוימות, וכשתהיה מוכן ליצור פרופיל Outlook עם כתובת הדואר האלקטרוני שלך. 
+אם אתה נתקל בבעיות ביצירה או בעריכה של פרופיל Outlook, באפשרותך [להפעיל את Outlook פרופיל המשתמש](https://aka.ms/SaRA-OutlookSetupProfile) במחשב המושפע. הוא יבצע כמה בדיקות, וכאשר תהיה מוכן, תיצור פרופיל Outlook עם כתובת הדואר האלקטרוני שלך. 
   
 
