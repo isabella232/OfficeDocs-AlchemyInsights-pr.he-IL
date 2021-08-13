@@ -1,5 +1,5 @@
 ---
-title: Access נדחה לאתר Project Web App
+title: Access נדחתה לאתר Project Web App זה
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663658"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955346"
 ---
-# <a name="give-users-permissions-in-project-online"></a>הענקת הרשאות משתמשים ב-Project Online
+# <a name="give-users-permissions-in-project-online"></a>תן למשתמשים הרשאות Project Online
 
-הענקת גישה למשתמשים לאתר Project Web App באמצעות מצב הרשאה של SharePoint:
+תן למשתמשים גישה לאתר Project Web App באמצעות SharePoint הרשאה:
 
-1. היכנס ל-Project Online כמנהל מערכת.
-2. בדף הבית של Project Web App, בחר **שתף** בפינה השמאלית העליונה.
-3. בתיבת הדו **שיתוף פרוייקט Web App** , הקלד את שם המשתמש של האדם שאליו ברצונך להעניק גישה בתיבה הזמן **אנשים** .
-4. בחר **באפשרות הצגת אפשרויות**, ובתפריט **בחירת רמת הרשאה** , בחר **מנהלי פרוייקטים עבור project Web App**.
+1. היכנס למערכת Project Online כמנהל מערכת.
+2. בדף Project Web App, בחר **שתף** בפינה השמאלית העליונה.
+3. בתיבת **הדו-שיח Project Web App,** הקלד את שם המשתמש של האדם שברצונך להעניק לו גישה בתיבה **הזמן** אנשים.
+4. בחר **הצג אפשרויות**, ובתפריט בחר רמת **הרשאה,** בחר Project מנהלי **Project Web App**.
 5. בחר **שתף**.
 
-אם אתה משתמש במצב הרשאות פרוייקט, או לקבלת מידע נוסף, ראה [הוספת אנשים ל-Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+אם אתה משתמש Project הרשאות, או לקבלת מידע נוסף, ראה [הוספת אנשים Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

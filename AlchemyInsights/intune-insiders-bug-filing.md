@@ -1,5 +1,5 @@
 ---
-title: כוונון הגשת באגים מבפנים
+title: Intune Insider - תיוק באגים
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 574a83a97a58d44f2bef66c9caaa16479b085269fc2f9dbf729a23ca8d37bba6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925922"
 ---
-# <a name="intune-insider-bug-filing"></a>כוונון הגשת באגים מבפנים
+# <a name="intune-insider-bug-filing"></a>Intune Insider - תיוק באגים
 
-תודה על ההתעניינות בתוכנית ' כוונון פנים '. אם אתה כבר משתמש בתוכנית העבודה של ' כוונון פנים ', ועליך להגיש בקשה לתמיכה, ולאחר מכן:
+תודה על התעניינותך בתוכנית Intune Insiders. אם אתה כבר גלשן עבור התוכנית Intune Insiders, ועלי להגיש בקשת תמיכה, לאחר מכן:
 
-1. תאר את הבעיה שלך בשדה שלעיל.
-2. צור בקשת שירות חדשה באמצעות האפשרויות שלהלן.
+1. תאר את הבעיה בשדה לעיל.
+2. צור בקשת שירות חדשה באמצעות האפשרויות הבאות.
 
-מהנדס תמיכה של כוונון ייצור קשר איתך.
+מהנדס תמיכה של Intune ייצור איתך קשר.
 
-אם אינך משתמש בתוכנית של ' כוונון פנים ', תודה על התעניינותך. כרגע איננו מגייסים משתתפים חדשים.
+אם אינך נמצא בתוכנית Intune Insiders, תודה על התעניינותך. בשלב זה איננו מגייסים משתתפים חדשים.

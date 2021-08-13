@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות ברישום מכשירי Windows ב- Microsoft Intune
+title: פתרון בעיות ברישום Windows מכשירים Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981042"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>פתרון בעיות ברישום מכשירי Windows ב- Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>פתרון בעיות ברישום Windows מכשירים Microsoft Intune
 
 סקור את המשאבים המפורטים להלן כדי לפתור את הבעיה כעת.
   
@@ -35,7 +35,7 @@ ms.locfileid: "51808972"
 
 -  המכשיר כבר רשום על-ידי משתמש אחר. במקרה זה, הסר את המכשיר ממסוף Azure Intune או בטל את ההסתה של המכשיר באופן ידני לפני ניסיון שוב.
 
--  המכשיר הוא Windows 10 Home. רק Windows 10 Pro, Education ו- Enterprise SKUs יכולים להצטרף ל- Azure Active Directory.
+-  המכשיר הוא Windows 10 Home. רק Windows 10 Pro, מדריכים ו- SKUs ארגוניים יכולים להצטרף ל- Azure Active Directory.
 
 משאבים נוספים שיעזור לך לפתור את הבעיה:
   
@@ -43,4 +43,4 @@ ms.locfileid: "51808972"
 
 -  סקור מסמכים אלה לקבלת רשימה של שגיאות נפוצות שמונעות הרשמה ופתרונות לכל אחד מהם: [מדריך פתרון בעיות](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) [ומסמך לפתרון בעיות.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-[למד כיצד לרשום מכשירי Windows ב- Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[למד כיצד לרשום Windows במכשירים Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).

@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: 856ebc3ea01398b4c56ccca6bd2aa5f3963198eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2f21eae666d2b25380f184bb2c194e5d1c12812bb78309e6b09f9f497163b8c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936598"
 ---
-# <a name="add-a-guest-to-microsoft-teams"></a>הוספת אורח ל- Microsoft Teams
+# <a name="add-a-guest-to-microsoft-teams"></a>הוספת אורח Microsoft Teams
 
-לעתים תרצה לשתף פעולה עם אנשים שאינם בארגון הצוות שלך. לעתים קרובות אתה עושה זאת בדואר אלקטרוני, אך אם ברצונך לשתף איתם פעולה ב- Teams, באפשרותך להוסיף אותם כאורחים.
+לעתים תרצה לשתף פעולה עם אנשים שאינם בארגון הצוות שלך. לעתים קרובות אתה עושה זאת בדואר אלקטרוני, אך אם ברצונך לשתף איתם פעולה Teams, באפשרותך להוסיף אותם כאורחים.
 
 לקבלת מידע נוסף, [ראה הוספת אורחים לצוות ב- Teams](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-**הערה:** עליך להיות בעלים של צוות כדי להוסיף אורח ב- Teams (ראה גם [הגדרת הרשאות אורח).](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)
+**הערה:** עליך להיות בעלים של צוות כדי להוסיף אורח Teams (ראה גם [הגדרת הרשאות אורח](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).

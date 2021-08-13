@@ -1,5 +1,5 @@
 ---
-title: יצירת תיבת דואר משותפת ושימוש בה
+title: יצירה ושימוש בתיבת דואר משותפת
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c03a4285ecc837c0fc7657bd6eb893586bf4aca0733ea306d6f6c783ff402d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914904"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>יצירת תיבת דואר משותפת ושימוש בה
+# <a name="create-and-use-a-shared-mailbox"></a>יצירה ושימוש בתיבת דואר משותפת
 
-תיבת דואר משותפת מאפשרת ליותר מאדם אחד לשלוח ולקבל דואר אלקטרוני עבור כינוי, כגון sales@contoso.com, מבלי להקצות רשיון נוסף.
+תיבת דואר משותפת מאפשרת ליותר מאדם אחד לשלוח ולקבל דואר אלקטרוני עבור כינוי, sales@contoso.com, מבלי להקצות רשיון אחר.
   
-- [בצע את השלבים הבאים](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) במרכז הניהול של Microsoft 365 כדי להתחיל בעבודה. 
+- [בצע שלבים](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) אלה מרכז הניהול של Microsoft 365 כדי להתחיל בעבודה. 
 
-באפשרותך גם לקרוא את המאמר [יצירת תיבת דואר משותפת](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) , שתספר לך כל מה שעליך לדעת אודות תיבות דואר משותפות, כולל אופן השימוש בהן.
+באפשרותך גם לקרוא את [המאמר יצירת תיבת דואר משותפת,](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) שיספר לך כל מה שאתה צריך לדעת על תיבות דואר משותפות, כולל אופן השימוש בהן.
   
