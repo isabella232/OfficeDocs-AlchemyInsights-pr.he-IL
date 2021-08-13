@@ -1,5 +1,5 @@
 ---
-title: מבט כולל על Microsoft Search
+title: מבט כולל על חיפוש של Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "6443"
 - "9003287"
-ms.openlocfilehash: 8171ec494197abf53a073cc87fce0898d23f9490
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 00eb6c5fdabc56a7d81b27c48bdc1f1e562cbac9bfb6046b9ea7c2c0f4920800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194132"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924532"
 ---
-# <a name="overview-of-microsoft-search"></a>מבט כולל על Microsoft Search
+# <a name="overview-of-microsoft-search"></a>מבט כולל על חיפוש של Microsoft
 
-כדי לתכנן את Microsoft Search ראה [מבט כולל על Microsoft search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+כדי לתכנן תוכניות עבור חיפוש של Microsoft ראה [מבט כולל על חיפוש של Microsoft](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
 
-- [הגדרת Microsoft Search](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
-- גלה [שאלות נפוצות](https://docs.microsoft.com/microsoftsearch/faqs)אודות Microsoft Search.
+- [הגדרת חיפוש של Microsoft](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
+- גלה חיפוש של Microsoft [שאלות נפוצות.](https://docs.microsoft.com/microsoftsearch/faqs)

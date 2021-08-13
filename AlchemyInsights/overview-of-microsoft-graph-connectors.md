@@ -1,5 +1,5 @@
 ---
-title: מבט כולל על מחברי Microsoft Graph
+title: מבט כולל על מחברים Graph Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194139"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924533"
 ---
-# <a name="overview-of-microsoft-graph-connectors"></a>מבט כולל על מחברי Microsoft Graph
+# <a name="overview-of-microsoft-graph-connectors"></a>מבט כולל על מחברים Graph Microsoft
 
-כדי לתכנן מחברים של Microsoft Graph, ראה  [מבט כולל על המחברים](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+כדי לתכנן עבור מחברים Graph Microsoft, ראה [מבט כולל על מחברים](https://docs.microsoft.com/microsoftsearch/connectors-overview).
 
-- ראה [מחברים על-ידי Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) או  [מחברים לפי שותפים](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
-- [נהל את המחבר שלך עבור Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- ראה [מחברים לפי Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) או [מחברים לפי שותפים.](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [ניהול המחבר שלך עבור חיפוש של Microsoft](https://docs.microsoft.com/microsoftsearch/manage-connector).
 
-לתכנון החיפוש של Microsoft, עיין  [במבט כולל על Microsoft search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+כדי לתכנן חיפוש של Microsoft, עיין [בסקירה של חיפוש של Microsoft](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
