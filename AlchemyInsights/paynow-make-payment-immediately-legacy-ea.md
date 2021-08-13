@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 822f098967fbce4a80b96b232ae3e3c7ce5470b00e0a77737c090798ca6945fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944420"
 ---
 # <a name="paynowmake-payment-immediately"></a>PayNow/ביצוע תשלום באופן מיידי
 
-בהתבסס על תיאור הבעיה שלך, מצאנו פתרון עבורך. רוב הלקוחות הצליחו לפתור את הבעיה שלהם בעצמם לאחר ביצוע התיעוד שלנו.
+בהתבסס על תיאור הבעיה שלך, מצאנו פתרון בשבילך. רוב הלקוחות הצליחו לפתור את הבעיה עצמם לאחר ביצוע התיעוד שלנו.
 
-עבור מנוי של הסכם של ' תכלת ארגוני ', האפשרות הוסף/עדכן/שינוי התשלום אינה נתמכת. אם ברצונך לשנות את הכתובת בחשבונית קיימת, פנה לנציג Microsoft שלך.
+עבור מנוי הסכם ארגוני של Azure, שיטת התשלום הוספה/עדכון/שינוי תשלום אינה נתמכת. אם תרצה לשנות את הכתובת בחשבונית קיימת, פנה לנציג Microsoft שלך.
 
-אם ברצונך להשתמש בתשלום מקדמה של תכלת כדי ליישב את החשבוניות עבור צריכת התכלת ו/או רכישות, פנה לתמיכה. שים לב שהחיובים שחויבו בנפרד ושירותים בשוק אינם ניתנים להסטה עם מקדמה של תכלת. לקבלת רישום עקיף, ודא שהשותפים שלך מדווחים על ההשפעה הפוטנציאלית על חשבוניות. עבור לקוחות ישירים, ייתכן שתרצה להשאיר את איש הקשר הBill-To שלך מעודכן.
+אם תרצה להשתמש בתשלום מקדמה של Azure כדי ליישב את החשבוניות עבור צריכת Azure ו/או רכישות, פנה לתמיכה. שים לב שלא ניתן לחייב חיובים בנפרד ושירותי Marketplace באמצעות תשלום מקדמה של Azure. לקבלת הרשמה עקיפה, ודא שהשותפים שלך מעודכנים לגבי ההשפעה הפוטנציאלית על חשבוניות. עבור לקוחות ישירים, ייתכן שתרצה לעדכן את Bill-To הקשר שלך.
 
 **מסמכים מומלצים**
 
-- [שלם את המחיר בתשלום מקדמה של תכלת](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
+- [שלם את התשלום מראש שלך ב- Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)

@@ -1,5 +1,5 @@
 ---
-title: שימוש במנהל התצורה כדי לפרוס, לעדכן ולנהל את Microsoft Edge ב-Windows
+title: השתמש במנהל התצורה כדי לפרוס, לעדכן ולנהל Microsoft Edge ב- Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: ee978146ff0964e9ebd9f476f9c92d1f97aa042c
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 226878c7ce12a9cdc9c6b24a1b05cdbf39ed67ad631b3a7dc02bbe0d7d6b91a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677864"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919540"
 ---
-# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>שימוש במנהל התצורה כדי לפרוס, לעדכן ולנהל את Microsoft Edge ב-Windows
+# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>השתמש במנהל התצורה כדי לפרוס, לעדכן ולנהל Microsoft Edge ב- Windows
 
-בתור מנהל התצורה של גירסה 1910, באפשרותך לפרוס את Microsoft Edge (גירסאות 77 ואילך) באמצעות קובץ script של PowerShell. קובץ ה-script מבטל את העדכונים האוטומטיים, והדבר מאפשר לך לנהל את העדכונים באמצעות מנהל התצורה. לקבלת מידע נוסף על יתרונות אלה ויתרונות נוספים של שימוש במנהל התצורה, ראה [ניהול הקצה של Microsoft](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?).
+החל מ- Configuration Manager גירסה 1910, באפשרותך לפרוס Microsoft Edge (גירסאות 77 ואילך) באמצעות קובץ Script של PowerShell. קובץ ה- Script מבטל עדכונים אוטומטיים, ו פעולה זו מאפשרת לך לנהל את העדכונים באמצעות מנהל התצורה. כדי לקבל מידע נוסף על כך ועל יתרונות אחרים של השימוש במנהל התצורה, [ראה Microsoft Edge ניהול](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?).

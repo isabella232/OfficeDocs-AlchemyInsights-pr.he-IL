@@ -1,5 +1,5 @@
 ---
-title: התחל להשתמש ב- Microsoft Edge
+title: התחל להשתמש Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992817"
 ---
-# <a name="start-using-microsoft-edge"></a>התחל להשתמש ב- Microsoft Edge
+# <a name="start-using-microsoft-edge"></a>התחל להשתמש Microsoft Edge
 
-Microsoft פרסמה את Microsoft Edge החדש, שהוא הדור הבא של דפדפן האינטרנט שלה. היא בנויה על בסיס קוד פתוח של כרום והיא ממוטבת לעבודה עם מוצרי Microsoft, כגון SharePoint ו- OneDrive.
+Microsoft פרסמה את Microsoft Edge החדש, שהוא הדור הבא של דפדפן האינטרנט שלה. היא מבוססת על Chromium קוד פתוח והיא ממוטבת לעבודה עם מוצרי Microsoft, כגון SharePoint ו- OneDrive.
 
-אם אתה נתקל בבעיות ב- Google Chrome, ב- Mozilla Firefox או ב- Safari, מומלץ להשתמש ב- Microsoft Edge.
+אם אתה נתקל בבעיות ב- Google Chrome , Mozilla Firefox או Safari, מומלץ להשתמש ב- Microsoft Edge.
 
-אם אתה מנהל מערכת של ארגון גדול, השתמש במדריך ההגדרה [של Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142423) כדי להתחיל בעבודה.
+אם אתה מנהל מערכת של ארגון גדול, השתמש במדריך [ההגדרה Microsoft Edge כדי](https://go.microsoft.com/fwlink/?linkid=2142423) להתחיל בעבודה.
 
-כדי להוריד את Microsoft Edge במכשיר אחד בכל פעם, עבור אל [מבוא ל- Microsoft Edge החדש.](https://go.microsoft.com/fwlink/?linkid=2141049)
+כדי להוריד Microsoft Edge במכשיר אחד בכל פעם, עבור אל [היכרות עם Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).

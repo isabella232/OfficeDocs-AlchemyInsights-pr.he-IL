@@ -14,12 +14,12 @@ ms.custom:
 - "9004357"
 - "9384"
 - "9863"
-ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 62f667cccd0761e081b3f651709fadfec12500e76fd8e30b8649a28e99001e4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402268"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966038"
 ---
 # <a name="configure-seamless-single-sign-on-sso"></a>קביעת תצורה של כניסה יחידה חלקה (SSO)
 
@@ -41,8 +41,8 @@ ms.locfileid: "51402268"
 1. [התחלה מהירה: הגדרת כניסה יחידה מבוססת SAML (SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)עבור יישום דייר Azure Active Directory (Azure AD).
 2. לקבלת מידע נוסף על האפשרות מבוססת SAML עבור כניסה יחידה, ראה הבנת כניסה יחידה מבוססת [SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on).
 3. כדי ללמוד אודות בקשות האימות והתגובות של SAML 2.0 התומכות ב- Azure Active Directory (Azure AD) ב- single Sign-On (SSO), [ראה פרוטוקול SAML Sign-On יחיד .](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
-4. כדי ללמוד כיצד ליצור ולהגדיר כניסה יחידה מבוססת SAML (SSO) עבור היישום שלך ב- Azure Active Directory (Azure AD) באמצעות ה- API של Microsoft Graph, ראה קביעת תצורה של כניסה יחידה מבוססת SAML עבור היישום שלך באמצעות [ה- API של Microsoft Graph](https://docs.microsoft.com/graph/application-saml-sso-configure-api).
-5. כדי ללמוד כיצד Azure AD משתמש בפרוטוקול SAML, ראה [כיצד פלטפורמת הזהויות של Microsoft משתמשת בפרוטוקול SAML](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference).
+4. כדי ללמוד כיצד ליצור ולהגדיר כניסה יחידה מבוססת SAML (SSO) עבור היישום שלך ב- Azure Active Directory (Azure AD) באמצעות ה- API של Microsoft Graph, ראה קביעת תצורה של כניסה יחידה [מבוססת SAML](https://docs.microsoft.com/graph/application-saml-sso-configure-api)עבור היישום שלך באמצעות ה- API של Microsoft Graph .
+5. כדי ללמוד כיצד Azure AD משתמש בפרוטוקול SAML, ראה [כיצד פלטפורמת הזהויות של Microsoft בפרוטוקול SAML](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference).
 
 **קביעת תצורה של אסימונים ותביעות**
 
@@ -50,7 +50,7 @@ ms.locfileid: "51402268"
 2. כדי ללמוד כיצד לקבוע את התצורה של תביעות באמצעות PowerShell, ראה כיצד לבצע: התאמה אישית של תביעות שהופצו באסימונים עבור [יישום ספציפי דייר (תצוגה מקדימה)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
 3. כדי ללמוד כיצד לקבוע תצורה של תביעות אופציונליות, [ראה כיצד: מתן תביעות אופציונליות לאפליקציה שלך](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
 4. כדי ללמוד כיצד להשתמש בתכונות הרחבת סכימת מדריך כתובות לשליחת נתוני משתמשים ליישומים בתביעות אסימון, ראה [שימוש בתכונות הרחבת סכימת מדריך כתובות בתביעות](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions).
-5. כדי ללמוד כיצד לקבוע תצורה של משך חיים של אסימון, ראה משך חיים של אסימון [הניתן להגדרה בפלטפורמות הזהויות של Microsoft (תצוגה מקדימה)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+5. כדי ללמוד כיצד לקבוע תצורה של משך חיים של אסימון, ראה משך חיים של אסימון הניתן להגדרה [פלטפורמת הזהויות של Microsoft (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 6. [קביעת תצורה של מדיניות משך חיים של אסימון (תצוגה מקדימה)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) - במאמר זה, אנו עוברים על תרחיש מדיניות משותף שיסייע לך לכפות כללים חדשים עבור משך חיים של אסימון. בדוגמה, תלמד כיצד ליצור מדיניות שדורשת מהמשתמשים לבצע אימות בתדירות גבוהה יותר באפליקציית האינטרנט שלך.
 
 **פתרון בעיות בתצורת SSO**

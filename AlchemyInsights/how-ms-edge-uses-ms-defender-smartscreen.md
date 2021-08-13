@@ -1,5 +1,5 @@
 ---
-title: כיצד Microsoft Edge משתמש ב- Microsoft Defender SmartScreen?
+title: כיצד Microsoft Edge משתמש Microsoft Defender SmartScreen?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,17 +15,17 @@ ms.custom:
 - "6897"
 - "8331"
 - "9004625"
-ms.openlocfilehash: f03243ae6ff076920c4d5895b78931c26c9be675
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: b1b8125961c1033b58fa5d560de855e03c967718dffec65eba7ac59a66cd3f6e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398622"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926930"
 ---
-# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>כיצד Microsoft Edge משתמש ב- Microsoft Defender SmartScreen
+# <a name="how-microsoft-edge-uses-microsoft-defender-smartscreen"></a>כיצד Microsoft Edge משתמש Microsoft Defender SmartScreen
 
-כדי להגן עליך באינטרנט, Microsoft Edge משתמש ב- Microsoft Defender SmartScreen כמערכת אזהרה מוקדמת כנגד אתרי אינטרנט ש מבצעים התקפות דיוג ולהפיץ תוכנות זדוניות באמצעות התקפות ממוקדות.
+כדי לשמור עליך בטוח באינטרנט, Microsoft Edge משתמשת Microsoft Defender SmartScreen כמערכת אזהרה מוקדמת כנגד אתרי אינטרנט שפוקדים התקפות דיוג ולהפיץ תוכנות זדוניות באמצעות התקפות ממוקדות.
 
-מנהלי מערכת יכולים לקבוע את התצורה של Microsoft Defender SmartScreen באמצעות הגדרות מדיניות קבוצתית, Microsoft Intune או ניהול מכשירים ניידים (MDM). בהתבסס על האופן שבו הגדרת את Microsoft Defender SmartScreen, באפשרותך להציג למשתמשים דף אזהרה ול לאפשר להם להמשיך לאתר או לחסום את האתר לחלוטין.
+מנהלי מערכת יכולים לקבוע את Microsoft Defender SmartScreen באמצעות מדיניות קבוצתית, Microsoft Intune או הגדרות ניהול מכשירים ניידים (MDM). בהתבסס על האופן Microsoft Defender SmartScreen, באפשרותך להציג למשתמשים דף אזהרה ולתן להם להמשיך לאתר או לחסום את האתר לחלוטין.
 
-לקבלת מידע נוסף, ראה תמיכה [ב- Microsoft Edge עבור Microsoft Defender SmartScreen](https://go.microsoft.com/fwlink/?linkid=2133081) ו- [Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839).
+לקבלת מידע נוסף, [ראה Microsoft Edge תמיכה עבור Microsoft Defender SmartScreen ו-](https://go.microsoft.com/fwlink/?linkid=2133081) [Microsoft Defender Application Guard](https://go.microsoft.com/fwlink/?linkid=2132839).

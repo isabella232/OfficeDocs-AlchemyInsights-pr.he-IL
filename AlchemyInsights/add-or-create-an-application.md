@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004332"
 - "7728"
-ms.openlocfilehash: 7296a0f170d56b705ccf3173ba0636cb1942924a
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: cc28fdacdd7261c96eaf7224ea27f215a828c059dafdb01085434d06551c6e0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954410"
 ---
 # <a name="adding-or-creating-an-application"></a>הוספה או יצירה של יישום
 
-- [תחלה: הוספת יישום לדייר של תכלת Active Directory (תכלת לספירה)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) מראה לך כיצד להוסיף יישום לדייר המודע של תכלת.
-- [ערכת לימוד: הוספת יישום מקומי לגישה מרחוק באמצעות proxy של יישומים ב-תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) מראה לך כיצד להכין את הסביבה שלך לשימוש עם Proxy של יישומים. לאחר שהסביבה מוכנה, תשתמש בפורטל תכלת כדי להוסיף יישום מקומי לדייר המודע של תכלת.
-- כדי לעזור לשלב את היישומים שלך ב-תכלת Active Directory, פיתחנו [אוסף של ערכות לימוד](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) שיובילו אותך באמצעות התצורה.
+- [התחלה מהירה: הוספת יישום לדייר Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) מראה לך כיצד להוסיף יישום לדייר Azure AD שלך.
+- [ערכת לימוד: הוספת יישום מקומי](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) לגישה מרחוק באמצעות Proxy של יישום ב- Azure Active Directory מראה לך כיצד להכין את הסביבה שלך לשימוש עם יישום Proxy. לאחר שהסביבה שלך תהיה מוכנה, תשתמש בפורטל Azure כדי להוסיף יישום מקומי לדייר Azure AD שלך.
+- כדי לעזור לשלב את היישומים שלך עם Azure Active Directory, פיתחנו [אוסף של ערכות לימוד](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) המסייעות לך לעבור על התצורה.
