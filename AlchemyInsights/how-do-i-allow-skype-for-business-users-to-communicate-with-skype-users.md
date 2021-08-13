@@ -1,5 +1,5 @@
 ---
-title: כיצד ניתן לאפשר למשתמשי Skype for Business לקיים תקשורת עם משתמשי Skype
+title: כיצד ניתן לאפשר Skype for Business המשתמשים לקיים תקשורת עם Skype המשתמשים
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7f7eea73c49fec268c2bf2a44d0001cc4603fcd6331e5de0626862389f7cc04d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927722"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>תן למשתמשי Skype for Business להוסיף אנשי קשר של Skype
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>תן Skype for Business המשתמשים להוסיף Skype אנשי קשר
 
-באמצעות Skype for Business, המשתמשים שלך יכולים לחפש הודעות מיידיות ולחפש הודעות מיידיות עם כל המשתמשים בסקייפ, האפליקציה ללא תשלום! מאמר זה מסביר מה עליך לעשות כדי שהם יכולים להוסיף אנשי קשר של Skype.
+עם Skype for Business, המשתמשים שלך יכולים לחפש הודעות מיידיות עם כל המשתמשים Skype, האפליקציה ללא תשלום! מאמר זה מסביר מה עליך לעשות כדי שהוא יוכל להוסיף Skype אנשי קשר.
 
-[תן למשתמשי Skype for Business להוסיף אנשי קשר של Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[תן Skype for Business המשתמשים להוסיף Skype אנשי קשר](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

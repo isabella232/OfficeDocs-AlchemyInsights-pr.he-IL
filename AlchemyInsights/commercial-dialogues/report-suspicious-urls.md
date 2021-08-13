@@ -1,5 +1,5 @@
 ---
-title: דיווח על כתובות Url חשודות
+title: דווח על כתובות URL חשודות
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 858a80886321394a5f3acc813e1f95b6f88cad8f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d42d7eb55062b729b3156dc02562c83800c786d34f6de05152e7e09fa88ab71b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915696"
 ---
-# <a name="report-suspicious-urls"></a>דיווח על כתובות Url חשודות
+# <a name="report-suspicious-urls"></a>דווח על כתובות URL חשודות
 
-כדי לשלוח כתובות Url חשודות, בצע את הפעולות הבאות:
+כדי לשלוח כתובות URL חשודות, בצע את הפעולות הבאות:
 
-1. בנשלף של **השליחה החדשה** , הזן את כתובת ה-URL המלאה, כולל הפרוטוקול (https://).
-2. אם תבחר באפשרות **אמור להיות חסום**, ציין אם כתובת ה-URL היא **דיוג** או **תוכנות זדוניות**.
+1. ב- **New submission** flyout, הזן את כתובת ה- URL המלאה, כולל הפרוטוקול (https://).
+2. אם בחרת אמור להיות חסום , **ציין** אם כתובת ה- URL היא דיוג **או תוכנה** **זדונית**.
 3. בחר **שלח**.
