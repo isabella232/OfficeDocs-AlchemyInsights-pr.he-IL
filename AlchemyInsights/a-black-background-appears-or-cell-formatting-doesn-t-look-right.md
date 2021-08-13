@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 031acf2f47dbe9546a5042b88f53e03a8e96e917
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd6832e559e721a41b7afaebe97ec551d297a8b99bf1b323a5a5680365eacfac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917856"
 ---
 # <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>מופיע רקע שחור, או שעיצוב התא אינו נראה נכון
 
-ב-Excel 2016, ייתכן שתראה רקע שחור בלתי צפוי, או שאתה עשוי לראות עיצוב תא שאינו מופיע כהלכה. מצב זה עשוי להתרחש לאחר הוספת כותרת עליונה או כותרת תחתונה בתצוגת פריסת עמוד, והחלת מילוי של תבנית מילוי בתא. בעיה זו תוקנה בגירסה 1708 (גירסת Build מס ' 8431.2094). כדי לתקן זאת, עדכן לגירסה העדכנית ביותר של Office. בחר **File** עדכון \> **Account** \> **אפשרויות עדכון** של חשבון קובץ \> **כעת**.
+ב Excel 2016, אתה עשוי לראות רקע שחור בלתי צפוי, או שאתה עשוי לראות עיצוב תאים שלא נראה כראוי. הדבר יכול לקרות לאחר הוספת כותרת עליונה או כותרת תחתונה בתצוגת פריסת עמוד והחלת מילוי תבנית על תא. בעיה זו נפתרה בגירסה 1708 (גירסת Build מס' 8431.2094). כדי לפתור בעיה זו, עדכן לגירסה העדכנית ביותר של Office. בחר **אפשרויות עדכון** \> **של** חשבון קובץ \>  \> **עדכן כעת.**
   
 

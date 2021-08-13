@@ -1,5 +1,5 @@
 ---
-title: חוות דעת של Access
+title: Access דעת
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7767"
-ms.openlocfilehash: b2ba50c4f8e667f81b638ba480fa846e149c3d43
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 92d4aa46c8385035275d7ccbb361a9199e7f5924a87998f3beba32a2b02bbcc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014881"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938624"
 ---
-# <a name="access-reviews"></a>חוות דעת של Access
+# <a name="access-reviews"></a>Access דעת
 
-1. **אפשר חוות דעת של access**: באפשרותך לאפשר סקירות בעת יצירת חבילת access חדשה או עריכה של חבילת access קיימת. [יצירת סקירה של access של חבילת access בניהול הזכאות של תכלת לספירה](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) מתארת כיצד להפוך סקירות של access לזמינות של חבילות access.
+1. **הפוך ביקורות Access** לזמינות : באפשרותך להפוך ביקורות לזמינות בעת יצירת חבילת גישה חדשה או עריכת חבילת גישה קיימת. [יצירת סקירת גישה של חבילת גישה בניהול זכאות של Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) מתארת כיצד לאפשר גישה לביקורות של חבילות גישה.
 
-1. **גישת סקירה**: ניהול הזכאות של תכלת לספירה מפשט את האופן שבו ארגונים מנהלים גישה לקבוצות, ליישומים ולאתרי SharePoint. [סקירת הגישה של חבילת access בניהול הזכאות של תכלת לספירה](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) מתארת כיצד לבצע סקירות של access עבור משתמשים אחרים המוקצים לחבילת access כבודק מיועד.
+1. **סקור Access:** ניהול הזכאות של Azure AD מפשט את האופן בו ארגונים מנהלים את הגישה לקבוצות, יישומים ולאתרים SharePoint אחרים. [סקירת הגישה של חבילת גישה בניהול זכאות של Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) מתארת כיצד לבצע ביקורות גישה עבור משתמשים אחרים המוקצים לחבילת גישה כאוקר ייעודי.
 
-1. **סקור את הגישה לעצמך**: [סקירה עצמית של חבילת גישה באמצעות ' ניהול הזכאות של תכלת לספירה '](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) מתארת כיצד משתמש מבצע בדיקה עצמית של חבילות access שהוקצו להם.
+1. **סקור Access** בעצמך : סקירה עצמית של חבילת גישה בניהול [זכאות של Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) מתארת כיצד משתמש עושה סקירה עצמית של חבילות הגישה שהוקצו לו.
 
-1. ברוב המקרים, משתמשי קצה ימצאו סקירה ממתינה לתגובה שלהם **בלוח הגישה**. הדבר חל רק על סקירות של קבוצות ויישומים, ולא על תפקידים. עבור כל הסקירות של Access לגבי תפקידים, משתמשי קצה חייבים לנווט אל ניהול זהויות מיוחס של תכלת (PIM) כדי להשלים את הסקירה שלהם.
+1. ברוב המקרים, משתמשי קצה ימצאו סקירה הממתנה לתגובה שלהם **בלוח Access .** הדבר חל רק על ביקורות של קבוצות ויישומים, ולא תפקידים. עבור כל Access של תפקידים, משתמשי קצה חייבים לנווט אל Azure AD Privileged Identity Management (PIM) כדי להשלים את העיון שלהם.
 
-    1. היכנס לפורטל התכלת.
-    2. נווט אל התכלת לספירה PIM.
-    3. בחלונית הניווט הימנית, בחר **משימות**  >  **לסקירת גישה**.
+    1. כניסה לפורטל Azure.
+    2. נווט אל Azure AD PIM.
+    3. בחלונית הניווט הימנית, בחר **גישה**  >  **לסקירה של משימות**.
     
 לקבלת מידע נוסף, ראה:
 
-- [ביצוע סקירה של גישת ' מדריך כתובות של תכלת ' ב-PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
-- [ביצוע ביקורת של access על תפקידי ' תכלת משאבים ' ב-PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)
+- [ביצוע סקירת גישה של תפקידי מדריך הכתובות של Azure AD שלי ב- PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
+- [ביצוע סקירת גישה של תפקידי המשאב שלי ב- AZURE ב- PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)

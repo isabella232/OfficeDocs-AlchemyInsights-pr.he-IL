@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d95687db675b05fa9580aec4d444ab916e26ff73221ca289791b80807ca62f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938660"
 ---
 # <a name="access-services"></a>Access Services
 
-התכונה ' שירותי Access ' ב-SharePoint Online מתבצעת בגמלאות. לא ניתן עוד ליצור יישומי אינטרנט מבוססי-Access ומסדי נתונים באינטרנט, ומסדי נתונים קיימים של אינטרנט ומסדי נתונים באינטרנט ינותקו עד אפריל 2018. מסדי נתונים שולחניים של Access (. accdb) אינם מושפעים משינוי זה. אנו ממליצים על Microsoft PowerApps כחלופה לגישה לאפליקציות אינטרנט ולמסדי נתונים באינטרנט. 
+התכונה Access Services ב- SharePoint Online תפרוש. לא Access אפליקציות אינטרנט ומסדי נתונים באינטרנט מבוססי-אינטרנט חדשים, ואפליקציות אינטרנט ומסדי נתונים קיימים יסגרו עד אפריל 2018. Access מסדי נתונים שולחניים ( .accdb) אינם מושפעים משינוי זה. מומלץ Microsoft PowerApps חלופה לאפליקציות אינטרנט Access ולמסדי נתונים באינטרנט. 
   
-[קבלת מידע נוסף אודות Microsoft PowerApps](https://powerapps.microsoft.com/)
+[למד אודות Microsoft PowerApps](https://powerapps.microsoft.com/)
   
