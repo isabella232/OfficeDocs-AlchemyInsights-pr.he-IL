@@ -1,5 +1,5 @@
 ---
-title: שימוש בפרופילים מותאמים אישית ב-intune
+title: שימוש בפרופילים מותאמים אישית ב- Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: c3c2233dab60d58438068c6c61a0567b8f68e022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a4c4665f36c5d7158a92b6b6104942b6b169a18370dfe34d0f6da42b78cc96c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796577"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971088"
 ---
-# <a name="using-custom-policy-in-intune"></a>שימוש במדיניות מותאמת אישית ב-intune
+# <a name="using-custom-policy-in-intune"></a>שימוש במדיניות מותאמת אישית ב- Intune
 
-המנגינה כוללת הגדרות רבות המוכללות עבור Android, iOS, macOS ו-Windows. באפשרותך גם ליצור פרופיל מותאם אישית ולאחר מכן לפרוס הגדרות מותאמות אישית אלה למכשירים שלך באמצעות ' שלחן '. פרופילים מותאמים אישית מיועדים להוספת הגדרות ותכונות של מכשירים שאינם מוכללים ב-intune.
+Intune כולל הגדרות רבות מוכללות עבור מכשירי Android , iOS , macOS Windows אחרים. באפשרותך גם ליצור פרופיל מותאם אישית ולאחר מכן לפרוס הגדרות מותאמות אישית אלה במכשירים שלך באמצעות Intune. פרופילים מותאמים אישית מיועדים להוסיף הגדרות ותכונות של מכשירים שאינם מוכללים ב- Intune.
 
-[הגדרות מותאמות אישית עבור מכשירי Android בתוך המנגינה](https://docs.microsoft.com/intune/custom-settings-android)
+[הגדרות מותאמות אישית עבור מכשירי Android ב- Intune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[הגדרות מותאמות אישית עבור מכשירי Android Enterprise ב-intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[הגדרות מותאמות אישית עבור מכשירי Android Enterprise ב- Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[הגדרות מותאמות אישית עבור מכשירי iOS בתוך המנגינה](https://docs.microsoft.com/intune/custom-settings-ios)
+[הגדרות מותאמות אישית עבור מכשירי iOS ב- Intune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[הגדרות מותאמות אישית עבור מכשירי macOS במנגינה](https://docs.microsoft.com/intune/custom-settings-macos)
+[הגדרות מותאמות אישית עבור מכשירי macOS ב- Intune](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[הגדרות מותאמות אישית עבור מכשירי Windows 10 בתוך ' כוונון '](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[הגדרות מותאמות אישית עבור Windows 10 ב- Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[הגדרות מותאמות אישית עבור מכשירים הולוגרפית של Windows למכשירים עסקיים בתוך המנגינה](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[הגדרות מותאמות אישית עבור Windows Holographic for Business ב- Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
