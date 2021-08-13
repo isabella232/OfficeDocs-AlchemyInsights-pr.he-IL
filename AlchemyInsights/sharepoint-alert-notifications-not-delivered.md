@@ -1,5 +1,5 @@
 ---
-title: הודעות ההתראה של SharePoint שלא נמסרו
+title: SharePoint הודעות התראה לא נמסרו
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,31 +14,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f4002dc865fb7a03b07a9256709b947d6d774cb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05bd913098372a57d3061e8c516a6a6b4f0a9bdafde02acc930062d6281d06dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957902"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>הודעות ההתראה של SharePoint שלא נמסרו
+# <a name="sharepoint-alert-notifications-not-delivered"></a>SharePoint הודעות התראה לא נמסרו
 
-בדוק את תיקיית דואר הזבל בהודעת הדואר האלקטרוני שלך, כפי שלפעמים התראות עשויות להיכנס לשם.
+בדוק את תיקיית ה- JUNK בהודעת הדואר האלקטרוני שלך, כפי שלפעמים התראות עשויים להיות שם.
 
-קבע אם **כל ההתראות לא יועברו** או אם **התראה בודדת** מקובץ או ספריה ספציפית לא נמסר.
+קבע אם **כל ההתראות לא נמסרו** או **אם לא** נמסרה התראה בודדת מקובץ או ספריה ספציפיים.
 
-- **התראות בודדות אינן מועברות**: אם התראה בודדת מקובץ או ספריה ספציפית לא נמסר, באפשרותך לנסות למחוק אותו וליצור אותו מחדש. ראה [ניהול, הצגה או מחיקה של התראות](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) ב-SharePoint כדי ליצור מחדש את ההתראה.
-- **כל ההתראות לא נמסרות**: אם כל ההתראות מקבצים או ספריות מרובות אינם מועברים, בקר [בלוח המחוונים של תקינות השירות](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) כדי לבדוק את כל העלונים/האירועים שעשויים להתרחש באמצעות SharePoint או Exchange. הבעיה עשויה להיות עם יכולת ההתראה של SharePoint או עיכובים בהודעות דואר אלקטרוני באמצעות Exchange. חשוב גם לציין אם דואר אלקטרוני אחר מועבר, ואם לא, סביר להניח שהבעיה היא עיכובים של Exchange.
+- **התראות בודדות לא מועברות**: אם לא נמסרה התראה בודדת מקובץ או ספריה ספציפיים, באפשרותך לנסות למחוק ולצור אותה מחדש. ראה [ניהול, הצגה או מחיקה SharePoint כדי](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) ליצור מחדש את ההתראה.
+- **כל ההתראות לא מועברות**: אם כל ההתראות מקבצים [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) או ספריות מרובים לא נמסרות, בקר בלוח המחוונים של תקינות השירות כדי לבדוק אם קיימות עלונים/אירועים שעלולים להתרחש עם SharePoint או Exchange. הבעיה עשויה להיות עם SharePoint התראה או עיכובים בהודעות דואר אלקטרוני באמצעות Exchange. כמו כן, יהיה חשוב לציין אם דואר אלקטרוני אחר מועבר, ואם לא, סביר שהבעיה תישלח עם Exchange עיכובים.
 
-שאלות נפוצות בנושא התראות:
+שאלות נפוצות לגבי התראות:
 
-- לא ניתן לשלוח התראות לקבוצת תפוצה, רק קבוצות אבטחה וO365 נתמכות.
-- אין באפשרותך להתאים אישית תבניות דואר אלקטרוני של התראות; עליך להשתמש בזרימת העבודה של Microsoft FLOW או ב-SharePoint Designer כדי להשיג אותם.
+- לא ניתן לשלוח התראות לקבוצת תפוצה, רק קבוצות אבטחה ו- O365 נתמכות.
+- לא ניתן להתאים אישית תבניות דואר אלקטרוני של התראה; עליך להשתמש ב- Microsoft FLOW או בזרימת SharePoint Designer כדי להשיג אותם.
 
 ## <a name="related-topics"></a>נושאים קשורים
 
-מעוניין לנסות את Microsoft Flow ב-SharePoint Online?
+רוצה לנסות את Microsoft Flow ב- SharePoint Online?
 
-- [יצירת זרימה](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
+- [יצירת Flow](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint ו-Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)
+- [SharePoint ו- Flow](https://flow.microsoft.com//blog/sharepoint-and-flow/)

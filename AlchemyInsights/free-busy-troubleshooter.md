@@ -1,5 +1,5 @@
 ---
-title: פותר בעיות של מועדים פנויים/לא פנויים ב-607
+title: פותר הבעיות של שעות פנויים/לא פנויים 607
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 69a89f4a18008024bae1d24d23933276c57f189f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82ffc520211180da8118fd357f12b3559ec7eb43cc0329ad4f7e58f42bd8c3eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708036"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987684"
 ---
-# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>שלבי פתרון בעיות עבור זמינות לוח שנה (פנוי/לא פנוי)
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>שלבי פתרון בעיות עבור זמינות לוח השנה (פנויים/לא פנויים)
 
-בדרך כלל, הכלי הטוב ביותר לפתרון בעיות פנויות/לא פנויות הוא [מנתח הקישוריות המרוחקת של Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) כדי לראות היכן הוא נכשל. ה-RCA יעניק לך רישום מפורט של הפעולות שבהן התקבלת הודעות שגיאה ספציפיות שניתן לחפש כדי למצוא פתרונות. כמו כן, יש קישור [למסייע התמיכה והשחזור של Microsoft](https://diagnostics.office.com/).
+בדרך כלל, הכלי הטוב ביותר לפתרון בעיות בנושאים פנויים/לא [פנויים הוא Exchange Remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) כדי לראות היכן הוא נכשל. RCA ייתן לך רשומה מפורטת של מה שעבד ומה נכשל בהודעות שגיאה ספציפיות שתוכל לחפש כדי למצוא פתרונות. בנוסף, הוא כולל קישור ל- [Microsoft מסייע התמיכה והשחזור.](https://diagnostics.office.com/)
 
-כלי טוב נוסף לניסיון הוא [כלי הבדיקה של לוח השנה עבור outlook](https://www.microsoft.com/download/details.aspx?id=28786) אם המשתמש כולל את outlook.
+כלי טוב נוסף לנסות הוא [כלי בדיקת לוח](https://www.microsoft.com/download/details.aspx?id=28786) השנה Outlook אם המשתמש Outlook.
