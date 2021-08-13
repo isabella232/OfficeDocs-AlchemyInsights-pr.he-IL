@@ -12,17 +12,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 70ae38749bde631000d373a981de2bd1be50084b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6868d8238aa376cace020950490de22ea0fc26d05b8308bfc4d9e5f1fc992bf2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708612"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977658"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>למשתמש חיצוני אין אפשרות לגשת לתוכן של SharePoint או OneDrive
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>למשתמש חיצוני אין אפשרות לגשת SharePoint או OneDrive תוכן
 
-אם משתמש חיצוני הוזמן ואינו מצליח לגשת לתוכן, נסה לבקר בקישורים הבאים:
+אם משתמש חיצוני הוזמן ולא מצליח לגשת לתוכן, נסה לבקר בקישורים הבאים:
 
 - [משתמשים חיצוניים מקבלים שגיאות הרשאה בעת גישה לאתר](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [השגיאה "מדיניות הארגון שלך אינה מאפשרת לך לשתף עם משתמשים אלה" בעת שיתוף פריט או אתר ב-SharePoint Online או ב-OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [אפשרויות השיתוף מעומעמות בעת שיתוף מ-SharePoint Online או מ-OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [שגיאת "פריטי המדיניות של הארגון שלך אינם מאפשרים לך לשתף עם משתמשים אלה" בעת שיתוף פריט או אתר ב- SharePoint Online או OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [אפשרויות שיתוף מופיעות באפור בעת שיתוף SharePoint Online או OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

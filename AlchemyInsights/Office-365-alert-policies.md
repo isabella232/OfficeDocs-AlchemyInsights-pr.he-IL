@@ -1,5 +1,5 @@
 ---
-title: 1385-Office-365-התראה-מדיניות
+title: 1385-Office-365-alert-policies
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,36 +13,36 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 8821a2ee1ae2207de5d1604762badf43808373c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918360"
 ---
-# <a name="alert-policies"></a>מדיניות התראות
+# <a name="alert-policies"></a>מדיניות התראה
 
-מרכז התאימות של Microsoft 365 security & מציע [מדיניות התראות המהווה ברירת מחדל](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) שמפעיל התראות עבור ארגונים עם Office 365 Enterprise או OFFICE 365 US ממשלה E1/G1, E3/G3, או E5/G5 מנוי. לכן, מנהלי מערכת עשויים לקבל הודעת דואר אלקטרוני של התראה שנשלחה על-ידי Office365Alerts@microsoft.com עם שורת נושא, כגון "התראת סיכון נמוך: *שם מדיניות ההתראה*". הודעות התראה נשלחות כאשר התראות מופעלות עבור פעילויות נפוצות, כגון משתמשים:
+מרכז Microsoft 365 אבטחה & מציע מדיניות התראה [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) המהווה ברירת מחדל שמפעילה התראות עבור ארגונים עם מנוי Office 365 Enterprise או Office 365 E1/G1, E3/G3 או E5/G5. לכן, מנהלי מערכת עשויים לקבל הודעת דואר אלקטרוני של התראה שנשלחה Office365Alerts@microsoft.com עם שורת נושא כגון "התראת חומרה נמוכה: *שם מדיניות התראה*". הודעות התראה נשלחות כאשר התראות מופעלות עבור פעילויות נפוצות, כגון כאשר משתמשים:
 
-- צור כללי תיבת דואר נכנס המעבירים דואר אלקטרוני.
-- הקצה הרשאות לתיבת הדואר שלו.
-- שיתוף או מחיקה של מספר גדול של קבצים בשיתוף קבצים ב-SharePoint.
-- צור חיפוש גילוי אלקטרוני ויצא תוצאות חיפוש.
+- צור כללי תיבת דואר נכנס ההעברות דואר אלקטרוני.
+- הקצה הרשאות לתיבת הדואר שלהם.
+- שתף או מחק מספר גדול של קבצים SharePoint קבצים.
+- צור חיפושים של גילוי אלקטרוני וייצוא של תוצאות חיפוש.
 
-כדי לסקור ולפעול בהתראה:
+כדי לסקור התראה ולפעל אותה:
 
-1. עבור אל [מרכז התאימות של אבטחה &](https://protection.office.com) והיכנס.
-2. לחץ על **התראות**  >  **מראה התראות**.
-3. לחץ על התראה כדי להציג דף נשלף של עם מידע על ההתראה.
+1. עבור אל [מרכז האבטחה & תאימות](https://protection.office.com) והירשם.
+2. לחץ **על**  >  **התראות הצג התראות**.
+3. לחץ על התראה כדי להציג דף נשלף עם מידע אודות ההתראה.
 
-באפשרותך לנקוט פעולה בהתראה, כגון [הסרת כלל תיבת דואר נכנס חשוד](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). לחלופין, באפשרותך פשוט לסגור את ההתראה על-ידי לחיצה על ' **פתור** ' בדף ' התראה נשלף של '.
+באפשרותך לבצע פעולה בהתראה, כגון הסרת [כלל חשוד של תיבת דואר נכנס](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). לחלופין, באפשרותך פשוט לסגור את ההתראה על-ידי לחיצה **על פתור** בדף נשלף ההתראה.
 
 לקבלת מידע נוסף אודות קביעת תצורה וניהול של מדיניות התראה, עיין  [במאמר זה](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
-**חשוב**: התראות הודעות דואר אלקטרוני מ-Microsoft לעולם לא יבקשו ממך לבצע את הפעולות הבאות:
+**חשוב**: התראה על הודעות דואר אלקטרוני מ- Microsoft לעולם לא יבקשו ממך לעשות את הפעולות הבאות:
 
 - ספק סיסמה
 - אימות פרטי האבטחה של החשבון שלך
-- אימות מחדש
+- אימות מחדש של עצמך
 
-אם אתה מקבל הודעת דואר אלקטרוני כזאת, היא לא נשלחה על-ידי Microsoft והיא אמורה להיחשב לתרמית דיוג. אם זה קורה, [דווח על כך למיקרוסופט](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+אם אתה מקבל הודעת דואר אלקטרוני כך, היא לא נשלחה על-ידי Microsoft והיא אמורה להיחשב להונאת דיוג. במקרה כזה, הדוח [אותו ל- Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)

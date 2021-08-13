@@ -1,5 +1,5 @@
 ---
-title: שאלות ובעיות בגישת משאבים
+title: שאלות ובעיות בגישה למשאבים
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: d5278cfcf607c0722e02c2ca3cf421e0d492a9b7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db3140f94c6ab543133c29500552e529b0dc17b6d083cb729c5cf5857ffdbacf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746546"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967298"
 ---
-# <a name="questions-and-issues-with-resource-access"></a>שאלות ובעיות בגישת משאבים
+# <a name="questions-and-issues-with-resource-access"></a>שאלות ובעיות בגישה למשאבים
 
-לקבלת מידע אודות סוגי הפרופילים שבהם תומך תומך כדי לאפשר גישה עבור משתמשים לתשתית ולמשאבים של הארגון, ראה:
+לקבלת מידע אודות סוגי הפרופילים ש- Intune תומך בו כדי לאפשר גישה עבור משתמשים לתשתית ומשאבים ארגוניים, ראה:
 
-- [הוספה ושימוש בהגדרות Wi-Fi במכשירים שלך ב-Microsoft intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
-- [הוספת הגדרות דואר אלקטרוני למכשירים באמצעות ' שימוש בעידון '](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
-- [שימוש באישורים לצורך אימות ב-Microsoft intune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
-- [יצירת פרופילי VPN כדי להתחבר לשרתי VPN בתוך המנגינה](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
+- [הוספה ושימוש בהגדרות Wi-Fi במכשירים שלך ב- Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
+- [הוספת הגדרות דואר אלקטרוני למכשירים באמצעות Intune](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
+- [שימוש באישורים לאימות Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
+- [יצירת פרופילי VPN כדי להתחבר לשרתי VPN ב- Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
 
 [קרא עוד...](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
