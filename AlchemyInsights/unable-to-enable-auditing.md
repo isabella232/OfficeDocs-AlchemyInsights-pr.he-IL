@@ -1,5 +1,5 @@
 ---
-title: 2419-לא ניתן להפוך לזמין-ביקורת
+title: 2419-unable-to-enable-auditing
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0566a8d002b1bd9e38f3184824193394e49d56494d347338f96cfcdfdb758f4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007791"
 ---
 # <a name="unable-to-enable-unified-auditing"></a>לא ניתן להפוך ביקורת מאוחדת לזמינה
 
-כאשר אתה מנסה להפוך ביקורת מאוחדת לזמינה עבור הארגון שלך, אתה עשוי לקבל שגיאה הדומה לשגיאה הבאה:
+בעת ניסיון להפוך ביקורת מאוחדת לזמינה עבור הארגון שלך, ייתכן שתקבל שגיאה הדומה לשגיאה הבאה:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
@@ -29,17 +29,17 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 כדי לפתור בעיה זו, בצע את הפעולות הבאות:
 
-1. [התחבר אל Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [התחברות כדי Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
-2. הפעלת ה-cmdlet הבא:
+2. הפעל את ה- cmdlet הבא:
 
    ```
    Enable-OrganizationCustomization
    ```
 
-3. המתן עד 60 דקות כדי שההגדרה הקודמת תיכנס לתוקף.
+3. המתן 60 דקות עד שההגדרה הקודמת תוקף.
 
-4. הפעלת הפקודה הבאה ב-Exchange Online PowerShell:
+4. הפעל את הפקודה הבאה ב- Exchange Online PowerShell:
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
@@ -47,6 +47,6 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 לקבלת מידע נוסף, עיין במאמרים הבאים:
 
-- [חיבור ל-Exchange Online PowerShell באמצעות אימות רב-גורמי](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [התחברות כדי Exchange Online PowerShell באמצעות אימות רב-גורמי](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [הפעלה או ביטול של חיפוש ביומן הביקורת](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)
+-  [הפעלה או ביטול של חיפוש ביומן ביקורת](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)

@@ -1,5 +1,5 @@
 ---
-title: הערות איש קשר אינן ניתנות לעריכה
+title: הערות איש קשר בלתי ניתנים לעריכה
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: ea4e9f4f41629f4207be6ff56f3ff8f7a4989cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f48e158e8ddf682df8d8748b929b3d4d687d5b183254c64116834210a238020d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680937"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915336"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>לא ניתן לערוך את השדה ' הערות ' עבור איש קשר ב-Outlook
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>אין אפשרות לערוך את שדה ההערות עבור איש קשר Outlook
 
-זוהי בעיה ידועה. אנו עובדים כדי לתקן אותה וניתן לראות את המצב העדכני ביותר ב- [אין אפשרות לערוך את השדה ' הערות ' עבור איש קשר](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+זוהי בעיה ידועה. אנו פועלים כדי לתקן זאת, וניתן לראות את המצב העדכני ביותר [ב- אין אפשרות לערוך את שדה ההערות עבור איש קשר](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
 
-**פתרון**: אם אתה משתמש ב-Microsoft 365 או בחשבון Outlook.com, באפשרותך לערוך את אנשי הקשר שלך באמצעות האינטרנט. אם אתה משתמש בחשבון IMAP או POP, אין פתרון זמין בשלב זה.
+**פתרון**: אם אתה משתמש בחשבון Microsoft 365 או Outlook.com, באפשרותך לערוך את אנשי הקשר שלך באמצעות האינטרנט. אם אתה משתמש בחשבון IMAP או POP, אין פתרון זמין בשלב זה.
