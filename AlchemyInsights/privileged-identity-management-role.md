@@ -1,5 +1,5 @@
 ---
-title: תפקיד ניהול זהויות מורשה
+title: Privileged Identity Management זה
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "6825"
-ms.openlocfilehash: 726511d016462f56c48a4272b57abc3e9f0cbc3d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 358e446192e6b58ace81afa06e0d65ae3a207282351ffc3ec9975a24779951fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088884"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973230"
 ---
-# <a name="privileged-identity-managementpim-role"></a>תפקיד ניהול זהויות מורשה (PIM)
+# <a name="privileged-identity-managementpim-role"></a>Privileged Identity Management (PIM) תפקיד
 
-**הרשאות אינן ניתנות לאחר הפעלת תפקיד**
+**הרשאות לא מוענקות לאחר הפעלת תפקיד**
 
-בעת הפעלת תפקיד בתחום הזיהוי המיוחס של "תכלת לספירה" (PIM), ייתכן שההפעלה לא תתבצע באופן מיידי לכל הפורטלים הדורשים את התפקיד המורשה. לעתים, גם אם השינוי מופץ, האחסון במטמון באינטרנט בפורטל עלול לגרום לשינוי שאינו נכנס לתוקף באופן מיידי.
+בעת הפעלת תפקיד ב- Azure AD Privileged Identity Management (PIM), ייתכן שההפעלה לא תפצה באופן מיידי לכל הפורטלים הדורשים את התפקיד ההרשאות. לעתים, גם אם השינוי מופצ, אחסון באינטרנט בפורטל עלול לגרום לשינוי שלא יתוקף באופן מיידי.
 
-אם ההפעלה שלך מושהית, בצע את הפעולות הבאות:
+אם ההפעלה מתעכבת, בצע את הפעולות הבאות:
 
-1. צא מפורטל התכלת ולאחר מכן היכנס שוב. כאשר אתה מפעיל תפקיד תכלת או תפקיד משאב תכלת, תראה את שלבי ההפעלה. לאחר השלמת כל השלבים, תראה את הקישור ' יציאה '. באפשרותך להשתמש בקישור זה כדי לצאת מהמערכת. פעולה זו תפתור את רוב המקרים עבור עיכוב הפעלה.
-2. ב-PIM, ודא שאתה מופיע כחבר בתפקיד.
-3. אם אתה מפעיל את תפקיד מנהל Exchange, הקפד לצאת מהמערכת ולהיכנס שוב. אם הבעיה נמשכת, פתח כרטיס תמיכה והגדל זאת כבעיה. אם אתה משתמש בתפקיד מנהל Exchange כדי לגשת למרכז האבטחה והתאימות, ראה השלב הבא.
-4. אם אתה מפעיל תפקיד כדי לגשת למרכז האבטחה והתאימות או אם אתה מפעיל את תפקיד מנהל המערכת של SharePoint, תיתקל בעיכוב הפעלה מספר דקות עד למספר שעות. זוהי בעיה ידועה, ואנו פועלים באופן פעיל עם צוותים אלה כדי לפתור את הבעיה בהקדם האפשרי.
+1. צא מהפורטל Azure ולאחר מכן היכנס שוב. בעת הפעלת תפקיד Azure AD או תפקיד משאב Azure, תראה את השלבים של ההפעלה. לאחר השלמת כל השלבים, תראה קישור 'צא'. באפשרותך להשתמש בקישור זה כדי לצאת. פעולה זו תפתור את רוב המקרים עבור השהיה בהפעלה.
+2. ב- PIM, ודא שאתה מופיע כחבר בתפקיד.
+3. אם אתה מפעיל את תפקיד מנהל Exchange, הקפד לצאת ולהירשם שוב. אם הבעיה נמשכת, פתח כרטיס תמיכה והגדל אותו כבעיה. אם אתה משתמש בתפקיד מנהל Exchange כדי לגשת למרכז האבטחה והתאימות, עיין בשלב הבא.
+4. אם אתה מפעיל תפקיד לגישה למרכז האבטחה והתאימות או אם אתה מפעיל את תפקיד מנהל המערכת של SharePoint, תיתקל בעיכוב הפעלה מכמה דקות עד כמה שעות. זוהי בעיה ידועה ואנחנו עובדים עם צוותים אלה באופן פעיל כדי לפתור בעיה זו בהקדם האפשרי.
 
 לקבלת מידע נוסף, ראה:
 
-- [הפעלת תפקידי המודע של ' תכלת ' ב-PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
-- [הפעלת תפקידי המשאב ' תכלת ' ב-PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
+- [הפעלת תפקידי Azure AD שלי ב- PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
+- [הפעלת תפקידי המשאב שלי ב- AZURE ב- PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
 
-**הרשאות אינן מוסרות לאחר ביטול הפעלה של תפקיד או שתוקף הפעלת התפקיד פג**
+**הרשאות לא יוסרו לאחר ביטול תפקיד או שתוקף הפעלת התפקיד יפוג**
 
-כאשר אתה מבטל הפעלה של תפקיד בניהול זהויות מורשה של תכלת לספירה או כאשר פג תוקפו של תקופת הפעלת תפקידים, ייתכן שיהיה עיכוב במקום שבו אתה ממשיך לקבל גישה.
+בעת ביטול הפעלה של תפקיד ב- Azure AD Privileged Identity Management או כאשר תוקף תקופת הפעלת תפקיד פג, ייתכן שיש עיכוב שבו תמשיך לקבל גישה.
 
-אם הפעלת הביטול מושהית, בצע את הפעולות הבאות:
+אם ביטול ההפעלות שלך מתעכב, בצע את הפעולות הבאות:
 
-1. אם אתה מבטל את ההפעלה של תפקיד מנהל המערכת של Exchange או שתוקפו של תקופת הפעלת התפקיד פג, ואתה מבחין בעיכוב משמעותי לפני הסרת ההרשאות, פתח כרטיס תמיכה והודע למהנדס התמיכה שלך לעזור לך לתייק כרטיס באמצעות צוות ניהול הגישה המיוחסת בתוך Office לגבי בעיה
-2. אם תוקפה של תקופת ההפעלה פג, אך עדיין יש לך את הפעלת הדפדפן פתוחה, סגור את הדפדפן. באפשרותך להמשיך להשתמש בתפקיד עד שתסגור הפעלה זו. זוהי בעיה ידועה ואנו מביטים בתיקון אפשרי כדי לבטל באופן פעיל כל הפעלה לאחר שפג תוקפה של ההפעלה.
+1. אם אתה מנפיק את תפקיד מנהל המערכת של Exchange או שתוקף תקופת הפעלת התפקיד פג, ואתה מבחין בעיכוב משמעותי לפני הסרת ההרשאות, פתח כרטיס תמיכה וספר למהנדס התמיכה שלך לעזור לך להגיש כרטיס עם צוות ניהול Access Privileged (PAM) בתוך Office אודות בעיה זו.
+2. אם תוקף תקופת ההפעלה פג, אך הפעלת הדפדפן עדיין פתוחה, סגור את הדפדפן. באפשרותך להמשיך להשתמש בתפקיד עד שתסגור הפעלה זו. זוהי בעיה ידועה ואנחנו צופים בתיקון פוטנציאלי לבטל באופן פעיל כל הפעלה לאחר שתוקף ההפעלה פג.
 
 אם ההשהיה שלך שונה משני תרחישים אלה, פתח כרטיס תמיכה.
