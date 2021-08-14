@@ -1,5 +1,5 @@
 ---
-title: הסרת משתמשים מקבוצה של SharePoint
+title: הסרת משתמשים מקבוצה SharePoint חדשה
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3198"
-ms.openlocfilehash: 7a66c8440ba7eb1bb0794efd94ad4e707b9d2298
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b34042a48baa26a7e2a4b6a29ff864f2eed823893d76fb8837704769b0ce5166
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094565"
 ---
-# <a name="remove-users-from-a-sharepoint-group"></a>הסרת משתמשים מקבוצה של SharePoint
+# <a name="remove-users-from-a-sharepoint-group"></a>הסרת משתמשים מקבוצה SharePoint חדשה
 
-קבוצת SharePoint היא אוסף של משתמשים שיש להם את אותה קבוצה של הרשאות לאתרים ולתוכן. במקום להקצות הרשאות לאדם אחד בכל פעם, באפשרותך להשתמש בקבוצות כדי להקצות בנוחות את אותה רמת הרשאה לאנשים רבים בו-זמנית.
+קבוצה SharePoint היא אוסף של משתמשים שיש להם את אותה קבוצת הרשאות עבור אתרים ותוכן. במקום להקצות הרשאות לאדם אחד בכל פעם, באפשרותך להשתמש בקבוצות כדי להקצות בנוחות את אותה רמת הרשאה לאנשים רבים בו-זמנית.
 
 - [הסרת משתמשים מקבוצה](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#remove-users-from-a-group)
-- [הוספה או הסרה של חברים מקבוצות Microsoft 365 באמצעות מרכז הניהול](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [הוספה או הסרה של חברים Microsoft 365 קבוצות באמצעות מרכז הניהול](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

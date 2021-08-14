@@ -12,14 +12,14 @@ ms.custom:
 - "819"
 - "5800002"
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: b47056c9d2ca15008807038a5028f393ec11209d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01f817c529a8eedb5fd57e265eedd5401dd833a2ebc8ae57760754264425fd96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773893"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094468"
 ---
-# <a name="use-the-onedrive-sync-client-to-sync-onedrive-or-sharepoint-files"></a>שימוש בלקוח הסינכרון של OneDrive כדי לסנכרן קבצי OneDrive או SharePoint
+# <a name="use-the-onedrive-sync-client-to-sync-onedrive-or-sharepoint-files"></a>שימוש בלקוח סינכרון OneDrive כדי לסנכרן קבצים OneDrive או SharePoint קבצים
 
-באפשרותך [לסנכרן את הקבצים שלך ב-OneDrive For Business](https://go.microsoft.com/fwlink/?linkid=533375) או [לסנכרן קבצי SharePoint](https://go.microsoft.com/fwlink/?linkid=871666) עם לקוח הסינכרון של OneDrive.
+באפשרותך לסנכרן [את קבצי OneDrive for Business או](https://go.microsoft.com/fwlink/?linkid=533375) לסנכרן SharePoint [קבצים](https://go.microsoft.com/fwlink/?linkid=871666) עם סינכרון OneDrive הלקוח.
   

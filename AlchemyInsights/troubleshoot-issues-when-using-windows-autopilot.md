@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות בעת שימוש בטייס אוטומטי של Windows
+title: פתרון בעיות בעת שימוש ב Windows AutoPilot
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008331"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>פתרון בעיות בעת שימוש בטייס אוטומטי של Windows
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>פתרון בעיות בעת שימוש ב Windows AutoPilot
 
-אם אתה נתקל בבעיה עם טייס אוטומטי, עיין בנושא פתרון בעיות בנושא [הטייס האוטומטי](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) [ובעיות ידועות](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
+אם אתה נתקל בבעיה ב- AutoPilot, עיין בדפי פתרון בעיות [ובעיות](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) [ידועות](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) של טייס אוטומטי.
 
-אם אתה נתקל בבעיה שבה מתבצעת עצירה של Windows במהלך דף מצב הרשמה (ESP), עיין במסמך הבא לקבלת עצות לפתרון בעיות בנושא. [הכרת הדף ' מצב הרשמה ' ופתרון בעיות](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+אם אתה נתקל בבעיה בפתרון Windows AutoPilot במהלך שלב דף מצב הרשמה (ESP) עיין במסמך הבא לקבלת רמזים לפתרון הבעיה. [הבנת דף מצב ההרשמה ופתרון בעיות בו](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-אם אתה מעוניין לנסות את האפשרות ' טייס אוטומטי ' עם מכשירי Hololens 2, הקפד לעיין בתיעוד "[Windows טייס אוטומטי עבור Hololens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) ". פעולה זו תעזור לך להבין את הדרישות המוקדמות והשלבים המומלצים לרישום Hololens 2 באמצעות טייס אוטומטי  
+אם אתה מחפש לנסות את Autopilot עם מכשירי Hololens 2, הקפד לסקור את "[Windows Autopilot עבור HoloLens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) תיעוד. פעולה זו תעזור לך להבין את התנאים המוקדמים ואת השלבים המומלצים לרישום Hololens 2 באמצעות Autopilot  
 
-לקבלת מידע נוסף אודות הגדרת Windows טייס אוטומטי, ראה [רישום מכשירים של windows בתוך ' שימוש ' באמצעות Windows אוטומטי](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+לקבלת מידע נוסף אודות הגדרת Windows אוטומטי, ראה [רישום Windows ב- Intune באמצעות Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)

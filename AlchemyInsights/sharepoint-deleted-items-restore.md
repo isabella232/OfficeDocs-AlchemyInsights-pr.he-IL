@@ -13,32 +13,32 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: b7bf64c009235bc1dbd3e922296ff6c4bb239450
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2e0b9f6cb795a7314dd97ad6ebe7ddd73b37ae918d8b31d78c150945c8a9dfd1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942062"
 ---
-# <a name="restore-deleted-items-from-sharepoint"></a>שחזור פריטים שנמחקו מ-SharePoint
+# <a name="restore-deleted-items-from-sharepoint"></a>שחזור פריטים שנמחקו SharePoint
 
-בעת מחיקת פריט או אתר מ- SharePoint, הוא אינו מוסר באופן מיידי. פריטים שנמחקו עוברים לסל המיחזור למשך פרק זמן מסוים. במהלך זמן זה, באפשרותך לשחזר את הפריטים שמחקת למיקומם המקורי. לקבלת מידע נוסף, עיין בקישורים הבאים.
+בעת מחיקת פריט או אתר מ- SharePoint, הוא אינו מוסר באופן מיידי. פריטים שנמחקו עוברים לסל המיחזור למשך פרק זמן מסוים. במהלך זמן זה, באפשרותך לשחזר את הפריטים שמחקת למיקומם המקורי. לקבלת מידע נוסף, בקר בקישורים שלהלן.
 
-- [שחזור פריטים בסל המיחזור של אתר SharePoint](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
+- [שחזור פריטים בסל המיחזור של SharePoint אינטרנט](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
-- [שחזור קבצים או תיקיות שנמחקו ב-OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
+- [שחזור קבצים או תיקיות שנמחקו ב- OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
 - [מחיקת פריטים או ריקון סל המיחזור](https://support.office.com/article/delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site-2e713599-d13e-40d6-96dc-66f0a366f74e#ID0EAADAAA=Online)
 
 - [שחזור אוסף אתרים שנמחק (כולל קבוצה, תקשורת ואתרים אחרים)](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection ).
 
-- [שחזור OneDrive שנמחק](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+- [שחזור קובץ OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-- [ה-PNP של SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
+- [SharePoint PNP מקוון](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
 **התכונה 'שחזור קבצים'**
 
-אם הרבה מקבצי OneDrive או SharePoint שלך נמחקים, הוחלפו, נפגמו או נגועים על-ידי תוכנות זדוניות, באפשרותך לשחזר את כל הOneDrive או את ספריית SharePoint למועד קודם באמצעות התכונה ' שחזור קבצים '.
+אם קבצי OneDrive או SharePoint רבים נמחקים, מוחלפים, פגומים או נגועים בתוכנות זדוניות, באפשרותך לשחזר את ספריית OneDrive או SharePoint כולה לזמן קודם באמצעות תכונת שחזור הקבצים.
 
 - [שחזור ספריית OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 

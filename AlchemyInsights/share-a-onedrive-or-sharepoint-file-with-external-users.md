@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
-ms.openlocfilehash: 242284b6300d871c52a7bf4a2975a121be738566
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d43150d3e11c3d15302231b919497d3a9876c05ddc720f46b1428d1f6f09eeb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739394"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094427"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>שיתוף קובץ או תיקיה של OneDrive או SharePoint עם משתמשים חיצוניים
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>שיתוף OneDrive או SharePoint או תיקיה עם משתמשים חיצוניים
 
-1. בדפדפן, עבור אל הקובץ או התיקיה שברצונך לשתף, בחר אותו ולאחר מכן לחץ על **שתף**.
+1. בדפדפן, עבור אל הקובץ או התיקיה שברצונך לשתף, בחר אותם ולאחר מכן לחץ על **שתף**.
     
-2. בתיבת הדו שליחת קישור, לחץ על החץ למטה כדי לשנות את סוג הקישור.
+2. בתיבת הדו-שיח שליחת קישור, לחץ על החץ למטה כדי לשנות את סוג הקישור.
     
-3. תחת **למי ברצונך להשתמש בקישור זה**, בחר **כל אדם** אם ברצונך שהנמענים יוכלו לשתף את הקישור או **אנשים ספציפיים** כדי לספק גישה רק לאנשים שאתה מציין. 
+3. תחת **מי ברצונך** שקישור זה יעבוד עבור , בחר **כל** אחד אם ברצונך שהנמענים יוכלו לשתף את הקישור **או** אנשים ספציפיים כדי להעניק גישה רק לאנשים שציינת. 
     
-    אם אפשרויות אלה אינן זמינות, עליך לוודא שהן מותרות עבור הארגון שלך ועבור אוסף האתרים. לשם כך, ראה [הפעלה או ביטול של שיתוף חיצוני עבור SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).
+    אם אפשרויות אלה אינן זמינות, עליך לוודא שהן מותרות עבור הארגון שלך ולאוסף האתרים. לשם כך, ראה [הפעלה או ביטול של שיתוף חיצוני עבור SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).
     
 4. לחץ על **'החל'**.
     
-5. הזן את שמות האנשים שעמם ברצונך לשתף ולאחר מכן לחץ על **שלח**.
+5. הזן את שמות האנשים שאיתם ברצונך לשתף ולאחר מכן לחץ על **שלח**.
     
 
