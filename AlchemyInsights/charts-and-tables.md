@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: 40aaa485ea38d471922699a9d0dd4fd1085571b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 82d66d8f3d5cc016a88715ee72c329b2d8a72039571f5025d267339e9f3126a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949676"
 ---
 # <a name="common-issues-with-tables"></a>בעיות נפוצות בטבלאות 
 
@@ -31,4 +31,4 @@ ms.locfileid: "51817948"
 
 [מיון התוכן של טבלה](https://support.office.com/article/F8392477-4613-49CD-ABA6-7C2E48F1D91F)
 
-כדי ליצור תרשים, ראה [הוספת תרשים למסמך שלך ב- Word](https://support.office.com/article/ff48e3eb-5e04-4368-a39e-20df7c798932) [או יצירת תרשים Excel ב- Word](https://support.office.com/article/11A7D2F0-4487-4A9B-BBC6-D50916CD4A57).
+כדי ליצור תרשים, ראה [הוספת תרשים למסמך ב- Word](https://support.office.com/article/ff48e3eb-5e04-4368-a39e-20df7c798932) או [יצירת Excel ב- Word](https://support.office.com/article/11A7D2F0-4487-4A9B-BBC6-D50916CD4A57).

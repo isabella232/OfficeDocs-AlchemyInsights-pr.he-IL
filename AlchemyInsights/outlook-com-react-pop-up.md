@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com הגיב מוקפץ
+title: 8000091 Outlook.com React מוקפץ
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: e12b13d193a9cb381fd455ac4fc3c2170fa2f66c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ab47415524be8d3a116144411d1b00a94b2a11be3d9f6cd3f4a755b235bf2c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728936"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095723"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com מוכן למועד מעולה
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com מוכן ל- prime time
 
-אנו מודעים לכך שלקוחות מסוימים עשויים לראות את הפריטים "Outlook.com מוכן למצב מוקפץ" בכל פעם שהם נכנסים, ואנו עובדים על תיקון.
+אנו מודעים לכך שהלקוחות מסוימים עשויים לראות את המוקפץ "Outlook.com מוכן ל- Prime time" בכל פעם שהם להיכנס, ואנחנו עובדים על תיקון.
 
-מצטערים על זה.
+מצטער על כך.
 
-[קבל מידע נוסף על הOutlook.com החדש.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[קבל מידע נוסף על Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
