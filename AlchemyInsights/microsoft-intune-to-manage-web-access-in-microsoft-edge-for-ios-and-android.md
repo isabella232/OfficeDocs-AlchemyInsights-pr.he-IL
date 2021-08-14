@@ -1,5 +1,5 @@
 ---
-title: שימוש ב- Microsoft Intune לניהול גישה לאינטרנט ב- Microsoft Edge עבור iOS ו- Android
+title: השתמש Microsoft Intune כדי לנהל גישה לאינטרנט ב- Microsoft Edge עבור iOS ו- Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,24 +14,24 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975858"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>שימוש ב- Microsoft Intune לניהול גישה לאינטרנט ב- Microsoft Edge עבור iOS ו- Android
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>השתמש Microsoft Intune כדי לנהל גישה לאינטרנט ב- Microsoft Edge עבור iOS ו- Android
 
 Microsoft Edge עבור iOS ו- Android מאפשר למשתמש לגלוש באינטרנט מפרופילים מרובים ונפרדים לחלוטין.
 
-יכולות ההגנה הרחבות ביותר עבור נתוני Microsoft 365 הופכות לזמינים בעת הרשמה כמנוי ל- Enterprise Mobility + Security suite, הכוללת תכונות Microsoft Intune ו- Azure Active Directory Premium, כגון גישה מותנות. לכל הפחות, תרצה לפרוס מדיניות גישה מותנית אשר (1) מאפשרת למשתמשים להתחבר ממכשירים ניידים ל- Microsoft Edge עבור iOS ו- Android, ו- (2) מיישם מדיניות הגנה מפני יישומים של Microsoft Intune המספקת חוויית גלישה מוגנת.
+יכולות ההגנה הרחבות ביותר עבור Microsoft 365 הופכות לזמינים בעת הרשמה כמנוי ל- Enterprise Mobility + Security suite, הכוללת את Microsoft Intune ותכונות Azure Active Directory, Premium כגון גישה מותנות. לכל הפחות, תרצה לפרוס מדיניות גישה מותנות המאפשרת למשתמשים להתחבר ממכשירים ניידים ל- Microsoft Edge עבור iOS ו- Android, ומדיניות הגנת יישום של Microsoft Intune מספקת חוויית גלישה מוגנת.
 
 כדי להבין כיצד ניתן להשתמש בגישה ומדיניות מותנים, ראה:
 
 [החלת פריטי מדיניות גישה מותנים של Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[יצירת מדיניות הגנה על אפליקציית Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[יצירת Microsoft Intune מדיניות הגנת אפליקציה](https://go.microsoft.com/fwlink/?linkid=2132651)
 
 [שימוש בהתחברות יחידה עבור יישומי אינטרנט המחוברים ל- Azure Active Directory בדפדפנים המוגנים על-ידי מדיניות](https://go.microsoft.com/fwlink/?linkid=2132482)
 
@@ -43,6 +43,6 @@ Microsoft Edge עבור iOS ו- Android מאפשר למשתמש לגלוש בא�
 
 [פריסת מדיניות תצורת יישום עבור הגנה על נתונים](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[שימוש ב- Microsoft Endpoint Manager כדי לפרוס מדיניות תצורה של יישום](https://go.microsoft.com/fwlink/?linkid=2132707)
+[השתמש Microsoft Endpoint Manager כדי לפרוס מדיניות תצורת יישום](https://go.microsoft.com/fwlink/?linkid=2132707)
 
 כדי ללמוד כיצד לגשת ליומני יישומים מנוהלים, ראה [שימוש ב- Microsoft Edge עבור iOS ו- Android כדי לגשת ליומני יישומים מנוהלים](https://go.microsoft.com/fwlink/?linkid=2132578).

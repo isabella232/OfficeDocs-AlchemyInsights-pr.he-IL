@@ -1,5 +1,5 @@
 ---
-title: 1047 ספאם 550 5.7.708 שירות לא זמין. Access נדחה, התעבורה לא התקבלה מ-IP זה
+title: 1047 AntiSpam 550 5.7.708 Service אינו זמין. Access נדחתה, התעבורה לא התקבלה מ- IP זה
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: cbfef03232f14fa29d98f16066b4ae29dfd26660
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9cca7f38a38c28216371ac6d034d1f00870e814a48b5552edbc58f4faf871ac6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717218"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932134"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 גישה נדחתה, התעבורה לא התקבלה מ-IP זה
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 Access נדחתה, התעבורה לא התקבלה מ- IP זה
 
-שגיאה זו מתרחשת בעת שליחת דואר אלקטרוני מתוך כתובות IP מוכרות, מוניטין נמוך הנמצאות בדרך כלל על-ידי לקוחות חדשים.
+שגיאה זו מתרחשת בעת שליחת דואר אלקטרוני מכתובות IP ידועות ונמוכים המשמשות בדרך כלל לקוחות חדשים.
 
 אם עליך לשלוח דואר אלקטרוני מכתובות IP אלה לפני שתוכל לרכוש רשיונות, פנה לתמיכה כדי לבקש חריגה עד שתוכל לרכוש רשיונות.

@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4392"
 - "9001703"
-ms.openlocfilehash: 9fd1abe502948202776f4d74392e43232c1b9581
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
-ms.translationtype: HT
+ms.openlocfilehash: ffc3d65cd9f2fb0116ef14f9ab3105686cfbad34125379d6b5b9db355712a507
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930622"
 ---
 # <a name="check-teams-service-status"></a>בדוק את מצב השירות של Teams
 
-כדי לבדוק את המצב הנוכחי של שירות Microsoft Teams, עבור אל דף **תקינות השירות** ב[מרכז הניהול של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). לקבלת מידע נוסף, ראה [כיצד לבדוק את תקינות השירות של Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+כדי לבדוק את המצב הנוכחי של שירות Microsoft Teams, עבור אל דף **תקינות השירות** ב [מרכז הניהול של Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). לקבלת מידע נוסף, ראה [כיצד לבדוק את תקינות השירות של Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 
 אם הבעיה אינה קשורה לשירות של Microsoft Teams, נצטרך מידע מפורט יותר כדי למצוא את המשאבים הנכונים. ציין שוב את הבעיה וכלול שמות מוצרים, תכונות או שגיאות ספציפיים ושלח שוב את שאילתת החיפוש שלך.
