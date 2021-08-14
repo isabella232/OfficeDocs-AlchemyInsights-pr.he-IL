@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: fe8a3956dbeff811935e976a8d75274f5e736482
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 1d42e026814499c28396913906346b70c6b7299176dea67e0cd420df73a0cda4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096048"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>כיצד ניתן לקבל תמיכה ב-Outlook.com
+# <a name="how-to-get-support-in-outlookcom"></a>כיצד לקבל תמיכה ב- Outlook.com
 
 מצטערים, Outlook.com אינו מציע תמיכה בטלפון, אך יש לנו צוותים ייעודיים שיכולים לעזור לך.
-הזן את השאלה שלך או תאר את הבעיה שלך בתיבה **עזרה** לעיל ולאחר מכן בחר **קבל עזרה**.
+הזן את השאלה או תאר את הבעיה בתיבה **עזרה** לעיל ולאחר מכן בחר **קבל עזרה**.
 
-[קבלת עזרה עבור Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[קבל עזרה עבור Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 

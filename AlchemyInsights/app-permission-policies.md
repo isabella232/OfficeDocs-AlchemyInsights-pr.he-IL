@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564634"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951674"
 ---
 # <a name="app-permission-policies"></a>מדיניות הרשאות אפליקציה
 
-באמצעות [מדיניות הרשאות של יישומים](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies), באפשרותך לבצע את הפעולות הבאות
-- כמנהל מערכת, באפשרותך לנהל מדיניות הגדרת יישומים [במרכז הניהול של Microsoft teams](https://admin.teams.microsoft.com/policies/app-permission).
-- שלוט ביישומים הזמינים עבור משתמשי Microsoft Teams בארגון שלך באמצעות מדיניות כללית או [צור והקצה פריטי מדיניות מותאמים אישית](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) כדי להתאים אישית ולשלוט בגישת משתמשים ליישומים. 
+באמצעות [מדיניות הרשאות אפליקציה](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies), באפשרותך לעשות את הפעולות הבאות:
+- כמנהל מערכת, באפשרותך לנהל מדיניות הגדרת אפליקציה [במרכז Microsoft Teams הניהול](https://admin.teams.microsoft.com/policies/app-permission).
+- שליטה באפליקציות הזמינות עבור Microsoft Teams בארגון שלך באמצעות מדיניות כללית או יצירה והקצאה של פריטי [מדיניות](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) מותאמים אישית כדי להתאים אישית את גישת המשתמשים לאפליקציות ולשליטה בה. 
 > [!NOTE]
-> הגדרות היישום ברחבי הארגון עוקפות את המדיניות הכללית ואת כל פריטי המדיניות המותאמים אישית שאתה יוצר ומקצה למשתמשים.
-- באפשרותך להשתמש [במדיניות הגדרת יישומים](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) כדי להתאים אישית את Microsoft teams כדי להדגיש את האפליקציות החשובות ביותר עבור המשתמשים שלך. 
+> הגדרות אפליקציה ברחבי הארגון עוקפות את המדיניות הכללית ואת פריטי המדיניות המותאמים אישית שאתה יוצר ומקצה למשתמשים.
+- באפשרותך להשתמש במדיניות [הגדרת אפליקציות כדי](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) להתאים אישית Microsoft Teams כדי לסמן את האפליקציות החשובות ביותר עבור המשתמשים שלך. 
 
 
-לקבלת מידע נוסף אודות יצירת מדיניות יישומים עבור הדייר שלך, ראה:
-- [ניהול היישומים שלך במרכז הניהול של Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [ניהול מדיניות הרשאות של יישומים ב-Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [ניהול מדיניות והגדרות של יישומים מותאמים אישית ב-Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+לקבלת מידע נוסף אודות יצירת מדיניות אפליקציה עבור הדייר שלך, ראה:
+- [ניהול האפליקציות שלך במרכז Microsoft Teams הניהול של](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [ניהול מדיניות הרשאות אפליקציה ב- Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [ניהול מדיניות והגדרות מותאמות אישית של אפליקציות Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

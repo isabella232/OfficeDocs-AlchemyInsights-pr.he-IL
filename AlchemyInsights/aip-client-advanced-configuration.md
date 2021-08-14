@@ -13,39 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b096b9b438f257a50c9ec48379009f2a3798c1812fa531cdc30e61a5460a1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663262"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951818"
 ---
 # <a name="aip-client-advanced-configuration"></a>תצורה מתקדמת של לקוח AIP
 
-נתקל בבעיות בקביעת תצורה מתקדמת של לקוח AIP? אם כן, בצע את הפעולות הבאות:
+נתקל בבעיות בתצורה מתקדמת של לקוח AIP? אם כן, עשה את הפעולות הבאות:
 
-1. ייתכן שאתה משתמש בפריטי מדיניות בטווח שאינם מוגדרים כהלכה. לקבלת מידע נוסף, ראה [כיצד לקבוע את התצורה של מדיניות הגנת המידע של ' תכלת ' עבור משתמשים ספציפיים באמצעות מדיניות טווח](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+1. ייתכן שאתה משתמש במדיניות היקף שלא הוגדרה כראוי. לקבלת מידע נוסף, ראה [כיצד לקבוע את התצורה של מדיניות Azure Information Protection עבור משתמשים ספציפיים באמצעות פריטי מדיניות בטווח](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 
-2. אם תמשיך להיתקל בבעיה, עיין במשאבים שלהלן. אם הבעיה עדיין לא נפתרה, צלם צילום מסך של הבעיה וצרף אותו לכרטיס התמיכה.
+2. אם אתה ממשיך להיתקל בבעיה, עיין במשאבים שלהלן. אם הבעיה נשארת לא פתורה, קח צילום מסך של הבעיה וצרף אותה לכרטיס התמיכה.
 
 לקבלת משאבים נוספים, ראה:
 
-- [כיצד לקבוע את התצורה של הגדרות המדיניות עבור הגנה על מידע של תכלת](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
+- [כיצד לקבוע את תצורת הגדרות המדיניות עבור Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
     
-- [מדריך ניהול: תצורות מותאמות אישית עבור לקוח ' הגנה על מידע של תכלת '](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
+- [מדריך ניהול: תצורות מותאמות אישית עבור לקוח Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
     
-- [מהו הגנה על מידע תכלת?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [מהי Azure Information Protection?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
     
-- [מדריכי ' כיצד לבצע ' עבור תרחישים נפוצים המשתמשים בהגנה על מידע תכלת](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [מדריכי 'כיצד לעשות' עבור תרחישים נפוצים משתמשים ב- Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [קביעת התצורה של מדיניות הגנת המידע של תכלת](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
+- [קביעת התצורה של מדיניות Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
     
-- [מדיניות ההגנה על מידע של תכלת ברירת המחדל](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
+- [מדיניות ברירת המחדל של Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
     
-- [כיצד ליצור תווית חדשה עבור הגנה על מידע תכלת](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
+- [כיצד ליצור תווית חדשה עבור Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
     
-- [כיצד לקבוע תצורה של תווית להגנה על ניהול זכויות](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
+- [כיצד להגדיר תווית עבור הגנה על ניהול זכויות](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
     
-- [דרישות הגנה על מידע תכלת](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [דרישות Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 
-- [ערכת לימוד: קביעת תצורה של הגדרות מדיניות הגנת מידע של תכלת ויצירת תווית חדשה](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [ערכת לימוד: קביעת תצורה של הגדרות מדיניות של Azure Information Protection ויצירה של תווית חדשה](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

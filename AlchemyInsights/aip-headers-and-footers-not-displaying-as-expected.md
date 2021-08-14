@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e3a0e5caccba87ddd8e4c786b5c8918494e709b6f4d5d60e7c31215a60b1d5d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821700"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951782"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: כותרות עליונות וכותרות תחתונות לא מוצגות כצפוי
 
 אם אתה נתקל בבעיות עם סימונים חזותיים שלא מוצגים כצפוי, הצג את הקווים המנחים הבאים:
 
 1. ודא שס ביקורת בעת [החלת סימונים חזותיים](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. עבור תיוג של Office, [סקור את כאשר Office 365 מחיל סימון תוכן והצפנה.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)
+2. לקבלת Office, סקור את [Office 365 החלת סימון והצפנה של תוכן.](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)
 3. אם ברצונך להסיר כותרות עליונות/תחתונות קיימות, סקור את [הסרת כותרות עליונות וכותרות תחתונות מפתרונות תוויות אחרים.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions)
 
 אם אתה עדיין נתקל בבעיה, אסוף יומני לקוח של Azure Information Protection וצרף את יומני הרישום המיוצאים לכרטיס זה.
