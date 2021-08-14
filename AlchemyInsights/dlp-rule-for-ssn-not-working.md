@@ -1,5 +1,5 @@
 ---
-title: כלל DLP for SSN אינו פועל
+title: כלל DLP עבור SSN אינו פועל
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,44 +13,44 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f30998fb3bc4c5442e4e1541b87d88ecd7df6eef3a50e719fa5014eb86af39c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679370"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004983"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>בעיות של DLP עם מספרי תעודת זהות
+# <a name="dlp-issues-with-social-security-numbers"></a>בעיות DLP במספרי ביטוח לאומי
 
-**חשוב**: בתקופה חסרת תקדים זאת, אנחנו נוקטים בצעדים כדי להבטיח ששירותי SharePoint Online ו- OneDrive יישארו בזמינות גבוהה - לקבלת מידע נוסף, בקר בכתובת[התאמות של תכונה זמנית ב- SharePoint Online](https://aka.ms/ODSPAdjustments).
+**חשוב**: בתקופה חסרת תקדים זאת, אנחנו נוקטים בצעדים כדי להבטיח ששירותי SharePoint Online ו- OneDrive יישארו בזמינות גבוהה - לקבלת מידע נוסף, בקר בכתובת [התאמות של תכונה זמנית ב- SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**בעיות ב-DLP עם SSNs**
+**בעיות DLP עם SSN**
 
-האם אתה נתקל בבעיות **במניעת אובדן נתונים (DLP)** לא פועל עבור תוכן המכיל **מספר תעודת זהות (SSN)** בעת שימוש בסוג מידע רגיש ב-Microsoft 365? אם כן, ודא שהתוכן שלך מכיל את המידע הדרוש עבור מראה מדיניות ה-DLP. 
+האם אתה נתקל בבעיות **במניעת אובדן נתונים (DLP)** לא פועל עבור תוכן המכיל מספר תעודת **זהות (SSN)** בעת שימוש בסוג מידע רגיש ב- Microsoft 365? אם כן, ודא שהתוכן שלך מכיל את המידע הדרוש עבור מה שמדיניות DLP מחפשת. 
   
-לדוגמה, עבור מדיניות SSN שתצורתה נקבעה עם רמת בטחון של 85%, הערכים הבאים מוערכים ויש לזהות אותם עבור הכלל לגורם מפעיל:
+לדוגמה, עבור מדיניות SSN שתצורתה נקבעה עם רמת ביטחון של 85%, הפריטים הבאים מוערכים ויש לזהות אותם כדי שהכלל יפעיל:
   
-- **[עיצוב:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 ספרות, שעשויות להופיע בתבנית מעוצבת או לא מעוצבת
+- **[עיצוב:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 ספרות, העשויות להיות בתבנית מעוצבת או לא מעוצבת
 
 - **[תבנית:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** ארבע פונקציות מחפשות SSNs בארבע תבניות שונות:
 
-  - Func_ssn מוצא את SSNs עם עיצוב חזק של pre-2011 המעוצב עם מקפים או רווחים (ddd-dd-dddd או ddd dd dddd)
+  - Func_ssn את SSNs עם עיצוב חזק מראש 2011 המעוצב עם מקפים או רווחים (ddd-dd-dddd OR ddd dd dddd)
 
-  - Func_unformatted_ssn מוצא את SSNs עם עיצוב חזק של pre-2011 שאינו מעוצב כתשעה ספרות רצופות (ddddddddd)
+  - Func_unformatted_ssn את SSNs עם עיצוב חזק של קדם-2011 שלא מעוצבים כ- 9 ספרות רצופות (ddddddddd)
 
-  - Func_randomized_formatted_ssn מוצא את post-2011 SSNs המעוצב עם מקפים או רווחים (ddd-dd-dddd או ddd dd dddd)
+  - Func_randomized_formatted_ssn איתור SSN post-2011 המעוצבים באמצעות מקפים או רווחים (ddd-dd-dddd OR dddd ddd dd dddd dddd)
 
-  - Func_randomized_unformatted_ssn מוצא את post-2011 SSNs שאינם מעוצבים כתשעה ספרות רצופות (ddddddddd)
+  - Func_randomized_unformatted_ssn איתור SSN שלאחר 2011 שלא מעוצבים כ- 9 ספרות רצופות (ddddddddd)
 
-- **[בדיקת סיכום:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** לא, אין בדיקת סיכום
+- **[Checksum:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** לא, אין 'בדיקת המחאה'
 
-- **[הגדרה:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** מדיניות DLP היא 85% בטוח שהיא זיהתה סוג זה של מידע רגיש אם בתוך סמיכות של 300 תווים:
+- **[הגדרה:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** מדיניות DLP בטוחה ב- 85% שהיא זיהתה סוג זה של מידע רגיש אם, בקרבה של 300 תווים:
 
-  - [הפונקציה Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) מאתרת תוכן התואם לתבנית.
+  - הפונקציה [Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) תוכן שמתאים לתבנית.
 
-  - מילת מפתח מתוך [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) מתקיימת. דוגמאות למילות מפתח כוללות: ביטוח  *לאומי, ביטוח לאומי, Soc שניה, SSN*  . לדוגמה, המדגם הבא יגרום להפעלת מדיניות SSN של DLP: **SSN: 489-36-8350**
+  - מילת מפתח [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) נמצאת. דוגמאות למילות מפתח כוללות:  *Social Security, Social Security#, Soc Sec ,SSN*  . לדוגמה, הדוגמה הבאה תפעיל עבור מדיניות SSN של **DLP: SSN: 489-36-8350**
   
-לקבלת מידע נוסף אודות הנדרש עבור SSNs לצורך זיהוי עבור התוכן שלך, עיין בסעיף הבא במאמר זה: [מה סוגי המידע הרגישים מחפשים את SSNs](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
+לקבלת מידע נוסף על מה שנדרש לזיהוי SSN עבור התוכן שלך, עיין בסעיף הבא במאמר זה: מה סוגי המידע [הרגישים מחפשים SSNs](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-באמצעות סוג מידע מוכלל אחר שונה, עיין במאמר הבא לקבלת מידע על הדרישות הדרושות עבור סוגים אחרים: [מה סוגי המידע הרגישים מחפשים](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+באמצעות סוג מידע רגיש מוכלל אחר, עיין במאמר הבא לקבלת מידע אודות מה נדרש עבור סוגים אחרים: [מה סוגי המידע הרגישים מחפשים](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
