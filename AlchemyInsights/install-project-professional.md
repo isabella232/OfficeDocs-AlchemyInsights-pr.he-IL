@@ -13,20 +13,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: ed6f48c8a9efb53b193812e8e8b24c2a7e5044ec
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: dfb664248234a0a9e8b7e46355f8d424523c131540245184459556dc100a4924
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708387"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014469"
 ---
 # <a name="install-project-professional"></a>התקנת Project Professional
 
-ראה [התקנת project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) כדי ללמוד כיצד להתקין את גירסת המנוי של project Online ואת הגירסה ללא מנוי של project 2019, 2016 או 2013. 
+ראה [התקנת Project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) כדי ללמוד כיצד להתקין את גירסת המנוי של Project Online, וגירסת Project 2019, 2016 או 2013. 
 
-עבור Project 2010 או 2007, בצע את השלבים ב- [office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) או ב- [office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657). 
+עבור Project 2010 או 2007, בצע את השלבים [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) [או Office 2007.](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657) 
 
-הפרוייקט נמכר כיישום עצמאי, ולכן אם עדיין אין לך אותו, [קנה או נסה את Project](https://www.microsoft.com/evalcenter/evaluate-project). 
+Project נמכר כיישום עצמאי, כך שאם עדיין אין לך אותו, קנה [או נסה Project](https://www.microsoft.com/evalcenter/evaluate-project). 
 
 
 
