@@ -1,5 +1,5 @@
 ---
-title: הדייר של גירסת הניסיון של Microsoft 365 שנחסם על-ידי Spamhaus
+title: גירסת Microsoft 365 דייר שנחסם על-ידי Spamhaus
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,13 +12,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 9c126ea41a376bdad2ec6b85d97442bab6a4f0a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d671b12f6b4b7cbbf92a494b1e72e5a3debe12b0517fa90285b1d4664d5486a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940088"
 ---
-# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>שגיאה כאשר משתמש ניסיון של Microsoft 365 שולח דואר אלקטרוני: מארח לקוח נחסם באמצעות Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>שגיאה כאשר משתמש Microsoft 365 שולח דואר אלקטרוני: מארח הלקוח חסם באמצעות Spamhaus
 
-נראה שאתה שולח דואר אלקטרוני מארגון ניסיון חדש של Microsoft 365. כדי לסייע במניעת שימוש לרעה, אנו חוסמים כתובות IP שנודעו בעבר. בדיקה ספציפית זו אינה נאכפת עוד לאחר התחלת השימוש ברשיונות בתשלום. ייתכן שתוכל לקבל הקלה זמנית על-ידי בקשת כתובת IP חדשה מספק שירותי האינטרנט (ISP) שלך, או על-ידי הסרת הבלוק מאתר האינטרנט של [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+נראה שאתה שולח דואר אלקטרוני מארגון חדש Microsoft 365 ניסיון. כדי לסייע במניעת שימוש לרעה, אנו חוסמים כתובות IP שידועות כי נחשפו בעבר לסכנה. בדיקה ספציפית זו אינה נאכפת עוד לאחר שתתחיל להשתמש ברשיונות בתשלום. ייתכן שתוכל לקבל הקלה זמנית על-ידי בקשה לכתובת IP חדשה מספק שירותי האינטרנט (ISP), או על-ידי הסרת הבלוק מהאתר [Spamhaus.](https://go.microsoft.com/fwlink/p/?linkid=123245)

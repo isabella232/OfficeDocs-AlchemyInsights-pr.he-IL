@@ -1,5 +1,5 @@
 ---
-title: הוספת שכבת-על ללוח שנה של SharePoint
+title: הוספת שכבת-על ללוח שנה SharePoint שנה
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1ceed47bf94350b52da3633da5afbff1a70a8ca6d651576bc1d89acdbaf7af65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953016"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>הוספת שכבת-על ללוח שנה של SharePoint
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>הוספת שכבת-על ללוח שנה SharePoint שנה
 
-לוחות שנה של SharePoint הם סוגי רשימה קלאסיים שלפעמים מבולבלים עם לוחות שנה קבוצתיים של Microsoft 365.
+SharePoint לוחות שנה הם סוגי רשימה קלאסיים שלפעמים מבולבלים Microsoft 365 לוחות שנה קבוצתיים.
  
-אם אתה משתמש בלוח שנה של SharePoint באתר שלך, באפשרותך להעביר אליו לוח שנה של Exchange משלך כדי ליצור תצוגת לוח שנה משולבת. לחלופין, באפשרותך ליצור שכבת-על של לוח שנה אחר של SharePoint כל עוד שני לוחות השנה של SharePoint נמצאים באותו אוסף אתרים.
+אם אתה משתמש בלוח SharePoint באתר שלך, באפשרותך להעביר אליו לוח שנה Exchange לוח שנה משלך כדי ליצור תצוגת לוח שנה משולבת. לחלופין, באפשרותך להעביר לוח שנה SharePoint אחר, כל עוד שני SharePoint לוחות השנה נמצאים באותו אוסף אתרים.
  
-כדי להוסיף שכבת-על ללוח שנה קלאסי של SharePoint, בצע את השלבים המפורטים בשכבת-על של לוח שנה של SharePoint עם לוח שנה [מ- Exchange או SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).
+כדי להוסיף שכבת-על ללוח שנה SharePoint, בצע את השלבים המפורטים [בשכבת-על של לוח שנה SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)עם לוח שנה מ- Exchange או SharePoint .

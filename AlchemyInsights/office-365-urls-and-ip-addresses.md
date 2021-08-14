@@ -1,5 +1,5 @@
 ---
-title: כתובות URL וכתובות IP של Microsoft 365
+title: Microsoft 365 כתובות URL וכתובות IP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,16 +15,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 9f16418ca2aa9c21e320b4263987621a0b1cfb50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 89611ac0a3f39e7317df9719d1ea4a0ab2b9fe13da0ec634bb83190870fe5874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985506"
 ---
-# <a name="microsoft-365-urls-and-ip-address-ranges"></a>כתובות URL וטווחי כתובות IP של Microsoft 365
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a>Microsoft 365 כתובות URL וטווחי כתובות IP
 
 Microsoft 365 דורש קישוריות לאינטרנט באמצעות כתובות IP ספציפיות *הנקראות נקודות קצה.*
-לקבלת רשימה של נקודות קצה שיש להגיע אליהן, ראה כתובות URL וטווחי כתובות IP של [Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+לקבלת רשימה של נקודות קצה שיש להגיע אליהן, ראה [Microsoft 365 URL וטווחי כתובות IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
 
-שירות האינטרנט של כתובת ה- IP וכתובת ה- URL של Microsoft 365 עוזר לך לזהות ולבדל טוב יותר את תעבורת הרשת של Microsoft 365, דבר שמקל עליך להעריך, לקבוע את התצורה ולהישאר עדכני עם שינויים. ראה [כתובת IP של Microsoft 365 ושירות אינטרנט של כתובת URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).
+שירות Microsoft 365 IP ושירות האינטרנט של כתובת ה- URL עוזר לך לזהות ולהבדל טוב יותר בין Microsoft 365 תעבורת הרשת, דבר שמקל עליך להעריך, לקבוע תצורה ולהישאר עדכני עם שינויים. ראה [Microsoft 365 IP ושירות אינטרנט של כתובת URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

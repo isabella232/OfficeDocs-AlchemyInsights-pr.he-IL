@@ -14,20 +14,20 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 3ba6e6a6f93225bc843dfd1a028d31223f01280c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 48d4ccbbc0ed3dc54cbcd17ae7b9040bfd9ecc426897c06b653bf40bc7d5e9b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821952"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952970"
 ---
 # <a name="adfs-federation-certificate-expiring"></a>תוקפו של אישור איחוד ADFS פג
 
 כדי לפתור בעיה זו, בצע את הפעולות הבאות:
   
-1. התקן את מודול Microsoft Azure Active Directory עבור Windows PowerShell במחשב (אם המודול עדיין לא מותקן). לשם כך, עבור אל ניהול [Azure AD באמצעות Windows PowerShell](https://aka.ms/aadposh).
+1. התקן את Microsoft Azure Active Directory המודול Windows PowerShell במחשב (אם המודול עדיין לא מותקן). לשם כך, עבור אל ניהול [Azure AD באמצעות Windows PowerShell](https://aka.ms/aadposh).
 
-2. בצע את השלבים בסעיף "תרחיש 1: פג תוקפו של אישור חתימת אסימון של AD FS" של שגיאת "אירעה בעיה בגישה לאתר" מ- AD FS כאשר משתמש מאוחד נכנס ל- [Microsoft 365 , Azure או Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. בצע את השלבים המפורטים בסעיף "תרחיש 1: פג תוקפו של אישור חתימת אסימון של AD FS" של שגיאת "אירעה בעיה בגישה לאתר" מ- AD FS כאשר משתמש מאוחד נכנס ל- [Microsoft 365, Azure או Intune.](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat)
 
 3. בצע את השלבים המפורטים בעדכון או תיקון ההגדרות של תחום מאוחד [ב- Microsoft , Azure או Intune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
