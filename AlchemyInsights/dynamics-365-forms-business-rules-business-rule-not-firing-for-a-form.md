@@ -1,5 +1,5 @@
 ---
-title: כללי Business של Dynamics 365-כלל עסקי אינם יורים עבור טופס
+title: כללים עסקיים של Dynamics 365 Forms - כלל עסקי לא יורים עבור טופס
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 085656b40cab5c918e58a821db9ad8399aa37cda871c00a7ed51411c4b733576
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947228"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>כלל עסקי אינו יורה עבור טופס
+# <a name="business-rule-not-firing-for-a-form"></a>כלל עסקי לא יורים עבור טופס
 
-כלל עסקי עשוי שלא לפעול מאחר שהשדה שאליו מפנה הכלל העסקי אינו כלול בטופס. לקבלת מידע נוסף, ראה [האם כלל העסק שלך אינו ירי עבור טופס?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
+ייתכן שכלל עסקי לא יתבצע מכיוון שהשדות שאליהם בוצעה הפניה בכלל העסקי אינם נכללים בטופס. לקבלת מידע נוסף, [ראה האם הכלל העסקי שלך אינו יורה עבור טופס?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).

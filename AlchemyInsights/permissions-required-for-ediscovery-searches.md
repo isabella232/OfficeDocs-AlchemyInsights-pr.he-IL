@@ -1,5 +1,5 @@
 ---
-title: 1489-הרשאות-נדרש-for-גילוי אלקטרוני-חיפושים
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973842"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>הרשאות נדרשות עבור חיפושים של גילוי אלקטרוני
+# <a name="permissions-required-for-ediscovery-searches"></a>הרשאות הנדרשות לחיפוש גילוי אלקטרוני
 
-כדי לבצע חיפושי תוכן במרכז התאימות של אבטחה &, על המשתמש להיות לפחות חבר בקבוצת התפקידים של גילוי אלקטרוני Manager, המאפשרת להם לבצע חיפושים ולמקם חסימות בתיבות דואר, באתרי SharePoint ובמיקומים של OneDrive. חברים יכולים גם ליצור ולנהל מקרים של גילוי אלקטרוני, להוסיף ולהסיר חברים לאירוע, ליצור ולערוך חיפושי תוכן ולגשת לנתוני מקרה ב-גילוי אלקטרוני מתקדמים.
+כדי לבצע חיפושי תוכן במרכז התאימות של אבטחה &, משתמש חייב להיות לפחות חבר בקבוצת התפקידים 'מנהל גילוי אלקטרוני', המאפשר לו לבצע חיפושים ולמקום תיבות דואר, SharePoint אתרים ומיקום OneDrive. חברים יכולים גם ליצור ולנהל אירועים של גילוי אלקטרוני, להוסיף ולהסיר חברים למקרה, ליצור ולערוך חיפושי תוכן ולגשת לנתונים של רישיות ב- Advanced eDiscovery.
 
-כדי לבצע חיפושים ב-גילוי אלקטרוני במרכז הניהול של Exchange (EAC), על המשתמש להיות חבר בקבוצת התפקידים ' ניהול הגילוי ' ב-Exchange Online.
+כדי לבצע In-Place גילוי אלקטרוני במרכז הניהול של Exchange (EAC), המשתמש חייב להיות חבר בקבוצת התפקידים 'ניהול גילוי' ב- Exchange Online.
 
 לקבלת מידע נוסף אודות הרשאות גילוי אלקטרוני, ראה: 
 
-- [הקצאת הרשאות גילוי אלקטרוני במרכז התאימות של & אבטחה](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- [הקצאת הרשאות גילוי אלקטרוני במרכז האבטחה & תאימות](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-- [הקצאת הרשאות גילוי אלקטרוני ב-Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [הקצאת הרשאות גילוי אלקטרוני ב- Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**הערה**: לאחר הקצאת הרשאות גילוי אלקטרוני, ייתכן שתצטרך להמתין כמה דקות כדי להפיץ את ההרשאות.
+**הערה:** לאחר הקצאת הרשאות גילוי אלקטרוני, ייתכן שתצטרך להמתין כמה דקות כדי שההרשאות יתפצו.

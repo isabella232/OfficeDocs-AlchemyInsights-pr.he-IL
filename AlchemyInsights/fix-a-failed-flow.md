@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945968"
 ---
 # <a name="fix-a-flow-that-failed"></a>תיקון זרימה שנכשלה
 
-1. עבור אל [Microsoft Flow](https://flow.microsoft.com/)ולחץ על סמל ' הודעות ' בפינה השמאלית העליונה. (או באפליקציה למכשירים ניידים, בחר את הכרטיסיה פעילות.) בחר את הזרימה שנכשלה בעיון בפרטים.
+1. עבור אל [Microsoft Flow](https://flow.microsoft.com/)ולאחר מכן לחץ על סמל הודעות בפינה השמאלית העליונה. (לחלופין, באפליקציה למכשירים ניידים, בחר את הכרטיסיה פעילות.) בחר את הזרימה שלא הסתכלה על הפרטים.
     
-2. חפש את השלב עם סמל סימן הקריאה האדום כדי לראות את הודעת השגיאה עבור הזרימה.
+2. מצא את השלב עם סמל קריאה אדום כדי לראות את הודעת השגיאה עבור הזרימה.
     
-3. בהתאם להודעת השגיאה, אתה אמור להיות מסוגל לערוך את הזרימה ולתקן אותה. 
+3. בהתאם לה הודעת השגיאה, תוכל לערוך את הזרימה ולתקן אותה. 
     
-[כשלונות זרימה נפוצים](https://go.microsoft.com/fwlink/?linkid=872110)
+[כשלי זרימה נפוצים](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

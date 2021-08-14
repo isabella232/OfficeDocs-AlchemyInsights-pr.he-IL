@@ -1,5 +1,5 @@
 ---
-title: שחזור סרטוני הווידאו של זרימה שנמחקו מסל המיחזור
+title: שחזור סרטוני הווידאו של Stream שנמחקו מסל המיחזור
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 173df399f90ed2bae9b4b91d0f731bee7984c9ab
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959432"
 ---
-# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>שחזור סרטוני הווידאו של זרימה שנמחקו מסל המיחזור
+# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>שחזור סרטוני הווידאו של Stream שנמחקו מסל המיחזור
 
-כאשר סרטוני וידאו נמחקים ב-Microsoft Stream, הם נכנסים לסל המיחזור של 30 יום.
+כאשר סרטוני וידאו נמחקים ב- Microsoft Stream, הם נכנסים לסל מיחזור של 30 יום.
 
-סל המיחזור של הווידאו מאפשר לך לשחזר סרטוני וידאו אם הם נמחקו בטעות או כדי למחוק סרטוני וידאו לצמיתות בסל המיחזור לפני הגבלת 30 הימים.
+סל המיחזור של הווידאו מאפשר לך לשחזר סרטוני וידאו אם הם נמחקו בטעות או למחוק לצמיתות סרטוני וידאו בסל המיחזור לפני מגבלת 30 הימים.
 
 לקבלת מידע נוסף, ראה:
 
 - [שחזור סרטוני הווידאו שנמחקו מסל המיחזור](https://docs.microsoft.com/stream/portal-my-recycle-bin)
-- [סל המיחזור של וידאו עבור מנהל הזרם](https://docs.microsoft.com/stream/admin-recycle-bin)
+- [סל מיחזור וידאו עבור מנהל זרימה](https://docs.microsoft.com/stream/admin-recycle-bin)

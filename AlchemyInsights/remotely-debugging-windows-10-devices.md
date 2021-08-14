@@ -1,5 +1,5 @@
 ---
-title: תחילת העבודה עם איתור באגים מרחוק במכשירי Windows 10
+title: תחילת העבודה עם איתור באגים מרחוק במכשירים Windows 10 אחרים
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959396"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>תחילת העבודה עם איתור באגים מרחוק במכשירי Windows 10
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>תחילת העבודה עם איתור באגים מרחוק במכשירים Windows 10 אחרים
 
-כדי לאתר מרחוק באגים בתוכן חי במכשיר Windows 10 ממחשב Windows או macOS:
+כדי לאתר מרחוק באגים בתוכן חי במכשיר Windows 10 ממחשב Windows או MacOS:
 
-1. הגדר את מכשיר Windows 10 לאיתור באגים מרחוק ולאחר מכן התחבר אליו ממחשב הפיתוח שלך.
-2. בדוק ואתר באגים בתוכן חי במכשיר Windows 10 שלך מתוך מחשב הפיתוח שלך.
-3. תוכן שידור מסך ממכשיר Windows 10 למופע DevTools במחשב הפיתוח שלך.
+1. הגדר את Windows 10 עבור איתור באגים מרחוק ולאחר מכן התחבר אליו ממחשב הפיתוח שלך.
+2. בדוק ואתר באגים בתוכן חי במכשיר Windows 10 שלך ממכשיר הפיתוח שלך.
+3. תוכן שידור מסך מהמכשיר Windows 10 אל מופע DevTools במחשב הפיתוח שלך.
 
-כדי ללמוד עוד, ראה [תחילת העבודה עם איתור באגים מרוחק במכשירי Windows 10 באמצעות Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+כדי ללמוד עוד, [ראה תחילת העבודה עם איתור באגים מרחוק Windows 10 מכשירים באמצעות Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).

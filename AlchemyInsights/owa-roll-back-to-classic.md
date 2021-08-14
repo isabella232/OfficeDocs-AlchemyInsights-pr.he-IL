@@ -1,5 +1,5 @@
 ---
-title: חזרה לחוויה הקלאסית של Outlook באינטרנט
+title: חזור ל- Outlook באינטרנט
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b246f6e51b942e35c2035b912ea3d810a2000d75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c083efef3e77dc175737e0412fd958c448f4f118955dc7a95427dab831ccbe4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924014"
 ---
-# <a name="the-new-outlook-on-the-web"></a>Outlook החדש באינטרנט
+# <a name="the-new-outlook-on-the-web"></a>ה- Outlook באינטרנט
 
-לא ניתן עוד לחזור לחוויה הקלאסית של Outlook באינטרנט. אם ברצונך לספק משוב אודות החוויה החדשה, עבור אל [פורום UserVoice](https://go.microsoft.com/fwlink/?linkid=2103182). באפשרותך להצביע על הרעיונות או הבעיות שאתה מעוניין לראות כתובות, ואנו נגיב ישירות להערות ולהצעות המובילות.
+לא ניתן עוד לחזור לחוויה הקלאסית Outlook באינטרנט. אם אתה רוצה לתת משוב על החוויה החדשה, עבור אל הפורום [UserVoice](https://go.microsoft.com/fwlink/?linkid=2103182). באפשרותך להצביע על הרעיונות או הבעיות שמעניינים אותך, ונגיב ישירות להערות ולהצעות המובילות.
 
-[קבלת עזרה עבור Outlook החדש באינטרנט](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[קבל עזרה עבור Outlook באינטרנט](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
