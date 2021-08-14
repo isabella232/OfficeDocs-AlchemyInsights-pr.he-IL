@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630070"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868419"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>יומני ביקורת עבור הודעות דואר אלקטרוני שנמחקו
 
@@ -34,6 +34,6 @@ ms.locfileid: "53630070"
 
 בתוצאות, בחר רשומת ביקורת. בפרטים נשלף, לחץ **על מידע נוסף**. מידע נוסף אודות הפריט שנמחק (לדוגמה, שורת הנושא ומיקום הפריט בעת מחיקתו) מוצגים בשדה **AffectedItems.** המאפיין **ClientInfoString** יופיע אם המחיקה התרחשה ב- Outlook, Outlook באינטרנט (נקרא בעבר Outlook Web App) או כל מכשיר אחר.
 
-לקבלת מידע נוסף, [ראה קביעת מי הגדיר העברת דואר אלקטרוני עבור תיבת דואר](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
+לקבלת מידע נוסף, [ראה קביעת מי הגדיר העברת דואר אלקטרוני עבור תיבת דואר](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
-**הערה:** לא ניתן לאחזר פריטים שנמחקו באמצעות תכונת יומן הביקורת. כדי לאחזר הודעות שנמחקו ב- Outlook באינטרנט, ראה [שחזור פריטים שנמחקו ב- Outlook Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
+**הערה:** לא ניתן לאחזר פריטים שנמחקו באמצעות תכונת יומן הביקורת. כדי לאחזר הודעות שנמחקו ב- Outlook באינטרנט, ראה [שחזור פריטים שנמחקו ב- Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
