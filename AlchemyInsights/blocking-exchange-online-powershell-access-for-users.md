@@ -1,5 +1,5 @@
 ---
-title: 763 חוסם את הגישה של Exchange Online PowerShell עבור משתמשים
+title: 763 חסימת Exchange Online גישה ל- PowerShell עבור משתמשים
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "763"
 - "3500011"
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
-ms.openlocfilehash: 8ac61cb2c1e055c67538e39e8459b3eb56c95592
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36d4b4bb25b825dbc04cc08744c6b7af590094ca91197fe4dd3d3a92c653cb0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685527"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931414"
 ---
-# <a name="blocking-exchange-online-powershell-access-for-users"></a>חסימת הגישה של Exchange Online PowerShell עבור משתמשים
-כמנהל מערכת, יש לך את היכולת לחסום את הגישה ל-Exchange Online PowerShell עבור המשתמשים שלך. לקבלת מידע נוסף, עיין בנושאים הבאים:
+# <a name="blocking-exchange-online-powershell-access-for-users"></a>חסימת Exchange Online גישה ל- PowerShell עבור משתמשים
+כמנהל מערכת, באפשרותך לחסום גישה ל- PowerShell Exchange Online PowerShell עבור המשתמשים שלך. לקבלת מידע נוסף, עיין בנושאים הבאים:
 
-- [הפעלה או ביטול של גישה ל-Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
+- [הפיכת גישה לזמינה או ללא זמינה Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/disable-access-to-exchange-online-powershell)
 
-- [כללי גישת לקוח ב-Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (חיפוש הפרוטוקול **RemotePowerShell** ) 
+- [כללי Access לקוח ב- Exchange Online](https://technet.microsoft.com/library/mt842508.aspx) (חפש את **פרוטוקול RemotePowerShell)** 
 
-**הערה**: כפי שמתואר בנושא, הקפד לא לחסום את הגישה אל Exchange Online PowerShell עבור מנהלי מערכת.
+**הערה**: כמתואר בנושא, היזהר שלא לחסום גישה אל Exchange Online PowerShell עבור מנהלי מערכת.

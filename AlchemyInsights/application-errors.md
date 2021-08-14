@@ -1,5 +1,5 @@
 ---
-title: שגיאות יישומים
+title: שגיאות יישום
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,62 +13,62 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: 2ef90b54ce222a06740e05891fabe87b6565cb14
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: ce4c89da79112726ed4fb25527edc8d082bd37f239595b9eab7279abeeecfd7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931450"
 ---
-# <a name="application-errors"></a>שגיאות יישומים
+# <a name="application-errors"></a>שגיאות יישום
 
-מחפש מידע לגבי **קודי השגיאה של AADSTS** המוחזרים משירות ה-"תכלת active Directory (תכלת לספירה) שירות אסימוני אבטחה (STS)? קרא את [הודעות האימות וקודי שגיאת ההרשאות](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) של ' תכלת ' כדי למצוא תיאורי שגיאות של AADSTS, תיקונים ומספר פתרונות מוצעים.
+מחפש מידע אודות קודי **השגיאה של AADSTS** המוחזרים משירות אסימון האבטחה (STS) של Azure Active Directory (Azure AD)? קרא [קודי שגיאה של אימות והרשאות של Azure AD כדי](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) למצוא תיאורי שגיאות של AADSTS, תיקונים וחלק מהפתרונות המוצעים לעקיפת הבעיה.
 
-שגיאות הרשאה עשויות להיות תוצאה של כמה בעיות שונות, שרובו מייצר שגיאת 401 או 403. לדוגמה, הגורמים הבאים יכולים להוביל לשגיאות הרשאה:
+שגיאות הרשאה יכולות להיגרם ממספר בעיות שונות, כאשר רובן מייצרות את השגיאות 401 או 403. לדוגמה, כל הפעולות הבאות יכולות להוביל לשגיאות מתן הרשאות:
 
-- [זרימות רכישה](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) שגויות של גישת token 
-- [טווחי הרשאה](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) שתצורתם הוגדרה בצורה גרועה 
-- חוסר [הסכמה](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
+- [זרימות רכישה שגויות של אסימוני גישה](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
+- [טווחי הרשאות](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) שתצורתם לא נקבעה כהלכה 
+- היעדר [הסכמה](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
 
-כדי לפתור שגיאות הרשאה נפוצות, נסה את השלבים המפורטים להלן שמתאימים ביותר לשגיאה שאתה מקבל. ניתן להחיל יותר מאפשרות אחת.
+כדי לפתור שגיאות הרשאה נפוצות, נסה את השלבים המפורטים להלן התואמים ביותר לשגיאה שאתה מקבל. יותר מפעם אחת עשויים לחול.
 
-**שגיאה לא מורשית של 401: האם האסימון שלך תקף?**
+**שגיאת 'לא מורשה' 401: האם האסימון שלך חוקי?**
 
-ודא שהיישום שלך מציג אסימון גישה חוקי ל-Microsoft Graph כחלק מהבקשה. שגיאה זו משמעותה לעתים קרובות שאסימון הגישה חסר בכותרת הבקשה לאימות HTTP או שהאסימון אינו חוקי או שפג תוקפו. אנו ממליצים מאוד להשתמש [בספריית האימות של Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) עבור רכישת אסימון גישה. בנוסף, שגיאה זו עלולה להתרחש אם אתה מנסה להשתמש באסימון גישה מוסמכות שהוענקה לחשבון Microsoft אישי כדי לגשת לממשק API התומך רק בחשבונות עבודה או בבית ספר (חשבונות ארגוניים).
+ודא שהיישום שלך מציג אסימון גישה חוקי ל- Microsoft Graph כחלק מהבקשה. לעיתים קרובות פירוש שגיאה זו הוא שבכותרת בקשת האימות של HTTP אסימון הגישה חסר, או שהאסימון אינו חוקי או שתוקפו פג. מומלץ מאוד להשתמש בספריית האימות [של Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) לרכישת אסימון גישה. בנוסף, שגיאה זו עשויה להתרחש אם אתה מנסה להשתמש באסימון גישה מוסמך המוענק לחשבון Microsoft אישי כדי לגשת ל- API התומך רק בחשבונות בעבודה או בבית ספר (חשבונות ארגוניים).
 
-**שגיאה אסורה של 403: האם בחרת את ערכת ההרשאות המתאימה?**
+**שגיאת 'אסור' 403: האם בחרת את ערכת ההרשאות הנכונה?**
 
-ודא שביקשת את ערכת ההרשאות הנכונה בהתבסס על ממשקי ה-Api של Microsoft Graph שיחות היישום שלך. הרשאות מומלצות המפורטות לפחות מוצגות בכל נושאי שיטות העזר של API של Microsoft Graph. בנוסף, יש להעניק הרשאות אלה ליישום על-ידי משתמש או מנהל מערכת. הענקת הרשאות בדרך כלל מתבצעת באמצעות דף הסכמה או על-ידי הענקת הרשאות באמצעות להב הרישום של יישום הפורטל תכלת. מתוך להב **ההגדרות** עבור היישום, לחץ על **הרשאות נדרשות** ולאחר מכן לחץ על **הענקת הרשאות**.
+ודא שביקשת את ערכת ההרשאות הנכונה בהתבסס על ממשקי ה- API של Microsoft Graph היישומים שלך. הרשאות מומלצות הפחות הרשאות מסופקות בכל נושאי שיטת ההפניה של Microsoft Graph API. בנוסף, הרשאות אלה חייבות להיות מוענקות לאפליקציה על-ידי משתמש או מנהל מערכת. הענקת הרשאות מתרחשת בדרך כלל דרך דף הסכמה או על-ידי הענקת הרשאות באמצעות להב הרישום של יישום Azure Portal. מתוך ה- Blade **הגדרות** עבור האפליקציה, לחץ על **ההרשאות הנדרשות** ולאחר מכן לחץ על **הענק הרשאות**.
 
 - [הרשאות Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 
-- [הכרת הרשאות מודעות של תכלת והסכמה](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+- [הבנת ההרשאות וההסכמה של Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
 
-**שגיאה אסורה של 403: האם האפליקציה שלך השיגה אסימון שמתאים להרשאות שבחרת?**
+**שגיאת 'אסור' 403: האם האפליקציה שלך רכשה אסימון מתאים להרשאות שנבחרו?**
 
-ודא שסוג ההרשאות ביקשו או הוענקה תואם לסוג האסימון של access שהאפליקציה רוכשת. ייתכן שאתה מבקש ומעניק הרשאות יישומים, אך משתמש באסימוני זרימת קוד אינטראקטיביים במקום באסימונים של זרימת אישורי לקוח, או מבקש ומעניק הרשאות מוסמכות אך משתמש באסימונים של זרימת אישורי לקוח במקום באסימוני זרימת קוד מוקצות.
+ודא שסוג ההרשאות המבוקש או שהוענק תואם לסוג אסימון הגישה שהיישום שלך רוכש. ייתכן שאתה מבקש ומעניק הרשאות יישום אך משתמש באסימוני זרימת קוד אינטראקטיביים שהוקצו במקום באסימוני זרימת אישור של לקוח, או מבקש ומעניק הרשאות שהוקצו, אך משתמש באסימוני זרימת אישור של לקוח במקום באסימוני זרימת קוד שהוקצו.
 
-- [קבל גישה בשם משתמשים והרשאות מוסמכות](https://docs.microsoft.com/graph/auth_v2_user) 
-- [זרימת קוד ההרשאות של תכלת AD v 2.0-OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [קבל גישה ללא משתמש (שירות daemon) והרשאות יישומים](https://docs.microsoft.com/graph/auth_v2_service) 
-- [זרימת אישורי לקוח של תכלת AD v 2.0-OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
+- [קבלת גישה בשם המשתמשים והרשאות מוקצות](https://docs.microsoft.com/graph/auth_v2_user) 
+- [Azure AD v2.0 - זרימת קוד הרשאה של OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [קבלת גישה ללא משתמש (שירות Daemon) והרשאות אפליקציה](https://docs.microsoft.com/graph/auth_v2_service) 
+- [Azure AD v2.0 - זרימת אישורי לקוח של OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
 
-**שגיאה אסורה של 403: איפוס סיסמה**
+**שגיאת 'אסור' 403: איפוס סיסמה**
 
-בשלב זה, אין הרשאות של הרשאת שירות לשירות ב-daemon של הרשאת היישום המאפשרות איפוס סיסמאות משתמשים. ממשקי Api אלה נתמכים רק באמצעות הקוד האינטראקטיבי של הקוד המוקצה עם מנהל מערכת מחובר.
+בשלב זה, אין הרשאות שירות-לשירות של Daemon של הרשאות אפליקציה המאפשרות איפוס סיסמאות משתמשים. ממשקי API אלה נתמכים רק באמצעות זרימות קוד אינטראקטיבי מוקצות עם מנהל מערכת מחובר.
 
 - [הרשאות Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference)
 
-**403 אסור: האם למשתמש יש גישה והוא מורשה?**
+**403 'אסור': האם למשתמש יש גישה והאם יש לו רשיון?**
 
-עבור זרימות קוד מועברות, Microsoft Graph מעריך אם הבקשה מותרת בהתבסס על ההרשאות שהוענקה ליישום וההרשאות שלמשתמש הנכנס יש. באופן כללי, שגיאה זו מציינת שלמשתמש אין הרשאות מספיקות כדי לבצע את הבקשה או שהמשתמש אינו מורשה לגשת לנתונים. רק משתמשים בעלי ההרשאות או הרשיונות הדרושים יכולים לבצע את הבקשה בהצלחה.
+עבור זרימה של קוד Graph, Microsoft Graph אם הבקשה מותרת בהתבסס על ההרשאות שהוענקו לאפליקציה וההרשאות שיש למשתמש הכניסה. באופן כללי, שגיאה זו מציינת כי למשתמש אין הרשאות מספיקות כדי לבצע את הבקשה או שלמשתמש אין רשיון לגישה לנתונים. רק משתמשים בעלי ההרשאות או הרשיונות הדרושים יכולים לבצע את הבקשה בהצלחה.
 
-**403 אסור: האם בחרת את ה-API של משאבים נכון?**
+**403 'אסור': האם בחרת את ה- API של המשאב הנכון?**
 
-שירותי API כגון Microsoft Graph בדוק שהתביעה האוסטרלית (קהל) באסימון הגישה שהתקבלה תואמת לערך שהוא מצפה לו, ואם לא, היא מביאה לשגיאה אסורה של 403. טעות נפוצה הנובעת משגיאה זו מנסה להשתמש באסימון שנרכש עבור ממשקי Api של הודעות מיידיות של הודעות מיידיות, Api של Outlook או SharePoint/OneDrive כדי להתקשר ל-Microsoft Graph (או להיפך). ודא שהמשאב (או הטווח) האפליקציה שלך רוכשת אסימון לצורך התאמה ל-API שאליו מתקשר היישום.
+שירותי API כמו Microsoft Graph לבדוק שטענת השידור (קהל) באסימון הגישה שהתקבלה תואמת לערך שהוא מצפה לו, ואם לא, היא תקבל שגיאה אסורה 403. טעות נפוצה שגורמת לשגיאה זו היא הניסיון להשתמש באסימון שנרכש עבור ממשקי API של Azure AD Graph, ממשקי API של Outlook או ממשקי API של SharePoint/OneDrive כדי לקרוא ל- Microsoft Graph (או להפך). ודא כי המשאב (או הטווח) שהאפליקציה שלך רוכשת אסימון עבורו תואם ל- API שהאפליקציה קוראת לו.
 
-**400 בקשה שלילית או 403 אסורים: האם המשתמש מציית למדיניות הגישה המותנה (CA) של הארגון שלהם?**
+**400 'בקשה שגויה' או '403 אסור': האם המשתמש מציית לפריטי מדיניות הגישה המותנה (CA) של הארגון שלו?**
 
-בהתבסס על מדיניות של רשות אישורים של ארגון, משתמש הניגש למשאבי Microsoft Graph באמצעות האפליקציה עשוי להיות מאותגר לקבלת מידע נוסף שאינו מופיע באסימון הגישה שהאפליקציה שלך רכשה במקור. במקרה זה, האפליקציה מקבלת 400 עם שגיאת *interaction_required* במהלך רכישת אסימון של access או 403 עם שגיאת *insufficient_claims* בעת התקשרות ל-Microsoft Graph. בשני המקרים, תגובת השגיאה מכילה מידע נוסף שניתן להציג לנקודת הקצה של האישור כדי לקרוא תיגר על המשתמש לקבלת מידע נוסף (כגון אימות רב-גורמי או הרשמת מכשירים).
+בהתבסס על מדיניות רשות אישורים של ארגון, ייתכן שמשתמש ניגש למשאבי Microsoft Graph דרך האפליקציה שלך לקבלת מידע נוסף שלא נמצא באסימון הגישה שבו האפליקציה רכשה במקור. במקרה זה, האפליקציה שלך תקבל שגיאת 400 עם *interaction_required* במהלך רכישת אסימון הגישה או שגיאת 403 עם *insufficient_claims* בעת קריאה ל- Microsoft Graph. בשני המקרים, תגובת השגיאה מכילה מידע נוסף ש ניתן להציג לנקודות הקצה המאשרות לאתגר את המשתמש לקבלת מידע נוסף (כמו אימות רב-גורמי או הרשמה למכשירים).
 
-- [טיפול באתגרים של גישה מותנית באמצעות MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
-- [הדרכה למפתחים עבור הגישה המותנה של תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
+- [טיפול באתגרי גישה מותנים באמצעות MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
+- [הדרכה למפתחים בנושא גישה מותנית ב- Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
