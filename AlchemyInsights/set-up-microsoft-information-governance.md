@@ -1,5 +1,5 @@
 ---
-title: הגדרת ממשל Microsoft information
+title: הגדרת פיקוח על מידע של Microsoft
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921620"
 ---
-# <a name="set-up-microsoft-information-governance"></a>הגדרת ממשל Microsoft information
+# <a name="set-up-microsoft-information-governance"></a>הגדרת פיקוח על מידע של Microsoft
 
-[מדריך ההגדרה של מנהל המידע של Microsoft](https://go.microsoft.com/fwlink/?linkid=2146529) מספק לך את המידע שעליך להגדיר ולנהל את אסטרטגיית הניהול של הארגון שלך, כדי להבטיח שהנתונים שלך מסווגים ומנוהלים בהתאם להנחיות מחזור החיים הספציפיות שקבעת.
+מדריך [ההגדרה של Microsoft Information Governance](https://go.microsoft.com/fwlink/?linkid=2146529) מספק לך את המידע שתצטרך להגדיר ולנהל את אסטרטגיית הפיקוח של הארגון שלך, כדי לוודא שהנתונים שלך מסווגים ומנוהלים בהתאם לקווים המנחים הספציפיים של מחזור החיים שאתה מגדיר.
 
-עם מדריך זה, תלמד כיצד ליצור, להחיל באופן אוטומטי או לפרסם תוויות, מדיניות תוויות ופריטי מדיניות שמירה המוחלים על התוכן ורשומות התאימות הניתנות לשימוש חוזר של הארגון שלך. תוכל גם לקבל מידע על ייבוא קבצי CSV באמצעות תוכנית קבצים לתרחישים בצובר או להחלתם באופן ידני על מסמכים בודדים.
+באמצעות מדריך זה, תלמד כיצד ליצור, להחיל באופן אוטומטי או לפרסם תוויות, פריטי מדיניות תוויות ומדיניות שמירה המוחלים על רשומות התוכן והתאימות הניתן לשימוש חוזר של הארגון שלך. תוכל גם לקבל מידע אודות ייבוא קבצי CSV עם תוכנית קבצים עבור תרחישים בצובר או להחלתם באופן ידני על מסמכים בודדים.

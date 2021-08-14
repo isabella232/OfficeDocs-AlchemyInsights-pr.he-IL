@@ -1,5 +1,5 @@
 ---
-title: לקוח teams תקוע על טעינה
+title: Teams נתקע בעת טעינה
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "8019"
-ms.openlocfilehash: d8e9e57967fd1b4952f6d03dbc0070eec39910d6
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: e9a62890210d8f1867d864b021bef194384ef494b35ece4c1962e4f33ac53272
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093011"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981690"
 ---
-# <a name="teams-client-is-stuck-on-loading"></a>לקוח teams תקוע על טעינה
+# <a name="teams-client-is-stuck-on-loading"></a>Teams נתקע בעת טעינה
 
-Microsoft מודעת לבאג בגירסת build של יישום שולחן העבודה של Teams לאחרונה המונעת מהמשתמשים להיכנס. משתמשים מושפעים רואים הודעת טעינה של Microsoft Teams שמופיעה.
+Microsoft מודעת לבאג ב- build Teams שולחן העבודה האחרון שמונע ממשתמשים להיכנס. משתמשים מושפעים רואים הודעת Microsoft Teams מופיעה.
 
-הפתרון הפשוט ביותר עבור הזמן הוא להשתמש ב-Teams web app <https://teams.microsoft.com/> .
+הפתרון הפשוט ביותר בשלב זה הוא להשתמש ב- Teams Web App <https://teams.microsoft.com/> ב- .
 
-לקבלת מידע נוסף ומצב נוכחי, עיין בפרסום לוח המחוונים של תקינות השירות <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
+לקבלת מידע נוסף ומצב נוכחי, עיין בפרסום לוח המחוונים של תקינות השירות ב- <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>

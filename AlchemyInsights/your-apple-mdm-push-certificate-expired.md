@@ -1,5 +1,5 @@
 ---
-title: תוקף אישור הדחיפה של Apple MDM פג
+title: פג תוקפו של אישור דחיפה של Apple MDM
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a349b0c4a7a0b7fe8e28ab0ba107ed16cccf81638544a5009e93fab66094fac4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997423"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>תוקף אישור הדחיפה של Apple MDM פג
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>פג תוקפו של אישור דחיפה של Apple MDM
 
-אישור הדחיפה של Apple MDM תקף לשנה אחת ויש לחדש אותו מדי שנה כדי לשמור על ניהול מכשירי iOS ו- macOS. אם פג התוקף של האישור, לא ניתן ליצור קשר עם מכשירי Apple שנרשמו, ואין אפשרות לרשום מכשירים חדשים.
+אישור הדחיפה של Apple MDM תקף לשנה אחת ויש לחדש אותו מדי שנה כדי לשמור על ניהול מכשירי iOS ו- macOS. אם פג תוקפו של האישור שלך, לא ניתן ליצור קשר עם מכשירי Apple שנרשמו, ולא ניתן לרשום מכשירים חדשים.
 
-לקבלת שלבים לחידוש האישור שלך ב-Apple MDM, ראה [חידוש האישור של APPLE mdm לדחיפה](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+לקבלת שלבים לחידוש אישור דחיפה של Apple MDM, ראה [חידוש אישור דחיפה של Apple MDM](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
