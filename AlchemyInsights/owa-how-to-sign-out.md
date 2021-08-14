@@ -1,5 +1,5 @@
 ---
-title: כיצד לצאת מ-Outlook באינטרנט
+title: כיצד לצאת Outlook באינטרנט
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341cdededd28da9b224d292149cfc648d13939f28e11104cecdec14eef7c5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063161"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>כיצד לצאת מ-Outlook באינטרנט
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>כיצד לצאת Outlook באינטרנט
 
-כדי לצאת מ-Outlook באינטרנט, בחר את שמך או את התמונה שלך בפינה השמאלית העליונה ובחר **יציאה.**
+כדי לצאת מ- Outlook באינטרנט, בחר את שמך או התמונה בפינה השמאלית העליונה ובחר **צא**.
 
-כדי להפסיק את הכניסה האוטומטית לחשבון שלך בעבודה או בבית הספר:
+כדי להפסיק להיכנס באופן אוטומטי לחשבון שלך בעבודה או בבית הספר:
 
-1. בחר את שמך או את התמונה שלך ובחר **יציאה.**
-1. עבור אל [Outlook.office.com](https://outlook.office.com/) **ובחר השתמש בחשבון אחר**.
-1. היכנס באמצעות כתובת הדואר האלקטרוני שבה ברצונך להשתמש.
+1. בחר את שמך או התמונה ובחר **צא.**
+1. עבור אל [Outlook.office.com](https://outlook.office.com/) ובחר השתמש **בחשבון אחר**.
+1. היכנס באמצעות כתובת הדואר האלקטרוני שברצונך להשתמש בה.
 
-לקבלת מידע נוסף, ראה [כיצד להיכנס ל-Outlook באינטרנט או לצאת ממנו](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+כדי ללמוד עוד, [ראה כיצד להיכנס או לצאת Outlook באינטרנט](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
