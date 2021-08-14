@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972420"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>פתרון בעיות ייבוא PST
 
-- אם אתה מייבא בתוך לקוח Outlook עצמו, ראה [פתרון בעיות בייבוא קובץ .pst של Outlook](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+- אם אתה מייבא בתוך הלקוח Outlook עצמו, ראה [פתרון בעיות בייבוא קובץ .pst של Outlook .](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
 - אם אתה משתמש בשירות ייבוא והוא תקוע, שים לב שכל קובץ PST שאתה מעלה למיקום Azure Storage לא אמור להיות גדול מ- 20GB. קבצי PST הגדולים מ- 20GB עשויים להשפיע על הביצועים של תהליך הייבוא של PST. לקבלת מידע נוסף פתרון בעיות של משימות תקועות, ראה בעיות [המשפיעות על משימות ייבוא PST](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 

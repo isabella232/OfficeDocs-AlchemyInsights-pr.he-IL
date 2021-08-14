@@ -4,10 +4,10 @@
 - 9003349
 ---
 
-# <a name="troubleshoot-presence-issues-in-outlook"></a>פתרון בעיות נוכחות ב- Outlook
+# <a name="troubleshoot-presence-issues-in-outlook"></a>פתרון בעיות נוכחות Outlook
 
-כדי לאבחן ולתקן בעיות במצב הנוכחות של משתמש ב- Outlook, הורד ולהפעיל את מסייע התמיכה ושחזור של Microsoft > [תרחיש נוכחות של Teams](https://aka.ms/SaRA-TeamsPresenceScenario).
+כדי לאבחן ולתקן בעיות במצב הנוכחות של משתמש ב- Outlook, הורד ולהפעיל את Microsoft מסייע התמיכה והשחזור > [Teams תרחיש נוכחות](https://aka.ms/SaRA-TeamsPresenceScenario).
 
-כדי לפתור בעיה באופן ידני עם נוכחות ב- Outlook, בצע את השלבים בנושא בעיות [מצב נוכחות משתמש ב- Outlook.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
+כדי לפתור בעיה באופן ידני עם נוכחות ב- Outlook, בצע את השלבים בנושא בעיות [מצב נוכחות משתמש ב- Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook).
 
-אם מצב הנוכחות אינו מתעדכן ב- Teams, ראה מצב הנוכחות בפועל [שלך אינו משתקף ב- Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).
+אם מצב הנוכחות אינו מתעדכן ב- Teams, ראה מצב הנוכחות [בפועל שלך אינו משתקף ב- Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).
