@@ -1,5 +1,5 @@
 ---
-title: עזרה של הרשמה ב-iOS
+title: עזרה להרשמה של iOS
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 967088dfda5445d4c77f51eb177dbbb721f8a775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c4249b81e218b5d7d133c9d96b34fd5051277fb7ed849b0f6e90b2c18fb0e0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001401"
 ---
-# <a name="ios-enrollment-help"></a>עזרה של הרשמה ב-iOS
+# <a name="ios-enrollment-help"></a>עזרה להרשמה של iOS
 
-שמנו לב שאתה עשוי להיתקל בבעיה בהרשמת iOS. להלן כמה מאמרים שלדעתנו יכולים לעזור: 
+הבחנו שייתכן שיש לך בעיה כלשהי עם ההרשמה ל- iOS. להלן כמה מאמרים שלחושבים יכולים לעזור: 
 
-[שגיאות נפוצות ופתרונות של הרשמה ב-iOS](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
+[שגיאות ופתרונות נפוצים של הרשמה ל- iOS](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune)
 
-[תחילת העבודה עם ' שלחן ' ו-iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[תחילת העבודה עם Intune ו- iOS](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[פתרון בעיות בהרשמה כללית](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[פתרון בעיות הרשמה כללי](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[שימוש בפורטל ' שימוש בפתרון בעיות ' כדי לאבחן ולפתור כשלי הרשמה נפוצים](https://docs.microsoft.com/intune/help-desk-operators)
+[שימוש בפורטל פתרון הבעיות של Intune כדי לאבחן ולפתור כשלים נפוצים בהרשמה](https://docs.microsoft.com/intune/help-desk-operators)

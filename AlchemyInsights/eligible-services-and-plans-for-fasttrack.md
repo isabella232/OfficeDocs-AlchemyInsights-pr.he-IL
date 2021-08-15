@@ -1,5 +1,5 @@
 ---
-title: שירותים ותוכניות מתאימים עבור FastTrack
+title: שירותים ותוכניות זכאים עבור FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: bb91628ac9df19cbaf17f53c3c5db13b9b592ffb
-ms.sourcegitcommit: 3e16fd8b7704bd44e07be90816a350bad21bcb1d
+ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030237"
 ---
-# <a name="eligible-services-and-plans-for-fasttrack"></a>שירותים ותוכניות מתאימים עבור FastTrack
+# <a name="eligible-services-and-plans-for-fasttrack"></a>שירותים ותוכניות זכאים עבור FastTrack
 
-הודות להטבה של FastTrack Center עבור Office 365, אתה עובד באופן מרוחק עם מומחי FastTrack-ללא תשלום נוסף-כדי להתכונן לשימוש בסביבת Office 365. מומחי FastTrack יכולים לעזור לך לאחר רכישת רשיונות 150 לפחות.
+עם היתרון של מרכז FastTrack עבור Office 365, אתה עובד מרחוק עם FastTrack Specialists – ללא עלות נוספת - כדי שהסביבה Office 365 שלך תהיה מוכנה לשימוש. FastTrack Specialists יכולים לעזור לך לאחר רכישת 150 רשיונות לפחות.
 
-כדי לקבל עזרה דרך פורטל FastTrack, היכנס [לפורטל FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) ובצע את השלבים כדי להשלים את **הבקשה לסיוע באמצעות הטופס של Microsoft 365** .
+כדי לקבל עזרה בפורטל FastTrack, היכנס לפורטל [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) ובצע את השלבים כדי להשלים את **הבקשה לקבלת סיוע באמצעות Microsoft 365** הטופס.
 
 > [!NOTE]
-> אם אתה נתקל בבעיות בכניסה או זקוק לסיוע נוסף, שלח הודעת דואר אלקטרוני ל- [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+> אם אתה נתקל בבעיות בכניסה או אם אתה זקוק לעזרה נוספת, שלח הודעת דואר אלקטרוני [אל ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
-יש מגוון של תוכניות הזכאיות ל-FastTrack עבור תעשיות שונות, מעסקים ארגוניים ועד מוסדות חינוך.
+קיימים מגוון תוכניות הזכאים ל- FastTrack עבור תעשיות שונות, החל מעסקים ארגוניים ועד למוסדות חינוך.
 
-לקבלת מידע נוסף, ראה [התאימים לתוכניות Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2125459).
+לקבלת מידע נוסף, ראה [תוכניות Microsoft 365 זכאיות](https://go.microsoft.com/fwlink/?linkid=2125459).
 
-יש מגוון של שירותים זכאים, מ-Exchange Online ל-Microsoft Teams, Microsoft 365 ו-Windows 10.
+יש מגוון שירותים זכאים, החל מ- Exchange Online עד Microsoft Teams, Microsoft 365 ו- Windows 10.
 
-לקבלת רשימה מלאה של שירותים זכאים, ראה [שירותים זכאים](https://go.microsoft.com/fwlink/?linkid=2125636).
+לקבלת רשימה מלאה של שירותים זכאים, ראה [שירותים זכאים.](https://go.microsoft.com/fwlink/?linkid=2125636)

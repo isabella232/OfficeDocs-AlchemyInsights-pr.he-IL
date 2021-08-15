@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 321
 ms.assetid: 2a1f6f67-d69f-4cbf-b0f2-5f10998b5ba1
-ms.openlocfilehash: b0534c8eef97c1e2ba3a92a243b089905a395fd4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d54c945b71eead1d05f30aa90c84bab87cec162bcffeec836471b5a25c5055e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001365"
 ---
 # <a name="a-user-isnt-receiving-email-messages"></a>משתמש אינו מקבל הודעות דואר אלקטרוני
 
-נראה שאתה מעוניין בבעיית זרימת דואר. יש לנו אבחון שיעזור לזהות בעיות נפוצות רבות בזרימת הדואר. לחץ על **הרצת אבחון** להלן.
+נראה שיש לך בעיית זרימת דואר. יש לנו אבחון שיסייע בזיהוי בעיות נפוצות רבות של זרימת דואר. לחץ **על הפעל אבחון** להלן.
  

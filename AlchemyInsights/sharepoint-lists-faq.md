@@ -1,5 +1,5 @@
 ---
-title: שאלות נפוצות לגבי רשימות SharePoint
+title: SharePoint שאלות נפוצות
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "5677"
-ms.openlocfilehash: 67efc19aa311d8c57825521d57775913b37714da
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5377afd7ac8ad3a51078f162a22a8543e9195cdfb3c91867014147deda717acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023055"
 ---
-# <a name="sharepoint-lists-faq"></a>שאלות נפוצות לגבי רשימות SharePoint
+# <a name="sharepoint-lists-faq"></a>SharePoint שאלות נפוצות
 
 **פתרון בעיות ברשימות Sharepoint**:
 
-נווט [אל פתרון בעיות של SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/online) ו"סנן לפי כותרת" או הסתעפות ידנית למאמרים תחת המקטע 'רשימות וספריות'.
+נווט [אל SharePoint פתרון](https://docs.microsoft.com/sharepoint/troubleshoot/online) בעיות מקוון ו"סנן לפי כותרת" או הסתעפות ידנית למאמרים תחת המקטע 'רשימות וספריות'.
 
 **כדי ללמוד אודות רשימות**:
 
@@ -32,8 +32,8 @@ ms.locfileid: "51823644"
 - [יצירת רשימה ב- SharePoint](https://support.office.com/article/create-a-list-in-sharepoint-0d397414-d95f-41eb-addd-5e6eff41b083)
 - [עריכת הגדרות רשימה ב- SharePoint Online](https://support.microsoft.com/en-us/office/edit-list-settings-in-sharepoint-online-4d35793b-246e-42a3-990c-563a83795b7f)
 - [מחיקת רשימה ב- SharePoint](https://support.microsoft.com/en-us/office/delete-a-list-in-sharepoint-2a7bca5b-b8fd-4e5b-8f4b-2ac034f3070d)
-- [יצירת עמודה ברשימה או בספריה של SharePoint](https://support.microsoft.com/en-us/office/create-a-column-in-a-sharepoint-list-or-library-2b0361ae-1bd3-41a3-8329-269e5f81cfa2)
-- [קבל הודעה כאשר רשימה או פריט רשימה של SharePoint Online משתנים](https://support.office.com/article/get-notified-of-list-changes-in-sharepoint-85ca9280-f4b1-485a-a49e-a593ffa62e39)
+- [יצירת עמודה ברשימה או SharePoint ספריה](https://support.microsoft.com/en-us/office/create-a-column-in-a-sharepoint-list-or-library-2b0361ae-1bd3-41a3-8329-269e5f81cfa2)
+- [קבל הודעה כאשר רשימה מקוונת SharePoint או פריט רשימה משתנים](https://support.office.com/article/get-notified-of-list-changes-in-sharepoint-85ca9280-f4b1-485a-a49e-a593ffa62e39)
 - [קולטת למי יש גישה לרשימה או לפריט רשימה בודד](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 - [עריכת הרשאות עבור רשימה או ספריה](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 - [הפיכת ניהול גירסאות לזמין ולקבוע את תצורתו עבור רשימה או ספריה](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)

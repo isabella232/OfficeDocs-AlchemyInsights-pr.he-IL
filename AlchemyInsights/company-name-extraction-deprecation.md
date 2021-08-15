@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2703"
 - "9000759"
-ms.openlocfilehash: a0e646694424e7526e8d761092a39f94356017d7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 15943bdc6e8d69e6a48cc0dd081afdee150e95a34823657156fd9abe111824d5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978774"
 ---
 # <a name="changes-to-company-name-extraction-in-sharepoint-online"></a>שינויים לחילוץ שם החברה ב- SharePoint Online
 
-החל מ- 15 בנובמבר 2019, נסיר את [חילוץ שם החברה מ- SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). חילוץ שם חברה ב- SharePoint מאפשר למערכת החיפוש לחלץ שמות של חברה מתוכן תחת קבוצה ספציפית של תנאים באמצעות מילון מאוכלס מראש או באמצעות הרשימות הכללות של החברה או אי-הכללות של החברה. בעוד חילוץ שם החברה הפך לפתרון שנון כדי להפיק שם חברה אחד או יותר מתוכן ב- SharePoint Online, הן המילון וגם ערכת התכונה שלו הפכה למיושנים.
+החל מ- 15 בנובמבר 2019, אנו נסיר את [חילוץ שם החברה מ- SharePoint Online](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online). חילוץ שם החברה ב- SharePoint מאפשר למערכת החיפוש לחלץ שמות של חברה מתוכן תחת קבוצת תנאים ספציפית באמצעות מילון מאוכלס מראש או באמצעות רשימות הכללות החברה או אי הכללות של החברה. בעוד חילוץ שם החברה הפך לפתרון שנון כדי להפיק שם חברה אחד או יותר מתוכן ב- SharePoint Online, הן המילון וגם ערכת תכונת ברירת המחדל שלו הפכו למיושנים.
 
 - [כיצד ניתן לדעת אם חילוץ שם חברה זמין עבור מאפיין?](https://docs.microsoft.com/sharepoint/changes-to-company-name-extraction-in-sharepoint-online#how-do-i-know-if-company-name-extraction-is-enabled-for-a-property)
 
