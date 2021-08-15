@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813185"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029805"
 ---
 # <a name="file-open-read-only"></a>קובץ פתוח לקריאה בלבד
 
@@ -38,17 +38,17 @@ ms.locfileid: "51813185"
   
  **האם OneDrive מלא?**
   
-אם הקובץ מאוחסן ב- OneDrive ונפח האחסון שלך ב- OneDrive מלא, לא תוכל לשמור את המסמך עד שתמלא את השטח שהוקצה לך. באפשרותך לבדוק את השטח הפנוי שלך ב- OneDrive על-ידי לחיצה על סמל OneDrive במרכז ההודעות ובחירה באפשרות נהל שטח אחסון, או לעבור אל , להיכנס ולציין את כמות השטח בשימוש בחלק הימני התחתון [https://onedrive.live.com](https://onedrive.live.com) של המסך.
+אם הקובץ מאוחסן ב- OneDrive ונפח האחסון OneDrive מלא, לא תוכל לשמור את המסמך עד שתמלא את השטח שהוקצה לך. באפשרותך לבדוק את השטח הפנוי שלך ב- OneDrive על-ידי לחיצה על סמל OneDrive במרכז ההודעות ובחירה באפשרות נהל שטח אחסון, או לעבור אל , להיכנס ולציין את כמות השטח המשמש בפינה [https://onedrive.live.com](https://onedrive.live.com) הימנית התחתונה של המסך.
   
  **האם Office מופעל?**
   
-אם Office אינו מופעל, או אם פג תוקפו של המנוי שלך, ייתכן שאתה נמצא במצב פונקציונליות מופחתת לקריאה בלבד. לקבלת מידע אודות הפעלת Office, ראה: שגיאות מוצר [ללא רשיון והפעלה ב- Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+אם Office אינו מופעל, או אם פג תוקפו של המנוי שלך, ייתכן שאתה נמצא במצב פונקציונליות מופחתת לקריאה בלבד. לקבלת מידע אודות הפעלת Office, ראה: שגיאות מוצר ללא רשיון והפעלה [ב- Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **אם כל השאר נכשל...**
   
 - נסה להפעיל מחדש את המחשב
     
-- התקנת עדכוני Office
+- התקן עדכוני Office
     
 - ביצוע תיקון מקוון של Office
     

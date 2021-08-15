@@ -1,5 +1,5 @@
 ---
-title: גישה לדוחות אודות מדיניות הגנה של יישומים ב-Microsoft intune
+title: Access דוחות אודות מדיניות הגנה על אפליקציות ב- Microsoft Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004635"
 - "8383"
-ms.openlocfilehash: 6de9c28c7c13141d86b643eae8d53fcd40317011
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 8f8f156ebb7f6e6a6d2a82de0391577a12ab6c9ddd864a4c35f0e24c4ac638d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427670"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955058"
 ---
-# <a name="access-reports-about-app-protection-policies-in-microsoft-intune"></a>גישה לדוחות אודות מדיניות הגנה של יישומים ב-Microsoft intune
+# <a name="access-reports-about-app-protection-policies-in-microsoft-intune"></a>Access דוחות אודות מדיניות הגנה על אפליקציות ב- Microsoft Intune
 
-באפשרותך לגשת לדוחות ולהוריד אותם המציגים את מצב מדיניות הגנת היישומים שלך מ-Microsoft intune. ראה בקלות דברים כגון המשתמשים שהוקצו להם מדיניות, בין אם משתמשים מסומנים בדגל עבור פעילות חשודה, או שמשתמשים משתמשים ביישומים מזיקים שעשויים להיות מותקנים במכשירים שלהם.
+באפשרותך לגשת ולהוריד דוחות שמראים את המצב של מדיניות ההגנה על האפליקציה שלך Microsoft Intune. ראה בקלות דברים כגון אילו משתמשים מוקצים למדיניות, בין אם משתמשים כלשהם מסומנים לפעילות חשודה, או אילו משתמשים התקנו אפליקציות שעלולות להיות מזיקות במכשירים שלהם.
 
-1. עבור אל [מרכז הניהול של מנהל נקודות הקצה של Microsoft](https://go.microsoft.com/fwlink/?linkid=2109431).
-1. בחר **יישומים**  >  **לניטור**  >  **מצב הגנה**  >  על יישומים.
-1. בחר את הדוח שברצונך להציג ולאחר מכן בחר את המשתמשים או היישומים שברצונך להסתכל עליהם, בהתאם לדוח.
-1. כדי להוריד עותק של הדוח בקובץ. csv, לחץ על **הורד דוח**.
+1. עבור אל [Microsoft Endpoint Manager הניהול של](https://go.microsoft.com/fwlink/?linkid=2109431).
+1. בחר **Apps**  >  **Monitor**  >  **App Protection Status**  >  **Reports**.
+1. בחר את הדוח שברצונך להציג ולאחר מכן בחר את המשתמשים או היישומים שברצונך לחפש, בהתאם הדוח.
+1. כדי להוריד עותק של הדוח בקובץ .csv, לחץ **על הורד הדוח.**
 
-לקבלת מידע נוסף, ראה [תצוגת דיווח](https://go.microsoft.com/fwlink/?linkid=2109431).
+כדי ללמוד עוד, [ראה תצוגת דיווח](https://go.microsoft.com/fwlink/?linkid=2109431).
