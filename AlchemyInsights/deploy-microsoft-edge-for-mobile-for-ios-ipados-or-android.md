@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005451"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>פריסת Microsoft Edge עבור Mobile עבור iOS/iPadOS או Android
 
-התרחיש המודרך להלן יסייע לך להקצות את Microsoft Edge למשתמשים של מכשירי iOS, iPadOS ו-Android. לאחר השלמת שלבים אלה, מדיניות העידון של Microsoft תאפשר את התכונות הבאות של Microsoft Edge for business:
+התרחיש המודרך המסוכם להלן יעזור לך להקצות Microsoft Edge למשתמשים של מכשירי iOS , iPadOS ו- Android. לאחר השלמת שלבים אלה, מדיניות Microsoft Intune תפעיל את התכונות הבאות של Microsoft Edge לעסקים:
 
 - זהות כפולה
-- שילוב עם מדיניות הגנת היישומים של Microsoft intune
-- שילוב עם Proxy של היישום ' תכלת Active Directory '
-- קיצורי מועדפים ודפי בית מנוהלים
+- שילוב עם מדיניות Microsoft Intune יישום הגנה
+- שילוב עם Azure Active Directory Application Proxy
+- קיצורי דרך של מועדפים מנוהלים ודף בית
 
 > [!NOTE]
-> אם חסמת משתמשים לרשום מכשירים ניידים, תרחיש מודרך זה לא יפעל, והמשתמשים יצטרכו להתקין את Microsoft Edge בעצמם.
+> אם חסמת ממשתמשים לרשום מכשירים ניידים, תרחיש מודרך זה לא יעבוד והמשתמשים יתקינו את Microsoft Edge שלהם.
 
-כדי לפרוס את Microsoft Edge עבור Mobile עבור iOS/iPadOS או Android, ראה:
+כדי לפרוס Microsoft Edge עבור Mobile עבור iOS/iPadOS או Android, ראה:
 
 1. [דרישות מוקדמות](https://go.microsoft.com/fwlink/?linkid=2133027)
 2. [מבוא](https://go.microsoft.com/fwlink/?linkid=2133520)
 3. [יסודות](https://go.microsoft.com/fwlink/?linkid=2133421)
-4. [תצורה](https://go.microsoft.com/fwlink/?linkid=2133521)
+4. [קביעת תצורה](https://go.microsoft.com/fwlink/?linkid=2133521)
 5. [מטלות](https://go.microsoft.com/fwlink/?linkid=2132869)
 6. [סקירה ויצירה](https://go.microsoft.com/fwlink/?linkid=2133522)

@@ -1,5 +1,5 @@
 ---
-title: העברת תיקיות ציבוריות לקבוצות Microsoft 365
+title: העברת תיקיות ציבוריות Microsoft 365 קבוצות
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "10859"
 - "3500007"
-ms.openlocfilehash: a82d36cf91e2d28274c89bf7ebd39185666a09cb
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
-ms.translationtype: MT
+ms.openlocfilehash: f80432a0c0616ae922f63bf8bd4eb57e7c4187b05f82b58b21106a7f0c7863a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51595530"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026583"
 ---
-# <a name="migrate-public-folders-to-microsoft-365-groups"></a>העברת תיקיות ציבוריות לקבוצות Microsoft 365
+# <a name="migrate-public-folders-to-microsoft-365-groups"></a>העברת תיקיות ציבוריות Microsoft 365 קבוצות
 
-ניתן להעביר תיקיות ציבוריות לקבוצות Microsoft 365. לקבלת שלבים מפורטים, [ראה העברת התיקיות הציבוריות שלך לקבוצות Microsoft 365.](https://aka.ms/PFToM365Group)
+ניתן להעביר תיקיות ציבוריות אל Microsoft 365 קבוצות. לקבלת שלבים מפורטים, [ראה העברת התיקיות הציבוריות שלך Microsoft 365 קבוצות](https://aka.ms/PFToM365Group).

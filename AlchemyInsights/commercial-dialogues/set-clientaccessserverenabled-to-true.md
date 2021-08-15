@@ -1,5 +1,5 @@
 ---
-title: הגדרת ClientAccessServerEnabled ל-True
+title: הגדרת ClientAccessServerEnabled ל- True
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994866"
 ---
-# <a name="set-clientaccessserverenabled-to-true"></a>הגדרת ClientAccessServerEnabled ל-True
+# <a name="set-clientaccessserverenabled-to-true"></a>הגדרת ClientAccessServerEnabled ל- True
 
-אם אינך מצליח לפתוח הודעת דואר אלקטרוני מוצפנת ובמקום זאת אתה רואה קובץ מצורף של **rpmsg** , בצע את השלבים הבאים:
+אם אינך יכול לפתוח הודעת דואר אלקטרוני מוצפנת ובמקום זאת לראות קובץ **מצורף rpmsg,** בצע את השלבים הבאים:
 
-1. התחבר אל Exchange Online PowerShell.
+1. התחברות כדי Exchange Online PowerShell.
 
 > [!NOTE]
-> כדי להתחבר ל-Exchange Online PowerShell, עליך להיכנס באמצעות חשבון מנהל מערכת כללי או מנהל מערכת של Exchange.
+> כדי להתחבר Exchange Online PowerShell, עליך להיכנס באמצעות מנהל מערכת כללי או Exchange מנהל מערכת.
 
-   מ. פתח את Windows PowerShell ולאחר מכן הפעלת הפקודה הבאה: `$UserCredential = Get-Credential`
-b. בתיבת הדו **בקשת אישור של Windows PowerShell** , הזן את החשבון שלך בעבודה או בבית הספר והסיסמה שלך, c. לחץ על **אישור**. 
+   a. פתח Windows PowerShell ולאחר מכן הפעל את הפקודה הבאה:`$UserCredential = Get-Credential`
+b. בתיבת **הדו-שיח Windows PowerShell אישור,** הזן את החשבון והסיסמה שלך בעבודה או בבית הספר, ג. לחץ על **אישור**. 
 
-2. הפעלת הפקודה הבאה כדי ליצור הפעלה חדשה:
+2. הפעל את הפקודה הבאה כדי ליצור הפעלה חדשה:
 
     `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
-    מ. הפעל את הפקודה הבאה:
+    a. הפעל את הפקודה הבאה:
     
     `Import-PSSession $Session -DisableNameChecking`
 
-3. הפקודה ' ההפעלה `Get-IRMConfiguration` '.
+3. הפקודה `Get-IRMConfiguration` הפעל.
 
-4. סמן את ההגדרה **ClientAccessServerEnabled** . 
+4. בדוק את **ההגדרה ClientAccessServerEnabled.** 
 
-    מ. אם ההגדרה **ClientAccessServerEnabled** מוגדרת ל- **False**, הפעלת את ה-cmdlet הבא: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
+    a. אם **ההגדרה ClientAccessServerEnabled** מוגדרת ל- **False**, הפעל את ה- cmdlet הבא: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
 > [!TIP]
-> סגור תמיד את הפעלת powershell באמצעות הפקודה הבאה: `Remove-PSSession $Session`
+> סגור תמיד את הפעלת Powershell באמצעות הפקודה הבאה: `Remove-PSSession $Session`
 
-לקבלת מידע נוסף, ראה [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
+לקבלת מידע נוסף, [ראה Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 

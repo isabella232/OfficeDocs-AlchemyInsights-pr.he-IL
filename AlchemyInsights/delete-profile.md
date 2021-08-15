@@ -1,5 +1,5 @@
 ---
-title: פרופיל מחיקת 1800001
+title: 1800001 מחיקת פרופיל
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,30 +14,30 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: a00b419a8feaebe7d0f5f0bd1a1e1d9bd9da76d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680100"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005523"
 ---
 # <a name="delete-a-profile"></a>מחיקת פרופיל
 
-כדי למחוק פרופיל, השתמש בשלבים הבאים.
+כדי למחוק פרופיל, בצע את השלבים הבאים.
   
-1. ב-Outlook, **File** בחר \> **הגדרות חשבון** קובץ \> **ניהול פרופילים**.
+1. בתיבת Outlook, **בחר חשבון** קובץ \> **הגדרות** \> **ניהול פרופילים**.
 
-2. בחר באפשרות **הציגו פרופילים**.
+2. בחר **הצג פרופילים**.
 
-3. בתיבת הדו **דואר** , בחר את הפרופיל שברצונך למחוק ולאחר מכן לחץ על **הסר**.
+3. בתיבת **הדו-שיח** דואר, בחר את הפרופיל שברצונך למחוק ולאחר מכן לחץ על **הסר**.
 
     > [!NOTE]
-    > Outlook עשוי להזהיר אותך שמחיקת הפרופיל שלך תסיר נתונים לא מקוונים. לא תאבד מידע המאוחסן בקבצי הנתונים של Outlook (. pst) או במידע המאוחסן בחשבונות המקוונים שלך, לדוגמה Outlook.com, Exchange או Microsoft 365 חשבונות.
+    > Outlook עשויה להזהיר אותך כי מחיקת הפרופיל שלך תסיר נתונים לא מקוונים. לא תאבד מידע המאוחסן ב- Outlook נתונים ( .pst) או כל מידע המאוחסן בחשבונות המקוונים שלך, לדוגמה Outlook.com, Exchange או חשבונות Microsoft 365.
   
-עבור ניהול הפרופילים **של Outlook עבור mac** , ראה [ניהול פרופילים או זהויות ב-outlook עבור mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) או השתמש בשלבים הבאים.
+לקבלת **Outlook עבור Mac** פרופיל, ראה [ניהול פרופילים או זהויות Outlook עבור Mac או](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) השתמש בשלבים הבאים.
   
-1. מ-Finder, פתח את התיקיה **applications** .
+1. מ- Finder, פתח את תיקיית **היישומים**.
 
-2. הקש Ctrl + לחיצה או לחץ באמצעות לחצן העכבר הימני על **Microsoft Outlook**ולאחר מכן בחר באפשרות **הצגת תוכן חבילה**.
+2. Ctrl+לחיצה או קליק ימני **Microsoft Outlook** ולאחר מכן בחר **הצג את תכולת החבילה**.
 
-3. בחר **תוכן** \> **תמיכה משותפת**ולאחר מכן הפעל את **מנהל הפרופילים של Outlook**.
+3. בחר **תוכן** \> **תמיכה משותפת** ולאחר מכן הפעל את Outlook פרופיל **מנהל**.
