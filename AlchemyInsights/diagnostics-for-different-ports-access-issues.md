@@ -1,5 +1,5 @@
 ---
-title: אבחון בעיות גישה ליציאות שונות
+title: אבחון עבור בעיות גישה ליציאות שונות
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9035"
 - "9005220"
-ms.openlocfilehash: 3673067cad7ac55f3820422dc2ec09942c393149
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 07c108d5292965d20340da039b67744d93c0a4fc61edb8115796671f2f7f1552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035783"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030903"
 ---
-# <a name="diagnostics-for-different-ports-access-issues"></a>אבחון בעיות גישה ליציאות שונות
+# <a name="diagnostics-for-different-ports-access-issues"></a>אבחון עבור בעיות גישה ליציאות שונות
 
-כדי לפתור את בעיות הגישה ליציאות השונות, בצע את השלבים הבאים:
+כדי לפתור את הבעיות השונות בגישה ליציאות, בצע את השלבים הבאים:
 
-1. עצור/בטל את ההקצאה של המחשב הווירטואלי (VM) מתוך הפורטל, הפעל מחדש את ה-VM ובדוק שוב. 
-2. בדוק את הגדרות הרשת של ה-VM שלך כדי לקבוע אם אתה מבצע חסימת תעבורה בקבוצות אבטחה של רשת (NSGs). באפשרותך גם להשתמש [בכלי אימות זרימת הזרימה של ה-IP של הצופה ברשת](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview?WT.mc_id=Portal-Microsoft_Azure_Support) כדי לבדוק אם קיימות תעבורה לחסימת NSGs, מסלולי User-Defined (UDRs) ניתוב מחדש של התעבורה בחזרה למכשיר המקומי (' נתיב ברירת המחדל ' ב-0.0.0.0/0) או במכשיר רשת.
-אם אתה עדיין נתקל בבעיות לאחר שניסית את השלבים לעיל, ספק את שם ה-VM ואת יציאת ה-TCP שאתה מנסה לשלוח בדואר לצורך אבחון נוסף.
+1. עצור/מקם את המחשב הווירטואלי (VM) מהפורטל, הפעל מחדש את ה- VM ולאחר מכן מחשב שוב. 
+2. בדוק את הגדרות הרשת של VM כדי לקבוע אם יש לך קבוצות אבטחת רשת (NSG) שחוסמות את התעבורה. באפשרותך גם להשתמש בכלי אימות זרימת [ה- IP](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview?WT.mc_id=Portal-Microsoft_Azure_Support) של צופה הרשת כדי לבדוק אם תעבורה חסימת NSG, ניתובי User-Defined (UDRs) מנתבים מחדש את התעבורה שלך בחזרה לסביבה המקומית ('מסלול ברירת מחדל' 0.0.0.0/0) או אל מכשיר רשת.
+אם אתה עדיין נתקל בבעיות לאחר שניסית את השלבים לעיל, ספק את שם ה- VM ואת יציאת ה- TCP שאתה מנסה לשלוח בה דואר לקבלת אבחון נוסף.
 
 **מסמכים מומלצים**
 

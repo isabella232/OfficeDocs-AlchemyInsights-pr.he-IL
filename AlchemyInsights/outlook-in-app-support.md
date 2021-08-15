@@ -1,5 +1,5 @@
 ---
-title: הדייר מנווט לתמיכה בתוך היישום עבור Outlook
+title: דייר מטיס תמיכה בתוך האפליקציה עבור Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 76387d08ba2d99e2c27fe17f2e19840d71d24cde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c9929e0e0e7f13576cceea14e2cfd2cf468c475f49e216893667ca0fa1a00e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991896"
 ---
-# <a name="in-app-support-in-outlook-for-windows"></a>תמיכה בתוך היישום ב-Outlook עבור Windows
+# <a name="in-app-support-in-outlook-for-windows"></a>תמיכה בתוך האפליקציה ב- Outlook עבור Windows
 
-בתור מנהל דיירים, באפשרותך לקבל תמיכה בתוך היישום עבור בעיות ב-Outlook עבור Windows. ב-Outlook, בחר **עזרה**  >  **פנה לתמיכה**. הזן את השאלה שלך וחבר בצוות התמיכה של Outlook עבור Windows ישיב להודעה שלך.
+כמנהל דייר, באפשרותך לקבל תמיכה בתוך האפליקציה עבור בעיות ב- Outlook עבור Windows. בתיבת Outlook, בחר עזרה **פנה**  >  **לתמיכה**. הזן את השאלה שלך, וחבר בצוות Outlook עבור Windows התמיכה שלך ישיב להודעה שלך.

@@ -1,5 +1,5 @@
 ---
-title: מכשירי Offboard מהגנת האיום המתקדמת של Microsoft Defender
+title: התקני Offboard מ- Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f991a1c02318fbf5ebc4c4449331939e4d06bb3c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 60a25c92b45e050893cc20545fc7a9b753c01009197b209c63e3bc56accf1e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967838"
 ---
-# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>מכשירי Offboard מהגנת האיום המתקדמת של Microsoft Defender
+# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>התקני Offboard מ- Microsoft Defender Advanced Threat Protection
 
-ראה [Offboard מכשירי windows 10](https://go.microsoft.com/fwlink/?linkid=2143629) או Offboard מכשירים [שאינם של windows](https://go.microsoft.com/fwlink/?linkid=2143630).
+ראה [התקנים Windows 10 או](https://go.microsoft.com/fwlink/?linkid=2143629) מכשירים שאינם Windows [Offboard](https://go.microsoft.com/fwlink/?linkid=2143630).

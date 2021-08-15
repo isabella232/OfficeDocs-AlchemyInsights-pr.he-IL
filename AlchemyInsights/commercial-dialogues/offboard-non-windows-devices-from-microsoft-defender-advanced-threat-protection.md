@@ -1,5 +1,5 @@
 ---
-title: Offboard מכשירים שאינם של Windows מהגנת האיום המתקדמים של Microsoft Defender (ATP)
+title: Offboard non-Windows מ- Microsoft Defender Advanced Threat Protection (ATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 435957c555cd80155a985a49bd94b041a4ada31d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fbaab348e06691b73db68492a0083c4a5a54c4504e03d27ec53f2a9f5047266d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967802"
 ---
-# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard מכשירים שאינם של Windows מהגנת האיום המתקדמים של Microsoft Defender (ATP)
+# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard non-Windows מ- Microsoft Defender Advanced Threat Protection (ATP)
 
 כך ניתן לעשות זאת:
 
-1. פעל בהתאם לתיעוד של הצד השלישי לניתוק הפתרון של ספק חיצוני מ-Microsoft Defender ATP.
-2. מתוך דייר ה-Active Directory שלך, הסר הרשאות עבור הפתרון של ספק חיצוני:
+1. בצע את התיעוד של ספקים אחרים לניתוק הפתרון של ספקים אחרים מ- Microsoft Defender ATP.
+2. מתוך דייר Azure Active Directory שלך, הסר הרשאות עבור הפתרון של ספקים אחרים:
 
-    1. היכנס [לפורטל התכלת](https://go.microsoft.com/fwlink/?linkid=2125612).
-    1. בחר **את כל השירותים**  >  **המפעילים** את  >  **היישומים הארגוניים** של Active Directory.
-    1. בחר את היישום שברצונך לoffboard.
+    1. היכנס לפורטל [פורטל Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=2125612).
+    1. בחר **את כל**  >  **השירותים Azure Active Directory** Enterprise  >  **Applications**.
+    1. בחר את היישום ש רוצה להסרה.
     1. בחר **מחק**.
 
-לקבלת מידע נוסף, ראה [Offboard מכשירים שאינם של Windows](https://go.microsoft.com/fwlink/?linkid=2143630).
+כדי ללמוד עוד, ראה [Offboard non-Windows מכשירים](https://go.microsoft.com/fwlink/?linkid=2143630).

@@ -1,5 +1,5 @@
 ---
-title: שדרוג במקום עם מדריך למנהל התצורה
+title: שדרוג במקום עם מדריך מנהל התצורה
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004199"
 - "7380"
-ms.openlocfilehash: 0c08cfee8264d6aac1166aeb11c0417e17c63fac
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 0e01230010df55e6ceb8508d86fd4833112c0972d5130871b717545d2b427170
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678117"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014757"
 ---
-# <a name="in-place-upgrade-with-configuration-manager-guide"></a>שדרוג במקום עם מדריך למנהל התצורה
+# <a name="in-place-upgrade-with-configuration-manager-guide"></a>שדרוג במקום עם מדריך מנהל התצורה
 
-תהליך השדרוג במקום משמר את כל הנתונים, ההגדרות, היישומים ומנהלי ההתקנים מהגירסה הקיימת של מערכת ההפעלה. הוא מיועד להיות אמין מאוד ויש לו את היכולת לחזור באופן אוטומטי למערכת ההפעלה הקודמת אם נתקלת בבעיות.
+תהליך השדרוג במקום משמר את כל הנתונים, ההגדרות, היישומים ומנהלי ההתקנים מהגירסה הקיימת של מערכת ההפעלה. הוא נועד להיות אמין במיוחד ויש לו את היכולת לחזור באופן אוטומטי למערכת ההפעלה הקודמת אם נתקלת בבעיות כלשהן.
 
-השתמש [בשדרוג במקום עם מדריך קביעת התצורה](https://admin.microsoft.com/adminportal/home#/win10upgrade) בעת שדרוג windows 7 ומכשירי windows 8.1 לגירסה העדכנית ביותר של windows 10. יהיה עליך להשתמש בקובץ ה-script שניתן כדי לבדוק את הדרישות המוקדמות ולקבוע תצורה אוטומטית של שדרוג במקום.
+השתמש [במדריך לשדרוג במקום](https://admin.microsoft.com/adminportal/home#/win10upgrade) עם מנהל התצורה בעת שדרוג Windows 7 ו- Windows 8.1 לגירסה העדכנית ביותר של Windows 10. תשתמש בקובץ ה- Script שסופק כדי לבדוק את התנאים המוקדמים ולהגדיר באופן אוטומטי שדרוג במקום.

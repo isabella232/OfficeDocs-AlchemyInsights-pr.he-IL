@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9161"
-ms.openlocfilehash: c90afb1ea6664e8ef402981e70fe7c2bc8f07108
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c1050208403f708db8ad557f70d7b23d5ea0f44ae9f2da76b37ead2b9b90436e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746986"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976686"
 ---
 # <a name="manage-bing-maps-for-your-organization"></a>ניהול מפות Bing עבור הארגון שלך
 
-לאחר הפעלת מפות Bing תחת **תוכן מוטבע** במרכז הניהול של Power Platform, המשתמשים יראו לקוח במפות Bing בעת הצגת אנשי קשר, הפניות או חשבונות.
+לאחר הפעלת מפות Bing תחת **תוכן מוטבע** במרכז הניהול של Power Platform, המשתמשים רואים לקוח ב- מפות Bing כאשר הם רואים אנשי קשר, הפניות או חשבונות.
 
 לקבלת מידע נוסף, ראה [ניהול מפות Bing עבור הארגון שלך](https://go.microsoft.com/fwlink/?linkid=2152757).
