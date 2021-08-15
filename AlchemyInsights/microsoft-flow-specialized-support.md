@@ -1,5 +1,5 @@
 ---
-title: תמיכה מתמחה של Microsoft Flow
+title: Microsoft Flow תמיכה מיוחדת
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975930"
 ---
-# <a name="microsoft-flow-specialized-support"></a>תמיכה מתמחה של Microsoft Flow
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow תמיכה מיוחדת
 
-עבור תמיכה מקצועית בזרימת הזרימה, עבור אל [מרכז הניהול](https://aka.ms/flowadminsupport)החדש של Power platform. הפורטל החדש מספק נתיב ישיר יותר לתמיכה המסייעת הממוטבת עבור מוצרי זרימה ומוצרים אחרים של Power platform.
+לקבלת תמיכה Microsoft Flow מיוחדת, עבור אל מרכז הניהול החדש [של פלטפורמת Power](https://aka.ms/flowadminsupport). הפורטל החדש מספק נתיב ישיר יותר לתמיכה מסייעת הממוטבת עבור Microsoft Flow ומוצרים אחרים של פלטפורמת Power.
 
-למד עוד:
-- [מידע אודות הרשיונות החינמיים של Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [זרימה בשאלות נפוצות של הארגון שלך](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [תוכניות microsoft 365 ו-Dynamics 365 הכוללות את Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [שאלות בנושא חיובים ומדידת זרימה של Microsoft](https://go.microsoft.com/fwlink/?linkid=2072612)
+למידע נוסף:
+- [מידע אודות הרשיונות Microsoft Flow ללא תשלום](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow שאלות נפוצות לגבי הארגון שלך](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 ותוכניות Dynamics 365 הכוללות Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow חיוב ומדידת שימוש](https://go.microsoft.com/fwlink/?linkid=2072612)
