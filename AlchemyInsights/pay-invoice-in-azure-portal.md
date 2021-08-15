@@ -1,5 +1,5 @@
 ---
-title: שלמו חשבונית בפורטל תכלת-שלבים מומלצים
+title: חשבונית תשלום בפורטל Azure - שלבים מומלצים
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 71be9bd2d69129cde16827371b71881ddb1284b19534ca48eb7079e761bdcff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755620"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010365"
 ---
-# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>שלמו חשבונית בפורטל תכלת-שלבים מומלצים
+# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>חשבונית תשלום בפורטל Azure - שלבים מומלצים
 
-בהתבסס על תיאור הבעיה שלך, מצאנו פתרון עבורך. רוב הלקוחות הצליחו לפתור את הבעיה שלהם בעצמם לאחר ביצוע התיעוד שלנו.
+בהתבסס על תיאור הבעיה שלך, מצאנו פתרון בשבילך. רוב הלקוחות הצליחו לפתור את הבעיה עצמם לאחר ביצוע התיעוד שלנו.
 
-עליך להיות מנהל חשבון החיוב כדי לשלם חשבוניות בפורטל תכלת. מנהל חשבון החיוב הוא המשתמש שנרשם במקור לחשבון הסכם הלקוח של Microsoft. 
+עליך להיות מנהל חשבון החיוב כדי לשלם חשבוניות בפורטל Azure. מנהל חשבון החיוב הוא המשתמש שנרשם במקור לחשבון הסכם הלקוחות של Microsoft. 
 
-כדי לשלם את החשבונית בפורטל ' תכלת ': 
+כדי לשלם את החשבונית בפורטל Azure: 
 
-1. היכנס [לפורטל התכלת](https://portal.azure.com/).
+1. היכנס לפורטל [פורטל Microsoft Azure](https://portal.azure.com/).
 1. חפש ב **ניהול עלויות + חיוב**.
-1. בחלונית הימנית, תחת **חיוב**, לחץ על **חשבוניות**.
-1. אם אחת מהחשבוניות שלך מיידית או מהעבר, תראה קישור כחול **לתשלום כעת** עבור חשבונית זו. לחץ על **שלם עכשיו**.
-1. בלהב החדש, לחץ על **בחר שיטת תשלום** כדי לבחור כרטיס אשראי קיים או להוסיף מספר חדש.
-1. לאחר בחירת שיטת התשלום, לחץ על **שלם עכשיו**.
-מצב החשבונית יתעדכן כך שישולם בלהב החשבוניות.
+1. בחלונית הימנית, תחת **חיוב**, לחץ **על חשבוניות**.
+1. אם אחד מהחשבוניות שלך הוא תאריך היעד או תאריך היעד שלו, תראה קישור כחול **של שלם כעת** עבור חשבונית זו. לחץ **על שלם כעת**.
+1. בלהב החדש, **לחץ על בחר שיטת תשלום** כדי לבחור כרטיס אשראי קיים או להוסיף כרטיס אשראי חדש.
+1. לאחר בחירת שיטת התשלום, לחץ על **שלם כעת.**
+מצב החשבונית יתעדכן לתשלום בלהב החשבוניות.
 
 **מסמכים מומלצים**
 
-- [כיצד לשלם את החשבון עבור Microsoft התכלת](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
-- [שינוי שיטת התשלום-שאלות נפוצות](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [שינוי שיטת התשלום עבור פרופיל חיוב](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [כיצד לשלם את החשבון שלך עבור Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
+- [שינוי שיטת תשלום- שאלות נפוצות](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [שינוי שיטת תשלום עבור פרופיל חיוב](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
 - [בדיקת גישה להסכם לקוח של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)

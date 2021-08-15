@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 3a9dd0c1ec89c6df65e92f46740b646bd73ed9e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7f954d85a6b682a5e683e7216b71e694e8013e9a6145b9c7f119d3b2a5b78965
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990636"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>העלאת תיקיה או קבצים לספריית מסמכים של SharePoint
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Upload תיקיה או קבצים בספריית SharePoint מסמכים
 
-כדי להעלות תיקיה, עליך להשתמש ב-Microsoft Edge, ב-Google Chrome או ב-Mozilla FireFox. לא ניתן להעלות תיקיות בחוויית הספריה הקלאסית, או באמצעות Internet Explorer 10 או 11.
+כדי להעלות תיקיה, עליך להשתמש ב- Microsoft Edge, ב- Google Chrome או ב- Mozilla FireFox. לא ניתן להעלות תיקיות בחוויה הקלאסית של הספריה, או להשתמש Internet Explorer 10 או 11.
   
 1. פתח את ספריית המסמכים שבה ברצונך להעלות תיקיה או קבצים.
     
@@ -29,6 +29,6 @@ ms.locfileid: "47805824"
     
 3. גרור את התיקיה או הקבצים לספריית המסמכים. אם אינך רואה את הפריטים שהעלית מופיעים בספריה, רענן את הדף. 
     
-אם אינך מעוניין להעלות על-ידי גרירת פריטים בין windows, באפשרותך גם להשתמש בלחצן ' **העלה** ' בספריית המסמכים כדי לבחור את התיקיה או הקבצים שברצונך להעלות. 
+אם אינך מעוניין להעלות על-ידי גרירת פריטים בין חלונות, באפשרותך גם **להשתמש בלחצן Upload** בספריית המסמכים כדי לבחור את התיקיה או הקבצים שברצונך להעלות. 
   
 

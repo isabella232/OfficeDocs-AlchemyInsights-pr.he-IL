@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: a2363ff72348b53a73d06bcedbd875ebf3341c3b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c97350c1d887c55a8bdd377b0d3a83cd84323aa4ed024a9562138bab7a5777e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025647"
 ---
 # <a name="you-need-permission-to-access-this-site"></a>אתה זקוק להרשאות Access אתר זה
 
-["Access נדחתה", "אתה זקוק להרשאות כדי לגשת לאתר זה", או שגיאות "המשתמש לא נמצא במדריך הכתובות" ב- SharePoint Online וב- OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+["Access נדחתה", "אתה זקוק להרשאות כדי לגשת לאתר זה", או שגיאות "User not found in the directory" ב- SharePoint Online וב- OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
