@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: 74182d6b2b287b614624baabd20ce3abecb5a191
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f8275cc8197015e9146377bd8af979d79b32494f674b8bcab8df310d69e4a14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953654"
 ---
 # <a name="add-a-user-account-in-windows-10"></a>הוספת חשבון משתמש ב- Windows 10
 
 כך ניתן להוסיף חשבון ב- Windows 10:
 
-1. עבור אל **התחל** חשבונות הגדרות & אנשים אחרים (או אנשים אחרים , אם אתה משתמש ב-  >    >    >   Windows 10 Enterprise) > מישהו אחר **למחשב זה**. 
+1. עבור אל **התחל** הגדרות חשבונות משפחה & אחרים (או אנשים אחרים , אם אתה  >    >    >   משתמש ב- Windows 10 Enterprise) > הוסף מישהו אחר **למחשב זה**. 
 2. בצע את ההוראות כדי להוסיף חשבון Microsoft או חשבון מקומי.
 
 [קבל מידע נוסף על הגדרת חשבונות](https://support.microsoft.com/help/17197/)
