@@ -1,5 +1,5 @@
 ---
-title: קבצי PST של 9000199 ב-Outlook.com
+title: 9000199 PST ב- Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 66196cc99e4475f53d02dfb291ce44e3e2b71b87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87c54cc1e313dd33e10e94fda9f22cb705ed82b7d29484b723faafb64de89840
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776991"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024423"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>קבצי נתונים של PST ב-Outlook.com
+# <a name="pst-data-files-in-outlookcom"></a>קבצי נתונים של PST ב- Outlook.com
 
-לא ניתן לייבא Outlook. קובץ נתונים של PST בחשבון Outlook.com שלך באמצעות דפדפן.
+לא ניתן לייבא קובץ Outlook. קובץ נתוני PST לחשבון Outlook.com באמצעות דפדפן.
 
-כדי לייבא. קובץ נתונים של PST, עליך להשתמש ביישום שולחן העבודה של Outlook. לקבלת מידע נוסף, קרא את [ייבוא דואר אלקטרוני, אנשי קשר ולוח שנה מ-Outlook. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+כדי לייבא . קובץ נתונים של PST, עליך להשתמש באפליקציית Outlook שולחן העבודה. לקבלת מידע נוסף, קרא [את ייבוא דואר אלקטרוני, אנשי קשר ולוח שנה מתוך Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
