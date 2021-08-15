@@ -1,5 +1,5 @@
 ---
-title: נושאים המבוקשים לעתים קרובות ב- Project Online
+title: Project Online נושאים המבוקשים לעתים קרובות
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 66b5e32807abf2e9278280a3e5c91ae4eb6e31b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03f960ad1f6dfb4ee0f736d5bf13bf2cf81943011969c988e1f49e9dfa12ea84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960044"
 ---
-# <a name="project-online-frequently-requested-topics"></a>נושאים המבוקשים לעתים קרובות ב- Project Online
+# <a name="project-online-frequently-requested-topics"></a>Project Online נושאים המבוקשים לעתים קרובות
 
-להלן כמה נושאים המבוקשים לעתים קרובות באמצעות Project:
+להלן כמה נושאים המבוקשים לעתים קרובות עם Project:
 
 להלן נושאים המבוקשים לעתים קרובות עבור Project:
 1.  תחילת העבודה: 
     -   [תחילת העבודה עם Project Online](https://docs.microsoft.com/projectonline/get-started-with-project-online) 
-    -   [תיעוד מנהל מערכת של Project Online](https://docs.microsoft.com/projectonline/project-online) 
+    -   [Project Online תיעוד מנהל מערכת](https://docs.microsoft.com/projectonline/project-online) 
     -   [Project Online: גבולות ומגבלות של תוכנה](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [הוספת אנשים, קבוצות ומשאבים ולאחר מכן שיתוף Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [כוונון ביצועי Project Web App (PWA) ב- Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  צור קשר עם [לקוח שולחן העבודה של Project Online](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
-5.  [התקנה ושימוש ב- Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 
+2.  [הוסף אנשים, קבוצות ומשאבים ולאחר מכן שתף Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  [כוונון Project Web App (PWA) ב- Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  התחברות עם לקוח [Project Online שולחן העבודה](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
+5.  [התקנה ושימוש Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 

@@ -1,5 +1,5 @@
 ---
-title: בעיות-שיתוף-עם-outlook-מנהל הלקוח
+title: בעיות-שיתוף-עם-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960116"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>בעיות בשיתוף עם מנהל הלקוחות של Outlook
+# <a name="problems-sharing-with-outlook-customer-manager"></a>בעיות בשיתוף עם מנהל Outlook הלקוח
 
-אם אתה נתקל בבעיות שיתוף עם מנהל הלקוחות של Outlook, מומלץ לנסות תחילה לנקות את מטמון הדפדפן. לדוגמה, ב-Internet Explorer, באפשרותך לעשות זאת:
+אם אתה נתקל בבעיות שיתוף עם מנהל Outlook הלקוח, מומלץ לנסות תחילה לנקות את מטמון הדפדפן. לדוגמה, ב- Internet Explorer היית:
 
-1. עבור אל הגדרות  >  **כלליות** של **הגדרות > תחת גלישה**  >  **במטמונים ובמסדי נתונים**.
+1. עבור אל **הגדרות**  >  **כללי** > הגדרות תחת **היסטוריית גלישה**  >  **מטמונים ומסדי נתונים**.
 2. מחק קבצי מטמון עבור אתר האינטרנט "outlookapps.com".
 3. הפעל מחדש את Outlook.
 
-לקבלת מידע נוסף אודות שיתוף, ראה [שיתוף מידע ב-Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
+לקבלת מידע נוסף אודות שיתוף, [ראה שיתוף מידע ב- Outlook Customer Manager](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).

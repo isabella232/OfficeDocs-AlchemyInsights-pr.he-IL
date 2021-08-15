@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: c448956f0dad0738f4de7507ec4686c738a90a55
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bb19f0672a21ea8b99c433ad83db4d89536c9a1705245fd2a683471170ab51ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745257"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994815"
 ---
 # <a name="set-up-dkim-with-custom-domains"></a>הגדרת DKIM עם תחומים מותאמים אישית
 
-עליך לפרסם שתי רשומות CNAME עבור כל תחום מותאם אישית ב-DNS. לשם כך, השתמש בתבנית הבאה:
+עליך לפרסם שתי רשומות CNAME עבור כל תחום מותאם אישית ב- DNS. לשם כך, השתמש בתבנית הבאה:
 
 ```console
 Host name:            selector1._domainkey
@@ -34,6 +34,6 @@ Points to address or value:    selector2-<domainGUID>._domainkey.<initialDomain>
 TTL:                3600
 ```
 > [!NOTE]
-> **DomainGUID** הוא הטקסט מימין ל **-. mail.protection.outlook.com** ברשומת ה-MX המותאמת אישית עבור התחום המותאם אישית (לדוגמה, contoso-com עבור התחום **contoso.com**). **InitialDomain** הוא התחום שבו השתמשת כאשר נרשמת ל-Office 365 (לדוגמה, **contoso.onmicrosoft.com**).
+> **DomainGUID** הוא הטקסט מימין ל- **.mail.protection.outlook.com ברשומת** MX המותאמת אישית עבור התחום המותאם אישית (לדוגמה, contoso-com **עבור התחום contoso.com).** **InitialDomain** הוא התחום שהשתמשת בו כאשר נרשמת Office 365 (לדוגמה, **contoso.onmicrosoft.com**).
 
-לקבלת מידע נוסף אודות רשומות DNS, ראה [יצירת רשומות dns בכל ספק אירוח dns עבור Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+לקבלת מידע נוסף אודות רשומות DNS, ראה [יצירת רשומות DNS בכל ספק אירוח DNS עבור Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).

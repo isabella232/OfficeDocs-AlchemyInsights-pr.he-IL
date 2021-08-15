@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 6858d989135fac55c6a15f79c3be0ce37e884a60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254cd25b76a5bc7d58f08eee5686c021c88ee28880b0b1135fba8e2119355721
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798089"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983454"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
 **מנויי Premium קיימים**
 
-- אם כבר יש לך מנוי Premium של Outlook.com, קרא את [השאלות הנפוצות של Outlook.com premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- אם כבר יש לך מנוי Outlook.com Premium, קרא [את Outlook.com Premium שאלות נפוצות](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
 **מנויים חדשים**
 
-- אנו מצטערים, אך Outlook.com Premium סגור כעת למנויים חדשים.
-- [התכונות והיתרונות](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) הרבים הכלולים כעת [במנויים ל-microsoft 365 Home ו-microsoft 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).
+- מצטערים, אך Outlook.com Premium כעת למנויים חדשים.
+- רבות [מהתכונות והיתרונות נכללות](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) כעת [במנויים ל- Microsoft 365 Home and Microsoft 365 Personal.](https://go.microsoft.com/fwlink/?linkid=2017122)
