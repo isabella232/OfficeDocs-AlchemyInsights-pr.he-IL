@@ -1,5 +1,5 @@
 ---
-title: הפיכת ניהול עלויות לזמין
+title: הפיכת ניהול עלות לזמין
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: 0bbf1158f7f5fa8a22cfe7242c86760057fc7bab
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003570"
 ---
-# <a name="enable-cost-management"></a>הפיכת ניהול עלויות לזמין
+# <a name="enable-cost-management"></a>הפיכת ניהול עלות לזמין
 
-**מה המשמעות של ' עלויות ' אינה זמינה עבור הארגון שלך?**
+**מה המשמעות של 'עלויות אינן זמינות עבור הארגון שלך'?**
 
-ארגונים המשתמשים בהסכם הארגון (EA) או בחשבונות Microsoft Customer (MCA) יכולים להפוך את הגישה למידע אודות עלויות ולמידע אודות תמחור ללא זמינה.
+ארגונים המשתמשים בחשבונות הסכם ארגוני (EA) או Microsoft Customer Agreement (MCA) יכולים להפוך את הגישה למידע עלות ולמידע תמחור ללא זמינה.
 
-לאחר כניסה לפורטל התכלת, הם יכולים להשתמש בממשקי ה-Api של החיוב כדי לקבל חשבוניות באופן תוכניתי (לאחר התחייבות) ופרטי שימוש.
+לאחר כניסה לפורטל Azure, הם יכולים להשתמש ב- API לחיוב כדי לקבל חשבוניות באופן תיכנותי (לאחר הצטרפות) ופרטי שימוש.
 
 **כיצד לאפשר למשתמשים נוספים לגשת לחשבוניות**
 
-1. עבור אל ' **להב מנויים** ' בפורטל התכלת.
-2. בחר **חשבוניות** ולאחר מכן **גש לחשבוניות**.
-3. הפעל את access ולאחר מכן שמור את השינויים, כדי לאפשר למשתמשים בתפקידים הנמצאים בטווח המנוי להוריד חשבוניות.
+1. עבור אל **להב מנויים** בפורטל Azure.
+2. בחר **חשבוניות** ולאחר מכן **Access לחשבוניות**.
+3. הפעל את הגישה ולאחר מכן שמור את השינויים, כדי לאפשר למשתמשים בתפקידים בטווח מנוי להוריד חשבוניות.
 
 > [!NOTE]
-> מנהל החשבון יכול גם לקבוע תצורה של חשבוניות שנשלחות באמצעות דואר אלקטרוני. לקבלת מידע נוסף, ראה [קבלת החשבונית שלך בדואר אלקטרוני](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+> מנהל החשבון יכול גם לקבוע את תצורתו כך שחשבוניות יישלחו בדואר אלקטרוני. כדי ללמוד עוד, ראה [קבלת החשבונית בדואר אלקטרוני](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **כיצד להוסיף משתמשים לתפקיד קורא החיובים**
 
-1. עבור אל ' **להב מנויים** ' בפורטל התכלת.
-2. בחר **בקרת גישה (יאם)** ולאחר מכן לחץ על **הוסף**.
-3. בחר **קורא חיובים** בדף **' בחר תפקיד** '.
-4. הקלד את הודעת הדואר האלקטרוני של המשתמש שברצונך להזמין ולאחר מכן לחץ על **אישור** כדי לשלוח את ההזמנה.
-5. בצע את ההוראות המופיעות בהודעת הדואר האלקטרוני הזמנה כדי להיכנס כקורא חיוב. לקבלת מידע נוסף, ראה [הענקת גישה לחיוב](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in).
+1. עבור אל **להב מנויים** בפורטל Azure.
+2. בחר **Access (IAM) ולאחר** מכן לחץ על **הוסף**.
+3. בחר **קורא חיובים** **בדף בחר תפקיד.**
+4. הקלד את הדואר האלקטרוני של המשתמש שברצונך להזמין ולאחר מכן לחץ על **אישור** כדי לשלוח את ההזמנה.
+5. בצע הוראות המופיעות בהודעת הדואר האלקטרוני של ההזמנה כדי להיכנס כקורא חיובים. לקבלת מידע נוסף, ראה [הענק גישה לחיוב](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in).
 
 **מסמכים מומלצים**
 
-- [הפיכת תצוגות של DA ו-AO לזמינות באמצעות פורטל EA](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
+- [הפיכת תצוגות DA ו- AO לזמינות באמצעות פורטל EA](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
 - [עלויות הכלולות בניהול עלויות](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
-- [תמיכה ב-Microsoft תכולים מציעה](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
+- [הצעות נתמכות של Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
 - [סקירת עלויות בניתוח עלות](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
-- [מתן גישה לפרטי חיוב](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [ספק גישה לפרטי חיוב](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [בדיקת גישה להסכם לקוח של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
 

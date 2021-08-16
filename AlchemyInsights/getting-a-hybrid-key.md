@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706848"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056527"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>קבלת מפתח היברידי של Exchange
+# <a name="getting-an-exchange-hybrid-key"></a>קבלת מפתח Exchange היברידי
 
-כדי לחבר את הארגון המקומי שלך ל-Exchange Online ב-Microsoft 365, עליך להגדיר לפחות שרת Exchange אחד בארגון המקומי שלך. שרת זה משמש ליצירת פריסה היברידית שמחברת את ארגון Exchange המקומי ל-Exchange Online. כדי לקבל מפתח היברידי עבור שרת זה, בצע את השלבים [באשף הפצת מפתח מוצר היברידי של Exchange](https://aka.ms/hybridkey).
+כדי לחבר את הארגון המקומי שלך Exchange Online ב Microsoft 365, עליך להגדיר שרת Exchange אחד לפחות בארגון המקומי שלך. שרת זה משמש ליצירת פריסה היברידית המחברת את הארגון Exchange המקומי שלך Exchange Online. כדי לקבל מפתח היברידי עבור שרת זה, בצע את השלבים Exchange [הפצה היברידי](https://aka.ms/hybridkey)של מפתח המוצר .
   

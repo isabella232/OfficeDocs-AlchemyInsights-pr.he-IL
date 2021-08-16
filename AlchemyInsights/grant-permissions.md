@@ -1,5 +1,5 @@
 ---
-title: הענקת הרשאות
+title: הענק הרשאות
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7784"
-ms.openlocfilehash: 9e686bd33414512b0a3a2bc24477832a508537a8
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 3128402f72f034144a3d58074c65907d3d4f10745a9bdbee58fec14b09f419ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056383"
 ---
-# <a name="grant-permissions"></a>הענקת הרשאות
+# <a name="grant-permissions"></a>הענק הרשאות
 
-1. **הענקת הסכמה מנהלית מנהלית של הדיירים ברחבי העולם**: ראה [הענקת הסכמה למנהלי מערכת בכל הדירות ליישום](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) לקבלת הוראות צעד-אחר-צעד להענקת הסכמה למנהלי מערכת ברחבי העולם מפורטל תכלת, באמצעות תכלת AD PowerShell או מבקשת ההסכמה עצמה.
-1. **הענקת הסכמה בשם משתמש ספציפי**: במקום להעניק הסכמה עבור הארגון כולו, מנהל מערכת יכול להשתמש גם ב- [API של Microsoft Graph](https://docs.microsoft.com/graph/use-the-api) כדי להעניק הסכמה להרשאות מוסמכות בשם משתמש יחיד. לקבלת מידע נוסף, ראה [קבלת גישה בשם של משתמש](https://docs.microsoft.com/graph/auth-v2-user).
+1. **מתן הסכמת מנהל מערכת** של [](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) דייר רחב : ראה הענק הסכמה למנהל מערכת של דיירים ליישום לקבלת הוראות מפורטות למתן הסכמת מנהל מערכת כלל-דייר מפורטל Azure, באמצעות Azure AD PowerShell או מתוך בקשת ההסכמה עצמה.
+1. **מתן הסכמה בשם** משתמש ספציפי : במקום להעניק הסכמה עבור הארגון כולו, מנהל מערכת יכול גם להשתמש ב- [API של Microsoft Graph כדי](https://docs.microsoft.com/graph/use-the-api) להעניק הסכמה להרשאות שהוקצו בשמו של משתמש יחיד. לקבלת מידע נוסף, [ראה קבל גישה בשם משתמש](https://docs.microsoft.com/graph/auth-v2-user).
