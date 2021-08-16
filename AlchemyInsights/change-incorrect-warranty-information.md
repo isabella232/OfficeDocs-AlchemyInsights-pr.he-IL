@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9755"
 - "9005679"
-ms.openlocfilehash: 8f51aff29d0b456409a0ff2c015ba3a950b16657
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: a5f239b7ecf9ddee88e3da083325b62d485ec8b06f0de32128fc6a750044af36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018249"
 ---
 # <a name="change-incorrect-warranty-information"></a>שינוי פרטי אחריות שגויים
 
-אם קיים מידע שגוי באחריות שלך, סוכן תמיכה יכול לסייע בפתרון הבעיה. באפשרותך לקבל את הוכחת הרכישה (כגון הקבלה או החשבונית המקורית) כאשר אתה יוצר קשר עם תמיכת הלקוחות.
+אם יש מידע שגוי על האחריות שלך, סוכן תמיכה יכול לעזור לך לפתור את הבעיה. הכן את הוכחת הרכישה (כגון הקבלה או החשבונית המקורית) בעת יצירת קשר עם התמיכה בלקוחות.
 
-כדי להגיע לסוכן, לחץ על לחצן ' **צור קשר** ' בפינה הימנית התחתונה של המסך.
+כדי להגיע לסוכן, לחץ **על לחצן צור** קשר בצד הימני התחתון של המסך.

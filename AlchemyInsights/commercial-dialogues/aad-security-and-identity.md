@@ -1,5 +1,5 @@
 ---
-title: תכלת Active Directory (אבטחה וזהות
+title: Azure Active Directory (אבטחה וזהות
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995442"
 ---
-# <a name="azure-active-directory-security-and-identity"></a>תכלת Active Directory (אבטחה וזהות)
+# <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (אבטחה וזהות)
 
-בחר אחד מקווי היישור הבאים:
+בחר אחד מקווי היישור הבאים להגדרה:
 
-- **תכלת Active Directory חיבור** [משתמשי סינכרון למדריך הכתובות שלך](https://go.microsoft.com/fwlink/?linkid=2071310) קביעת תצורה של סינכרון hash באמצעות סיסמה או אימות מעבר, כדי שהמשתמשים יוכלו להיכנס לדואר האלקטרוני שלהם ולכתובת ה-Active Directory המקומית (בקר תחום) באמצעות אותה סיסמה. באפשרותך גם להגדיר כניסה לפדרציה באמצעות שירותי האיחוד של Active Directory (AD FS).
+- **Azure Active Directory התחברות** [סינכרון](https://go.microsoft.com/fwlink/?linkid=2071310) משתמשים במדריך הכתובות שלך קביעת תצורה של סינכרון Hash של סיסמאות או אימות מעבר, כך שהמשתמשים שלך יוכלו להיכנס לדואר האלקטרוני שלהם ול- Active Directory המקומי (בקר התחום) באמצעות אותה סיסמה. באפשרותך גם להגדיר כניסה איחוד באמצעות Active Directory Federation Services (AD FS).
 
-- הגדרת [מדריך](https://go.microsoft.com/fwlink/?linkid=2134390) **ההגדרה** של תכלת תכונות תכלת הגדרת התכונות המתקדמות הזמינות ב-תכלת Active Directory Premium, כגון אימות רב-גורמי, רישום מכשירים וניטור אבטחה.
+- **הגדרת מדריך הגדרת Azure** AD של [תכונות Azure](https://go.microsoft.com/fwlink/?linkid=2134390) הגדר את התכונות המתקדמות הזמינות ב- Azure Active Directory Premium, כמו אימות רב-גורמי, רישום מכשיר וניטור אבטחה.
