@@ -1,5 +1,5 @@
 ---
-title: הדבקת עותק של Outlook.com
+title: Outlook.com העתק הדבקה
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4dc1944b85da3367947ce01ec45b004abda045e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b70b1b7d2ac743fbd80639546ef9494de8e524071833dc276403391c560bb6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011085"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a>העתקה והדבקה ב-Outlook.com
+# <a name="copy-and-paste-in-outlookcom"></a>העתקה והדבקה ב- Outlook.com
 
-אין לחצני העתקה או הדבקה ב-Outlook.com, אך באפשרותך להשתמש בקיצורי מקשים:
+אין לחצני העתקה או הדבקה ב- Outlook.com, אך באפשרותך להשתמש בקיצורי מקשים:
 
-**במחשב PC:** הקש CTRL + C כדי להעתיק, CTRL + X כדי לגזור והקישו CTRL + V כדי להדביק.
+**במחשב:** CTRL+C להעתקה, CTRL+X לגזור ו- CTRL+V כדי להדביק.
 
-**במחשב Mac:** CMD + C כדי להעתיק, CMD + X כדי לגזור ולאחר מכן CMD + V להדבקה.
+**ב- Mac:** CMD+C להעתקה, CMD+X לחיתוך ו- CMD+V כדי להדביק.

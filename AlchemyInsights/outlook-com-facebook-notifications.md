@@ -1,5 +1,5 @@
 ---
-title: הודעות בפייסבוק של Outlook.com
+title: Outlook.com התראות של Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: f9d5b94abda70c7383221a0d04c01a6f43f16100
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b1276c7639fae8c5d3885f532995ea458abcca102288e82a9324a2f5d4bcfee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672129"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010977"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>הודעות Facebook באמצעות Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>התראות של Facebook באמצעות Outlook.com
 
-אם אינך מעוניין לקבל הודעות מפייסבוק, באפשרותך לשנות את [הגדרות](https://aka.ms/facebook-notifications-settings) ה-facebook שלך או להגדיר כלל של תיבת דואר נכנס.
+אם אינך מעוניין לקבל התראות מ- Facebook, באפשרותך לשנות את הגדרות [Facebook או](https://aka.ms/facebook-notifications-settings) להגדיר כלל תיבת דואר נכנס.
 
 1. עבור אל [הגדרות כללים](https://outlook.live.com/mail/options/mail/rules/inboxRules).
 1. בחר **הוסף כלל חדש**.
-1. תן שם לכלל "Facebook".
-1. הוספת תנאי של "מאת" והזנת "notification@facebookmail.com"
-1. הוסף פעולה של "Delete". בחירה באפשרות ' מחק ' משמעותה שההודעות נשארות בפריטים שנמחקו וניתן לשחזר אותן. אם תבחר "סמן כזבל", ההודעות יימחקו באופן אוטומטי ולא ניתן יהיה לשחזר אותן.
+1. שם הכלל שלך "Facebook".
+1. הוסף תנאי של "מאת" והזן "notification@facebookmail.com"
+1. הוסף פעולה של "Delete". בחירת מחק פירושה שההודעות יישארו בפריטים שנמחקו ויתווחזרו. אם תבחר "סמן כדואר זבל", ההודעות יימחקו באופן אוטומטי ולא תהיה אפשרות לשחזר ן.
 1. לחץ **שמור**.

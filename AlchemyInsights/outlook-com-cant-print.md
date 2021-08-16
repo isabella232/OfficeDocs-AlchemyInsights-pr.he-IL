@@ -1,5 +1,5 @@
 ---
-title: אין אפשרות להדפיס ב-Outlook.com
+title: אין אפשרות להדפיס ב- Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "8000046"
 - "2507"
-ms.openlocfilehash: ca4d0bb958c26a602a0e044e9b97a05d59c14537
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59b99ef0de921403001e18eb6db0848aab5a0c0c0e49e253915e0bee806dc24b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064241"
 ---
 # <a name="unable-to-print"></a>לא ניתן להדפיס
 
-אנו מודעים לבעיה שבה חלק מהמשתמשים אינם יכולים להדפיס בעת שימוש בדפדפני Safari או בדפדפני קצה. בזמן שאנו עובדים על תיקון עבור פעולה זו, השתמש בדפדפן אחר. אנו מתנצלים על אי-הנוחות.
+אנו מודעים לבעיה שבה משתמשים מסוימים אינם יכולים להדפיס בעת שימוש בדפדפני Safari או Edge. בזמן שאנו עובדים על תיקון עבור פעולה זו, השתמש בדפדפן אחר. אנו מתנצלים על אי הנוחות.

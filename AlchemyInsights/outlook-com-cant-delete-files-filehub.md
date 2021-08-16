@@ -1,5 +1,5 @@
 ---
-title: לא ניתן למחוק תמונות או קבצים מקבצים ב-Outlook.com
+title: אין אפשרות למחוק תמונות או קבצים מקבצים ב- Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1178"
 - "1179"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: da04d3d8c9bca3f6e0e44a3a55b158e1d7b00fde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 98118c2db5468b1bca9f00014dc8221469fba7b050f4d93ec8d4707812517de9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753116"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064313"
 ---
 # <a name="cant-delete-files-or-photos-from-files"></a>לא ניתן למחוק קבצים או תמונות מקבצים
 
-ב-Outlook.com, **קבצים** מציגים את הקבצים והתמונות שמצורפים להודעות בתיבת הדואר שלך. כדי להסיר קבצים ותמונות מקבצים, עליך למחוק את הודעות הדואר האלקטרוני שאליהן הן מצורפות. לאחר מחיקת ההודעות, עליך גם למחוק אותן מהתיקיה ' פריטים שנמחקו '.
+ב- Outlook.com, **קבצים** מציגים את הקבצים והתמונות המצורפים להודעות בתיבת הדואר שלך. כדי להסיר קבצים ותמונות מקבצים, עליך למחוק את הודעות הדואר האלקטרוני שהן מצורפות אליהן. לאחר מחיקת ההודעות, עליך גם למחוק אותן מהתיקיה 'פריטים שנמחקו'.
 
-לקבלת מידע נוסף, קרא [כיצד למחוק קבצים או תמונות ב-Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
+כדי ללמוד עוד, [קרא כיצד למחוק קבצים או תמונות ב- Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d?wt.mc_id=Office_Outlook_com_Alchemy).
