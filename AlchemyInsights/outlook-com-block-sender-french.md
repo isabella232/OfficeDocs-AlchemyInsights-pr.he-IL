@@ -1,5 +1,5 @@
 ---
-title: שולח Outlook.com block-צרפתית
+title: Outlook.com לחסום שולח - FRENCH
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.custom:
 - "1156"
 - "1157"
 - "8000076"
-ms.openlocfilehash: c3a8cb3bb8ab550d9270135d2abf89fe32210ea1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 860854242574a0d8235d09c4b409b1f3e5e8dc7dc80c5e392f5fdc3521e3431c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753512"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011229"
 ---
 # <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer ou débloquer expéditeurs dans Outlook.com
 
-Si וו recevez du courrier indésirable, et pouvez bloquer les כתובת de messagerie et des domains בו-של הודעות pas voulez des. Ajouter une כתובת de messagerie ou un-votre list des expéditeurs bloqués שופכים déplacer הודעות ces directement גרסה votre תיק courrier indésirable.
+Si vous recevez du courrier indésirable, vous pouvez bloquer les adresses de messagerie et des domaines que vous ne voulez pas recevoir des messages. Ajouter une adresse de messagerie ou un domaine à votre liste des expéditeurs bloqués pour déplacer ces message directement vers votre dosier courrier indésirable.
 
-1. Accédez à **Paramètres**  >  **Afficher tous לס Paramètres d'Outlook**Courrier  >  **indésirable**.
-1. סו **תחומים et expéditeurs bloqués** sélectionnez **Ajouter**.
+1. Accédez à **Paramètres**  >  **Afficher tous les paramètres d'Outlook**  >  **Courrier indésirable**.
+1. Sous **Domaines et expéditeurs bloqués** sélectionnez **Ajouter**.
 1. Entrez l'adresse de messagerie et sélectionnez **Enregistrer**.
 
-שפכי פלוס d'informations, lisez [Bloquer ou débloquer expéditeurs](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)dans.
+יוצקים בתוספת [d'informations, lisez Bloquer ou débloquer expéditeurs dans Outlook.com](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).

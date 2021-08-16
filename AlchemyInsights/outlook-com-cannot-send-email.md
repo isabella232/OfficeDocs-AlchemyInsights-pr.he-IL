@@ -1,5 +1,5 @@
 ---
-title: ל-Outlook.com אין אפשרות לשלוח דואר אלקטרוני
+title: Outlook.com אין אפשרות לשלוח דואר אלקטרוני
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,22 +13,22 @@ ms.custom:
 - "9000251"
 - "1845"
 - "1841"
-ms.openlocfilehash: adb6dd3cc5a6a526b87dc74a6552759cc8db46ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0852df594e4c87d2fb2c766c52ec0aa41d3fc1e89029c1ee4417cfffebbe7352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753260"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064457"
 ---
-# <a name="unable-to-send-email-in-outlookcom"></a>לא ניתן לשלוח דואר אלקטרוני ב-Outlook.com
+# <a name="unable-to-send-email-in-outlookcom"></a>לא ניתן לשלוח דואר אלקטרוני ב- Outlook.com
 
-אם אתה נתקל בבעיות בשליחת הודעות ב-Outlook.com, נסה את הפתרונות הבאים.
+אם אתה נתקל בבעיות בשליחת הודעות ב- Outlook.com, נסה פתרונות אלה.
 
-1. בדוק את [מצב השירות](https://go.microsoft.com/fwlink/p/?linkid=837482). 
-2. ודא [שביטול השליחה](https://outlook.live.com/mail/options/mail/messageContent/undoSend) אינו מופעל.
-3. אם תיבת הדואר הנכנס שלך מלאה, לא תוכל לשלוח או לקבל הודעות חדשות. רוקן את [הדואר האלקטרוני](https://outlook.live.com/mail/junkemail) שלך על- **ידי לחיצה**באמצעות לחצן העכבר הימני על  >  **מחק הכל**.
-4. ודא שכתובות הדואר האלקטרוני של האנשים שאתה מנסה לשלוח מעוצבות כראוי.
-5. אם יש לך יותר מ-20 חשבונות מחוברים, לא תוכל לשלוח או לקבל דואר.
-6. ייתכן שהחשבון שלך נחסם באופן זמני מכיוון שהבחנת בפעילות כניסה יוצאת דופן. ראה [ביטול חסימת החשבון שלי](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4)ב-Outlook.com.
+1. בדוק את [מצב השירות](https://go.microsoft.com/fwlink/p/?linkid=837482). 
+2. ודא [ש'בטל](https://outlook.live.com/mail/options/mail/messageContent/undoSend) שליחה' אינו מופעל.
+3. אם תיבת הדואר הנכנס שלך מלאה, לא תוכל לשלוח או לקבל הודעות חדשות. רוקן את [דואר הזבל על-ידי](https://outlook.live.com/mail/junkemail) לחיצה באמצעות לחצן העכבר הימני **על דואר זבל** מחק  >  **הכל**.
+4. ודא שכתובות הדואר האלקטרוני של האנשים שאתה מנסה לשלוח להם מעוצבות כראוי.
+5. אם יש לך יותר מ- 20 חשבונות מחוברים, לא תוכל לשלוח או לקבל דואר.
+6. ייתכן שהחשבון שלך חסום באופן זמני מכיוון שהבחנו בפעילות כניסה חריגה כלשהי. ראה [ביטול חסימת חשבון Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4).
 
-קבל מידע נוסף על [פתרון בעיות סינכרון של דואר אלקטרוני](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642)ב-Outlook.com.
+קבל מידע נוסף על פתרון [בעיות סינכרון Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
