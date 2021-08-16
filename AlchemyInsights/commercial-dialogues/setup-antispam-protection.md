@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058507"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874576"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>הגדרת הגנה מפני דואר זבל
 
-כך ניתן לעשות זאת:
+1. בפורטל Microsoft 365 Defender, עבור אל מדיניות שיתוף פעולה & דואר אלקטרוני & מדיניות איומים של כללים נגד דואר <https://security.microsoft.com/>  \>  \>  \>  זבל **במקטע מדיניות.**
 
-1. עבור אל [Office 365 האבטחה & תאימות](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. נווט **אל מדיניות ניהול**  >  **איומים** ולחץ על **[Anti-spam](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. בכרטיסיה **מותאם אישית,** הפעל הגדרות **מותאמות** אישית.
-1. הרחב את **מדיניות הסינון של דואר זבל המהווה ברירת** מחדל , **לחץ על** ערוך מדיניות ולאחר מכן ציין את ההגדרות הבאות:
-    1. במקטע דואר **זבל ופעולות בצובר,** הגדר את הסף לערך של 5 או 6.
-1. לחץ על **שמור**.
+   כדי לעבור ישירות לדף **מדיניות למניעת דואר זבל,** השתמש <https://security.microsoft.com/antispam> ב- .
 
-כדי ללמוד עוד אודות אפשרויות מדיניות למניעת דואר זבל, ראה [קביעת תצורה של מדיניות למניעת דואר זבל.](https://go.microsoft.com/fwlink/?linkid=2092051)
+2. בדף מדיניות **למניעת דואר זבל,** בצע אחת מהפעולות הבאות:
+   - כדי להוסיף מדיניות חדשה, בחר **+ צור** \> **כניסה**. אשף יושק כדי לעזור לך להגדיר את הגדרות המדיניות שלך.
+   - כדי לערוך מדיניות קיימת, בחר את המדיניות על-ידי לחיצה על שם המדיניות (**Type** is **Custom anti-spam policy** or **Name** **is Anti-Spam inbound policy (Default).** בתפריט נשלף של הפרטים שמופיע, בחר **ערוך** במקטע המכיל את ההגדרות שברצונך לקבוע את תצורתן.
+
+3. לאחר סקירת ההגדרות, בחר שלח **(חדש)** או **שמור** (ערוך).
+
+לקבלת מידע נוסף, ראה [קביעת תצורה של מדיניות למניעת דואר זבל ב- EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

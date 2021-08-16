@@ -1,5 +1,5 @@
 ---
-title: ייצוא פריטים לקובץ ארכיון ב-Outlook עבור Mac
+title: ייצוא פריטים לקובץ ארכיון Outlook עבור Mac
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -11,36 +11,36 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 8e363cafbf913cb26b130b9a73d9e9c1bf8bfea5
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583425"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100403"
 ---
-# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>ייצוא פריטים לקובץ ארכיון ב-Outlook עבור Mac
+# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>ייצוא פריטים לקובץ ארכיון Outlook עבור Mac
 
-כדי להקטין את הגודל של תיבת הדואר הנכנס, אחסן באופן ידני הודעות דואר אלקטרוני, אנשי קשר ופריטים אחרים לקובץ נתונים של Outlook עבור Mac (. olm). באפשרותך לשמור קובץ. olm בכל מיקום במחשב Mac או במחשב אחר לשמירה.
+כדי להקטין את גודל תיבת הדואר הנכנס, אחסן בארכיון באופן ידני הודעות דואר אלקטרוני, אנשי קשר ופריטים אחרים Outlook עבור Mac נתונים ( .olm). באפשרותך לשמור קובץ .olm בכל מיקום ב- Mac או במחשב אחר לשמירה בטוחה.
 
-1. בכרטיסיה **כלים** , לחץ על **יצא**.
+1. בכרטיסיה **כלים,** לחץ על **ייצוא**.
 
 > [!NOTE]
-> אינך רואה את לחצן ' **יצא** '? ודא שברשותך הגירסה העדכנית ביותר של Outlook. בתפריט **עזרה** של Outlook, לחץ על **בדוק אם קיימים עדכונים**. אם כל העדכונים של Outlook מוחלים ועדיין אינך רואה את לחצן **יצא** , חפש **ייצוא** בתפריט **קובץ** של Outlook.
+> אינך רואה את **לחצן ייצוא?** ודא שיש לך את הגירסה העדכנית ביותר של Outlook. בתפריט עזרה **Outlook,** לחץ על **בדוק אם קיימים עדכונים.** אם כל Outlook העדכונים מוחלים ועדיין אינך רואה את לחצן **ייצוא,** חפש **את** ייצוא בתפריט Outlook **קובץ.**
 
-2. בתיבה **יצא לארכיון קובץ (. olm)** , סמן את הפריטים שברצונך לייצא ולחץ על **המשך**.
+2. בתיבה ייצוא **לקובץ ארכיון ( .olm),** בדוק את הפריטים שברצונך לייצא ולחץ על **המשך**.
 
-3. בתיבה **שמירה בשם** , תחת **מועדפים**, בחר את התיקיה **הורדות** ולחץ על **שמור**.
+3. בתיבה שמירה **בשם,** תחת **מועדפים**, בחר את **התיקיה הורדות** ולחץ על **שמור**.
 
 4. לאחר ייצוא הנתונים שלך ואתה מקבל הודעה, לחץ על **סיום**.
 
-לקבלת מידע אודות אופן הגישה לנתונים ששמרת בקובץ נתונים של Outlook עבור Mac (. olm), ראה [ייבוא הודעות דואר אלקטרוני, אנשי קשר ופריטים אחרים ל-Outlook 2016 עבור Mac](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS).
+לקבלת מידע אודות אופן הגישה לנתונים ששמרת בקובץ נתונים Outlook עבור Mac ( .olm), ראה ייבוא הודעות דואר אלקטרוני, אנשי קשר ופריטים [אחרים לתוך Outlook 2016 עבור Mac.](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)
 
-**אני רוצה לייצא ל-iCloud או לסוג אחר של קובץ ארכיון**
+**אני רוצה לייצא ל- iCloud או לסוג אחר של קובץ ארכיון**
 
-אפשרות הייצוא היחידה הזמינה בשלב זה היא קובץ הארכיון. olm. כדי לבקש אפשרויות ייצוא נוספות, בקר [בתיבת ההצעות של Outlook](https://outlook.uservoice.com/) כדי להשאיר את המשוב. צוות Outlook מנטר באופן פעיל את הפורום.
+אפשרות הייצוא היחידה הזמינה בשלב זה היא קובץ הארכיון .olm. כדי לבקש אפשרויות ייצוא נוספות, בקר בתיבת [Outlook כדי להשאיר](https://outlook.uservoice.com/) את המשוב שלך. צוות Outlook מנטר באופן פעיל פורום זה.
 
-**ראה גם**
+**למידע נוסף**
 
-- [ייבוא קובץ. pst ל-Outlook 2016 עבור Mac מ-Outlook עבור Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
+- [ייבוא קובץ .pst Outlook 2016 עבור Mac מתוך Outlook עבור Windows](https://support.microsoft.com/office/import-a-pst-file-into-outlook-for-mac-from-outlook-for-windows-b4a6a1d6-94bb-4c85-a4fc-a83dc690e18c)
 
-- [השתמש במכונת הזמן כדי לאחסן בארכיון או לגבות פריטים ב-Outlook 2016 עבור Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
+- [שימוש ב-Time Machine כדי לאחסן פריטים בארכיון או גבה אותם באופן אוטומטי Outlook 2016 עבור Mac](https://support.microsoft.com/office/automatically-archive-or-back-up-outlook-for-mac-items-441fcce5-2262-4b64-ac8c-fa949df989f5)
