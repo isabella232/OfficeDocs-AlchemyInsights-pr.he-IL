@@ -1,5 +1,5 @@
 ---
-title: שגיאת שרת פנימי של 9000234 Outlook.com
+title: 9000234 Outlook.com שגיאת שרת פנימית
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c7f3f2188ef72cbcd3123b92c50fbf99c86cdbbc3c102ed151df341dc6f5910
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024531"
 ---
-# <a name="internal-server-errors-in-outlookcom"></a>שגיאות של שרת פנימי ב-Outlook.com
+# <a name="internal-server-errors-in-outlookcom"></a>שגיאות שרת פנימיות ב- Outlook.com
 
-הו לא! אם אתה רואה את ההודעה "Error 500" או "שגיאת שרת פנימי", זה אנחנו ולא אתה-מצטערים על כך.
+אוי, לא !לא, לא! אם אתה רואה את ההודעה "שגיאה 500" או "שגיאת שרת פנימית", זה אנחנו ולא אתה - מצטערים על כך.
 
-עיין [בעמוד המצב של שירות Office](https://portal.office.com/servicestatus) כדי לוודא ששום דבר אחר אינו קורה, אך הפתרון הטוב ביותר הוא לקחת הפסקה לכמה דקות, ולאחר מכן לרענן את הדפדפן על-ידי הקשה על **CTRL** ו- **F5**.
+עיין בדף [Office מצב](https://portal.office.com/servicestatus) השירות כדי לוודא שלא קורה דבר נוסף, אך הפתרון הטוב ביותר הוא לצאת לכמה דקות ולאחר מכן לרענן את הדפדפן על-ידי הקשה על **CTRL** ו- **F5**.

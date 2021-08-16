@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583574"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023451"
 ---
 # <a name="set-up-sharepoint"></a>הגדרת SharePoint
 
-[מדריך ההגדרה של sharepoint](https://go.microsoft.com/fwlink/?linkid=2071425) עוזר לך להגדיר את אחסון המסמכים וניהול התוכן של sharepoint, ליצור אתרים, לקבוע תצורה של שיתוף חיצוני, להעביר נתונים ולקבוע את התצורה של הגדרות מתקדמות, ולהעביר התקשרויות משתמשים ותקשורת בתוך הארגון שלך.
+מדריך [ההגדרה SharePoint מסייע](https://go.microsoft.com/fwlink/?linkid=2071425) לך להגדיר את SharePoint אחסון מסמכים וניהול תוכן, ליצור אתרים, לקבוע תצורה של שיתוף חיצוני, להעביר נתונים ולהגדיר הגדרות מתקדמות ולהדר את מעורבות המשתמשים והתקשורת בארגון שלך.
 
-עליך לבצע את השלבים לקביעת התצורה של מדיניות הרשאות שיתוף התוכן שלך, לבחור את כלי סינכרון ההעברה שלך, וכן להפוך את הגדרות האבטחה עבור סביבת SharePoint שלך לזמינות.
+בצע את השלבים לקביעת התצורה של מדיניות ההרשאה לשיתוף תוכן, בחר את כלי הסינכרון של ההעברה, וכן הפוך את הגדרות האבטחה לזמינות עבור סביבת SharePoint שלך.
