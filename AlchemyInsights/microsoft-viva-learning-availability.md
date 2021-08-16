@@ -1,5 +1,5 @@
 ---
-title: זמינות הלמידה של Microsoft Viva
+title: Microsoft Viva למידה זמינות
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8339"
-ms.openlocfilehash: d74b6bd000be6a8a93978b5e5f737e97ef3c0833
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 27cd7ccd9cbd5afe5ca41177723a99a0f6a71aa720c9ebea1d3889bcbb140d20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097919"
 ---
-# <a name="microsoft-viva-learning-availability"></a>זמינות הלמידה של Microsoft Viva
+# <a name="microsoft-viva-learning-availability"></a>Microsoft Viva למידה זמינות
 
-החל מ-2021 בפברואר, אנו מוצגים בתצוגה מקדימה של יישום הלמידה של Viva עבור Teams עם מספר קטן של לקוחות ושותפים, ומצפים להפיכתו לזמינים באופן כללי בהמשך השנה. אנו ממליצים [להירשם כאן](https://aka.ms/VivaLearningSignup) לקבלת מידע נוסף אודות הלמידה Viva, כולל פרטים נוספים אודות חוויות חדשות כאשר הן הופכות לזמינות.
+החל מפברואר 2021, אנו מצפים להציג בתצוגה מקדימה את יישום Viva למידה עבור Teams עם מספר קטן של לקוחות ושותפים, ומצפים להפוך אותו לזמין בדרך כלל בהמשך השנה. אנו ממליצים לך [להירשם כאן לקבלת](https://aka.ms/VivaLearningSignup) מידע נוסף על Viva למידה, כולל פרטים נוספים על חוויות חדשות כאשר הן הופכות לזמינים.
 
-לקבלת מידע נוסף, ראה [הכרזה על תצוגה מקדימה פרטית של Microsoft Viva ללמידה](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).
+לקבלת מידע נוסף, ראה הכרזה על Microsoft Viva למידה [תצוגה מקדימה פרטית](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).
