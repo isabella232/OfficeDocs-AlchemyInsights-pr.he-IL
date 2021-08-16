@@ -1,5 +1,5 @@
 ---
-title: תקינות השירות של Microsoft 365
+title: Microsoft 365 תקינות השירות
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098459"
 ---
-# <a name="microsoft-365-service-health"></a>תקינות השירות של Microsoft 365
+# <a name="microsoft-365-service-health"></a>Microsoft 365 תקינות השירות
 
 
 בדוק את תקינות השירות של שירות כלשהו מתוך לוח [המחוונים של תקינות השירות.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) **על-ידי בחירה במרכז הניהול החדש** בפינה השמאלית העליונה, תראה אפשרויות חדשות של תקינות שירות.
@@ -30,4 +30,4 @@ ms.locfileid: "51794473"
 
 - בחר **היסטוריה** כדי לסקור את היסטוריית תקינות השירות של הארגון שלך. 
 
-לקבלת מידע נוסף, ראה [כיצד לבדוק את תקינות השירות של Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+לקבלת מידע נוסף, ראה [כיצד לבדוק את תקינות Microsoft 365 השירות](https://docs.microsoft.com/office365/enterprise/view-service-health). 
