@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814589"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101303"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>לא ניתן להתקין או להפעיל את כלי הייצוא של גילוי אלקטרוני?
 
@@ -34,7 +34,7 @@ ms.locfileid: "51814589"
 
   - דפדפן נתמך:
 
-  - מייקרוסופט אדג'
+  - Microsoft Edge
 
     או
 
@@ -44,7 +44,7 @@ ms.locfileid: "51814589"
 
 - הארגון שלך יכול להתחבר אל נקודת הקצה ב- Azure, **\* שהיא .blob.core.windows.net** (תו כללי מייצג מזהה ייחודי עבור עבודת הייצוא שלך).
 
-- מוקצה לך תפקיד ייצוא במרכז תאימות האבטחה של Microsoft 365. &amp; כברירת מחדל, תפקיד זה מוקצה רק לקבוצת התפקידים של מנהל גילוי אלקטרוני. ראה [הקצאת הרשאות גילוי אלקטרוני](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- מוקצה לך תפקיד ייצוא במרכז Microsoft 365 &amp; האבטחה. כברירת מחדל, תפקיד זה מוקצה רק לקבוצת התפקידים של מנהל גילוי אלקטרוני. ראה [הקצאת הרשאות גילוי אלקטרוני](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 לקבלת מידע נוסף, ראה [ייצוא תוצאות חיפוש תוכן](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 

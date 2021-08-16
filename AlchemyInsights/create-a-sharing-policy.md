@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bd193dea999efc7720ece1d4614be090f733bfb24d8fa518c61ee23cca0063dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816273"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032271"
 ---
 # <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>יצירת מדיניות שיתוף כדי לאפשר למשתמשים שלך לשתף את לוח השנה שלהם עם אנשים מחוץ לארגון שלך
 
-1. מתוך לוח המחוונים של מרכז הניהול של Microsoft 365, עבור אל **Exchange**  >  **ניהול**.
+1. מתוך לוח המחוונים מרכז הניהול של Microsoft 365, עבור אל **מנהל**  >  **Exchange**.
 2. עבור אל **שיתוף**  >  **ארגוני**.
 3. בתצוגת הרשימה, תחת שיתוף **בודד**, לחץ על **חדש** .
 4. במדיניות **שיתוף חדשה,** הקלד שם ידידותי עבור מדיניות השיתוף **בתיבה שם מדיניות.**
@@ -41,5 +41,5 @@ ms.locfileid: "51816273"
 **כדי להבין את הנושא הזה במלואו, קרא את הבאים:**
 
 - [יצירת מדיניות שיתוף ב- Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
-- [החלת מדיניות שיתוף על תיבות דואר ב- Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
-- [שינוי, הפיכת מדיניות שיתוף לזמינה או הסרה של מדיניות שיתוף ב- Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
+- [החלת מדיניות שיתוף על תיבות דואר Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
+- [שינוי, הפיכת מדיניות שיתוף ללא זמינה או הסרה Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
