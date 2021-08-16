@@ -1,5 +1,5 @@
 ---
-title: למד אודות יישומי אינטרנט מתקדמים (PWAs) ב-Microsoft Edge (כרומיום)
+title: למד אודות Web Apps מתקדם (PWAs) ב- Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101447"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>למד אודות יישומי אינטרנט מתקדמים (PWAs) ב-Microsoft Edge (כרומיום)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>למד אודות Web Apps מתקדם (PWAs) ב- Microsoft Edge (Chromium)
 
-PWAs הם אתרי אינטרנט ששופרו באופן הדרגתי כדי לתפקד כגון יישומים מקוריים בפלטפורמות התומכות בהן. PWAs משלב את התכונות הטובות ביותר של האינטרנט והיישומים המקוריים.
+PWAs הם אתרי אינטרנט המשופרים באופן מתקדם כדי לתפקד כמו יישומים מקוריים בפלטפורמות התומכות בהם. PWAs משלב את התכונות הטובות ביותר של אפליקציות אינטרנט ואפליקציות מקוריות.
 
-מנקודת המבט של פלטפורמת אינטרנט, [PWAs ב-Microsoft Edge (כרומיום)](https://go.microsoft.com/fwlink/?linkid=2135193) מבוססת על תקנים. הם מאפשרים למשתמשים להתקין יישומים ישירות מתוך הדפדפן, והם אינם דורשים פריסה או רישום המבוססים על Microsoft Store. PWAs של שולחן העבודה נתמכים בכל פלטפורמה שבה Microsoft Edge (כרומיום) זמין.
+מנקודת המבט של פלטפורמת אינטרנט, [PWAs ב- Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) מבוססים על תקנים. הם מאפשרים למשתמשים להתקין אפליקציות ישירות מתוך הדפדפן, והם אינם דורשים Microsoft Store או רישום מבוססי-משתמש. PWAs שולחניים נתמכים בכל פלטפורמה שבה Microsoft Edge (Chromium) זמין.

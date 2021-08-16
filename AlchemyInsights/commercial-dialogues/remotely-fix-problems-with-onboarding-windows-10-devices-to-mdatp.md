@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות בהפעלה מרחוק של מכשירי Windows 10 להגנת איום מתקדמת של Microsoft Defender
+title: פתרון בעיות מרחוק ב- onboarding Windows 10 ל- Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5473d090f6d4680f9a62f34f943ac6cea53b2079
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 44969436c99b182cb4202fa60e2deb7d6ea3f460e48ee4649de1cfb646970f34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034035"
 ---
-# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>פתרון בעיות בהפעלה מרחוק של מכשירי Windows 10 להגנת איום מתקדמת של Microsoft Defender
+# <a name="remotely-fix-problems-with-onboarding-windows-10-devices-to-microsoft-defender-advanced-threat-protection"></a>פתרון בעיות מרחוק ב- onboarding Windows 10 ל- Microsoft Defender Advanced Threat Protection
 
 אם באפשרותך לגשת למחשב המרוחק, בצע את הפעולות הבאות:
 
-1. הורד את כלי האבחון של [מנתח קישוריות הלקוח](https://go.microsoft.com/fwlink/?linkid=2143466) .
-2. חלץ והפעיל את MDATPAnalyzer. cmd.
-3. אתר את יומן האבחון בתיקיה MDATPClientAnalyzerResult, שהיא אותה תיקיה שבה הורד את כלי המנתח.
-4. כדי למצוא בעיות בקישוריות או בהגדרות של proxy באינטרנט, עיין בקובץ יומן הרישום MDATPClientAnalyzer.txt.
+1. הורד את [כלי האבחון של מנתח קישוריות](https://go.microsoft.com/fwlink/?linkid=2143466) הלקוח.
+2. חלץ ולהפעיל את MDATPAnalyzer.cmd.
+3. אתר את יומן האבחון בתיקיה MDATPClientAnalyzerResult, שהיא אותה תיקיה שבה הורד הכלי מנתח.
+4. כדי למצוא בעיות בהגדרות קישוריות או ב- Proxy באינטרנט, סקור את קובץ יומן MDATPClientAnalyzer.txt.
 
-לקבלת מידע נוסף, ראה [בעיות במכשירים המשולבים](https://go.microsoft.com/fwlink/?linkid=2143634).
+כדי ללמוד עוד, ראה [בעיות במחשבי לוחות.](https://go.microsoft.com/fwlink/?linkid=2143634)
