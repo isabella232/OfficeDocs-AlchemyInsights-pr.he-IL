@@ -1,5 +1,5 @@
 ---
-title: בעיות ביצועים-SharePoint או OneDrive
+title: בעיות ביצועים- SharePoint או OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677171"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028437"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>שגיאת שרת פנימי בעת ניווט לאתרי Sharepoint או OneDrive
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>שגיאת שרת פנימית בעת ניווט לאתרי Sharepoint או OneDrive אחרים
 
-משתמשים עשויים לקבל שגיאת שרת פנימי של 500 בעת ניסיון לנווט לאתרי SharePoint או OneDrive. 
+המשתמשים עשויים לקבל שגיאת שרת פנימית של 500 בעת ניסיון לנווט אל SharePoint או OneDrive אתרים. 
 
 נסה לנקות את מטמון הדפדפן לפני הניווט לאתר.
 
 
-1. בדפדפן Microsoft Edge, עבור אל הגדרות עוד... >
+1. בדפדפן Microsoft Edge, עבור אל עוד...> הגדרות
 
-2. תחת נקה גלישה בנתונים, בחר **באפשרות בחר מה לנקות**
+2. תחת נקה נתוני גלישה, בחר **בחר מה לנקות**
 
-3. בחר את תיבת הסימון קבצי Cookie ונתוני אתר אינטרנט שנשמרו ובחר **נקה**.
+3. בחר את תיבת הסימון קבצי Cookie ותנווני אתר אינטרנט שנשמרו ובחר **נקה**.
 
-הערה: שלבים אלה עשויים להיות שונים בעת שימוש בדפדפנים אחרים כגון Firefox או Chrome.
+הערה: שלבים אלה עשויים להשתנות בעת שימוש בדפדפנים אחרים כגון Firefox או Chrome.
 
-אם פעולה זו אינה פותרת את הבעיה, באפשרותך לבדוק אם יש תחזוקה פעילה שמתרחשת בדייר שלך על-ידי ניווט [למרכז ההודעות](https://portal.office.com/adminportal/home#/MessageCenter).
+אם פעולה זו אינה פותרת את הבעיה, באפשרותך לבדוק אם מתרחשת תחזוקה פעילה דייר על-ידי ניווט אל [מרכז ההודעות](https://portal.office.com/adminportal/home#/MessageCenter).
 
-לבסוף, ודא שאתה מבקר בדף [תקינות השירות](https://portal.office.com/adminportal/home#/servicehealth) כדי לבדוק את כל העלונים/האירועים שעשויים להתרחש.
+לבסוף, ודא שאתה מבקר בדף [תקינות](https://portal.office.com/adminportal/home#/servicehealth) השירות כדי לבדוק אם יתרחשו הנחיות/אירועים שעלולים להתרחש.
 

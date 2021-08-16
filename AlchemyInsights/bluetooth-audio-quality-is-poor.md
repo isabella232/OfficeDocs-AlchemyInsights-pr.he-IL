@@ -1,5 +1,5 @@
 ---
-title: איכות השמע של Bluetooth ירודה
+title: Bluetooth שמע ירודה
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: dcd5cad153ae521065e3dee211c850b0db6fd7f5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cecbcea515905502fee69e89dc872399349a781cdff13d01c4b323617c5cba4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968846"
 ---
-# <a name="fix-bluetooth-audio-quality-issue"></a>פתרון בעיית איכות שמע של Bluetooth
+# <a name="fix-bluetooth-audio-quality-issue"></a>תיקון Bluetooth איכות השמע
 
-אם התקן ה- Bluetooth שלך מחובר, אך איכות השמע ירודה, נסה את הפעולות הבאות:
+אם מכשיר Bluetooth מחובר אך איכות השמע ירודה, נסה את הפעולות הבאות:
 
-- ודא שהשמע פועל דרך התקן ה- Bluetooth. בחר **התחל**  >  **הגדרות**  >  **צליל**  >  **מערכת**. תחת **בחר את התקן הפלט** שלך , בחר את התקן השמע של Bluetooth.
-- השתהה דברים אחרים שעשויים להשתמש ב- Bluetooth, כגון שיתוף קבצים באמצעות Bluetooth. לקבלת מידע נוסף, ראה [פתרון בעיות צליל ב- Windows 10.](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems)
-- ודא שהסטריאו נבחר עבור התקן Bluetooth כדי להבטיח את איכות השמע הטובה ביותר. לשם כך: 
+- ודא שהשמע פועל דרך Bluetooth שלך. בחר **התחל**  >  **הגדרות**  >  **System**  >  **Sound**. תחת **בחר את התקן הפלט**, בחר את Bluetooth השמע.
+- השתהה דברים אחרים שעשויים Bluetooth, כגון שיתוף קבצים Bluetooth. לקבלת מידע נוסף, ראה [פתרון בעיות צליל ב- Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
+- ודא שהסטריאו נבחר עבור Bluetooth כדי להבטיח את איכות השמע הטובה ביותר. כדי לעשות זאת: 
     1. בצד השמאלי של שורת המשימות, בחר עוצמת **קול** ולאחר מכן בחר בסמל סוגר השבר כדי לבחור התקן הפעלה.
-    2. בחר את התקן ה- Bluetooth ולאחר מכן ודא **שהאפשרות** סטריאו נבחרה. (אפשרות איכות השמע הנמוכה יותר היא **ללא ידיים.)**
-    3. אם הסטריאו אינו זמין כאפשרות, הסר את המכשיר ב- Settings  >  **Devices**  >  **Bluetooth &** מכשירים אחרים ולאחר מכן הוסף מחדש את המכשיר. לאחר מכן, בדוק **שוב את** לוח עוצמת הקול כדי לוודא שהסטריאו נבחר.
+    2. בחר Bluetooth ההתקן ולאחר מכן ודא **שהאפשרות סטריאו** נבחרה. (אפשרות איכות השמע הנמוכה יותר היא **ללא ידיים.)**
+    3. אם סטריאו אינו זמין כאפשרות, הסר את המכשיר **הגדרות** התקנים Bluetooth & אחרים  >    >  ולאחר מכן הוסף מחדש את המכשיר. לאחר מכן, בדוק **שוב את** לוח עוצמת הקול כדי לוודא שהסטריאו נבחר.
 
