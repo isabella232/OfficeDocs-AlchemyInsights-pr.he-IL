@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000357"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>העברה מ- AIP ל- MIP/Unified Labeling במרכז התאימות
 
@@ -25,11 +25,11 @@ ms.locfileid: "51825372"
 
 **הפעלת הגנה בפורטל Azure**
 
-1. אם עדיין לא עשית זאת, פתח חלון דפדפן חדש [והירשם לפורטל Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). נווט אל **להב Azure Information Protection.** לדוגמה, בתפריט Hub, לחץ על **כל השירותים** והתחל **להקליד מידע** בתיבה מסנן. בחר **Azure Information Protection**. אם לא ניגשת ללהב Azure Information Protection בעבר, [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) עיין בשלבים הנוספות ה חד-זמניים כדי להוסיף להב זה לפורטל. כדי לפתוח את להב Azure Information Protection, עליך לתכן תוכנית [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) או תוכנית Office 365 הכוללת ניהול זכויות. אם יש לך אחד מהמינויים הללו, אך אתה רואה הודעה שלא ניתן למצוא מנוי חוקי, פנה [לתמיכה של Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) או השתמש בערוצים הרגילים שלך לתמיכה.
+1. אם עדיין לא עשית זאת, פתח חלון דפדפן חדש [והירשם לפורטל Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). נווט אל **להב Azure Information Protection.** לדוגמה, בתפריט Hub, לחץ על **כל השירותים** והתחל **להקליד מידע** בתיבה מסנן. בחר **Azure Information Protection**. אם לא ניגשת ללהב Azure Information Protection בעבר, [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) עיין בשלבים הנוספות ה חד-זמניים כדי להוסיף להב זה לפורטל. כדי לפתוח את הלהב של Azure Information Protection, עליך להשתמש בתוכנית [הגנה Premium Azure](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) או תוכנית Office 365 הכוללת ניהול זכויות. אם יש לך אחד מהמינויים הללו, אך אתה רואה הודעה שלא ניתן למצוא מנוי חוקי, פנה [לתמיכה של Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) או השתמש בערוצים הרגילים שלך לתמיכה.
 
 2. אתר את **אפשרויות** התפריט ניהול ובחר הפעלת **הגנה**. לחץ **על הפעל** ולאחר מכן אשר את הפעולה. לאחר השלמת ההפעלה, סרגל המידע מציג את **ההפעלה הסתיימה בהצלחה.**
 
-**העברת תוויות Azure Information Protection אל Office 365 Security & מרכז התאימות**
+**העברת תוויות Azure Information Protection Office 365 מרכז & תאימות**
 
 1. ודא שאתה מחובר כמשתמש בעל הרשאת מנהל מערכת כללי.
 

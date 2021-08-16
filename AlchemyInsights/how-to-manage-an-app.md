@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "9439"
-ms.openlocfilehash: 5cd58303b0629e55b0ed67157f9fcf01668fda1e
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: 5481d1d63e6cf1f2fdbe1c17420dd041e5fe8b4f5be17a891b9e0bf871d27baf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50694399"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002085"
 ---
 # <a name="how-to-manage-an-app"></a>כיצד לנהל יישום
 
 כדי לנהל יישום:
 
-- התחל [בניהול יישומים](https://admin.teams.microsoft.com/policies/manage-apps) במרכז הניהול של Microsoft teams כדי להוסיף יישום עבור הארגון שלך.
-- באפשרותך להשתמש [במדיניות הרשאות של יישום](https://admin.teams.microsoft.com/policies/app-permission) במרכז הניהול של Microsoft teams כדי לאפשר או לחסום יישום ולהקצות אותו למשתמשים.
-- כדי לשנות את הסדר שבו מוצג יישום משתמשים או כדי להצמיד אפליקציה, השתמש [במדיניות הגדרת יישום](https://admin.teams.microsoft.com/policies/app-setup) במרכז הניהול של Microsoft teams.
+- התחל עם [ניהול יישומים](https://admin.teams.microsoft.com/policies/manage-apps) במרכז Microsoft Teams כדי להוסיף יישום עבור הארגון שלך.
+- באפשרותך להשתמש במדיניות [הרשאות אפליקציה](https://admin.teams.microsoft.com/policies/app-permission) במרכז Microsoft Teams כדי לאפשר או לחסום יישום ולהקצות אותו למשתמשים.
+- כדי לשנות את הסדר שיישום מוצג למשתמשים או להצמיד יישום, השתמש במדיניות הגדרת [אפליקציות](https://admin.teams.microsoft.com/policies/app-setup) במרכז Microsoft Teams הניהול.
 
-לקבלת מידע נוסף אודות יצירת מדיניות יישומים עבור הארגון שלך, ראה:
+לקבלת מידע נוסף אודות יצירת פריטי מדיניות של אפליקציות עבור הארגון שלך, ראה:
 
-- [ניהול היישומים שלך במרכז הניהול של Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [ניהול מדיניות הרשאות של יישומים ב-Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [ניהול מדיניות הגדרת יישומים ב-Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)
+- [ניהול האפליקציות שלך במרכז Microsoft Teams הניהול של](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [ניהול מדיניות הרשאות אפליקציה ב- Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [ניהול מדיניות הגדרת אפליקציה Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies)

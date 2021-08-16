@@ -1,5 +1,5 @@
 ---
-title: תיקיות של Outlook Mobile בסדר חדש
+title: Outlook תיקיות למכשירים ניידים בסדר חדש
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000249"
 ---
-# <a name="my-folders-are-in-a-new-order"></a>התיקיות שלי מסודרות בסדר חדש
+# <a name="my-folders-are-in-a-new-order"></a>התיקיות שלי נמצאות בסדר חדש
 
-עם הוספת תיקיות וקבוצות מועדפות ל-Outlook עבור iOS ו-Android, ייתכן שתבחין שהתיקיות שלך נמצאות בסדר חדש. אם יש לך מועדפים, תראה מקטע מועדפים בחלק העליון של הסרגל הצידי. באפשרותך להוסיף מועדפים באמצעות סמל העיפרון ליד החלק העליון של הסרגל הצידי. פעולה זו תשמור את כל התיקיות והקבוצות החשובות ביותר בחלק העליון שבו תוכל לגשת אליהם בקלות.
+עם הוספת התיקיות והקבוצות המועדפות Outlook עבור iOS ו- Android, ייתכן שתבחין שהתיקיות שלך נמצאות בסדר חדש. אם יש לך מועדפים, תראה מקטע מועדפים בחלק העליון של סרגל הצידי. באפשרותך להוסיף מועדפים באמצעות סמל העיפרון ליד החלק העליון של סרגל הצידי. פעולה זו תשאיר את כל התיקיות והקבוצות החשובות ביותר בראש הדף שבו תוכל לגשת אליהם בקלות.
