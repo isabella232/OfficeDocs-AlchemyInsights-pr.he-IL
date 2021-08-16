@@ -1,5 +1,5 @@
 ---
-title: אשף הפריסה של Office למשתמשים מרוחקים
+title: פריסת Office באשף המשתמשים המרוחקים
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49678238"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031443"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>אשף הפריסה של Office למשתמשים מרוחקים
+# <a name="deploy-office-to-remote-users-wizard"></a>פריסת Office באשף המשתמשים המרוחקים
 
-כעת, כאשר עבודה מרחוק היא הנורמה, המשתמשים צריכים לקבל את הגדרות Office של הארגונים שלך כאשר הם אינם מחוברים לרשת הפנימית שלך או בעת שימוש במכשירים משלהם.
+כעת, העבודה מרחוק היא הנורמה, המשתמשים צריכים לקבל את הגדרות Office הארגונים שלך כאשר הם אינם מחוברים לרשת הפנימית שלך או בעת שימוש במכשירים משלהם.
 
-השתמש באשף [הפריסה של office למשתמשים מרוחקים](https://go.microsoft.com/fwlink/?linkid=2149564) כדי ליצור התקנה מותאמת אישית של office ולאחר מכן לשלוח משתמשים קובץ script שנוצר על-ידי PowerShell שיתקין באופן חלק את Office באמצעות התצורה שלך.
+השתמש [באשף פריסת Office למשתמשים](https://go.microsoft.com/fwlink/?linkid=2149564) מרוחקים כדי ליצור התקנה Office אישית ולאחר מכן שלח למשתמשים קובץ Script שנוצר של PowerShell שיתקין בצורה חלקה את Office עם התצורה שלך.

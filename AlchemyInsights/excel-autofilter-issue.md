@@ -1,5 +1,5 @@
 ---
-title: בעיה בסינון אוטומטי של Excel
+title: Excel בעיית סינון אוטומטי
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b50a0c2bcc72674c55938608f09de324a18433879b4126fb0e9c3314480dc180
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100547"
 ---
-# <a name="excel-autofilter-issue"></a>בעיה בסינון אוטומטי של Excel
+# <a name="excel-autofilter-issue"></a>Excel בעיית סינון אוטומטי
 
-בעת שימוש ב-Excel 2016, אם הרשימה הנפתחת של סינון אוטומטי אינה מציגה את כל תיבות הסימון הזמינות, או שתיבות הסימון אינן ניתנות ללחיצה, ייתכן שהסיבה לכך היא בעיה ידועה בגירסאות build קודמות של Excel. 
+בעת Excel 2016, אם הרשימה הנפתחת של סינון אוטומטי אינה מראה את כל תיבות הסימון הזמינות, או שלא ניתן ללחוץ על תיבות הסימון, ייתכן שהבעיה נובעת מבעיה ידועה בגירסאות build קודמות של Excel. 
   
-בעיה זו תוקנה כעת **בגירסה 1707 (8326.2073)** ואילך. כדי לקבל את העדכון באופן מיידי **File** , פתח את Excel ובחר את \> **Account** \> **Update Options** \> **העדכון**אפשרויות עדכון חשבון קובץ.
+בעיה זו נפתרה כעת **בגירסה 1707 (8326.2073) ואילך.** כדי לקבל את העדכון באופן מיידי,  פתח את Excel ובחר אפשרויות \> **עדכון חשבון קובץ** \>  \> **עדכן כעת**.
   
 

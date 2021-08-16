@@ -1,5 +1,5 @@
 ---
-title: 1065 תבטלות של EOP כתובת IP יוצאת rangesMC146155
+title: 1065 Deprecation of EOP outbound IP address rangesMC146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: afd725668f906339f4b7d769bb67a4d2ee5a6ac6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214abc57a99c70a02a7d159441713e007f6ad980f67e373780d4ca297f69f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031263"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>תבטלות של טווחי כתובות IP יוצאות של EOP
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>ביטול פחת של טווחי כתובות IP יוצאות של EOP
 
-זיהינו בעיה אפשרית עם הארגון שלך (אם לא תוקנה על-ידי ה-26 באוקטובר, 2018) עשויה לשבור את זרימת הדואר ליעדים המקומיים או החיצוניים שלך. כאמור, כדי לפשט את ניהול טווחי כתובות ה-IP, אנו מאוחדים את טווחי כתובות ה-IP של Exchange Online Protection (EOP) המשמשים לשליחה וקבלה של דואר אלקטרוני מחוץ ל-Microsoft 365. הניתוח שלנו מציין שאחד או יותר ממקורות הדואר האלקטרוני או היעדים החיצוניים שהגדרת במחברי זרימת הדואר אינם מקבלים חיבורים מטווחי כתובות ה-IP המוצגים [כאן](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+זיהינו בעיה פוטנציאלית בארגון שלך אשר (אם לא תוקנה עד ה- 26 באוקטובר 2018) עשויה לשבור את זרימת הדואר ליעדים המקומיים או החיצוניים שלך. כפי שהעברת בעבר, כדי לפשט את ניהול טווח כתובות ה- IP, אנו מאחדים את טווחי כתובות ה- IP של Exchange Online Protection (EOP) המשמשים לשליחה וקבלה של דואר אלקטרוני מחוץ Microsoft 365. הניתוח שלנו מציין שאחד או יותר ממקורות הדואר האלקטרוני או היעדים החיצוניים שתצורתם נקבעה במחברי זרימת דואר אינם מקבלים חיבורים מטווחי כתובות ה- IP המוצגים [כאן.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-הפעל לפני 26 באוקטובר כדי להבטיח שמקורות אלה ויעדים אלה יקבלו חיבורים לכל [כתובות ה-IP של EOP](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+פעל לפני ה- 26 באוקטובר כדי להבטיח שמקורות ויעדים אלה יקבלו חיבורים אל כל כתובות ה- IP שפורסמו [ב- EOP ומתוכן.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-לקבלת מידע נוסף אודות שינוי זה, ראה מרכז ההודעות הודעות [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)או [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
+לקבלת מידע נוסף אודות שינוי זה, ראה הודעות מרכז [ההודעות MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)או [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
 
-**הערה**: אם השתמשת בעבר ב-IP או בפרסום של כתובות URL באמצעות HTML, XML ו-RSS עבור עדכוני נקודות קצה, עליך גם לעבור לשירותי האינטרנט החדשים לאוטומציה של סוגי עדכונים אלה. לקבלת מידע נוסף, ראה [קטגוריות נקודות קצה של microsoft 365 ו-microsoft 365 כתובת IP ושירות אינטרנט של כתובות URL](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).
+**הערה**: אם השתמשת בעבר בפרסום IP או כתובת URL באמצעות HTML , XML ו- RSS עבור עדכוני נקודות קצה, עליך גם לעבור לשירותי האינטרנט החדשים כדי להפוך עדכונים מסוגים אלה לאוטומטיים. לקבלת מידע נוסף, [ראה Microsoft 365 נקודות קצה וכתובות Microsoft 365 IP](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638)ושירות אינטרנט של כתובת URL .

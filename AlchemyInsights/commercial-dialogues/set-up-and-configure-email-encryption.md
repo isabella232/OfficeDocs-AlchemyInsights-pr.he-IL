@@ -1,5 +1,5 @@
 ---
-title: הגדרה וקביעת תצורה של הצפנת דואר אלקטרוני
+title: הגדרה והגדרה של הצפנת דואר אלקטרוני
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: ca9be1c329fcac4dc5ea988bbce31cf27d70e199
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fc4caf4426a6bd4b238727dfc56f21eb3a56d4eea8251c17611ea430e1a9ce05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746420"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070433"
 ---
-# <a name="set-up-and-configure-email-encryption"></a>הגדרה וקביעת תצורה של הצפנת דואר אלקטרוני
+# <a name="set-up-and-configure-email-encryption"></a>הגדרה והגדרה של הצפנת דואר אלקטרוני
 
-לקבלת מידע אודות הצפנת הודעות של Office 365, ראה [הצפנת הודעות של office 365](https://docs.microsoft.com/microsoft-365/compliance/ome).
+לקבלת מידע אודות הצפנת הודעות של Office 365, [ראה הצפנת הודעות של Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome).
 

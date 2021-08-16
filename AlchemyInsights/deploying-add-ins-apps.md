@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 3aacc3c6675f4102a5b34a435c862215dbfd0479b75549d608ed3c91021ed3d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031407"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>פריסת תוספות עבור יישומי Microsoft 365
 
@@ -27,7 +27,7 @@ ms.locfileid: "52233528"
 **הערה:** כדי להתקין תוספות עבור Office כמשתמש בודד, ראה [הצגה, ניהול](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d)והתקנה של תוספות בתוכניות Office אחרות. כמו כן, ודא שרכישה Office של תוספות של חנות Office זמינה. לקבלת פרטים, ראה [מניעת הורדות תוספת על-ידי כיבוי Office בכל](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)הלקוחות (למעט Outlook) .
 
 1. ודא שהסביבה שלך מותאמת לדרישות לפריסה של תוספות באמצעות פריסה מרכזית. לקבלת פרטים, [ראה דרישות](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
-2. עבור **אל הגדרות**  >    >  **משולבים קבל** אפליקציות במרכז Microsoft 365 כדי לפרוס תוספות. 
+2. עבור **אל הגדרות**  >    >  **משולבים קבל** אפליקציות מרכז הניהול של Microsoft 365 כדי לפרוס תוספות. 
 
 הערות: 
 
@@ -46,6 +46,6 @@ ms.locfileid: "52233528"
 [פריסת תוספות במרכז הניהול](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins) 
  [ניהול תוספות במרכז הניהול](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center) 
  [שימוש ברכיבי ה- cmdlet של PowerShell](https://docs.microsoft.com/microsoft-365/enterprise/use-the-centralized-deployment-powershell-cmdlets-to-manage-add-ins) בפריסה מרכזית לניהול תוספות 
- [פרסום Office תוספות באמצעות פריסה מרכזית דרך מרכז Microsoft 365 הניהול של](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
+ [פרסום Office תוספות באמצעות פריסה מרכזית באמצעות מרכז הניהול של Microsoft 365](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment#publish-an-office-add-in-via-centralized-deployment) 
  [פתרון בעיות: המשתמש אינו רואה תוספות](https://docs.microsoft.com/office365/troubleshoot/access-management/user-not-seeing-add-ins) 
  [פתרון בעיות בשגיאות משתמש Office תוספות](https://docs.microsoft.com/office/dev/add-ins/testing/testing-and-troubleshooting)
