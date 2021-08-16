@@ -1,5 +1,5 @@
 ---
-title: תיקון הגדרות מדיניות המשתמש/תיבת הדואר
+title: תיקון הגדרות מדיניות משתמש/תיבת דואר
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034719"
 ---
-# <a name="fix-user-policymailbox-settings"></a>תיקון הגדרות מדיניות המשתמש/תיבת הדואר
+# <a name="fix-user-policymailbox-settings"></a>תיקון הגדרות מדיניות משתמש/תיבת דואר
 
-הגדרות ' דואר זבל ' בתיבת הדואר השפיעו על הודעה זו. כדי לסקור את ההגדרות, בצע את הפעולות הבאות:
+הגדרות דואר הזבל בתיבת הדואר השפיעו על הודעה זו. כדי לסקור את ההגדרות, עשה את הפעולות הבאות:
 
-1. הפעל את מעטפת ניהול Exchange. לקבלת מידע נוסף, ראה [פתיחת מעטפת ניהול Exchange](https://go.microsoft.com/fwlink/?linkid=2101432).
-2. הפעיל פקודה זו (באמצעות כתובת הדואר האלקטרוני של המשתמש):  **get-mailboxjunkmailconfiguration-identity "user@domain.com"**
-3. בדוק אם כתובת הדואר האלקטרוני של השולח היא חלק מ- **TrustedSendersAndDomains** או מ- **BlockedSendersAndDomains**. אם כתובת הדואר האלקטרוני נמצאת באחת מהרשימות, ייתכן שתצטרך להסיר אותה. לקבלת מידע נוסף, ראה [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).
+1. הפעל Exchange ניהול מעטפת. לקבלת מידע נוסף, ראה [פתיחת Exchange ניהול.](https://go.microsoft.com/fwlink/?linkid=2101432)
+2. הפעל פקודה זו (באמצעות כתובת הדואר האלקטרוני של המשתמש):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
+3. בדוק אם כתובת הדואר האלקטרוני של השולח היא חלק **מ- TrustedSendersAndDomains** או **BlockedSendersAndDomains**. אם כתובת הדואר האלקטרוני נמצאת באחת מהרשימות, ייתכן שיהיה עליך להסיר אותה. כדי ללמוד עוד, ראה [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047).

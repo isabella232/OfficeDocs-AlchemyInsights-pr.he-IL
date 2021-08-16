@@ -12,24 +12,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c513da49dc953b4ae76bb06854e33232ec40e11151f11ade33c3080092aa598
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704129"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015621"
 ---
 # <a name="how-to-disable-external-groups"></a>כיצד להפוך קבוצות חיצוניות ללא זמינות
 
-העברת הודעות חיצונית קטרת מחילה כללי תעבורה של Exchange (Etr), ערכה של פקדים מופעלים כדי למנוע מידע אודות החברה להיות משותף. כדי להגביל את המשתמשים ליצור קבוצות חיצוניות, עליך לקבוע את התצורה של כלל תעבורה של Exchange (ETR) ולאחר מכן לקבוע את התצורה של קטרת כדי להשתמש בכלל תעבורה של Exchange כדי לחסום העברת הודעות חיצונית.
+Yammer ההודעות החיצוניות חלות Exchange כללי תעבורה (ETRs), קבוצה של פקדים יזום כדי למנוע שיתוף של מידע אודות החברה. כדי להגביל את המשתמשים ליצור קבוצות חיצוניות, עליך להגדיר כלל Exchange תעבורה (ETR) ולאחר מכן לקבוע את התצורה של Yammer לשימוש בכלל Exchange תעבורה כדי לחסום העברת הודעות חיצוניות.
   
-לאחר שיצרת כלל במרכז הניהול של Exchange Online, בצע שלבים אלה כדי להגדיר את ETR להחלה ב-קטרת:
+לאחר שיצרת כלל במרכז הניהול של Exchange Online, בצע שלבים אלה כדי להגדיר את ETR להחלה ב- Yammer:
   
-- היכנס ל-קטרת כמנהל מערכת מאומת, **ובמרכז הניהול של קטרת**, עבור אל ' **תוכן \> והגדרות אבטחה של אבטחה '.**
+- היכנס אל Yammer כמנהל מערכת מאומת, ובמרכז **Yammer**, עבור אל תוכן C **ואבטחה \> הגדרות.**
 
-- תחת **העברת הודעות חיצוניות**, בחר **אכוף את כללי התעבורה של exchange Online exchange (etr) ב-קטרת.**
+- תחת **העברת הודעות חיצוניות,** **בחר אכוף את כללי Exchange Online Exchange (ETRs) ב- Yammer.**
 
 - בחר **שמור**.
 
-לקבלת מידע נוסף, ראה [הפיכת הודעות חיצוניות ללא זמינות ברשת קטרת](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
+לקבלת מידע נוסף, ראה [הפיכת העברת הודעות חיצוניות ללא זמינה Yammer רשת](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   
