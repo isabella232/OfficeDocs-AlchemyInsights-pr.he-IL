@@ -1,5 +1,5 @@
 ---
-title: ייצוא לוח השנה של Google
+title: ייצוא לוח השנה שלך ב- Google
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 409f34d01c7d81a81cf7594237e2c0163bdd8c85
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: 7f0786fd83eb0e31e0b0803a1c924cad37c4b2b47baf6f3495175c8a7bd7b91d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068993"
 ---
-# <a name="export-your-google-calendar"></a>ייצוא לוח השנה של Google
+# <a name="export-your-google-calendar"></a>ייצוא לוח השנה שלך ב- Google
 
-1. היכנס לחשבון Google Gmail שלך ולאחר מכן לחץ על **לוח שנה**.
-1. לחץ על **הגדרות לוחות השנה שלי**  >  **Settings**.
-1. לחץ על **יצא לוחות שנה** ובחר את המיקום כדי לשמור את הקובץ שחולץ.
-1. במיקום, בחר את קובץ ה-zip השמור ולחץ על **חלץ הכל**.
+1. היכנס לחשבון Google Gmail שלך ולאחר מכן לחץ על לוח **שנה**.
+1. לחץ **על לוחות השנה שלי**  >  **הגדרות**.
+1. לחץ **על ייצא לוחות** שנה ובחר את המיקום לשמירת הקובץ שחולצ.
+1. במיקום, בחר את קובץ ה- zip שנשמר ולחץ על **חלץ הכל**.
    אם יש לך כמה לוחות שנה של Google, יופיע קובץ ICS עבור כל אחד מהם.
 
 כעת אתה מוכן לייבוא לוח השנה של Google ל- Outlook.

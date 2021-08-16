@@ -1,5 +1,5 @@
 ---
-title: מנע חיפוש של Microsoft ב-Bing להתקנה באמצעות יישומי Microsoft 365
+title: מניעת חיפוש של Microsoft ב- Bing התקנה באמצעות יישומי Microsoft 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816265"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040111"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>מנע חיפוש של Microsoft ב-Bing להתקנה באמצעות יישומי Microsoft 365
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>מניעת חיפוש של Microsoft ב- Bing התקנה באמצעות יישומי Microsoft 365
 
-כדי למנוע משירות הרקע של Microsoft Search ב-Bing להתקין באמצעות יישומי Microsoft 365 for enterprise, השתמש באחת מהאפשרויות הבאות:
+כדי למנוע את התקנת שירות הרקע עבור חיפוש של Microsoft ב- Bing עם יישומי Microsoft 365 לארגונים, השתמש באחת מהאפשרויות הבאות:
 
-- כלי הפריסה של Office או מדיניות קבוצתית
-- מנהל התצורה של נקודות הקצה של Microsoft (ההסתעפות הנוכחית) או Microsoft intune
+- כלי Office או מדיניות קבוצתית
+- Microsoft Endpoint Configuration Manager (הענף הנוכחי) או Microsoft Intune
 
-לקבלת מידע נוסף, ראה [כיצד למנוע התקנה של שירות הרקע עבור Microsoft Search ב-Bing באמצעות יישומי microsoft 365 for enterprise](https://go.microsoft.com/fwlink/?linkid=2151946).
+לקבלת מידע נוסף, ראה כיצד למנוע התקנה [של שירות חיפוש של Microsoft ברקע Bing](https://go.microsoft.com/fwlink/?linkid=2151946)ב- יישומי Microsoft 365 לארגונים .
