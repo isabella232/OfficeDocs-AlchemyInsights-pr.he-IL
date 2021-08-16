@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 37355c1b6658f21d35d03aacf292bbdc174a2359
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7dd2fbbd23beedda47bd724d84d717a3751f51f9607274d9b124f14463cf4b50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745065"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045169"
 ---
 # <a name="update-dns-settings"></a>עדכון הגדרות DNS
 
-עדכון הגדרות DNS כולל העתקה והדבקה של הערכים ש-Office 365 מעניק לך לרשם התחומים או לספק אירוח ה-DNS שלך. לשם כך, בצע את השלבים הבאים:
+עדכון הגדרות DNS כרוך בהעתקה ובדבקה של הערכים Office 365 לך לרשם התחומים או לספק אירוח ה- DNS שלך. לשם כך, בצע את השלבים הבאים:
 
-1. העתק והדבק את הערכים המוצגים בדף **עדכן הגדרות dns** בספק אירוח ה-dns שלך.
+1. העתק והדבק את הערכים המוצגים בדף **עדכן הגדרות DNS** בספק אירוח ה- DNS שלך.
 2. לחץ על **אמת**.
 3. לחץ על **סיום**.

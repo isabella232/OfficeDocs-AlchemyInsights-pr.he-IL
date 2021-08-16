@@ -1,5 +1,5 @@
 ---
-title: הדרכה לשדרוג של teams
+title: Teams לשדרוג
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998692"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams משתמשת במשאבי מחשב נוספים מהצפוי
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams משתמש ביותר משאבי מחשב מהצפוי
 
-ביצועים מעולים וחוויית המשתמש הם חששות מובילים ב-Microsoft. זמן השיגור של teams השתפר, ואנו נמשיך לשפר את הצוותים, כולל צריכת משאבים כוללת.  
+ביצועים מעולים וחוויה של משתמש הם חששות מובילים ב- Microsoft. Teams ההשקה שלך משתפר, ונמשיך לשפר את Teams, כולל צריכת המשאבים הכוללת.  
 
-לקבלת מידע אודות Teams ושימוש במשאבים, ראה [כיצד Microsoft teams משתמש בזיכרון](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  ו-  [teams לאט במהלך פגישות וידאו במחשבי מחברת שעוגנו לצגי 4k/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+לקבלת מידע אודות Teams בשימוש במשאבים, ראה [כיצד Microsoft Teams משתמש](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) בזיכרון ו- Teams איטי במהלך פגישות וידאו במחשבים נישאים [מעוגן לצגי 4K/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
