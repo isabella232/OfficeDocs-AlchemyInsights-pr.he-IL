@@ -1,5 +1,5 @@
 ---
-title: 976-כיצד להפוך לזמין-ליטיגציה-החזקה
+title: 976-how-to-enable-litigation-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,17 +14,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 47d5a0866a6e92da2a3abb377a5e93918b5a1c9d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbc3460dde8030238d56d054af7e4ee13d655d7d54f65c3275a73e899dd6f813
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780564"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067517"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>הצבת תיבת דואר בחסימה משפטית
+# <a name="place-a-mailbox-on-legal-hold"></a>למקם תיבת דואר בהמתנה משפטית
 
-- כדי למקם תיבת דואר בחסימה לצורך תביעה משפטית או חסימה מקומית, נדרש [רשיון](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) של exchange online בתוכנית exchange online 2 רשיונות. אם תיבת דואר מוקצית לרשיון תוכנית 1, באפשרותך להקצות רשיון הרחבה נפרד של Exchange Online לאחסון בארכיון של exchange [online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- כדי למקם תיבת דואר בהמתנה לתביעה משפטית או In-Place, נדרש רשיון Exchange Online תוכנית 2 [Exchange Online תוכנית 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) אם לתיבת דואר מוקצה רשיון תוכנית 1, באפשרותך להקצות רשיון אחסון בארכיון של Exchange Online הרחבה [נפרד אחסון בארכיון של Exchange Online רשיון הרחבה](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- כדי לאפשר חסימה לצורך תביעה משפטית עבור משתמש בודד, [בצע שלבים אלה](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold). כאשר החסימה לצורך תביעה משפטית מופעלת, כל התוכן בתיבת הדואר נשמר.
+- כדי להפוך חסימה לתביעה משפטית לזמינה עבור משתמש יחיד, [בצע שלבים אלה.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold) כאשר חסימה לצורך תביעה משפטית זמינה, כל התוכן בתיבת הדואר נשמר.
 
-- כדי לשמר תוכן בכל תיבות הדואר בארגון שלך או כדי ליצור סוגים אחרים של חסימות שמירה, השתמש במדיניות שמירה או בתוויות. שים לב שעבור מדיניות שמירה ברחבי הארגון, משתמשים חדשים מוקצים באופן אוטומטי למדיניות. לקבלת מידע נוסף, ראה מידע [אודות מדיניות שמירה ותוויות שמירה](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 
+- כדי לשמר תוכן בכל תיבות הדואר בארגון שלך או כדי ליצור סוגים אחרים של החזקות שמירה, השתמש במדיניות שמירה או בתוויות. שים לב כי עבור מדיניות שמירה ברחבי הארגון, משתמשים חדשים מוקצים באופן אוטומטי למדיניות. לקבלת מידע נוסף, ראה [מידע על מדיניות שמירה ותוויות שמירה](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). 

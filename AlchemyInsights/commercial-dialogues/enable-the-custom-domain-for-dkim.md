@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1a21101602f47dcb5c9b607d7bbccfacec00f43a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 753e0201363f3bf7c60c5b69df76176ad58e1b7a643f79f169c71af20b0a35d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035079"
 ---
 # <a name="enable-the-custom-domain-for-dkim"></a>הפיכת התחום המותאם אישית לזמין עבור DKIM
 
@@ -26,7 +26,7 @@ ms.locfileid: "50746000"
 
 כדי להפוך את התחום לזמין, בצע את השלבים הבאים:
 
-1. נווט אל [מרכז הניהול של Exchange](https://outlook.office365.com/ecp/).
-2. בחלונית הימנית, בחר **הגנה > dkim**.
-3. בחר את התחום ולאחר מכן, תחת **חתום על הודעות עבור תחום זה עם חתימות DKIM**, לחץ על **הפוך לזמין**. חזור על שלב זה עבור כל תחום.
+1. נווט [אל Exchange הניהול של](https://outlook.office365.com/ecp/).
+2. בחלונית הימנית, **בחר הגנה > dkim**.
+3. בחר את התחום ולאחר מכן, תחת **חתום על הודעות עבור תחום זה באמצעות חתימות DKIM**, לחץ על **הפוך לזמין**. חזור על שלב זה עבור כל תחום.
 
