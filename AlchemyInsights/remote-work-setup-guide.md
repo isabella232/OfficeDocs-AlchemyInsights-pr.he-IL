@@ -1,5 +1,5 @@
 ---
-title: מדריך להגדרת עבודה מרוחקת
+title: מדריך להגדרת עבודה מרחוק
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023991"
 ---
-# <a name="remote-work-setup-guide"></a>מדריך להגדרת עבודה מרוחקת
+# <a name="remote-work-setup-guide"></a>מדריך להגדרת עבודה מרחוק
 
-יותר ויותר עבודה מתבצעת באופן מרוחק. הארגון שלך צריך להיות מצויד כדי לנהל את הביקוש המוגבר של עבודה מרוחקת.
+יותר ויותר עבודה תם מרחוק. יש צורך ב- Org כדי לנהל את הביקוש המוגדל של עבודה מרחוק.
 
-השתמש [במדריך ההגדרה ' עבודה מרוחקת](https://go.microsoft.com/fwlink/?linkid=2142062) ' כדי לאפשר תכונות אבטחה חיוניות ולסקור המלצות אבטחה נוספות. תקבל הדרכה להפחתת המתח בתשתית ה-VPN ותוכל להגדיר גישה מרחוק למחשבים שולחניים ואפליקציות. לאחר מכן תוכל לסקור את האפשרויות לפריסה של Microsoft Teams ו-Office apps.
+השתמש [במדריך להגדרת עבודה מרחוק כדי](https://go.microsoft.com/fwlink/?linkid=2142062) להפוך תכונות אבטחה חיוניות לזמינות ול לסקור המלצות אבטחה נוספות. תוכל לקבל הדרכה כדי להפחית את המתח על תשתית ה- VPN שלך ולהגדיר גישה מרחוק עבור מחשבים שולחניים ויישומים. לאחר מכן, תוכל לסקור את האפשרויות שלך לפריסת Microsoft Teams ויישומים Office שלך.

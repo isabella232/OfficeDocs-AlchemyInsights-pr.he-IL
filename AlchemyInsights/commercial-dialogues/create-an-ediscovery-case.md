@@ -1,5 +1,5 @@
 ---
-title: יצירת מארז גילוי אלקטרוני
+title: יצירת מקרה גילוי אלקטרוני
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 61e466d9ec203a66a7ce2e89bd1462f5a483c784
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482754"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988368"
 ---
-# <a name="create-an-ediscovery-case"></a>יצירת מארז גילוי אלקטרוני
+# <a name="create-an-ediscovery-case"></a>יצירת מקרה גילוי אלקטרוני
 
-כך ניתן ליצור מקרה של גילוי אלקטרוני:
+כך ניתן ליצור מקרה גילוי אלקטרוני:
 
-1. עבור אל [מרכז התאימות של האבטחה &](https://go.microsoft.com/fwlink/p/?linkid=2077143) ובחר **גילוי אלקטרוני**  >  **גילוי אלקטרוני**.
+1. עבור אל [מרכז האבטחה &](https://go.microsoft.com/fwlink/p/?linkid=2077143) תאימות ובחר **גילוי** אלקטרוני של  >  **גילוי אלקטרוני**.
 1. בדף גילוי אלקטרוני, לחץ על **צור אירוע**.
 1. הזן שם ותיאור של אירוע ולאחר מכן לחץ על **שמור**.
     > [!TIP]
-    >כדי לנהל הרשאות עבור האירוע, לחץ על הרווח הלבן לצד שם האירוע (אל תלחץ על פתח).
-1. כדי לנהל הגדרות חסימה, חיפוש וייצוא עבור אירוע זה, לחץ על **פתח**.
+    >כדי לנהל הרשאות עבור האירוע, לחץ על ה- Whitespace לצד שם האירוע (אל תלחץ על פתח).
+1. כדי לנהל הגדרות 'החזקה', 'חיפוש' ו'ייצוא' עבור מקרה זה, לחץ על **פתח**.
 
-לקבלת מידע מפורט אודות אופן הפעולה של המקרים גילוי אלקטרוני בתוכן, ראה [גילוי אלקטרוני תיקים](https://go.microsoft.com/fwlink/?linkid=2101589).
+לקבלת מידע מפורט אודות אופן עבודתו של מקרים של גילוי אלקטרוני עם תוכן, ראה [מקרים של גילוי אלקטרוני](https://go.microsoft.com/fwlink/?linkid=2101589).
