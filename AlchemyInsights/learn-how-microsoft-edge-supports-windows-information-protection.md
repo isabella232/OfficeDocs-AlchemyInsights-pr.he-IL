@@ -1,5 +1,5 @@
 ---
-title: למד כיצד Microsoft Edge תומך בהגנת המידע של Windows (WIP)
+title: למד כיצד Microsoft Edge תמיכה Windows מידע (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054319"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>למד כיצד Microsoft Edge תומך בהגנת המידע של Windows (WIP)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>למד כיצד Microsoft Edge תמיכה Windows מידע (WIP)
 
-כאשר מספר העובדים המרוחקים גדל, כך גם מספר הפעילויות האישיות והעבודה המתרחשות במכשירים הארגוניים. פעולה זו מגדילה את הסיכון שנתונים ארגוניים עשויים להיות משותפים מחוץ למקום העבודה. כדי להפחית את הסיכון, Microsoft Edge (גירסה 81 ואילך) תומך בהגנת המידע של Windows (WIP): תכונה של Windows-10 שמסייעת בהגנה על נתונים ארגוניים מפני גילויים בלתי מורשים ובטעות.
+ככל ומספר העובדים המרוחקים גדל, כך גם מספר הפעילויות האישיות והעבודה המתרחשות במכשירים ארגוניים. פעולה זו מגדילה את הסיכון שנתונים ארגוניים עשויים להיות משותפים מחוץ למקום העבודה. כדי לצמצם סיכון זה, Microsoft Edge (גירסה 81 ואילך) תומך ב- Windows Information Protection (WIP): תכונה Windows-10 שתעזור להגן על נתונים ארגוניים מפני גילויים בלתי מורשים ותאוותיים.

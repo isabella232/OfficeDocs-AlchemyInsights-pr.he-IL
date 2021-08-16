@@ -1,5 +1,5 @@
 ---
-title: שימוש ב-Microsoft Edge להגנה על משתמשים מפני PUAs
+title: השתמש Microsoft Edge כדי להגן על משתמשים מפני PUAs
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678439"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000501"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>שימוש ב-Microsoft Edge להגנה על משתמשים מפני PUAs
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>השתמש Microsoft Edge כדי להגן על משתמשים מפני PUAs
 
-גירסאות של Microsoft Edge 80.0.361.50 ולאחר מכן חוסמות הורדות של יישומים שעשויים להיות בלתי רצויים (PUAs) וכתובות Url משויכות. כדי להפעיל תכונה זו, בצע את הפעולות הבאות:
+Microsoft Edge גירסאות 80.0.361.50 ואילך חוסמים הורדות של יישומים שעשויים להיות לא רצויים (PUAs) וכתובות URL משויכת. כדי להפעיל תכונה זו, עשה את הפעולות הבאות:
 
-1. עבור אל **הגדרות**  >  **פרטיות ושירותים** בדפדפן.
+1. עבור אל **הגדרות**  >  **פרטיות ושירותים בדפדפן.**
 
-2. גלול מטה אל המקטע **שירותים** וודא ש- **Microsoft Defender SmartScreen** **וחסום יישומים שעשויים להיות בלתי רצויים** מופעלים.
+2. גלול מטה אל המקטע **שירותים** וודא Microsoft Defender SmartScreen **וחסימת אפליקציות שעשויות להיות לא** רצויות מופעלות. 
 
-    בפעם הבאה ש-Microsoft Defender SmartScreen יזהה את פואה, הוא יחסום אותו ויודיע לך בהתאם.
+    בפעם הבאה Microsoft Defender SmartScreen PUA, היא תחסום אותה ותדווח לך בהתאם.
 
-    לקבלת מידע נוסף, ראה [כיצד לחסום את כתובות ה-url המשויכות ל-פואה](https://go.microsoft.com/fwlink/?linkid=2133024).
+    כדי ללמוד עוד, [ראה כיצד לחסום מול כתובות URL המשויכות ל- PUA](https://go.microsoft.com/fwlink/?linkid=2133024).

@@ -1,5 +1,5 @@
 ---
-title: הרשות של MDM אינה מוגדרת
+title: רשות MDM שלך אינה מוגדרת
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046681"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>הרשות של MDM אינה מוגדרת
+# <a name="your-mdm-authority-is-not-set"></a>רשות MDM שלך אינה מוגדרת
 
-הרשות לניהול מכשירים ניידים (MDM) של דייר זה אינה מוגדרת. עליך להגדיר רשות MDM לפני הרישום והניהול של מכשירים במהלך המנגינה MDM. ללא הגדרת הרשות של MDM, לא תוכל להשתמש בתכונות MDM של MDM. הגדרת הרשות של MDM קובעת כיצד לנהל את המכשירים שלך.
+רשות ניהול המכשירים הניידים (MDM) של דייר זה אינה מוגדרת. עליך להגדיר רשות MDM לפני ההרשמה והניהול של מכשירים באמצעות Intune MDM. מבלי להגדיר את רשות MDM, לא תוכל להשתמש בתכונות MDM של Intune. ההגדרה של רשות MDM קובעת כיצד אתה מנהל את המכשירים שלך.
 
 שלבים מומלצים:
-1. נווט ללהב מבט כולל על ' כוונון הרשמה ' כדי להגדיר את הרשות MDM.
-2. בחר את הסמכות המתאימה בהתבסס על הצרכים הניהוליים שלך. לקבלת מידע נוסף, ראה [הגדרת מאמר הרשות לניהול מכשירים ניידים](https://docs.microsoft.com/intune/mdm-authority-set).
+1. נווט אל הלהב מבט כולל על הרשמה של Intune כדי להגדיר את רשות MDM.
+2. בחר את הסמכות המתאימה בהתבסס על צרכי הניהול שלך. לקבלת מידע נוסף, ראה [הגדרת מאמר רשות הניהול של מכשירים ניידים](https://docs.microsoft.com/intune/mdm-authority-set).

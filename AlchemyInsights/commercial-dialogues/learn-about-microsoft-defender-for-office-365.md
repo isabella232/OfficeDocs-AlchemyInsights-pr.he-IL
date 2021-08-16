@@ -1,5 +1,5 @@
 ---
-title: קבל מידע על Microsoft Defender עבור Office 365
+title: למד אודות Microsoft Defender עבור Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9eac6f1b666f7b8031fe3ff7b439c5c5ddf9e998
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d384b1d0aaba2faca60870dd04727985f9e13cda43687bc6f7bc53da90db4b9e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746611"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016953"
 ---
-# <a name="learn-about-microsoft-defender-for-office-365"></a>קבל מידע על Microsoft Defender עבור Office 365
+# <a name="learn-about-microsoft-defender-for-office-365"></a>למד אודות Microsoft Defender עבור Office 365
 
 להלן מידע אודות Microsoft Defender עבור Office 365:
 
 - **מהו Microsoft Defender עבור Office 365?**  
-    Defender עבור Office 365 הוא שירות סינון דואר אלקטרוני המבוסס על ענן שעוזר להגן על ארגונים מפני תוכנות זדוניות ווירוסים לא ידועים על-ידי מתן הגנה חזקה ביום האפס. היא כוללת תכונות להגנה על ארגונים מפני קישורים מזיקים בזמן אמת.
+    Defender for Office 365 הוא שירות סינון דואר אלקטרוני מבוסס ענן שמסייע להגן על ארגונים מפני תוכנות זדוניות ווירוסים לא ידועים על-ידי מתן הגנה איתנים של אפס ימים. הוא כולל תכונות כדי להגן על ארגונים מקישורים מזיקים בזמן אמת.
 - **כיצד ניתן להפעיל את Microsoft Defender עבור Office 365?**  
-    קבצים מצורפים בטוחים, קישורים בטוחים ומניעת דיוג הם חלק מ-Defender עבור Office 365. Enterprise E5, השכלה A5 ו-Microsoft 365 Business כוללים את התכונות המוכללות של Defender עבור Office 365. כל התוכניות האחרות דורשות מנוי הרחבה עבור Office 365. עליך להקצות את הרשיונות המתאימים למשתמשים שלך כדי להתגונן על-ידי Defender עבור Office 365. דרושות לך הרשאות של *מנהל מערכת כללי* או *מנהל אבטחה* כדי לגשת ל-Defender עבור Office 365. לקבלת מידע נוסף אודות החלת רשיונות בצובר למשתמשים, ראה [הקצאת רשיונות למשתמשים ב-Office 365 לעסקים](https://go.microsoft.com/fwlink/?linkid=2093435).
-- **כיצד ניתן לנהל את Defender עבור Office 365 או לקבל מידע נוסף אודותיו?**  
-  - עבור אל [תוכנית ההתקנה](https://go.microsoft.com/fwlink/p/?linkid=2075721).  
-  - תחת **כניסה ואבטחה** , **הגדל את ההגנה מפני איומים מתקדמים** ולאחר מכן בחר [הצג](https://go.microsoft.com/fwlink/?linkid=2109302).
+    כספת קבצים מצורפים, כספת קישורים ואנטי-דיוג הם חלק מ- Defender Office 365. Enterprise E5 , Education A5 ו- Microsoft 365 Business כוללים את התכונות המוכללות של Defender for Office 365 שלך. כל התוכניות האחרות דורשות הרחבה Defender עבור Office 365 מנוי. עליך להקצות את הרשיונות המתאימים למשתמשים שלך כדי להגן על-ידי Defender עבור Office 365. עליך להיות בעל *הרשאות מנהל מערכת* כללי או *מנהל* אבטחה כדי לגשת אל Defender עבור Office 365. לקבלת מידע נוסף על אופן החלת רשיונות בצובר על המשתמשים שלך, ראה הקצאת [רשיונות למשתמשים ב- Office 365 לעסקים](https://go.microsoft.com/fwlink/?linkid=2093435).
+- **כיצד ניתן לנהל את Defender עבור Office 365 או לקבל מידע נוסף על כך?**  
+  - עבור אל [הגדרה](https://go.microsoft.com/fwlink/p/?linkid=2075721).  
+  - תחת **כניסה ואבטחה, מצא** **הגדל הגנה מפני איומים מתקדמים** ולאחר מכן בחר [הצג](https://go.microsoft.com/fwlink/?linkid=2109302).
