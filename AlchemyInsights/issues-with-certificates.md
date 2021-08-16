@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 168103463ee7c2d599b89ca883b410223486f59a
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027897"
 ---
 # <a name="issues-with-certificates"></a>בעיות באישורים
 
-לקבלת הנחיות לפתרון בעיות הקשורות לאישורים, עיין במאמרים הבאים:
+לקבלת הנחיות בנושא פתרון בעיות הקשורות לאישורים, עיין במאמרים הבאים:
 
-- [תחילת העבודה עם אימות מבוסס-אישורים בתכלת Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)  -השלבים לקביעת התצורה ולשימוש באימות המבוסס על אישורים עבור משתמשי דיירים בתוכניות Office 365 Enterprise, Business, השכלה וממשלת ארה"ב.
+- [תחילת העבודה עם אימות מבוסס-אישורים ב- Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) - שלבים לקביעת התצורה של אימות מבוסס-אישורים וניצול עבור משתמשים של דיירים בתוכניות Office 365 Enterprise, Business, Education ו- US Government.
 
-- [פתרון בעיות בנושא האימות של התכלת הCertificate-Based](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  -מידע שיעזור לך לפתור בעיות אימות מבוססות אישורים.
+- [פתרון בעיות אימות Certificate-Based Azure AD](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  - מידע שיעזור לך לפתור בעיות אימות מבוססות אישור.
 
-- [ניהול אישורים עבור כניסה יחידה מאוחדת ב-תכלת Active directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on)  -שאלות נפוצות ומידע הקשור לאישורים ש-תכלת active Directory (תכלת לספירה) יוצר כדי לבסס את הכניסה היחידה (SSO) מאוחדת על התוכנה שלך כיישומי שירות (SaaS).
+- [נהל אישורים עבור כניסה](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on)  יחידה מאוחדת ב- Azure Active Directory - שאלות נפוצות ומידע הקשור לאישורים ש- Azure Active Directory (Azure AD) יוצר כדי ליצור כניסה יחידה מאוחדת (SSO) לתוכנה שלך כיישומי שירות (SaaS).
 
-- [אפשרויות של חתימת אישורים מתקדמת ב-SAML token עבור יישומי גלריה ב-תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  -למד אודות שלוש אפשרויות חתימת האישורים של תכלת לספירה.
+- [אפשרויות מתקדמות של חתימת אישורים באסימון SAML עבור יישומי](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  גלריה ב- Azure Active Directory - למד אודות שלוש אפשרויות חתימת האישורים של Azure AD.

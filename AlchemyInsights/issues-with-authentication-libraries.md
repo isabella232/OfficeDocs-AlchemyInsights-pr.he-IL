@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004333"
 - "7731"
-ms.openlocfilehash: ab4ffbc78a7cadd8acee3c98eaa5f3323da9c7e3
-ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
+ms.openlocfilehash: 39336fa8840a28befcad449d0afa59c1df5c6bef5988cb197916a03aa2aa66c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50063608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028005"
 ---
 # <a name="issues-with-authentication-libraries"></a>בעיות בספריות אימות
 
-1. [ספריות האימות של פלטפורמת הזהויות של microsoft](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) מפרטות את הספריות הנתמכות והתווכה של microsoft ללקוחות ולקוחות שתואמים
-2. ספריית האימות של Microsoft (MSAL) תומכת במספר [זרימות אימות](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows) לשימוש בתרחישים שונים של יישומים.
-3. כדי לאמת ולרכוש אסימונים, עליך לאתחל יישום לקוח ציבורי או סודי חדש בקוד שלך. באפשרותך להגדיר כמה אפשרויות תצורה בעת אתחול יישום הלקוח בספריית האימות של Microsoft (MSAL). לקבלת מידע נוסף, ראה [אפשרויות תצורת יישום](https://docs.microsoft.com/azure/active-directory/develop/msal-client-application-configuration).
+1. [פלטפורמת הזהויות של Microsoft אימות מפורטות](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) ספריות לקוח ותוכנות ביניים הנתמכות על-ידי Microsoft ותואמות.
+2. ספריית האימות של Microsoft (MSAL) תומכת [במספר זרימות אימות](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows) לשימוש בתרחישי יישומים שונים.
+3. כדי לאמת ולהשיג אסימונים, עליך לאתחל יישום לקוח ציבורי או סודי חדש בקוד שלך. באפשרותך להגדיר כמה אפשרויות תצורה בעת אתחול יישום הלקוח בספריית האימות של Microsoft (MSAL). כדי ללמוד עוד, ראה [אפשרויות תצורת יישום](https://docs.microsoft.com/azure/active-directory/develop/msal-client-application-configuration).
 
-**סיום התמיכה עבור ממשק האימות של מדריכי כתובות של Active Directory (ADAL) ו-active AD Graph API (הגרף עמ מ)**
+**סיום התמיכה עבור Azure Active Directory Authentication Library (ADAL) ו- Azure AD Graph API (AAD Graph)**
 
-**החל מ-30 ביוני, 2020**, לא נוסיף עוד תכונות חדשות לADAL ו-תכלת AD Graph. נמשיך לספק תמיכה טכנית ועדכוני אבטחה, אך לא נספק עוד עדכוני תכונות.
+**החל מ- 30 ביוני 2020,** לא נוסיף עוד תכונות חדשות לתכונות ADAL ול- Azure AD Graph. נמשיך לספק תמיכה טכנית ועדכוני אבטחה, אך לא נספק עוד עדכוני תכונות.
 
-**החל מ-30 ביוני 2022**, נסיים את התמיכה ב-ADAL וב-תכלת לספירה והיא לא תספק עוד תמיכה טכנית או עדכוני אבטחה.
+**החל מ- 30 ביוני 2022,** מסתיים התמיכה ב- ADAL וב- Azure AD Graph ולא תספק עוד תמיכה טכנית או עדכוני אבטחה.
 
-יישומים המשתמשים ב-ADAL בגירסאות מערכת הפעלה קיימות ימשיכו לפעול לאחר שעה זו, אך לא *יקבלו שום תמיכה טכנית או עדכוני אבטחה*.
+אפליקציות המשתמשות ב- ADAL בגירסאות OS קיימות ימשיכו לפעול לאחר זמן זה, אך לא יתעדכו תמיכה *טכנית או עדכוני אבטחה.*
 
-יישומים המשתמשים ב-תכלת AD Graph לאחר שעה זו עשויים לקבל תגובות מנקודת הקצה של הגרף ' תכלת לספירה '.
+אפליקציות המשתמשות ב- Azure AD Graph לאחר זמן זה עשויות שלא לקבל עוד תגובות מנקודות הקצה של Azure AD Graph נקודות הקצה.
 
-**העברת ADAL**
+**ADAL Migration**
 
 אנו ממליצים לעדכן ל[ספריית האימות של Microsoft ‏(MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), הכוללת את התכונות ועדכוני האבטחה האחרונים.
 
-אם אתה משתמש ב-Microsoft apps, דע ש-Microsoft נמצאת בתהליך העברת היישומים שלה ל-MSAL על-ידי תאריך היעד של סיום התמיכה, ולהבטיח שייהנו מהשיפור המתמשך של האבטחה והתכונות של MSAL.
+אם אתה משתמש ביישומי Microsoft, תדע ש- Microsoft נמצאת בתהליך העברת היישומים שלה ל- MSAL עד למועד היעד הסופי של התמיכה, כדי להבטיח שהם ייהנו מהשיפורים המתמשך באבטחה ובתכונה של MSAL.
 
 לקבלת מידע נוסף, ראה:
 
 1. [קרא את השאלות הנפוצות בנושא ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
 2. [למד כיצד להעביר אפליקציות לפי פלטפורמה](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
-3. אם אתה זקוק לעזרה בהבנת היישומים שבהם אתה משתמש ב-ADAL, אנו ממליצים לך לסקור את כל קוד המקור של היישומים, ובהתאם לצורך, להושיט יד לכל ספקי Isv או יישומים. התמיכה של Microsoft יכולה גם לספק לך רשימה של כל האפליקציות שאינן של Microsoft ADAL בדייר שלך.
+3. אם אתה זקוק לעזרה בהבנת אילו מהאפליקציות שלך משתמשות ב- ADAL, מומלץ לסקור את כל קוד המקור של היישומים שלך, ואם ישים, ליצור קשר עם ספקי ISVS או ספקי יישומים. התמיכה של Microsoft יכולה גם לספק לך רשימה של כל האפליקציות שאינן של Microsoft ADAL בדייר שלך.
 
 **העברת AAD Graph**
 
-עבור יישומים המשתמשים ב-תכלת AD Graph, בצע את ההנחיות שלנו כדי [להעביר את האפליקציות של הודעות מיידיות של התכלת ל-Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).
+עבור יישומים המשתמשים ב- Azure AD Graph, בצע את ההנחיות שלנו להעברת [יישומי Azure AD Graph ל- Microsoft Graph.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview)
 
-1. [רשימת הפעולות לביצוע של ההעברה מספקת נקודת תחילת העבודה.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist)
-2. פורטל רישום האפליקציות של Azure מראה אילו אפליקציות משתמשות ב- AAD Graph. אנו ממליצים לך לסקור את קוד המקור של כל האפליקציות שלך, ובמקרה הרלוונטי ליצור קשר עם ISVs או ספקי אפליקציות. התמיכה של Microsoft יכולה גם לספק לך רשימה של כל השימוש בגרף של ה-עמ-שימוש בדייר שלך.
-3. כדי שהיישום שלך ייגש לנתונים ב-Microsoft Graph, המשתמש או מנהל המערכת חייבים להעניק לו את ההרשאות הנכונות באמצעות תהליך הסכמה. [ההפניה להרשאות Microsoft graph](https://docs.microsoft.com/graph/permissions-reference) מפרטת את ההרשאות המשויכות לכל קבוצה עיקרית של ממשקי Api של Microsoft Graph. כמו כן, הוא מספק הנחיות לגבי אופן השימוש בהרשאות.
+1. [רשימת הפעולות לביצוע של ההעברה שלנו מספקת נקודת תחילת העבודה.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist)
+2. פורטל רישום האפליקציות של Azure מראה אילו אפליקציות משתמשות ב- AAD Graph. אנו ממליצים לך לסקור את קוד המקור של כל האפליקציות שלך, ובמקרה הרלוונטי ליצור קשר עם ISVs או ספקי אפליקציות. התמיכה של Microsoft יכולה גם לספק לך רשימה של כל Graph AAD הדייר שלך.
+3. כדי שהאפליקציות שלך לגשת לנתונים ב- Microsoft Graph, המשתמש או מנהל המערכת חייבים להעניק לו את ההרשאות הנכונות באמצעות תהליך הסכמה. חומר [ההפניה Graph Microsoft מפרט](https://docs.microsoft.com/graph/permissions-reference) את ההרשאות המשויכות לכל קבוצה ראשית של ממשקי API Graph Microsoft. הוא מספק גם הדרכה לגבי אופן השימוש בהרשאות.

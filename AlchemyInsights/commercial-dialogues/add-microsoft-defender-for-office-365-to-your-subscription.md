@@ -1,5 +1,5 @@
 ---
-title: הוספת Microsoft Defender עבור Office 365 למנוי שלך
+title: הוספת Microsoft Defender Office 365 למנוי שלך
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5dbd3e3b7744f48c5737b0909765576453e8769e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ea3addc8bd1e7bb3026132512f75ecdbafcec06036ec14943fb3aed554e25757
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006243"
 ---
-# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>הוספת Microsoft Defender עבור Office 365 למנוי שלך
+# <a name="add-microsoft-defender-for-office-365-to-your-subscription"></a>הוספת Microsoft Defender Office 365 למנוי שלך
 
-לשם כך:
+כדי לעשות זאת:
 
-1. במרכז הניהול, עבור אל   >  [שירותי רכישת](https://go.microsoft.com/fwlink/p/?linkid=868433)חיוב.
-2. בדף **רכישת שירותים** , הקש **CTRL + F** כדי לפתוח את תיבת החיפוש ולאחר מכן חפש את **Microsoft Defender עבור Office 365**. אם אינך מוצא את ההרחבה, הסיבה לכך היא שהתוכנית שלך אינה תומכת בהוספתה.
-3. בחר **קנה עכשיו** ולאחר מכן פעל לפי ההנחיות בדף.
+1. במרכז הניהול, עבור אל שירותי **רכישת**  >  [חיוב.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+2. בדף רכישת **שירותים,** הקש **CTRL+F** כדי לפתוח את תיבת החיפוש ולאחר מכן חפש את **Microsoft Defender Office 365**. אם אינך מוצא את ההרחבה, היא משום שהתוכנית שלך אינה תומכת בהוספתה.
+3. בחר **קנה כעת** ולאחר מכן פעל לפי ההנחיות בדף.
