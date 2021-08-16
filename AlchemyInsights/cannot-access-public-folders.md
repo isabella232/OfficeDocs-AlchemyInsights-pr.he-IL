@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819513"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996631"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>ל- Outlook אין אפשרות להתחבר לתיקיות ציבוריות
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook אין אפשרות להתחבר לתיקיות ציבוריות
 
 אם הגישה לתיקיה ציבורית אינה פועלת עבור משתמשים מסוימים, נסה את הפעולות הבאות:
 
-התחבר ל- EXO PowerShell והגדר את הפרמטר DefaultPublicFolderMailbox בחשבון המשתמש הלבעיה כך שיתאים לפרמטר בחשבון משתמש פועל.
+התחברות EXO PowerShell והגדר את הפרמטר DefaultPublicFolderMailbox בחשבון המשתמש הבעיה כך שיתאים לפרמטר בחשבון משתמש עובד.
 
 דוגמה:
 
@@ -33,18 +33,18 @@ Set-Mailbox בעיהUser -DefaultציבוריFolderMailbox \<value from previous
 
 המתן לפחות שעה אחת עד שהשינוי יתוקף.
 
-אם הבעיה נשארת, בצע הליך זה [כדי לפתור](https://aka.ms/pfcte) בעיות גישה לתיקיה ציבורית באמצעות Outlook.
+אם הבעיה נשארת, בצע הליך [זה כדי לפתור](https://aka.ms/pfcte) בעיות גישה לתיקיה ציבורית באמצעות Outlook.
  
 **כדי לקבוע אילו משתמשים יוכלו לגשת לתיקיות ציבוריות באמצעות Outlook**:
 
 1.  השתמש <mailboxname> Set-CASMailbox-PublicFolderClientAccess $true או $false  
       
-    $true: אפשר למשתמשים לגשת לתיקיות ציבוריות ב- Outlook  
+    $true: אפשר למשתמשים לגשת לתיקיות ציבוריות Outlook  
       
     $false: מניעת גישת משתמש לתיקיות ציבוריות ב- Outlook. (אפס) זהו ערך ברירת המחדל.  
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**הערה** הליך זה יכול לשלוט בחיבורים רק עם שולחן העבודה של Outlook עבור לקוחות Windows. משתמש יכול להמשיך לגשת לתיקיות ציבוריות באמצעות OWA או Outlook עבור Mac.
+**הערה** הליך זה יכול לשלוט בחיבורים רק Outlook שולחן העבודה Windows לקוחות. משתמש יכול להמשיך לגשת לתיקיות ציבוריות באמצעות OWA או Outlook עבור Mac.
  
-לקבלת מידע נוסף, ראה [הודעה על תמיכה עבור חיבורים מבוקרים לתיקיות ציבוריות ב- Outlook](https://aka.ms/controlpf).
+לקבלת מידע נוסף, ראה הודעה על תמיכה [עבור חיבורים מבוקרים לתיקיות ציבוריות ב- Outlook](https://aka.ms/controlpf).

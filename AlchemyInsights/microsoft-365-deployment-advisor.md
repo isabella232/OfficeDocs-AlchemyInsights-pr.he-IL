@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004194"
 - "7374"
-ms.openlocfilehash: 6d5c7042d2d8b2a113a8f2047b6d776d9247dd99
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 16bdbfaf95ee3744027ce03d591518db86cad0c9b86a227244a908245501eb6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678425"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027384"
 ---
 # <a name="deploy-microsoft-365"></a>פריסת Microsoft 365
 
-[יועץ הפריסה של Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2072646) מספק לקוחות מסחריים בעלי הדרכה בעת הגדרת כלי פרודוקטיביות, מדיניות אבטחה ויכולות ניהול מכשירים. באמצעות Microsoft 365 Business Premium או Microsoft 365 עבור מנוי ארגוני, באפשרותך להשתמש ביועץ זה כדי להגדיר ולקבוע את תצורת המכשירים של הארגון שלך.
+יועץ [Microsoft 365 מספק ללקוחות מסחריים](https://go.microsoft.com/fwlink/?linkid=2072646) הדרכה בעת הגדרת כלי פרודוקטיביות, מדיניות אבטחה ויכולות ניהול מכשירים. באמצעות Microsoft 365 Business Premium או Microsoft 365 עבור מנוי ארגוני, באפשרותך להשתמש בייעוץ זה כדי להגדיר ולהגדיר את המכשירים של הארגון שלך.
 
-תקבל הדרכה וגישה למשאבים כדי לאפשר את שירותי הענן שלך, לעדכן מכשירים לגירסה הנתמכת העדכנית ביותר של Windows 10 ולהצטרף למכשירים לתכלת Active Directory (תכלת לספירה), הכל במיקום מרכזי אחד.
+תקבל הדרכה וגישה למשאבים כדי להפוך את שירותי הענן שלך לזמינים, לעדכן מכשירים לגירסה העדכנית ביותר הנתמכת של Windows 10 ולהצטרף למכשירים ל- Azure Active Directory (Azure AD), הכל במיקום מרכזי אחד.

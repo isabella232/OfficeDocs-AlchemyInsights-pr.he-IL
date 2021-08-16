@@ -1,5 +1,5 @@
 ---
-title: מחברי Microsoft Graph
+title: מחברים Graph Microsoft
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027303"
 ---
-# <a name="microsoft-graph-connectors"></a>מחברי Microsoft Graph
+# <a name="microsoft-graph-connectors"></a>מחברים Graph Microsoft
 
-באמצעות מחברי Microsoft Graph, הארגון שלך יכול ליצור אינדקס של נתונים של ספקים חיצוניים כך שיופיעו בתוצאות החיפוש של Microsoft.
+באמצעות מחברים Graph Microsoft, הארגון שלך יכול ליצור אינדקס של נתונים של ספקים חיצוניים כך שיופיעו בתוצאות חיפוש של Microsoft נוספות.
 
-- [מחברים ב-Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [מחברים על-ידי השותפים שלנו](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [מחברים על-ידי Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
+- [מחברים של השותפים שלנו](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-לקבלת מידע נוסף, ראה  [מבט כולל על מחברי Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+לקבלת מידע נוסף, ראה [מבט כולל על מחברים Graph Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-overview).

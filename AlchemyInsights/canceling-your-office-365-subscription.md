@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686815"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996595"
 ---
 # <a name="canceling-your-subscription"></a>ביטול המנוי שלך?
 
 אנו מצטערים לראות אותך הולך, אך אם ברצונך לבטל את המנוי שלך, להלן האפשרויות שלך:
   
 - אם יש לך פחות מ- 25 רשיונות מוקצים, באפשרותך לבטל את המנוי שלך באופן מקוון. עבור אל **הדף חיוב** \> **[המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054)** שלך ומצא את המנוי שברצונך לבטל. בחר את שלוש הנקודות (פעולות נוספות), ולאחר מכן בחר **ביטול מנוי**.
-- אם הוקצו למשתמשים יותר מ- 25 רשיונות, [התקשר לתמיכה כדי לבטל את המנוי שלך.](https://go.microsoft.com/fwlink/p/?linkid=518322)
+- אם יש לך יותר מ- 25 רשיונות שהוקצו למשתמשים, הקטן אותו ל- 25 כדי לבטל או להתקשר [לתמיכה כדי לבטל את המנוי שלך.](/microsoft-365/business-video/get-help-support)
   
 **החזר: כל נקודות זכות מדורגות יוחזרו לך במחזור החיוב הבא.**
 

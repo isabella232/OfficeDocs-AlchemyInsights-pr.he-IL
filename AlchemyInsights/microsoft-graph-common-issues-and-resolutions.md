@@ -1,5 +1,5 @@
 ---
-title: בעיות נפוצות והחלטות של Microsoft Graph
+title: Microsoft Graph בעיות ופתרונות נפוצים
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 099fbd12a9245ad314b27d6e3eac08c1dbc57854e8d6c3165fac81141d83bde6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088867"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027267"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>בעיות נפוצות והחלטות של Microsoft Graph
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph בעיות ופתרונות נפוצים
 
-לקבלת רשימה מלאה של בעיות ידועות ב-Microsoft Graph, ראה [בעיות ידועות ב-Microsoft graph](https://docs.microsoft.com/graph/known-issues). לשאלות ומשאבים אחרים, עיין בדף [התיעוד הראשי של Microsoft Graph](https://docs.microsoft.com/graph/) .
+לקבלת רשימה מלאה של בעיות ידועות ב- Microsoft Graph, ראה בעיות [ידועות ב- Microsoft Graph.](https://docs.microsoft.com/graph/known-issues) לקבלת שאלות ומשאבים אחרים, עיין בדף [הראשי Graph Microsoft.](https://docs.microsoft.com/graph/)
 
-- [חומר עזר של API v 1.0 של Microsoft Graph](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
-- גלה מה השתנה ב-API של Microsoft Graph מ- [רשימת שינויים](https://docs.microsoft.com/graph/changelog). 
-- [שאל שאלה או ספק משוב על ממשקי api ומסמכים של גרף](https://aka.ms/GraphDeveloperSupport) עם צוות התמיכה של המפתחים.
+- [חומר Graph של MICROSOFT REST API v1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
+- גלה מה השתנה ב- API של Microsoft Graph מ- [Changelog](https://docs.microsoft.com/graph/changelog). 
+- [שאל שאלה או ספק משוב על ממשקי ה Graph API ומסמך של](https://aka.ms/GraphDeveloperSupport) מפתחים עם צוות התמיכה למפתחים.
 
-תמיכה מאוחדת ולקוחות Premier יכולים להעלות כרטיס תמיכה באמצעות פורטל זה. אנשים אחרים יכולים לגשת לתמיכה מפתח ללא תשלום עבור Microsoft Graph ב- [Microsoft Q&A](https://aka.ms/AskGraph).
+תמיכה מאוחדת ו- Premier Customers יכולים להעלות כרטיס תמיכה באמצעות פורטל זה. אחרים יכולים לגשת לתמיכה למפתחים ללא תשלום עבור Microsoft Graph [Microsoft Q&A](https://aka.ms/AskGraph).

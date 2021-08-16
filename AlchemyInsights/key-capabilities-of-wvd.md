@@ -1,5 +1,5 @@
 ---
-title: יכולות מפתח של שולחן העבודה של Windows Virtual
+title: יכולות עיקריות של Windows Virtual Desktop
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067121"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>יכולות מפתח של שולחן העבודה של Windows Virtual
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>יכולות עיקריות של Windows Virtual Desktop
 
-שולחן העבודה של Windows Virtual הוא שולחן עבודה ווירטואליזציה ושירות וירטואליזציה של יישומים שפועלים בענן. להלן הפעולות שניתן לבצע כאשר אתה מפעיל את שולחן העבודה של Windows Virtual ב-תכלת:
+Windows Virtual Desktop הוא שירות וירטואליזציה של שולחן עבודה ו- App-virtualization הפועל בענן. זה מה שתוכל לעשות בעת הפעלת שולחן עבודה Windows Virtual Desktop ב- Azure:
 
-- הגדרת פריסה מרובת הפעלות של Windows 10 המספקת חוויה מלאה של Windows 10 עם מדרגיות
-- וירטואליזציה של יישומי Microsoft 365 ומיטוב ההפעלה בתרחישים וירטואליים מרובי משתמשים
-- ספק שולחנות עבודה וירטואליים של Windows 7 עם עדכוני אבטחה מורחבים ללא תשלום
-- הבאת שירותי שולחן העבודה המרוחקים הקיימים (RDS) ושולחנות העבודה והיישומים של Windows Server לכל מחשב
-- ניהול המחשבים השולחניים והאפליקציות של windows 10, Windows Server ו-Windows 7 באמצעות חוויית ניהול מאוחדת
-- יצירת סביבת שולחן עבודה מלאה-סביבת וירטואליזציה במנוי התכלת שלך, מבלי להעביר שרתי שער נוספים
-- פרסום מספר בריכות מארח רבות ככל שעליך להתאים לעומסי עבודה מגוונים
-- מהגלריה ' תכלת ', הוסף תמונות משלך לעומסי עבודה ולמבחני ייצור
-- הפחתת עלויות באמצעות משאבים מרובי הפעלות במאגר
-- מתן בעלות בודדת בעזרת שולחנות עבודה אישיים (מתמשכים)
+- הגדרת פריסה מרובת Windows 10 המספקת חוויית Windows 10 מלאה עם מדרגיות
+- וירטואליזציה יישומי Microsoft 365, ומטב אותו לפעול בתרחישים וירטואליים מרובי משתמשים
+- ספק Windows 7 שולחנות עבודה וירטואליים עם עדכוני אבטחה מורחבים (ESU) ללא תשלום
+- הבא את שירותי שולחן העבודה המרוחק (RDS) הקיימים Windows ויישומים של Server לכל מחשב
+- ניהול Windows 10, Windows Server ו- Windows 7 מחשבים שולחניים ויישומים עם חוויית ניהול מאוחדת
+- יצירת סביבת וירטואליזציה מלאה של שולחן העבודה במנוי Azure שלך, ללא צורך להפעיל שרתי שער נוספים
+- פרסם כמה בריכות מארחות שתצטרך כדי להתאים את עומסי העבודה המגוונים שלך
+- מתוך Azure Gallery, הבא תמונות משלך עבור עומסי עבודה ומבחנים של ייצור
+- הקטנת עלויות באמצעות משאבים מרובי הפעלות מצומצם
+- ספק בעלות אישית באמצעות מחשבים שולחניים אישיים (מתמידים)
 
-לקבלת מידע נוסף, ראה [שולחן העבודה הווירטואלי של Windows](https://go.microsoft.com/fwlink/?linkid=2127033) [ויכולות מפתח](https://go.microsoft.com/fwlink/?linkid=2127033).
+כדי ללמוד עוד, [ראה Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) [ויכולות מפתח](https://go.microsoft.com/fwlink/?linkid=2127033).
 
