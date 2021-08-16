@@ -1,5 +1,5 @@
 ---
-title: הפיכת Microsoft Teams לזמין
+title: הפוך Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -16,15 +16,15 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 0b638f12ca90edba3150c6e75d9653cf507e37af
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 161e7e1b4a682b2e60c40b2a53b5b10da2904b351de40803f8b9d8a580fc49af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814085"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002949"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>הפיכת Microsoft Teams לזמין ולהשתמש בו
+# <a name="enable-and-use-microsoft-teams"></a>הפיכת Microsoft Teams
 
-אם אין לך גישה ל- Microsoft Teams בכלל, עיין כיצד [ניתן לקבל גישה ל- Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
+אם אין לך גישה Microsoft Teams, עיין כיצד [ניתן לקבל גישה ל- Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
 
-אם כבר יש לך Microsoft Teams ועליך לדעת כיצד להגדיר ולנהל אותו, ראה [ניהול הגדרות Microsoft Teams עבור הארגון שלך.](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)
+אם כבר יש לך Microsoft Teams ואתה צריך לדעת כיצד לקבוע את התצורה ולנהל אותה, [ראה ניהול Microsoft Teams עבור הארגון שלך](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).

@@ -1,5 +1,5 @@
 ---
-title: קיצורי מקשים של 8000087 Outlook.com
+title: 8000087 Outlook.com קיצורי מקשים
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000087
-ms.openlocfilehash: b40efccdb0c38c3b24919c36983d71814a4be7c4
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 875363cc21eb62ecd77c460991e3fe9773e4ec85268eb813da3dbd13bb6bb079
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041443"
 ---
-# <a name="keyboard-shortcuts-in-outlookcom"></a>קיצורי מקשים ב-Outlook.com
+# <a name="keyboard-shortcuts-in-outlookcom"></a>קיצורי מקשים ב- Outlook.com
 
-ב-Outlook.com, באפשרותך להשתמש באותם קיצורי מקשים כשירות הדואר האלקטרוני שבו אתה משתמש לעבודה, כגון Gmail, Yahoo Mail או Outlook.com.
+ב- Outlook.com, באפשרותך להשתמש באותם קיצורי מקשים כמו שירות הדואר האלקטרוני שאתה רגיל לעבוד איתו, כגון Gmail, Yahoo Mail או Outlook.com.
 
-עבור אל **הגדרות** [הגדרות הנגישות](https://go.microsoft.com/fwlink/?linkid=2080840) 
- > **הצגת כל הגדרות Outlook**  >  **כללי**  >  **נגישות**) ובחר את קיצורי המקשים שבהם ברצונך להשתמש.
+עבור אל [הגדרות נגישות](https://go.microsoft.com/fwlink/?linkid=2080840) **הגדרות** 
+ > **הצגת כל Outlook ההגדרות**  >  **כללי**  >  **נגישות**) ובחר באות אילו קיצורי מקשים ברצונך להשתמש.
 
-כדי לראות את הרשימה המלאה של קיצורי מקשים, ראה [קיצורי מקשים](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd)ב-Outlook.com.
+כדי לראות את הרשימה המלאה של קיצורי מקשים, [ראה קיצורי מקשים Outlook.com](https://support.microsoft.com/topic/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd).

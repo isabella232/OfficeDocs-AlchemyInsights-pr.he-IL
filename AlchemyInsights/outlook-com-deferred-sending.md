@@ -1,5 +1,5 @@
 ---
-title: שליחה שנדחתה ב-Outlook.com
+title: שליחה דחוית ב- Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752072"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041407"
 ---
 # <a name="delay-or-schedule-sending-email-messages"></a>השהיה או תזמון של שליחת הודעות דואר אלקטרוני
 
-מצטערים, אך אין באפשרותך לדחות או לתזמן שליחה של הודעות דואר אלקטרוני באפליקציה למכשירים ניידים או בדפדפן אינטרנט. לשם כך, השתמש [ב-outlook עבור Windows או ב-outlook עבור Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+מצטערים, אך לא ניתן לדחות או לתזמן שליחה של הודעות דואר אלקטרוני באפליקציה למכשירים ניידים או בדפדפן אינטרנט. לשם כך, השתמש [Outlook עבור Windows או Outlook עבור Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
 
 **בטל שליחה**
 
-באפשרותך לשנות את הגדרות Outlook.com כדי לדחות את שליחת ההודעה עד 10 שניות. באפשרותך לבטל את שליחת ההודעה במהלך תקופה זו. כדי להפעיל תכונה זו, פתח את הגדרות ' [בטל שליחה](https://outlook.live.com/mail/options/mail/messageContent/undoSend) '.
+באפשרותך לשנות את הגדרות Outlook.com כדי לעכב את שליחת הודעה במשך עד 10 שניות. באפשרותך לבטל את שליחת ההודעה במהלך תקופה זו. כדי להפעיל תכונה זו, פתח את הגדרות [הביטול לשלוח.](https://outlook.live.com/mail/options/mail/messageContent/undoSend)
 
-קבל [מידע נוסף על התזכורות של דואר אלקטרוני ב-Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+קבל מידע נוסף [על אחזור דואר אלקטרוני ב- Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: f528044ca7f6f2ee2812f9f831093c44eca26fe1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1386b97f804e63455094abf64b9d9e2541d57dafa36535813b0d7689e0ce2966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816741"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032559"
 ---
 # <a name="control-access-to-public-folders-using-outlook"></a>שליטה בגישה לתיקיות ציבוריות באמצעות Outlook
 
@@ -25,11 +25,11 @@ ms.locfileid: "51816741"
 
 1. השתמש ב- `Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true or $false`
 
-$true: אפשר למשתמשים לגשת לתיקיות ציבוריות ב- Outlook  
+$true: אפשר למשתמשים לגשת לתיקיות ציבוריות Outlook  
 $false: מניעת גישת משתמש לתיקיות ציבוריות ב- Outlook. (אפס) זהו ערך ברירת המחדל.  
 
 2. `Set-OrganizationConfig -PublicFolderShowClientControl $true`
 
-הערה: הליך זה יכול לשלוט רק בחיבורים עם שולחן העבודה של Outlook עבור לקוחות Windows. המשתמשים יכולים להמשיך לגשת לתיקיות ציבוריות באמצעות OWA או Outlook עבור Mac.
+הערה: הליך זה יכול לשלוט רק בחיבורים Outlook שולחן העבודה עבור Windows לקוחות. המשתמשים יכולים להמשיך לגשת לתיקיות ציבוריות באמצעות OWA או Outlook עבור Mac.
 
 לקבלת מידע נוסף, ראה [חיבורים מבוקרים לתיקיות ציבוריות ב- Outlook](https://aka.ms/controlpf) לקבלת מידע נוסף.

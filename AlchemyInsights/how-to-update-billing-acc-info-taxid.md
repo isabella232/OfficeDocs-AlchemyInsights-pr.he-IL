@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015333"
 ---
 # <a name="how-to-update-billing-account-information"></a>כיצד לעדכן פרטי חשבון חיוב
 
-לפני רכישת שירותים בעלי תשלום, עליך להוסיף או לעדכן את כתובת העסק של הארגון שלך, לפנות לכתובת הדואר האלקטרוני ולשם איש הקשר.
+לפני רכישת שירותים שיש להם תשלום, עליך להוסיף או לעדכן את כתובת העסק, כתובת הדואר האלקטרוני של איש הקשר ואת שם איש הקשר של הארגון שלך.
 
-אנו משתמשים בכתובת העסקית כדי לחשב מע מ ומע. אם ברצונך לעדכן את מספר מס/המע מ שלך, הבעלים של חשבון החיוב עבור הסכם הלקוחות של Microsoft יכול לעשות זאת על-ידי ביצוע השלבים הבאים:
+אנו משתמשים בכתובת העסקית לחישוב מע"מ ומ"מ. אם ברצונך לעדכן את מספר המע"מ שלך, הבעלים של חשבון החיוב עבור הסכם הלקוחות שלך ב- Microsoft יכול לעשות זאת על-ידי ביצוע השלבים הבאים:
 
-**כדי לעדכן את פרטי חשבון החיוב וכיצד לעדכן את מזהה המיסים שלך**:
+**כדי לעדכן פרטי חשבון חיוב ולעדכן את מזהה המס שלך**:
 
-1. היכנס ל- [Microsoft Store For Business](https://businessstore.microsoft.com/).
-1. לחץ על **נהל**  >  **חשבונות חיוב**.
-1. **ממבט כולל**, לחץ על **ערוך פרטי חשבון חיוב**.
-1. צור את העדכונים שלך ולאחר מכן לחץ על **שמור**. 
+1. היכנס אל [Microsoft Store לעסקים](https://businessstore.microsoft.com/).
+1. לחץ **על ניהול** חשבונות  >  **חיוב**.
+1. מתוך **מבט כולל**, לחץ על ערוך פרטי חשבון **חיוב**.
+1. בצע את העדכונים ולאחר מכן לחץ על **שמור**. 
 
 **מסמכים מומלצים**
 
-- [הכרת החשבונית שלך ב-MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
+- [הבנת חשבונית MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
 
-- [הצגה והורדה של מסמכי מס עבור החשבונית התכלת](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
+- [הצגה והורדה של מסמכי מס עבור חשבונית Azure שלך](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
-- [עדכון הגדרות של חשבון חיוב](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [עדכון הגדרות חשבון חיוב](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
