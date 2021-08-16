@@ -1,5 +1,5 @@
 ---
-title: התחברות עם הודעה ל-עמ
+title: הודעה AAD התחברות
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003245"
 - "9326"
-ms.openlocfilehash: 832c9dd587cb023b5b1d87e905acb123df34237f
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: b8713700ee4fc8863a269c99b92954e1df45e1e647c491fb9b439ab83c49f2ff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097307"
 ---
-# <a name="notification-aad-connect"></a>התחברות עם הודעה ל-עמ
+# <a name="notification-aad-connect"></a>הודעה AAD התחברות
 
-- ודא שאתה מורשה לבצע את הפעולה. למנהלי מערכת כלליים יש גישה כברירת מחדל. בנוסף, באפשרותך להשתמש [בבקרת גישה מבוססת תפקידים](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) כדי להקצות הרשאת רישום למשתתף.
-- ודא שנקודות הקצה הנדרשות זמינות, ולא נחסמות עקב חומת האש. לקבלת פרטים, ראה [דרישות](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- הרישום עשוי להיכשל עקב תקשורת יוצאת הנתונה לפיקוח SSL על-ידי שכבת הרשת.
-- ודא שאימתת את הגדרות ההודעה עבור תכלת AD Connect בריאות וסקור את ההגדרה. כדי להבין כיצד לקבוע את התצורה של הגדרות ההודעות עבור הודעות בריאות של תכלת לחבר, ראה [מדריך](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations)זה.
-- לקבלת מידע נוסף אודות דוח הסינכרון של התקינות של החיבור הרפואי של ה-עמ ואופן ההורדה שלו, ראה [דוח סינכרון ברמת האובייקט](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- ודא שאתה מורשה לבצע את הפעולה. למנהלי מערכת כלליים יש גישה כברירת מחדל. בנוסף, באפשרותך להשתמש בפקד [מבוסס Access כדי להקצות](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) הרשאת רישום למשתתף.
+- ודא שנקודות הקצה הדרושות זמינות ולא נחסמות עקב חומת אש. לקבלת פרטים, [ראה דרישות](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
+- הרישום עלול להיכשל עקב תקשורת יוצאת הנבדקת ב- SSL על-ידי שכבת הרשת.
+- ודא שאומתת את הגדרות ההודעות עבור Azure AD התחברות תקינות ו סקור את ההגדרה. כדי להבין כיצד להגדיר את הגדרות ההודעות עבור הודעות Azure AD התחברות תקינות, עיין במדריך [זה](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations).
+- כדי ללמוד עוד אודות סינכרון AAD התחברות תקינות ואופן הדוח, ראה [סינכרון ברמת האובייקטים הדוח](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
 
-כדי לפתור בעיות בנושא הפעלת התראות בריאות, פעל על-ידי [מדריך פתרון הבעיות עבור הצגת התראות טריות של נתוני תקינות](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) ושאלות נפוצות, ראה מספר הודעות ה- [עמ-משותף מחברות שאלות](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)
+כדי לפתור בעיות של AAD התחברות התראות תקינות, פעל בהתאם למדריך לפתרון בעיות [עבור התראות רעננות](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) של נתוני AAD התחברות ולשאלות נפוצות, ראה שאלות נפוצות בנושא התקנה של [AAD התחברות תקינות](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
