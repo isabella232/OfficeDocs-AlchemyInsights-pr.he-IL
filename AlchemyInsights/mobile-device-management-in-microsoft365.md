@@ -1,5 +1,5 @@
 ---
-title: ניהול מכשירים ניידים ב-Microsoft 365
+title: ניהול מכשירים ניידים Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1790"
 - "9000214"
-ms.openlocfilehash: 4255f656ea2eadaf3ad44826e4a04f21718c50a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8319f0783acae6ed93bc5e1e5eecd5ed43008bd3cfd433a15e912e175a522f9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667050"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097883"
 ---
-# <a name="mobile-device-management-in-microsoft-365"></a>ניהול מכשירים ניידים ב-Microsoft 365
+# <a name="mobile-device-management-in-microsoft-365"></a>ניהול מכשירים ניידים Microsoft 365
 
 לקבלת מידע נוסף, ראה: 
 
-- [בחירה בין אבטחה בסיסית של ניידות וכוונון](https://docs.microsoft.com/office365/securitycompliance/choose-between-mdm-and-intune)
+- [בחר בין אבטחה בסיסית לניידות לבין Intune](https://docs.microsoft.com/office365/securitycompliance/choose-between-mdm-and-intune)
 
-- [הגדרת ניידות ואבטחה בסיסיות](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
+- [הגדרת ניידות ואבטחה בסיסיים](https://support.office.com/article/Set-up-Mobile-Device-Management-MDM-in-Office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)
 
-- [מדריך העברה של ' כוונון '](https://docs.microsoft.com/intune/migration-guide)
+- [מדריך העברה של Intune](https://docs.microsoft.com/intune/migration-guide)
