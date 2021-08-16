@@ -1,5 +1,5 @@
 ---
-title: חסימה או ביטול חסימה של שולחים ב-Outlook.com
+title: חסימה או ביטול חסימה של שולחים ב- Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,28 +16,28 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: ba52dacf8e357b1910c4e3be8714128b96e9ad0e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b49b869700a3e564e0386c5bd2e3b8d539d2f47d48f3a54f3718c770ccc9a0bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753692"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041515"
 ---
 # <a name="block-or-unblock-senders"></a>חסימה או ביטול חסימה של שולחים
 
-הודעות מכתובות דואר אלקטרוני או מתחומים ברשימת השולחים החסומים לא יגיעו לתיבת הדואר שלך ב-Outlook.com.
+הודעות מכתובות דואר אלקטרוני או תחומים ברשימת השולחים החסומים שלך לא יתוכו לתיבת הדואר Outlook.com.
 
 **מתיבת הדואר הנכנס שלך:**
 
-- ברשימת ההודעות, בחר את ההודעה ולאחר מכן בחר **Junk**  >  **בלוק**זבל.
+- ברשימת ההודעות, בחר את ההודעה ולאחר מכן בחר **בלוק**  >  **זבל**.
 
 **מתוך הגדרות:**
 
-1. פתח את הגדרות [דואר זבל](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. תחת **שולחים חסומים ותחומים**, בחר **הוסף**.
+1. פתח [את הגדרות דואר הזבל.](https://outlook.live.com/mail/options/mail/junkEmail)
+2. תחת **שולחים ותחום חסומים**, בחר **הוסף**.
 3. הקלד את כתובת הדואר האלקטרוני של התחום שברצונך לחסום והקש Enter.
 4. לחץ **שמור**.
 
-כדי לבטל חסימה של שולח, בחר את סמל פח האשפה לצד כתובת הדואר האלקטרוני או התחום שברצונך לבטל את חסימתו.
+כדי לבטל חסימה של שולח, בחר את סמל האשפה לצד כתובת הדואר האלקטרוני או התחום שברצונך לבטל את החסימה.
 
-לקבלת מידע נוסף, ראה [חסימת שולחים או סימון דואר אלקטרוני כדואר זבל](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+כדי ללמוד עוד, ראה [חסימת שולחים או סימון דואר אלקטרוני כדואר זבל.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)

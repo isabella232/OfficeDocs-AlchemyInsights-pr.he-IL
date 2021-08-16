@@ -1,5 +1,5 @@
 ---
-title: קביעת תצורה של הגדרות מדיניות Microsoft Edge ב- Windows
+title: קביעת Microsoft Edge הגדרות מדיניות Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "9004632"
 - "6894"
 - "8358"
-ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a7c092ac606cc599b37a0d9442dd82e0f493465508a6e5d24fa0589d0f3bb19a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402376"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978702"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>קביעת תצורה של הגדרות מדיניות Microsoft Edge ב- Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>קביעת Microsoft Edge הגדרות מדיניות Windows
 
-כדי לקבוע את התצורה של הגדרות מדיניות ועדכונים מנוהלים עבור Microsoft Edge, השתמש באובייקטי מדיניות קבוצתית (GPO). באפשרותך גם להקצות מדיניות באמצעות הרישום; פעולה זו מתאימה עבור (1) מכשירי Windows המצורפים לתחום של Microsoft Active Directory ולמופעי Windows 10 Pro ו- Enterprise שנרשמו לניהול מכשירים ב- Microsoft Intune.
+כדי להגדיר הגדרות מדיניות ועדכונים מנוהלים עבור Microsoft Edge, השתמש באובייקטי מדיניות קבוצתית (GPO). באפשרותך גם להקצות מדיניות באמצעות הרישום; פעולה זו מתאימה עבור (1) Windows מצורף לתחום של Microsoft Active Directory וב עבור (2) מופעים של Windows 10 Pro ו- Enterprise שנרשמו לניהול מכשירים ב- Microsoft Intune.
 
-כדי לקבוע את התצורה של Microsoft Edge באמצעות אובייקטי GPO, עשה את הפעולות הבאות:
+כדי לקבוע את Microsoft Edge באמצעות אובייקטי GPO, עשה את הפעולות הבאות:
 
 1. עבור אל החנות המרכזית של המדיניות הקבוצתית בתחום Active Directory שלך, או אל התיקיה תבנית הגדרת מדיניות במחשבים בודדים, התקן את כל תבניות הניהול המוסיפות כללים והגדרות עבור Microsoft Edge.
 2. קבע את תצורת פריטי המדיניות הספציפיים שברצונך להגדיר.
 
-כדי ללמוד עוד, ראה קביעת [תצורה של הגדרות מדיניות Microsoft Edge ב- Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+כדי ללמוד עוד, ראה [קביעת Microsoft Edge הגדרות מדיניות ב- Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
