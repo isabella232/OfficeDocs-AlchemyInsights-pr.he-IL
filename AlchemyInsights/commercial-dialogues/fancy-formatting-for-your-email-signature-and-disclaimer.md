@@ -1,5 +1,5 @@
 ---
-title: עיצוב מפואר עבור חתימת הדואר האלקטרוני והודעות הויתור
+title: עיצוב מהודר עבור חתימת הדואר האלקטרוני והית כתב ויתור
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f179ff22dea8d5460e2a0604be9071747383e05b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: b202d2812516ebc283075f6c626ef4ecbc382135a5265985ef61aab1c4eedca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058687"
 ---
-# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>עיצוב מפואר עבור חתימת הדואר האלקטרוני והודעות הויתור
-לקבלת מידע על עיצוב מהודר (כגון אופן ההוספה של סמלי מדיה חברתית, תמונות וקישורים לכתב הוויתור של הארגון שלך), מידע על תאימות עם מכשירים ניידים ועוד.
+# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>עיצוב מהודר עבור חתימת הדואר האלקטרוני והית כתב ויתור
+לקבלת מידע על עיצוב מהודר (כגון אופן הוספת סמלי מדיה חברתית, תמונות וקישורים כתב ויתור של הארגון שלך), מידע אודות תאימות עם מכשירים ניידים ועוד.
 
-חפש באינטרנט את **משאבי חתימת הדואר האלקטרוני**. מספר חברות המספקות מידע וכלים הם שותפי זהב של Microsoft.
+חפש באינטרנט משאבי **חתימת דואר אלקטרוני.** כמה חברות המספקים מידע וכלים הן שותפי Microsoft Gold.

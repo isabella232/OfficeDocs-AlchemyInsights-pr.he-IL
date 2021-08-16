@@ -1,5 +1,5 @@
 ---
-title: חוויית הניסיון של Microsoft Teams Exploratory
+title: Microsoft Teams חוויית Exploratory
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 96bcd589e03a67acd61e231e777f0d26aae9687dd2c9284babe3e2669343ca5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027051"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>חוויית הניסיון של Microsoft Teams Exploratory
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams חוויית Exploratory
 
-- מהו [Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory)? חוויית הניסיון של Microsoft Teams Exploratory מאפשרת למשתמשים בארגון שלך שלא מורשים ל- Teams ליזום חוויית ניסיון של Teams. לקבלת מידע נוסף, ראה [מה יש בחוויה של Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
-- [כמה זמן תם החוויה של Teams Exploratory?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) חוויית הניסיון של Microsoft Teams Exploratory זמינה ללא עלות נוספת עבור 12 חודשים (החל מהכניסה הראשונית למשתמש) בתוספת תקופת חסד נוספת של 30 יום.
-- כמנהל מערכת, באפשרותך לשדרג משתמשים מהרשיון [של Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) על-ידי רכישת מנוי הכולל את Teams, הסרת המנוי לגישור של Teams מהמשתמש והקצאת הרשיון החדש שנרכש.
-- לקבלת מידע נוסף, ראה [ניהול רשיון הגישור של Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory).
+- מהו [Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory)? חוויית Microsoft Teams מאפשרת למשתמשים בארגון שלך שלא מורשים Teams ליזום חוויה של Teams. לקבלת מידע נוסף, ראה [מה נמצא בחוויה Teams הסבר.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [כמה זמן החוויה Teams אחרונה?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) חוויית Microsoft Teams זמינה ללא עלות נוספת עבור 12 חודשים (החל מהכניסה הראשונית למשתמש) בתוספת תקופת חסד נוספת של 30 יום.
+- כמנהל מערכת, באפשרותך לשדרג משתמשים מהרשיון [Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) על-ידי רכישת מנוי הכולל Teams, הסרת המנוי Teams exploratory מהמשתמש והקצאת הרשיון החדש שנרכש.
+- לקבלת מידע נוסף, [ראה ניהול Teams הסבר.](https://docs.microsoft.com/microsoftteams/teams-exploratory)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 8cbb675b8a290dae5a0a161296a7be95b5259711
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e877abb3ea5c6b1b578af3f1a7bfcbab7665ce20c71987eeb44d2c7e3a1b2c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058831"
 ---
 # <a name="enable-or-disable-a-journal-rule"></a>הפיכת כלל יומן לזמין או ללא זמין
 
 כך ניתן לעשות זאת:
 
-1. במרכז [הניהול של Exchange](https://go.microsoft.com/fwlink/p/?linkid=2059104), עבור אל   >  **כללי יומני** ניהול תאימות.
-2. בתצוגת הרשימה, בעמודה **ON** לצד שם הכלל, בחר את תיבת הסימון כדי להפוך את הכללים לזמינים או לנקות אותם כדי להפוך את הכלל ללא זמין.
+1. במרכז Exchange , [עבור](https://go.microsoft.com/fwlink/p/?linkid=2059104)אל **כללי יומן ניהול**  >  **תאימות**.
+2. בתצוגת הרשימה, **בתיבת** הדו-עמודה לצד שם הכלל, בחר את תיבת הסימון כדי להפוך את הכללים לזמינים או נקה אותם כדי להפוך את הכלל ללא זמין.
