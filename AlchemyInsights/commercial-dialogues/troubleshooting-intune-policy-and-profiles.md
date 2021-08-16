@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות במדיניות ובפרופילים של intune
+title: פתרון בעיות במדיניות ובפרופילים של Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: f3294bb9d0f388e1003181b0b83f9fd6ccef6097
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 06352056740180c9f332dd85553a9373b0f25548e50222a1d4bf9d502f513dfb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746294"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058183"
 ---
-# <a name="troubleshooting-the-intune-policy-and-profiles"></a>פתרון בעיות במדיניות ובפרופילים של intune
+# <a name="troubleshooting-the-intune-policy-and-profiles"></a>פתרון בעיות במדיניות ובפרופילים של Intune
 
-כדי לראות פריטי מדיניות קיימים, פתרון בעיות בהתנגשויות, סקירת נתוני יומן רישום והצגת שאלות נפוצות ובעיות נפוצות, המדריכים הבאים עשויים לעזור:
+כדי לראות פריטי מדיניות קיימים, פתרון בעיות בהתנגשויות, לסקור נתוני יומן רישום ולראות שאלות ובעיות נפוצות, המדריכים הבאים עשויים לעזור:
 
-- [פתרון בעיות של פריטי מדיניות ופרופילים בתוך ' כוונון '](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
-- [שאלות נפוצות, בעיות ורזולוציות עם פריטי מדיניות ופרופילים של מכשירים בתוך ' כוונון '](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
-- [ניטור פרופילי תצורת ההתקן והצגת התנגשויות בתוך ' כוונון '](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
-- [פתרון בעיות תאימות מכשירים וגישה מותנית בתוך ' כוונון '](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
-- [ניטור מדיניות תאימות והתנגשויות תצוגה בתוך המנגינה](https://docs.microsoft.com/mem/intune/protect/compliance-policy-monitor)
+- [פתרון בעיות של פריטי מדיניות ופרופילים ב- Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [שאלות, בעיות ופתרונות נפוצים עם מדיניות ופרופילים של מכשירים ב- Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
+- [ניטור פרופילי תצורה של מכשירים והצג התנגשויות ב- Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
+- [פתרון בעיות תאימות מכשיר וגישה מותנה ב- Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
+- [ניטור מדיניות תאימות והצגת התנגשויות ב- Intune](https://docs.microsoft.com/mem/intune/protect/compliance-policy-monitor)
 
 [קרא עוד...](https://docs.microsoft.com/mem/intune/configuration/device-profiles)

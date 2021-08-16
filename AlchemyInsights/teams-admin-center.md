@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 29e54e0f8255b4ce84c433f2cc827aaedf35327626f0095788faef802763bc53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049345"
 ---
 # <a name="teams-admin-center"></a>מרכז הניהול של Teams
 
@@ -32,5 +32,5 @@ ms.locfileid: "51826380"
 
 - האם יצרת משתמשים או רשיונות שהוקצו ב- 24 השעות האחרונות? המתן לפחות 24 שעות לפני פתיחת כרטיס תמיכה.
 - ודא שהקצית רשיונות מתאימים?
-- אם יש לך Active Directory מקומי, ודא שהערך [של msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) או כתובת SIP בשדה ProxyAddresses ב- Active Directory המקומי שלך הוא ייחודי והתבנית תואמת ללגימה:**שם** המשתמש של המשתמש ממרכז הניהול של [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- אם בכוונתך לשמור פריסה של Skype for Business Server ולהגדיר משתמשים ביתיים באופן מקומי ומקוון: פעל בהתאם ל"הגדרת היברידיות עם **Teams ו- Skype for Business Online"** בלוח הבקרה של Skype for Business Server והעביר משתמשים למצב מקוון.
+- אם יש לך Active Directory מקומי, ודא שהערך [של msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) או כתובת SIP בשדה ProxyAddresses ב- Active Directory המקומי שלך הוא ייחודי והתבנית תואמת ללגימה:**שם** המשתמש של המשתמש [מתוך מרכז הניהול של Microsoft 365.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- אם בכוונתך לשמור פריסה של Skype for Business Server ומשתמשים יש להם משתמשים מקומיים ומקוון: בצע את "הגדרת היברידית **עם Teams ו- Skype for Business Online"** בלוח הבקרה של Skype for Business Server ולהעביר משתמשים באופן מקוון.

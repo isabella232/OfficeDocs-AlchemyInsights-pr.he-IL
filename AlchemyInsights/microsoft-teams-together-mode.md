@@ -1,5 +1,5 @@
 ---
-title: מצב משותף של Microsoft Teams
+title: Microsoft Teams מצב 'יחד'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 94730df24a4fa025cfaa226a56e25beb8bc9c88fc1b6f8ea77bc6e97ee7c73f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799853"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012237"
 ---
-# <a name="microsoft-teams-together-mode"></a>מצב משותף של Microsoft Teams
+# <a name="microsoft-teams-together-mode"></a>Microsoft Teams מצב 'יחד'
 
-מצב יחד משלב עשורים של מחקר ופיתוח מוצר עבור משתתפים בשיחת וידאו שיופיעו יחד בחלל וירטואלי, כגון אודיטוריום, חדר ישיבות או בר קפה. 
+מצב זה משלב עשרות שנים של מחקר ופיתוח מוצרים עבור משתתפים בווידאו, שנראה שהם יחד במרחב וירטואלי, כגון אודיטוריום, חדר ישיבות או בית קפה. 
 
-התכונה החדשה נוטשת את הרשת המסורתית של תיבות, היוצרת סביבה שמשתמשים אומרים לה השפעה עמוקה על התחושה של ועידת הווידאו ומספקת יותר לכידות לקבוצה. לקבלת מידע נוסף אודות מצב ' יחד ', ראה [כיצד להשיג את המירב מהמצב ביחד](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+התכונה החדשה תנטוש את הרשת המסורתית של תיבות, ויצירת סביבה שמשתמשים אומרים משפיעה מאוד על הרושם של שיחת הוועידה בווידאו ומספקת שיתוף נוסף לקבוצה. כדי ללמוד עוד אודות מצב 'יחד', [ראה כיצד לקבל את המ הרבה ביותר ממצב 'יחד'.](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496)  
 
-לקבלת מידע נוסף אודות האופן שבו האפשרות ' יחד ' תהיה זמינה עבור הארגון שלך, ראה מפת דרכים של Microsoft 365, [מצב Microsoft teams-יחד](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+לקבלת מידע נוסף אודות מצב 'יחד' יהיה זמין עבור הארגון שלך, ראה Microsoft 365 הדרכים, [Microsoft Teams - יחד](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)

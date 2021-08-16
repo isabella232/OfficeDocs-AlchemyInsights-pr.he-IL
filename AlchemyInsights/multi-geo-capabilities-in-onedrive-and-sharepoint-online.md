@@ -1,5 +1,5 @@
 ---
-title: יכולות מרובות גיאוגרפיות ב- OneDrive וב- SharePoint Online
+title: יכולות Multi-Geo ב- OneDrive ו- SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5694"
-ms.openlocfilehash: 75ead5cfd37813d48ed86c23dbf5f6a1f42d95cd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9b8bee5912846b0e4c3f8076572ca1f5059e63f0443461892d4e2d3041913288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829701"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011949"
 ---
-# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>יכולות מרובות גיאוגרפיות ב- OneDrive וב- SharePoint Online
+# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>יכולות Multi-Geo ב- OneDrive ו- SharePoint Online
 
-יכולות מרובות גיאוגרפיות ב- OneDrive וב- SharePoint Online מאפשרות שליטה במדינה או באזור בהם משאבים משותפים כגון אתרי צוות של SharePoint ותיבות דואר של קבוצת Microsoft 365 מאוחסנות במנוחה.
-- [יכולות מרובות גיאוגרפיות ב- OneDrive וב- SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
+יכולות מרובות גיאוגרפיות ב OneDrive ו- SharePoint Online מאפשרות שליטה במדינה או באזור משותפים, כגון SharePoint צוותים ותיבות דואר של Microsoft 365 קבוצתיות מאוחסנות במנוחה.
+- [יכולות ריבוי גיאוגרפיות OneDrive ו SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
