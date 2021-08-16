@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f11eabdc18f708e34a6a10c67bc3e7416330cbf34aec20209b42252ffa0ab018
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820683"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072161"
 ---
 # <a name="supported-subscription-types"></a>סוגי מנויים נתמכים
 
@@ -41,17 +41,17 @@ Azure portal כמנהל [החשבון](https://ms.portal.azure.com/) של חשב
 העברת תנאים מוקדמים להעברת בעלות על מנוי על גישה מבוססת תפקיד (RBAC) כדי לנהל משאבים במנוי מאבדים את הגישה שלהם. לקבלת מידע נוסף אודות הוספת מנוי קיים לדייר, ראה שיוך [או הוספה של מנוי Azure ל- Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 - העברת מנוי עם סכום יוצא דופן קיים ממחזור החיוב הנוכחי לא יועבר לכלי התשלום החדש בחשבון החדש. המידע היחיד הזמין למשתמשים בחשבון חדש הוא העלות של החודש האחרון עבור המנוי שלך. שאר היסטוריית השימוש וחיוב אינה מעבירה עם המנוי.
-- העברת בעלות חיוב על מנויי הסכם ארגוני (EA) נתמכת בשלב זה בפורטל הסכם ארגוני בלבד
-- העברת מנוי מונחה אשראי, כמו Visual Studio, BizSpark, רשת השותפים של Microsoft למשתמש חדש דורשת רשיון רשת של שותף Visual Studio/Microsoft כדי לקבל את בקשת ההעברה
+- העברת בעלות על חיוב הסכם ארגוני (EA) נתמכת בשלב זה בפורטל הסכם ארגוני בלבד
+- העברת מנוי מונחה אשראי כמו Visual Studio, BizSpark, רשת השותפים של Microsoft למשתמש חדש דורשת רשיון רשת של Visual Studio/Microsoft כדי לקבל את בקשת ההעברה
 - כל המשאבים, כמו מחשבים וירטואליים, דיסקים ואתרי אינטרנט, יועברו לחשבון החדש בהצלחה. ייתכן שהמשאבים הבאים יושפעו בהעברת מנוי בין דיירים:
 
 **Azure AD Domain Services**
 
 Azure Key Vaults
 
-- [המשתמשים ומסדי הנתונים הקשורים](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) ל- SQL יכולים להיות מושפעים, במיוחד אם הלקוח משתמש באימות קשור של Azure Active Directory
+- [SQL יכולים להיות מושפעים](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) ממשתמשים ומסדי נתונים קשורים, במיוחד אם הלקוח משתמש באימות קשור של Azure Active Directory
 - **ייתכן ש'שירותי** יישום' שתצורתם נקבעה באמצעות אימות Azure Active Directory
-- **צוות Visual Studio** חשבונות שירותים המחוברים למנויים של Azure עשויים לאבד באופן זמני את הגישה כאשר המנוי המחובר של Azure מבוטל
+- **Visual Studio צוות** חשבונות שירותים המחוברים למנויים של Azure עשויים לאבד באופן זמני את הגישה כאשר המנוי המחובר של Azure מבוטל
 
 **מסמכים מומלצים**
 

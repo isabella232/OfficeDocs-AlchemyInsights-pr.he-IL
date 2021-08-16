@@ -1,5 +1,5 @@
 ---
-title: תהליך הפריסה של יישום ' כוונון יישומים '
+title: Intune App Deployment Process
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745766"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034431"
 ---
-# <a name="intune-app-deployment-process"></a>תהליך הפריסה של יישום ' כוונון יישומים '
+# <a name="intune-app-deployment-process"></a>Intune App Deployment Process
 
-פריסת יישומים באמצעות המנגינה מופיעה לאחר התהליך הבא:
+פריסת יישומים עם Intune עוקבת אחר התהליך הבא:
 
-- הוספת יישום-באפשרותך להוסיף אפליקציית app Store או להעלות שורה של יישום עסקי.
-- הקצאת יישום-קביעת טווח הפריסה של היישום.
-- יישומים מעקב-הצגת מצב ההתקנה של יישומים, רשימה של יישומים שהתגלו וניהול יישומים שנרכשו מחנויות יישומים.
-- [היישום יישם את ה-SDK של ה-intune. לקבלת רשימה של יישומים התומכים ב-SDK, ראה יישומים מוגנים של Microsoft intune](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- הוספת יישום - באפשרותך להוסיף יישום של חנות אפליקציות או להעלות אפליקציה של קו עסקי.
+- הקצאת יישום - קבע את היקף הפריסה של היישום.
+- אפליקציות ניטור - הצג את מצב ההתקנה של אפליקציות, רשימה של אפליקציות שהתגלו ונהל אפליקציות שנרכשו מחנויות אפליקציות.
+- [היישום מיישם את Intune SDK. לקבלת רשימה של אפליקציות התומכות ב- SDK, ראה Microsoft Intune אפליקציות מוגנות.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
-[קרא עוד אודות ' שימוש בפריסה וניהול של יישומים '...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[קרא עוד אודות פריסה וניהול של יישום Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)
