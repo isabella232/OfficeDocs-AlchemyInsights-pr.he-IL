@@ -1,5 +1,5 @@
 ---
-title: כיצד להתקין את Office ב- iPhone
+title: כיצד להתקין Office במחשב iPhone
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.custom:
 - "753"
 - "2000016"
-ms.openlocfilehash: 2ad07ce53aab2bc2dda0fed1479ece9b48b13553
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8317359c43e8fefe794168e9264d2dc031155a3a7f6aa4e619ce4925b783ef62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829377"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002269"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a>כיצד להתקין את Office ב- iPhone
+# <a name="how-to-install-office-on-an-iphone"></a>כיצד להתקין Office במחשב iPhone
 
-- שהמשתמש יהקיש [על קישור ההורדה](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) מהמכשיר הנייד שלו, עבור Word, Excel, PowerPoint ו- OneNote.
+- יש למשתמש [להקיש על קישור ההורדה](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) מהמכשיר הנייד שלו, עבור Word, Excel, PowerPoint ו- OneNote.
 
 - האם המשתמש מפעיל את היישום, הקש על **היכנס והזן** את אישורי העבודה או בית הספר שלו.

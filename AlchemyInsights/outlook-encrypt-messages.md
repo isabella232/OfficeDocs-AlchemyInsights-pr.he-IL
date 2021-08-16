@@ -1,5 +1,5 @@
 ---
-title: S/MIME ב-Outlook באינטרנט
+title: S/MIME Outlook באינטרנט
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 052149d1f11387246bc1ff24ba48c45b944ba52c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bef87baafdbaf9346f99f1ff54aaa83bc9173c70f1412ea00afb717c15a8014c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010725"
 ---
-# <a name="encrypt-email-messages-in-outlook"></a>הצפנת הודעות דואר אלקטרוני ב-Outlook
+# <a name="encrypt-email-messages-in-outlook"></a>הצפן הודעות דואר אלקטרוני Outlook
 
-הצפנת ההודעות של microsoft 365 מבוססת על ניהול זכויות של Microsoft תכלת (תכלת RMS), המהווה חלק מהגנה על מידע של תכלת. אם המנוי שלך כולל הגנה על זכויות תכלת או הגנה על מידע תכלת, **אין צורך לבצע פעולות כלשהן כדי להפעיל או להפעיל** את שירות ניהול הזכויות באופן ידני.
+Microsoft 365 הצפנת הודעות מבוססת על Microsoft Azure Rights Management (Azure RMS), שהוא חלק מ- Azure Information Protection. אם המנוי שלך כולל את Azure Rights Management או Azure Information Protection, אין צורך לבצע פעולות כדי להפעיל או להפעיל באופן ידני **את** שירות ניהול הזכויות.
 
-בהתבסס על משוב הלקוחות, לא נאפשר עוד כללי זרימת דואר של Exchange כדי להצפין באופן אוטומטי דואר אלקטרוני יוצא המכיל סוג מסוים של מידע רגיש בדייר שלך כברירת מחדל. במקום זאת, אנו מספקים הוראות מפורטות לגבי האופן שבו תוכל לעשות זאת בעצמך. לקבלת פרטים נוספים על יצירת כלל תעבורה להצפנת מידע רגיש, עיין [במאמר זה](https://aka.ms/OmeEtr).
+בהתבסס על משוב מלקוחות, לא נאפשר עוד לכללי Exchange זרימת דואר להצפין באופן אוטומטי דואר אלקטרוני יוצא המכיל סוג מסוים של מידע רגיש דייר כברירת מחדל. במקום זאת, אנו מספקים הוראות מפורטות כיצד תוכלו לעשות זאת בעצמכם. לקבלת פרטים נוספים אודות יצירת כלל תעבורה להצפנת מידע רגיש, [עיין במאמר זה](https://aka.ms/OmeEtr).
 
-- אם אתה משתמש ב-Outlook באינטרנט (לשעבר **OWA**): בעת חיבור הודעת דואר אלקטרוני, פשוט לחץ על **הגן** ב-owa. פעולה זו תחול על הרשאת "אל תעביר". לחץ על **שינוי הרשאה** ובחר באפשרות **הצפן** כדי להצפין את ההודעה בלבד.
+- אם אתה משתמש Outlook באינטרנט (לשעבר **OWA):** בעת חיבור הודעת דואר אלקטרוני, פשוט לחץ על **הגן ב-** OWA. פעולה זו תחיל הרשאת "אל תעביר". לחץ **על שנה הרשאה** ובחר **הצפן** כדי להצפין את ההודעה בלבד.
 
-- אם אתה משתמש **ב-outlook client**: כדי לשלוח הודעה מוצפנת מ-outlook 2013 או 2016, או outlook 2016 עבור Mac, בחר **Options**  >  **הרשאות**אפשרויות ולאחר מכן בחר את אפשרות ההגנה הדרושה.
+- אם אתה **משתמש בלקוח Outlook**: כדי לשלוח הודעה מוצפנת מ- Outlook 2013 או מ- 2016, או Outlook 2016 עבור Mac, בחר אפשרויות הרשאות ולאחר מכן בחר באפשרות  >  ההגנה הדרושה.
 
-- כדי **להצפין באופן אוטומטי את כל הדואר האלקטרוני** שנשלח לנמענים מסוימים או לארגונים שותפים חיצוניים, עליך ליצור כלל תעבורה של זרימת דואר במרכז הניהול של Exchange. הוראות מפורטות מוצגות [במאמר תמיכה זה](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- כדי **להצפין באופן אוטומטי** את כל הדואר האלקטרוני שנשלח לנמענים מסוימים או לארגונים של שותפים חיצוניים, עליך ליצור כלל תעבורה של זרימת דואר במרכז Exchange הניהול. הוראות מפורטות מסופקות [במאמר תמיכה זה](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

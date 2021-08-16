@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002295"
 ---
 # <a name="get-started-with-yammer"></a>תחילת העבודה עם Yammer
 
-קטרת הוא רשת חברתית חברתית מתאימה, מאובטחת ופרטית. קטרת מספק חוויה מרתקת וקלה לשימוש באינטרנט ובאפליקציית קטרת עבור מכשירי Android ו-iOS. ניתן לשלב את קטרת עם Microsoft Teams ו-Outlook. קטרת מספק גם חוויית שילוב מעודכנת ב-SharePoint Online.
+Yammer היא רשת חברתית ארגונית ברמה הטובה ביותר, מאובטחת ופרטית. Yammer מספק חוויה מעניינת וקלה לשימוש באינטרנט וב- Yammer עבור מכשירי Android ו- iOS. Yammer ניתן לשלב עם Microsoft Teams ו- Outlook. Yammer מספק גם חוויית שילוב מעודכנת ב- SharePoint Online.
 
-השתמש ביועץ הפריסה של קטרת כדי להכין את רשת קטרת על-ידי הוספת תחומים, הגדרת מנהלי מערכת ושילוב רשתות קטרת. פרוס את קטרת ולאחר מכן התאם אישית את המראה, קבע את תצורת האבטחה והתאימות ומקד את ההגדרות.
+השתמש Yammer הפריסה כדי להכין את Yammer שלך על-ידי הוספת תחומים, הגדרת מנהלי מערכת ושילוב Yammer רשתות. פרוס Yammer אישית ולאחר מכן התאם אישית את ברירת המחדל, קבע את תצורת האבטחה והתאימות ומקד את ההגדרות.
