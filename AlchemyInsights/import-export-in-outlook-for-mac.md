@@ -1,5 +1,5 @@
 ---
-title: ייבוא-ייצוא-ב-outlook-for-mac
+title: import-export-in-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: e947c6cd5d27bdb690117b18dd100f3de64b0bcd5d5bdab7cb1eeca355ef4489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708099"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987432"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>ייבוא/ייצוא ב-Outlook עבור Mac 
+# <a name="importexport-in-outlook-for-mac"></a>ייבוא/ייצוא Outlook עבור Mac 
 
-ייצוא
-1. בכרטיסיה **כלים** , בחר **יצא**.
-2. בתיבה **שמירה בשם** , תחת **מועדפים**, בחר את התיקיה **הורדות** ובחר **שמור**.
-3. כשתראה את ההודעה שהושלם הייצוא, בחר **סיום**.
+ייצוא:
+1. בכרטיסיה **כלים,** בחר **ייצוא**.
+2. בתיבה שמירה **בשם,** תחת **מועדפים**, בחר את **התיקיה הורדות** ובחר **שמור**.
+3. כאשר תראה את ההודעה שהייצוא הושלם, בחר **סיום**.
 
-ייבוא
-1. בכרטיסיה **כלים** , בחר **יבא**.
-2. בחר **קובץ ארכיון של Outlook עבור Windows (. pst)**  >  **המשך**.
-3. אתר את קובץ ה-. pst במחשב ה-Mac ולאחר מכן בחר באפשרות **יבא**.
+ייבוא:
+1. בכרטיסיה **כלים,** בחר **ייבוא**.
+2. בחר **Outlook עבור Windows ארכיון ( .pst)**  >  **המשך.**
+3. אתר את קובץ ה- .pst ב- Mac ולאחר מכן בחר **ייבוא**.
 4. לאחר השלמת תהליך הייבוא, בחר **סיום**.
-5. הפריטים המיובאים מופיעים בחלונית הניווט תחת **המחשב שלי**.
+5. הפריטים המיובאים מופיעים בחלונית הניווט **תחת במחשב שלי.**
 
-לקבלת קבוצה מלאה של הוראות ייבוא וייצוא עבור Outlook עבור Mac, ראה [ייבוא וייצוא של דואר אלקטרוני, אנשי קשר ולוח שנה של outlook](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+לקבלת קבוצה מלאה של הוראות ייבוא וייצוא עבור Outlook עבור Mac ראה ייבוא [וייצוא של Outlook דואר אלקטרוני, אנשי קשר ולוח שנה](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
 
-כדי לקבל בעיות תמיכה בתוך היישום עבור outlook for Mac, פתח את Outlook ובחר **עזרה**  >  **ליצירת קשר עם התמיכה**. הקלד את השאלה שלך וחבר בצוות התמיכה של Outlook עבור Mac יצור איתך קשר. [יצירת קשר עם התמיכה ב-Outlook עבור Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)
+כדי לקבל תמיכה בתוך האפליקציה עבור בעיות Outlook עבור Mac, פתח Outlook עזרה פנה  >  **לתמיכה**. הקלד את השאלה שלך וחבר בצוות Outlook עבור Mac התמיכה שלך י ליצור איתך קשר. [פנה לתמיכה Outlook עבור Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

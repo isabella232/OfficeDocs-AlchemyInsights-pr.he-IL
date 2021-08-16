@@ -1,5 +1,5 @@
 ---
-title: זיהוי חסימות הנמצאות בתיבות דואר
+title: זיהוי החזקות הממוקמות בתיבות דואר
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987570"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>זיהוי חסימות ממוקמות בתיבות דואר
+# <a name="identify-holds-placed-on-mailboxes"></a>זיהוי החזקות הממוקמות בתיבות דואר
 
-האם יש לך תוכן של Microsoft 365 **הנשמר** על-ידי **חסימה** שאין באפשרותך לזהות? צריך **לברר** היכן ממוקם החסימה **בתיבת הדואר** ? חסימות (*תכונות שמירה*) ניתנות להחלה על-ידי אחת מהשיטות הבאות:
+האם יש Microsoft 365 תוכן נשמר **על-ידי** **החזקה שלא** ניתן לזהות? צריך **לגלות היכן** נמצאת ההמתנה בתיבת **הדואר** ? ניתן להחיל *החזקות*(תכונות שמירה) באחת מהשיטות הבאות:
   
-- חסימה לצורך תביעה משפטית
+- חסימה לתביעה משפטית
 
-- החזק את גילוי אלקטרוני
+- החזקת גילוי אלקטרוני
 
-- החזקה מקומית
+- In-Place החזק
 
-- מדיניות השמירה של Microsoft 365 
+- Microsoft 365 שמירה 
 
   - מדיניות שמירה של מיקום ספציפי
 
   - מדיניות שמירה ברחבי הארגון
 
-- תוויות של Microsoft 365
+- Microsoft 365 תוויות
 
-כדי לזהות את סוג החסימה שיוחל על תיבת הדואר של המשתמש, ראה [כיצד לזהות את סוג החסימה שתמוקם בתיבת דואר של Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+כדי לזהות את סוג ההסתה שהוחל על תיבת דואר של משתמש, ראה כיצד לזהות את סוג [הה להחזיקה הממוקמת בתיבת דואר Exchange Online של המשתמש](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
