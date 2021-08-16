@@ -1,5 +1,5 @@
 ---
-title: 1800018 איתור הגדרות שרת POP ו-IMAP
+title: 1800018 את הגדרות שרת POP ו- IMAP שלך
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -12,15 +12,15 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 7c444ce7a77fa34ac678de40b36c1c7e27cd1b47
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f26a1e411e27916ceb32409982c9e9ec5133975e527793657160b598f7da892
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099935"
 ---
-# <a name="find-your-pop-or-imap-server-settings"></a>איתור הגדרות שרת POP או IMAP
+# <a name="find-your-pop-or-imap-server-settings"></a>חיפוש הגדרות שרת POP או IMAP
 
-אם אינך יודע אילו הגדרות עליך להוסיף את חשבון POP או IMAP שלך ל-Outlook, באפשרותך לחפש אותם [בהגדרות הדואר האלקטרוני של pop ו-imap עבור outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+אם אינך יודע אילו הגדרות עליך להוסיף לחשבון POP או IMAP שלך ל- Outlook, באפשרותך לחפש אותן בהגדרות הדואר האלקטרוני של POP ו- [IMAP עבור Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
   
  
