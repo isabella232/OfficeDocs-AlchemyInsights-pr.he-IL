@@ -1,5 +1,5 @@
 ---
-title: שימוש ב-Giphys בשיחות Teams
+title: שימוש ב- Giphys Teams שיחות
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104309"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>שימוש ב-Giphys בשיחות Teams
+# <a name="using-giphys-in-teams-conversations"></a>שימוש ב- Giphys Teams שיחות
 
-Giphys access ב-Teams chat מופעל כברירת מחדל. כמנהל מערכת, באפשרותך לקבוע אם Giphys זמינים למשתמשים על-ידי [הגדרת מדיניות העברת הודעות](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) והבטחת **השימוש ב-Giphys בשיחות** **מופעל**.
+גישת Giphys בצ'Teams'אט זמינה כברירת מחדל. כמנהל מערכת, באפשרותך לקבוע אם Giphys זמין למשתמשים [על-ידי](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) הגדרת מדיניות העברת הודעות והבטחה שהשימוש ב- **Giphys בשיחות** הוא **ב-**.
 
-אם קבצי Gif אינם פועלים כמצופה בשיחות Teams, ודא:
+אם קובצי GIF אינם פועלים כצפוי בשיחות Teams, ודא:
 
-[מדיניות העברת ההודעות](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) צריכה לאפשר Giphys. כדי לאמת באמצעות רכיבי cmdlet של PowerShell:
+מדיניות [העברת ההודעות](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) צריכה לאפשר Giphys. כדי לאמת באמצעות כלי cmdlet של PowerShell:
 
-- ודא שבאפשרותך [לנהל צוותים באמצעות PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
-- הפעיל את הפקודה PowerShell [Get-CsTeamsMessagingPolicy-Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) וודא ש- **AllowGiphy** מוגדר ל- **TRUE**.
-- אם **AllowGiphy** מוגדר ל- **FALSE** , הפעלת ערכת הפקודות הבאה של PowerShell- [CsTeamsMessagingPolicy-Identity Global-AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
+- ודא ש באפשרותך לנהל [את Teams באמצעות PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
+- הפעל את הפקודה [Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) וודא שהאפשרות **AllowGiphy** מוגדרת ל- **TRUE**.
+- אם **AllowGiphy** מוגדר ל- **FALSE**, הפעל את הפקודה הבאה של PowerShell [Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True.](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps)
 
-יש להפוך [חוויות מקושרות אופציונליות](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) לזמינות כדי לאפשר גישה לכתובת ה-URL של Giphy.
+[יש להפוך חוויות](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) מחוברות אופציונליות לזמינות כדי לאפשר גישה לכתובת ה- URL של Giphy.
 
 > [!NOTE]
-> אם מוגדרות מספר מדיניות העברת הודעות של Teams עבור הדייר שלך, באפשרותך לקבוע את זהות המדיניות שהוקצתה למשתמש המושפע באמצעות הפקודה PowerShell [-Get-CsOnlineUser-identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | בחר TeamsMessagingPolicy.
+> אם יש לך מדיניות Teams העברת הודעות מרובות המוגדרת עבור הדייר שלך, באפשרותך לקבוע את זהות המדיניות שהוקצתה למשתמש המושפע באמצעות הפקודה [PowerShell Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | בחר TeamsMessagingPolicy.

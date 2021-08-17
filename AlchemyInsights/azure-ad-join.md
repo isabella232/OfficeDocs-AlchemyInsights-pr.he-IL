@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9890"
-ms.openlocfilehash: 59e3798131956847a61af2416c2e4210199cffa5
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a3815d6fcabcfe81b079657c68adb89d7be244ca128af3473c6b22c1a4f7c833
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405059"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104067"
 ---
 # <a name="azure-active-directory-join"></a>צירוף Azure Active Directory
 
@@ -27,4 +27,4 @@ ms.locfileid: "51405059"
 1. ודא שאתה מורשה לבצע פעולות ב- Azure AD. רק מנהל מערכת כללי ב- Azure AD יכול לנהל הגדרות עבור רישומי מכשירים.
 1. כדי לעשות את יישום ההצטרפות של Azure AD, ראה [תכנון Azure AD Join](/azure/active-directory/devices/azureadjoin-plan).
 
-לקבלת פרטים נוספים על פתרון בעיות נפוצות בצירוף Azure AD, ראה שאלות נפוצות בנושא [Azure Ad Join](/azure/active-directory/devices/faq) ובמכשיר Windows 10 pro, ראה אין אפשרות להצטרף למכשיר Windows 10 Pro ל- Azure AD - צריך לשדרג [ל- Microsoft Community.](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)
+לקבלת פרטים נוספים על פתרון בעיות נפוצות בהצטרפות ל- Azure AD, ראה שאלות נפוצות בנושא [Azure Ad Join](/azure/active-directory/devices/faq) ולמכשיר Windows 10 pro, ראה אין אפשרות להצטרף Windows 10 Pro ל- Azure AD - צורך לשדרג [ל- Microsoft Community](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900).

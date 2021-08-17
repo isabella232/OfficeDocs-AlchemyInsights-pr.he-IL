@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004319"
 - "7703"
-ms.openlocfilehash: 9077fe8bb6744d42195e4a46b8492c498159d5d6
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: daea50e36ee672b119b5a351e04b1aba18c31754a06b2e59c792e2c748cfcca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49757315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074655"
 ---
 # <a name="retirement-of-site-mailbox"></a>פרישה של תיבת דואר של אתר
 
-תיבות הדואר של האתר לא היו בשימוש ב- [2017](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028) ויצירת תיבות דואר של אתר חדשות וגישת משתמשים לתיבות דואר של אתר הופסקו בהכרזות הבאות. כעת, תהליך הפרישה של תיבות הדואר של האתר הופעלה. בקר בדף [זה](https://aka.ms/SiteMailboxRetirement) לקבלת פרטים נוספים ופעולות שיש לנקוט.
+תיבות הדואר של האתר הופסקו ב- [2017 והיצירה](https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/deprecation-of-site-mailboxes/ba-p/93028) של תיבות דואר חדשות של אתר וגישת משתמשים לתיבות דואר של אתר הופסקה עם הכרזות עוקבות. כעת, תהליך הפרישה של תיבות הדואר של האתר התחיל. בקר [בדף](https://aka.ms/SiteMailboxRetirement) זה לקבלת פרטים נוספים ופעולות לתיעשות.
