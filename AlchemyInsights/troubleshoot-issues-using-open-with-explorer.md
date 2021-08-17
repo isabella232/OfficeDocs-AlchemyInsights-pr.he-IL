@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות באמצעות ' פתח באמצעות סייר '
+title: פתרון בעיות באמצעות Open with Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,26 +12,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: e7fe59b94d216d89c2f2f7100a3d8bf7a0b0196e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cbcfb506295d5732f7109be7a103bbdef530a529c7408c6d9d45a7b38a89915
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659059"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048157"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>פתרון בעיות באפשרות ' פתח באמצעות סייר '
+# <a name="fix-problems-with-open-with-explorer"></a>פתרון בעיות ב'פתח באמצעות הסייר'
 
-פתור בעיות נפוצות בפתיחת ספריית מסמכים ב-SharePoint או ב-OneDrive באמצעות הפקודה ' **פתח באמצעות Explorer** ': 
+פתור בעיות נפוצות בפתיחת ספריית מסמכים SharePoint או OneDrive באמצעות **הפקודה פתח באמצעות סייר:** 
   
-- השתמש ב-Internet Explorer 10 או ב-Internet explorer 11. **האפשרות פתח באמצעות Explorer** אינה תואמת ל-Microsoft Edge, Google Chrome, Firefox ואחרים. **האפשרות פתח** ב-explorer אינה זמינה בכל הדפדפנים למעט internet Explorer. 
+- השתמש Internet Explorer 10 או ב- Internet Explorer 11. **פתח באמצעות Explorer** אינו תואם ל- Microsoft Edge, Google Chrome, Firefox ואחרים. **פתח באמצעות Explorer** אינו זמין בכל הדפדפנים למעט Internet Explorer. 
     
-- האפשרות **פתח באמצעות Explorer** אינה זמינה בחוויה המודרנית של ספריות SharePoint. **השתמש בתצוגה בסייר הקבצים** במקום זאת. בחר תצוגה **אפשרויות תצוגה** \> **בסייר הקבצים**. התצוגה בסייר הקבצים אינה תואמת ל-Microsoft Edge, Google Chrome, Firefox ואחרים. **הצג בסייר הקבצים** זמין רק ב-Internet Explorer. 
+- **פתח באמצעות Explorer** אינו זמין בחוויה המודרנית עבור SharePoint ספריות. השתמש **במקום זאת בתצוגה בסייר** הקבצים. בחר **הצג אפשרויות** תצוגה \> **בסייר הקבצים.** תצוגה בסייר הקבצים אינה תואמת ל- Microsoft Edge, Google Chrome, Firefox ואחרים. **הצג בסייר הקבצים** בזמין רק ב- Internet Explorer. 
     
-- ודא ששירות WebClient פועל. בתיבת החיפוש של Windows, הקלד הופעל, בחר את יישום שולחן העבודה, הקלד services. msc ולאחר מכן הקש Enter. גלול מטה אל שירות WebClient וודא שעמודת **המצב** מציגה "פועל". אם לא, לחץ פעמיים על השירות, לחץ על **התחל**ולאחר מכן לחץ על **אישור**. (ייתכן שיהיה עליך להפעיל תחילה את השירות על-ידי בחירה באפשרות **ידני** או **אוטומטי** בתיבה **סוג הפעלה** .) 
+- ודא ששירות WebClient פועל. בתיבת Windows, הקלד הפעלה, בחר את האפליקציה הפעל שולחן עבודה, הקלד services.msc ולאחר מכן הקש Enter. גלול מטה אל שירות WebClient ו ודא **שהתצוגה** מצב עמודה "פועל". אם לא, לחץ פעמיים על השירות, לחץ על **התחל ולאחר** מכן לחץ על **אישור.** (ייתכן שיהיה עליך להפוך את השירות  לזמין תחילה על-ידי בחירה באפשרות ידני **או** אוטומטי **בתיבה סוג** אתחול.) 
     
 > [!NOTE]
-> פתיחת ספריה בסייר הקבצים שימושית אם עליך להעתיק או להעביר קבצים ותיקיות מרובים פעם אחת, אך אם ברצונך לעבוד באופן קבוע בספריה, מומלץ לסנכרן אותו. כדי לפתור בעיות שנפתחות בסייר הקבצים, ראה [פתח ב-explorer](https://go.microsoft.com/fwlink/?linkid=871665). לקבלת מידע אודות הגדרת סינכרון, ראה [סינכרון קבצי SharePoint עם לקוח הסינכרון החדש של OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
+> פתיחת ספריה בסייר הקבצים שימושית אם עליך להעתיק או להעביר קבצים ותיקיות מרובים פעם אחת, אך אם ברצונך לעבוד באופן קבוע בספריה, מומלץ לסנכרן אותה. כדי לפתור בעיות בפתיחת סייר הקבצים, ראה [פתיחה בסייר.](https://go.microsoft.com/fwlink/?linkid=871665) לקבלת מידע אודות הגדרת סינכרון, [ראה סינכרון SharePoint קבצים עם לקוח סינכרון OneDrive החדש](https://go.microsoft.com/fwlink/?linkid=871666).
   
-עיין במאמר [כיצד להשתמש בפקודה ' פתח באמצעות הסייר ' כדי לפתור בעיות ב-SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) לקבלת מידע נוסף. 
+עיין במאמר כיצד [להשתמש בפקודה 'פתח באמצעות סייר' כדי לפתור בעיות ב- SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) לקבלת מידע נוסף. 
   
 
