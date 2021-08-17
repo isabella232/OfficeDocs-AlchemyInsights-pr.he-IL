@@ -1,5 +1,5 @@
 ---
-title: הסרת שרת Exchange המקומי האחרון
+title: הסרת השרת המקומי Exchange האחרון
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 77dcc8d5396807f581c96ed79321a24ffe929d66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4980f3089305ce589cc8b205fe073c0d1328cdf289d18a15669c081e0ab4aa5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741016"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110731"
 ---
-# <a name="removing-the-last-on-premises-exchange-server"></a>הסרת שרת Exchange המקומי האחרון
+# <a name="removing-the-last-on-premises-exchange-server"></a>הסרת השרת המקומי Exchange האחרון
 
-לפני שתסיר את Exchange server האחרון מהארגון המקומי, עליך לוודא שהבנת את ההשלכות של עשיית פעולה זו כדי לעזור לך להחליט אם אתה זקוק לשרת אחרון זה לכל מטרה אחרת. לקבלת מידע נוסף, עיין [בנושא כיצד ומתי לבטל את השימוש בשרתי Exchange מקומיים בפריסה היברידית](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
+לפני הסרת שרת Exchange מהארגון המקומי שלך, עליך לוודא שאתה מבין את ההשלכות של ביצוע פעולה זו כדי לעזור לך להחליט אם אתה זקוק לשרת האחרון למטרות אחרות. לקבלת מידע נוסף, בדוק כיצד ומתי להוציא את השרתים [המקומיים Exchange בפריסה היברידית.](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx)
   

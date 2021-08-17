@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889315"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314277"
 ---
 # <a name="activate-your-subscription"></a>הפעלת המנוי
 
@@ -25,7 +25,7 @@ ms.locfileid: "57889315"
 
 - כדי להעניק למשתמשים גישה לשירות, הקצה להם רישיון. כדי ללמוד כיצד לעשות זאת, [ראה הקצאת רשיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - אם כבר הוקצה לך רשיון, תוכל למצוא יישומים שתוכל להוריד מהדף [החשבון שלי](https://portal.office.com/account/#installs). דף זה מספק לך רשימה של יישומים הזמינים להורדה בהתבסס על הרישיונות שהוקצו.
-- אם כבר הורדת את יישומי Office, ייתכן שתצטרך להיכנס ליישומים באמצעות החשבון שלך בעבודה או בבית הספר. באפשרותך לעשות זאת בכל יישום Office (Word, Excel וכו') על-ידי **בחירת קובץ > חשבון** (בסמוך לתחתית). תחת פרטי משתמש, בחר **החלף חשבון.** לקבלת מידע נוסף, קרא את [התקנת יישומי Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- אם כבר הורדת את יישומי Office, ייתכן שתצטרך להיכנס ליישומים באמצעות החשבון שלך בעבודה או בבית הספר. באפשרותך לעשות זאת בכל יישום Office (Word, Excel וכו') על-ידי **בחירה באפשרות קובץ > חשבון** (ליד החלק התחתון). תחת פרטי משתמש, בחר **החלף חשבון.** לקבלת מידע נוסף, קרא את [התקנת יישומי Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **הפעלה מחדש של מנוי**
 

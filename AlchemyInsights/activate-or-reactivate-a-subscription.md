@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889383"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314313"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>הפעלה או הפעלה מחדש של מנוי
 
@@ -36,8 +36,9 @@ ms.locfileid: "57889383"
 1. במרכז הניהול, עבור אל הדף **חיוב**  >  [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
 2. בכרטיסיה **מוצרים,** אתר את המנוי שברצונך להפעיל מחדש.
 3. בחר את שלוש הנקודות (פעולות נוספות) ולאחר מכן **בחר הפעל מחדש מנוי זה**.
-    > [!IMPORTANT]
-    > אם אינך רואה את הפעלת **מנוי זה מחדש** כפעולה זמינה, התקשר לתמיכה [כדי](https://go.microsoft.com/fwlink/p/?linkid=518322) להפעיל מחדש את המנוי שלך.
+
+    **חשוב**: אם אינך רואה הפעלה מחדש **של מנוי** זה כפעולה זמינה, התקשר [לתמיכה](https://go.microsoft.com/fwlink/p/?linkid=518322) כדי להפעיל מחדש את המנוי שלך.
+
 4. בחלונית **הפעל מחדש מנוי זה,** בחר שיטת תשלום קיימת או בחר הוסף שיטת **תשלום**.
 5. בחר **הפעל מחדש**.
 
@@ -45,5 +46,5 @@ ms.locfileid: "57889383"
 
 **הפעלת מנוי חדש עם מפתח מוצר**
 
-1. כדי להפעיל מנוי Microsoft 365 עם מפתח המוצר שלך, ראה [היכן להזין את Office המוצר שלך](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+1. כדי להפעיל מנוי Microsoft 365 עם מפתח המוצר שלך, ראה [היכן להזין את מפתח Office שלך](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 2. הזן את מפתח המוצר של Microsoft 365 ובצע את ההנחיות כדי להפעיל את המנוי. אם אתה נתקל בבעיות בהפעלה, עיין ברשימה זו של [שגיאות ופתרונות נפוצים של מפתח מוצר.](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)

@@ -1,5 +1,5 @@
 ---
-title: הפיכת Microsoft Defender לזמין עבור Office 365 עבור SharePoint מקוון, OneDrive ו- Microsoft Teams
+title: הפיכת כספת קבצים מצורפים SharePoint באופן מקוון, OneDrive וקבצים Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058867"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894464"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>הפיכת Microsoft Defender לזמין עבור Office 365 עבור SharePoint מקוון, OneDrive ו- Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>הפיכת כספת קבצים מצורפים SharePoint באופן מקוון, OneDrive וקבצים Microsoft Teams
 
-1. באמצעות אישורי מנהל המערכת הכללי או מנהל האבטחה שלך, [היכנס Office 365 האבטחה והתאימות](https://protection.office.com/).
-2. בחר **ניהול איומים** בחלונית הימנית ולאחר מכן בחר **מדיניות כספת** קבצים  >  [מצורפים](https://protection.office.com/safeattachment).
-3. בחר **הפעל את Microsoft Defender עבור Office 365 עבור SharePoint, OneDrive ו- Microsoft Teams** ולאחר מכן בחר **שמור**.
+1. באמצעות אישורי מנהל המערכת הכללי או מנהל האבטחה שלך, פתח את פורטל Microsoft 365 Defender ב- ולאחר מכן עבור אל <https://security.microsoft.com> **מדיניות & כללי** מדיניות \>  \> **של איומים כספת קבצים מצורפים** **במקטע מדיניות**
+
+   כדי לעבור ישירות לדף **כספת קבצים מצורפים,** השתמש <https://security.microsoft.com/safeattachmentv2> ב- .
+
+2. בדף כספת **קבצים מצורפים,** לחץ על **הגדרות כלליות.**
+3. בתפריט נשלף שמופיע, בחר הפעל את Microsoft Defender עבור Office 365 עבור **SharePoint, OneDrive ו- Microsoft Teams** ולאחר מכן בחר **שמור**.
+
     > [!TIP]
     >
-    > - כמנהל מערכת כללי או כמנהל מערכת SharePoint, הפעל את cmdlet PowerShell הבא כאשר **הפרמטר DisallowInfectedFileDownload** מוגדר *ל- true*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [הגדרת התראות עבור קבצים שזוהו](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > בצע את השלבים הבאים כדי לשפר את ההגנה כספת קבצים מצורפים עבור SharePoint, OneDrive וקבצים Microsoft Teams:
+    >
+    > - כדי למנוע ממשתמשים להוריד קבצים זדוניים, השתמש בערך עבור `$true` *הפרמטר DisallowInfectedFileDownload* **[ב- cmdlet Set-SPOTenant ב-](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** SharePoint PowerShell מקוון. לקבלת מידע נוסף, [ראה שימוש SharePoint PowerShell מקוון כדי למנוע ממשתמשים להוריד קבצים זדוניים](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files).
+    > - [יצירת מדיניות התראה עבור קבצים שזוהו](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-לקבלת מידע נוסף, ראה [Microsoft Defender לקבלת Office 365 עבור SharePoint, OneDrive ו- Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)
+לקבלת מידע נוסף, [ראה כספת קבצים מצורפים עבור Office 365 עבור SharePoint, OneDrive ו- Microsoft Teams.](https://go.microsoft.com/fwlink/?linkid=2092041)

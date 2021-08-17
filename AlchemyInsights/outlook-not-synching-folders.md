@@ -1,5 +1,5 @@
 ---
-title: Outlook לא מסנכרן תיקיות
+title: Outlook לא לסנכרן תיקיות
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ac814286496a946866fbd36268ec63b7904e8f15124e2909a134805fc615a7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771866"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111221"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook לא מסנכרן תיקיות
+# <a name="outlook-not-synching-folders"></a>Outlook לא לסנכרן תיקיות
 
-אם Outlook אינו מסנכרן תיקיות כמצופה, יש כמה דברים שתוכל לנסות לפתור.
+אם Outlook אינו מסנכרן תיקיות כצפוי, יש כמה דברים שתוכל לנסות כדי לתקן אותם.
 
-1. הקטנת מספר התיקיות בתיבת הדואר הראשית או בתיבת הדואר המשותפת. [ראה בעיות בביצועים של Outlook כאשר יש יותר מדי פריטים או תיקיות בתיקיה ' מצב מטמון '. ost או קובץ. pst](https://support.microsoft.com/help/2768656)
-2. הפוך אחסון למטמון של כל התיקיות המשותפות ללא זמין.
-3. שנה את התצורה של תיבת הדואר המשנית של Exchange לחשבון Exchange שני בפרופיל שלך.
+1. הקטן את מספר התיקיות בתיבת הדואר הראשית או המשותפת. ראה Outlook ביצועים כאשר קיימים יותר מדי פריטים או תיקיות בתיקיית קובץ [.ost או .pst במצב Cached](https://support.microsoft.com/help/2768656).
+2. הפיכת אחסון במטמון ללא זמין של כל התיקיות המשותפות.
+3. שנה את התצורה של תיבת Exchange תיבת הדואר השניה לחשבון Exchange בפרופיל שלך.
 
-לקבלת מידע נוסף, ראה [בעיות ביצועים וסינכרון בעת עבודה עם תיקיות בתיבת דואר משנית ב-Outlook](https://support.microsoft.com/help/3115602).
+לקבלת מידע נוסף, ראה [בעיות ביצועים וסינכרון בעת עבודה עם תיקיות בתיבת דואר משנית ב- Outlook](https://support.microsoft.com/help/3115602).
