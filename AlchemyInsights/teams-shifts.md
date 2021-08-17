@@ -1,5 +1,5 @@
 ---
-title: נבחרות משמרות
+title: Teams משמרות
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106488"
 ---
-# <a name="using-teams-shifts"></a>שימוש ב-Teams Shift
+# <a name="using-teams-shifts"></a>שימוש ב Teams Shifts
 
-לקבלת מידע אודות ניהול היישום ' משמרות ', כולל כיצד להגדיר משמרות, אפשר משמרות עבור משתמשים וניהול היישום ' משמרות ', ראה:
+לקבלת מידע אודות ניהול האפליקציה 'משמרות', כולל אופן הגדרת משמרות, הפיכת משמרות לזמינות עבור משתמשים וניהול היישום 'משמרות', ראה:
  
-- [נהל את האפליקציה ' משמרות ' עבור הארגון שלך ב-Microsoft teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [הפעלה או ביטול של משמרות עבור משתמשים ספציפיים בארגון שלך](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [ניהול יישום Shifts עבור הארגון שלך ב- Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [הפיכת Shifts לזמין או ללא זמין עבור משתמשים ספציפיים בארגון שלך.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-לקבלת מידע נוסף אודות משמרות עבור Teams, כולל ניהול לוח זמנים של משמרות, ראה [משמרות עבור teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+לקבלת מידע נוסף על משמרות עבור Teams, כולל ניהול לוח זמנים של משמרות, ראה [משמרות עבור Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
 
-**אפקטיבי ב-30 ביוני 2020**, Microsoft Staffhub יצא לגמלאות. לקבלת מידע נוסף, ראה [Microsoft StaffHub פרשה](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**החל מ- 30 ביוני 2020,** Microsoft Staffhub יצא משימוש. לקבלת מידע נוסף, ראה [Microsoft StaffHub יצא משימוש.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 

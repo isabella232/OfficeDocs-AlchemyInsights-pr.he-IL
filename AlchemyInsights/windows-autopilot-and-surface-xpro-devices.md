@@ -1,5 +1,5 @@
 ---
-title: מכשירי Windows ומכשירי Pro של Windows
+title: Windows Autopilot and Surface X Pro התקנים
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003909"
 - "6964"
-ms.openlocfilehash: 4124d16aa16a8a4bd24e3ae0af6a1d6237a497fe
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 7f6825d99fcfee0ca4cc60cced2be9e4f0f9e75381e9595501072eb7dfad1698
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692061"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047401"
 ---
-# <a name="windows-autopilot-and-surface-x-pro-devices"></a>מכשירי Windows ומכשירי Pro של Windows
+# <a name="windows-autopilot-and-surface-x-pro-devices"></a>Windows Autopilot and Surface X Pro התקנים
 
-Windows טייס אוטומטי הוא טכנולוגיית פריסה מבוססת ענן ב-Windows 10. באפשרותך להשתמש ב-Windows באופן אוטומטי כדי לפרוס מרחוק ולקבוע תצורה של מכשירים ישירות מחוץ לתיבה. מכשירים רשומים של Windows טייס אוטומטי מזוהים דרך האינטרנט באתחול הראשון באמצעות חתימת התקן ייחודית שנקראת hash של חומרה. הם מוגדרים באמצעות פתרונות ניהול מודרניים, כגון תכלת Active Directory (תכלת לספירה) ו-Microsoft intune.
+Windows Autopilot היא טכנולוגיית פריסה מבוססת ענן ב- Windows 10. באפשרותך להשתמש ב Windows Autopilot כדי לפרוס ולקבוע תצורה מרחוק של מכשירים מחוץ לקופסה. Windows מכשירים הרשומים ב- Autopilot מזוהים דרך האינטרנט באתחול הראשון באמצעות חתימת מכשיר ייחודית הנקראת Hash של חומרה. הם מוגדרים באמצעות פתרונות ניהול מודרניים, כגון Azure Active Directory (Azure AD) ו- Microsoft Intune.
 
-ניתן לשלוח מכשירים ישירות למשתמשים שלך. תהליך זה מבטל את הדימות מחדש במהלך הפריסה, המאפשר לך ליישם שיטות חדשות וזריזות של ניהול והפצה של מכשירים.
+ניתן לשלוח מכשירים ישירות למשתמשים שלך. תהליך זה מבטל מימוש מחדש במהלך הפריסה, המאפשר לך ליישם שיטות חדשות וגמישות של ניהול והפצה של מכשירים.
 
-לקבלת מידע נוסף, ראה [מכשירי Windows לטייס אוטומטי ולמשטח](https://go.microsoft.com/fwlink/?linkid=2135712).
+כדי ללמוד עוד, ראה [Windows Autopilot ומכשירי Surface](https://go.microsoft.com/fwlink/?linkid=2135712).
