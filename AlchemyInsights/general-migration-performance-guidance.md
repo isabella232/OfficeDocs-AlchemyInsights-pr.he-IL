@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -11,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+ms.openlocfilehash: 91ad4d5457040fe6f705fab212acfd0f610f1c41eea9c01d9cab80439607292c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057031"
 ---
 # <a name="general-migration-performance-guidance"></a>הדרכה כללית של ביצועי ההעברה
 
 
-**חשוב**: בתקופה חסרת תקדים זאת, אנחנו נוקטים בצעדים כדי להבטיח ששירותי SharePoint Online ו- OneDrive יישארו בזמינות גבוהה - לקבלת מידע נוסף, בקר בכתובת[התאמות של תכונה זמנית ב- SharePoint Online](https://aka.ms/ODSPAdjustments).
+**חשוב**: בתקופה חסרת תקדים זאת, אנחנו נוקטים בצעדים כדי להבטיח ששירותי SharePoint Online ו- OneDrive יישארו בזמינות גבוהה - לקבלת מידע נוסף, בקר בכתובת [התאמות של תכונה זמנית ב- SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **אפשרויות העברה**
 

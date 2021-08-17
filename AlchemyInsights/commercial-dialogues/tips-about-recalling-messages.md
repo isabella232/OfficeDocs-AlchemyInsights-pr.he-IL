@@ -1,5 +1,5 @@
 ---
-title: עצות לגבי העברת הודעות
+title: עצות אודות אחזור הודעות
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000260"
 - "7257"
-ms.openlocfilehash: 0e44d3c7c13511d2d5e3ad93eb9ca7c9786c8b2d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a259f4036e9f24e5f03f5526426df82a6644f8db7e0ccafee8aaa37dcd0f552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081467"
 ---
-# <a name="tips-about-recalling-messages"></a>עצות לגבי העברת הודעות
+# <a name="tips-about-recalling-messages"></a>עצות אודות אחזור הודעות
 
-להלן המקרים שבהם באפשרותך ואין באפשרותך לאחזר הודעות:
+כך תוכל ולא תוכל לאחזר הודעות:
 
-* כמנהל המערכת, באפשרותך לאחזר הודעות בשם משתמשים באמצעות PowerShell. אין באפשרותך לאחזר הודעות ממרכז הניהול.
-* באפשרותך לאחזר הודעות שנשלחות לאנשים בארגון שלך בלבד. אם ההודעה נשלחה לכתובת Gmail, לדוגמה, אין באפשרותך לאחזר אותה.
-* **באפשרותך לאחזר הודעות שנשלחו מ-Outlook 2016 עבור המחשב**. אם משתמש שולח הודעה באמצעות Outlook עבור Mac או Outlook באינטרנט, לא ניתן לאחזר אותו.
+* כמנהל המערכת, באפשרותך לאחזר הודעות בשם המשתמשים באמצעות PowerShell. לא ניתן לאחזר הודעות ממרכז הניהול.
+* באפשרותך לאחזר רק הודעות הנשלחות לאנשים בארגון שלך. אם ההודעה נשלחה לכתובת Gmail, לדוגמה, לא ניתן לאחזר אותה.
+* **באפשרותך לאחזר רק הודעות שנשלחו Outlook 2016 עבור המחשב**. אם משתמש שולח הודעה באמצעות Outlook עבור Mac או Outlook באינטרנט, לא ניתן לאחזר אותה.

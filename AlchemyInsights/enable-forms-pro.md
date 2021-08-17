@@ -1,5 +1,5 @@
 ---
-title: הפיכת Forms Pro לזמין או ללא זמין
+title: הפיכת טפסים לזמינים או ללא Pro
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: c4fad42beb2eebd96ee096732a12c206c1d6cbf4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d5a9d06e2fe2f34d26d4fdc5b2e1b3cc40268d9e226cba2f30aae880d941fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814229"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057211"
 ---
-# <a name="enable-or-disable-forms-pro"></a>הפיכת Forms Pro לזמין או ללא זמין
+# <a name="enable-or-disable-forms-pro"></a>הפיכת טפסים לזמינים או ללא Pro
 
-Microsoft Forms Pro התפתח לקול הלקוחות של Dynamics 365, ומספק לך יכולות סקר נוספות ויתרונות עסקיים. לקבלת מידע נוסף, [ראה משאבי עזרה עבור Dynamics 365 Customer Voice](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
+Microsoft Forms Pro ל- Dynamics 365 Customer Voice, ומספק לך יכולות סקר נוספות ויתרונות עסקיים. לקבלת מידע נוסף, [ראה משאבי עזרה עבור Dynamics 365 Customer Voice](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
 
-Microsoft Forms Pro כלול כחלק מהרשיון הארגוני של Dynamics 365. לחלופין, מנהל מערכת יכול לרכוש רשיון Microsoft Forms Pro. באפשרותך גם להסיר רשיון Microsoft Forms Pro ממשתמש.  
+Microsoft Forms Pro כלול כחלק מהרשיון הארגוני של Dynamics 365. לחלופין, מנהל מערכת יכול לרכוש רשיון microsoft Forms Pro רשיון. באפשרותך גם להסיר רשיון Microsoft Forms Pro Microsoft Forms ממשתמש.  
 
-לקבלת מידע נוסף אודות רישוי, ראה [רכישת Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) [והשבתת Microsoft Forms Pro עבור משתמש.](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1)
+לקבלת מידע נוסף אודות רישוי, ראה [רכישת טפסי Microsoft Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) [והפוך את Microsoft Forms ללא Pro עבור משתמש](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
   
-לקבלת משאבי עזרה, ראה פתרון [בעיות ב- Forms Pro.](https://docs.microsoft.com/forms-pro/troubleshoot)
+לקבלת משאבי עזרה, ראה [פתרון בעיות ב- Forms Pro](https://docs.microsoft.com/forms-pro/troubleshoot).

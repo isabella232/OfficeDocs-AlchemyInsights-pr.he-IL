@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: fba853749d98eb556395c7133555c0b04044c88c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e03f594bde1e12fb606cdb5f51fd98ff028f1a311d901e9f10241b027231c371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081503"
 ---
 # <a name="test-your-communication-compliance-policy"></a>בדיקת מדיניות תאימות התקשורת שלך
 
-שלב זה הוא אופציונלי. לאחר שאתה יוצר מדיניות תאימות תקשורת, מומלץ לבדוק אותה כדי לוודא שהמדיניות שהגדרת מתבצעת כראוי על-ידי המדיניות.
+שלב זה הוא אופציונלי. לאחר יצירת מדיניות תאימות לתקשורת, כדאי מחשב לוודא שהתנאים שהגדרת נאכפים כראוי על-ידי המדיניות.
 
-ייתכן שתרצה גם [לבדוק את המדיניות של מניעת אובדן נתונים (DLP)](https://go.microsoft.com/fwlink/?linkid=2110890) אם מדיניות תאימות התקשורת שלך כוללת סוגי מידע רגישים.
+ייתכן שתרצה גם מחשב מדיניות מניעת אובדן נתונים [(DLP) אם](https://go.microsoft.com/fwlink/?linkid=2110890) מדיניות תאימות התקשורת שלך כוללת סוגי מידע רגישים.
 
-כדי ללמוד כיצד [לבדוק את מדיניות תאימות התקשורת שלך](https://go.microsoft.com/fwlink/?linkid=2111304).
+כדי ללמוד כיצד לעשות זאת, [ראה בדיקת מדיניות תאימות התקשורת שלך](https://go.microsoft.com/fwlink/?linkid=2111304).
