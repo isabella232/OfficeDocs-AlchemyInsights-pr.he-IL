@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 2b60d65f6f5144c00b23664075d05af1995d5baac7fb884c59cbe82efca3d198
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0b6155ce38cd2703a4bf406d73ebbc59eb4c9034
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013137"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320756"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>פתרונות לבעיות בעת התקנת Office
 
@@ -30,7 +30,8 @@ ms.locfileid: "54013137"
 - נקה את עקבות קודמות כלשהן של Office והתקן אותו מחדש באמצעות מסייע התמיכה והשחזור (SaRA). 
 
     - הורד והתקן את [מסייע התמיכה והשחזור](https://aka.ms/SARA-OfficeUninstall-Alchemy). כאשר הוא נפתח, מתוך **הסר את ההתקנה של מוצרי Office** בחר את הגירסה שאת התקנתה ברצונך להסיר (אם יש) ולחץ על **הבא**. המשך לעבור בין המסכים ולהפעיל מחדש את המחשב כאשר תתבקש לעשות זאת. לאחר ההפעלה מחדש, הכלי SaRA ייפתח מחדש כדי להשלים את תהליך הסרת ההתקנה.
-    - השתמש ב- SaRA כדי [להתקין מחדש את Office](https://aka.ms/sara-officeinstall). **הערה**: לטובת הגדרה של SaRA, השתמש באפשרות [התקנת Visio](https://aka.ms/SaRA-VisioSetupScenario) או [התקנת Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - השתמש ב- SaRA כדי [להתקין מחדש את Office](https://aka.ms/sara-officeinstall). 
+    **הערה**: לטובת הגדרה של SaRA, השתמש באפשרות [התקנת Visio](https://aka.ms/SaRA-VisioSetupScenario) או [התקנת Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [השתמש במתקין הלא מקוון של Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) כדי להתקין את Office.
 

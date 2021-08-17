@@ -12,31 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 900d5f250846e9a7046f72156c150f4970d91d5ad94cb7fc054952228f4bf257
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd5a04fd5abad962b4e85e009a9232e1a93219c238c629506df5cfb034453df2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54026223"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892048"
 ---
-# <a name="missing-emails-in-quarantine"></a>הודעות דואר אלקטרוני חסרות בהסגר"
+# <a name="missing-emails-in-quarantine"></a>הודעות דואר אלקטרוני חסרות בהסגר
 
-מנהלי מערכת יכולים [להציג, לשחרר או למחוק הודעות אלה.](/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
+מנהלי מערכת יכולים [להציג, לשחרר או למחוק הודעות אלה](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)
 
-כדי לפתוח את מרכז & האבטחה, עבור אל [https://protection.office.com](https://protection.office.com/) . כדי לפתוח את דף ההסגר ישירות, עבור אל [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+בפורטל Microsoft 365 Defender <https://security.microsoft.com> ב- , עבור אל סקירת **ההסגר.** \>  לחלופין, כדי לעבור ישירות לדף **ההסגר,** השתמש <https://security.microsoft.com/quarantine> ב- .  
 
-באפשרותך לחפש לפי הערכים הבאים:  
+לקבלת מידע נוסף אודות ערכי החיפוש/הסינון בהם באפשרותך להשתמש, ראה ניהול הודעות וקבצים [בהסגר כמנהל מערכת ב- EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files).
 
-- **מזהה הודעה:** המזהה הייחודי הכללי של ההודעה. אם תבחר הודעה ברשימה, הערך  **'מזהה הודעה'**  יופיע בחלונית  **הפרטים נשלף**  שמופיעה. מנהלי מערכת יכולים להשתמש [במעקב אחר](/microsoft-365/security/office-365-security/message-trace-scc) הודעות כדי למצוא הודעות ואת ערכי מזהה ההודעה המתאימים שלהם.
-- **כתובת דואר אלקטרוני של** שולח : כתובת דואר אלקטרוני של שולח יחיד.
-- **כתובת דואר אלקטרוני של נמען**: כתובת דואר אלקטרוני של נמען יחיד.
-- **נושא**: השתמש בנושא כולו של ההודעה. החיפוש אינו תלוי רישיות.
+כלי ה- cmdlet השתמשו בהם כדי להציג ולנהל הודעות וקבצים בהסגר הם:
 
-לאחר הזנת קריטריוני החיפוש, לחץ על רענן לחצן ![ ](/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **רענן כדי לסנן** את התוצאות.
-
-כלי ה- cmdlet השתמשו כדי להציג ולנהל הודעות וקבצים בהסגר הם:
-- [Delete-QuarantineMessage](/powershell/module/exchange/delete-quarantinemessage)
-- [Export-QuarantineMessage](/powershell/module/exchange/export-quarantinemessage)
-- [Get-QuarantineMessage](/powershell/module/exchange/get-quarantinemessage)
-- [Preview-QuarantineMessage](/powershell/module/exchange/preview-quarantinemessage): שים לב ש- cmdlet זה הוא רק עבור הודעות, ולא קבצי תוכנות זדוניות מ- Microsoft Defender עבור Office 365 עבור SharePoint Online, OneDrive for Business או Teams.
-- [Release-QuarantineMessage](/powershell/module/exchange/release-quarantinemessage)
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): שים לב ש- cmdlet זה הוא רק עבור הודעות, לא קבצים מ- כספת קבצים מצורפים עבור SharePoint, OneDrive או Microsoft Teams.
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

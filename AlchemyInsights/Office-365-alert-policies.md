@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918360"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891680"
 ---
 # <a name="alert-policies"></a>מדיניות התראה
 
-מרכז Microsoft 365 אבטחה & מציע מדיניות התראה [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) המהווה ברירת מחדל שמפעילה התראות עבור ארגונים עם מנוי Office 365 Enterprise או Office 365 E1/G1, E3/G3 או E5/G5. לכן, מנהלי מערכת עשויים לקבל הודעת דואר אלקטרוני של התראה שנשלחה Office365Alerts@microsoft.com עם שורת נושא כגון "התראת חומרה נמוכה: *שם מדיניות התראה*". הודעות התראה נשלחות כאשר התראות מופעלות עבור פעילויות נפוצות, כגון כאשר משתמשים:
+Microsoft 365 [מכיל](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) פריטי מדיניות התראה המהווים ברירת מחדל שמפעילים התראות עבור ארגונים עם מנוי Microsoft 365 Enterprise או Microsoft 365 US Government E1/G1, E3/G3 או E5/G5. לכן, מנהלי מערכת עשויים לקבל הודעת דואר אלקטרוני של התראה Office365Alerts@microsoft.com באמצעות שורת נושא כגון "התראת חומרה נמוכה: *שם מדיניות התראה*". הודעות התראה נשלחות כאשר התראות מופעלות עבור פעילויות נפוצות, כגון כאשר משתמשים:
 
 - צור כללי תיבת דואר נכנס ההעברות דואר אלקטרוני.
 - הקצה הרשאות לתיבת הדואר שלהם.
@@ -31,9 +31,10 @@ ms.locfileid: "53918360"
 
 כדי לסקור התראה ולפעל אותה:
 
-1. עבור אל [מרכז האבטחה & תאימות](https://protection.office.com) והירשם.
-2. לחץ **על**  >  **התראות הצג התראות**.
-3. לחץ על התראה כדי להציג דף נשלף עם מידע אודות ההתראה.
+1. בצע אחד מהשלבים הבאים:
+   - בתיבת מרכז התאימות של Microsoft 365 , <https://compliance.microsoft.com> עבור אל **התראות**. לחלופין, כדי לעבור ישירות **לדף 'התראות',** השתמש <https://compliance.microsoft.com/compliancealerts> ב- .
+   - בפורטל Microsoft 365 Defender <https://security.microsoft.com> , עבור אל **אירועים &** \> **התראות**. לחלופין, כדי לעבור ישירות **לדף 'התראות',** השתמש <https://security.microsoft.com/alerts> ב- .
+2. לחץ על התראה כדי להציג דף נשלף עם מידע אודות ההתראה.
 
 באפשרותך לבצע פעולה בהתראה, כגון הסרת [כלל חשוד של תיבת דואר נכנס](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). לחלופין, באפשרותך פשוט לסגור את ההתראה על-ידי לחיצה **על פתור** בדף נשלף ההתראה.
 
@@ -45,4 +46,4 @@ ms.locfileid: "53918360"
 - אימות פרטי האבטחה של החשבון שלך
 - אימות מחדש של עצמך
 
-אם אתה מקבל הודעת דואר אלקטרוני כך, היא לא נשלחה על-ידי Microsoft והיא אמורה להיחשב להונאת דיוג. במקרה כזה, הדוח [אותו ל- Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)
+אם אתה מקבל הודעת דואר אלקטרוני עם סוגים אלה של בקשות, היא לא נשלחה על-ידי Microsoft ויש להיחשב להונאת דיוג. אם אתה מקבל הודעה עם סוגים אלה של בקשות, [הדוח את ההודעה ל- Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft).

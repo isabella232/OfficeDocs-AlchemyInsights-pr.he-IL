@@ -1,5 +1,5 @@
 ---
-title: סינכרון שירותי תחומים
+title: סינכרון שירות תחום
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885156"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057859"
 ---
-# <a name="domain-service-synchronization"></a>סינכרון שירותי תחומים
+# <a name="domain-service-synchronization"></a>סינכרון שירות תחום
 
-אובייקטים ואישורים בתחום הניהול של תכלת Active Directory (תכלת AD DS) יכולים להיווצר באופן מקומי בתוך התחום, או לסנכרן אותו מדייר תכלת Active Directory (תכלת לספירה). כאשר אתה פורס לראשונה את התכלת AD DS, מוגדרת סינכרון חד-כיוון אוטומטי ומופעל כדי לשכפל את האובייקטים מ-תכלת לספירה. סינכרון חד-כיוון זה ממשיך לפעול ברקע כדי לשמור על העדכניות של התחום המנוהל ' תכלת AD DS ' עם כל השינויים שבוצעו במאמר תכלת לספירה. לא מופיע סינכרון מתכלת AD DS בחזרה לתכלת לספירה.
+ניתן ליצור אובייקטים ואישורים בתחום מנוהל של Azure Active Directory Domain Services (Azure AD DS) באופן מקומי בתוך התחום, או לסנכרן אותם מתוך דייר Azure Active Directory (Azure AD). כאשר אתה פורס לראשונה את Azure AD DS, התצורה של סינכרון דו-אופן אוטומטי מוגדרת ומתחילה לשכפל את האובייקטים מ- Azure AD. סינכרון זה ממשיכה לפעול ברקע כדי לשמור על התחום המנוהל Azure AD DS עדכני עם שינויים כלשהם מ- Azure AD. לא מתרחש סינכרון מ- Azure AD DS בחזרה ל- Azure AD.
 
-לקבלת פרטים נוספים על סינכרון שירות התחומים של תכלת Active Directory, ראה [סינכרון שירות תחום](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
+לקבלת פרטים נוספים על סינכרון שירות התחום של Azure Active Directory, ראה [סינכרון שירות תחום](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 

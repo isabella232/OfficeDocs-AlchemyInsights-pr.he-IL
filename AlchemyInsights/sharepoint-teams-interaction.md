@@ -14,17 +14,17 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: 6f63eed31fda61ea6377c364cfbf63035311864e55637baa5a5838784a03b582
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 34f2db749fe457dfad457e15c3b836d98b9f0de75a9c03bd79a3c1a8f4d4d4de
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57812964"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898357"
 ---
 # <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>עזרה באינטראקציה SharePoint ואינטראקציה Microsoft Teams שלך
 
-לכל צוות Microsoft Teams אתר צוות ב- SharePoint, וכל ערוץ רגיל בצוות מקבל תיקיה בספריית המסמכים המוגדרת כברירת מחדל באתר הצוות. כל ערוץ פרטי מקבל ערוץ נפרד SharePoint משלו. לקבלת מידע נוסף:
+לכל צוות Microsoft Teams אתר צוות ב- SharePoint, וכל ערוץ רגיל בצוות מקבל תיקיה בספריית המסמכים המוגדרת כברירת מחדל באתר הצוות. כל ערוץ פרטי מקבל ערוץ SharePoint משלו. לקבלת מידע נוסף:
 
-- כדי ללמוד עוד אודות אינטראקציה בערוץ פרטי, ראה [ערוצים פרטיים ב- Microsoft Teams](/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+- כדי ללמוד עוד אודות אינטראקציה בערוץ פרטי, [ראה ערוצים פרטיים Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-- לקבלת מידע נוסף על מגבלות ועל SharePoint האחסון, ראה [מגבלות ומפרטים עבור Microsoft Teams](/microsoftteams/limits-specifications-teams#storage). 
+- לקבלת מידע נוסף על מגבלות ואופן SharePoint, ראה [מגבלות ומפרטים עבור Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#storage). 
