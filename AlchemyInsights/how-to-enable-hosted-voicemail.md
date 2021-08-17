@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49678000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055555"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>כיצד להפוך דואר קולי מתארח לזמין
 
-כדי להפוך את הדואר הקולי לזמין, **HostedVoicemail** חייב להיות מוגדר ל$true.
+כדי להפוך דואר קולי **לזמין, HostedVoicemail** חייב להיות מוגדר $true.
 
-המאפיין **HostedVoicemail** במשתמש שמשתמש ב-PowerShell מרוחק (RPS).
+המאפיין **HostedVoicemail** על המשתמש באמצעות PowerShell מרוחק (RPS).
 
-לקבלת מידע נוסף אודות התחברות ל-RPS, ראה [מבט כולל על Microsoft teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) לקבלת מידע נוסף אודות התחברות ל-RPS.
+לקבלת מידע נוסף אודות התחברות ל- RPS, [ראה Microsoft Teams PowerShell מבט](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) כולל לקבלת מידע נוסף אודות התחברות ל- RPS.
 
-1. מנהל הצוותים אמור להיות מחובר ל-PowerShell מרוחק עבור Teams.
-1. מ-PowerShell הצג בקשה למנהל הצוותים להפעיל את **set-csuser user@contoso.com-HostedVoiceMail $true** שבו המשתמש של sip הוא המשתמש הנדון.
+1. מנהל Teams צריך להיכנס ל- PowerShell מרוחק עבור Teams.
+1. מ- PowerShell, Teams מנהל המערכת יכול להפעיל **את set-csuser user@contoso.com -HostedVoiceMail $true** שבו sip uri הוא של המשתמש הנוהל.
 
 > [!NOTE]
-> שינויים בפריטי מדיניות יכולים להימשך עד 24 שעות כדי לשכפל.
+> השכפול של שינויים במדיניות עשוי לאסוף עד 24 שעות.

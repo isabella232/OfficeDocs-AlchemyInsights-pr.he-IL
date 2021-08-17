@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: 7009dcf86da9d8a3fc8ea2f90ecbff3487f3fc59
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 4c3bdd6ff2428be9c0b8f5d39934d44c76a26d97da2eabf5b74bc528a6db5b1c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569688"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890811"
 ---
 # <a name="add-a-user"></a>הוספת משתמש
 
@@ -28,4 +28,4 @@ ms.locfileid: "52569688"
 
 3. בצע את האשף כדי להוסיף פרטי משתמש, רשיונות pProduct, תפקידים אופציונליים ומידע פרופיל.
 
-לקבלת מידע נוסף, ראה [הוסף משתמשים בנפרד או בצובר](/microsoft-365/admin/add-users/add-users).
+לקבלת מידע נוסף, ראה [הוסף משתמשים בנפרד או בצובר](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).

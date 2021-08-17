@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931198"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890759"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>ביטול המנוי Microsoft 365 שלך?
 
@@ -31,6 +31,6 @@ ms.locfileid: "53931198"
 3. בחלונית **ביטול** מנוי, בחר סיבה לביטול. לחלופין, ספק משוב כלשהו.
 4. לחץ **שמור**.
 
-כדי ללמוד עוד אודות ביטול מנוי או אפשרויות, ראה [ביטול המנוי שלך.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+כדי לקבל מידע נוסף על ביטול מנוי או אפשרויות, ראה [ביטול המנוי שלך.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-אם אתה רוצה להמשיך להשתמש במנוי שלך למשך תקופת הניסיון, באפשרותך לבטל חיוב חוזר עבור המנוי. כדי ללמוד כיצד לעשות זאת, [ראה חידוש Microsoft 365 לעסקים](/microsoft-365/commerce/subscriptions/renew-your-subscription).
+אם אתה רוצה להמשיך להשתמש במנוי שלך למשך תקופת הניסיון, באפשרותך לבטל חיוב חוזר עבור המנוי. כדי ללמוד כיצד לעשות זאת, [ראה חידוש Microsoft 365 לעסקים](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
