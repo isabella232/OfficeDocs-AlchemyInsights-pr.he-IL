@@ -14,16 +14,16 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310932"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895708"
 ---
 # <a name="payment-faq"></a>שאלות נפוצות בנושא תשלום
 
-ניהול תשלומים ב- **מרכז הניהול של Microsoft 365**.
+ניהול תשלומים **ב- מרכז הניהול של Microsoft 365**.
 
 - עבור אל **חיוב > [המוצרים שלך כדי](https://go.microsoft.com/fwlink/p/?linkid=842054)** להקצות או לשנות שיטות תשלום של מנוי.
 - עבור אל **שיטות > תשלום כדי [להוסיף,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** לעדכן, להחליף או למחוק שיטות תשלום.

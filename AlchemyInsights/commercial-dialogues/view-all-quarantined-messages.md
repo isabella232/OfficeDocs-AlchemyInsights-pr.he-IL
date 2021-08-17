@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045133"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311400"
 ---
 # <a name="view-all-quarantined-messages"></a>הצגת כל ההודעות שהועברו להסגר
 
-1. במרכז הניהול, עבור אל מרכז האבטחה [& תאימות.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. עבור אל **ניהול איומים**  >  **סקור את**  >  **ההסגר.**
+1. בפורטל Microsoft 365 Defender <https://security.microsoft.com> ב- , עבור אל דואר אלקטרוני **& שיתוף פעולה סקירה** \>  \> **הסגר**.
+
+   כדי לעבור ישירות לדף **ההסגר,** השתמש <https://security.microsoft.com/quarantine> ב- .
+
+2. בדף **ההסגר,** ודא **שהכרטיסייה דואר** אלקטרוני נבחרה.
 3. כברירת מחדל, הודעות ממוינות מהחדש ביותר לי ישן ביותר בהתבסס על תאריך קבלת ההודעה. באפשרותך למיין לפי שדה על-ידי לחיצה על כותרת עליונה.
 4. באפשרותך לבצע פעולות בצובר רק עבור עד 100 פריטים, כך שמסנן יכול גם לסייע בצמצום ערכת התוצאות אם יש לך יותר מ- 100 פריטים.
+
+לקבלת מידע נוסף, עיין במאמרים הבאים:
+
+- [חיפוש ופרסום של הודעות בהסגר כמשתמש](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [ניהול הודעות וקבצים בהסגר כמנהל מערכת](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

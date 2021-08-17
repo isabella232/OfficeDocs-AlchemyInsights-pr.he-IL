@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
-ms.openlocfilehash: a6ffa3a8bbed64194620ae82edf149be91efc42b0e34ed6a05f7ca03478a8697
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea911e83d9b4cb21ae72187a69f89e491b7131a87eafb37dbc53e31e0ab9ee10
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909683"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890399"
 ---
 # <a name="subscription-no-longer-active"></a>המנוי כבר לא פעיל
 
@@ -32,4 +32,4 @@ ms.locfileid: "53909683"
 3. בחלונית **הפעל מחדש מנוי זה,** בחר שיטת תשלום מהרשימה הנפתחת, או בחר הוסף שיטת **תשלום**.
 4. לחץ **שמור**.
 
-לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

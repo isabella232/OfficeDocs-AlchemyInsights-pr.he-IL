@@ -1,5 +1,5 @@
 ---
-title: 2637 עקוף סינון דואר זבל כדי לאפשר הודעות ספציפיות?
+title: 2637 עקוף סינון הודעות זבל כדי לאפשר הודעות ספציפיות?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059561"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>עקוף סינון דואר זבל כדי לאפשר הודעות ספציפיות?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>האם לעקוף סינון הודעות זבל כדי לאפשר הודעות ספציפיות?
 
-אנו ממליצים על [זהירות](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) בעת יצירת רשימת ההיתרים. לדוגמה, אם תאפשר תחום משלך, שולחים זדוניים יוכלו לזייף ולשלוח כתחום שלך.  במקום זאת, אנו ממליצים על [מדריך לפתרון בעיות חיובי false](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)זה, שיסייע לך לקבוע מדוע הודעה חוקית סומנה כהודעת זבל, ומה ניתן לעשות כדי לאפשר העברה בטוחה של ההודעה.
+מומלץ [להיזהר](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) בעת יצירת רשימת התרות. לדוגמה, אם תאפשר תחום משלך, שולחים זדוניים יוכלו להזדהות ולשלוח כתחום שלך.  במקום זאת, אנו ממליצים על מדריך זה לפתרון בעיות של תוצאות חיוביות [שגויות](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), שיסייע לך לקבוע מדוע הודעה לגיטימית סומנה כספאם, ומה ניתן לעשות כדי לאפשר מסירה בבטחה של ההודעה.

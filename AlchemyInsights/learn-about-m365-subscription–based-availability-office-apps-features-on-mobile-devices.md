@@ -1,5 +1,5 @@
 ---
-title: קבל מידע על מנוי Microsoft 365 – זמינות מבוססת של התכונות של יישומי Office במכשירים ניידים
+title: קבל מידע Microsoft 365 זמינות מבוססת מנוי של תכונות Office יישומים במכשירים ניידים
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49678705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087425"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>קבל מידע על מנוי Microsoft 365 – זמינות מבוססת של התכונות של יישומי Office במכשירים ניידים
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>קבל מידע Microsoft 365 זמינות מבוססת מנוי של תכונות Office יישומים במכשירים ניידים
 
-כל התוכניות של Microsoft 365 מאפשרות לך להציג מסמכים ב-Word, Excel, PowerPoint ו-OneNote במכשירים ניידים של iOS, Android ו-Windows. עם זאת, הזמינות של התכונות והקבצים של יישומים אלה תלויה במנוי שלך-תוכנית מוקדמות של Microsoft 365 או תוכנית שאינה מאפשרת זכאות, או רכישה חד-פעמית של Office – וגודל המסך של מכשיר נייד.
+כל Microsoft 365 שלך יתנו לך להציג מסמכים ב- Word, Excel, PowerPoint ו- OneNote ב- iOS, Android ובמכשירים Windows ניידים. עם זאת, הזמינות של תכונות וקבצים אלה של יישומים אלה תלויה במנוי שלך - תוכנית Microsoft 365 או תוכנית לא זכאית, או רכישה של Office - ובגודל המסך של מכשיר נייד.
 
-לקבלת מידע נוסף, ראה [מה ניתן לעשות באפליקציות Office במכשירים ניידים באמצעות מנוי של Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2135575). 
+כדי ללמוד עוד, [ראה מה ניתן לעשות באפליקציות Office במכשירים ניידים עם מנוי Microsoft 365 .](https://go.microsoft.com/fwlink/?linkid=2135575) 

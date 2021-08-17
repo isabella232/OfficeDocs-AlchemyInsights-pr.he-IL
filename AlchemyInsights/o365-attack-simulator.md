@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065285"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895792"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Simulator ב- Microsoft 365
 
 - האם חסר לך Attack Simulator? Attack Simulator דורש **ש- Microsoft Defender Office 365 תוכנית 2** **או Office 365 Enterprise E5.** Attack Simulator **אינו כלול** ב- Microsoft Defender עבור Office 365 1, Office 365 Enterprise E3 או כל יישומי Microsoft 365 לעסקים מנויים.
 
-- החשבון המשמש להפעלת התקפות מדומה דורש הרשאות כלליות של מנהל מערכת או מנהל אבטחה ואימות רב-גורמי (MFA). לקבלת מידע נוסף אודות דרישות Attack Simulator, עיין [בנושא זה](/microsoft-365/security/office-365-security/attack-simulator).
+- החשבון המשמש להפעלת התקפות מדומה דורש הרשאות כלליות של מנהל מערכת או מנהל אבטחה ואימות רב-גורמי (MFA). לקבלת מידע נוסף אודות דרישות Attack Simulator, עיין [בנושא זה](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - דברים חשובים שיש לדעת על **סימולציות התקפה של** סיסמה בכוח גס:
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065285"
 
   - כברירת מחדל, לא ניתן לספק ערך מותאם אישית עבור כתובת URL **של שרת כניסה של דיוג**.
 
-  - אם נמען [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) משתמש התוספת הפוך את התוספת 'הודעת דוח' לזמינה הדוח ההודעה כדיווג, ייתכן שלא תקבל התראות עבור ההודעה (מאחר זוהי התקפה מדומה).
+  - אם נמען [](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) משתמש התוספת הפוך את התוספת 'הודעת דוח' לזמינה הדוח ההודעה כדיווג, ייתכן שלא תקבל התראות עבור ההודעה (מאחר זוהי התקפה מדומה).
 
 - דוחות: לאחר השלמת התקיפה המדומה, באפשרותך ללחוץ על פרטי **התקפה** כדי לראות את הדוח.
 
-- לקבלת הוראות מפורטות ותכונות חדשות בסימולטור התקפה, ראה [סימולטור התקפה Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).
+- לקבלת הוראות מפורטות ותכונות חדשות בסימולטור התקפה, ראה [סימולטור התקפה Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)

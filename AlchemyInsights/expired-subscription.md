@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029733"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895888"
 ---
 # <a name="expired-subscription"></a>מנוי שפג תוקפו
 
@@ -35,7 +35,7 @@ ms.locfileid: "54029733"
 3. בחלונית **הפעל מחדש מנוי זה,** בחר שיטת תשלום מהרשימה הנפתחת, או בחר הוסף שיטת **תשלום**.
 4. לחץ **שמור**.
 
-לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **בצע רכישה חדשה**
   
@@ -44,4 +44,4 @@ ms.locfileid: "54029733"
 3. הזן את מספר הרשיונות הדרושים ובחר אם לשלם מדי חודש או עבור שנה שלמה. בחר אם ברצונך להקצות רשיונות באופן אוטומטי לכל המשתמשים שאין להם כעת רשיון. לאחר מכן **בחר בדוק כעת**.
 4. בצע את השלבים הנותרים כדי להשלים את ההושלמה.
 
-כדי ללמוד עוד, ראה [קניית מנוי אחר.](/microsoft-365/commerce/buy-another-subscription)
+כדי ללמוד עוד, ראה [קניית מנוי אחר.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)
