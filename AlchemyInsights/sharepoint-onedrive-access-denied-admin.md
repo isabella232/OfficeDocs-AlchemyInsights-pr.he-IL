@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות בהודעות של Access שנדחו
+title: פתרון בעיות Access הודעות שנדחתה
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 3189fa61d28253569278024d4191ee63b917509f
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9acde72f82a27c9f2faa2cf4d0417374aa5a294234da96080dc0498d07639248
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085229"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>פתרון בעיות בהודעות של Access שנדחו במרכז הניהול של Sharepoint/OneDrive
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>פתרון Access הודעות שנדחתה ב- Sharepoint/OneDrive הניהול של Sharepoint
 
-אם אתה מקבל הודעת גישה שנדחתה בעת ניסיון לנווט למרכז הניהול של Sharepoint/OneDrive, ודא שאתה [מקצה רשיון למשתמש](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). אם למשתמש יש רשיון, עליך גם לוודא שהוא [מוקצה לתפקיד מנהל מערכת](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) שיכול לגשת למרכזי הניהול.
+אם אתה מקבל הודעה שנדחתה על-ידי גישה בעת ניסיון לנווט אל מרכז הניהול של Sharepoint/OneDrive, הקפד להקצות [רשיון למשתמש](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). אם למשתמש יש רשיון, עליך גם לוודא שהוקצה לו תפקיד [מנהל מערכת](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) שיש לו אפשרות לגשת למרכזי הניהול.
 
-בעיה זו עלולה להתרחש גם כאשר משתמש נמחק ונוצר מחדש עם אותו שם ראשי של המשתמש (UPN). החשבון החדש נוצר באמצעות ערך שונה של PUID (מזהה ייחודי של Passport). כאשר המשתמש מנסה לגשת לאוסף אתרים או לOneDrive שלו, למשתמש יש PUID שגוי. תרחיש נוסף כולל סינכרון מדריכי כתובות עם יחידה ארגונית של Active Directory (OU). אם המשתמשים כבר נכנסו ל-SharePoint ולאחר מכן מועברים ל-OU אחר ומסונכרנים מחדש ב-SharePoint, הם עשויים להיתקל בבעיה זו.
+בעיה זו עשויה להתרחש גם כאשר משתמש נמחק וניווצר מחדש עם אותו שם ראשי של משתמש (UPN). החשבון החדש נוצר באמצעות ערך PUID אחר (מזהה ייחודי של Passport). כאשר המשתמש מנסה לגשת לאוסף אתרים או OneDrive, למשתמש יש מזהה PU שגוי. תרחיש שני כרוך בסינכרון מדריכי כתובות עם יחידה ארגונית של Active Directory (OU). אם המשתמשים כבר מחוברים ל- SharePoint, ולאחר מכן מועברים ל- OU אחר ומסונכרןים מחדש עם SharePoint, הם עשויים להיתקל בבעיה זו.
 
-כדי לפתור בעיה זו, עליך לשחזר את ה-UPN המקורי בשלבים המפורטים במאמר, [לשחזר משתמש ב-Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+כדי לפתור בעיה זו, עליך לשחזר את UPN המקורי עם השלבים במאמר, [שחזר משתמש ב- Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
 
-הערה: אם מרכז הניהול של OneDrive או SharePoint אינו זמין למשתמשים מרובים שהיו ברשותם גישה בעבר, ייתכן שקיימת בעיה של שירות זמני.  [בדוק את לוח המחוונים של תקינות השירות](https://portal.office.com/adminportal/home#/servicehealth).
+הערה: אם מרכז OneDrive או SharePoint מנהל מערכת אינו זמין למשתמשים מרובים שהיו להם גישה בעבר, ייתכן שיש בעיית שירות זמנית.  [בדוק את לוח המחוונים של תקינות השירות](https://portal.office.com/adminportal/home#/servicehealth).
 
 

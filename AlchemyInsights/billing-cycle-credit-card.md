@@ -16,17 +16,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: b95eb4eb201777852bab3ff5347ace99d544307a1859c1044c150ee368bd9400
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7a8433fee737a3b666ba4701daa573a2423870fbbc5bae9d60ca7e5df226b843
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499621"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895380"
 ---
 # <a name="payment-methods-for-microsoft-for-business"></a>שיטות תשלום עבור Microsoft לעסקים
 
 בעת רכישת מנוי Microsoft 365 עבור העסק ישירות מ- Microsoft, באפשרותך לשלם באמצעות כרטיס אשראי או חיוב. במדינות או באזורים מסוימים, באפשרותך גם לשלם באמצעות חשבון בנק.
   
-אם תבחר להשתמש בכרטיס אשראי כאמצעי התשלום שלך, תוכל ללמוד כיצד לנהל ולפתור בעיות מתוך ניהול [שיטות תשלום.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+אם תבחר להשתמש בכרטיס אשראי כאמצעי התשלום שלך, תוכל ללמוד כיצד לנהל ולפתור בעיות מתוך ניהול [שיטות תשלום.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
   
 מאמר זה כולל גם הצעות לפתרון בעיות כאשר כרטיס האשראי שלך נדחה ומידע על שינוי פרטי כרטיס אשראי כך שהכרטיס יתקבלו.

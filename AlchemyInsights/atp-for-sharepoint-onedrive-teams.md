@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 9051fb44d7d6bde388d279b3311627848b6f499e30b5eca00d6a47cef105fb77
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d0fff3e699d46af2a19a8ad60696b824bafa109
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53997135"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314963"
 ---
 # <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender עבור Office 365 עבור SharePoint, OneDrive ו- Microsoft Teams
 
@@ -24,12 +24,12 @@ ms.locfileid: "53997135"
 
 1. עבור אל [https://protection.office.com](https://protection.office.com) והירשם באמצעות חשבון מנהל מערכת כללי או מנהל אבטחה.
 
-2. בחלונית הניווט הימנית תחת **ניהול איומים**, בחר  \> **מדיניות כספת קבצים מצורפים**.
+2. בחלונית הניווט הימנית תחת **ניהול איומים**, בחר **מדיניות** \> **כספת קבצים מצורפים**.
 
-3. בחר **הפעל את Defender עבור Office 365 עבור SharePoint, OneDrive ו- Microsoft Teams.**
+3. בחר **הפעל את Defender עבור Office 365 עבור SharePoint, OneDrive ו- Microsoft Teams**.
 
-4. [צור מדיניות התראת פעילות](/microsoft-365/compliance/create-activity-alerts) כדי לקבל הודעות כאשר אנו מזהים קבצים זדוניים.
+4. [צור מדיניות התראת פעילות](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) כדי לקבל הודעות כאשר אנו מזהים קבצים זדוניים.
 
-לקבלת הוראות מלאות, ראה [הפעלת כספת קבצים מצורפים עבור SharePoint, OneDrive ו- Microsoft Teams.](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
+לקבלת הוראות מלאות, ראה [הפעלת כספת קבצים מצורפים עבור SharePoint, OneDrive ו- Microsoft Teams.](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
 
-**הערה**: על-ידי עיצוב, Microsoft Defender Office 365 אינו סורק כל קובץ בודד ב- SharePoint Online, OneDrive for Business או Microsoft Teams. קבצים נסרקים באופן אסינכרוני על-ידי תהליך המשתמש בפעילות שיתוף, בפעילות אורח ובסימנים של איום לזיהוי קבצים זדוניים. לקבלת מידע נוסף, [ראה כספת קבצים מצורפים עבור SharePoint, OneDrive ו- Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**הערה**: על-ידי עיצוב, Microsoft Defender עבור Office 365 אינו סורק כל קובץ בודד ב- SharePoint Online, OneDrive for Business או Microsoft Teams. קבצים נסרקים באופן אסינכרוני על-ידי תהליך המשתמש בפעילות שיתוף, בפעילות אורח ובסימנים של איום לזיהוי קבצים זדוניים. לקבלת מידע נוסף, [ראה כספת קבצים מצורפים עבור SharePoint, OneDrive ו- Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).

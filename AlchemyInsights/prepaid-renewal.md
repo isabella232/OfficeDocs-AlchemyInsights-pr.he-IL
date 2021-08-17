@@ -15,22 +15,21 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: 5b1a2e169d6613d71ef52bcdf6bec2b5206dee2e486fddb150dd288d402a855f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502861"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314529"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>חידוש Microsoft 365 מראש
 
 1. במרכז הניהול, עבור אל הדף **חיוב** \> **[המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054)** שלך.
 2. בכרטיסיה **מוצרים,** בחר את המנוי שברצונך להרחיב.
-3. בדף פרטי המנוי, במקטע הגדרות **מנוי ותשלום,** בחר הרחב **את תאריך הסיום**.
+3. בדף פרטי המנוי, במקטע הגדרות **מנוי ותשלום,** בחר הרחב **את תאריך הסיום.**
 4. בדף חידוש **או הוספה של רשיונות משתמשים,** בחר **השתמש במפתח מוצר חדש** ולא בשימוש ולאחר מכן בחר **הבא**.
 5. הזן את מפתח המוצר ולאחר מכן בחר **הבא**.
-    > [!NOTE]
-    > אם יש לך יותר ממפתח מוצר אחד, באפשרותך לבחור **הוסף מפתח מוצר אחר כדי** להזין אותו.
+    **הערה**: אם יש לך יותר ממפתח מוצר אחד, באפשרותך לבחור הוסף **מפתח מוצר אחר כדי** להזין אותו.
 6. סקור את פרטי ההזמנה ולאחר מכן בחר **ממש**.
 
-לקבלת מידע נוסף, [ראה הוספת רשיונות למנוי](/microsoft-365/commerce/licenses/add-licenses-using-product-key)ששולם עבור שימוש במפתח מוצר.
+לקבלת מידע נוסף, [ראה הוספת רשיונות למנוי](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)ששולם עבור שימוש במפתח מוצר.
