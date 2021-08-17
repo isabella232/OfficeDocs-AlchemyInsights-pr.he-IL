@@ -1,5 +1,5 @@
 ---
-title: הצגת דוחות על פעילות ושימוש ב-OneDrive
+title: הצגת דוחות OneDrive פעילות ושימוש
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 7f37a4061b9d958c68157281ea65035112bdf618
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: b835fb60c57c51b57b59d6d4bd0d1879f20c2b949d16619a5dcb924d4d66e194
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974563"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037321"
 ---
-# <a name="view-reports-on-onedrive-activity-and-usage"></a>הצגת דוחות על פעילות ושימוש ב-OneDrive
+# <a name="view-reports-on-onedrive-activity-and-usage"></a>הצגת דוחות OneDrive פעילות ושימוש
 
-עבור אל [הדף דוחות שימוש במרכז הניהול של Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). תחת **בחר דוח**, בחר את הפעילות של OneDrive או את דוח השימוש.
+עבור אל [הדף דוחות שימוש מרכז הניהול של Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). תחת **בחר הדוח**, בחר את OneDrive הפעילות או השימוש הדוח.
 
-לקבלת מידע נוסף, ראה [אודות דוחות OneDrive](https://go.microsoft.com/fwlink/?linkid=875239).
+לקבלת מידע נוסף, ראה [אודות OneDrive דוחות](https://go.microsoft.com/fwlink/?linkid=875239).
