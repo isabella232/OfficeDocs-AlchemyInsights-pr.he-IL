@@ -1,5 +1,5 @@
 ---
-title: תחילת העבודה עם Microsoft Search ב- Bing
+title: תחילת העבודה עם חיפוש של Microsoft ב- Bing
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9260"
-ms.openlocfilehash: f7ae2b7bf9349f4a5d31b4c8dad20be4948f478e
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a5d506a0784200c2e11d338a3b973128748785474bc957b8f75f67a72324503b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404918"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079307"
 ---
-# <a name="get-started-with-microsoft-search-in-bing"></a>תחילת העבודה עם Microsoft Search ב- Bing
+# <a name="get-started-with-microsoft-search-in-bing"></a>תחילת העבודה עם חיפוש של Microsoft ב- Bing
 
-אם הארגון שלך חדש ב- Microsoft Search ב- Bing, אנו ממליצים לך לסקור את מדריך Microsoft Search ב- [Bing Admin Essentials](https://go.microsoft.com/fwlink/p/?linkid=2127979), המספק מידע אודות הגדרה, קביעת תצורה ופריסה של Microsoft Search ב- Bing.
+אם הארגון שלך חדש ב- חיפוש של Microsoft ב- Bing, אנו ממליצים לך [לסקור את חיפוש של Microsoft במדריך יסודות](https://go.microsoft.com/fwlink/p/?linkid=2127979)הניהול של Bing , המספק מידע אודות הגדרה, קביעת תצורה ופריסה של חיפוש של Microsoft ב- Bing.
 
-כדי להגביר את המודעות של המשתמשים שלך ל- Microsoft Search ב- Bing, הפנה אותם אל ערכת האימוץ [שלנו](https://go.microsoft.com/fwlink/p/?LinkID=2114710) ( קובץ .zip), המספק משאבי הדרכה ותקשורת.
+כדי להגביר את המודעות של המשתמשים שלך חיפוש של Microsoft ב- Bing, עיין בערכות האימוץ [שלנו](https://go.microsoft.com/fwlink/p/?LinkID=2114710) (קובץ .zip), המספק משאבי הדרכה ותקשורת.
 
-לקבלת מידע נוסף וכלים, [ראה כיצד לשפר את Microsoft Search בתוצאות Bing עבור הארגון שלך.](https://go.microsoft.com/fwlink/?linkid=2152022)
+לקבלת מידע נוסף וכלים, [ראה כיצד לשפר חיפוש של Microsoft תוצאות Bing עבור הארגון שלך](https://go.microsoft.com/fwlink/?linkid=2152022).

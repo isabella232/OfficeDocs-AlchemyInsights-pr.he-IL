@@ -1,5 +1,5 @@
 ---
-title: כניסה ל- Microsoft Edge באופן ידני
+title: היכנס ל- Microsoft Edge באופן ידני
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -15,18 +15,18 @@ ms.custom:
 - "6893"
 - "8332"
 - "9004625"
-ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: f9aa27a585d805360e1fadecfd0db3b11d15a3594ed5bd5dc6c68cec37a4d6a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398658"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050767"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>כניסה ל- Microsoft Edge באופן ידני
+# <a name="sign-in-to-microsoft-edge-manually"></a>היכנס ל- Microsoft Edge באופן ידני
 
 אם משתמש אינו מחובר באופן אוטומטי במהלך חוויית הפעלה ראשונה, המשתמש יכול להיכנס באופן ידני דרך הגדרות הדפדפן או את התדפיס נשלף הזהות. כדי לנהל את הכניסה, השתמש במדיניות הבאה:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - כדי להבטיח שלמשתמש יש תמיד פרופיל עבודה ב- Microsoft Edge.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - כדי להבטיח שלמשתמש יש תמיד פרופיל עבודה Microsoft Edge.
 2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - כדי להגביל את הכניסה לערכה של חשבונות מהימנים.
 3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) - כדי להפוך את הכניסה ללא זמינה או לכפות על המשתמשים להיכנס.
 
