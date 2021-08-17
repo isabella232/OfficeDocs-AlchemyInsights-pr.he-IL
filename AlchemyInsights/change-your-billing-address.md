@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 133b4dab80a69c7c47e1193e6109551ca665552fbf9168dde8be14096336efe5
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498973"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898893"
 ---
 # <a name="change-your-billing-address"></a>שינוי כתובת החיוב שלך
 
@@ -35,7 +35,7 @@ ms.locfileid: "54498973"
 3. בדף פרטי **שיטת תשלום,** לחץ על **ערוך**.
 4. עדכן את כתובת החיוב ולאחר מכן לחץ **על > בוצע**.
 
-לקבלת מידע נוסף אודות שינויים בכתובת ובהודעות, [ראה שינוי כתובות החיוב שלך עבור Microsoft 365 לעסקים](/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+לקבלת מידע נוסף אודות שינויי כתובת והודעות, [ראה שינוי כתובות החיוב שלך עבור Microsoft 365 לעסקים](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
 **שינוי פרטי חשבון החיוב**
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116729"
 ---
 # <a name="get-a-list-of-enterprise-applications"></a>קבל רשימה של יישומים ארגוניים
 
@@ -52,9 +52,9 @@ ms.locfileid: "51404931"
 
 7. **צריך לייצא רשימה של יישומים של Azure שלא נוסו** – ביקורת הדוח
 
-    Azure AD יכול להציג יומני יישומים עבור עד 30 יום בלבד בתנאי שיש לך רשיון Azure AD Premium.
+    Azure AD יכול להציג יומני יישומים עבור עד 30 יום בלבד בתנאי שיש לך רשיון Azure AD Premium רשיון.
     יש לך שתי אפשרויות לשמור את הנתונים במשך יותר מ- 30 יום. באפשרותך להשתמש ב- [API של דיווח Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) כדי לאחזר את הנתונים באופן תיכנותי ולאחסן אותם במסד נתונים. לחלופין, באפשרותך לשלב יומני ביקורת במערכת סיאם של ספקים שלישיים.
 
     באפשרותך גם להוריד את רשימת היישומים עבור כל היישומים והיישומים שבבעלותם תחת Azure Active directory>רישום יישומים>הורד>כל היישומים/יישומים בבעלות.
 
-    כדי לקבל רשימה של יישומים באמצעות MS Graph, ראה רשימת יישומים [- Microsoft Graph v1.0 וסוג](https://docs.microsoft.com/graph/api/application-list) משאב יישום - Microsoft [Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).
+    כדי לקבל רשימה של יישומים באמצעות MS Graph, ראה רשימה של יישומים [- Microsoft Graph v1.0 וסוג](https://docs.microsoft.com/graph/api/application-list) משאב יישום - Microsoft Graph [v1.0](https://docs.microsoft.com/graph/api/resources/application).

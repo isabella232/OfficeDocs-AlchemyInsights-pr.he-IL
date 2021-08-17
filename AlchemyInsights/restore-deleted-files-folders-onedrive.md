@@ -1,5 +1,5 @@
 ---
-title: שחזור קבצים או תיקיות שנמחקו ב-OneDrive
+title: שחזור קבצים או תיקיות שנמחקו ב- OneDrive
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3172"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 619c796dc1675cea33186d12af9df60adf2aaf31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b02cc8ce9bfe9c87b23d17aba0809a28cc558390812473914d378d60ea30a660
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109817"
 ---
-# <a name="restore-deleted-files-or-folders-in-onedrive"></a>שחזור קבצים או תיקיות שנמחקו ב-OneDrive
+# <a name="restore-deleted-files-or-folders-in-onedrive"></a>שחזור קבצים או תיקיות שנמחקו ב- OneDrive
 
-אם תמחק בטעות קובץ או תיקיה ב-OneDrive, ייתכן שתוכל לשחזר אותו מאוחר יותר מסל המיחזור של OneDrive.
+אם מחקת בטעות קובץ או תיקיה OneDrive, ייתכן שתוכל לשחזר אותו מאוחר יותר מסל OneDrive המיחזור.
 
-* [שחזור קבצים או תיקיות שנמחקו ב-OneDrive](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
+* [שחזור קבצים או תיקיות שנמחקו ב- OneDrive](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-אם הרבה מקבצי OneDrive שלך נמחקים, הוחלפו, נפגמו או נגועים על-ידי תוכנות זדוניות, באפשרותך לשחזר את הOneDrive כולה למועד קודם.
+אם קבצים רבים OneDrive נמחקים, מוחלפים, פגומים או נגועים בתוכנות זדוניות, באפשרותך לשחזר את כל OneDrive שלך לזמן קודם.
 
 * [שחזור OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
