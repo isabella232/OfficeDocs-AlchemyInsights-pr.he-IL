@@ -1,5 +1,5 @@
 ---
-title: שימוש בכלי הפריסה של Office
+title: שימוש בכלי Office הפריסה
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083771"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>שימוש בכלי הפריסה של Office (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>שימוש בכלי Office (ODT)
 
-השתמש בכלי הפריסה של Office (ODT) כדי לפרוס גירסאות office 365 של Office. כלי הפריסה של Office (setupodt.exe) מופעל משורת הפקודה ומשתמש בקובץ XML של תצורה כדי לקבוע אילו הגדרות להחיל בעת פריסת Office.
+השתמש בכלי הפריסה Office (ODT) כדי לפרוס גירסאות Office 365 של Office. כלי Office הפריסה (setup.exe) רץ משורת הפקודה ומשתמש בקובץ XML של תצורה כדי לקבוע אילו הגדרות יש להחיל בעת פריסת Office.
   
-1. הורד את הגירסה העדכנית ביותר של כלי הפריסה של Office [ממרכז ההורדות של Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. הורד את הגירסה העדכנית ביותר של כלי Office הפריסה ממרכז [ההורדות של Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. השתמש [בכלי ההתאמה האישית של Office (OCT)](https://config.office.com) כדי לבחור את העדפות הפריסה שלך וליצור את קובץ ה-XML של התצורה. יצא את קובץ התצורה ומקם אותו באופן מקומי באותה תיקיה שבה הsetupodt.exe נמצא.
+2. השתמש בכלי [Office אישית (OCT)](https://config.office.com) כדי לבחור את העדפות הפריסה וליצור את קובץ ה- XML של התצורה. ייצא את קובץ התצורה ומקום אותו באופן מקומי באותה תיקיה שבה setup.exe שוכנת.
 
-    **הערה:** בעיות התקנה של Office מתרחשות בדרך כלל עקב קבצי תצורה שתצורתם שגויה או malformatted. כדי למנוע בעיות מסוג זה, מומלץ להשתמש בכלי ההתאמה האישית של Office כדי ליצור את קובץ התצורה. באפשרותך גם לייבא קבצי תצורה קיימים לכלי ההתאמה האישית של Office.
+    **הערה:** Office בעיות התקנה נפוצות עקב קבצי תצורה שגויים או קבצי תצורה לא מעוצבים. כדי להימנע מבעיות כאלה, מומלץ להשתמש בכלי ההתאמה האישית Office כדי ליצור את קובץ התצורה. באפשרותך גם לייבא קבצי תצורה קיימים לתוך כלי Office אישית.
 
-3. מתוך שורת פקודה מוגבהת, עבור למיקום שבו setupodt.exe ממוקם והפעל את כלי הפריסה של Office במצב הורדה וציין את קובץ התצורה ששמרת זה עתה. בדוגמה זו, קובץ התצורה נקרא Configuration.xml:
+3. משורת פקודה עם הרשאות מלאות, עבור למיקום שבו setup.exe נמצא ולהפעיל את כלי הפריסה של Office במצב הורדה וציין את קובץ התצורה שזה עתה שמרת. בדוגמה זו, קובץ התצורה נקרא Configuration.xml:
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. הפעלת כלי הפריסה של Office במצב קביעת תצורה וציון קובץ התצורה.
+4.הפעל את כלי Office הפריסה במצב קביעת תצורה וציין את קובץ התצורה.
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**הערה:** עליך לבצע שלב זה ממחשב הלקוח שבו ברצונך להתקין את Office ועליך להיות בעל הרשאות מנהל מערכת מקומי במחשב זה.
+**הערה:** עליך להפעיל שלב זה ממחשב הלקוח שבו ברצונך להתקין את Office ועליה להיות לך הרשאות מנהל מערכת מקומיות במחשב זה.
 
-לקבלת מידע נוסף אודות השימוש בכלי הפריסה של Office עבור יישומי Microsoft 365 עבור תרחישי פריסה ארגוניים, ראה [מבט כולל על כלי הפריסה של office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). לקבלת פרטים נוספים אודות השימוש בכלי ההתאמה האישית של Office, ראה [מבט כולל על כלי ההתאמה האישית של office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+לקבלת מידע נוסף על השימוש Office פריסה עבור תרחישי הפריסה יישומי Microsoft 365 לארגונים, ראה מבט [כולל על כלי הפריסה של Office הפריסה](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). לקבלת פרטים נוספים אודות אופן השימוש בכלי ההתאמה האישית Office, ראה [מבט כולל על כלי ההתאמה האישית Office שלך](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

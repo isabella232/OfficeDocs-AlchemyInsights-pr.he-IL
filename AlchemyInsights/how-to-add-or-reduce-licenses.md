@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501817"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892196"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>הוספה או הסרה של רשיונות עבור המנוי שלך
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501817"
 4. כדי לקנות או להסיר רשיונות, תחת  כמות **חדשה** בתיבה סה"כ רשיונות, הזן את המספר הכולל של הרשיונות הרצוי עבור מנוי זה. לדוגמה, אם יש לך 100 רשיונות וברצונך להוסיף 25 רשיונות נוספים, הזן 125. אם ברצונך להסיר 25 רשיונות, הזן 75.
 5. לחץ **שמור**.
 
-לקבלת מידע אודות הקצאת רשיונות, ראה [הקצאת רשיונות למשתמשים](/microsoft-365/admin/manage/assign-licenses-to-users).
+לקבלת מידע אודות הקצאת רשיונות, ראה [הקצאת רשיונות למשתמשים](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 **משאבים**
   
-- [קניה או הסרה של רשיונות](/microsoft-365/commerce/licenses/buy-licenses)
-- [ביטול Microsoft 365 לעסקים](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [נסה או קנה מנוי Microsoft 365 עבור העסק](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [קניה או הסרה של רשיונות](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [ביטול Microsoft 365 לעסקים](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [נסה או קנה מנוי Microsoft 365 עבור העסק](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

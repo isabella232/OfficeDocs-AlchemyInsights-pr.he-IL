@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dc6445bcd77a37fd4040381491b96142f8cc6cdd1be6cb05dcfba0c4a9a55dc5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966794"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313428"
 ---
 # <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>הגדרת מדיניות למניעת דיוג ב- Microsoft Defender עבור Office 365
 
-1. עבור אל [Office 365 האבטחה & תאימות](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. בחר **מדיניות ניהול**  >  **איומים**. בדף **מדיניות,** בחר [Microsoft Defender עבור Office 365 דיוג](https://go.microsoft.com/fwlink/?linkid=2101369).
-3. בדף מניעת **דיוג, עשה** אחת מהפעולות הבאות:
-    1. כדי להוסיף מדיניות חדשה, בחר **+ צור**.
-    1. כדי לערוך מדיניות קיימת, בחר את שם המדיניות מהרשימה המוצגת בדף **למניעת דיוג.** בדף שמופיע, בחר **ערוך** לצד ההגדרה שברצונך לשנות. אשף יושק כדי לעזור לך להגדיר את מדיניות האנטי-דיוג שלך.
-4. אם אתה יוצר מדיניות חדשה, ציין את השם, התיאור וההגדרות עבור המדיניות שלך.
-5. לאחר סקירת ההגדרות, בחר צור מדיניות **זו או שמור** , בהתאם לצורך. 
+1. בפורטל Microsoft 365 Defender ב- , עבור אל מדיניות שיתוף פעולה & דואר אלקטרוני & כללים מדיניות איומים למניעת דיוג <https://security.microsoft.com/>  \>  \>  \>  **במקטע מדיניות.**
+
+   כדי לעבור ישירות לדף **למניעת דיוג,** השתמש <https://security.microsoft.com/antiphishing> ב- .
+
+2. בדף מניעת **דיוג, בצע** אחת מהפעולות הבאות:
+   - כדי להוסיף מדיניות חדשה, בחר **+ צור**. אשף יושק כדי לעזור לך להגדיר את הגדרות המדיניות שלך.
+   - כדי לערוך מדיניות קיימת, בחר את המדיניות על-ידי לחיצה על שם המדיניות. בתפריט נשלף של הפרטים שמופיע, בחר **ערוך** במקטע המכיל את ההגדרות שברצונך לקבוע את תצורתן.
+
+3. לאחר סקירת ההגדרות, בחר שלח **(חדש)** או **שמור** (ערוך).
+
+לקבלת מידע נוסף, ראה [קביעת תצורה של מדיניות למניעת דיוג ב- Microsoft Defender עבור Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-mdo-anti-phishing-policies)
