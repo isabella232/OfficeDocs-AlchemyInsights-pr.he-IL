@@ -1,5 +1,5 @@
 ---
-title: כיצד להתאים אישית הרשאות אתר SharePoint באמצעות קבוצות SharePoint
+title: כיצד להתאים אישית SharePoint אתר באמצעות SharePoint קבוצות
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3165"
-ms.openlocfilehash: 6141f801002aba0c74966eebe659a0228d2eda69
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b17c6f5798542c8b890332c1b3e5e3712fb484483b6dc461b7fa9fbcc757106d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079919"
 ---
-# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>כיצד להתאים אישית הרשאות אתר SharePoint באמצעות קבוצות SharePoint 
+# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>כיצד להתאים אישית SharePoint אתר באמצעות SharePoint קבוצות 
 
-קבוצת SharePoint היא אוסף של משתמשים שיש להם את אותה קבוצה של הרשאות לאתרים ולתוכן. במקום להקצות הרשאות לאדם אחד בכל פעם, באפשרותך להשתמש בקבוצות כדי להקצות בנוחות את אותה רמת הרשאה לאנשים רבים בו-זמנית.
+קבוצה SharePoint היא אוסף של משתמשים שיש להם את אותה קבוצת הרשאות עבור אתרים ותוכן. במקום להקצות הרשאות לאדם אחד בכל פעם, באפשרותך להשתמש בקבוצות כדי להקצות בנוחות את אותה רמת הרשאה לאנשים רבים בו-זמנית.
 
-[התאמה אישית של הרשאות אתר SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+[התאמה אישית SharePoint הרשאות אתר](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)

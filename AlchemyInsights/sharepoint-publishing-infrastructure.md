@@ -1,5 +1,5 @@
 ---
-title: תשתית פרסום של SharePoint
+title: SharePoint תשתית פרסום
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 03979fd238aecff0bfb54ab784997727c03fd7c2
-ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
+ms.openlocfilehash: 2ce3d5467d8582aa3a3216b0efbc73ead5570248c4da57e175e0d4decc326f1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49002666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051091"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>תשתית פרסום של SharePoint
+# <a name="sharepoint-publishing-infrastructure"></a>SharePoint תשתית פרסום
 
 > [!IMPORTANT]
-> אתרי תקשורת מודרניים אינם תומכים בתכונות הפרסום הקלאסיות הנקראות תשתית פרסום של SharePoint Server. בעת ניסיון להפעיל את התכונה עבור אתר תקשורת מודרני, תקבל שגיאה. אתרי תקשורת מודרניים מספקים חלופה חדשה יותר כברירת מחדל.
+> אתרי תקשורת מודרניים אינם תומכים בתכונות הפרסום הקלאסיות הידועות בשם SharePoint Server Publishing Infrastructure. בעת ניסיון להפעיל את התכונה עבור אתר תקשורת מודרני, תקבל שגיאה. אתרי תקשורת מודרניים מספקים חלופה חדשה יותר כברירת מחדל.
 
-עבור אתרים קלאסיים, SharePoint כולל ערכה קלאסית של תכונות המאפשרות לך לחבר ולפרסם דפי אינטרנט עשירים עבור האינטרא. הפעל את תשתית הפרסום של SharePoint ברמת אוסף האתרים כדי להפעיל אותן.
+עבור אתרים קלאסיים, SharePoint כוללת קבוצה קלאסית של תכונות המאפשרות לך לעורך ולפרסם דפי אינטרנט עשירים עבור האינטרא-נט שלך. הפעל את SharePoint תשתית הפרסום ברמת אוסף האתרים כדי להפעיל אותם.
 
-לקבלת מידע נוסף, ראה [הפיכת תכונות פרסום](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) [ותכונות פרסום](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553) לזמינות
+לקבלת מידע נוסף, ראה [הפיכת תכונות פרסום לזמינות](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) [ותכונות פרסום](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
