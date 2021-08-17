@@ -1,5 +1,5 @@
 ---
-title: כיצד ליצור או להעביר את ' טבעות עדכון '
+title: כיצד ליצור או להעביר טבעות עדכון
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078803"
 ---
-# <a name="how-to-create-or-migrate-update-rings"></a>כיצד ליצור או להעביר את ' טבעות עדכון '
+# <a name="how-to-create-or-migrate-update-rings"></a>כיצד ליצור או להעביר טבעות עדכון
 
-בצע את השלבים שלהלן אם קבעת את התצורה של הגדרות העדכון של Windows 10 בפורטל הקלאסי של ' שימוש בפורטל ', וברצונך להעביר אותן לתוכן הפורטל התכלת:
+בצע את השלבים הבאים אם הגדרת Windows 10 עדכון בפורטל הקלאסי Intune וברצונך להעביר אותן ל- Intune בפורטל Azure:
 
-1. עבור אל פורטל תכלת ולחץ על **כל השירותים**.
-2. בשדה **המסנן** , הקלד **intune**. בתוצאות, לחץ על **Microsoft intune**.
-3. לחץ על **עדכוני תוכנה**  >  **Windows 10 updates**  >  **creates**.
-4. הזן שם, תיאור ולחץ על **קבע תצורה**.
-5. קבע את תצורת הגדרות עדכוני התוכנה של הארגונים שלך.
+1. עבור אל פורטל Azure ולחץ על כל **השירותים.**
+2. בשדה **מסנן,** הקלד **Intune**. בתוצאות, לחץ על **Microsoft Intune**.
+3. לחץ **על עדכוני תוכנה** Windows 10  >  **עדכן טבעות**  >  **צור**.
+4. הזן שם, תיאור ולחץ על קביעת **תצורה.**
+5. קבע את תצורת הגדרות עדכון התוכנה של הארגונים שלך.
 6. בחר **אישור**.
-7. **בטבעת צור עדכון**, בחר **צור**.
+7. ביצירה **של עדכון טבעת**, בחר **צור**.
