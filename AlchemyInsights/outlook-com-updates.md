@@ -1,5 +1,5 @@
 ---
-title: עדכוני Outlook.com
+title: Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 811a694f6361a67d3f5e74299b144a922fdbeae74b84f8a065e3fe85db059087
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053503"
 ---
-# <a name="outlookcom-updates"></a>עדכוני Outlook.com
+# <a name="outlookcom-updates"></a>Outlook.com
 
 **העדכונים האחרונים**
 
-- קבל מידע נוסף מתוך הדואר האלקטרוני שלך באמצעות Outlook.com החדש. הצלחנו לבצע את החיפוש כדי להקל עליך יותר מאי פעם למצוא את מה שאתה מחפש. תכונות חדשות כגון תמונות ותצוגות מקדימות של קבצים מצורפים מאפשרות לך לראות את התמונות והקבצים שלך מבלי לצאת מתיבת הדואר הנכנס. וכעת באפשרותך להוסיף סמלי emoji ו-Gif להודעות שלך.  [קבל מידע נוסף על הOutlook.com החדש.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- קבל יותר מהודעת הדואר האלקטרוני שלך באמצעות Outlook.com. ייעלנו את החיפוש כדי להקל עליך למצוא את מה שאתה מחפש. תכונות חדשות, כמו תצוגות מקדימות של תמונות וקבצים מצורפים, יתנו לך לראות את התמונות והקבצים שלך מבלי לצאת מתיבת הדואר הנכנס. וכעת באפשרותך להוסיף סמלי Emojis ו- GIF להודעות שלך. [קבל מידע נוסף על Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
 **עדכוני דואר אלקטרוני**
 
-- אם תיבת הדואר שלך ב-Outlook.com אינה מתעדכנת, ראה [פתרון בעיות סינכרון של דואר אלקטרוני](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy)ב-Outlook.com.
+- אם תיבת הדואר Outlook.com אינה מתעדכנת, ראה פתרון [בעיות סינכרון דואר Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: df62d965e0dc2ddb656571af99b1e4c3cb52ea35
-ms.sourcegitcommit: 4b504650e11adb9894c37b6d8608b53f9d5fc13d
+ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676242"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887441"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>מחוונים לא פועלים באמצעות דפדפן Edge
 
-לאחר יצירת מחוון, הוא אינו מכובד על-ידי Edge (Smartscreen). לקבלת מידע נוסף, ראה [יצירת מחוונים עבור כתובות URL וכתובות URL/תחומים.](/microsoft-365/security/defender-endpoint/indicator-ip-domain)
+לאחר יצירת מחוון, הוא אינו מכובד על-ידי Edge (Smartscreen). לקבלת מידע נוסף, ראה [יצירת מחוונים עבור כתובות URL וכתובות URL/תחומים.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain)
 
 ## <a name="step-1-ensure-the-following"></a>שלב 1: ודא שהפעולות הבאות
 
@@ -34,8 +34,8 @@ ms.locfileid: "52676242"
 
 ## <a name="step-2-troubleshoot-the-potential-issue"></a>שלב 2: פתרון הבעיה הפוטנציאלית
 
-- ודא שהלקוח לעמוד בדרישות. לקבלת פרטים, ראה [יצירת מחוונים עבור כתובות URL וכתובות URL/תחומים](/microsoft-365/security/defender-endpoint/indicator-ip-domain).
-- ודא שאתה משתמש בגירסה העדכנית ביותר של דפדפן Edge. כדי לגלות את הגירסה העדכנית ביותר, [ראה גלה איזו גירסה Microsoft Edge שלך.](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb)
+- ודא שהלקוח לעמוד בדרישות. לקבלת פרטים, ראה [יצירת מחוונים עבור כתובות URL וכתובות URL/תחומים](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain).
+- ודא שאתה משתמש בגירסה העדכנית ביותר של דפדפן Edge. כדי לגלות את הגירסה העדכנית ביותר, [ראה גלה איזו גירסה של Microsoft Edge יש לך](https://support.microsoft.com/microsoft-edge/find-out-which-version-of-microsoft-edge-you-have-c726bee8-c42e-e472-e954-4cf5123497eb).
 - הפעל מחדש את דפדפן Edge.
 - נווט אל האתר שעבורו הגדרת מחוון. אם האתר אינו מופיע כצפוי, המשך לשלב 3. 
 
@@ -43,4 +43,4 @@ ms.locfileid: "52676242"
 
 - איסוף **נתוני אבחון של MDEClientAnalyzer.** לקבלת הוראות, ראה [בעיות עם מחשבים ל- Microsoft Defender עבור נקודת קצה.](issues-with-onboarding-machines.md)
 - אם אתה מרגיש בנוח להתקין ולאסוף מעקב אחר Fiddler, ראה [Telerik Fiddler](http://www.telerik.com/fiddler).
-- אם אתה מעדיף הדרכה מהתמיכה של Microsoft, בחר את סמל התמיכה להלן כדי לפתוח מקרה תמיכה.
+- אם אתה מעדיף הדרכה מהתמיכה של Microsoft, בחר את סמל התמיכה שלהלן כדי לפתוח מקרה תמיכה.

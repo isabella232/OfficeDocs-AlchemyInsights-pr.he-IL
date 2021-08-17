@@ -12,17 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 206c5c8889e88efa792f2fae686da040c5ec94d3f4bb495a5ac5cca59e455e64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058543"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888371"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>הגדרת מדיניות כספת קבצים מצורפים ב- Microsoft Defender עבור Office 365
 
-1. עבור אל [מרכז Office 365 אבטחה &](https://go.microsoft.com/fwlink/p/?linkid=2077143) ובחר מדיניות ניהול **איומים**  >    >  **כספת קבצים מצורפים**.
-2. כדי להפוך תכונה זו לזמינה עבור עומסי עבודה אחרים, בחר הפעל את Microsoft Defender עבור Office 365 עבור **SharePoint Online, OneDrive ו- Microsoft Teams.**
-3. כדי ליצור מדיניות חדשה, בחר את **סמל חדש** ( **+** ) .
-4. ציין את השם, התיאור וההגדרות עבור המדיניות.
-5. לחץ **שמור**.
+1. בפורטל Microsoft 365 Defender , עבור אל מדיניות שיתוף פעולה & דואר אלקטרוני & כללי מדיניות איום כספת קבצים <https://security.microsoft.com/>  \>  \>  \>  **מצורפים במקטע מדיניות.**
+
+   כדי לעבור ישירות לדף **כספת קבצים מצורפים,** השתמש <https://security.microsoft.com/safeattachmentv2> ב- .
+
+2. בדף כספת **קבצים מצורפים,** בצע אחת מהפעולות הבאות:
+   - כדי להוסיף מדיניות חדשה, בחר **+ צור**. אשף יושק כדי לעזור לך להגדיר את הגדרות המדיניות שלך.
+   - כדי לערוך מדיניות קיימת, בחר את המדיניות על-ידי לחיצה על שם המדיניות. בתפריט נשלף של הפרטים שמופיע, בחר **ערוך** במקטע המכיל את ההגדרות שברצונך לקבוע את תצורתן.
+   - כדי להפעיל או לבטל את כספת קבצים מצורפים עבור SharePoint, OneDrive ו- Microsoft Teams, לחץ על **הגדרות כלליות**, הפעל או בטל את ההגדרה ולאחר מכן לחץ על **שמור**.
+
+3. לאחר סקירת ההגדרות, בחר שלח **(חדש)** או **שמור** (ערוך).
+
+לקבלת מידע נוסף, עיין במאמרים הבאים:
+
+- [הגדרת מדיניות כספת קבצים מצורפים ב- Microsoft Defender עבור Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies)
+- [הפעלת כספת קבצים מצורפים עבור SharePoint, OneDrive וקבצים Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams)

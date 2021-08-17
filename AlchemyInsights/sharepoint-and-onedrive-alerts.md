@@ -1,5 +1,5 @@
 ---
-title: עיכובים בקבלת התראות של SharePoint ו- OneDrive
+title: עיכובים בקבלת SharePoint והתראות OneDrive התראות
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7111a26e54a909cd8541d8c351d4f9db0338138d76de1ad14402b1c86932b79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831231"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107909"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>עיכובים בקבלת התראות של SharePoint ו- OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>עיכובים בקבלת SharePoint והתראות OneDrive התראות
 
-- אם **כל ההתראות מקבצים** או ספריות [](https://portal.office.com/adminportal/home?ref=/servicehealth) מרובים מושהות, בקר בלוח המחוונים של תקינות השירות כדי לבדוק אם קיימים עלונים/אירועים שעלולים להתרחש עם SharePoint או Exchange.
-- אם **לא נמסרה התראה בודדת מקובץ או מספריה ספציפית,** נסה למחוק אותה וצור אותה מחדש. ראה [ניהול, הצגה או מחיקה של התראות SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) כדי ליצור מחדש את ההתראה.
+- אם **כל ההתראות מקבצים** או ספריות מרובים מתעכבות, בקר בלוח המחוונים של [תקינות](https://portal.office.com/adminportal/home?ref=/servicehealth) השירות כדי לבדוק אם קיימים עלונים/אירועים שעלולים להתרחש עם SharePoint או Exchange.
+- אם **לא נמסרה התראה בודדת מקובץ או מספריה ספציפית,** נסה למחוק אותה וצור אותה מחדש. ראה [ניהול, הצגה או מחיקה SharePoint כדי](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) ליצור מחדש את ההתראה.
 - בדוק את התיקיה זבל או דואר זבל בהודעת הדואר האלקטרוני שלך.
 
 > [!NOTE]
 > - לא ניתן לשלוח התראות לקבוצת תפוצה. רק קבוצות אבטחה ו- O365 נתמכות.
-> - לא ניתן להתאים אישית תבניות דואר אלקטרוני של התראה. עליך להשתמש בזרימת העבודה של Microsoft Flow או ב- SharePoint Designer כדי להשיג אותן.
+> - לא ניתן להתאים אישית תבניות דואר אלקטרוני של התראה. עליך להשתמש בזרימת Microsoft Flow או SharePoint Designer כדי להשיג אותם.

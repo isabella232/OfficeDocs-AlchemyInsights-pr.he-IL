@@ -1,5 +1,5 @@
 ---
-title: כלי אבחון שירות עבור שולחן העבודה של Windows Virtual
+title: כלי אבחון השירות עבור Windows Virtual Desktop
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003893"
 - "6947"
-ms.openlocfilehash: c2e6f7fbcddc6721425840e87202a165cdb22664
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 58688e3216ba6777b1a4f76095bd39c81a2d2a8294e06b6bc61c7134f6d589f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49678621"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052387"
 ---
-# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>כלי אבחון שירות עבור שולחן העבודה של Windows Virtual
+# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>כלי אבחון השירות עבור Windows Virtual Desktop
 
-שולחן העבודה של Windows Virtual (WVD) מציע כלי אבחון המאפשר למנהלי מערכת לזהות שגיאות באמצעות ממשק יחיד. כלי זה מבצע רישום של מידע הקשור לאבחון כאשר WVD נמצא בשימוש על-ידי משתמש שהוקצה לו תפקיד WVD. כל יומן מכיל מידע על תפקיד WVD המעורב בפעילות, הודעות השגיאה המופיעות במהלך ההפעלה והמידע אודות הדייר והמשתמש. ניתן לקבוע את התצורה של ניתוח יומן הרישום של תכלת כדי ללכוד את יומן הפעילות שנוצר על-ידי כלי האבחון. כך ניתן לעשות זאת:
+Windows Virtual Desktop (WVD) מציע כלי אבחון המאפשר למנהלי מערכת לזהות שגיאות באמצעות ממשק יחיד. כלי זה מבצע רישום של מידע הקשור לאבחון בכל פעם שמישהו שהוקצה לו תפקיד WVD משתמש ב- WVD. כל יומן רישום מכיל מידע אודות תפקיד WVD המעורב בפעילות, הודעות השגיאה המופיעות במהלך ההפעלה ומידע אודות הדייר והמשתמש. ניתן לקבוע את תצורת Azure Log Analytics כדי ללכוד את יומן הפעילות שנוצר על-ידי כלי האבחון. כך ניתן לעשות זאת:
 
-1. צור סביבת עבודה של ניתוח יומני רישום עם [הפורטל ' תכלת](https://go.microsoft.com/fwlink/?linkid=2129500) ' או ' [תכלת PowerShell](https://go.microsoft.com/fwlink/?linkid=2129501)'.
-1. [חבר את מחשבי Windows למסך התכלת](https://go.microsoft.com/fwlink/?linkid=2129913). קבל את מזהה סביבת העבודה ואת המפתח הראשי של סביבת העבודה שלך. אשף ההתקנה זקוק למידע זה כדי לקבוע את תצורת הסוכן כראוי וכדי להבטיח שהוא יוכל לקיים תקשורת עם צג התכלת.
-1. [דחיפת נתוני אבחון לסביבת העבודה שלך](https://go.microsoft.com/fwlink/?linkid=2128284). באפשרותך לדחוף נתוני אבחון מדייר WVD לניתוח יומן הרישום עבור סביבת העבודה שלך.
-1. [זיהוי ואבחון של בעיות](https://go.microsoft.com/fwlink/?linkid=2128338) פנימיות או חיצוניות ביחס לWVD.
+1. יצירת סביבת עבודה של Log Analytics עם פורטל [Azure או](https://go.microsoft.com/fwlink/?linkid=2129500) [Azure PowerShell](https://go.microsoft.com/fwlink/?linkid=2129501).
+1. [התחברות Windows מחשבים לצג Azure](https://go.microsoft.com/fwlink/?linkid=2129913). קבל את מזהה סביבת העבודה ואת המפתח הראשי של סביבת העבודה שלך. אשף ההגדרה זקוק למידע זה כדי להגדיר כראוי את הסוכן ולהבטיח שהוא יוכל לקיים תקשורת עם Azure Monitor.
+1. [העברת נתוני אבחון לסביבת העבודה שלך](https://go.microsoft.com/fwlink/?linkid=2128284). באפשרותך לדחוף נתוני אבחון מהדייר WVD שלך ל- Log Analytics עבור סביבת העבודה שלך.
+1. [זהה ואבחן בעיות](https://go.microsoft.com/fwlink/?linkid=2128338) פנימיות או חיצוניות ביחס ל- WVD.
 
-לקבלת מידע נוסף אודות קביעת התצורה של כלי אבחון השירות עבור WVD, ראה [שימוש בניתוח יומני רישום עבור התכונה ' אבחון](https://go.microsoft.com/fwlink/?linkid=2128084)'.
+לקבלת מידע נוסף אודות קביעת התצורה של כלי אבחון השירות עבור WVD, ראה [שימוש ב- Log Analytics עבור תכונת האבחון](https://go.microsoft.com/fwlink/?linkid=2128084).

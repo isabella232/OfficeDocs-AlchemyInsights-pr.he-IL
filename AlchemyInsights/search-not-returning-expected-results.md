@@ -1,5 +1,5 @@
 ---
-title: 1491-חיפוש-לא-חוזר-התוצאות הצפויות
+title: 1491-search-not-returning-expected-results
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,19 +14,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5c4452726c1dbe2232ee63e8a9ee4d089f5c76db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 846034d68a59d053cbe37aeba3a75e20a60786fd7ff24106964229b1deb77608
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740475"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052711"
 ---
 # <a name="content-search-not-returning-expected-results"></a>חיפוש תוכן אינו מחזיר תוצאות צפויות
 
-בעת הפעלת חיפושי תוכן ממרכז התאימות של Microsoft 365 security &, ייתכן שתקבל תוצאות חיפוש בלתי צפויות. שקול את הדברים הבאים העשויים להשפיע על תוצאות החיפוש:
+בעת הפעלת חיפושי תוכן ממרכז Microsoft 365 האבטחה &, ייתכן שתקבל תוצאות חיפוש בלתי צפויות. שקול את הדברים הבאים ה יכולים להשפיע על תוצאות החיפוש שלך:
 
-- **מיקומים ותנאי חיפוש של תוכן**: ודא שבחרת את מיקומי התוכן המתאימים ותנאי חיפוש. אם הפעלת חיפוש גדול (עם מיקומים רבים), שקול לפצל אותו לחיפושים מרובים.
+- **מיקומי תוכן ותנאי** חיפוש : ודא שבחרת את מיקומי התוכן והתנאי החיפוש המתאימים. אם הרצת חיפוש גדול (עם מיקומים רבים), שקול לפצל אותו לחיפושים מרובים.
 
-- **פריטים הכלולים באינדקס באופן חלקי**: פריטים הכלולים  [באינדקס באופן חלקי](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) מתיבות דואר כלולים בתוצאות החיפוש המוערכות. עם זאת, פריטים הכלולים באינדקס באופן חלקי מאתרים ב-SharePoint ו-OneDrive אינם כלולים בהערכת החיפוש.
+- **פריטים הכלולים באינדקס** חלקית: פריטים שכלולים  [באינדקס](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) חלקית מתיבות דואר כלולים בתוצאות החיפוש המשוערות. עם זאת, פריטים הכלולים באינדקס חלקית מהאתרים SharePoint ופריטים OneDrive אינם כלולים בהערכת החיפוש.
 
-- **כשלים בחיפוש**: בעת חיפוש מספר גדול של תיבות דואר (מעל לתיבות דואר של 100,000), אתה עשוי לקבל שגיאות חיפוש, עם קודי שגיאה כגון CS008-900 ו-CS012-002). במקרה זה, נסה שוב לבצע את החיפוש עבור מיקומי התוכן שכשלו. עיין  [במאמר זה](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) לקבלת מידע נוסף.
+- **כשלי חיפוש**: בעת חיפוש במספר גדול של תיבות דואר (מעל 100,000 תיבות דואר), ייתכן ותתרחש שגיאות חיפוש, עם קודי שגיאה כגון CS008-009 ו- CS012-002). במקרה זה, נסה שוב לחפש רק את מיקומי התוכן שנכשלו. עיין  [במאמר זה](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) לקבלת מידע נוסף.

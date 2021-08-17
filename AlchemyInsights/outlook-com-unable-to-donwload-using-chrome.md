@@ -1,5 +1,5 @@
 ---
-title: '8000085: Outlook.com: לא ניתן להוריד קבצים ב-Chrome'
+title: '8000085: Outlook.com: לא ניתן להוריד קבצים ב- Chrome'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "8000085"
 - "1352"
 ms.assetid: ''
-ms.openlocfilehash: 1a4f5029322682dee3ab2799998b8c02dfd1a3da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08eb26cb64d1ea7d544bd1e1531afc4d57124ff17bd2afb471686d066098ce8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666178"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053539"
 ---
-# <a name="cant-download-files-in-chrome"></a>אין אפשרות להוריד קבצים ב-Chrome
+# <a name="cant-download-files-in-chrome"></a>לא ניתן להוריד קבצים ב- Chrome
 
-**בעיה** אנו מודעים לבעיה המונעת מלקוחות מסוימים להוריד קבצים בעת שימוש בדפדפן Google Chrome. 
+**בעיה** אנו מודעים לבעיה שמונעת מלקוחות מסוימים להוריד קבצים בעת שימוש בדפדפן Google Chrome. 
 
-**פתרון** השתמש ב- [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) או בדפדפן אינטרנט אחר.
-קבל מידע נוסף על [הורדת קבצים וקבצים מצורפים של Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
+**פתרון לעקיפת הבעיה** השתמש [Microsoft Edge או](https://www.microsoft.com/windows/microsoft-edge) בדפדפן אינטרנט אחר.
+קבל מידע נוסף על הורדת [קבצים וקבצים מצורפים Outlook.com](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
 

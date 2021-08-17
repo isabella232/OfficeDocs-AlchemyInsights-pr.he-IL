@@ -16,12 +16,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d73e92cb4422113f50d55d7fad529b1bc0dd6cb5
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689047"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887537"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>כיצד להפעיל מחדש מנוי ולנהל חיוב חוזר
 
@@ -32,7 +32,7 @@ ms.locfileid: "53689047"
 3. בחלונית **הפעל מחדש מנוי זה,** בחר שיטת תשלום מהרשימה הנפתחת, או בחר הוסף שיטת **תשלום**.
 4. לחץ **שמור**.
 
-לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 כדי לנהל חיוב חודשי או שנתי באפשרותך לעבור בין מצב פעיל או כבוי של **חיובים חוזרים**.
   
@@ -42,4 +42,4 @@ ms.locfileid: "53689047"
 4. בחלונית **ערוך הגדרות חיוב חוזר,** בחר **On**, On , But renew **פעם אחת**, או **בטל**.
 5. לחץ **שמור**.
 
-לקבלת מידע נוסף, ראה [הפעלה או כיבוי של חיוב חוזר](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+לקבלת מידע נוסף, ראה [הפעלה או כיבוי של חיוב חוזר](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
