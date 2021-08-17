@@ -13,24 +13,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: 7bd210d6493569c28b9fd5abc05982f59e1ea34e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9deea782837098512bcec571415352927f431cfad294f0a15e89d777abea592a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072485"
 ---
 # <a name="workflow-troubleshooting"></a>פתרון בעיות בזרימת עבודה
 
-לקבלת מידע אודות איתור באגים בזרימות עבודה של SharePoint, סקור את הפרטים הבאים:
-- איתור באגים בזרימות עבודה דומה לזו של גירסאות קודמות.  לקבלת מידע נוסף, ראה [איתור באגים בזרימות עבודה של SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- לקבלת מידע נוסף אודות פתרון בעיות, ראה [פתרון בעיות בשגיאות אימות של זרימת עבודה ב-SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+לקבלת מידע אודות איתור באגים SharePoint זרימות עבודה, סקור את הפעולות הבאות:
+- איתור באגים בזרימות עבודה דומה לזה של גירסאות קודמות.  לקבלת מידע נוסף, ראה [איתור באגים SharePoint זרימות עבודה.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+- לקבלת מידע נוסף אודות פתרון בעיות, ראה [פתרון SharePoint שגיאות אימות זרימת עבודה של שרת](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>נושאים קשורים
-מעוניין לנסות את Microsoft Flow ב-SharePoint Online?
-- [יצירת זרימה](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint ו-Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+רוצה לנסות את Microsoft Flow ב- SharePoint Online?
+- [יצירת Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint ו- Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
 
