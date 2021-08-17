@@ -1,5 +1,5 @@
 ---
-title: הודעות הודעה על מנוי באפליקציות Microsoft 365
+title: הודעות הודעת מנוי באפליקציות Microsoft 365 מנוי
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 1a09075b4092573054c594224387980598b6f8a1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 02c480e04ee3c5b897f67ad10493cbc59d4505c3cae8e44974d79a03ea111ca7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832455"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049570"
 ---
-# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>הודעות הודעה על מנוי באפליקציות Microsoft 365
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>הודעות הודעת מנוי באפליקציות Microsoft 365 מנוי
 
 - אם Office הותקן מראש במכשיר החדש שלך, ראה [הפעל את Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) לקבלת עזרה בהפעלת Office במכשיר החדש שלך.
 
