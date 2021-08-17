@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: a455c7123f45bdcdd6fb9933037b2d3cfb0e616c7d425e4b0e54b2c15b7280e2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6b6493fefbd073935441a6344a166e4739a756e23cadd0169d41ebdbd927ae85
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927146"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892600"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – ועידות שמע
 
-זקוק לעזרה ב הפעלה או הגדרה [של שיחות ועידה בשמע עבור Microsoft Teams](/microsoftteams/set-up-audio-conferencing-in-teams)?  האם המשתמש נוצר לאחרונה? אם כן, תצטרך כמה שעות כדי שההגדרות יהיו בתוקף.
+זקוק לעזרה ב הפעלה או הגדרה [של שיחות ועידה של שמע עבור Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)?  האם המשתמש נוצר לאחרונה? אם כן, תצטרך כמה שעות כדי שההגדרות יהיו בתוקף.
 
-אם [נרכשו רשיונות](/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), ודא שהמשתמש מורשה עבור Microsoft 365 שמע ויש לו מספר אגרה המהווה ברירת מחדל.
+אם [רשיונות נרכשו](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses), ודא שהמשתמש מורשה עבור Microsoft 365 שמע ויש לו מספר אגרה המהווה ברירת מחדל.
 
 1. עבור אל [משתמשים פעילים](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) ולאחר מכן בחר את המשתמש המדובר.
 
 2. בהתאם לגירסה של מרכז הניהול, בחר **רישיונות ויישומים** או לחץ על **ערוך** ב **רישיונות המוצר**.
 
-3. ודא שהמשתמש בחר רשיונות עבור **Microsoft 365 שמע, Microsoft Teams** ו- Skype for Business Online **(תוכנית 2)**. אם **Microsoft 365 'ועידות שמע'** אינו קיים, יהיה עליך לרכוש [תחילה להוסיף רשיונות.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
+3. ודא שלמשתמש יש רשיונות שנבחרו עבור Microsoft 365 ועידות **שמע, Microsoft Teams** ו- **Skype for Business Online (תוכנית 2)**. אם **רשיון Microsoft 365 שמע אינו** קיים, יהיה עליך לרכוש [תחילה](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) להוסיף רשיונות.
 
 4. משתמש של **מרכזי ניהול** לחץ על **הצג הכל** ולאחר מכן על **Teams**.
 

@@ -1,5 +1,5 @@
 ---
-title: הצהרת SAML (אסימונים)
+title: SAML Assertions (Tokens)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7753"
-ms.openlocfilehash: 557e23da09df3ab066c2ad7c0352f5fd904b5490
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: 9c8ff0d4ff6da98ed6a5c42570d4a5fac80b00e93d1356b298528bd8d2c51a5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49885215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109241"
 ---
-# <a name="saml-assertions-tokens"></a>הצהרת SAML (אסימונים)
+# <a name="saml-assertions-tokens"></a>SAML Assertions (Tokens)
 
-1. האסימונים של ' הצהרות אבטחה ' (SAML) הם ייצוגי XML של טענות. כברירת מחדל, משתמשים ב-SAML tokens של יסודות התקשורת של Windows (WCF) בתרחישים של אבטחה מאוחדת מונפקים אסימונים. לקבלת מידע נוסף, ראה [אסימונים וטענות של SAML](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims).
-2. פלטפורמת הזהויות של Microsoft פולטת כמה סוגים של אסימוני אבטחה בעיבוד של כל זרימת אימות. [הפניה לטענות אסימון SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) מתארת את העיצוב, מאפייני האבטחה והתוכן של SAML 2.0.
-3. פעל לפי ההנחיות [באורך חיים של אסימונים הניתנים להגדרה בפלטפורמת הזהויות של Microsoft](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) כדי להבין כיצד לקבוע אורך חיים של אסימונים.
-4. בצע את השלבים המתוארים [במאמר זה](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) כדי להבין כיצד לקבוע את התצורה של הצפנת אסימון מסוג תכלת AD SAML.
-5. ב-תכלת לספירה, באפשרותך להגדיר אפשרויות חתימת אישורים ואת אלגוריתם חתימת האישורים. לקבלת מידע נוסף, ראה [אפשרויות של חתימת אישורים מתקדמת באסימון SAML עבור יישומי גלריה ב-תכלת Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).
+1. אסימוני שפת סימון של ערכות אבטחה (SAML) הם ייצוגי XML של תביעות. כברירת מחדל, אסימוני SAML Windows Communication Foundation (WCF) משתמשים בתרחישי אבטחה מאוחדים הם אסימונים שהונפקו. לקבלת מידע נוסף, ראה [אסימוני SAML ותביעות](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims).
+2. ה פלטפורמת הזהויות של Microsoft פולט כמה סוגים של אסימוני אבטחה בעיבוד של כל זרימת אימות. [חומר עזר של תביעות אסימון SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) מתאר את התבנית, מאפייני האבטחה והתוכן של אסימוני SAML 2.0.
+3. בצע את ההנחיות [בתקופות חיים של אסימון הניתן להגדרה פלטפורמת הזהויות של Microsoft להבין](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) כיצד לקבוע את התצורה של משך חיים של אסימון.
+4. בצע את השלבים המתוארים במאמר [זה כדי להבין](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) כיצד להגדיר הצפנת אסימון של Azure AD SAML.
+5. ב- Azure AD, באפשרותך להגדיר אפשרויות חתימת אישורים ואלגוריתם חתימת האישורים. לקבלת מידע נוסף, ראה אפשרויות [מתקדמות של חתימת אישורים באסימון SAML עבור יישומי גלריה ב- Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).

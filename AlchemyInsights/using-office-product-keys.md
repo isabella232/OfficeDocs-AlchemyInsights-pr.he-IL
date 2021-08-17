@@ -1,5 +1,5 @@
 ---
-title: שימוש במפתחות מוצר של Office
+title: שימוש Office מוצר
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3550"
-ms.openlocfilehash: 16a86343f1c05a5094dc0dd5595c1299c9e44a26
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c09363a2c8d3e610eb50f42b4cbaa4e69827927f9f66c56d4c88b7ede3d85126
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083915"
 ---
-# <a name="using-office-product-keys"></a>שימוש במפתחות מוצר של Office
+# <a name="using-office-product-keys"></a>שימוש Office מוצר
 
-**מפתחות מוצר של Office**
+**Office מפתחות מוצר**
 
-השתמש בחשבון Microsoft שלך, לא במפתח המוצר שלך, כדי להתקין ולהפעיל את Office ואפליקציות של Microsoft 365 שנרכשו בנפרד, כגון Project, Visio, Word, Excel ו- Outlook. לקבלת מידע נוסף, [ראה Office מבקש ממני מפתח מוצר](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
+השתמש בחשבון Microsoft שלך, לא במפתח המוצר שלך, כדי להתקין ולהפעיל את Office ואפליקציות Microsoft 365 בנפרד, כגון Project, Visio, Word, Excel ו- Outlook. לקבלת מידע נוסף, [ראה Office בקשה לספק מפתח מוצר](https://support.office.com/article/12a5763a-d45c-4685-8c95-a44500213759?ui=en-US&rs=en-US&ad=US#bkmk_promptforpkey)
 
-- אם הרכישה של Office הגיעה עם מפתח מוצר, ראה [היכן להזין את מפתח המוצר של Office](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- אם הרכישה של Office הגיעה עם מפתח מוצר, ראה [היכן להזין את Office המוצר שלך](https://support.office.com/article/Where-to-enter-your-Office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- לקבלת עזרה עבור מפתח מוצר של Office 365 Home או Personal, [ראה שימוש במפתחות מוצר עם Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759).
+- לקבלת עזרה עבור מפתח Office 365 Home או Personal, ראה [שימוש במפתחות מוצר עם Office](https://support.office.com/article/using-product-keys-with-office-12a5763a-d45c-4685-8c95-a44500213759).
 
-**הפעלת מנוי Office** 
+**הפעלת מנוי Office זה** 
 
-- אם רכשת מנוי של Microsoft 365 מחנות קמעונאית, ראה [הזנת מפתח המוצר שלך עבור יישומי Microsoft 365 לעסקים.](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key)
+- אם רכשת מנוי Microsoft 365 בחנות קמעונאית, ראה [הזנת מפתח המוצר שלך עבור יישומי Microsoft 365 לעסקים](https://docs.microsoft.com/microsoft-365/commerce/enter-your-product-key).
 
-- אם מופיעה הודעת שגיאה בעת ניסיון לממש מפתח מוצר, ראה בעיות [במפתח המוצר של Microsoft 365 לעסקים?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
+- אם מופיעה הודעת שגיאה בעת ניסיון לממש מפתח מוצר, ראה בעיות [במפתח המוצר Microsoft 365 שלך לעסקים?](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions)
