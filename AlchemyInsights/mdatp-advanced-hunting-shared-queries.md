@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp מתקדם של ציד שאילתות משותפות
+title: 9001220 mdatp שאילתות משותפות מתקדמות של ציד
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042127"
 ---
 # <a name="sharing-advanced-hunting-queries"></a>שיתוף שאילתות ציד מתקדמות
 
-ניתן לשתף שאילתות ציד מתקדמות בין משתמשים באותו ארגון. באפשרותך גם למצוא שאילתות ששותפו באופן ציבורי ב-GitHub. שאילתות אלה מאפשרות לך לרדוף במהירות תרחישים ספציפיים של ציד איום מבלי לכתוב שאילתות מאפס.
+ניתן לשתף שאילתות ציד מתקדמות בין משתמשים באותו ארגון. באפשרותך גם לחפש שאילתות משותפות באופן ציבורי GitHub. שאילתות אלה יתנו לך לתשאל במהירות תרחישי ציד איומים ספציפיים מבלי לכתוב שאילתות מאפס.
   
-לקבלת פרטים, ראה [שימוש בשאילתות משותפות בחיפוש מתקדם](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+לקבלת פרטים, ראה [שימוש בשאילתות משותפות בחיפוש מתקדם.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries)

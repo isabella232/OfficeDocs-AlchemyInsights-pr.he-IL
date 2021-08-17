@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות בדפדפן כניסה יחידה (SSO) חלקה
+title: פתרון בעיות דפדפן חלקות של כניסה יחידה (SSO)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50693898"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074285"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>פתרון בעיות בדפדפן כניסה יחידה (SSO) חלקה
+# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>פתרון בעיות דפדפן חלקות של כניסה יחידה (SSO)
 
-רוב המשתמשים יכולים לפתור את בעיית הדפדפן החלקה שלהם ב-SSO באמצעות השלבים הבאים:
+רוב המשתמשים יכולים לפתור את בעיית דפדפן SSO חלקה באמצעות השלבים הבאים:
 
-1. ודא שהדפדפן שלך מעודכן.
-2. מחק קבצי cookie מהדפדפן שלך כדי להסיר הפעלת SSO לא חוקית ונסה להיכנס שוב.
+1. ודא שהדפדפן שלך עדכני.
+2. מחק קבצי Cookie מהדפדפן כדי להסיר הפעלת SSO לא חוקית ונסה להיכנס שוב.
 3. נסה להיכנס באמצעות דפדפן אחר.
 
-**בעיות בדפדפן ידועות**
+**בעיות ידועות בדפדפן**
 
-- SSO חלק אינו פועל במצב גלישה פרטית ב-Firefox.
-- SSO חלק אינו פועל ב-Internet Explorer כאשר מצב מוגן משופר מופעל.
-- SSO חלק אינו פועל במצב גלישה פרטית ב-Microsoft Edge (מדור קודם).
-- SSO חלק אינו פועל בדפדפנים ניידים ב-iOS וב-Android.
+- SSO חלק אינו פועל במצב גלישה פרטית ב- Firefox.
+- SSO חלק אינו פועל ב- Internet Explorer כאשר מצב מוגן משופר מופעל.
+- SSO חלק אינו פועל במצב גלישה פרטית ב- Microsoft Edge (מדור קודם).
+- SSO חלק אינו פועל בדפדפנים ניידים ב- iOS וב- Android.
 
-SSO חלקה תומך בגירסה הבאה של Microsoft Edge בהתבסס על כרומיום, והיא פועלת במצב Inprivate ואורח לפי עיצוב.
+SSO חלק תומך בגירסה הבאה של Microsoft Edge בהתבסס על Chromium והוא פועל במצב InPrivate ו- Guest לפי עיצוב.
 
-**יידוע**
+**עלון יידוע**
 
-כדי לבצע בקשות לתכונות או לשאול שאלות טכניות לגבי SSO חלק, ראה [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+כדי לבקש בקשות לתכונה או לשאול שאלות טכניות אודות SSO חלק, ראה [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
