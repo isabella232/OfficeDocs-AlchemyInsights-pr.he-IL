@@ -1,5 +1,5 @@
 ---
-title: תחילת העבודה עם שימוש בדוחות שימוש ב- Microsoft Search
+title: תחילת העבודה עם חיפוש של Microsoft שימוש בדוחות
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11047"
-ms.openlocfilehash: 2da847a66d227cbad07d56d733488a216deacbe7
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b5bfba500c229ee58f82fde1de01da91c46ecbc991fb4c2f7418b0dc3bf141e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676210"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077291"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>תחילת העבודה עם שימוש בדוחות שימוש ב- Microsoft Search
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>תחילת העבודה עם חיפוש של Microsoft שימוש בדוחות
 
-דוחות שימוש ב- Microsoft Search מספקים תובנות לגבי אופן תפקוד החיפוש בארגון שלך. תובנות אלה יעזרו לך למצוא תוכן ותסייע לך לחפש חוויה שימושית ומענגת יותר עבור משתמשים בארגונים שלך.
+חיפוש של Microsoft שימוש מספקים תובנות לגבי אופן תפקוד החיפוש בארגון שלך. תובנות אלה יעזרו לך למצוא תוכן ותסייע לך לחפש חוויה שימושית ומענגת יותר עבור משתמשים בארגונים שלך.
 
-כדי ללמוד עוד, ראה [דוחות שימוש בחיפוש של Microsoft](https://go.microsoft.com/fwlink/?linkid=2152048).
+כדי ללמוד עוד, [ראה חיפוש של Microsoft שימוש בדוחות](https://go.microsoft.com/fwlink/?linkid=2152048).

@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
-ms.openlocfilehash: 38c62c3554b00233e9520e107b2f8a1cc1956b7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d519d7e61b886b327292b5b63fe0398451e991b4a7bd84e81c9fac5cdb47fc0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044377"
 ---
-# <a name="microsoft-flow"></a>זרימת Microsoft
+# <a name="microsoft-flow"></a>Microsoft Flow
 
-זרימת Microsoft מסייעת לך להפוך משימות נפוצות לאוטומטיות. השתמש בו כדי להגדיר זרימות עבודה עבור רשימות וספריות. כדי ללמוד כיצד להוסיף זרימה לרשימה או לספריה ב-SharePoint Online או ב-OneDrive, ראה [יצירת זרימה](https://go.microsoft.com/fwlink/?linkid=869408).
+Microsoft Flow עוזר לך להפוך משימות נפוצות לאוטומטיות. השתמש בו כדי להגדיר זרימות עבודה עבור רשימות וספריות. כדי ללמוד כיצד להוסיף זרימה לרשימה או לספריה ב- SharePoint Online או OneDrive, [ראה יצירת זרימה](https://go.microsoft.com/fwlink/?linkid=869408).
   
-[סרטוני וידאו אודות זרימת Microsoft](https://go.microsoft.com/fwlink/?linkid=864641)
+[סרטוני וידאו אודות Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[אתר האינטרנט של זרימת Microsoft](https://go.microsoft.com/fwlink/?linkid=864642)
+[Microsoft Flow אינטרנט](https://go.microsoft.com/fwlink/?linkid=864642)
   
 
