@@ -1,5 +1,5 @@
 ---
-title: קוד שגיאה 550 5.7.501 הגישה נדחתה, התעללות בדואר זבל זוהתה
+title: קוד שגיאה 550 5.7.501 Access נדחה, זוהה שימוש לרעה בספאם
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,17 +12,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 6542450ca4d03daef4a7f63783d431d2091bc5e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3eebe4e9d69e100a750e74a6d34ec67dc0566df5dd6eb59809adb07ed8a682f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54044269"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 הגישה נדחתה, זוהה התעללות בדואר זבל
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 Access נדחה, זוהתה שימוש לרעה בספאם
 
-בדרך כלל, הודעה זו מופיעה כאשר משתמשים שולחים הודעות דואר אלקטרוני מכתובות IP באמצעות התחום הראשוני של *onmicrosoft.com* שהוקצו לדיירים חדשים ב-Microsoft 365. הדרך הקלה ביותר לפתור בעיה זו היא:
+בדרך כלל, הודעה זו מתרחשת כאשר משתמשים שולחים הודעות דואר אלקטרוני מכתובות IP *באמצעות התחום .onmicrosoft.com* ההתחלתי המוקצה לדיירים חדשים ב- Microsoft 365. הדרך הקלה ביותר לפתור בעיה זו היא:
 
-1. [הוסף תחום לדייר שלך](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
+1. [הוסף תחום לדייר שלך.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)
 
-2. [שנה את כתובת הדואר האלקטרוני הראשית של המשתמשים שלך](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address) לתחום המותאם אישית החדש שהוספת זה עתה.
+2. [שנה את כתובת הדואר האלקטרוני הראשית של המשתמשים](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address) שלך לתחום המותאם אישית החדש שהוספת זה עתה.

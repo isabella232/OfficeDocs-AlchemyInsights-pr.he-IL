@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: dd5dd5550ecaa781afd10c14157b437f3a78f9af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 44980fd6f0667160082e57084e810ca8ebe7ae7875a5df873f7a367629924cc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47782904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043621"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>למשתמש חיצוני אין אפשרות לקבל הזמנה לשיתוף
 
-אם למשתמש חיצוני אין אפשרות לקבל הזמנה לשיתוף SharePoint או OneDrive, נסה לבקר בקישורים שלהלן: 
+אם משתמש חיצוני אינו יכול לקבל הזמנה SharePoint או OneDrive, נסה לבקר בקישורים הבאים: 
 
-- ["הגישה נדחתה", "אתה זקוק להרשאה כדי לגשת לאתר זה", או "משתמש לא נמצא במדריך הכתובות" ב-SharePoint Online וב-OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [השגיאה "מדיניות הארגון שלך אינה מאפשרת לך לשתף עם משתמשים אלה" בעת שיתוף פריט או אתר ב-SharePoint Online או ב-OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [אפשרויות שיתוף מוצגות באפור בעת שיתוף מ-SharePoint Online או מ-OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [הודעת שגיאה כאשר משתמש חיצוני מקבל הזמנה של SharePoint Online באמצעות חשבון אחר](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [שגיאות שיתוף OSE ב-SharePoint וב-OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Access נדחתה", "אתה זקוק להרשאות כדי לגשת לאתר זה", או שגיאות "User not found in the directory" ב- SharePoint Online וב- OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [שגיאת "פריטי המדיניות של הארגון שלך אינם מאפשרים לך לשתף עם משתמשים אלה" בעת שיתוף פריט או אתר ב- SharePoint Online או OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [אפשרויות שיתוף אפורות בעת שיתוף SharePoint מקוון או OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [הודעת שגיאה כאשר משתמש חיצוני מקבל הזמנה SharePoint באינטרנט באמצעות חשבון אחר](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [שגיאות שיתוף OSE ב- SharePoint ו- OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

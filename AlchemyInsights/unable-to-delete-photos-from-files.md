@@ -1,5 +1,5 @@
 ---
-title: ל-8000031 אין אפשרות למחוק תמונות מקבצים
+title: 8000031 אין אפשרות למחוק תמונות מקבצים
 ms.author: daeite
 author: daeite
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: e07d4542c57fc57a9c7bf1a594ab4df104c88854
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 2735d7117969ceab23476f58cdcc3210ee912950799cc1082e151bff6bf692d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653361"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104957"
 ---
 # <a name="unable-to-delete-photos-from-files"></a>לא ניתן למחוק תמונות מקבצים
 
-כדי למחוק את התמונות מקבצים ב-Outlook.com:
+כדי למחוק את התמונות מקבצים ב- Outlook.com:
   
-1. עבור אל התיקיה **תיבת דואר נכנס** או **פריטים שנשלחו** ומחק את הודעת הדואר האלקטרוני שאליה הם מצורפים.
+1. עבור אל תיבת **הדואר הנכנס או** אל **התיקיה פריטים** שנשלחו ומחק את הודעת הדואר האלקטרוני אליה הם מצורפים.
 
-2. הסר את הפריטים **מהפריטים שנמחקו**.
+2. הסר את הפריטים מהפריטים **שנמחקו.**
 
-לקבלת מידע נוסף, קרא [כיצד למחוק קבצים או תמונות ב-Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+לקבלת מידע נוסף, [קרא כיצד למחוק קבצים או תמונות ב- Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
   

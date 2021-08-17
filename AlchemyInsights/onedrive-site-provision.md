@@ -1,5 +1,5 @@
 ---
-title: הקצאת אתרים של OneDrive
+title: OneDrive הקצאת משאבים לאתר
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: ea4968de39f6a620a7e9ba2cbf6e41ac17522003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1285968f3d0a53aebf88e91aefdc0b0b6b5e2020f8959aa42e85151a800c68ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754376"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075905"
 ---
-# <a name="onedrive-site-provisioning"></a>הקצאת אתרים של OneDrive
+# <a name="onedrive-site-provisioning"></a>OneDrive הקצאת משאבים לאתר
 
-עבור חשבונות חדשים שנוצרו, המשתמשים צריכים להיכנס למרכז הניהול של Microsoft 365 עם החשבון שלהם וללחוץ על סמל OneDrive כדי להפעיל באופן ידני את הקצאת האתר OneDrive.
-בצע [מדריך לפתרון בעיות](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) זה לקבלת עזרה
+עבור חשבונות חדשים שנוצרו, המשתמשים צריכים להיכנס מרכז הניהול של Microsoft 365 באמצעות החשבון שלהם וללחוץ על סמל OneDrive כדי להפעיל באופן ידני את הקצאת OneDrive האתר.
+פעל בהתאם [למדריך פתרון בעיות זה](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) לקבלת עזרה
 
-עם זאת, אם המשתמש כבר לחץ על סמל OneDrive והאתר האישי שלו אינו מוקצה תוך 24 שעות, רשום כרטיס תמיכה לקבלת סיוע נוסף.
+עם זאת, אם המשתמש כבר לחץ על סמל OneDrive והמקום האישי שלו לא הוקצו תוך 24 שעות, רשום כרטיס תמיכה לקבלת סיוע נוסף.
 
