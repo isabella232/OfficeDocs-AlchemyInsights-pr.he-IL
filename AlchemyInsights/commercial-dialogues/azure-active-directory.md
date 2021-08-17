@@ -1,5 +1,5 @@
 ---
-title: תכלת Active Directory
+title: Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0a82646b18b51cf198c287990e5ce447619aac20
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: be92d2397c7088020cc8bea5101acf6717af4db82a785f71d55ec5aff9061b1b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059191"
 ---
-# <a name="azure-active-directory"></a>תכלת Active Directory
+# <a name="azure-active-directory"></a>Azure Active Directory
 
-Microsoft תכלת Active Directory (תכלת לספירה) היא זהות מבוססת ענן ושירות ניהול גישה שעוזר לעובדים להיכנס למשאבים ולגשת אליהם באופן חיצוני ופנימי. לקבלת מידע נוסף, עיין במשאבים הבאים:
+Microsoft Azure Active Directory (Azure AD) הוא שירות ניהול זהויות וגישה המבוסס על ענן, שמסייע לעובדים להיכנס למשאבים ולגשת למשאבים באופן חיצוני ופנימי. כדי ללמוד עוד, עיין במשאבים הבאים:
 
-- [מהו ' תכלת Active Directory '?](https://go.microsoft.com/fwlink/?linkid=2081145)
-- [שילוב תכלת עם Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
-- [גירסת הניסיון ללא תשלום של תכלת Active Directory](https://go.microsoft.com/fwlink/?linkid=2081144)
+- [מהו Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2081145)
+- [שילוב Azure עם Office 365](https://go.microsoft.com/fwlink/?linkid=2081218)
+- [גירסת ניסיון ללא תשלום של Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2081144)

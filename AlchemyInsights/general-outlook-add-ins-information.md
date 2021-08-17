@@ -1,5 +1,5 @@
 ---
-title: מידע כללי על תוספות של Outlook
+title: מידע Outlook תוספות כלליות
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49678467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116945"
 ---
-# <a name="general-outlook-add-ins-information"></a>מידע כללי על תוספות של Outlook
+# <a name="general-outlook-add-ins-information"></a>מידע Outlook תוספות כלליות
 
-בקר באתר אינטרנט זה עבור משאבי התיעוד של all-in לגבי [בניית תוספות של Outlook](https://docs.microsoft.com/office/dev/add-ins/outlook/).
+בקר באתר אינטרנט זה לקבלת משאבי התיעוד של הכל-in לגבי [Outlook תוספות](https://docs.microsoft.com/office/dev/add-ins/outlook/).
 
-לקבלת משאבים נוספים לגבי ניהול, פריסה והפיכה של תוספות, ראה:
+לקבלת משאבים נוספים לגבי ניהול, פריסה והפעלה של תוספות, ראה:
 
-- [קבע אם פריסה מרוכזת של תוספות פועלת עבור הארגון שלך](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [קבע אם פריסה מרכזית של תוספות פועלת עבור הארגון שלך](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
 - [ניהול פריסת תוספות במרכז הניהול של Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [ציון מנהלי המערכת והמשתמשים שיכולים להתקין ולנהל תוספות עבור Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [ציין את מנהלי המערכת והמשתמשים שיכולים להתקין ולנהל תוספות עבור Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116909"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>קבל עותק של החשבון או השימוש שלך
 
-**הורד את החשבונית של Azure ( .pdf)**
+**הורד את החשבונית של Azure (.pdf)**
 
 1. בחר את המנוי שלך [מהדף מנויים בפורטל](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Azure [כמשתמש בעל גישה לחשבוניות ולאחר מכן](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) בחר **חשבוניות**
 2. לחץ **על הורד חשבונית** כדי להציג עותק של חשבונית ה- PDF שלך. אם כתוב **"לא זמין",** ראה מדוע איני רואה [חשבונית עבור תקופת החיוב האחרונה?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. באפשרותך גם להציג את השימוש היומי שלך על-ידי לחיצה על תקופת החיוב כדי להשיג PDF של החשבונית שלך עותק של קובץ השימוש היומי המפורט שלך (. CSV): [קבל נתוני חשבונית ושימוש](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+3. באפשרותך גם להציג את השימוש היומי שלך על-ידי לחיצה על תקופת החיוב כדי להשיג PDF של החשבונית שלך, עותק של קובץ השימוש היומי המפורט שלך (.CSV): [קבל נתוני חשבונית ושימוש](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**קבל את החשבונית בדואר אלקטרוני ( .pdf)**
+**קבל את החשבונית בדואר אלקטרוני (.pdf)**
 
 1. בחר את המנוי שלך [מהדף מנויים](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade). לחץ **על חשבוניות ולאחר מכן** שלח את **החשבונית שלי בדואר אלקטרוני**
 2. לחץ **על ההצטרפות** וקבל את התנאים. יהיה עליך להצטרף לכל מנוי בבעלותך. הערה: אם אינך מקבל הודעת דואר אלקטרוני לאחר ביצוע השלבים, ודא שכתובת הדואר האלקטרוני שלך נכונה [בהעדפות התקשורת בפרופיל שלך](https://account.windowsazure.com/profile)
@@ -47,14 +47,14 @@ ms.locfileid: "51812389"
 
 אם יש לך הסכם לקוח של Microsoft, באפשרותך להצטרף כדי לקבל את החשבונית בדואר אלקטרוני. כל בעלי פרופיל החיוב, המשתתפים, הקוראים ומנהלי החשבוניות יתו את החשבונית בדואר אלקטרוני. לקוראים אין אפשרות לעדכן את העדפת חשבונית הדואר האלקטרוני
 
-- חפש **ניהול עלויות + חיוב**. בחר **פרופיל חיוב**. תחת הגדרות, **בחר מאפיינים**
+- חפש **ניהול עלויות + חיוב**. בחר **פרופיל חיוב**. תחת הגדרות, בחר **מאפיינים**
 - תחת חשבונית דואר אלקטרוני, בחר **עדכן העדפת חשבונית דואר אלקטרוני**. בחר הצטרפות. לחץ על **עדכן**
 
 **הסכם ארגוני (EA)**
 
 כדי להציג ולהוריד נתוני שימוש כלקוח EA, עליך להיות מנהל ארגון, בעלים של חשבון או מנהל מחלקה כאשר מדיניות החיובים בתצוגה זמינה.
 
-- היכנס לפורטל Azure. חפש **ניהול עלויות + חיוב**. בחר פרופיל חיוב
+- היכנס לפורטל פורטל Microsoft Azure. חפש **ניהול עלויות + חיוב**. בחר פרופיל חיוב
 - בחר שימוש + חיובים. עבור החודש שברצונך להוריד, בחר הורד
 
 **מנוי MOSP Azure**  

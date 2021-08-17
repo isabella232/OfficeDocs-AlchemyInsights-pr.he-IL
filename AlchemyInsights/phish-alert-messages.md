@@ -11,29 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: ac4c157d6e202488659c56605768bbfd2b3af8e658d0a2f82e529fdac6763fa9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53999673"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899333"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>התראת הודעות דואר אלקטרוני ממדיניות 'דיוג נמסר עקב דייר או עקיפת משתמש'
 
-מדיניות התראה המוגדרת כברירת מחדל בשם "Phish Delivered עקב דייר או עקיפת משתמש" הוגלתה לדיירים עם Microsoft Defender עבור רשיונות P1 ו- P2 של Microsoft Defender עבור Office 365 P1 ו- P2. אם קיבלת התראה זו, להלן השלבים לתחקור:
+מדיניות התראה המוגדרת כברירת מחדל בשם **דיוג** נמסרה עקב דייר או עקיפת משתמש זמינה בארגונים עם Microsoft Defender עבור רשיונות Office 365 P1 ו- P2. אם קיבלת התראה זו, להלן השלבים לתחקור:
 
-1. מתוך הודעת ההתראה, לחץ **על הצג** התראה כדי **לעבור** לדף התראות במרכז האבטחה & תאימות.
+1. מתוך הודעת ההתראה, **לחץ על הצג** התראה כדי לעבור **לדף** התראות בפורטל Microsoft 365 Defender.
 
 2. בחר את ההתראה כדי לראות את האפשרות להציג **רשימת הודעות או** **להציג הודעות בסייר**. שתי אפשרויות אלה לוקחות אותך לפרטי ההודעה, הכוללת את מזהה ההודעה. שים לב שהקישור 'סייר איומים' ילסנן באופן אוטומטי את ההודעות התואמות לקריטריוני ההתראה. ייתכן שיהיה עליך להתאים את מסנן התאריך בסייר האיומים.
 
 הודעת דיוג נמסרה עקב עקיפה שתצורתה נקבעה באופן ידני:
 
 - שולח או תחום מותרים המוגדרים על-ידי המשתמש.
-
 - שולח או תחום מותרים המוגדרים על-ידי מנהל המערכת במדיניות למניעת דואר זבל.
-
 - כתובת IP מותרת במדיניות מסנן חיבור.
-
 - כלל זרימת דואר (הידוע גם ככלל תעבורה) שתצורתו נקבעה לאפשר הודעות.
 
-אם אתה סבור שההודעה סומנה באופן שגוי כ- phish, השתמש Outlook התוספת 'הודעת [דוח'](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) כדי לשלוח דוגמאות הודעה ל- Microsoft.
+אם אתה סבור שההודעה סומנה באופן שגוי כ דיוג, השתמש [בשליחה](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) של מנהל מערכת כדי הדוח את ההודעה ל- Microsoft.
+
+המשתמשים יכולים [להשתמש תוספת 'הודעת דוח' או](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) התוספת 'דיווח על דיוג' Outlook כדי לשלוח דוגמאות הודעה ל- Microsoft.
