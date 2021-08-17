@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919640"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304334"
 ---
 # <a name="understand-billing-amount"></a>הבנת סכום חיוב
 
@@ -26,9 +26,9 @@ ms.locfileid: "53919640"
 - כדי לעזור לך לסקור ולהבין את החשבון שלך, עיין ב: [ערכת לימוד: סקירת חשבון Azure הבודד שלך](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - הבנת התנאים בחשבונית שלך: מונחי [חשבונית Azure מוסברים](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - הבנת תנאי השימוש ב- Azure: [מונחי שימוש מוסברים](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- כדי להשיג PDF של החשבונית שלך עותק של קובץ השימוש היומי המפורט שלך (.CSV): [קבל נתוני חשבונית ושימוש](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- כדי להשיג PDF של החשבונית שלך עותק של קובץ השימוש היומי המפורט שלך (.CSV): [קבלת נתוני חשבונית ושימוש](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**הערה:** אם תבטל את המנוי/המשאב שלך באמצע מחזור החיוב, ייתכן שעדיין תראה חיוב שיהיה עבור כל שימוש בחודש הקודם. דוגמה, אם מחזור החיוב שלך היה מה- 26 בכל חודש ועד ל- 25 בחודש הבא & השעית את המנוי ב- 23, שהוא 28 ימים במחזור החיוב עבור יוני, ייתכן שתשתמש בתשלום עבור 28 ימי השימוש. אם אתה רואה חיוב למרות ביטול מנוי, ודא שאין לך תוכניות תמיכה אחרות שגרמו לתשלום. אם תעשה זאת, בטל את התוכנית.
+**הערה:** אם תבטל את המנוי/המשאב שלך באמצע מחזור החיוב, ייתכן שעדיין תראה חיוב שיהיה עבור כל שימוש בחודש הקודם. דוגמה, אם מחזור החיוב שלך היה מה- 26 בכל חודש ועד ל- 25 בחודש הבא & השעית את המנוי ב- 23, שהוא 28 יום במחזור החיוב עבור יוני, ייתכן ש- 28 ימי השימוש יתחייבו. אם אתה רואה חיוב על אף ביטול מנוי, ודא שאין לך תוכניות תמיכה אחרות שגרמו לתשלום. אם תעשה זאת, בטל את התוכנית.
 
 **הסכם הלקוחות של Microsoft (MCA):**
 
@@ -41,7 +41,7 @@ ms.locfileid: "53919640"
 
 **הסכם השותפים של Microsoft (MPA):**
 
-- כדי לעזור לך לסקור ולהבין את החשבון שלך, עיין ב: [ערכת לימוד: סקירת החשבונית של הסכם השותפים של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- כדי לעזור לסקור ולהבין את החשבון שלך, עיין ב: [ערכת לימוד: סקירת החשבונית של הסכם השותפים של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - הבנת התנאים בחשבונית שלך: הסבר [על התנאים בחשבונית הסכם השותפים של Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **הסכם ארגוני (EA)**
@@ -54,7 +54,7 @@ ms.locfileid: "53919640"
 - היכנס **לפורטל Enterprise**. בחר **דוחות**
 - בפינה השמאלית העליונה של הכרטיסיה, העבר את התצוגה מ- **M** ל- **C** והתאם את התקופה בחשבונית
 - סכום **השימוש הכולל** אמור להתאים לסכום הכולל **המורחב** בחשבונית יתר של השירות שלך
-- עבור אל **הורדת > מתקדם של** דוח הורדה כדי לקבל מידע נוסף על החיובים שלך הערה: הדוח אינה כוללת מסים, חיובים עבור הזמנות או חיובים ב- marketplace 
+- עבור אל **הורד שימוש > מתקדם** להורדת דוח כדי לקבל מידע נוסף אודות החיובים שלך הערה: הדוח אינה כוללת מסים, חיובים עבור הזמנות או חיובים ב- marketplace 
 
 **Azure Marketplace**
 
@@ -62,12 +62,14 @@ ms.locfileid: "53919640"
 
 סקירת חשבונית Marketplace:
 
-השווה את הסכום הכולל שלך ב- Azure Marketplace > 'סיכום שימוש' בפורטל Enterprise עם חשבונית marketplace שלך. חשבונית Marketplace היא רק עבור רכישות ושימוש ב- Azure Marketplace. הסכומים בסיכום השימוש לא כוללים מס.
+השווה את הסכום שלך ב- Azure Marketplace > 'סיכום שימוש' בפורטל Enterprise עם חשבונית marketplace שלך. חשבונית Marketplace היא רק עבור רכישות ושימוש ב- Azure Marketplace. הסכומים בסיכום השימוש לא כוללים מס.
 
 - היכנס **לפורטל Enterprise**. בחר **דוחות**
 - בפינה השמאלית העליונה של הכרטיסיה, העבר את התצוגה מ- **M** ל- **C** והתאם את התקופה בחשבונית
 - הסכום **הכולל של Azure Marketplace** אמור להתאים **לסכום המכירה** הכולל בחשבונית השוק שלך
-- עבור אל **הורד שימוש** כדי לקבל מידע נוסף אודות החיובים מבוססי השימוש שלך. תחת **חיובים של Marketplace**, בחר **הורד** הערה **:** הדוח אינו כולל מיסים או מציג רכישות פעם אחת
+- עבור אל **הורד שימוש** כדי לקבל מידע נוסף אודות החיובים מבוססי השימוש שלך. תחת **חיובים של Marketplace**, בחר **הורד** 
+
+**הערה:** תיקון הדוח אינו כולל מסים או מציג רכישות של פעם אחת
 
 **ספק פתרונות ענן (CSP)**
 

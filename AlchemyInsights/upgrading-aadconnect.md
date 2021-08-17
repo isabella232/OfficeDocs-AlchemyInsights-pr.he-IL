@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104813"
 ---
-# <a name="upgrade-azure-ad-connect"></a>התחברות לשדרוג תכלת לספירה
+# <a name="upgrade-azure-ad-connect"></a>שדרוג Azure AD התחברות
 
-כברירת מחדל, שדרוג אוטומטי זמין עבור התחברות של תכלת לספירה, המסייעת לך להבטיח שאתה מפעיל את הגירסה העדכנית ביותר. כדי לאמת את הגדרות השדרוג האוטומטיות, השתמש ב **-Cmdlet Get-ADSyncAutoUpgrade** ב-תכלת AD PowerShell. ה-cmdlet יחזור לאחד מהערכים הבאים:
+כברירת מחדל, שדרוג אוטומטי זמין עבור Azure AD התחברות, מה שמסייע להבטיח שאתה משתמש בגירסה העדכנית ביותר. כדי לאמת את הגדרות השדרוג האוטומטי, השתמש **ב- cmdlet Get-ADSyncAutoUpgrade** ב- Azure AD PowerShell. ה- cmdlet יחזיר אחד מהערכים הבאים:
 
-- **זמין**: שדרוג אוטומטי מופעל.
+- **זמין**: שדרוג אוטומטי זמין.
 
-- לא **זמין**: שדרוג אוטומטי אינו זמין.
+- **לא** זמין : שדרוג אוטומטי אינו זמין.
 
-- **מושעה**: המערכת כבר אינה זכאית לקבל שדרוגים אוטומטיים. לא ניתן לקבוע את התצורה של ערך זה; היא מוגדרת על-ידי המערכת.
+- **מושעה**: המערכת אינה זכאית עוד לקבל שדרוגים אוטומטיים. לא ניתן לקבוע את התצורה של ערך זה; הוא מוגדר על-ידי המערכת.
 
 לקבלת מידע נוסף, ראה [שדרוג אוטומטי](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-כדי להוריד את הגירסה העדכנית ביותר של תכלת AD Connect, עבור אל [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+כדי להוריד את הגירסה העדכנית ביותר של Azure AD התחברות, עבור אל [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .

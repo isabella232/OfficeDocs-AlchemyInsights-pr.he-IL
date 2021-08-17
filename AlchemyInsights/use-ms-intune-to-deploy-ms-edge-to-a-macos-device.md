@@ -1,5 +1,5 @@
 ---
-title: שימוש ב-Microsoft intune כדי לפרוס את Microsoft Edge להתקן macOS
+title: השתמש Microsoft Intune כדי לפרוס Microsoft Edge בהתקן macOS
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003874"
 - "6927"
-ms.openlocfilehash: 4f367df110168260b0607e7747853767437adc37
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 5a1ddaf841111f4be79ee0e2235c54ced4b0d49efad0110cc609441db5b20800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104381"
 ---
-# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>שימוש ב-Microsoft intune כדי לפרוס את Microsoft Edge להתקן macOS
+# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>השתמש Microsoft Intune כדי לפרוס Microsoft Edge בהתקן macOS
 
-כדי לפרוס, לקבוע תצורה, לנטר ולהגן על יישום במכשיר macOS, עליך להוסיף את היישום ל-Microsoft intune. האפליקציה צריכה להיות מסוג הנתמך על-ידי התמצאות, ואפשרויות הניהול הזמינות ב-intune תלויות בסוג האפליקציה. השימוש ב-intune גם פירושו שלא תצטרך להשתמש בכלי גלישת היישומים של macOS.
+כדי לפרוס, לקבוע תצורה, לנטר ולהגן על יישום במכשיר macOS, עליך להוסיף את היישום Microsoft Intune. היישום חייב להיות מסוג נתמך על-ידי Intune, ואפשרויות הניהול הזמינות ב- Intune יהיו תלויות בסוג האפליקציה. השימוש ב- Intune גם פירושו שלא יהיה עליך להשתמש בכלי גלישת היישומים של macOS.
 
-המנגינה תומכת ב-Microsoft Edge. לקבלת מידע נוסף, ראה [הוספת Microsoft Edge למכשירי macOS באמצעות Microsoft intune](https://go.microsoft.com/fwlink/?linkid=2134949).
+Intune תומך Microsoft Edge. כדי ללמוד עוד, ראה [הוספת Microsoft Edge למכשירי macOS באמצעות Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949).
