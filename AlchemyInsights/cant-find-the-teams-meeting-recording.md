@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 49fedc0d829d4972f15e9266e7a5519acfbd3eda78bd7f022477060523b9afd3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5b524fa0731d499bdea831b7f5363996b2f165f58e40717c3ca8a22dc264397
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979494"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890707"
 ---
 # <a name="cant-find-the-teams-meeting-recording"></a>לא ניתן למצוא את Teams הפגישה
 
-אם אינך מצליח לאתר או למצוא הקלטת פגישה Teams, הפעל תחילה את אבחון הקלטת הפגישה החסרה על-ידי **הקלדת Diag: חסרה הקלטה** בתיבה לעיל. 
+אם אינך מצליח לאתר או למצוא הקלטת פגישה Teams, הפעל תחילה את אבחון הקלטת הפגישה החסרה על-ידי **הקלדת Diag: חסרה** הקלטה בתיבה לעיל. 
 
 הקלטות נמצאות בערוץ, OneDrive או SharePoint בהתאם לאופן קביעת התצורה של הדייר שלך ואם ההקלטה היתה עבור פגישת ערוץ. לקבלת הוראות לגבי חיפוש ידני של הקלטת הפגישה, ראה: 
 
-[בעיה 2: קישור הקלטת הפגישה אינו גלוי בחלון צ'אט](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
+[בעיה 2: קישור הקלטת הפגישה אינו גלוי בחלון צ'אט](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-לקבלת מידע נוסף, ראה [בעיות בהקלטות פגישה](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).
+לקבלת מידע נוסף, ראה [בעיות בהקלטות פגישה](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).

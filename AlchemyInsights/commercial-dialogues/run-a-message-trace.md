@@ -1,5 +1,5 @@
 ---
-title: הרצת מעקב אחר הודעות
+title: הפעלת מעקב אחר הודעות
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 5cf5a16b4975b6307631858dfa934ff85376561d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: c5b9c550d02e5201572f2e55154988a33128a047ab373134a59188f6ab59820b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482498"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890599"
 ---
-# <a name="run-a-message-trace"></a>הרצת מעקב אחר הודעות
+# <a name="run-a-message-trace"></a>הפעלת מעקב אחר הודעות
 
-עקבות של הודעות מופעלות במקטע זרימת דואר של מרכז התאימות & אבטחה של Office 365.
+באפשרותך להפעיל מעקב אחר הודעות **Exchange מעקב אחר** הודעות בפורטל Microsoft 365 Defender <https://security.microsoft.com> ב- .
 
-כדי ללמוד כיצד לבצע מעקב אחר הודעות, ראה [מעקב אחר הודעות במרכז התאימות & אבטחה של Office 365](https://go.microsoft.com/fwlink/?linkid=2103855).
+לקבלת מידע נוסף, [ראה מעקב אחר הודעות בפורטל Microsoft 365 Defender שלך](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)
