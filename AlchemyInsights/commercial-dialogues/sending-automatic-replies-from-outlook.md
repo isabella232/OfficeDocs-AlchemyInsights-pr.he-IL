@@ -1,5 +1,5 @@
 ---
-title: שליחת תשובות אוטומטיות מ-Outlook
+title: שליחת תשובות אוטומטיות Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: dc0b35ca22ebb5e7572a48e372c619ec9b8a14d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5775e0de2392ed82fdd2f8ea46fac5b38212bd52e836f00bdac68b24e31639ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091017"
 ---
-# <a name="sending-automatic-replies-from-outlook"></a>שליחת תשובות אוטומטיות מ-Outlook
+# <a name="sending-automatic-replies-from-outlook"></a>שליחת תשובות אוטומטיות Outlook
 
-- קיימות שתי דרכים לשליחת תשובות אוטומטיות של ' מחוץ למשרד ', בהתאם לסוג חשבון הדואר האלקטרוני שברשותך.
-- לחץ על **קובץ** ולאחר מכן בחר **תשובות אוטומטיות** בהתבסס על גירסת Outlook שברשותך.
+- ישנן שתי דרכים לשליחת תשובות אוטומטיות מחוץ למשרד, בהתאם לסוג חשבון הדואר האלקטרוני שיש לך.
+- לחץ **על קובץ** ולאחר מכן בחר תשובות **אוטומטיות** בהתבסס על גירסת Outlook.

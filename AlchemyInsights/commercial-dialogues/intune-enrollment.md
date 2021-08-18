@@ -1,5 +1,5 @@
 ---
-title: הרשמת כוונון
+title: Intune Enrollment
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 79f15b285a9726e65a8d3fc39909d114d2b646ae
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2140dc77dab16cfd42f831314df960d09b6b02a53d513fa52d208ab7e8d66d98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50745761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090881"
 ---
-# <a name="intune-enrollment"></a>הרשמת כוונון
+# <a name="intune-enrollment"></a>Intune Enrollment
 
-כדי לפתור בעיות בהרשמת מכשירים, ראה:
+כדי לפתור בעיות בהרשמה למכשירים, ראה:
 
-- [פתרון בעיות בהרשמת מכשירים ב-Microsoft intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
-- [פתרון בעיות בהרשמת מכשירים של iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
-- [פתרון בעיות בהרשמה אוטומטית של Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
-- [פתרון בעיות בהתקן הארגוני של Android](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
-- [פתרון בעיות בהרשמת התקן של Windows](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
+- [פתרון בעיות בהרשמה למכשירים Microsoft Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
+- [פתרון בעיות בהרשמה למכשירי iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [פתרון Windows 10 הרשמה אוטומטית](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [פתרון בעיות במכשיר Android Enterprise](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
+- [פתרון Windows בעיות בהרשמה למכשירים](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
 
-[קרא עוד אודות הרשמת כוונון...](https://docs.microsoft.com/mem/intune/enrollment/)
+[קרא עוד אודות Intune Enrollment...](https://docs.microsoft.com/mem/intune/enrollment/)

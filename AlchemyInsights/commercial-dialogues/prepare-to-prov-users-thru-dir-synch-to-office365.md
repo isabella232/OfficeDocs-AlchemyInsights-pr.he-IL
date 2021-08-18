@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482332"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090948"
 ---
 # <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Prepare to provision users through directory synchronization to Office 365
 
-הקצאת משתמשים באמצעות סינכרון מדריכי כתובות דורשת תכנון והכנות, בצע את ההנחיות הבאות:
+הקצאת משאבים למשתמשים עם סינכרון מדריכי כתובות דורשת תכנון והכנות, בצע את ההנחיות הבאות:
 
-פעולות מסוימות שצריכות להתבצע בהקצאת משתמשים כוללות:
+פעולות מסוימות שיש לבצע בהקצאת משתמשים כוללות:
 1. **ניקוי מדריך כתובות**.
-1. **אובייקט מדריך כתובות והכנת תכונה**.
+1. **הכנת אובייקט ספריה ותכונה**.
 1. **הכנת תכונות UPN**.
-1. **תוספת אופציונלית של סיומות UPN חלופיות ל-AD DS**.
-1. **התאם ה upn מקומי עם Office 365 ה upn**.
-1. **כלי שילוב מדריכי כתובות**.
+1. **תוספת אופציונלית של סיומת UPN חלופית ל- AD DS**.
+1. **התאם את תיבות ה- UPN המקומיות עם Office 365 UPN**.
+1. **כלי שילוב מדריך כתובות**.
 
-לקבלת תיאורים מפורטים בכל שלב ההכנה, ראה [הכנה להקצאת משתמשים בעזרת סינכרון מדריכי כתובות למאמר Office 365](https://aka.ms/office365assistantprovisionuserstooffice365).
+לקבלת תיאורים מפורטים בכל שלב הכנה, ראה הכנה [להקצאת משתמשים באמצעות סינכרון מדריכי כתובות Office 365 במאמר](https://aka.ms/office365assistantprovisionuserstooffice365).

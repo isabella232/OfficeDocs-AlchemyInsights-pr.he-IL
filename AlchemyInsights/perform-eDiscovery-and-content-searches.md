@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317477"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902045"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>כיצד לבצע חיפושי תוכן וחיפושים ב גילוי אלקטרוני
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317477"
 4. הזן את תנאי החיפוש הדרושים, כולל מילות מפתח ומיקום תוכן.
 5. בחר **שמור & כדי לתת** שם לחיפוש, הפעל אותו ולאחר מכן הצג את התוצאות בתצוגה מקדימה.
 
-**הערה:** **בפתרונות Microsoft 365** תאימות, הרחב את גילוי אלקטרוני ובחר את הכלי הרצוי של  >  גילוי אלקטרוני. 
+> [!NOTE]
+> **ב Microsoft 365 פתרונות מרכז**  >  **התאימות,** הרחב **את** גילוי אלקטרוני ובחר את הכלי הרצוי של גילוי אלקטרוני.
 
 לקבלת הוראות מפורטות אודות חיפושי תוכן, ייצוא תוצאות ויצירת מקרי גילוי אלקטרוני לאחסון נתונים, ראה [חיפוש](https://docs.microsoft.com/microsoft-365/compliance/content-search) תוכן והמקרים [של גילוי אלקטרוני.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 

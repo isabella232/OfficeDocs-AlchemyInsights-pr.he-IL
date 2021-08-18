@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: fe834e12f35550cef669c5a60a2f3e460648dbd0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090737"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>תאימות תקשורת ב- Microsoft 365
+# <a name="communication-compliance-in-microsoft-365"></a>תאימות תקשורת Microsoft 365
 
-תאימות תקשורת היא פתרון תאימות חדש של Microsoft 365, אשר מסייע לארגונים לעמוד בדרישות התאימות לפיקוח ולמזער את סיכוני התקשורת. היא מבוססת על התכונה 'פיקוח' והיא מכילה שיפורים חדשים, כולל:
+תאימות תקשורת היא פתרון Microsoft 365 חדש שיעזור לארגונים לעמוד בדרישות התאימות לפיקוח ולמזער את סיכוני התקשורת. היא מבוססת על התכונה 'פיקוח' והיא מכילה שיפורים חדשים, כולל:
 
 - תבניות חכמות הניתנות להתאמה אישית
 - זרימות עבודה תיקון גמישות
@@ -37,11 +37,11 @@ ms.locfileid: "51817497"
 
 דרישות רשיון: משתמשים המנוהלים על-ידי מדיניות תקשורת חייבים ל:
 
-- רשיון תאימות של Microsoft 365 E5
-- רשיון Office 365 Enterprise E3 עם ההרחבה 'תאימות מתקדמת'
-- מנוי Office 365 Enterprise E5
+- תאימות של Microsoft 365 E5 רשיון
+- Office 365 Enterprise רשיון E3 עם ההרחבה 'תאימות מתקדמת'
+- Office 365 Enterprise מנוי E5
 
-אם אין לך אף אחד מהאמור לעיל וברצונך לנסות תאימות לתקשורת, הירשם לתקינה של גירסת ניסיון של **[Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+אם אין לך אף אחד מהאמור לעיל וברצונך לנסות תאימות לתקשורת, **[הירשם לתקינה של גירסת ניסיון של Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
 
 > [!NOTE]
-> ייתכן שמדיניות תעובד באופן מלא עד 24 שעות עבור הודעות דואר אלקטרוני. תקשורת בפלטפורמות Microsoft Teams , Yammer ו- Third-Party יכולה לאסוף עד 48 שעות כדי לעבד באופן מלא במדיניות.
+> ייתכן שמדיניות תעובד באופן מלא עד 24 שעות עבור הודעות דואר אלקטרוני. תקשורת בפלטפורמות Microsoft Teams, Yammer ופלטפורמות של ספקים אחרים יכולה לאסוף עד 48 שעות כדי לעבד באופן מלא במדיניות.

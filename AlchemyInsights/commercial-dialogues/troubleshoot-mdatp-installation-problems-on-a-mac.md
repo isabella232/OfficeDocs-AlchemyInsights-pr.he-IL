@@ -1,5 +1,5 @@
 ---
-title: פתרון בעיות בהתקנת MDATP ב-Mac
+title: פתרון בעיות בהתקנת MDATP ב- Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50746303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091033"
 ---
-# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>פתרון בעיות בהתקנת MDATP ב-Mac
+# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>פתרון בעיות בהתקנת MDATP ב- Mac
 
-אם ההתקנה הידנית נכשלת, דף **הסיכום** של אשף ההתקנה מציג את השגיאה הבאה:
+אם ההתקנה הידני נכשלת, **העמוד סיכום** של אשף ההתקנה מציג את השגיאה הבאה:
 
-"אירעה שגיאה במהלך ההתקנה. תוכנית ההתקנה נתקלה בשגיאה שגרמה להתקנה להיכשל. פנה ליצרן התוכנה לקבלת סיוע.
+"אירעה שגיאה במהלך ההתקנה. תוכנית ההתקנה נתקלה בשגיאה שגרמה לכשל בהתקנה. פנה ליצרן התוכנה לקבלת סיוע."
 
-עבור פריסות MDM, הדף מציג כשל כללי בהתקנה.
+עבור פריסות MDM, הדף מציג גם כשל התקנה כללי.
 
-למרות שאין באפשרותנו להציג שגיאות מדויקות למשתמשי הקצה, אנו שועטים את קובץ יומן הרישום עם התקדמות ההתקנה, ב- **/Library/Logs/Microsoft/mdatp/install.log**. כל הפעלת התקנה מצורפת לקובץ יומן רישום זה. כדי להפיק פלט של הפעלת ההתקנה האחרונה בלבד, השתמש באפשרות `sed` .
+למרות שאנו לא מציגים שגיאות מדויקות למשתמשי קצה, אנו שומרים קובץ יומן רישום עם התקדמות ההתקנה, **ב- /Library/Logs/Microsoft/mdatp/install.log.** כל הפעלת התקנה מצרף לקובץ יומן רישום זה. כדי ליצור פלט של הפעלת ההתקנה האחרונה בלבד, השתמש `sed` ב- .
 
-לקבלת מידע נוסף, ראה [פתרון בעיות התקנה עבור Microsoft DEFENDER ATP עבור Mac](https://go.microsoft.com/fwlink/?linkid=2144615).
+לקבלת מידע נוסף, ראה [פתרון בעיות התקנה עבור Microsoft Defender ATP עבור Mac](https://go.microsoft.com/fwlink/?linkid=2144615).

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055555"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318649"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>כיצד להפוך דואר קולי מתארח לזמין
 
@@ -29,7 +29,6 @@ ms.locfileid: "54055555"
 לקבלת מידע נוסף אודות התחברות ל- RPS, [ראה Microsoft Teams PowerShell מבט](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) כולל לקבלת מידע נוסף אודות התחברות ל- RPS.
 
 1. מנהל Teams צריך להיכנס ל- PowerShell מרוחק עבור Teams.
-1. מ- PowerShell, Teams מנהל המערכת יכול להפעיל **את set-csuser user@contoso.com -HostedVoiceMail $true** שבו sip uri הוא של המשתמש הנוהל.
+1. מתוך שורת הפקודה של PowerShell Teams מנהל המערכת יכול להפעיל **את set-csuser user@contoso.com -HostedVoiceMail $true** שבו sip uri הוא של המשתמש הנושאל.
 
-> [!NOTE]
-> השכפול של שינויים במדיניות עשוי לאסוף עד 24 שעות.
+**הערה:** שינויים במדיניות יכולים לאסוף עד 24 שעות לשכפול.

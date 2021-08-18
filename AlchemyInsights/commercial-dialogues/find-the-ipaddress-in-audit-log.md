@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303578"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902261"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>חיפוש כתובת ה- IP ביומן הביקורת
 
 כתובת ה- IP התואמת לפעילות שבוצעה על-ידי משתמש או מנהל מערכת מוצגת ביומני הביקורת. פרטי הלקוח נרשם גם הם. כך תוכל לזהות את כתובת ה- IP:
 
 1. ביצוע אחת מהפעולות הבאות:
-   - בתיבת מרכז התאימות של Microsoft 365 , <https://compliance.microsoft.com> עבור אל **ביקורת** \> **פתרונות**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://compliance.microsoft.com/auditlogsearch> ב- .
+   - בתיבת מרכז התאימות של Microsoft 365 <https://compliance.microsoft.com> at , עבור אל **ביקורת** \> **פתרונות**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://compliance.microsoft.com/auditlogsearch> ב- .
    - בפורטל Microsoft 365 Defender <https://security.microsoft.com> ב- , עבור אל **ביקורת**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://security.microsoft.com/auditlogsearch> ב- .
 
-    **הערה:** אם אתה רואה הודעה שתצטרך להפעיל ביקורת, הפעל אותה כעת. אם תכונה זו אינה זמינה, תוצאות החיפוש לא יוכלו למשוך נתונים מתאריכים קודמים.
+    > [!NOTE]
+    > אם אתה רואה הודעה שאתה צריך להפעיל ביקורת, הפעל אותה כעת. אם תכונה זו אינה זמינה, תוצאות החיפוש לא יוכלו למשוך נתונים מתאריכים קודמים.
 
 2. בדף **ביקורת,** ודא שהכרטיסייה חיפוש **נבחרה** ולאחר מכן קבע את תצורת ההגדרות הבאות:
    - **טווח תאריך ושעה:** בחר את טווח התאריך/שעה **בתיבות** **התחלה** וסיום.
