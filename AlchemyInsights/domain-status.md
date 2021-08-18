@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2247da07d60431edef5b5dea8a5c06d51579008c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874396"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326578"
 ---
 # <a name="domain-status---no-services-selected"></a>מצב תחום - לא נבחרו שירותים
 
@@ -26,7 +26,7 @@ ms.locfileid: "57874396"
 
 כדי לבחור שירותים עבור התחום שלך:
 
-1. מתוך **הגדרות**  >  [**תחומים,**](https://admin.microsoft.com/Adminportal/Home)סמן את התיבה לצד התחום עם הודעת המצב **לא נבחרו שירותים.**
+1. מתוך **הגדרות**  >  [**תחומים**](https://admin.microsoft.com/Adminportal/Home), סמן את התיבה לצד התחום כאשר הודעת המצב **לא נבחרו שירותים.**
 1. בחר **ניהול DNS** כדי להפעיל את אשף הגדרת התחום.
     - אם תבחר **באפשרות הוסף רשומות DNS משלך**, הקפד לבחור שירות כאשר תתבקש לעשות זאת. ייתכן שהשירותים נוספים יהיו זמינים תחת **אפשרויות מתקדמות.**
     - אם תבחר באפשרות **תן ל- Microsoft להוסיף** את רשומות ה- DNS שלך או אפשרויות נוספות הגדר את השירותים המקוונים שלי עבורי, כל השירותים הזמינים   >   מוצעים ונבחרים באופן אוטומטי.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893196"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327522"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>התקפה של תוכנות כופר SharePoint או OneDrive
 
@@ -27,9 +27,9 @@ ms.locfileid: "57893196"
     - [הגנה על הנתונים שלך ב- SharePoint ו- OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Ransomware Threat Protection](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  האם כל הקבצים בקבצים שלך OneDrive או SharePoint על-ידי תוכנת כופר או תוכנות זדוניות או וירוס הצפנה? 
+3.  האם כל הקבצים במחשב OneDrive או SharePoint על-ידי תוכנת כופר או תוכנות זדוניות או וירוס הצפנה? 
 
-הפסק/השתהה באופן מיידי את OneDrive Sync (אם בכלל) או נתק את תצוגת הסייר הממופה לספריה מהמחשב המושפע (אם יש) ולאחר מכן תוכל לשחזר את ספריית OneDrive או SharePoint כולה לזמן קודם באמצעות תכונת שחזור הקבצים. 
+הפסק/השהה באופן מיידי את תצוגת OneDrive Sync (אם בכלל) או נתק את תצוגת הסייר הממופה לספריה מהמחשב המושפע (אם יש) ולאחר מכן תוכל לשחזר את ספריית OneDrive או SharePoint כולה לזמן קודם באמצעות תכונת שחזור הקבצים. 
 
 לקבלת מידע נוסף אודות שחזור, ראה:
 

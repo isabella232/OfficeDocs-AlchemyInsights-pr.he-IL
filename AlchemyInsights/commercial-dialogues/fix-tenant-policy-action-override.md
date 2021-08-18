@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896076"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326798"
 ---
 # <a name="fix-tenant-policy-action-override"></a>תיקון מדיניות דיירים (עקיפת פעולה)
 
 אחד ממדיניות האנטי-דואר זבל שלך השפיע על הודעה זו. כדי לסקור את פריטי המדיניות, בצע את השלבים הבאים:
 
-1. בפורטל Microsoft 365 Defender, עבור אל מדיניות שיתוף פעולה & דואר אלקטרוני & מדיניות איומים של כללים נגד דואר <https://security.microsoft.com/>  \>  \>  \>  זבל **במקטע מדיניות.**
+1. בפורטל Microsoft 365 Defender ב- , עבור אל מדיניות שיתוף פעולה & דואר אלקטרוני & כללים מדיניות איומים נגד דואר <https://security.microsoft.com/>  \>  \>  \>  זבל **במקטע מדיניות.**
 
    כדי לעבור ישירות לדף **מדיניות למניעת דואר זבל,** השתמש <https://security.microsoft.com/antispam> ב- .
 
