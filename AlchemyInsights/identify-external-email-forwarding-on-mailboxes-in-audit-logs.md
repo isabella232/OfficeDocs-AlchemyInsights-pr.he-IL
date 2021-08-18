@@ -13,19 +13,19 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899885"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331160"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>זהה מתי העברת דואר אלקטרוני חיצונית מוגדרת בתיבות דואר
 
 כאשר משתמש Microsoft 365 מגדיר העברת דואר אלקטרוני חיצונית בתיבת דואר, הפעילות מבוקרת כחלק מ- **cmdlet Set-Mailbox.** באפשרותך לראות את הפעילות באמצעות חיפוש יומן ביקורת. כך ניתן לעשות זאת.
 
 1. בצע אחד מהשלבים הבאים:
-   - בתיבת מרכז התאימות של Microsoft 365 <https://compliance.microsoft.com> at , עבור אל **ביקורת** \> **פתרונות**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://compliance.microsoft.com/auditlogsearch> ב- .
+   - בתיבת מרכז התאימות של Microsoft 365 , <https://compliance.microsoft.com> עבור אל **ביקורת** \> **פתרונות**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://compliance.microsoft.com/auditlogsearch> ב- .
    - בפורטל Microsoft 365 Defender <https://security.microsoft.com> ב- , עבור אל **ביקורת**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://sip.security.microsoft.com/auditlogsearch> ב- .
 
 2. בדף **ביקורת,** ודא שהכרטיסייה חיפוש **נבחרה** ולאחר מכן קבע את תצורת ההגדרות הבאות:

@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 78955e6331048e9861785cac76cebcece4973996
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895628"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331460"
 ---
 # <a name="cancel-visio-subscription"></a>ביטול Visio מנוי
 
 מנהלי מערכת יכולים לבטל את Visio עבור הארגון שלהם מרכז הניהול של Microsoft 365.
 
 1. עבור אל הדף **חיוב** \> [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
-2. בכרטיסיה **מוצרים,** אתר את Visio המנוי שברצונך לבטל. בחר את שלוש הנקודות (פעולות נוספות), ולאחר מכן בחר **ביטול מנוי**.
+2. בכרטיסיה **מוצרים,** אתר את המנוי Visio שברצונך לבטל. בחר את שלוש הנקודות (פעולות נוספות), ולאחר מכן בחר **ביטול מנוי**.
 3. בחלונית **ביטול** מנוי, בחר סיבה לביטול. לחלופין, ספק משוב כלשהו.
 4. לחץ **שמור**.
 

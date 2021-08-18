@@ -13,23 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 016f4b1caa05cb26d1e6795551b64737d4cb64a5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898797"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332344"
 ---
 # <a name="investigate-all-the-users-activities"></a>לחקור את כל הפעילויות של המשתמשים
 
 כך ניתן לעשות זאת:
 
 1. ביצוע אחת מהפעולות הבאות:
-   - בתיבת מרכז התאימות של Microsoft 365 <https://compliance.microsoft.com> at , עבור אל **ביקורת** \> **פתרונות**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://compliance.microsoft.com/auditlogsearch> ב- .
+   - בתיבת מרכז התאימות של Microsoft 365 , <https://compliance.microsoft.com> עבור אל **ביקורת** \> **פתרונות**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://compliance.microsoft.com/auditlogsearch> ב- .
    - בפורטל Microsoft 365 Defender <https://security.microsoft.com> ב- , עבור אל **ביקורת**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://security.microsoft.com/auditlogsearch> ב- .
 
-    > [!NOTE]
-    > אם אתה רואה הודעה שתצטרך להפעיל את התכונה, הפעל אותה כעת. אם התכונה לא מופעלת, תוצאות החיפוש לא יוכלו למשוך נתונים מתאריכים קודמים.
+    **הערה:** אם אתה רואה הודעה שתצטרך להפעיל את התכונה, הפעל אותה כעת. אם התכונה לא מופעלת, תוצאות החיפוש לא יוכלו למשוך נתונים מתאריכים קודמים.
 
 2. בכרטיסיה חיפוש **בדף** ביקורת, **הגדר** את ההגדרות הבאות:
    - **טווח תאריך ושעה:** בחר את טווח התאריך/שעה **בתיבות** **התחלה** וסיום.

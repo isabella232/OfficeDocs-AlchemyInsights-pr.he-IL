@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963788"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339033"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>כיצד להוסיף ולנהל מנהלי מערכת - שלבים מומלצים
 
@@ -34,7 +34,7 @@ ms.locfileid: "53963788"
 מנהל השירות או מנהל המערכת ה עמיתים יכולים לבצע פעולה זו בשירות עצמי באמצעות השלבים הבאים:
 
 1. היכנס לפורטל [Azure ולחץ](https://ms.portal.azure.com/#home) על **ניהול עלות + חיוב** בלהב הימני.
-2. לחץ על פריט השורה עם המנוי שלך. פעולה זו פותחת את 'מבט כולל' עבור המנוי שלך.
+2. לחץ על פריט השורה עם המנוי שלך. פעולה זו פותחת את מבט כולל עבור המנוי שלך.
 3. בלהב **המנוי,** לחץ **על מאפיינים**. 
 4. לחץ על **לחצן ניהול** שירות.
 5. הזן את הדואר האלקטרוני של המשתמש שברצונך להגדיר כמנהל שירות ולחץ על **אישור**.
@@ -42,7 +42,7 @@ ms.locfileid: "53963788"
 **הוספה/שינוי/הסרה של מנהל עמית**
 
 1. היכנס לפורטל [Azure](https://ms.portal.azure.com/#home) כמנהל שירות.
-2. פתח [מנויים](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ובחר מנוי. (ניתן להקצות מנהלי מערכת עמיתים רק בטווח המנוי.)
+2. פתח [מנויים](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ובחר מנוי. (ניתן להקצות מנהלים עמיתים רק בטווח המנוי.)
 3. נווט **אל Access (IAM)** מנהלי מערכת קלאסיים הוסף הוסף מנהל שותף כדי לפתוח את החלונית הוסף מנהל מערכת שותף (אם האפשרות הוסף מנהל עמית אינה זמינה, היא מציינת כי אין  >    >    >   לך הרשאות). 
 4. בחר את המשתמש שברצונך להוסיף ולחץ על **הוסף**.
 
@@ -75,7 +75,7 @@ ms.locfileid: "53963788"
 - [ערכת לימוד: הענק גישה עבור משתמש באמצעות RBAC ופורטל Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [פתרון בעיות של RBAC ב- Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [ארגון המשאבים שלך באמצעות קבוצות ניהול Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [כיצד לבקש עותק של חשבונית Azure באמצעות דואר אלקטרוני](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [כיצד לבקש עותק של חשבונית Azure באמצעות דואר אלקטרוני](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [כיצד להוסיף, לעדכן או להסיר כרטיס אשראי או חיוב מ- Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [ניהול (הפעלה מחדש/ביטול/החלפה) מנוי](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

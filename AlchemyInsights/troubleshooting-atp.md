@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5614deae44c08b2a5f9786b26bdbdcfa4daed15d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900653"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330817"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>פתרון בעיות ב- Microsoft Defender עבור Office 365
 
@@ -24,7 +24,7 @@ ms.locfileid: "57900653"
 
 - **האם ברצונך הדוח חיוביים או שליליים שגויים ל- Microsoft?** השתמש [בסייר ההגשות.](https://protection.office.com/reportsubmission)
 
--** האם ידעת שתוכל להפוך את ההגנה על קישורים כספת עבור דואר אלקטרוני פנימי שנשלח בין נמענים בתוך הארגון שלך?** בצע שלבים אלה:
+-** האם ידעת שתוכל להפוך את ההגנה על קישורים כספת עבור דואר אלקטרוני פנימי שנשלח בין הנמענים בארגון שלך?** בצע את השלבים הבאים:
 
   1. עבור אל [https://protection.office.com](https://protection.office.com) והירשם באמצעות חשבון מנהל מערכת כללי או מנהל אבטחה.
 
@@ -32,4 +32,4 @@ ms.locfileid: "57900653"
 
   3. במקטע **פריטי מדיניות החלים על הארגון כולו,** בחר את המדיניות ולחץ על **ערוך**.
 
-  4. תחת **הגדרות,** הפוך את **האפשרות החל קישורים בטוחים על הודעות הנשלחות בתוך הארגון.**
+  4. תחת **הגדרות,** הפוך **את האפשרות החל קישורים בטוחים על הודעות שנשלחו בתוך הארגון.**

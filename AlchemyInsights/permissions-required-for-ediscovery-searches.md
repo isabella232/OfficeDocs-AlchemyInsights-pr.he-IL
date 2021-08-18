@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973842"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338961"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>הרשאות הנדרשות לחיפוש גילוי אלקטרוני
 
-כדי לבצע חיפושי תוכן במרכז התאימות של אבטחה &, משתמש חייב להיות לפחות חבר בקבוצת התפקידים 'מנהל גילוי אלקטרוני', המאפשר לו לבצע חיפושים ולמקום תיבות דואר, SharePoint אתרים ומיקום OneDrive. חברים יכולים גם ליצור ולנהל אירועים של גילוי אלקטרוני, להוסיף ולהסיר חברים למקרה, ליצור ולערוך חיפושי תוכן ולגשת לנתונים של רישיות ב- Advanced eDiscovery.
+כדי לבצע xearches תוכן במרכז האבטחה & תאימות, משתמש חייב לפחות להיות חבר בקבוצת התפקידים של מנהל גילוי אלקטרוני.
 
-כדי לבצע In-Place גילוי אלקטרוני במרכז הניהול של Exchange (EAC), המשתמש חייב להיות חבר בקבוצת התפקידים 'ניהול גילוי' ב- Exchange Online.
+כדי לבצע חיפושי תוכן במרכז התאימות של Microsoft 365, משתמש חייב לפחות להיות חבר בקבוצת התפקידים של מנהל גילוי אלקטרוני.  
 
-לקבלת מידע נוסף אודות הרשאות גילוי אלקטרוני, ראה: 
+כדי להקצות הרשאות:
 
-- [הקצאת הרשאות גילוי אלקטרוני במרכז האבטחה & תאימות](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [הקצאת הרשאות גילוי אלקטרוני ב- Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. עבור אל [הרשאות מרכז התאימות של Microsoft 365](https://compliance.microsoft.com/)  >  .
+1. תחת **מרכז תאימות**, בחר **תפקידים** ולאחר מכן בחר **מנהל גילוי אלקטרוני**.
+1. בתפריט נשלף, הוסף את המשתמש לתפקיד הרצוי על-ידי בחירת **ערוך** לצד תפקיד מנהל גילוי אלקטרוני או מנהל גילוי אלקטרוני.
 
 **הערה:** לאחר הקצאת הרשאות גילוי אלקטרוני, ייתכן שתצטרך להמתין כמה דקות כדי שההרשאות יתפצו.
+
+לקבלת מידע נוסף אודות הרשאות גילוי אלקטרוני, ראה הקצאת הרשאות גילוי אלקטרוני [במרכז התאימות של Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).

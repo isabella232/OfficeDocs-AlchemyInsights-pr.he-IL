@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a005c4a6848bbf0725560375df1220ce906cbb5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972717"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330960"
 ---
 # <a name="troubleshoot-prt-issue"></a>פתרון בעיות PRT
 
@@ -34,8 +34,7 @@ ms.locfileid: "53972717"
     1. ההתקן מנסה תחילה לאחזר פרטי דיירים מ- SCP בצד הלקוח ברישום [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. לקבלת מידע נוסף, עיין במסמך [זה.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control)
     2. אם הוא נכשל, המכשיר מקיים תקשורת עם Active Directory (AD) מקומי כדי לקבל פרטי דיירים מנקודת חיבור השירות (SCP). כדי לאמת את SCP, עיין במסמך [זה.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point) 
 
-> [!NOTE]
-> מומלץ להפוך את SCP ל- AD לאפשר שימוש ב- SCP בצד הלקוח רק לאימות הראשוני.
+**הערה:** מומלץ להפוך את SCP ל- AD לאפשר שימוש ב- SCP בצד הלקוח רק כדי לבצע אימות ראשוני.
 
 2. Windows 10 מנסה לקיים תקשורת עם Azure AD תחת הקשר המערכת כדי לאמת את עצמה מול Azure AD. באפשרותך לוודא אם המכשיר יכול לגשת למשאבי Microsoft תחת חשבון המערכת באמצעות קובץ ה- Script של קישוריות לרישום מכשיר בדיקה.
 
@@ -47,8 +46,7 @@ ms.locfileid: "53972717"
 
 6. בכניסה הבאה של המשתמש Windows 10, הרישום יושלם. 
 
-> [!NOTE]
-> אם אתה משתמש ב- VPN ותהליך התחברות לתנתק מסיים את קישוריות התחום, באפשרותך להפעיל את הרישום באופן ידני:
+**הערה**: אם אתה משתמש ב- VPN ותהליך כניסה למערכת מסיים את קישוריות התחום, באפשרותך להפעיל את הרישום באופן ידני:
  1. הנפקת dsregcmd /join באופן מקומי בהנחיה למנהל מערכת או מרחוק באמצעות PSExec למחשב שלך. לדוגמה, PsExec -s \\ win10client01 cmd, dsregcmd /join
 
- 2. לקבלת פרטים נוספים אודות בעיות צירוף היברידי, ראה [פתרון בעיות במכשירים](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).
+ 2. לקבלת פרטים נוספים אודות בעיות צירוף היברידי, ראה [פתרון בעיות במכשירים.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)

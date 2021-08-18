@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922226"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331042"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>הסרת נתונים ומחיקת מכשירים מ- Intune
 
@@ -32,8 +32,7 @@ ms.locfileid: "53922226"
 4. בחר **כן** כדי לאשר. עד לסיום המחיקה, מצב הפעולה של המכשיר יופיע ג *הוצאה משימוש ממתינה*.
     לאחר השלמת הפעולה, לא תראה עוד את המכשיר הנייד ברשימת המכשירים המנוהלים.
 
-> [!NOTE]
-> לא ניתן להסיר נתוני חברה ממכשירים שהצטרפו ל- Azure AD. 
+**הערה:** לא ניתן להסיר נתוני חברה ממכשירים המחוברים ל- Azure AD. 
 
 לקבלת פרטים מלאים של השפעת פעולות 'הוצאה משימוש' ו'מחיקה', כולל מה נשמר ומה נמחק, ראה את המסמכים הבאים:
 
