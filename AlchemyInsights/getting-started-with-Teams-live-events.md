@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: a10f756fc69a7a135446d8d3bcec1f5e951627d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811961"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088865"
 ---
 # <a name="getting-started-with-teams-live-events"></a>תחילת העבודה עם אירועים בשידור חי של Teams
 
@@ -25,7 +25,7 @@ ms.locfileid: "51811961"
 
 כדי ליצור אירוע בשידור חי, תצטרך את הדברים הבאים:
 
-- תחילה, אשר שאירועי Teams Live [זמינים במדינה ובאזור שלך;](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) אירועים בשידור חי אינם נתמכים עדיין במדינות מסוימות.  אם הקצהת רשיונות וקבעת פריטי מדיניות, אך עדיין אינך מצליח ליצור אירוע Teams Live, סביר מאוד שאתה נמצא במדינה או באזור שבו אירועים בשידור חי עדיין אינם זמינים.
+- תחילה, ודא Teams אירועים בשידור חי [זמינים במדינה ובאזור שלך;](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) אירועים בשידור חי אינם נתמכים עדיין במדינות מסוימות.  אם הקצהת רשיונות וקבעת פריטי מדיניות, אך עדיין אינך מצליח ליצור אירוע Teams Live, סביר שאתה נמצא במדינה או באזור שבו אירועים בשידור חי עדיין אינם זמינים.
 
 - רישיון [Office 365 Enterprise E1, E3, או E5 או רישיון Office 365 A3 או רישיון A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **הערה**: עקב שימוש מוגבר ב- Teams לאחרונה, כאשר אתה מקצה למשתמש רישיון Teams, ייתכן שיחלפו 24 שעות לפני שהוא יוגדר במלואו. עד אז, לא תוכל להקצות להם פריטי מדיניות של Teams, וייתכן שלא תהיה להם גישה לתכונות מסוימות של Teams, כגון ועידות שמע.
 
