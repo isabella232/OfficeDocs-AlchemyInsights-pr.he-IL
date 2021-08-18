@@ -1,5 +1,5 @@
 ---
-title: הימנעות מהוספה של חתימות מרובות בשיחת דואר אלקטרוני
+title: הימנע מהוספת חתימות מרובות בשיחת דואר אלקטרוני
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fe460e94307043b8d271111bed83e7b1c35b9b47
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2a9d6acab661470f71adf9f757e6847c367d26979fa210dd8f35e0ffaaa8dc45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50482802"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119321"
 ---
-# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>הימנעות מהוספה של חתימות מרובות בשיחת דואר אלקטרוני
+# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>הימנע מהוספת חתימות מרובות בשיחת דואר אלקטרוני
 
-כדי לקבל כתב ויתור או חתימה שנוסף רק פעם אחת בכל רצף תגובות בדואר אלקטרוני, יהיה עליך לשנות את ההגדרה במרכז הניהול של Exchange.
+כדי לקבל כתב ויתור או חתימה שנוספו פעם אחת בלבד לכל שרשור דואר אלקטרוני, יהיה עליך לשנות את ההגדרה במרכז Exchange הניהול.
 
-1. עבור אל [מרכז הניהול של Exchange.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
-2. בחר **אפשרויות נוספות** כדי להוסיף חריג שמחפש טקסט ייחודי בכתב הויתור. פעולה זו מבטיחה שכתב הויתור יתווסף רק להודעה המקורית.
+1. עבור אל [Exchange הניהול.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
+2. בחר **אפשרויות נוספות** כדי להוסיף חריגה ש מחפש טקסט ייחודי כתב ויתור. פעולה זו מבטיחה שההודעה תתווסף רק להודעה המקורית.
 
