@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020085"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317141"
 ---
 # <a name="understand-billing-amount"></a>הבנת סכום חיוב
 
@@ -70,7 +70,9 @@ ms.locfileid: "54020085"
 
 **כיצד ניתן לאמת ששירותים ללא תשלום פעילים או מתי פג תוקפם?**
 
-בפורטל Ibiza > מנוי > דף מבט כולל > גלול למטה על שירותים ללא תשלום למשך 12 חודשים ולחץ על סמל המידע. פעולה זו תציג את התאריך שבו פג תוקפם של השירותים ללא תשלום **הערה**: אין שירותי V1 כחלק מהשירותים הכלולים של Azure ללא תשלום. לקבלת הרשימה העדכנית ביותא של שירותים ללא תשלום, ראה [אילו מוצרים הם ללא תשלום למשך 12 חודשים](http://www.microsoftazuresponsorships.com/)
+בפורטל Ibiza > מנוי > דף מבט כולל > גלול למטה על שירותים ללא תשלום למשך 12 חודשים ולחץ על סמל המידע. פעולה זו תציג את התאריך תוקף תוקף השירותים ללא תשלום
+
+**הערה:** אין שירותי V1 מהווה חלק מהשירותים הכלולים בחינם ב- Azure. לקבלת הרשימה העדכנית ביותא של שירותים ללא תשלום, ראה [אילו מוצרים הם ללא תשלום למשך 12 חודשים](http://www.microsoftazuresponsorships.com/)
 
 שאלות נפוצות נוספות: [שאלות נפוצות בנושא חשבון ללא תשלום](https://azure.microsoft.com/free/free-account-faq/)
 

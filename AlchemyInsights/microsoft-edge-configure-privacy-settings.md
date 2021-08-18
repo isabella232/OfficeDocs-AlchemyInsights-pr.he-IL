@@ -1,5 +1,5 @@
 ---
-title: הגדרות הפרטיות של Microsoft Edge
+title: Microsoft Edge קביעת תצורה של הגדרות פרטיות
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49677792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114173"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>הגדרות הפרטיות של Microsoft Edge
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge קביעת תצורה של הגדרות פרטיות
 
-כברירת מחדל, אם Microsoft Edge נפרסת בפלטפורמות שאינן של Windows, נתוני אבחון ומידע אודות האתר אינם נשלחים ל-Microsoft. עם זאת, אם Microsoft Edge נפרס ב-Windows 10, נתוני אבחון ומידע אודות האתר נשלחים בהתאם [להגדרות הנתונים של ' אבחון](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)משתמשים ' של Windows.
+כברירת מחדל, אם Microsoft Edge נפרס בפלטפורמות שאינן Windows, נתוני אבחון ומידע אתר אינם נשלחים ל- Microsoft. עם זאת, אם Microsoft Edge נפרסת ב- Windows 10, נתוני אבחון ומידע אתר נשלחים בהתאם להגדרות [נתוני האבחון של Windows המשתמשים.](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
 
-כדי לקבוע את האופן שבו Microsoft Edge מטפל באיסוף נתונים עבור הארגון שלך, השתמש בפריטי המדיניות הבאים של הקבוצה:
-- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): מדיניות זו מאפשרת דיווח על השימוש והנתונים הקשורים להתרסקות.
-- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): מדיניות זו שולחת מידע על האתר המשמש לשיפור שירותי Microsoft.
+כדי לקבוע את Microsoft Edge לטפל באיסוף נתונים עבור הארגון שלך, השתמש במדיניות הקבוצתית הבאה:
+- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): מדיניות זו מאפשרת דיווח על נתונים הקשורים לשימוש ולהתרסקות.
+- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): מדיניות זו שולחת פרטי אתר המשמשים לשיפור שירותי Microsoft.
 
-לקבלת מידע נוסף, ראה [קביעת תצורה של הגדרות מדיניות](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).
+כדי ללמוד עוד, ראה [קביעת תצורה של הגדרות מדיניות.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings)

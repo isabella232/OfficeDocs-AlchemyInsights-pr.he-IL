@@ -1,5 +1,5 @@
 ---
-title: 127 מקבל שגיאת TenantAccessBlockedException בעת גישה לדואר אלקטרוני?
+title: 127 קבלת שגיאת TenantAccessBlockedException בעת גישה לדואר אלקטרוני?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089441"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>מקבל שגיאת TenantAccessBlockedException בעת גישה לדואר אלקטרוני?
 
 יש כמה סיבות שונות לכך שאתה עשוי לקבל שגיאה זו. לדוגמה:
 
-- ודא שהמנוי שלך חוקי בדף **חיוב** \> **[המוצרים שלך](https://portal.office.com/adminportal/home#/subscriptions)** במרכז הניהול של Microsoft 365.
+- ודא שהמנוי שלך חוקי בדף **חיוב** \> **[המוצרים](https://portal.office.com/adminportal/home#/subscriptions)** שלך מרכז הניהול של Microsoft 365.
 
-- בדוק אם קיימות הודעות קודמות **Billing** בדף \> **[התשלומים ' חשבונות חיוב &](https://portal.office.com/adminportal/home#/billoverview)** ' במרכז הניהול של Microsoft 365.
+- בדוק אם יש הודעות שתאריך היעד שלה עבר  \> **[בדף & תשלומים](https://portal.office.com/adminportal/home#/billoverview)** בדף מרכז הניהול של Microsoft 365.
 
-- אם החיוב והמנויים עבור החשבון שלך עודכנו לאחרונה, ייתכן שיידרשו זמן להפיץ את השינויים. נסה שוב בעוד כמה דקות, ואם הבעיה נמשכת, פנה אלינו.
+- אם החיובים ומנויים עבור החשבון שלך עודכנו לאחרונה, ייתכן שהשינויים יתפשטו. נסה שוב בעוד כמה דקות, ואם הבעיה נמשכת, פנה אלינו.

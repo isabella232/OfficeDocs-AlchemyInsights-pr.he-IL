@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 7ffab72bc4c00ecc1c6d0e92263800c99858980c11764d307914635370306087
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 026e9722ac533e69178c40dd26792a362cf8fdda
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890303"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317187"
 ---
 # <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>פתרון בעיות ב- Microsoft Defender עבור Office 365
 
@@ -24,7 +24,7 @@ ms.locfileid: "57890303"
 - **האם ברצונך הדוח חיוביים או שליליים שגויים**? השתמש [בסייר ההגשות.](https://protection.office.com/reportsubmission)
 - האם ידעת שתוכל להפוך את Microsoft Defender עבור Microsoft Defender לזמין **עבור Office 365 כספת קישורים עבור דואר אלקטרוני שנשלח בין אנשים בארגון שלך?** בצע שלבים אלה:
     1. עבור אל https://protection.office.com , והירשם.
-    2. עבור אל **מדיניות ניהול**  >    >  **איומים כספת קישורים.**
+    2. עבור אל **מדיניות ניהול**  >    >  **איומים כספת קישורים**.
     3. תחת **פריטי מדיניות החלים על נמענים ספציפיים**, ערוך (או הוסף) מדיניות.
     4. בחר **החל קישורים בטוחים על הודעות שנשלחו בתוך הארגון**.
     5. שמור את המדיניות שלך ותאפשר החלת שינויים של עד 30 דקות.

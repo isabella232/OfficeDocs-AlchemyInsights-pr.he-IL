@@ -15,12 +15,12 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: eed4a608153248bd2feba8bd1aa0a8a66d55edb54b3d5fecb88d69fd2e165fcf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c9fa862fce7c5f60d3d654b490e5ed181ebbf52ec10e475c2fa4815d845a1d59
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062513"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900921"
 ---
 # <a name="reactivate-a-microsoft-365-subscription"></a>הפעלה מחדש של Microsoft 365 חדש
 
@@ -31,4 +31,4 @@ ms.locfileid: "54062513"
 3. בחלונית **הפעל מחדש מנוי זה,** בחר שיטת תשלום מהרשימה הנפתחת, או בחר הוסף שיטת **תשלום**.
 4. לחץ **שמור**.
 
-לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+לקבלת מידע נוסף, ראה [הפעלה מחדש של המנוי שלך](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

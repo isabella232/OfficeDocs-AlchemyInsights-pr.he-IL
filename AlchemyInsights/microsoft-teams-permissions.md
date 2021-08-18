@@ -1,5 +1,5 @@
 ---
-title: הרשאות Microsoft Teams
+title: Microsoft Teams הרשאות
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2cf6668e8451530a4ad05a448ab59f7a34d22a7a1072f290da6c5a248ab0c433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114065"
 ---
-# <a name="microsoft-teams-permissions"></a>הרשאות Microsoft Teams
+# <a name="microsoft-teams-permissions"></a>Microsoft Teams הרשאות
 
 Microsoft Teams כולל שני תפקידי משתמש: בעלים וחבר. כברירת מחדל, משתמש שיצר צוות חדש מקבל את הסטטוס בעלים. בנוסף, בעלים וחברים יכולים להיות בעלי יכולות מנחה עבור ערוץ (אם הוגדר מיתון). אם צוות נוצר מקבוצה קיימת של Microsoft 365, הרשאות עוברות בירושה. לקבלת מידע נוסף, ראה:
 
 - [הקצאת בעלי צוות וחברים ב- Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [הרשאות ושיקולים של יישומי Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [הגדרת הרשאות אורח עבור ערוצים ב- Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Microsoft Teams יישומים ושיקולים](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [הגדרת הרשאות אורח עבור ערוצים Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
