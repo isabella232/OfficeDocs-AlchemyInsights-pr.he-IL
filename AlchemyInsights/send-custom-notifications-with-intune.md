@@ -1,5 +1,5 @@
 ---
-title: שליחת הודעות מותאמות אישית באמצעות כוונון
+title: שליחת הודעות מותאמות אישית באמצעות Intune
 ms.author: brenduns
 author: brenduns
 manager: dougeby
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086165"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>כיצד לשלוח הודעות מותאמות אישית למשתמשים של מכשירי iOS ומכשירי Android מנוהלים
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>כיצד לשלוח הודעות מותאמות אישית למשתמשים במכשירי iOS ו- Android מנוהלים
 
-הודעות מותאמות אישית עבור ' שלחן ' מעובדות על-ידי האפליקציה ' פורטל החברה ' במכשיר של משתמש. לאחר מכן האפליקציה יוצרת את ההודעה דחיפה במכשיר זה.
+הודעות מותאמות אישית עבור Intune מעובדות Company Portal על-ידי אפליקציית המשתמש במכשיר של משתמש. לאחר מכן, האפליקציה יוצרת את הודעת דחיפה במכשיר זה.
 
-להלן דרישות מוקדמות של התקן כדי לתמוך בקבלת הודעות מותאמות אישית, ולאחר מכן כדי ליצור את הודעת הדחיפה:
+להלן תנאים מוקדמים של מכשיר לתמיכה בקבלת הודעות מותאמות אישית, ולאחר מכן כדי שהיישום ייצור את הודעת דחיפה:
 
-- היישום ' פורטל החברה ' חייב להיות מותקן במכשיר.  
+- המכשיר חייב להתקין את Company Portal היישום.  
 
-- המכשיר חייב לאפשר לאפליקציית הפורטל של החברה לשלוח הודעות דחיפה. כאשר האפליקציה מותקנת או מעודכנת, היא תנחה את המשתמש להתיר הודעות.
+- המכשיר חייב לאפשר לאפליקציה Company Portal לשלוח הודעות דחיפה. כאשר האפליקציה מותקנת או מתעדכנת, היא תבקש מהמשתמש להתיר הודעות.
 
-- מכשירי Android חייבים להיות מותקנים ב-Google Play Services.
+- מכשירי Android חייבים להתקין את Google Play Services.
 
-- יש לרשום את המכשיר באמצעות ' שלחן '.
+- המכשיר חייב להיות רשום באמצעות Intune.
 
-לקבלת מידע נוסף, כולל כיצד לשלוח הודעה, עיין [בתיעוד התכונות](https://docs.microsoft.com/intune/custom-notifications).
+לקבלת מידע נוסף, כולל אופן שליחת הודעה, עיין [בתיעוד התכונה](https://docs.microsoft.com/intune/custom-notifications).

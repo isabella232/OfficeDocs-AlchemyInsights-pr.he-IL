@@ -1,5 +1,5 @@
 ---
-title: עזרה באינטראקציה SharePoint ואינטראקציה Microsoft Teams שלך
+title: עזרה עבור האינטראקציה SharePoint והאינטראקציה Microsoft Teams שלך
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,17 +14,17 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: 34f2db749fe457dfad457e15c3b836d98b9f0de75a9c03bd79a3c1a8f4d4d4de
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f60b07d1f39cce07fc64e1029398633582997dee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898357"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315477"
 ---
-# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>עזרה באינטראקציה SharePoint ואינטראקציה Microsoft Teams שלך
+# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>עזרה עבור האינטראקציה SharePoint והאינטראקציה Microsoft Teams שלך
 
-לכל צוות Microsoft Teams אתר צוות ב- SharePoint, וכל ערוץ רגיל בצוות מקבל תיקיה בספריית המסמכים המוגדרת כברירת מחדל באתר הצוות. כל ערוץ פרטי מקבל ערוץ SharePoint משלו. לקבלת מידע נוסף:
+לכל צוות Microsoft Teams אתר צוות ב- SharePoint, וכל ערוץ רגיל בצוות מקבל תיקיה בספריית המסמכים המוגדרת כברירת מחדל באתר הצוות. כל ערוץ פרטי מקבל ערוץ נפרד SharePoint משלו. לקבלת מידע נוסף:
 
-- כדי ללמוד עוד אודות אינטראקציה בערוץ פרטי, [ראה ערוצים פרטיים Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+- כדי ללמוד עוד אודות אינטראקציה בערוץ פרטי, [ראה ערוצים פרטיים ב- Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-- לקבלת מידע נוסף על מגבלות ואופן SharePoint, ראה [מגבלות ומפרטים עבור Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#storage). 
+- לקבלת מידע נוסף על מגבלות ואופן SharePoint האחסון, ראה [מגבלות ומפרטים עבור Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#storage). 

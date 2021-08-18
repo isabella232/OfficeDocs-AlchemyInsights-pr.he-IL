@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: b9552e8a1f28138bf72fbc97b9cdb1ab7545b5021acbfe417602d49d351de4c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 725a0b757902e5ae16d375d291d4d349b897a792
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937318"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315333"
 ---
 # <a name="activating-office-using-device-based-licensing"></a>הפעלת Office באמצעות רישוי מבוסס מכשיר
 
@@ -30,5 +30,4 @@ ms.locfileid: "53937318"
 
 לקבלת הנחיות לפתרון בעיות, [ראה פתרון בעיות של רישוי מבוסס מכשיר עבור יישומי Microsoft 365 לארגונים](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
-> [!NOTE]
-> אם יישומי Microsoft 365 כבר מותקנים ופעילים באמצעות רישוי מנוי מבוסס משתמש או הפעלת מחשב משותפת, יהיה עליך לאפס את מצב הרשיון במכשיר לפני שהוא יעבר לרישוי מבוסס מכשיר. כדי לאפס את מצב ההפעלה, ראה [איפוס יישומי Microsoft 365 לארגונים ההפעלה](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
+**הערה**: אם יישומי Microsoft 365 כבר מותקנים ופעילים באמצעות רישוי מנוי מבוסס משתמש או הפעלת מחשב משותפת, יהיה עליך לאפס את מצב הרשיון במכשיר לפני שהוא יעבר לרישוי מבוסס מכשיר. כדי לאפס את מצב ההפעלה, ראה [איפוס יישומי Microsoft 365 לארגונים ההפעלה](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
