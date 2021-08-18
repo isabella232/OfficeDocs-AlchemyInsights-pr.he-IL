@@ -15,17 +15,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: 797666be608e4f426cb6077dbf40e81e0adef7a6bf01f66b74722274a01c42c7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e1b25562e75926ce71ad1b854a0bad0af7a4687f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502177"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319501"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>כיצד להוסיף או לערוך VatID
 
-> [!NOTE]
-> אם אתה נמצא במדינה המשתמשת במס מוסף (מע"מ), כגון בריטניה, Microsoft Invoicing מחשב את המע"מ בשבילך, ומחיל את הסכום על החשבוניות שלך. לקבלת מידע נוסף, ראה [כתב ויתור של VIES שפורסם](https://go.microsoft.com/fwlink/p/?LinkID=841741) על-ידי הנציבות האירופית.
+**הערה:** אם אתה נמצא במדינה המשתמשת במס מוסף (מע"מ) מוערך, כגון בריטניה, Microsoft Invoicing מחשבת את המע"מ בשבילך, ומחילה את הסכום על החשבוניות שלך. לקבלת מידע נוסף, ראה [כתב ויתור של VIES שפורסם](https://go.microsoft.com/fwlink/p/?LinkID=841741) על-ידי הנציבות האירופית.
 
 **הוספה או עריכה של VatID**
 
@@ -34,4 +33,4 @@ ms.locfileid: "54502177"
 3. בדף פרטי המנוי, במקטע כתובת שימוש **בשירות,** בחר ערוך **את כתובת השימוש בשירות**.
 4. בחלונית **עריכת כתובת השימוש בשירות,** הקלד את מזהה המע"מ בתיבה מספר **מע"מ** ולאחר מכן בחר **שמור**. לאחר ביצוע פעולה זו, המע"מ לא יחויב בחשבון הבא שלך.
 
-לקבלת מידע נוסף, [ראה איזה מס תחויב עבור Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+לקבלת מידע נוסף, [ראה איזה מס תחויב עבור Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

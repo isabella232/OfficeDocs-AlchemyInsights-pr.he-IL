@@ -12,25 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318793"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091133"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>דיווח על הודעות דואר אלקטרוני חשודות, כתובות URL או קבצים מצורפים
 
-אני מבין שאתה זקוק לעזרה בחקירת דואר אלקטרוני חשוד או הודעת דואר אלקטרוני מסוננים באופן שגוי. אני יכול לעזור לך להגיש את הבעיה לניתוח באמצעות פורטל **ההגשות,** אשר ייתן לך משוב מיידי. להלן סיכום של השלבים:
+אני מבין שאתה זקוק לעזרה בחקירת דואר אלקטרוני חשוד או הודעת דואר אלקטרוני מסוננים באופן שגוי. אני יכול לעזור לך להגיש את הבעיה לניתוח באמצעות סייר ההגשות, אשר ייתן לך משוב מיידי. להלן סיכום של השלבים:
 
-1. בפורטל Microsoft 365 Defender <https://security.microsoft.com> ב- , עבור אל **דואר אלקטרוני & שיתוף** פעולה \> **הגשות**.
-
-   כדי לעבור ישירות לדף **'הגשות',** השתמש <https://security.microsoft.com/reportsubmission> ב- .
-
-2. בדף **הגשות,** ודא שהכרטיסייה **נשלח לניתוח** נבחרה ולאחר מכן לחץ על + **שלח ל- Microsoft לצורך ניתוח**.
-
-3. תפריט נשלף יופיע עם האפשרות לשלוח הודעת דואר אלקטרוני, כתובת URL או קובץ.
-
-לקבלת מידע נוסף, ראה [שימוש בהשלחת מנהל מערכת כדי לשלוח דואר זבל חשוד, דיוג, כתובות URL וקבצים ל- Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission).
-
-**הערה:** הודע למשתמשים שלך שהם צריכים הדוח הודעות חשודות בתיבת הדואר הנכנס שלהם באמצעות התוספת 'הודעת דוח' או התוספת 'דיווח [על דיוג'](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).
+1. עבור אל [מרכז Office 365 אבטחה &, ולאחר](https://go.microsoft.com/fwlink/p/?linkid=2077143)מכן עבור אל **הגשות ניהול**  >  [איומים](https://go.microsoft.com/fwlink/?linkid=2101521).
+2. בחר **+ הגשה חדשה**. תפריט נשלף יופיע עם האפשרות לשלוח הודעת דואר אלקטרוני, כתובת URL או קובץ.
+    > [!NOTE]
+    > הודע למשתמשים שלך שהם צריכים הדוח הודעות חשודות בתיבת הדואר הנכנס שלהם ל- Microsoft באמצעות [התוספת 'הודעת דוח'](https://go.microsoft.com/fwlink/?linkid=2092385).

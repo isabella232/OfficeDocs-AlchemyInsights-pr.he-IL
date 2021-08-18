@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001509"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320031"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>עדכון כתובת מ- Sold-to ו- bill-to המשויכת ל- MCA שלך - שלבים מומלצים
 
 באפשרותך לעדכן את הכתובת שנמכרה אל וכתובת החיוב המשויכת להסכם הלקוחות של Microsoft (MCA). 
 
-> [!NOTE]
-> רק מנהל משתמש יכול לבצע שינויים במידע פרופיל המשתמש של Azure Active Directory. אם לא הוקצו לך תפקיד מנהל המשתמשים, פנה למנהל המשתמש שלך. לקבלת מידע נוסף אודות שינוי פרופיל של משתמש, ראה הוספה או עדכון של פרטי פרופיל של [משתמש באמצעות Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+**הערה:** רק מנהל משתמש יכול לבצע שינויים במידע פרופיל המשתמש של Azure Active Directory. אם לא הוקצו לך תפקיד מנהל המשתמשים, פנה למנהל המשתמש שלך. לקבלת מידע נוסף אודות שינוי פרופיל של משתמש, ראה הוספה או עדכון של פרטי פרופיל של [משתמש באמצעות Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
 
 **כתובת נמכרת ל** - הכתובת הנמכרת ל היא הכתובת ופרטי הקשר של הארגון או של האדם שאחראי על חשבון חיוב. היא מוצגת בכל החשבוניות שנוצרו עבור חשבון החיוב.
 
@@ -35,7 +34,7 @@ ms.locfileid: "54001509"
 
 1. היכנס לפורטל Azure באמצעות כתובת הדואר האלקטרוני, הכוללת בעלים או תפקיד משתתף בחשבון החיוב עבור MCA.
 1. חפש חיוב **ניהול**  +  **עלות**.
-1. לחץ **על מאפיינים**  >  **עדכן נמכר ל-**.
+1. לחץ **על Properties**  >  **Update sold-to**.
 1. הזן את הכתובת החדשה ולחץ על **שמור**.
 
 חשבונות מסוימים דורשים אימות נוסף כדי שתוכל לעדכן את כתובת ה- Sold-to שלהם. אם החשבון שלך דורש אישור ידני, תתבקש לפנות לתמיכה של Azure.

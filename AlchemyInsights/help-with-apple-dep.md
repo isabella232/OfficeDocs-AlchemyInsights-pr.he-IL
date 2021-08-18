@@ -1,5 +1,5 @@
 ---
-title: עזרה בנושא מניעת התמיכה של Apple
+title: עזרה עבור Apple DEP
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 510228c48532b762c3fce836d9358c46ca48cdb5
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 7751a8ba22713998f09d12a184abe2e20178579e93bd7d6aefe5c8d7a9f847d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116333"
 ---
-# <a name="help-with-apple-dep"></a>עזרה בנושא מניעת התמיכה של Apple
+# <a name="help-with-apple-dep"></a>עזרה עבור Apple DEP
 
-אם התקן DEP אינו מצליח להירשם ולתואר בעבודה (אימות רב-גורמי) הופך לזמין, בטל את התכונה ' ביטול מכשירים '. הצטרפות ל-DEP אינה נתמכת בשלב זה עבור הרשמה ל-DEP.
+אם התקן DEP אינו מצליח להירשם ו- MFA (אימות רב-גורמי) זמין, הפוך את MFA ללא זמין. MFA אינו נתמך בשלב זה עבור הרשמה ל- DEP.
 
-[תחילת העבודה עם המנגינה ותוכנית ההרשמה למכשירים של Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[תחילת העבודה עם Intune ו- Apple's Device Enrollment Program (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[שגיאות נפוצות ופתרונות של הרשמה ב-iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[שגיאות ופתרונות נפוצים של הרשמה ל- iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[תרחישים לגיבוי ושחזור עבור מכשירי iOS/iPadOS שנרשמו](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
+[תרחישי גיבוי ושחזור עבור מכשירי iOS / iPadOS רשומים](https://docs.microsoft.com/mem/intune/enrollment/backup-restore-ios)
 
-[פתרון בעיות בהרשמה כללית](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[פתרון בעיות הרשמה כללי](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[שימוש בפורטל ' שימוש בפתרון בעיות ' כדי לאבחן ולפתור כשלי הרשמה נפוצים](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[השתמש בפורטל פתרון הבעיות של Intune כדי לאבחן ולפתור כשלי הרשמה נפוצים](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)

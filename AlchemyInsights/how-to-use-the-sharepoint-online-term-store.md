@@ -1,5 +1,5 @@
 ---
-title: כיצד להשתמש במאגר המונחים של SharePoint Online
+title: כיצד להשתמש בחנות SharePoint Online Term
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 2425611d18b9751fd68c5cabb7c1bfe5af709bca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c05cd822844c22a7fb5b384d224bcc6b863327c2a20b39512c16e0585e8951b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779088"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54115983"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>כיצד להשתמש במאגר המונחים של SharePoint Online
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>כיצד להשתמש בחנות SharePoint Online Term
 
-מאגר המונחים זמין למנהלי מערכת כלליים, ניהול SharePoint ומנהלי מאגר מונחים, וניתן למצוא אותו במרכז הניהול החדש של SharePoint Online.
+מאגר המונחים זמין למנהל מערכת כללי, למנהל SharePoint ומנהלי מאגר מונחים, ו ניתן למצוא אותו במרכז הניהול החדש של SharePoint Online.
   
-לקבלת מידע נוסף אודות אופן השימוש בחנות המונחים של SharePoint Online ובטקסונומיה בתוך SharePoint Online, ראה [מבוא למטה-נתונים מנוהלים](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+לקבלת מידע נוסף אודות אופן השימוש ב- SharePoint Online Term Store וב טקסונומיות בתוך SharePoint Online, ראה [מבוא למטה-נתונים מנוהלים](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-אם אתה נתקל בבעיה שאינה מופיעה או מופיעה לסירוגין, מומלץ להמתין 24 שעות ולאחר מכן לרשום בקשה לתמיכה אם הבעיה נמשכת. למרות ש-24 שעות עשוי להימשך זמן רב, ייתכן שקיימת בעיה במטמון או שאנו כבר עובדים על פתרון לבעיה זו.
+אם אתה נתקל בבעיה עם מונחים שלא מופיעים או מופיעים לסירוגין, מומלץ להמתין 24 שעות ולאחר מכן לרשום בקשת תמיכה אם הבעיה נמשכת. למרות ש- 24 שעות עלולות להיות זמן רב, ייתכן שיש בעיה במטמון או שאנחנו כבר עובדים על פתרון לבעיה זו.
   
