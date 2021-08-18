@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085877"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897797"
 ---
 # <a name="set-up-exchange-online-protection"></a>הגדרת Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) הוא שירות סינון דואר אלקטרוני המבוסס על ענן צמתים להגנה מפני דואר זבל ותוכנות זדוניות, עם תכונות כדי להגן על הארגון שלך מפני הפרות מדיניות העברת הודעות.
+Microsoft Exchange Online Protection (EOP) הוא שירות סינון דואר אלקטרוני מבוסס ענן להגנה מפני הודעות זבל, תוכנות זדוניות והונאה, עם תכונות כדי להגן על הארגון שלך מפני הפרות מדיניות העברת הודעות.
 
-השתמש [במדריך Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) כדי להגדיר את EOP על-ידי בחירה בין שלושת תרחישי הפריסה – תיבות דואר מקומיות, תיבות דואר היברידיות (שילוב של תיבות דואר מקומיות ובענן) או כל תיבות הדואר בענן – שמתאימים לארגון שלך. המדריך מספק מידע ומשאבים כדי להגדיר EOP ול לסקור את הרישוי של המשתמש שלך, להקצות הרשאות ב- מרכז הניהול של Microsoft 365 ולהגדיר את מדיניות האנטי-תוכנות זדוניות ומדיניות דואר זבל של הארגון שלך במרכז האבטחה & תאימות.
+השתמש [במדריך Exchange Online Protection כדי להגדיר](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) את EOP על-ידי בחירה מבין שלושת תרחישי הפריסה המתאימים ביותר לארגון שלך:
+
+- כל תיבות הדואר המקומיות.
+- היברידית (שילוב של תיבות דואר מקומיות ותיבות דואר בענן
+- כל תיבות הדואר בענן – שמתאימים לארגון שלך.
+
+המדריך מספק מידע ומשאבים כדי להגדיר EOP ול לסקור את הרישוי של המשתמש שלך, להקצות הרשאות מרכז הניהול של Microsoft 365 ולהגדיר את מדיניות האבטחה של הארגון שלך.

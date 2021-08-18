@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005451"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315621"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>פריסת Microsoft Edge עבור Mobile עבור iOS/iPadOS או Android
 
 התרחיש המודרך המסוכם להלן יעזור לך להקצות Microsoft Edge למשתמשים של מכשירי iOS , iPadOS ו- Android. לאחר השלמת שלבים אלה, מדיניות Microsoft Intune תפעיל את התכונות הבאות של Microsoft Edge לעסקים:
 
 - זהות כפולה
-- שילוב עם מדיניות Microsoft Intune יישום הגנה
+- שילוב עם Microsoft Intune הגנה על אפליקציות
 - שילוב עם Azure Active Directory Application Proxy
 - קיצורי דרך של מועדפים מנוהלים ודף בית
 
-> [!NOTE]
-> אם חסמת ממשתמשים לרשום מכשירים ניידים, תרחיש מודרך זה לא יעבוד והמשתמשים יתקינו את Microsoft Edge שלהם.
+**הערה**: אם חסמת את ההרשמה של משתמשים למכשירים ניידים, תרחיש מודרך זה לא יעבוד והמשתמשים יתקינו את Microsoft Edge באופן משלהם.
 
 כדי לפרוס Microsoft Edge עבור Mobile עבור iOS/iPadOS או Android, ראה:
 

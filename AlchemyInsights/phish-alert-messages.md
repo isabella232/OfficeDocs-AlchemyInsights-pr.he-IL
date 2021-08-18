@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899333"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316359"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>התראת הודעות דואר אלקטרוני ממדיניות 'דיוג נמסר עקב דייר או עקיפת משתמש'
 
-מדיניות התראה המוגדרת כברירת מחדל בשם **דיוג** נמסרה עקב דייר או עקיפת משתמש זמינה בארגונים עם Microsoft Defender עבור רשיונות Office 365 P1 ו- P2. אם קיבלת התראה זו, להלן השלבים לתחקור:
+מדיניות התראה המוגדרת כברירת מחדל בשם **דיוג** נמסרה עקב דייר או עקיפת משתמש זמינה בארגונים עם Microsoft Defender עבור Office 365 P1 ורשיון P2. אם קיבלת התראה זו, להלן השלבים לתחקור:
 
 1. מתוך הודעת ההתראה, **לחץ על הצג** התראה כדי לעבור **לדף** התראות בפורטל Microsoft 365 Defender.
 
@@ -35,4 +35,4 @@ ms.locfileid: "57899333"
 
 אם אתה סבור שההודעה סומנה באופן שגוי כ דיוג, השתמש [בשליחה](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) של מנהל מערכת כדי הדוח את ההודעה ל- Microsoft.
 
-המשתמשים יכולים [להשתמש תוספת 'הודעת דוח' או](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) התוספת 'דיווח על דיוג' Outlook כדי לשלוח דוגמאות הודעה ל- Microsoft.
+משתמשים יכולים להשתמש [תוספת 'הודעת דוח' או](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) התוספת 'דיווח על דיוג' Outlook כדי לשלוח דוגמאות הודעה ל- Microsoft.

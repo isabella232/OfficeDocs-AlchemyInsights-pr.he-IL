@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016449"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897044"
 ---
 # <a name="review-or-act-on-an-alert"></a>סקירה או פעולה של התראה
 
 בצע שלבים אלה:
 
-1. עבור אל [מרכז האבטחה & תאימות](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. לחץ **על**  >  **[התראות הצג התראות](https://go.microsoft.com/fwlink/?linkid=2103301)**.
-1. לחץ על התראה. בחלונית הפרטים, הצג את מה שהפעיל את ההתראה.
-1. לחץ על הקישור שסופק ליד הפרטים, אם ברצונך לבצע פעולה בהתראה.
-1. לחץ **על פתור**, אם ברצונך לסגור את ההתראה.
+1. ביצוע אחת מהפעולות הבאות:
+   - בתיבת מרכז התאימות של Microsoft 365 , <https://compliance.microsoft.com> עבור אל **התראות**. לחלופין, פתח את העמוד ישירות <https://compliance.microsoft.com/compliancealerts> ב- .
+   - בפורטל Microsoft 365 Defender , <https://security.microsoft.com> עבור אל **התראות**. לחלופין, פתח את העמוד ישירות <https://security.microsoft.com/alerts> ב- .
+2. בחר התראה. בתפריט הנשור של הפרטים שמופיע, הצג את מה שהפעיל את ההתראה.
+3. לחץ על הקישור שסופק אם ברצונך לבצע פעולה בהתראה.
+4. לחץ **על פתרון**, אם ברצונך לסגור את ההתראה.
 
-כדי ללמוד עוד אודות ניהול התראות, ראה [מדיניות התראה במרכז האבטחה והתאימות](https://go.microsoft.com/fwlink/?linkid=2103211).
-
+כדי ללמוד עוד אודות ניהול התראות, ראה [מדיניות התראה ב- Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
