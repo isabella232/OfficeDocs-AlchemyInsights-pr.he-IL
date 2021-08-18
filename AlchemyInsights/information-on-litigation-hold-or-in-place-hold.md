@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: dd508bcd2b09ccb0bcdd99c37c3c5ecfbc26ec42f00ddce520ef8e73e3aef436
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8703944c6839be1b3a5e4b9ed53fd52dc035b126
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54115433"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329771"
 ---
 # <a name="about-litigation-holds-and-in-place-holds"></a>אודות חסימות תביעה משפטית והחזקות במקום
 
@@ -25,8 +25,7 @@ ms.locfileid: "54115433"
     
 - כדי להחיל **החזקה במקום** על משתמשים בודדים או החזקה על כל תיבות הדואר בארגון **כולו**, באפשרותך להשתמש במדיניות שמירה במרכז האבטחה והתאימות של Microsoft 365 על-ידי ביצוע השלבים המתוארים [כאן.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
-    > [!NOTE]
-    > עבור מדיניות שמירה כלל ארגונית, משתמשים חדשים יתווספו באופן אוטומטי לחסם. 
+    **הערה**: עבור מדיניות שמירה ברחבי ארגונית, משתמשים חדשים יתווספו באופן אוטומטי לחסכון. 
   
 - כדי להציג או לגלות את תוכן תיבת הדואר הממוקם בהמתנה, השתמש **בחיפוש וייצוא של גילוי אלקטרוני.** לקבלת מידע אודות השימוש **בחיפוש וייצוא של גילוי אלקטרוני**, בצע את השלבים המתוארים [כאן](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
     

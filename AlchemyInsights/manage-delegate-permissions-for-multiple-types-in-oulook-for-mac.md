@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d3b5913997f7d94b94cd1625dd699fa1e626acb3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962888"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329735"
 ---
 # <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>ניהול הרשאות נציג עבור סוגי פריטים מרובים Outlook עבור Mac
 
@@ -27,5 +27,4 @@ ms.locfileid: "53962888"
 3. תחת **נציגים**, המציגה רשימה של נציגים שיכולים לפעול בשם, בחר את הנציג.
 4. לחץ על **לחצן** פעולה, **לחץ על הגדר** הרשאות ולאחר מכן בצע את השינויים הרצויים.
 
-> [!NOTE]
-> אם תגדיר את **רמת** ההרשאה ללא , הנציג יישאר ברשימה, דבר המאפשר לך להחזיר הרשאות מאוחר יותר.
+**הערה:** אם תגדיר את **רמת** ההרשאה ל'ללא', הנציג יישאר ברשימה, דבר המאפשר לך להחזיר מחדש הרשאות במועד מאוחר יותר.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898245"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330061"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>פתרון בעיות נפוצות ב- Microsoft Defender עבור Office 365
 
@@ -25,15 +25,15 @@ ms.locfileid: "57898245"
 
 - **השהיית הודעה**:
 
-  עיכובים במסירת דואר אלקטרוני עשויים לגרום לסריקת כספת קבצים מצורפים של הודעות. לקבלת מידע נוסף, ראה [כספת מדיניות קבצים מצורפים](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings).
+  עיכובים במסירת דואר אלקטרוני עלולים לגרום לסריקת כספת קבצים מצורפים של הודעות. לקבלת מידע נוסף, ראה [כספת מדיניות קבצים מצורפים](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings).
 
 - **דווח על תוצאות חיוביות או שליליות שגויות**:
 
   לקבלת מידע נוסף, ראה [דיווח על הודעות וקבצים ל- Microsoft.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)
 
-- **הפוך את כספת הגנה על קישור לזמינה**:
+- **הפיכת הגנה כספת לזמינה**:
 
-  1. בפורטל Microsoft 365 Defender , עבור אל מדיניות שיתוף פעולה & דואר אלקטרוני & כללי מדיניות איום כספת קישורים <https://security.microsoft.com/>  \>  \>  \>  **במקטע מדיניות.**
+  1. בפורטל Microsoft 365 Defender , עבור אל מדיניות שיתוף פעולה & דואר אלקטרוני & מדיניות <https://security.microsoft.com/>  \>  \>  \> **איום כללים כספת** קישורים **במקטע מדיניות.**
 
      כדי לעבור ישירות לדף **כספת קישורים,** השתמש <https://security.microsoft.com/safelinksv2> ב- .
 
@@ -45,4 +45,4 @@ ms.locfileid: "57898245"
      - הפעל את **בחר את הפעולה עבור כתובות URL לא ידועות שעלולות להיות זדוניות בהודעות**.
      - בחר **החל קישורים בטוחים על הודעות שנשלחו בתוך הארגון**.
 
-  לקבלת מידע נוסף, ראה [הגדרת כספת קישורים ב- Microsoft Defender עבור Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+  לקבלת מידע נוסף, [ראה הגדרת כספת קישורים ב- Microsoft Defender עבור Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

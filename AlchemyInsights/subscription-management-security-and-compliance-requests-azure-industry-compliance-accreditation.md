@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 78fc3eeae7fc8fe4cf620b21cf095e24978dd695
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998944"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328291"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>ניהול מנויים - בקשות אבטחה ותאימות - הסמכת תאימות לענף Azure
 
@@ -32,25 +32,23 @@ ms.locfileid: "53998944"
 
 - **Azure PCI DSS Compliance**: המסמכים הנדרשים הקשורים ל- Azure להשגת תאימות לענף כרטיסי תשלום הם "אימות תאימות" ו"מטריצת אחריות", ששניהם זמינים במרכז יחסי האמון של Azure. ודא אם יש לך מסמכים אלה. אם יש לך מסמכים אלה, אך אתה זקוק להוכחה נוספת של Microsoft Azure PCI Data Security Standard Compliance, [ראה Microsoft ו- PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
 
-- **Azure Operations/Security/Compliance**: אם יש לך שאלות כלליות הקשורות לאבטחה ב- Azure, ראה תגובה סטנדרטית לבקשת מידע אבטחה, פרטיות ותאימות של Microsoft אם יש לך שאלות קשורות בנושא תאימות, עיין במאמר שאלות נפוצות בנושא Microsoft STP - תאימות ופורטל יחסי האמון של השירות.
+- **Azure Operations/Security/Compliance**: אם יש לך שאלות כלליות הקשורות לאבטחה ב- Azure, ראה תגובה רגילה לבקשה לקבלת מידע שאלות נפוצות בנושא אבטחה, פרטיות ותאימות של Microsoft אם יש לך שאלות הקשורות לתאימות, עיין בשאלות הנפוצות בנושא Microsoft STP - תאימות ופורטל יחסי אמון של שירות.
 
 אם יש לך שאלות הקשורות לתאימות, ראה שאלות נפוצות בנושא פורטל יחסי האמון של [Microsoft STP -](https://www.microsoft.com/trust-center/compliance/compliance-overview) תאימות ושירות.
 
 - **תאימות GDPR**: אם יש לך שאלות לגבי הסכם עיבוד נתונים, ראה "תנאי הגנה על נתונים" החל מעמוד 7 ב"תנאי השירותים המקוונים". ה- OST כולל את מונחי עיבוד הנתונים העיקריים, אך משולב בחוזה המסחרי הסטנדרטי. בין היתר, היא מספקת התחייבות חוזית לגבי התחייבויות GDPR שלנו. בנוסף, עיין במונחים הספציפיים ל- GDPR בסוף החוזה ב-"קובץ מצורף 4", החל מעמוד 42. מקטעים אלה מכסים את התחייבויות ה- GDPR של Microsoft כמעבד נתונים ומעבד משנה למעבד נתונים אחר.
 
-> [!NOTE]
-> מומלץ מאוד להשתמש ב- Adobe Acrobat Reader כדי לפתוח מסמכי PDF, כפי שפורסם בעיות במציגי PDF אחרים. מומלץ גם להוריד את הקובץ באופן מקומי במקום לפתוח אותו בחלון דפדפן, מכיוון שזה עלול לגרום לשגיאות.
+**הערה**: מומלץ מאוד להשתמש ב- Adobe Acrobat Reader כדי לפתוח מסמכי PDF, כפי שפורסם בעיות במציגי PDF אחרים. מומלץ גם להוריד את הקובץ באופן מקומי במקום לפתוח אותו בחלון דפדפן, מכיוון שזה עלול לגרום לשגיאות.
 
 - **תאימות HDS**: Azure היא כעת "Health Data Hosting", מאושרת בהתאם לדרישות הצרפתית. לקבלת מידע נוסף, ראה "Microsoft Azure מאושר כעת לארח נתוני תקינות רגישים בצרפת".
 
 - **בדיקת חדירה**: תהליך הגשת בקשת בדיקת החדירה כולו הוא תהליך בשירות עצמי של הלקוח ב-pentest.
 
-לקבלת פרטים נוספים על בדיקת חדירה, ראה [בדיקת חדירה](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
+לקבלת פרטים נוספים אודות בדיקת חדירה, ראה [בדיקת חדירה](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
 
-- **הודעות לקוח עבור שינויי מעבדי משנה**: באפשרותך להצטרף לקבלת הודעות על שינויים ברשימת מעבדי המשנה של הנתונים האישיים של Microsoft.
+- **הודעות לקוח עבור שינויי** מעבדי משנה : באפשרותך להצטרף לקבלת הודעות על שינויים ברשימת מעבדי המשנה של הנתונים האישיים של Microsoft.
 
-> [!NOTE]
-> ההודעה 'נתוני לקוחות ושירותים מקוונים' ו'רשימת נתונים אישיים' היא אוטומטית לחלוטין. לקבלת מידע נוסף, ראה Microsofts Data Protection Resources.
+**הערה**: הודעת נתוני לקוחות ורשימת נתונים אישיים של שירותים מקוונים היא אוטומטית לחלוטין. לקבלת מידע נוסף, ראה Microsofts Data Protection Resources.
 
 **מסמכים מומלצים**
 

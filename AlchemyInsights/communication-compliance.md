@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090737"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329919"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>תאימות תקשורת Microsoft 365
 
@@ -31,9 +31,9 @@ ms.locfileid: "54090737"
 
 כדי להגדיר תאימות לתקשורת, ראה [קביעת תצורה של תאימות תקשורת.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
-כדי לבדוק, לסקור ולתיקון תאימות לתקשורת, ראה [חקירה ותיקון של התראות תאימות תקשורת](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+כדי לחקור, לסקור ולתיקון תאימות לתקשורת, ראה [חקירה ותיקון של התראות תאימות תקשורת](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
 
-לקבלת מבט כולל על תכונת תאימות התקשורת, ראה [תאימות תקשורת ב- Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance)
+לקבלת מבט כולל על תכונת תאימות התקשורת, ראה [תאימות תקשורת ב- Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
 דרישות רשיון: משתמשים המנוהלים על-ידי מדיניות תקשורת חייבים ל:
 
@@ -43,5 +43,4 @@ ms.locfileid: "54090737"
 
 אם אין לך אף אחד מהאמור לעיל וברצונך לנסות תאימות לתקשורת, **[הירשם לתקינה של גירסת ניסיון של Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
 
-> [!NOTE]
-> ייתכן שמדיניות תעובד באופן מלא עד 24 שעות עבור הודעות דואר אלקטרוני. תקשורת בפלטפורמות Microsoft Teams, Yammer ופלטפורמות של ספקים אחרים יכולה לאסוף עד 48 שעות כדי לעבד באופן מלא במדיניות.
+**הערה:** ייתכן שמדיניות תעובד באופן מלא עד 24 שעות עבור הודעות דואר אלקטרוני. תקשורת בפלטפורמות Microsoft Teams, Yammer ופלטפורמות של ספקים אחרים יכולה לאסוף עד 48 שעות כדי לעבד באופן מלא במדיניות.

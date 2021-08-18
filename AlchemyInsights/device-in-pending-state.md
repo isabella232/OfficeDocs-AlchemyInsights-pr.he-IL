@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914004"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330373"
 ---
 # <a name="device-in-pending-state"></a>מכשיר במצב ממתין
 
@@ -40,8 +40,7 @@ ms.locfileid: "53914004"
     1. ההתקן מנסה תחילה לאחזר פרטי דיירים מ- SCP בצד הלקוח ברישום [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. לקבלת מידע נוסף, ראה [מסמך](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     1. אם הוא נכשל, המכשיר מקיים תקשורת עם Active Directory מקומי כדי לקבל מידע אודות דיירים מ- SCP. כדי לאמת את SCP, עיין [במסמך זה.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point)
 
-    > [!NOTE]
-    > מומלץ להפוך את SCP לפעיל ב- Active Directory ורק באמצעות SCP בצד הלקוח לאימות הראשוני.
+    **הערה:** מומלץ להפוך את SCP לפעיל ב- Active Directory ורק באמצעות SCP בצד הלקוח לאימות הראשוני.
 
 2. Windows 10 מנסה לקיים תקשורת עם Azure AD תחת הקשר המערכת כדי לאמת את עצמה מול Azure AD.
 
@@ -49,17 +48,15 @@ ms.locfileid: "53914004"
 
 3. Windows 10 יוצר אישור בחתימה עצמית ומאחסן אותו תחת אובייקט המחשב ב- Active Directory מקומי. פעולה זו דורשת קו ראייה לבקר תחום.
 
-4. אובייקט התקן בעל אישור מסונכרן ל- Azure AD באמצעות Azure AD התחברות. מחזור הסינכרון הוא כל 30 דקות כברירת מחדל, אך הוא תלוי בתצורה של Azure AD התחברות. לקבלת מידע נוסף, עיין [במסמך זה.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
+4. אובייקט התקן הכולל אישור מסונכרן ל- Azure AD באמצעות Azure AD התחברות. מחזור הסינכרון הוא כל 30 דקות כברירת מחדל, אך הוא תלוי בתצורה של Azure AD התחברות. לקבלת מידע נוסף, עיין [במסמך זה.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering)
 
 5. בשלב זה, תוכל לראות את מכשיר הנושא במצב " ממתין " תחת **להב** המכשיר של Azure Portal.
 
 6. בכניסה הבאה של המשתמש Windows 10, הרישום יושלם.
 
-    > [!NOTE]
-    > אם אתה משתמש ב- VPN והתנתק/כניסה מסיים את קישוריות התחום, באפשרותך להפעיל את הרישום באופן ידני. לשם כך:
-    >
-    > הנפק `dsregcmd /join` בקשה למנהל מערכת באופן מקומי או מרחוק באמצעות PSExec למחשב שלך.
-    >
-    > לדוגמה: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **הערה**: אם אתה משתמש ב- VPN וכניסה/התנתק מסיים את קישוריות התחום, באפשרותך להפעיל את הרישום באופן ידני. לשם כך:
+    
+    הנפק `dsregcmd /join` בקשה למנהל מערכת באופן מקומי או מרחוק באמצעות PSExec למחשב שלך.\
+    לדוגמה: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
 לקבלת בעיות נפוצות ברישום מכשיר Azure Active Directory, ראה שאלות [נפוצות בנושא מכשירים](https://docs.microsoft.com/azure/active-directory/devices/faq).
