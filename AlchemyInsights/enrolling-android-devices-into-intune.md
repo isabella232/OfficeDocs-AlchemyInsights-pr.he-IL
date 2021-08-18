@@ -1,5 +1,5 @@
 ---
-title: רישום מכשירי Android לתוך ' שלחן '
+title: רישום מכשירי Android ל- Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791259"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090137"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>רישום מכשירי Android לתוך ' שלחן '
+# <a name="enrolling-android-devices-into-intune"></a>רישום מכשירי Android ל- Intune
 
-אם אתה מעוניין להעביר משתמשים מהרשמת מנהלי מערכת של Android ל-Android Enterprise, עיין [במכשיר: העבר מכשירי android ממנהל ההתקן לניהול פרופילי עבודה](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
+אם אתה מחפש להעביר משתמשים מרישום מנהל התקן Android ל- Android Enterprise, סקור: העבר מכשירי [Android ממנהל המכשירים לניהול פרופילי עבודה](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-המנגינה תומכת ברישום של מכשירי Android הבאים:  
+Intune תומך בהרשמה של מכשירי Android הבאים:  
 
-- [מנהל התקן של סמסונג נוקס, זברה](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
-- [פרופיל עבודה Enterprise של Android](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
-- [ארגון Android המוקדש](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
-- [ניהול מלאה של Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
+- [Samsung Knox, Zebra, מנהל התקן](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [פרופיל עבודה של Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise ייעודי](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise מנוהל באופן מלא](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-לפני הגדרת ההרשמה עבור מכשירי Android, [סקור את דרישות הדרישות המוקדמות](https://docs.microsoft.com/intune/enrollment/android-enroll).  
+לפני הגדרת ההרשמה עבור מכשירי Android, [סקור את התנאים המוקדמים.](https://docs.microsoft.com/intune/enrollment/android-enroll)  
 
-לקבלת מידע אודות פתרון בעיות בהרשמת מכשירים בכלל ושגיאות הרשמה של Android, ראה [פתרון בעיות בהרשמת מכשירים ב-Microsoft intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
+לקבלת מידע אודות פתרון בעיות בהרשמה למכשירים באופן כללי ושגיאות הרשמה של Android, ראה [פתרון בעיות בהרשמה למכשירים ב- Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-באפשרותך גם להשתמש בתוכן המתאר את להב פתרון הבעיות ' שימוש ' כדי לסייע בזיהוי הבעיות של רישום שהמשתמשים חווים.
+באפשרותך גם להשתמש בתוכן המתאר את הלהב Intune Troubleshooting כדי לסייע בזיהוי בעיות ההסתה של המשתמשים שלך.

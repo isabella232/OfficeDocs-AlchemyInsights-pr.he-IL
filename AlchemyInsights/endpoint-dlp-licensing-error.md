@@ -1,5 +1,5 @@
 ---
-title: שגיאת רישוי של נקודת קצה של DLP
+title: שגיאת רישוי DLP של נקודת קצה
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564609"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090142"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>שגיאת רישוי של נקודת קצה של DLP
+# <a name="endpoint-dlp-licensing-error"></a>שגיאת רישוי DLP של נקודת קצה
 
 בעת ניסיון להגדיר DLP של נקודת קצה, אם אתה מקבל את השגיאה הבאה:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-ודא שברשותך אחד מהמנויים או התוספות הבאים:
+ודא שיש לך אחד מהנויי או ההרחבות הבאים:
 
 - Microsoft 365 E5
 - Microsoft 365 A5 (EDU)
-- תאימות ל-Microsoft 365 E5
-- תאימות של Microsoft 365 A5
-- Microsoft 365 E5 הגנה וממשל מידע
-- Microsoft 365 A5 הגנה וממשל
+- Microsoft 365 E5 תאימות
+- Microsoft 365 A5 תאימות
+- Microsoft 365 E5 מידע ופיקוח
+- Microsoft 365 A5 מידע ופיקוח
 
 > [!NOTE]
-> פעולה זו לא תפעל עבור שילובי רשיונות כגון: Win E5 + O365 E5 + EMS E5. דרוש לך רשיון M365 E5 נקי כדי להגדיר תכונה זו.
+> פעולה זו לא תעבד עבור שילובי רשיונות, כמו: Win E5 + O365 E5 + EMS E5. כדי להגדיר תכונה זו, עליך להיות בעל רשיון M365 E5 טהור.
 
-לקבלת מידע נוסף בנוגע לרישוי של DLP, ראה [רישוי של נקודת קצה של dlp.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+לקבלת מידע נוסף אודות רישוי DLP של נקודות קצה, [ראה רישוי DLP של נקודת קצה.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)

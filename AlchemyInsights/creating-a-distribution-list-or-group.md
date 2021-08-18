@@ -13,15 +13,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: 179b3738f65b08fc81cf224393445717e4d4773f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 023a7646430bbbe176f9675721a6154d62269bcb866aa5b7413f7e6973947ae1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090197"
 ---
 # <a name="create-distribution-groups"></a>יצירת קבוצות תפוצה
 
-אתה משתמש בקבוצות תפוצה (נקראות גם רשימות תפוצה) כדי להעביר הודעות דואר אלקטרוני לקבוצות של אנשים בתוך הארגון ומחוצה לו. יצירתם קלה! לקבלת הוראות, ראה [יצירת רשימות תפוצה במרכז הניהול של Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists).
+אתה משתמש בקבוצות תפוצה (המוכרות גם כרשימות תפוצה) כדי להעביר הודעות דואר אלקטרוני לקבוצות של אנשים בתוך הארגון ומחוצה לו. יצירתם היא קלה! לקבלת הוראות, [ראה יצירת רשימות תפוצה מרכז הניהול של Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists).
 
-**הערה**: מנהל מערכת צריך לנהל את החברות בקבוצת תפוצה. אם ברצונך לאפשר למשתמשים לנהל רשימות של חברות בקבוצה משלהם, ייתכן שתרצה לשקול את [הקבוצות של Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) במקום זאת.
+**הערה:** מנהל מערכת צריך לנהל את החברות בקבוצת תפוצה. אם ברצונך שמשתמשים ינהלו רשימות חברות בקבוצה משלהם, ייתכן שתרצה לשקול [את Microsoft 365 קבוצות במקום](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) זאת.

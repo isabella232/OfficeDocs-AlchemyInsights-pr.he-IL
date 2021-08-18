@@ -11,17 +11,16 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 2ce3d5467d8582aa3a3216b0efbc73ead5570248c4da57e175e0d4decc326f1c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 341a77e9a6738cd96a8b4587e52e633be0176010
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051091"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318089"
 ---
 # <a name="sharepoint-publishing-infrastructure"></a>SharePoint תשתית פרסום
 
-> [!IMPORTANT]
-> אתרי תקשורת מודרניים אינם תומכים בתכונות הפרסום הקלאסיות הידועות בשם SharePoint Server Publishing Infrastructure. בעת ניסיון להפעיל את התכונה עבור אתר תקשורת מודרני, תקבל שגיאה. אתרי תקשורת מודרניים מספקים חלופה חדשה יותר כברירת מחדל.
+**חשוב**: אתרי תקשורת מודרניים אינם תומכים בתכונות הפרסום הקלאסיות הידועות SharePoint Server Publishing Infrastructure. בעת ניסיון להפעיל את התכונה עבור אתר תקשורת מודרני, תקבל שגיאה. אתרי תקשורת מודרניים מספקים חלופה חדשה יותר כברירת מחדל.
 
 עבור אתרים קלאסיים, SharePoint כוללת קבוצה קלאסית של תכונות המאפשרות לך לעורך ולפרסם דפי אינטרנט עשירים עבור האינטרא-נט שלך. הפעל את SharePoint תשתית הפרסום ברמת אוסף האתרים כדי להפעיל אותם.
 

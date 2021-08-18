@@ -13,23 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 7746e44a0ee5a4442051900985aab339b09652f08e412b02a02429c93cc7c107
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d6be4331967ed9ae362f5da85856b03cfa40b319
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895180"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317809"
 ---
 # <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>גלה מי הגדיר העברה בתיבת דואר ואופן ההעברה
 
 אם העברה חיצונית הוגדר בתיבת דואר, הפעילות מבוקרת כחלק מ- **cmdlet Set-Mailbox.** כך תמצא את הפעילות ביומן הביקורת:
 
 1. ביצוע אחת מהפעולות הבאות:
-   - בתיבת מרכז התאימות של Microsoft 365 <https://compliance.microsoft.com> at , עבור אל **ביקורת** \> **פתרונות**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://compliance.microsoft.com/auditlogsearch> ב- .
+   - בתיבת מרכז התאימות של Microsoft 365 , <https://compliance.microsoft.com> עבור אל **ביקורת** \> **פתרונות**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://compliance.microsoft.com/auditlogsearch> ב- .
    - בפורטל Microsoft 365 Defender <https://security.microsoft.com> ב- , עבור אל **ביקורת**. לחלופין, כדי לעבור ישירות **לדף ביקורת,** השתמש <https://security.microsoft.com/auditlogsearch> ב- .
 
-   > [!NOTE]
-   > אם אתה רואה הודעה שאתה צריך להפעיל ביקורת, הפעל אותה כעת. אם תכונה זו אינה מופעלת, תוצאות החיפוש לא יוכלו למשוך נתונים מתאריכים קודמים.
+   **הערה:** אם אתה רואה הודעה שתצטרך להפעיל ביקורת, הפעל אותה כעת. אם תכונה זו אינה מופעלת, תוצאות החיפוש לא יוכלו למשוך נתונים מתאריכים קודמים.
 
 2. בדף **ביקורת,** ודא שהכרטיסייה חיפוש **נבחרה** ולאחר מכן קבע את תצורת ההגדרות הבאות:
    - בחר את טווח התאריך/שעה **בתיבות** התחלה **וסיום.**
