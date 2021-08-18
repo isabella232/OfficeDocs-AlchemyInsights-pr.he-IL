@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100403"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316641"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>ייצוא פריטים לקובץ ארכיון Outlook עבור Mac
 
@@ -24,8 +24,7 @@ ms.locfileid: "54100403"
 
 1. בכרטיסיה **כלים,** לחץ על **ייצוא**.
 
-> [!NOTE]
-> אינך רואה את **לחצן ייצוא?** ודא שיש לך את הגירסה העדכנית ביותר של Outlook. בתפריט עזרה **Outlook,** לחץ על **בדוק אם קיימים עדכונים.** אם כל Outlook העדכונים מוחלים ועדיין אינך רואה את לחצן **ייצוא,** חפש **את** ייצוא בתפריט Outlook **קובץ.**
+    **הערה:** אינך רואה את **לחצן ייצוא?** ודא שיש לך את הגירסה העדכנית ביותר של Outlook. בתפריט עזרה **Outlook,** לחץ על **בדוק אם קיימים עדכונים.** אם כל Outlook העדכונים מוחלים ועדיין אינך רואה את לחצן **ייצוא,** חפש **את** ייצוא בתפריט Outlook **קובץ.**
 
 2. בתיבה ייצוא **לקובץ ארכיון ( .olm),** בדוק את הפריטים שברצונך לייצא ולחץ על **המשך**.
 
@@ -33,11 +32,11 @@ ms.locfileid: "54100403"
 
 4. לאחר ייצוא הנתונים שלך ואתה מקבל הודעה, לחץ על **סיום**.
 
-לקבלת מידע אודות אופן הגישה לנתונים ששמרת בקובץ נתונים Outlook עבור Mac ( .olm), ראה ייבוא הודעות דואר אלקטרוני, אנשי קשר ופריטים [אחרים לתוך Outlook 2016 עבור Mac.](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)
+לקבלת מידע אודות אופן הגישה לנתונים ששמרת בקובץ נתונים של Outlook עבור Mac ( .olm), ראה ייבוא הודעות דואר אלקטרוני, אנשי קשר ופריטים [אחרים לתוך Outlook 2016 עבור Mac.](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)
 
 **אני רוצה לייצא ל- iCloud או לסוג אחר של קובץ ארכיון**
 
-אפשרות הייצוא היחידה הזמינה בשלב זה היא קובץ הארכיון .olm. כדי לבקש אפשרויות ייצוא נוספות, בקר בתיבת [Outlook כדי להשאיר](https://outlook.uservoice.com/) את המשוב שלך. צוות Outlook מנטר באופן פעיל פורום זה.
+אפשרות הייצוא היחידה הזמינה בשלב זה היא קובץ הארכיון .olm. כדי לבקש אפשרויות ייצוא נוספות, בקר [בתיבת Outlook כדי להשאיר](https://outlook.uservoice.com/) את המשוב שלך. צוות Outlook מנטר באופן פעיל פורום זה.
 
 **למידע נוסף**
 

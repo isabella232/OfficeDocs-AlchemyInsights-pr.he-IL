@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883356"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316977"
 ---
 # <a name="microsoft-secure-score"></a>ציון מאובטח של Microsoft
 
@@ -34,7 +34,6 @@ ms.locfileid: "57883356"
 
 4. בחר כתובת **אל או** **פריט רגרסיה** מהרשימה בכרטיסיה **פעולות לשיפור.** נפתח דף חדש ונותן תיאור מלא ולחצן **ניהול** כדי לפתור את הבעיה.
 
-    > [!NOTE]
-    > ניתנת לך נקודות לקביעת התצורה של תכונות אבטחה מומלצות, אך זכור שפעולות מסוימות מסומנות **כ- [Not Scored]**. משמעות הדבר היא שאפילו אם תיישם פעולת שיפור זו, לא תזוכה בנקודות עבור הציון שלך. אחרת, *עדכון הציון שלך יכול לאסוף עד 24* שעות.
+    **הערה:** אתה מקבל נקודות לקביעת התצורה של תכונות אבטחה מומלצות, אך זכור שפעולות מסוימות מסומנות **כ- [Not Scored]**. משמעות הדבר היא שאפילו אם תיישם פעולת שיפור זו, לא תזוכה בנקודות עבור הציון שלך. אחרת, *עדכון הציון שלך יכול לאסוף עד 24* שעות.
 
 לקבלת מידע נוסף אודות ציון מאובטח של Microsoft, ראה [ניקוד מאובטח של Microsoft](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score).

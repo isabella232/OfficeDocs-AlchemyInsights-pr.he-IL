@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ab370e992c1f58ff388e5d4db57245fe7fcbd682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897797"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316293"
 ---
 # <a name="set-up-exchange-online-protection"></a>הגדרת Exchange Online Protection
 
@@ -30,4 +30,4 @@ Microsoft Exchange Online Protection (EOP) הוא שירות סינון דואר
 - היברידית (שילוב של תיבות דואר מקומיות ותיבות דואר בענן
 - כל תיבות הדואר בענן – שמתאימים לארגון שלך.
 
-המדריך מספק מידע ומשאבים כדי להגדיר EOP ול לסקור את הרישוי של המשתמש שלך, להקצות הרשאות מרכז הניהול של Microsoft 365 ולהגדיר את מדיניות האבטחה של הארגון שלך.
+המדריך מספק מידע ומשאבים כדי להגדיר EOP ול לסקור את הרישוי של המשתמש שלך, להקצות הרשאות ב- מרכז הניהול של Microsoft 365 ולהגדיר את מדיניות האבטחה של הארגון שלך.
