@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fc5e731ee05722c7cd707239af5ad4c07a6d85b9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900957"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323639"
 ---
 # <a name="purchase-power-bi"></a>רכישת Power BI
 
-ניתן לרכוש את Power BI **ב- מרכז הניהול של Microsoft 365**.
+ניתן לרכוש את Power BI **מרכז הניהול של Microsoft 365**.
 
 1. עבור אל **הדף > [רכישה של שירותים.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 2. השתמש בתיבת החיפוש כדי לחפש את "Power BI".

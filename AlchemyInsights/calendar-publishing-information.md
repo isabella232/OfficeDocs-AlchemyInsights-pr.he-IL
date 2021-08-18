@@ -1,5 +1,5 @@
 ---
-title: מידע פרסום בלוח השנה של 613
+title: 613 פרטי פרסום לוח שנה
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: f5676cdab8c1efc2f585e1f75323200358b369db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aaf3eb249c2de449ca4e31486eb19c760512f1d9f8be2d1f501e7cdf54de62ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684554"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119969"
 ---
 # <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>הפיכת שיתוף לוח שנה לזמין באמצעות מרכז הניהול של Microsoft 365
 
-1. במרכז הניהול, עבור אל הגדרות ארגון של **הגדרות**   >   **Org Settings**.
-2. בכרטיסיה  **שירותים**  , בחר  **לוח שנה**.
-3. בדף  **לוח השנה**  שנפתח, בחר אם ברצונך לאפשר למשתמשים לשתף את לוחות השנה שלהם עם אנשים מחוץ לארגון שלך שיש להם Microsoft 365 או Exchange.
+1. במרכז הניהול, עבור אל **הגדרות**   >   **org הגדרות**.
+2. בכרטיסיה  **שירותים,**  בחר לוח  **שנה**.
+3. בדף לוח **שנה** שנפתח, בחר אם ברצונך לאפשר למשתמשים שלך לשתף את לוחות השנה שלהם עם אנשים מחוץ לארגון שלך שיש להם Microsoft 365 או Exchange.
 4. בחר אם ברצונך לאפשר למשתמשים אנונימיים (משתמשים ללא אישורי כניסה) לגשת ללוחות שנה באמצעות הזמנה בדואר אלקטרוני.
-5. בחר את סוג מידע לוח השנה שברצונך להיות זמין למשתמשים. באפשרותך לאפשר את כל המידע, או להגביל אותו לזמן בלבד או לשעה, לנושא ולמיקום בלבד.
+5. בחר את סוג פרטי לוח השנה שיש להפוך לזמינים למשתמשים. באפשרותך לאפשר את כל המידע, או להגביל אותו לזמן בלבד או לזמן, לנושא ולמיקום בלבד.
 
 מידע נוסף: [שיתוף לוחות שנה עם משתמשים חיצוניים](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)

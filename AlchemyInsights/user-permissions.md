@@ -9,20 +9,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: d5fac2ce5f480213d5d260843f59d6aa08552b60a3eccc771e5eb3f7aa814b66
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 667fa9c7334169794ebc96152d7b58d4deb5dde9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53908351"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324852"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>הרשאות משתמש ב- SharePoint ו- OneDrive
 
 אם משתמש בארגון שלך אינו יכול לגשת אל SharePoint או OneDrive, ודא שיש לו רשיון הכולל SharePoint ו- OneDrive. 
   
-1. עבור אל [הדף משתמשים פעילים מרכז הניהול של Microsoft 365](https://portal.office.com/adminportal/home#/users) ובחר את המשתמש. 
+1. עבור אל [דף המשתמשים הפעילים מרכז הניהול של Microsoft 365](https://portal.office.com/adminportal/home#/users) ובחר את המשתמש. 
     
-2. ודא כי תחת **רשיונות מוצר**, מוקצה רשיון **SharePoint באופן** מקוון. 
+2. ודא כי תחת **רשיונות מוצר**, מוקצה רשיון **SharePoint Online** נבחרה. 
     
  כדי להעניק למשתמש הרשאה לגשת לאתר SharePoint: 
   
@@ -34,8 +34,7 @@ ms.locfileid: "53908351"
     
     עבור אתר צוות קלאסי, לחץ על **שתף** בפינה השמאלית העליונה. הזן את שם האדם שברצונך להזמין או הקלד כולם כדי לשתף עם כל האנשים בארגון שלך. לחץ על **שתף**.
     
-> [!NOTE]
-> אם אתה חבר באתר אך לא בעלים, באפשרותך להזמין אנשים לאתר, אך ההזמנה שלך תיצור בקשת גישה שבעל אתר יכול לאשר או לדחות אותה. 
+**הערה**: אם אתה חבר באתר אך לא בעלים, באפשרותך להזמין אנשים לאתר, אך ההזמנה שלך תיצור בקשת גישה שבעל אתר יכול לאשר או לדחות אותה. 
   
 [למד כיצד לשתף קובץ או תיקיה עם משתמש](https://go.microsoft.com/fwlink/?linkid=533408)
   

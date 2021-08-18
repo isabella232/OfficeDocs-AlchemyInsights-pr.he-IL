@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895888"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325296"
 ---
 # <a name="expired-subscription"></a>מנוי שפג תוקפו
 
@@ -30,8 +30,7 @@ ms.locfileid: "57895888"
   
 1. במרכז הניהול, עבור אל הדף **חיוב** \> [המוצרים](https://go.microsoft.com/fwlink/p/?linkid=842054) שלך.
 2. בכרטיסיה **מוצרים,** אתר את המנוי שברצונך להפעיל מחדש. בחר את שלוש הנקודות (פעולות נוספות) ולאחר מכן **בחר הפעל מחדש מנוי זה**.
-    > [!NOTE]
-    > אם אינך רואה את הפעלת **מנוי זה** מחדש, התקשר לתמיכה.
+    **הערה**: אם אינך רואה הפעלה מחדש **של מנוי זה,** התקשר לתמיכה.
 3. בחלונית **הפעל מחדש מנוי זה,** בחר שיטת תשלום מהרשימה הנפתחת, או בחר הוסף שיטת **תשלום**.
 4. לחץ **שמור**.
 

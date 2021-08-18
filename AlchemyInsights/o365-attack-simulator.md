@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f6e221cc82a1b707f6acc457cb78db743521d859
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895792"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325072"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Simulator ב- Microsoft 365
 
@@ -35,7 +35,7 @@ ms.locfileid: "57895792"
 
   - כברירת מחדל, לא ניתן לספק ערך מותאם אישית עבור כתובת URL **של שרת כניסה של דיוג**.
 
-  - אם נמען [](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) משתמש התוספת הפוך את התוספת 'הודעת דוח' לזמינה הדוח ההודעה כדיווג, ייתכן שלא תקבל התראות עבור ההודעה (מאחר זוהי התקפה מדומה).
+  - אם נמען [](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) משתמש התוספת הפוך את התוספת הודעת דוח לזמינה כדי הדוח את ההודעה כדיווג, ייתכן שלא תקבל התראות עבור ההודעה (מאחר זוהי התקפה מדומה).
 
 - דוחות: לאחר השלמת התקיפה המדומה, באפשרותך ללחוץ על פרטי **התקפה** כדי לראות את הדוח.
 

@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 46a734244b2eedc6da69738dc19e51513d165c2cb1afc3ab99e91a856e20f674
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 20d241947c356b3d2b9f050f88de8af1d370d799
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901025"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323705"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>רכוש את Microsoft Defender עבור Office 365
 
-Microsoft Defender עבור Office 365 כלול במנויים מסוימים, כגון Microsoft 365 E5, Office 365 E5, Office 365 A5 ו- Microsoft 365 Business Premium. אם המנוי שלך אינו כולל את Microsoft Defender עבור Office 365, באפשרותך לקנות [את Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) כהרחבה למנוי מסוים. כדי לרכוש ב- מרכז הניהול של Microsoft 365:
+Microsoft Defender for Office 365 נכלל במנויים מסוימים, כגון Microsoft 365 E5, Office 365 E5, Office 365 A5 ו- Microsoft 365 Business Premium. אם המנוי שלך אינו כולל את Microsoft Defender עבור Office 365, באפשרותך לקנות [את Microsoft Defender עבור Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) כהרחבה למנוי מסוים. כדי לרכוש ב- מרכז הניהול של Microsoft 365:
 
 1. במרכז הניהול, עבור אל הדף שירותי  >  [רכישה לחיוב.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. בחלק התחתון של הדף **רכישת** שירותים, במקטע **הרחבות,** אתר את ההרחבה Microsoft Defender עבור Office 365 רכישה ובחר **פרטים**.

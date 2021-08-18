@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003570"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325464"
 ---
 # <a name="enable-cost-management"></a>הפיכת ניהול עלות לזמין
 
@@ -26,7 +26,7 @@ ms.locfileid: "54003570"
 
 ארגונים המשתמשים בחשבונות הסכם ארגוני (EA) או Microsoft Customer Agreement (MCA) יכולים להפוך את הגישה למידע עלות ולמידע תמחור ללא זמינה.
 
-לאחר כניסה לפורטל Azure, הם יכולים להשתמש ב- API לחיוב כדי לקבל חשבוניות באופן תיכנותי (לאחר הצטרפות) ופרטי שימוש.
+לאחר כניסה לפורטל Azure, הם יכולים להשתמש ב- API של חיוב כדי לקבל חשבוניות באופן תיכנותי (לאחר הצטרפות) ופרטי שימוש.
 
 **כיצד לאפשר למשתמשים נוספים לגשת לחשבוניות**
 
@@ -34,8 +34,7 @@ ms.locfileid: "54003570"
 2. בחר **חשבוניות** ולאחר מכן **Access לחשבוניות**.
 3. הפעל את הגישה ולאחר מכן שמור את השינויים, כדי לאפשר למשתמשים בתפקידים בטווח מנוי להוריד חשבוניות.
 
-> [!NOTE]
-> מנהל החשבון יכול גם לקבוע את תצורתו כך שחשבוניות יישלחו בדואר אלקטרוני. כדי ללמוד עוד, ראה [קבלת החשבונית בדואר אלקטרוני](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+**הערה:** מנהל החשבון יכול גם לקבוע את תצורתו כך שחשבוניות יישלחו בדואר אלקטרוני. כדי ללמוד עוד, ראה [קבלת החשבונית בדואר אלקטרוני](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **כיצד להוסיף משתמשים לתפקיד קורא החיובים**
 

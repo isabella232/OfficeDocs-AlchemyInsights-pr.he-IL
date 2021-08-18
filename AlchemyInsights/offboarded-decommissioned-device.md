@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892004"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324445"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>בעיות בהסרת מכשיר לא מחובר או הוצא מאחסון מהמלאי של המכשיר
 
@@ -26,7 +26,7 @@ Microsoft Defender עבור נקודת קצה אינו מאפשר כעת הסר�
 
 למטרות אבטחה, המכשיר נשאר בפורטל כהקלטה היסטורית של עד 180 יום. עם זאת, נתוני המכשיר מטוהרים בהתאם לתקופת השמירה שתצורתה נקבעה.
 
-**הערה:** התקן מחוץ ל- offboarded או offcommissioned עובר באופן אוטומטי למצב **לא** פעיל לאחר שבעה ימים. בנוסף, מכשירים אינם פעילים ב- 30 הימים האחרונים אינם גורמים לנתונים המשקפים את הארגון שלך Threat and Vulnerability Management חשיפה או ציון מאובטח של Microsoft עבור מכשירים.
+**הערה:** התקן מחוץ ל- offboarded או offcommissioned עובר באופן אוטומטי למצב **לא** פעיל לאחר שבעה ימים. בנוסף, מכשירים אינם פעילים ב- 30 הימים האחרונים אינם כוללים את הנתונים המשקפים את Threat and Vulnerability Management חשיפה או את הציון המאובטח של Microsoft עבור מכשירים.
  
 אם עדיין אינך מעוניין לראות מכשירים מסוימים בתצוגת מלאי מכשירים, נסה למקם תגית מכשיר כדי לסנן את המכשיר שהופסק מת התצוגה מלאי מכשיר.
 
