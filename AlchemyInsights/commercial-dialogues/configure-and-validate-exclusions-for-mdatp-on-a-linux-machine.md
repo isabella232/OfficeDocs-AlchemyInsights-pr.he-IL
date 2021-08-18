@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b2487e283f37498539bfac0583ef7e21d1817db0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53916416"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321286"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>קביעת תצורה ואמת של אי-הכללות עבור MDATP במחשב Linux
 
@@ -25,5 +25,4 @@ ms.locfileid: "53916416"
 
 לקבלת מידע נוסף, ראה [קביעת תצורה ואמת של אי-הכללות עבור MDATP עבור Linux](https://go.microsoft.com/fwlink/?linkid=2144517).
 
-> [!IMPORTANT]
-> האי-הכללות המתוארות במאמר זה לא חלות על יכולות אחרות של MDATP עבור Linux, כולל זיהוי נקודות קצה ותגובה (EDR). קבצים שלא תכלול באמצעות השיטות המתוארות במאמר זה עדיין יכולים להפעיל EDR התראות ויכולות זיהוי אחרות.
+**חשוב**: האי-הכללות המתוארות במאמר זה לא חלות על יכולות אחרות של MDATP עבור Linux, כולל זיהוי נקודות קצה ותגובה (EDR). קבצים שאתה לא כולל באמצעות השיטות המתוארות במאמר זה עדיין יכולים להפעיל EDR ויכולות זיהוי אחרות.

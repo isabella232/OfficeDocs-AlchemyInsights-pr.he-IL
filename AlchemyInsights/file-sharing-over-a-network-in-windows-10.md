@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 52b398388410eb63c05ae7cdd8d2ca6f16d74a69a44f25a5c38e95bf163e9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117289"
 ---
 # <a name="file-sharing-over-a-network-in-windows-10"></a>שיתוף קבצים ברשת ב- Windows 10
 
-**הערה:** אם השתמשת בעבר בקבוצה ביתית לשיתוף קבצים, שים לב שהקבוצה הביתית הוסרה מ- Windows 10 (גירסה 1803). כעת באפשרותך לשתף מדפסות וקבצים באמצעות תכונות מוכללות ב- Windows 10.
+**הערה:** אם השתמשת בעבר בקבוצה ביתית לשיתוף קבצים, שים לב שהקבוצה הביתית הוסרה מ- Windows 10 (גירסה 1803). כעת באפשרותך לשתף מדפסות וקבצים באמצעות תכונות מוכללות Windows 10.
 
 **כדי לשתף קבצים או תיקיות ברשת**
 

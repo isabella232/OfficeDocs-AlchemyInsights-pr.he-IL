@@ -1,5 +1,5 @@
 ---
-title: שיתוף OneDrive קבצים עם משתמשים חיצוניים
+title: שיתוף OneDrive עם משתמשים חיצוניים
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 0ac5cbebaa350a004e5e85de928d2eb23bcd3086ba304c3c3afdfa9c13e42188
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5736bace6ef36dd5d0ac4f5ad874a9546b23b6e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051595"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320598"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>שיתוף קבצים OneDrive עם אנשים מחוץ לארגון שלך
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>שיתוף קבצים ב- OneDrive עם אנשים מחוץ לארגון שלך
 
 1. השתמש במפעיל היישומים כדי לעבור אל OneDrive בדפדפן האינטרנט שלך. 
     
@@ -31,10 +31,9 @@ ms.locfileid: "54051595"
     
   - **אנשים ספציפיים** מעניקים גישה רק לאנשים שציינת, למרות שאנשים אחרים עשויים כבר לקבל גישה. אם אנשים יעבירו את ההזמנה לשיתוף, רק אנשים שכבר יש להם גישה לפריט יוכלו להשתמש בקישור. 
     
-    > [!NOTE]
-    > אם אחת מאפשרויות אלה אינה זמינה, או אם ברצונך שסוג קישור אחר יופיע כברירת מחדל, באפשרותך לשנות את ההגדרות של הארגון כולו על-ידי OneDrive הניהול ולחיצה **על** שיתוף בחלונית הימנית. [מידע נוסף](https://go.microsoft.com/fwlink/?linkid=871961)
+    **הערה**: אם אחת מאפשרויות אלה אינה זמינה, או אם ברצונך שסוג קישור אחר יופיע כברירת מחדל, באפשרותך לשנות את ההגדרות של הארגון כולו על-ידי OneDrive הניהול ולחיצה על **שיתוף** בחלונית הימנית. [מידע נוסף](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. כברירת **מחדל, אפשר עריכה** מופעלת. אם ברצונך שאנשים יתו את הקבצים שלך בלבד, בטל את סימון תיבת הסימון. 
+4. כברירת מחדל, **אפשר עריכה** מופעלת. אם ברצונך שאנשים יתו את הקבצים שלך בלבד, בטל את סימון תיבת הסימון. 
     
 5. הזן את שמות האנשים שאיתם ברצונך לשתף והודעה, אם תרצה.
     

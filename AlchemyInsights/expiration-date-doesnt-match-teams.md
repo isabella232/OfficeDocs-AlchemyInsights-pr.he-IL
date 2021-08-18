@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76bf82780ad74c4ecc7077b26d3bd9c88f3957842685bcd683d7b2bbaf3a26fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813437"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117737"
 ---
 # <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>תאריך התפוגה של הצוות והקבוצה ההוותה לא תואמים
 
-לפני חידוש צוות, הקבוצה שת גבה את הצוות מתחדשת תחילה. כחלק מהתחדשות, תאריך תפוגה חדש מוגדר בקבוצה עבור תאריך עתידי. ייתכן שתאריך חדש זה לא יהיה גלוי באופן מיידי ב- Teams. סינכרון יכול לאסוף עד 24 שעות. אם אתה רואה אי התאמה בין תאריך התפוגה של צוות לקבוצה שלו, המתן 24 שעות לפני שתחפש תמיכה נוספת.  
+לפני חידוש צוות, הקבוצה שת גבה את הצוות מתחדשת תחילה. כחלק מהתחדשות, תאריך תפוגה חדש מוגדר בקבוצה עבור תאריך עתידי. ייתכן שתאריך חדש זה לא יהיה גלוי באופן מיידי Teams. סינכרון יכול לאסוף עד 24 שעות. אם אתה רואה אי התאמה בין תאריך התפוגה של צוות לקבוצה שלו, המתן 24 שעות לפני שתחפש תמיכה נוספת.  
 
-לקבלת [מידע נוסף, ראה תפוגת צוות וחידוש](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  ב- Microsoft Teams.
+ראה [תפוגת צוות וחידוש Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal) לקבלת מידע נוסף.

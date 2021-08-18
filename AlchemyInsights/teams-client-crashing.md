@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: a292e160abcfc26ffebc454d32ee489a319a23f4bb81e70fe5dbe72bfd0b8b81
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: bef16351b55ac4765539d66ab86a71183f66f0dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890339"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321626"
 ---
 # <a name="teams-client-crashing"></a>Teams לקוח קורס
 
@@ -38,7 +38,9 @@ ms.locfileid: "57890339"
 1. השתמש במקליט השלבים כדי ללכוד את השלבים שלך.
     - סגור את ALL יישומים לא נחוצים או סודיים.
     - הפעל את מקליט השלבים ושכפול הבעיה בעת כניסה באמצעות חשבון המשתמש המושפע.
-    - [אסוף את יומני הרישום של הצוותים שלכודים את שלבי השכפול המוקלטים.](https://docs.microsoft.com/microsoftteams/log-files) **הערה:** הקפד ללכוד את כתובת הכניסה של המשתמש מושפע.
+    - [אסוף את יומני הרישום של הצוותים שלכודים את שלבי השכפול המוקלטים.](https://docs.microsoft.com/microsoftteams/log-files) 
+    
+    **הערה:** הקפד ללכוד את כתובת הכניסה של המשתמש מושפע.
     - אסוף את פרטי ה- dump ו/או הדלי של תקלות (Windows). הפעל Windows Powershell במחשב שבו מתרחשת קריסה ולהפעיל את הפקודות הבאות (לאחר כל פקודה, הקש Enter):
 
     `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`

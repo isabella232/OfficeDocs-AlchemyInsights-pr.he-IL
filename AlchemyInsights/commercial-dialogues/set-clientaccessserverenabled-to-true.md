@@ -13,24 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fc953813a94c9ed3226f81f776d6085e12a6cafc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994866"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320357"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>הגדרת ClientAccessServerEnabled ל- True
 
-אם אינך יכול לפתוח הודעת דואר אלקטרוני מוצפנת ובמקום זאת לראות קובץ **מצורף rpmsg,** בצע את השלבים הבאים:
+אם אינך יכול לפתוח הודעת דואר אלקטרוני מוצפנת ובמקום זאת לראות קובץ **מצורף של rpmsg,** בצע את השלבים הבאים:
 
 1. התחברות כדי Exchange Online PowerShell.
 
-> [!NOTE]
-> כדי להתחבר Exchange Online PowerShell, עליך להיכנס באמצעות מנהל מערכת כללי או Exchange מנהל מערכת.
+    **הערה**: כדי להתחבר Exchange Online PowerShell, עליך להיכנס באמצעות מנהל מערכת כללי או Exchange מנהל מערכת.
 
    a. פתח Windows PowerShell ולאחר מכן הפעל את הפקודה הבאה:`$UserCredential = Get-Credential`
-b. בתיבת **הדו-שיח Windows PowerShell אישור,** הזן את החשבון והסיסמה שלך בעבודה או בבית הספר, ג. לחץ על **אישור**. 
+   b. בתיבת **הדו-שיח Windows PowerShell אישור,** הזן את החשבון והסיסמה שלך בעבודה או בבית הספר, ג. לחץ על **אישור**. 
 
 2. הפעל את הפקודה הבאה כדי ליצור הפעלה חדשה:
 
@@ -46,8 +45,7 @@ b. בתיבת **הדו-שיח Windows PowerShell אישור,** הזן את הח�
 
     a. אם **ההגדרה ClientAccessServerEnabled** מוגדרת ל- **False**, הפעל את ה- cmdlet הבא: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
-> [!TIP]
-> סגור תמיד את הפעלת Powershell באמצעות הפקודה הבאה: `Remove-PSSession $Session`
+**עצה**: סגור תמיד את הפעלת Powershell באמצעות הפקודה הבאה: `Remove-PSSession $Session`
 
 לקבלת מידע נוסף, [ראה Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896112"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320490"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>תיקון כללי רשימת כתובת שולח/תחום
 
 אחד ממדיניות האנטי-דואר זבל שלך השפיע על הודעה זו. שולח ההודעה נמצא ברשימה אפשר או חסום. כדי לסקור את פריטי המדיניות, בצע את השלבים הבאים:
 
-1. בפורטל Microsoft 365 Defender ב- , עבור אל מדיניות שיתוף פעולה & דואר אלקטרוני & מדיניות איומים של כללים למניעת דואר <https://security.microsoft.com/>  \>  \>  \>  זבל **במקטע מדיניות.**
+1. בפורטל Microsoft 365 Defender ב- , עבור אל מדיניות שיתוף פעולה & דואר אלקטרוני & כללים מדיניות איומים נגד דואר <https://security.microsoft.com/>  \>  \>  \>  זבל **במקטע מדיניות.**
 
    כדי לעבור ישירות לדף **מדיניות למניעת דואר זבל,** השתמש <https://security.microsoft.com/antispam> ב- .
 

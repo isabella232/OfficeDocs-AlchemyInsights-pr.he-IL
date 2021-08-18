@@ -1,5 +1,5 @@
 ---
-title: קביעת תצורה של מדיניות שמירה עבור Teams אחרים
+title: קביעת תצורה של מדיניות שמירה עבור Teams תיבות דואר
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 21b06a9b5e836fa83f4d37617857eabb6289c30771d69225de662415d513d720
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 4f7c7ad539a90204256911017bfd68a1f77b0072
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890147"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321194"
 ---
-# <a name="configure-retention-policies-for-teams-locations"></a>קביעת תצורה של מדיניות שמירה עבור Teams אחרים
+# <a name="configure-retention-policies-for-teams-locations"></a>קביעת תצורה של מדיניות שמירה עבור Teams תיבות דואר
 
 כדי לקבוע תצורה של מדיניות שמירה עבור Teams:
 
@@ -28,7 +28,7 @@ ms.locfileid: "57890147"
 
 1. תחת **מדיניות שמירה**, בחר מדיניות שמירה **חדשה**, שם המדיניות שלך ולאחר מכן בחר **הבא**.
 
-1. בחר את האפשרויות הרצויות: Teams **צ'אטים Teams** הודעות ערוץ , או את שתיהן ולאחר מכן בחר **הבא**. 
+1. בחר את האפשרויות הרצויות: **Teams צ'אטים** **Teams** הודעות ערוץ , או את שתיהן ולאחר מכן בחר **הבא**.
 
 1. קבע את תצורת הגדרות השמירה שלך. 
 

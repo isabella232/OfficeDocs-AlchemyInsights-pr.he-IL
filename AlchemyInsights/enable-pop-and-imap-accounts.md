@@ -1,5 +1,5 @@
 ---
-title: 934 הפיכת חשבונות POP ו-IMAP לזמינים
+title: 934 הפוך חשבונות POP ו- IMAP לזמינים
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 934
 ms.assetid: 2e07bd5a-5aad-41a9-aaba-6b2bedaf92f9
-ms.openlocfilehash: bc0ffa7f014e3a329deb8b56ca73148922c18d72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b0339fec72c9c94f89fa332eee4603963f33229411c59f78282b24e0c7f586
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709656"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118025"
 ---
-# <a name="pop-and-imap4-settings"></a>הגדרות POP ו-IMAP4
+# <a name="pop-and-imap4-settings"></a>הגדרות POP ו- IMAP4
 
-כדי לאתר את הגדרות שרת POP3 ו-IMAP4 עבור תיבת הדואר שלך, ראה [הגדרות דואר אלקטרוני של POP ו-IMAP עבור Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+כדי למצוא את הגדרות שרת POP3 ו- IMAP4 עבור תיבת הדואר שלך, ראה [הגדרות דואר אלקטרוני מסוג POP ו- IMAP עבור Outlook.](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)
 
-מנהלי מערכת יכולים להפעיל ולקבוע תצורה של POP3 ו-IMAP4 בארגוני Exchange מקומיים. לקבלת מידע נוסף, ראה [הפיכת POP3 בשרתי exchange לזמין וקביעת](https://technet.microsoft.com/library/bb124934.aspx) התצורה של [IMAP4 בשרתי exchange](https://technet.microsoft.com/library/bb124489.aspx).
+מנהלי מערכת יכולים להפוך את POP3 ו- IMAP4 לזמינים ולקבוע את תצורתם Exchange מקומיים. לקבלת מידע נוסף, ראה הפיכת POP3 לזמין [ולקבוע את תצורתו בשרתי Exchange](https://technet.microsoft.com/library/bb124934.aspx) והגדרה של [IMAP4 בשרתי Exchange .](https://technet.microsoft.com/library/bb124489.aspx)
