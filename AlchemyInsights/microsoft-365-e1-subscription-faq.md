@@ -3,7 +3,7 @@ title: שאלות נפוצות בנושא מנוי של Microsoft 365 E1
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002870"
 - "5407"
-ms.openlocfilehash: 0a93db6dff637d4f930e11645edb194a36ed0b1164474d8a2d69ee97d5d5a6c6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 970055eec05fd2ed096a8da6bddd1669f0d0da9a
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925058"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451059"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>שאלות נפוצות בנושא מנוי וניהול רישיונות של Microsoft 365 E1
 
