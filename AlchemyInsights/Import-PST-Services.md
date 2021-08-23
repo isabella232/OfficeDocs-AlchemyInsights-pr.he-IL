@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: ייבוא שירות במרכז Office 365 אבטחה & תאימות
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312724"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418150"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 ייבוא שירות
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>ייבוא שירות במרכז Office 365 אבטחה & תאימות
 
-כדי לגשת לשירות הייבוא ולהתחיל את תהליך הייבוא:
+Office 365 שירות הייבוא מאפשר לך לייבא קבצי PST מרובים לתוך תיבות Exchange Online המשתמשים. השתמש בשירות ייבוא כדי לייבא קבצי PST בצובר לארגון שלך באמצעות האפשרות **העלאה ברשת** או **כונן משלוח.**
 
-1. עבור אל [מרכז התאימות של M365](https://compliance.microsoft.com/)והירשם באמצעות האישורים עבור חשבון מנהל מערכת בארגון שלך.
+כדי לגשת לשירות הייבוא וכלים לייבוא קבצי PST מרובים:
 
-1. בחלונית הימנית של מרכז התאימות של M365 תחת **פתרונות,** בחר **ייבוא פיקוח**  >  **על מידע**.
+1. עבור אל [Office 365 אבטחה &](https://protection.office.com)תאימות , והירשם באמצעות חשבון Office 365 שלך.
+1. בחר **פיקוח על נתונים**, בחר **ייבוא** ובצע את השלבים באשף. 
 
-1. בדף **ייבוא,** בחר משימה **חדשה לייבוא**. הזן שם משימה ובחר **הבא**.
+לקבלת מידע נוסף והוראות מפורטות לייבוא קבצי PST מרובים, ראה מבט כולל על ייבוא קבצי [ה- PST של הארגון שלך.](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365)
 
-1. בחר **Upload הנתונים שלך כדי** להשתמש באפשרות העלאת הרשת עבור סוג המשימה **ייבוא**. לקבלת שלבים מפורטים, [ראה שימוש בהעלאת רשת כדי](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)לייבא קבצי PST של הארגון שלך Microsoft 365 .
-
-כדי לגשת **לדף** ייבוא, ודא שהוקצו לך ההרשאות המתאימות. לקבלת מידע נוסף, ראה [שימוש בהעלאת רשת לייבוא קבצי PST](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
-
-אם ברצונך לייבא PST לתיבת הדואר שלך, ראה [ייבוא דואר אלקטרוני, אנשי קשר ולוח שנה מקובץ .pst של Outlook .](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
-
-אם אתה נתקל בבעיה בייבוא, ראה בעיות [המשפיעות על משימות ייבוא PST](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
+לייבוא קובץ PST יחיד, ראה ייבוא [וייצוא של Outlook דואר אלקטרוני, אנשי קשר ולוח שנה](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac).
 

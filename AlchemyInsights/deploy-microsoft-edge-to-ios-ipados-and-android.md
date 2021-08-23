@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+- "13637"
+- "9008577"
+ms.openlocfilehash: 33a878f104fc0af7be59c59e0b860be173916bd2
+ms.sourcegitcommit: 2be4a0352cb84a703ebf12966e1c17b64df07364
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316875"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361959"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>פריסת Microsoft Edge ל- iOS , iPadOS ו- Android
 
 התרחיש המודרך המסוכם להלן יעזור לך להקצות Microsoft Edge למשתמשים של מכשירי iOS , iPadOS ו- Android.
 
-**הערה**: אם חסמת את ההרשמה של משתמשים למכשירים ניידים, תרחיש מודרך זה לא יעבוד והמשתמשים יתקינו את Microsoft Edge באופן משלהם.
+**הערה:** אם חסמת ממשתמשים לרשום מכשירים ניידים, תרחיש מודרך זה לא יעבוד והמשתמשים יתקינו את Microsoft Edge באופן משלהם.
 
 התרחיש המודרך כרוך בשלבים הבאים:
 
@@ -38,6 +40,6 @@ ms.locfileid: "58316875"
 לאחר השלמת השלבים בתרחיש המודרך, מדיניות Microsoft Intune תפעיל את התכונות הבאות של Microsoft Edge לעסקים:
 
 - זהות כפולה
-- שילוב עם Microsoft Intune הגנה על אפליקציות
+- שילוב עם מדיניות Microsoft Intune יישום הגנה
 - שילוב עם Azure Active Directory Application Proxy
 - קיצורי דרך של מועדפים מנוהלים ודף בית

@@ -1,5 +1,5 @@
 ---
-title: 975 האם אתה רוצה הדוח תוצאה שגויה של דואר זבל ל- Microsoft?
+title: האם אתה רוצה הדוח תוצאה שגויה של דואר זבל ל- Microsoft?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,19 +8,52 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 975
-ms.assetid: ''
-ms.openlocfilehash: f393c111aebed6d5813528a5c11bf8a6f18b68e5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.custom:
+- "975"
+- "666"
+- "3100019"
+ms.openlocfilehash: d3897f24ce9a967b08a3fd15a2fdedbb3fe2a22d
+ms.sourcegitcommit: f05d4caa0e657ee74d6b6e9abc88488f17d740fe
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328531"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "58396616"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>האם אתה רוצה הדוח תוצאה שגויה של דואר זבל ל- Microsoft?
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>האם הודעות לגיטימיות מסומנות כדואר זבל?
 
-כמנהל מערכת, הדרך הטובה ביותר לקבוע מדוע נשלחה הודעת דיוג או דואר זבל היא לשלוח את הדוגמה ל- Microsoft בסייר [ההגשות](https://protection.office.com/reportsubmission). כדי להפוך אותו לקלות יותר, באפשרותך לאפשר למשתמשים שלך הדוח ישירות ל- Microsoft באמצעות [התוספת 'הודעת דוח'](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+היא מתסכלת כאשר הודעת דואר אלקטרוני לגיטימית מסתיימת בתיקיית הזבל או בהסגר. שקול את הסיבות הנפוצות ביותר לתוצאה חיובית שגויה:
 
-אנו ממליצים להיזהר אם תחליט [לעקוף את מסנני Microsoft 365 הזבל.](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
+**עקיפות דיירים (הנפוצות ביותר)** פעולה זו נמצאת בשליטה שלך באופן מלא כדי לתיקון.
 
-**האם ידעת?**: כעת באפשרותך לשלוח [](https://protection.office.com/messagetrace) דוגמאות ישירות מתוך מעקב אחר הודעות ו- E5/Microsoft Defender עבור לקוחות Office 365 תוכנית 2 יכולים לשלוח דוגמאות [מסייר האיומים](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+שלח את ההודעה ב- Microsoft 365 Defender עבור ניתוח כללי המדיניות והחוקים המשפיעים; סק את הפרטים מחדש זמינים תוך דקות.
+סקור או שנה את פריטי המדיניות או הכללים בהתאם לצורך. 
+
+**עוקף משתמש קצה (נפוץ)** פעולה זו נמצאת בשליטה שלך באופן מלא כדי לתיקון. 
+
+שלח את ההודעה ב- Microsoft 365 Defender עבור ניתוח כללי המדיניות והחוקים המשפיעים; סק את הפרטים מחדש זמינים תוך דקות. 
+
+אם הודעה נחסמה מכיוון שהיא נשלחה מכתובת ברשימת השולחים החסומים של משתמש, הכותרות כוללות את פסק הדין של סינון הודעות זבל "SFV:BLK".
+
+**אימות דואר אלקטרוני של שולחים** פעולה זו נמצאת בחלקה בפקד שלך כדי לתיקון.
+
+שלח את ההודעה כדי לנתח כשלים באימות הדואר האלקטרוני של השולח בעת המסירה; התוצאות זמינות תוך יום. 
+
+אם התשתית השולחת בבעלותך, סקור כיצד ליישר אותה עם SPF, DKIM ו- DMARC כדי לוודא שמערכות הדואר האלקטרוני המשמשות כיעד ייתנו אמון בהודעות שנשלחו מהתחום שלך. לחלופין, פנה לשולחים כדי לטפל בתצורות ה- DNS שלהם.
+
+**פסקי דין של סינון Microsoft** פעולה זו נמצאת בחלקה בפקד שלך כדי לתיקון.
+
+שלח את ההודעה הדוח ההודעה כבטוחה; חיפוש מחדש של התוצאות זמין תוך יום. השתמש ברשימת הרשיות/חסימות של דיירים כאשר אינך מסכים עם סינון פסקי דין במצבים מסוימים. עם זאת, אין לעקוף את פסקי הדין של סינון Microsoft לצמיתות. 
+
+לקבלת מידע נוסף, ראה:
+
+- הפוך את משתמשי הקצה שלך לזמינים לשליחת הודעות ל- Microsoft. Microsoft משתמשת בהשלחות אלה כדי לשפר את היעילות של טכנולוגיות הגנה על דואר אלקטרוני, והם מופיעים בדוחות הגשה כדי להשתמש בהם כסימנים לעדכון פריטי מדיניות. 
+
+- כדי לצפות בסרטון וידאו קצר על שליחת הודעות לניתוח, ראה [שליחת הודעות לניתוח](https://go.microsoft.com/fwlink/?linkid=2166435).
+
+- [שימוש בשליחה למנהלי מערכת כדי לשלוח דואר זבל, דיוג, כתובות URL וקבצים חשודים ל- Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+- [ניהול רשימת הרשיות/החסימה של דייר](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-allow-block-list)
+
+- [כותרות הודעות למניעת דואר זבל ב- Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-message-headers)
+
+- [הגנה מפני דואר זבל יוצא ב- EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/outbound-spam-controls)
