@@ -1,26 +1,29 @@
 ---
-title: אין אפשרות לרכוש הצעת EDU
-ms.author: pebaum
-author: pebaum
+title: לא ניתן לרכוש הצעת EDU
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "5989"
 - "1500009"
-ms.openlocfilehash: e3a8db9273fb3146bd798c36c0fa7c0b1a6e7187
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.date: 07/8/2020
+ms.openlocfilehash: 7871da6a81d74ea9a7305d7e02bf1a655f60ce15
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088361"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451851"
 ---
-# <a name="unable-to-purchase-edu-offer"></a>אין אפשרות לרכוש הצעת EDU
+# <a name="unable-to-purchase-edu-offer"></a>לא ניתן לרכוש הצעת EDU
 
-כדי לקבוע אם הארגון שלך זכאי למחירים אקדמיים, עליך [להשלים את תהליך האימות שלנו ולהיכנס לתחום שלך](https://portal.office.com/Adminportal/Home#/Domains/SOWizard). Office 365 A1 עבור משפט הפקולטה ו-Office 365 A1 עבור משפט סטודנטים זמינים לשימוש בעת המתנה לסקירת הזכאות לארגון.
+כדי לקבוע אם הארגון שלך עומד בדרישות עבור מחירים אקדמיים, עליך [להשלים את תהליך האימות שלנו ולהזין את התחום שלך](https://admin.microsoft.com/Adminportal#/Domains/SOWizard). גירסאות הניסיון של Office 365 A1 לסגל ושל Office 365 A1 לסטודנטים זמינות לשימוש בעת המתנה לסקירה של הזכאות של הארגון שלך.
 
-כדי לרכוש את Microsoft 365 מסחרית, ראה [הצעות זמינות](https://go.microsoft.com/fwlink/p/?linkid=868433).
+כדי לרכוש Microsoft 365 באופן מסחרי, ראה [הצעות זמינות](https://go.microsoft.com/fwlink/p/?linkid=868433).
