@@ -14,23 +14,19 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: aca0371dad9ba43fa21b0df8e50f1b8ee536528af90d6bda401995c6e5796be4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4938b889461f85ad32eae125151c2cc94879cd8b
+ms.sourcegitcommit: 02562a6796d58991c7238ec81053c23633b3f823
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54056491"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522355"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>קבלת תיבת דואר לא נמצאה שגיאה Outlook באינטרנט?
 
-אם אתה משתמש ב- Outlook באינטרנט ואתה מקבל תיבת דואר לא היתה אפשרות למצוא עבור **שגיאה,** החשבון שהשתמשת בו כדי להתחבר ל- Outlook באינטרנט אינו כולל רשיון Exchange Online ולכן, לא משויכת תיבת דואר לחשבון. מנהל המערכת יכול להקצות רשיון לחשבון שלך על-ידי ביצוע השלבים הבאים:
+אם אתה מקבל שגיאת Outlook Web App (OWA) : "לא היתה אפשרות למצוא תיבת דואר עבור משתמש .", פירוש הדבר שהמשתמש המחובר אינו כולל רשיון Onlince ו- sp של Exchange, אין תיבת דואר Exchange Online משויכת לחשבון משתמש זה. 
 
-1. פתח [את מרכז הניהול של Microsoft 365](https://portal.office.com/adminportal/home#/homepage) עבור אל **משתמשים פעילים** תחת **המקטע** משתמשים ובחר את המשתמש ש רואה את השגיאה.
+מנהל ארגון יכול להקצות רשיון Exchange למשתמש באמצעות מרכז הניהול של Microsoft 365 על-ידי ביצוע השלבים הבאים:
 
-2. בדף המשתמש שנפתח, עבור אל המקטע רשיונות **ואפליקציות,** בחר את ערך המיקום המתאים והקצה רשיון המכיל Exchange Online (הרחב את הרשיון כדי לראות את הפרטים שלו).  כשתסיים, לחץ על **שמור שינויים.**
-
-במקרים מסוימים, אם הרשיון כבר מוקצה לחשבון משתמש, הסרה והקצאה מחדש של הרשיון עוזרת לפתור את הבעיה ולהקצה אותה כראוי למערכת: 
-
-- בדוק אם מנויי M365 Exchange Online (ועוד, אם יש לך) מנויים עדכניים ולא פג תוקף לאחרונה.
-
-לאחר שנוודא שתוקף המנוי שלך לא פג ורשיון חוקי הוקצה לחשבון המשתמש, ייתכן שהרשיון ימתין עד 24 שעות, ולכן ייתכן שיהיה עליך להמתין עד שהבעיה תיפתר. לקבלת מידע נוסף, ראה [הקצאה וניהול של רשיונות](https://docs.microsoft.com/deployoffice/overview-licensing-activation-microsoft-365-apps#assign-and-manage-licenses).
+1. עבור אל [משתמשים פעילים](https://portal.office.com/adminportal/home#/users), בחר את המשתמש ובחר **ערוך רשיונות**  >  **מוצר**. 
+1. הגדר את המיקום הנדרש.
+1. הקצה רשיון בעל תוכנית שירות Exchange Online חדשה.
