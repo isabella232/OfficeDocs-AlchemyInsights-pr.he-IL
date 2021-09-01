@@ -3,7 +3,6 @@ title: קניית מנוי ל- Microsoft 365 לעסקים מ גירסת הניס
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +14,18 @@ ms.custom:
 - commerce_purchase
 - "257"
 - "1400007"
+ms.date: 08/10/2021
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: ca5e927ad200d6cbf47e2ff58a9c74b17fe70532
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1ea808a1d98ade11fc65ef9cafed8d71a79ed347
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325768"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845071"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>קניית מנוי ל- Microsoft 365 גירסת הניסיון ללא תשלום
 
-ניסית את Microsoft 365, וכעת אתה מוכן לקנות. יש לך שתי אפשרויות בעת קניית Microsoft 365 גירסת הניסיון שלך:
+ניסית Microsoft 365, וכעת אתה מוכן לקנות. יש לך שתי אפשרויות בעת קניית Microsoft 365 גירסת הניסיון שלך:
   
  **קניית תוכנית זהה לגירסת הניסיון**
   
