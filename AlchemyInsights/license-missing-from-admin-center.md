@@ -1,26 +1,29 @@
 ---
-title: רשיון חסר או נעלם ממרכז הניהול
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: הרישיון חסר או נעלם ממרכז הניהול
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
+ms.reviewer: argani, nicholak
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003038"
 - "5800"
-ms.openlocfilehash: 90c6a9bf73148fbd91573972f8d64f5f63af5164
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.date: 08/05/2021
+ms.openlocfilehash: b2e9290806465bf0d1f862ed4e91a9bfd6a84b88
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707841"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844531"
 ---
-# <a name="license-missing-or-disappears-from-the-admin-center"></a>רשיון חסר או נעלם ממרכז הניהול
+# <a name="license-missing-or-disappears-from-the-admin-center"></a>הרישיון חסר או נעלם ממרכז הניהול
 
+אם הרישיונות שלך נעלמו, ודא שתוקפו של המנוי שלך לא פג. כדי לבדוק את תאריך התפוגה, עבור אל **חיוב** > [המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-אם הרשיונות שלך נעלמו, ודא שהמנוי שלך לא פג. כדי לבדוק את תאריך התפוגה, עבור **לחיוב**   >   **[המוצרים שלך](https://go.microsoft.com/fwlink/p/?linkid=842054)**.  
-
-בהתאם לתצוגה, תאריך התפוגה יופיע **בתאריך** הימני של העמודה המסומנת בתווית או **במקטע החיוב** של פרטי המנוי שלצד **תפוגת**התוקף.
+תאריך התפוגה מופיע בעמודה **מצב מנוי**.
