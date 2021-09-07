@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978162"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923555"
 ---
 # <a name="endpoint-manager---security-baselines"></a>תכניות בסיסיות של EndPoint Manager - Security
 
@@ -37,6 +37,8 @@ ms.locfileid: "53978162"
 ראו הדרכה על השינויים היעילים ביותר לכל גרסה של תכנית בסיסית כאן [Manage security baseline profiles in Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 לאחר התקנת תוכנית אבטחה בסיסית באפשרותך לנטר את מצב ההתקנה ולבחון מחדש הגדרות של מכשיר אחר מכשיר.
+
+מאחר שהגדרות בסיסיות האבטחה מכילות הגדרות רבות, חשוב לסקור את שינויי התצורה ולבצע בדיקות כדי לוודא שכל ההגדרות מתאימות למכשירים ולצרכים העסקיים שלך.
 
 **שים לב:** ייתכן שיחלפו עד 24 שעות עד הופעתם של נתוני דיווח על תוכניות בסיסיות מהתקנה הראשונית במכשיר. בעדכונים נוספים, עד שש שעות. 
 

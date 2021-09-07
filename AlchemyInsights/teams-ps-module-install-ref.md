@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: 43eb15a49fe5f47aa524a6b3fd5cba39dfaa0bbb5e5c0643df90ae37b33dd1f4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae462a989aaa514ae30d6f4a9a1fb9e8196e40bc
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53956546"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923591"
 ---
 # <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>מה ניתן לבצע באמצעות מודול Microsoft Teams PowerShell
 
@@ -25,5 +25,6 @@ ms.locfileid: "53956546"
 
 לקבלת מידע נוסף:
 
-- סקור את [Teams של PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) כדי להבין יכולות תפקיד מנהל [מערכת](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles), [ליצור ולנהל צוותים](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)באמצעות Powershell ולנהל [פריטי מדיניות](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) [או תצורות.](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) 
+- לקבלת מידע אודות העברה, ראה [העברה ממחבר Skype for Business למחבר ה- Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-move-from-sfbo#how-to-migrate).
+- סקור את [Teams של PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) כדי להבין יכולות תפקיד מנהל [מערכת](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles), ליצור ולנהל צוותים באמצעות [Powershell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell), [ולנהל פריטי מדיניות](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) או [תצורות](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell). 
 - סקור [את Microsoft Teams של PowerShell לקבלת](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) רשימה של פקודות הזמינות באמצעות PowerShell. 
