@@ -13,26 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792803"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923519"
 ---
 # <a name="activating-office-365-applications-on-windows-365-pcs"></a>הפעלת יישומי Office 365 במחשבי Windows 365
 
-Windows 365 תמונות PC כוללות עותקים מותקנים של Office 365 יישומים, המופעלים בעת פתיחת אחד מיישומי Office בפעם הראשונה.
+**הערה:** בעיה זו אינה חלה על משתמשים בעלי Windows 365 Enterprise.
 
-במהלך תהליך ההפעלה, משתמש בעל רשיון Windows 365 Business עשוי להיתקל בשגיאה הבאה:
+תמונות מחשב של Windows 365 כוללות עותקים מותקנים של יישומי Office 365, המופעלים בעת פתיחת אחד מיישומי Office בפעם הראשונה.
 
-"בעיית חשבון
+במהלך תהליך ההפעלה, משתמש בעל רישיון Windows 365 לעסקים עשוי להיתקל בשגיאה הבאה:
 
-לא ניתן להשתמש במוצרים שמצאנו בחשבון שלך כדי להפעיל את Office בתרחישי מחשב משותפים קוד שגיאה 0x80004005"
+"בעיה בחשבון
+
+לא ניתן להשתמש במוצרים שמצאנו בחשבון שלך להפעלת Office בתרחישי מחשב משותפים קוד שגיאה 0x80004005"
 
 כדי לפתור בעיה זו, בקש מהמשתמש המושפע לבצע את השלבים הבאים: 
 
-1. הסר את ההתקנה Office יישומים קיימים מהמחשב הענן.
-1. עבור אל Office.com ובחר את האפשרות כדי להתקין Office.
+1. הסר את ההתקנה של יישומים קיימים של Office ממחשב הענן.
+1. עבור אל Office.com ובחר את האפשרות להתקין את Office.
 
-    Office ההפעלה אמורה להסתיים בהצלחה.
+    הפעלת Office אמורה להסתיים בהצלחה.
