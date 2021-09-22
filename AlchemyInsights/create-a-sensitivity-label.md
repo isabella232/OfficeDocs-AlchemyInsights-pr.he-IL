@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11014"
 - "9000181"
-ms.openlocfilehash: eb584743a717246f761b9d9c3d40dd546e4b9630b852c70b45165edcc29e5859
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ff7078f3d1604fa34533b8eb0c0b9430ba3637ed
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54032523"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475254"
 ---
 # <a name="how-to-create-a-sensitivity-label"></a>כיצד ליצור תווית רגישות
 
-1. עבור אל Microsoft 365 התאימות של > **מידע**  >  **הגנה**.
+1. עבור אל Microsoft 365 תאימות מרכז > **תוויות הגנה**  >  **על מידע**.
 
 1. בחר **+ צור תווית כדי** להפעיל את אשף תוויות רגישות חדשה.
 
@@ -35,3 +35,5 @@ ms.locfileid: "54032523"
 1. לאחר יצירת כל התוויות הדרושות לך, סקור את ההזמנה שלהן, ואם יש צורך בכך, הזז אותן למעלה או למטה. 
     
     כדי לשנות את סדר התווית, בחר את שלוש הנקודות (פעולות נוספות) ולאחר מכן בחר **הזז למעלה או** הזז **למטה**.
+
+לקבלת מידע נוסף, ראה [יצירה והגדרה של תוויות רגישות ומדיניות שלהן.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
