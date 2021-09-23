@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105569"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481791"
 ---
 # <a name="troubleshoot-content-search-errors"></a>פתרון בעיות של שגיאות חיפוש תוכן
 
 האם אתה נתקל בבעיות בחיפוש תוכן או מקבל כשלים בעת ייצוא תוצאות חיפוש?
-
 לדוגמה, האם אתה מקבל את הפעולות הבאות בעת הפעלת חיפושים?
 
-- שגיאות CS008 או CS012
+- שגיאות CS007 , CS008 או CS012
 
 - שגיאות זמן קצוב/לא פנוי בשרת
 
 - אירעה שגיאת יישום
 
-לחלופין, בעת חיפוש או ייצוא של תוצאות ממספר גדול של תיבות דואר (מעל 100,000 תיבות דואר), האם אתה מקבל שגיאות ייצוא?
+לחלופין, האם אתה מקבל שגיאות ייצוא בעת חיפוש או ייצוא של תוצאות ממספר גדול (מעל 100,000) של תיבות דואר?
 
-עבור סוגים אלה של שגיאות, נסה שוב לחפש את מיקומי התוכן שנכשלו. עיין  [במאמר זה](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) לקבלת מידע נוסף.
+עבור שגיאות אלה, נסה שוב לחפש את מיקומי התוכן שנכשלו או עדכנו את החיפוש על-ידי צמצום המורכבות של שאילתת החיפוש. לדוגמה, חיפוש בכרטיסים כלליים עשוי להחזיר תוצאות רבות מדי כדי שהמערכת תעבד, דבר הגורם לשגיאה CS007.   
 
-אם אתה מייצא יותר מ- 100,000 תיבות דואר, יהיה עליך להשתמש ב- Powershell הבא כדי להוריד את תוצאות הייצוא: ייצוא תוצאות ביותר מתיבות דואר של  [100K](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+לקבלת מידע נוסף, ראה [ניסיון חוזר של חיפוש תוכן כדי לפתור](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) שגיאת מיקום תוכן או חקירה, פתרון בעיות ופתרון בעיות נפוצות של גילוי [אלקטרוני.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)
+
+אם אתה מייצא יותר מ- 100,000 תיבות דואר, תצטרך להוריד את תוצאות הייצוא. לקבלת פרטים, ראה [ייצוא תוצאות חיפוש תוכן](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
