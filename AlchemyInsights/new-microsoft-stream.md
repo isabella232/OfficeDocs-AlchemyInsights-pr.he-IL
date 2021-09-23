@@ -1,5 +1,5 @@
 ---
-title: מעבר מ- Microsoft Stream (קלאסי) ל- Microsoft Stream החדש
+title: מעבר מ- Microsoft Stream (קלסי) אל Microsoft Stream החדש
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
+ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097379"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59482669"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream הוא שירות וידאו ארגוני שבו אנשים בארגון שלך יכולים להעלות, להציג ולשתף סרטוני וידאו באופן מאובטח. באפשרותך לשתף הקלטות של כיתות, פגישות, מצגות, הפעלות הדרכה או סרטוני וידאו אחרים המסייעים לשיתוף הפעולה של הצוות שלך.  
+חזון חדש עבור Microsoft Stream מאפשר למשתמשים ליצור, לשתף, לגלות ולנהל וידאו בדיוק כפי שהם היו עושים כל קובץ אחר. לקבלת מידע נוסף, ראה:
 
-- [הזרימה החדשה של Microsoft](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (קלאסי)](https://docs.microsoft.com/stream/overview)
-- [מעבר מ- Microsoft Stream (קלאסי) ל- Microsoft Stream החדש](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (שנבנה SharePoint), הגירסה החדשה של Microsoft Stream](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [מבט כולל על העברה מ- Microsoft Stream (קלסי) אל Stream (מבוסס על SharePoint)](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)
