@@ -1,5 +1,5 @@
 ---
-title: פריסת יישומי Microsoft 365 לארגונים לשימוש משותף ב- RDS , Terminal Server או VDI
+title: פריסת יישומי Microsoft 365 לשימוש משותף ב- RDS , Terminal Server או VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: he-IL
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60041007"
+ms.locfileid: "60077251"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>פריסת יישומי Microsoft 365 לארגונים לשימוש משותף ב- RDS , Terminal Server או VDI
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>פריסת יישומי Microsoft 365 לשימוש משותף ב- RDS , Terminal Server או VDI
 
 כדי לפרוס יישומי Microsoft 365 שירותי שולחן עבודה מרוחק (RDS), בעבר שירותי מסוף, עליך:
 
@@ -28,7 +28,7 @@ ms.locfileid: "60041007"
 - יש לך תוכנית הכוללת את יישומי Microsoft 365 לארגונים (בעבר Office 365 Plus). לדוגמה, Office 365 E3 או Microsoft 365 E5, או כל תוכנית הכוללת את גירסת שולחן העבודה של Project או Visio, כגון Project תוכנית 3 או Visio תוכנית 2, או תוכנית Microsoft 365 Business Premium, הכוללת גם יישומי Microsoft 365 לעסקים.
 - הפוך הפעלת מחשב משותפת לזמינה. לקבלת מידע נוסף, ראה [מבט כולל על הפעלת מחשב משותפת עבור יישומי Microsoft 365](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-**הערה:** כדי להתקין יישומי Microsoft 365 במצב הפעלת מחשב משותף, הורד והפעל את [Microsoft מסייע התמיכה והשחזור.](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds) לקבלת פרטים על דרישות מוקדמות, הוראות הגדרה והדרכה להתאמה אישית של התקנות באמצעות כלי הפריסה של Office, [ראה פריסת יישומי Microsoft 365 באמצעות שירותי שולחן עבודה מרוחק](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services).
+**הערה:** כדי להתקין יישומי Microsoft 365 במצב הפעלה של מחשב משותף, הורד והפעל את [Microsoft מסייע התמיכה והשחזור.](https://aka.ms/SaRA_OfficeSCA_M365Portal) לקבלת פרטים על דרישות מוקדמות, הוראות הגדרה והדרכה להתאמה אישית של התקנות באמצעות כלי הפריסה של Office, [ראה פריסת יישומי Microsoft 365 באמצעות שירותי שולחן עבודה מרוחק](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services).
 
 כדי לתקן שגיאות הקשורות להפעלת מחשב משותף, ראה:
 
@@ -45,7 +45,7 @@ ms.locfileid: "60041007"
 
 1. בשרת RDS, היכנס אל מרכז הניהול של Microsoft 365 עם חשבון מנהל המערכת שלך [והתקן Office.](https://portal.office.com/OLS/MySoftware.aspx)
 
-   לאחר Office, אל תפתח או היכנס ליישומים Office אחרים.
+   לאחר Office מותקן, אל תפתח או היכנס ליישומים Office אחרים.
 
 1. בשרת RDS, הפוך הפעלת מחשב משותף לזמינה על-ידי עריכת הרישום:
 
@@ -53,8 +53,8 @@ ms.locfileid: "60041007"
 
    1. כאשר תתבקש לאפשר לעורך הרישום לבצע שינויים במכשיר שלך, בחר **כן**.
 
-   1. בעורך הרישום, תחת HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration, הוסף ערך מחרוזת **של SharedComputerlicensing** עם הגדרה של **1** .
+   1. בעורך הרישום, תחת HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration, הוסף ערך מחרוזת של **SharedComputerensing** עם הגדרה של **1** .
 
 1. בשרת RDS, היכנס כמשתמש קצה וודא שהפעלת מחשב משותפת זמינה עבור יישומי Microsoft 365. 
 
-   לקבלת פרטים, [ראה אימות הפעלת מחשב משותפת זו זמינה עבור יישומי Microsoft 365.](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation#verify-that-shared-computer-activation-is-enabled-for-microsoft-365-apps)
+   לקבלת פרטים, [ראה אימות הפעלת מחשב משותפת זו זמינה עבור יישומי Microsoft 365](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation#verify-that-shared-computer-activation-is-enabled-for-microsoft-365-apps).
