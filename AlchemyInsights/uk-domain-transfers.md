@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
-ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
+ms.openlocfilehash: 70c7e57f75e80703c82835ad64fb3ea23443012c
+ms.sourcegitcommit: 6332962732a3616605237b0a8ec1cf198d409985
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60077215"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60102366"
 ---
 # <a name="uk-domain-transfers"></a>העברות תחום של .uk
 
 העברות תחומים בבריטניה דורשות את תג ה- IPS של הרשם החדש. ניתן להזין את תגית IPS באשף העברת התחומים בפורטל הניהול של Microsoft:
 
-- עבור אל **הגדרות**, לחץ פעמיים על התחום ובחר באפשרות העבר תחום כדי  >   **להפעיל** את אשף ההעברה.
+- עבור אל **הגדרות**, לחץ פעמיים על התחום ובחר באפשרות העבר תחום כדי  >  [](https://admin.microsoft.com/#/Domains) **להפעיל** את אשף ההעברה.
 
 לאחר שינוי התגית, התחום מעביר באופן מיידי לרשם החדש. לאחר מכן, עליך לעבוד עם הרשם החדש כדי להשלים את ההעברה, לשלם דמי העברה ולהוסיף את התחום שהועבר לחשבון שלך עם הרשם החדש שלך.
 
