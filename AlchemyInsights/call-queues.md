@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 119496a2a13b4b07bf954702eed95e29984358f03114ed42d44c26a422292836
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5487891259d2792a908ddf09cfb0afe2bcbd5406
+ms.sourcegitcommit: 06e4a1b63b36767fbef56d5031b7ebea44d15e67
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54103913"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131895"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>תורי שיחה ב- Microsoft Teams וב- Skype for Business 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>תורי שיחה ב- Microsoft Teams ו- Skype for Business 
 
-כדי להתחיל להשתמש בתורי שיחה, עיין בקישורים הבאים.
+תורי שיחה דורשים חשבונות רישוי ומשאבים ספציפיים. לקבלת פרטים, ראה [תכנון עבור Teams ניתוב שיחות ותארי שיחות: דרישות מוקדמות]( https://docs.microsoft.com/microsoftteams/plan-auto-attendant-call-queue#prerequisites . 
 
-- [יצירת תור שיחה בענן](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [מענה לשיחות של מערכת ניתוב שיחות ותור שיחות ישירות Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+כדי ללמוד אודות יצירה והגדרה של תורי שיחה ב- Microsoft Teams, [ראה יצירת תור שיחה](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue). 
+
+לקבלת מידע נוסף, ראה [מענה לשיחות של מערכת ניתוב שיחות ותור שיחות ישירות Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
